@@ -15,8 +15,8 @@ INACTIVE_THRESHOLD_DAYS = 60
 BASE_URL = "https://github.com/KSaifStack/jobscraper/blob/main/"
 
 # Max character lengths before truncation
-MAX_COMPANY_LEN = 40
-MAX_ROLE_LEN    = 80
+MAX_COMPANY_LEN = 24
+MAX_ROLE_LEN    = 60
 
 # Blocked companies
 BLOCKED_COMPANIES: set[str] = {}
@@ -94,14 +94,21 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str) -> 
 
 
 def build_table(rows: list[str]) -> str:
-    """Wrap rows in a full HTML table and restrict total width to 100% to prevent overflow."""
+    """Wrap rows in a full HTML table and keep it within GitHub's viewport width."""
     return (
-        '<table width="100%">\n<thead>\n<tr>\n' 
-        '<th width="15%">Company</th>\n'
-        '<th width="45%">Role</th>\n'
-        '<th width="20%">Location</th>\n'
-        '<th width="10%">Application</th>\n'
-        '<th width="10%">Age</th>\n'
+        '<table style="width:100%; table-layout:fixed; border-collapse:collapse;">\n'
+        '<colgroup>\n'
+        '<col style="width:12%">\n'
+        '<col style="width:48%">\n'
+        '<col style="width:25%">\n'
+        '<col style="width:8%">\n'
+        '<col style="width:7%">\n'
+        '</colgroup>\n<thead>\n<tr>\n'
+        '<th style="text-align:left; white-space:normal;">Company</th>\n'
+        '<th style="text-align:left; white-space:normal;">Role</th>\n'
+        '<th style="text-align:left; white-space:normal;">Location</th>\n'
+        '<th style="text-align:center; white-space:normal;">Application</th>\n'
+        '<th style="text-align:center; white-space:normal;">Age</th>\n'
         "</tr>\n</thead>\n<tbody>\n"
         + "\n".join(rows)
         + "\n</tbody>\n</table>"
@@ -204,11 +211,11 @@ def generate_readme(dataframe, output_dir="."):
 
         all_rows.append(
             "<tr>\n"
-            f"<td>{company_cell}</td>\n"
-            f"<td>{html.escape(role)}</td>\n"
-            f"<td>{format_location(location)}</td>\n"
-            f'<td align="center"><a href="{link}">Apply</a></td>\n'
-            f"<td>{age}</td>\n"
+            f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
+            f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
+            f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
+            f'<td align="center" style="white-space:nowrap;"><a href="{link}">Apply</a></td>\n'
+            f'<td style="white-space:nowrap;">{age}</td>\n'
             "</tr>"
         )
 
