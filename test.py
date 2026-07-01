@@ -23,9 +23,7 @@ result = duckdb.sql(f"""
     )
     WHERE rn = 1
 """).df()
-
-readme.generate_readme(result,"README.md")
-
+readme.generate_readme(result, output_dir=".")
 total = len(result)
 missing_company = result["company"].isna().sum()
 na_company = (result["company"] == "N/A").sum()

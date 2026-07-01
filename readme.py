@@ -1,46 +1,241 @@
 import html
+import os
+from datetime import datetime, timezone
 
-def generate_readme(dataframe, output_path="README.md"):
-    rows_html = []
+# GitHub render limit
+GITHUB_FILE_SIZE_LIMIT = 512000
+SIZE_BUFFER = 2560
 
-    for _, row in dataframe.iterrows():
-        company  = html.escape(str(row["company"]).strip())
-        role     = html.escape(str(row["role"]).strip())
-        location = html.escape(str(row["location"]).strip())
-        date     = str(row["date"]).strip()
-        link     = str(row["link"]).strip()
+# Inactivity threshold in days
+INACTIVE_THRESHOLD_DAYS = 60
 
-        rows_html.append(f"""<tr>
-<td>{company}</td>
-<td>{role}</td>
-<td>{location}</td>
-<td><a href="{link}">apply</a></td>
-<td>{date}</td>
-</tr>""")
+# Apply button image
+APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 
-    table = f"""<table>
-<thead>
-<tr>
-<th>Company</th>
-<th>Role</th>
-<th>Location</th>
-<th>Application/Link</th>
-<th>Date Posted</th>
-</tr>
-</thead>
-<tbody>
-{"".join(rows_html)}
-</tbody>
-</table>"""
+# Base GitHub URL for nav links
+BASE_URL = "https://github.com/KSaifStack/jobscraper/blob/main/"
 
-    readme = f"""# SearchTern Job Listings
+# Blocked companies
+BLOCKED_COMPANIES: set[str] = {}
+
+# FAANG+ companies
+FAANG_PLUS: set[str] = {
+    "airbnb", "adobe", "amazon", "amd", "anthropic", "apple",
+    "asana", "atlassian", "bytedance", "cloudflare", "coinbase",
+    "crowdstrike", "databricks", "datadog", "doordash", "dropbox",
+    "duolingo", "figma", "google", "ibm", "instacart", "intel",
+    "linkedin", "lyft", "meta", "microsoft", "netflix", "notion",
+    "nvidia", "openai", "oracle", "palantir", "paypal", "perplexity",
+    "pinterest", "ramp", "reddit", "rippling", "robinhood", "roblox",
+    "salesforce", "samsara", "servicenow", "shopify", "slack", "snap",
+    "snapchat", "spacex", "splunk", "snowflake", "stripe", "square",
+    "tesla", "tinder", "tiktok", "uber", "visa", "waymo", "x",
+}
+
+
+# ── Helpers ────────────────────────────────────────────────────────────────────
+
+def days_display(date_str) -> str:
+    """Convert ISO timestamp to human-readable age string."""
+    try:
+        posted = datetime.fromisoformat(str(date_str).replace("Z", "+00:00"))
+        if posted.tzinfo is None:
+            posted = posted.replace(tzinfo=timezone.utc)
+        days = max((datetime.now(timezone.utc) - posted).days, 0)
+        if days == 0:
+            return "Today"
+        elif days > 30:
+            return f"{days // 30}mo"
+        else:
+            return f"{days}d"
+    except Exception:
+        return str(date_str)
+
+
+def format_location(location) -> str:
+    """Format location — collapse 4+ locations into a dropdown."""
+    if not location or str(location) == "nan":
+        return "N/A"
+    parts = [p.strip() for p in str(location).split(",")]
+    if len(parts) <= 3:
+        return "<br>".join(parts)
+    joined = "<br>".join(parts)
+    return f"<details><summary><strong>{len(parts)} locations</strong></summary>{joined}</details>"
+
+
+def format_company(company: str, prev_company: str, age: str, prev_age: str) -> str:
+    """↳ for consecutive same-company rows, 🔥 for FAANG+."""
+    if company == prev_company and age == prev_age:
+        return "↳"
+    escaped = html.escape(company)
+    if company.lower() in FAANG_PLUS:
+        return f"🔥 <strong>{escaped}</strong>"
+    return f"<strong>{escaped}</strong>"
+
+
+def build_table(rows: list[str]) -> str:
+    """Wrap rows in a full HTML table."""
+    return (
+        "<table>\n<thead>\n<tr>\n"
+        "<th>Company</th>\n"
+        "<th>Role</th>\n"
+        "<th>Location</th>\n"
+        "<th>Application</th>\n"
+        "<th>Age</th>\n"
+        "</tr>\n</thead>\n<tbody>\n"
+        + "\n".join(rows)
+        + "\n</tbody>\n</table>"
+    )
+
+
+def build_nav(current_page: int, total_pages: int) -> str:
+    """Build previous/next nav links accounting for root vs pages/ folder."""
+    links = []
+
+    if current_page > 1:
+        prev_url = BASE_URL + "README.md" if current_page == 2 else BASE_URL + f"pages/README-{current_page - 1}.md"
+        links.append(f"[← Previous page]({prev_url})")
+
+    if current_page < total_pages:
+        next_url = BASE_URL + f"pages/README-{current_page + 1}.md"
+        links.append(f"[Next page →]({next_url})")
+
+    return " | ".join(links)
+
+
+def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
+    """Build the top section of each README page."""
+    nav = build_nav(current_page, total_pages)
+    page_info = f"Page {current_page} of {total_pages} — {total_rows:,} total listings"
+
+    if current_page == 1:
+        return f"""# SearchTern Job Listings
 
 Auto-generated from jobhive. Updated each scrape run.
 
-{table}
+**{page_info}**
+
+{nav}
+
+"""
+    else:
+        return f"""# SearchTern Job Listings — Page {current_page}
+
+**{page_info}**
+
+{nav}
+
 """
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(readme)
 
-    print(f"Wrote {len(dataframe)} rows to {output_path}")
+# ── Main ───────────────────────────────────────────────────────────────────────
+
+def generate_readme(dataframe, output_dir="."):
+    """
+    Writes job listings into README files split by GitHub's 500KB render limit.
+    Page 1 → README.md (root)
+    Page 2+ → pages/README-2.md, pages/README-3.md, etc.
+    """
+    pages_dir = os.path.join(output_dir, "pages")
+
+    # ── Build all rows ──────────────────────────────────────────────────────
+    all_rows = []
+    prev_company = None
+    prev_age = None
+    skipped_blocked = 0
+    skipped_inactive = 0
+
+    for _, row in dataframe.iterrows():
+        company  = str(row["company"]).strip()
+        role     = str(row["role"]).strip()
+        location = str(row["location"]).strip()
+        date     = str(row["date"]).strip()
+        link     = str(row["link"]).strip()
+
+        # Skip blocked companies
+        if company in BLOCKED_COMPANIES:
+            skipped_blocked += 1
+            continue
+
+        # Skip inactive listings
+        try:
+            posted = datetime.fromisoformat(date.replace("Z", "+00:00"))
+            if posted.tzinfo is None:
+                posted = posted.replace(tzinfo=timezone.utc)
+            if (datetime.now(timezone.utc) - posted).days > INACTIVE_THRESHOLD_DAYS:
+                skipped_inactive += 1
+                continue
+        except Exception:
+            pass
+
+        age          = days_display(date)
+        company_cell = format_company(company, prev_company, age, prev_age)
+        prev_company = company
+        prev_age     = age
+
+        all_rows.append(
+            f"<tr>\n"
+            f"<td>{company_cell}</td>\n"
+            f"<td>{html.escape(role)}</td>\n"
+            f"<td>{format_location(location)}</td>\n"
+            f'<td><div align="center"><a href="{link}">'
+            f'<img src="{APPLY_BUTTON}" width="80" alt="Apply"></a></div></td>\n'
+            f"<td>{age}</td>\n"
+            f"</tr>"
+        )
+
+    total_rows = len(all_rows)
+
+    # ── Split rows into pages by byte size ─────────────────────────────────
+    pages = []
+    current_page_rows = []
+    current_size = 0
+
+    for row_html in all_rows:
+        row_size = len(row_html.encode("utf-8"))
+        if current_size + row_size > (GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER) and current_page_rows:
+            pages.append(current_page_rows)
+            current_page_rows = [row_html]
+            current_size = row_size
+        else:
+            current_page_rows.append(row_html)
+            current_size += row_size
+
+    if current_page_rows:
+        pages.append(current_page_rows)
+
+    total_pages = len(pages)
+
+    # ── Write each page ────────────────────────────────────────────────────
+    files_written = []
+
+    for i, page_rows in enumerate(pages):
+        page_num = i + 1
+
+        if page_num == 1:
+            filepath = os.path.join(output_dir, "README.md")
+        else:
+            os.makedirs(pages_dir, exist_ok=True)
+            filepath = os.path.join(pages_dir, f"README-{page_num}.md")
+
+        nav     = build_nav(page_num, total_pages)
+        content = (
+            build_header(page_num, total_pages, total_rows)
+            + build_table(page_rows)
+            + f"\n\n{nav}\n"
+        )
+
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(content)
+
+        size_kb = len(content.encode("utf-8")) / 1024
+        print(f"Wrote {filepath} — {len(page_rows):,} rows, {size_kb:.1f} KB")
+        files_written.append(filepath)
+
+    # ── Summary ────────────────────────────────────────────────────────────
+    print(f"\nTotal rows written : {total_rows:,}")
+    print(f"Pages created      : {total_pages}")
+    print(f"Skipped (blocked)  : {skipped_blocked}")
+    print(f"Skipped (inactive) : {skipped_inactive}")
+
+    return files_written
