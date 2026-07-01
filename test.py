@@ -25,3 +25,13 @@ result = duckdb.sql(f"""
 """).df()
 
 readme.generate_readme(result,"README.md")
+
+total = len(result)
+missing_company = result["company"].isna().sum()
+na_company = (result["company"] == "N/A").sum()
+url_as_company = result["company"].str.contains(r'careers\.|\.com|\.org', na=False).sum()
+# Check for empty strings specifically
+empty_strings = (result["company"] == "").sum()
+whitespace = result["company"].str.strip().eq("").sum()
+print(f"Empty strings: {empty_strings}")
+print(f"Whitespace only: {whitespace}")
