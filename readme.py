@@ -94,9 +94,9 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str) -> 
 
 
 def build_table(rows: list[str]) -> str:
-    """Wrap rows in a full HTML table with responsive column widths."""
+    """Wrap rows in a full HTML table and restrict total width to 100% to prevent overflow."""
     return (
-        "<table>\n<thead>\n<tr>\n"
+        '<table width="100%">\n<thead>\n<tr>\n' 
         '<th width="15%">Company</th>\n'
         '<th width="45%">Role</th>\n'
         '<th width="20%">Location</th>\n'
