@@ -33,6 +33,24 @@ FAANG_PLUS: set[str] = {
     "tesla", "tinder", "tiktok", "uber", "visa", "waymo", "x",
 }
 
+COUNTRY_NAMES = {
+    "US": "🇺🇸 United States",
+    "CA": "🇨🇦 Canada",
+    "GB": "🇬🇧 United Kingdom",
+    "AU": "🇦🇺 Australia",
+    "NZ": "🇳🇿 New Zealand",
+    "IE": "🇮🇪 Ireland",
+    "SG": "🇸🇬 Singapore",
+    "IN": "🇮🇳 India",
+    "DE": "🇩🇪 Germany",
+    "NL": "🇳🇱 Netherlands",
+    "FR": "🇫🇷 France",
+    "JP": "🇯🇵 Japan",
+    "BR": "🇧🇷 Brazil",
+    "MX": "🇲🇽 Mexico",
+}
+
+
 
 
 def is_english(text: str) -> bool:
@@ -111,6 +129,105 @@ def build_table(rows: list[str]) -> str:
         + "\n</tbody>\n</table>"
     )
 
+def build_country_index(dataframe, total_rows: int) -> str:
+    """Build a country breakdown section with links to country pages."""
+    if "country_iso" not in dataframe.columns:
+        return ""
+
+    counts = (
+        dataframe["country_iso"]
+        .fillna("Unknown")
+        .value_counts()
+        .reset_index()
+    )
+    counts.columns = ["country_iso", "count"]
+    counts = counts.sort_values("count", ascending=False)
+
+    rows = []
+    for _, row in counts.iterrows():
+        code    = str(row["country_iso"]).strip().upper()
+        count   = int(row["count"])
+        name    = COUNTRY_NAMES.get(code, f"🌐 {code}")
+        pct     = round((count / total_rows) * 100, 1)
+        link    = f"https://github.com/KSaifStack/searchtern-listings/blob/main/countries/{code}.md"
+        rows.append(f"| [{name}]({link}) | {count:,} | {pct}% |")
+
+    table = (
+        "| Country | Listings | Share |\n"
+        "|---------|----------|-------|\n"
+        + "\n".join(rows)
+    )
+
+    return f"""### 🌍 Browse by Country
+
+{table}
+
+"""
+
+def generate_country_pages(dataframe, output_dir="."):
+    """Generate a dedicated README page for each country."""
+    if "country_iso" not in dataframe.columns:
+        return
+
+    countries_dir = os.path.join(output_dir, "countries")
+    os.makedirs(countries_dir, exist_ok=True)
+
+    # Clear old country pages
+    for old in glob.glob(os.path.join(countries_dir, "*.md")):
+        os.remove(old)
+
+    for code, group in dataframe.groupby("country_iso"):
+        code    = str(code).strip().upper()
+        name    = COUNTRY_NAMES.get(code, code)
+        count   = len(group)
+        today   = datetime.now(timezone.utc).strftime("%B %d, %Y")
+
+        rows_html = []
+        prev_company = None
+        prev_age     = None
+
+        for _, row in group.iterrows():
+            company  = truncate(str(row["company"]).strip(), MAX_COMPANY_LEN)
+            role     = truncate(str(row["role"]).strip(), MAX_ROLE_LEN)
+            location = str(row["location"]).strip()
+            date     = str(row["date"]).strip()
+            link     = str(row["link"]).strip()
+
+            if not is_english(role) or not is_english(company):
+                continue
+
+            age          = days_display(date)
+            company_cell = format_company(company, prev_company, age, prev_age)
+            prev_company = company
+            prev_age     = age
+
+            rows_html.append(
+                "<tr>\n"
+                f'<td style="word-break:break-word;">{company_cell}</td>\n'
+                f'<td style="word-break:break-word;">{html.escape(role)}</td>\n'
+                f'<td style="word-break:break-word;">{format_location(location)}</td>\n'
+                f'<td align="center"><a href="{link}"><img src="{APPLY_BUTTON}" width="60" alt="Apply"></a></td>\n'
+                f'<td style="white-space:nowrap;">{age}</td>\n'
+                "</tr>"
+            )
+
+        if not rows_html:
+            continue
+
+        content = (
+            f"# {name} — SearchTern Listings\n\n"
+            f"**{count:,} listings** as of {today}\n\n"
+            f"[← Back to all listings]({BASE_URL}README.md)\n\n"
+            + build_table(rows_html)
+            + "\n"
+        )
+
+        filepath = os.path.join(countries_dir, f"{code}.md")
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(content)
+
+        print(f"Wrote countries/{code}.md — {len(rows_html):,} rows")
+
 def build_nav(current_page: int, total_pages: int) -> str:
     """Build previous/next nav links."""
     links = []
@@ -127,11 +244,12 @@ def build_nav(current_page: int, total_pages: int) -> str:
     return " | ".join(links)
 
 
-def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
+def build_header(current_page: int, total_pages: int, total_rows: int,dataframe=None) -> str:
     today = datetime.now(timezone.utc).strftime("%B %d, %Y")
     nav   = build_nav(current_page, total_pages)
 
     if current_page == 1:
+        country_section = build_country_index(dataframe, total_rows) if dataframe is not None else ""
         return f"""<div align="center">
 
 <img src="https://raw.githubusercontent.com/KSaifStack/SearchTern/main/frontend/src/assets/Logo.png" alt="SearchTern Logo" width="200"/>
@@ -151,6 +269,10 @@ def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
 > 🎓 **{total_rows:,} internships & new grad roles** updated twice daily from 49 ATS platforms worldwide.
 > Finding an internship has never been harder — students are sending 500–1000+ applications just to land one.
 > SearchTern breaks that cycle. [**Start your search →**](https://searchtern.com)
+
+---
+
+{country_section}
 
 ---
 
@@ -284,7 +406,7 @@ def generate_readme(dataframe, output_dir="."):
 
         nav     = build_nav(page_num, total_pages)
         content = (
-            build_header(page_num, total_pages, total_rows)
+            build_header(page_num, total_pages, total_rows,dataframe)
             + build_table(page_rows)
             + f"\n\n{nav}\n"
         )

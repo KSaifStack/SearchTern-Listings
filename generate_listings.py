@@ -14,6 +14,7 @@ result = duckdb.sql(f"""
         salary_min,
         salary_max,
         salary_currency,
+        country_iso,
         CASE 
             WHEN commitment ILIKE '%intern%'
               OR title ILIKE '%intern%'
