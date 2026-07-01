@@ -1,6 +1,7 @@
 import html
 import os
 import re
+import glob  
 from datetime import datetime, timezone
 
 # GitHub render limit
@@ -93,19 +94,18 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str) -> 
 
 
 def build_table(rows: list[str]) -> str:
-    """Wrap rows in a full HTML table."""
+    """Wrap rows in a full HTML table with responsive column widths."""
     return (
         "<table>\n<thead>\n<tr>\n"
-        "<th>Company</th>\n"
-        "<th>Role</th>\n"
-        "<th>Location</th>\n"
-        "<th>Application</th>\n"
-        "<th>Age</th>\n"
+        '<th width="15%">Company</th>\n'
+        '<th width="45%">Role</th>\n'
+        '<th width="20%">Location</th>\n'
+        '<th width="10%">Application</th>\n'
+        '<th width="10%">Age</th>\n'
         "</tr>\n</thead>\n<tbody>\n"
         + "\n".join(rows)
         + "\n</tbody>\n</table>"
     )
-
 
 def build_nav(current_page: int, total_pages: int) -> str:
     """Build previous/next nav links."""
@@ -151,6 +151,11 @@ def generate_readme(dataframe, output_dir="."):
     Page 2+ → pages/README-2.md, pages/README-3.md, etc.
     """
     pages_dir = os.path.join(output_dir, "pages")
+
+    if os.path.exists(pages_dir):
+        old_pages = glob.glob(os.path.join(pages_dir, "README-*.md"))
+        for old_file in old_pages:
+            os.remove(old_file)
 
     # ── Build all rows ──────────────────────────────────────────────────────
     all_rows        = []
