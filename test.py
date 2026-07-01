@@ -20,6 +20,7 @@ result = duckdb.sql(f"""
           AND url IS NOT NULL
           AND title IS NOT NULL
           AND company IS NOT NULL
+          AND title ~ '^[[:ascii:]]+$'
     )
     WHERE rn = 1
 """).df()

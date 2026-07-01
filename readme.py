@@ -74,7 +74,6 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str) -> 
 
 
 def build_table(rows: list[str]) -> str:
-    """Wrap rows in a full HTML table."""
     return (
         "<table>\n<thead>\n<tr>\n"
         "<th>Company</th>\n"
@@ -86,7 +85,6 @@ def build_table(rows: list[str]) -> str:
         + "\n".join(rows)
         + "\n</tbody>\n</table>"
     )
-
 
 def build_nav(current_page: int, total_pages: int) -> str:
     """Build previous/next nav links accounting for root vs pages/ folder."""
@@ -147,7 +145,9 @@ def generate_readme(dataframe, output_dir="."):
 
     for _, row in dataframe.iterrows():
         company  = str(row["company"]).strip()
-        role     = str(row["role"]).strip()
+        role = str(row["role"]).strip()
+        if len(role) > 80:
+            role = role[:77] + "..."
         location = str(row["location"]).strip()
         date     = str(row["date"]).strip()
         link     = str(row["link"]).strip()
