@@ -4,7 +4,6 @@ import re
 import glob  
 from datetime import datetime, timezone
 
-# GitHub render limit
 GITHUB_FILE_SIZE_LIMIT = 512000
 SIZE_BUFFER = 2560
 
@@ -36,7 +35,6 @@ FAANG_PLUS: set[str] = {
 }
 
 
-# ── Helpers ────────────────────────────────────────────────────────────────────
 
 def is_english(text: str) -> bool:
     """Return False if text contains non-ASCII characters (catches foreign listings)."""
@@ -149,7 +147,6 @@ def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
     )
 
 
-# ── Main ───────────────────────────────────────────────────────────────────────
 
 def generate_readme(dataframe, output_dir="."):
     """
@@ -164,7 +161,7 @@ def generate_readme(dataframe, output_dir="."):
         for old_file in old_pages:
             os.remove(old_file)
 
-    # ── Build all rows ──────────────────────────────────────────────────────
+    # Builds all rows 
     all_rows        = []
     prev_company    = None
     prev_age        = None
@@ -221,7 +218,7 @@ def generate_readme(dataframe, output_dir="."):
 
     total_rows = len(all_rows)
 
-    # ── Split rows into pages by byte size ─────────────────────────────────
+    # Split rows into pages by byte size
     pages             = []
     current_page_rows = []
     current_size      = 0
@@ -241,7 +238,7 @@ def generate_readme(dataframe, output_dir="."):
 
     total_pages = len(pages)
 
-    # ── Write each page ────────────────────────────────────────────────────
+    #  Writes on each page
     files_written = []
 
     for i, page_rows in enumerate(pages):
@@ -269,7 +266,6 @@ def generate_readme(dataframe, output_dir="."):
         print(f"Wrote {filepath} — {len(page_rows):,} rows, {size_kb:.1f} KB")
         files_written.append(filepath)
 
-    # ── Summary ────────────────────────────────────────────────────────────
     print(f"\nTotal rows written  : {total_rows:,}")
     print(f"Pages created       : {total_pages}")
     print(f"Skipped (blocked)   : {skipped_blocked}")
