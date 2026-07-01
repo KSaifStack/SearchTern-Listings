@@ -241,7 +241,7 @@ def generate_readme(dataframe, output_dir="."):
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
-            f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{link}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
+            f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{link}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
             f'<td style="white-space:nowrap;">{age}</td>\n'
             "</tr>"
         )

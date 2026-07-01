@@ -84,6 +84,7 @@ result = duckdb.sql(f"""
             OR title ILIKE '%graduate engineer%'
             OR title ILIKE '%graduate developer%'
             OR title ILIKE '%graduate analyst%'
+            AND country_iso NOT IN ('DE', 'AT', 'CH', 'PL', 'NO', 'SE', 'DK', 'NL', 'FR', 'ES', 'IT', 'PT', 'RO', 'HU', 'CZ', 'SK', 'HR', 'BG', 'FI')
             OR commitment ILIKE '%new grad%'
             OR commitment ILIKE '%entry%'
         )
