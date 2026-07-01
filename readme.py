@@ -179,7 +179,7 @@ def generate_readme(dataframe, output_dir="."):
             f"<td>{html.escape(role)}</td>\n"
             f"<td>{format_location(location)}</td>\n"
             f'<td><div align="center"><a href="{link}">'
-            f'<img src="{APPLY_BUTTON}" width="80" alt="Apply"></a></div></td>\n'
+            f'<img src="{APPLY_BUTTON}" width="40" alt="Apply"></a></div></td>\n'
             f"<td>{age}</td>\n"
             f"</tr>"
         )

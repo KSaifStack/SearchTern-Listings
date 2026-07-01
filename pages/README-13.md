@@ -16,7808 +16,7815 @@
 </thead>
 <tbody>
 <tr>
-<td><strong>bncollege</strong></td>
-<td>Student CMO (Campus Marketing Officer – Marketing Intern)</td>
-<td>NEW ORLEANS<br>LA<br>US</td>
-<td><div align="center"><a href="https://careers-bncollege.icims.com/jobs/22831/student-cmo-%28campus-marketing-officer-%e2%80%93-marketing-intern%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Student CMO (Campus Marketing Officer – Marketing Intern)</td>
-<td>BALTIMORE<br>MD<br>US</td>
-<td><div align="center"><a href="https://careers-bncollege.icims.com/jobs/22810/student-cmo-%28campus-marketing-officer-%e2%80%93-marketing-intern%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>centricbrands</strong></td>
-<td>Intern, Merchandising</td>
-<td>KH-Phnom Penh</td>
-<td><div align="center"><a href="https://careers-centricbrands.icims.com/jobs/23174/intern%2c-merchandising/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>GI GROUP S.P.A.</strong></td>
-<td>assistente alle risorse umane</td>
-<td>IT (ITH32)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OTY1MTUzIDE3?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>responsabile della logistica commerciale</td>
-<td>IT (ITC41)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OTY1MjM2IDE3?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>A. Grižo įmonė</strong></td>
-<td>Internet. parduotuvės siuntų administratorius (-ė)</td>
-<td>LT</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjUyODNCM0MtRTIwNi00MDYwLUE1NkQtRkFBQzUyNjE3NzE0IDIyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Avocat  Corporate M&amp;A - Private Equity, M&amp;A &amp; Transactions Internationales (H/F)</td>
-<td>LU</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDMwMzk3MiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Avocat Banking &amp; Finance - Cabinet International, Equipe à taille humaine (H/F)</td>
-<td>LU</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzk5MzU2OSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>ING Luxembourg Sa</strong></td>
-<td>Internal Audit Manager (m/f)</td>
-<td>LU</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAxMTMyIDEx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>Deloitte Tax &amp; Consulting S.A R.L.</strong></td>
-<td>Senior Manager in International Corporate Tax (m/f)</td>
-<td>LU</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OTkxNDMgMTE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>ATTRANS LTD</strong></td>
-<td>INTERNATIONAL TRUCK AND TRAILER MECHANIC</td>
-<td>MT (MT001)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDQ4Nzc4IDEwMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>hczw.fa.us2.oraclecloud.com</strong></td>
+<td>Senior Jurist för internationella företagsklienter</td>
+<td>STOCKHOLM<br>Sweden</td>
+<td><div align="center"><a href="https://hczw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15118"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
-<td><strong>S.C.SMART SPEDITION SRL</strong></td>
-<td>EXPEDITOR INTERNATIONAL</td>
-<td>RO (RO321)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjkxNzc0OCAxMw?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><strong>epej.fa.us2.oraclecloud.com</strong></td>
+<td>FamilySearch Internal Communications Intern</td>
+<td>Lehi<br>UT<br>United States</td>
+<td><div align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375660"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
 </tr>
 <tr>
-<td><strong>UNIVERZITETNI KLINIČNI CENTER LJUBLJANA, Zaloška cesta 2 , 1000 LJUBLJANA</strong></td>
-<td>DIPL. MEDICINSKA SESTRA V INTENZIVNI TERAPIJI I, II, INTERNA KLINIKA, KLINIČNI ODDELEK ZA GASTROENTEROLOGIJO - M/Ž</td>
-<td>SI (SI041)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQyMTcwMy0yMDI2MjcgMTQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>SPLOŠNA BOLNIŠNICA TRBOVLJE, Rudarska cesta 9 , 1420 TRBOVLJE</strong></td>
-<td>DIPL. MEDICINSKA SESTRA - OPERACIJSKA MEDICINSKA SESTRA ZA ENDOSKOPIJE INTERNEGA ODDELKA - M/Ž</td>
-<td>SI (SI035)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQyMjk0MC0yMDI2MjcgMTQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>KBS Kleider-Bauer Betriebs-</strong></td>
-<td>LKW-Fahrer_in (CE-Führerschein) für nationale und internationale Filialbelief</td>
-<td>AT (AT127)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTQzMTggNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>siehe Beschreibung</strong></td>
-<td>Interne/r Lieferant_in - in Vollzeitanstellung (39 h/Woche)</td>
-<td>AT (AT126)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMjk2NzYgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>PS³ Personalservice</strong></td>
-<td>Servicetechniker_in Elektrotechnik International (all genders)</td>
-<td>AT (AT12)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNjM5MTkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>siehe Beschreibung</strong></td>
-<td>(Senior) Assistant Finance - interne Buchhaltung (m/w/d)</td>
-<td>AT (AT130)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNDE0MDIgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>Klinik Favoriten</strong></td>
-<td>Allgemeinmediziner an der Internistischen Notfallambulanz - Erstversorgung</td>
-<td>AT (AT130)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTIwNzQgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Finanzmarktaufsicht Personal</strong></td>
-<td>Mitarbeiter:in Interne Kommunikation &amp; Change Communication (all genders), Wien (Kommunikationswissenschaftler/in)</td>
-<td>AT (AT130)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI4NDkwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>siehe Beschreibung</strong></td>
-<td>Internship - Experiment management system CDM support (f/m/div)</td>
-<td>AT (AT211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNjU1MzUgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>POTENTIELS</strong></td>
+<td>Coordinateur(trice) Achats et Approvisionnements Internationaux H/F</td>
+<td>FR (FRY20)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDIyMzg2MSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
-<td><strong>siehe Beschreibung</strong></td>
-<td>Internship - Supply Chain Management (f/m/div)</td>
-<td>AT (AT211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMjIwMTAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers.geaerospace.com</strong></td>
-<td>Intern - Materials Laboratory Student</td>
-<td>Queretaro<br>Querétaro<br>Mexico</td>
-<td><div align="center"><a href="https://careers.geaerospace.com/job/R5036099"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>careers.geaerospace.com</strong></td>
-<td>Designer Intern</td>
-<td>Queretaro<br>Querétaro<br>Mexico</td>
-<td><div align="center"><a href="https://careers.geaerospace.com/job/R5036453"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>careers.geaerospace.com</strong></td>
-<td>Supply Chain Operations Intern – US – Summer 2027 - Returning Students</td>
-<td>Evendale<br>Ohio<br>United States of America</td>
-<td><div align="center"><a href="https://careers.geaerospace.com/job/R5030084"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Manufacturing Engineering Co-op – US – Spring 2027 - Returning Students</td>
-<td>Evendale<br>Ohio<br>United States of America</td>
-<td><div align="center"><a href="https://careers.geaerospace.com/job/R5030077"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>careers.geaerospace.com</strong></td>
-<td>Military DoD SkillBridge Program - Training Specialist – Integrated Systems and Networking Devices</td>
-<td>Grand Rapids<br>Michigan<br>United States of America</td>
-<td><div align="center"><a href="https://careers.geaerospace.com/job/R5036277"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Pelham<br>Alabama<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912808"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Mountain Brook<br>Alabama<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912713"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Glendale<br>Arizona<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913521"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Agoura Hills<br>California<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940238"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>EEAP</strong></td>
+<td>AES/AMP/AS/AP Semi internat H/F (H/F)</td>
+<td>FR (FRF31)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5S1pIUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>23d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Anaheim<br>California<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0945083"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>San Diego<br>California<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0952111"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>South Lake Tahoe<br>California<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933938"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Weston<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954703"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Sanford<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954041"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Valrico<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0957113"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Lake Placid<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940294"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Citrus Hills<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0941135"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Port Richey<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943325"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Boynton Beach<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926805"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Brandon<br>Florida<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943342"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Atlanta<br>Georgia<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920948"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Bloomington<br>Illinois<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0957462"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Belleville<br>Illinois<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933278"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Morton<br>Illinois<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933276"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Muncie<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912696"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Hammond<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940127"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Carmel<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926681"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Nappanee<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926850"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Westfield<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926666"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Granger<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926838"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Kentland<br>Indiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926820"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Waukee<br>Iowa<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926600"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Council Bluffs<br>Iowa<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960890"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern - Grad</td>
-<td>Lawrence<br>Kansas<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960954"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Derby<br>Kansas<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0947219"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Paducah<br>Kentucky<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913046"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Mayfield<br>Kentucky<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0909435"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Monroe<br>Louisiana<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933322"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Upper Marlboro<br>Maryland<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912611"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Bowie<br>Maryland<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954020"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Lynn<br>Massachusetts<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0946331"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>ACE TRANSPORT</strong></td>
+<td>CONDUCTEUR ROUTIER  National ou international  (H/F)</td>
+<td>FR (FRD12)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5UkhYUSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>19d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Brooklyn<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912824"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td><strong>INDUSTRIENERGI NOV COMPLETION TOOL</strong></td>
+<td>Vil du lede et spesialisert kompetansesenter i et internasjonalt teknologimiljø?</td>
+<td>NO (NO0A1)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OGM1NDA5NjUtNzdhMS00MDc2LWIyYjktYzEwZjIzNzY0YTFiIDI2MQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>West Bloomfield<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926616"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Macomb<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943411"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Auburn Hills<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943686"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Farmington Hills<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943549"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Cottage Grove<br>Minnesota<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912684"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Blaine<br>Minnesota<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940245"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Grenada<br>Mississippi<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912678"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Meridian<br>Mississippi<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926859"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>O Fallon<br>Missouri<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913047"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Columbia<br>Missouri<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920268"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Raymore<br>Missouri<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912807"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Warrensburg<br>Missouri<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933288"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Grand Island<br>Nebraska<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913112"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Lincoln<br>Nebraska<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912945"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>East Windsor<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0939250"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Willingboro<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0921272"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Fort Lee<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0928767"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Garwood<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960907"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Morristown<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0921207"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Hackensack<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960906"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Plainsboro<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920183"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern - Grad</td>
-<td>Mendham<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0937117"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Summit<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940267"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Elmira<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0948365"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>TIDE AS</strong></td>
+<td>Vi søker bussjåfør til internkjøring på Monsgtad</td>
+<td>NO (NO0A2)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTg1YzFhYTctZjg3Yy00MWQxLWE3MzUtNWQ3Yjk3MDAyODUwIDI2MQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Kings Park<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0955273"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
+<td><strong>EinEtikette Group s.r.o.</strong></td>
+<td>Predavači cez telefón, internet a podobní predavači</td>
+<td>SK (SK022)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAwMDAzMDEwNzYyNyA0MQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Ronkonkoma<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953992"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
+<td><strong>REGION GÄVLEBORG</strong></td>
+<td>Biträdande vårdenhetschef till läkargruppen Internmedicin</td>
+<td>SE (SE313)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE3NjkxNyAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Mineola<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940182"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
+<td><strong>Gotlands kommun</strong></td>
+<td>Sjuksköterska allmän internmedicin</td>
+<td>SE (SE214)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzI0OTc0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Bronx<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926756"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>Gesundaberget AB</strong></td>
+<td>Skidliftvärd vintern 2018-19, Mora Gesunda</td>
+<td>SE (SE312)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM1NzQ1IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Poughkeepsie<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913353"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>ABB AB</strong></td>
+<td>Assurance, Risk and Internal Control (ARIC) Demand Manager</td>
+<td>SE (SE125)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE3NzA3IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Bellmore<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0909206"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td><strong>Edsåsdalen Turism AB</strong></td>
+<td>STF Edsåsdalens Fjällstation söker Serveringspersonal Vintern 2018/19</td>
+<td>SE (SE322)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE3NjYyIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Yorktown Heights<br>New York<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920235"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td><strong>Silvergården Katterjokk AB</strong></td>
+<td>Kock Vintern 2019</td>
+<td>SE (SE332)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzI5NTU2IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Charlotte<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920247"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Waxhaw<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0952338"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Wilmington<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0959487"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Holly Springs<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920466"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Smithfield<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0937573"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Arden<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0951610"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Mansfield<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913614"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Granville<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913617"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Avon<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912920"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Norwood<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913564"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Hilliard<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913203"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Mogadore<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913213"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Findlay<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954629"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Oak Hill<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913099"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Struthers<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913106"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Ironton<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913113"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Bay Village<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912829"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Bucyrus<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913279"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Oklahoma City<br>Oklahoma<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0908751"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Langhorne<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913251"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>West Chester<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913281"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern - Grad</td>
-<td>Springfield<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933244"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Hawley<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933236"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Wellsboro<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933252"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Lock Haven<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0921694"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Monaca<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0931110"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Womelsdorf<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933253"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Brookhaven<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933268"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Bethel Park<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912868"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Allison Park<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912912"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Exton<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912959"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Dunmore<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933235"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Chambersburg<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912870"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Enola<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912816"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>King Of Prussia<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913650"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Downingtown<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913644"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
-<td>Macungie<br>Pennsylvania<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913324"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Rock Hill<br>South Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954001"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Lancaster<br>South Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953981"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Greenwood<br>South Carolina<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953990"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Brentwood<br>Tennessee<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926831"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Woodway<br>Texas<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933284"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Lewisville<br>Texas<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933371"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Gainesville<br>Texas<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933382"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>West Jordan<br>Utah<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913520"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Richlands<br>Virginia<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0951359"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Pharmacy Intern</td>
-<td>Hardy<br>Virginia<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0951331"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>jobs.cvshealth.com</strong></td>
-<td>Pharmacy Intern</td>
-<td>Midlothian<br>Virginia<br>United States</td>
-<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0923283"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>jobs.danaher.com</strong></td>
-<td>Intern - Collections (US Timezone)</td>
-<td>Kuala Lumpur<br>Wilayah Persekutuan Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://jobs.danaher.com/job/R1313580"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>Delve Interim &amp; Search AB</strong></td>
+<td>Löneansvarig till internationell koncern</td>
+<td>SE (SE211)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE3NTM3OCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
-<td><strong>jobs.danaher.com</strong></td>
-<td>Intern, P2P</td>
-<td>Kuala Lumpur<br>Wilayah Persekutuan Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://jobs.danaher.com/job/R1314132"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td><strong>Bosch Thermoteknik AB</strong></td>
+<td>Internship  Logistics Procurement Planning</td>
+<td>SE (SE211)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE1Mzg2NiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong>careers.zimmerbiomet.com</strong></td>
-<td>Manager International Distribution &amp; Customer Service</td>
-<td>Englewood<br>Colorado<br>United States</td>
-<td><div align="center"><a href="https://careers.zimmerbiomet.com/job/11199"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td><strong>Wellnox Health AB</strong></td>
+<td>Säljande leveranspersonal, internsäljare</td>
+<td>SE (SE123)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjM1NTkxIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong>jobs.msd.com</strong></td>
-<td>Internship Clinical Trials Coordinator</td>
-<td>Paço de Arcos<br>Lisbon<br>Portugal</td>
-<td><div align="center"><a href="https://jobs.msd.com/job/R403356"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
+<td><strong>Mfex Mutual Funds Exchange AB</strong></td>
+<td>Web Developer to international fintech company</td>
+<td>SE (SE331)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQyMDI4IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong>jobs.msd.com</strong></td>
-<td>Intern - Life Sciences / Pharmacy / Chemistry – Extractables &amp; Leachables CoE</td>
-<td>Boxmeer<br>North Brabant<br>Netherlands</td>
-<td><div align="center"><a href="https://jobs.msd.com/job/R389527"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
+<td><strong>Coalition Clean Baltic</strong></td>
+<td>International Coordinator/Administrative officer</td>
+<td>SE (SE121)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzU0Nzg2IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
-<td><strong>jobs.msd.com</strong></td>
-<td>Alternance Data Analyste - Contrôle Interne H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://jobs.msd.com/job/R399900"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers.marsh.com</strong></td>
-<td>Intern - Retirement (Pension) Consulting (6-Months Internship)</td>
-<td>Hong Kong<br>Hong Kong</td>
-<td><div align="center"><a href="https://careers.marsh.com/job/R_352076"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>careers.marsh.com</strong></td>
-<td>Intern - Business Development</td>
-<td>Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://careers.marsh.com/job/R_354137"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>careers.marsh.com</strong></td>
-<td>Internal Communications Leader, Pacific</td>
-<td>Sydney<br>New South Wales<br>Australia</td>
-<td><div align="center"><a href="https://careers.marsh.com/job/R_339968"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>careers.marsh.com</strong></td>
-<td>Oliver Wyman Actuarial - Internship - Summer 2027</td>
-<td>New York<br>New York<br>United States of America</td>
-<td><div align="center"><a href="https://careers.marsh.com/job/R_356561"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>careers.hugoboss.com</strong></td>
-<td>Internship Design BOSS MW Smart Casual Jersey (m/f/d)</td>
-<td>Metzingen<br>DE-BW<br>Germany</td>
-<td><div align="center"><a href="https://careers.hugoboss.com/job/144144"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>careers.hugoboss.com</strong></td>
-<td>Internship Creative Content Design &amp; Corporate Channels (m/f/d)</td>
-<td>Metzingen<br>DE-BW<br>Germany</td>
-<td><div align="center"><a href="https://careers.hugoboss.com/job/144101"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>careers.tdsynnex.com</strong></td>
-<td>Sales Intern</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://careers.tdsynnex.com/job/R52222"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>jobs.thermofisher.com</strong></td>
-<td>Quality System Engineer II (Internal Audit Experience)</td>
-<td>Tijuana<br>Mexico</td>
-<td><div align="center"><a href="https://jobs.thermofisher.com/job/R-01351526"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>careers.bsmhealth.org</strong></td>
-<td>Certified Medical Assistant (CMA) - Internal Medicine of Chesterfield</td>
-<td>Midlothian<br>Virginia<br>United States of America</td>
-<td><div align="center"><a href="https://careers.bsmhealth.org/job/R278630"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>jobs.virginia.edu</strong></td>
-<td>Manager, Internal Controls Compliance</td>
-<td>Charlottesville<br>Virginia<br>United States of America</td>
-<td><div align="center"><a href="https://jobs.virginia.edu/job/R0082335"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>jobs.ascension.org</strong></td>
-<td>Hospitalist Internal Medicine</td>
-<td>Nashville<br>Tennessee<br>United States</td>
-<td><div align="center"><a href="https://jobs.ascension.org/job/453772"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>jobs.ascension.org</strong></td>
-<td>Clinical Intern Sleep Lab</td>
-<td>Appleton<br>Wisconsin<br>United States</td>
-<td><div align="center"><a href="https://jobs.ascension.org/job/451457"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>jobs.advanceautoparts.com</strong></td>
-<td>Internal Auditor</td>
-<td>Raleigh<br>North Carolina<br>United States of America</td>
-<td><div align="center"><a href="https://jobs.advanceautoparts.com/job/R-0586707"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers-quartile</strong></td>
-<td>Business Operations Manager, CS Structure &amp; Capacity</td>
-<td>Remote (Brazil)</td>
-<td><div align="center"><a href="https://ats.rippling.com/careers-quartile/jobs/e801a556-924f-4755-8bf6-4f334f72903d"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>coterie-careers</strong></td>
-<td>Marketing Intern</td>
-<td>Remote (United States)</td>
-<td><div align="center"><a href="https://ats.rippling.com/coterie-careers/jobs/def98194-f67a-4a27-a00d-f7a900a752f1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>fgcplus</strong></td>
-<td>Human Resource &amp; Admin Support Intern</td>
-<td>Davao City<br>Philippines</td>
-<td><div align="center"><a href="https://ats.rippling.com/fgcplus/jobs/65ebfdd5-cee3-4c9f-ba53-af3e3f6cd4eb"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>fgcplus</strong></td>
-<td>Information Technology Intern</td>
-<td>Bacolod City<br>Philippines</td>
-<td><div align="center"><a href="https://ats.rippling.com/fgcplus/jobs/55c4240e-4e6a-44bc-bc8b-908aeee23ae2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>hqo</strong></td>
-<td>UX Engineer Co-op</td>
-<td>Boston<br>MA</td>
-<td><div align="center"><a href="https://ats.rippling.com/hqo/jobs/5c7ea85b-d893-406b-bb24-a0a27e13bd10"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>zededa</strong></td>
-<td>Software Engineer - AI &amp; Edge Kubernetes Orchestration - San Jose, CA</td>
-<td>San Jose<br>CA</td>
-<td><div align="center"><a href="https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>abbvie</strong></td>
-<td>Internship (all genders) in Organic and Medicinal Chemistry</td>
-<td>Ludwigshafen<br>RP<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/abbvie/3743990013770576"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>International Digital &amp; Consumer Lead, Allergan Aesthetics</td>
-<td>Paris<br>IDF<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/abbvie/3743990013768056"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>aecom2</strong></td>
-<td>Summer Ecology Intern</td>
-<td>Winnipeg<br>MB<br>ca</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000125153359"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>EDITX BV</strong></td>
-<td>System Administrator | International Company</td>
-<td>BE (BE332)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ODg0MDkyNWMtMDY1ZS00ZjFkLTkwYjgtZTBhMzM0OWE2NjkxIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Go4Jobs (Midden West-Vlaanderen) NV</strong></td>
-<td>Internal Sales</td>
-<td>BE (BE328)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YzNkMGFmNzMtNDc0MC00MDYzLTg5NzctOWNlMGFlOTE1OWY2IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>24/7 drive BV</strong></td>
-<td>Driver ADR Tank International</td>
-<td>BE (BE32B)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OWU5OTk0ODgtMGZhZC00YmQ4LTgyNTYtYjI1MGFkOWIzOWM1IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>YONTEC NV</strong></td>
-<td>Internationaal Service Technieker (eerste project te Duitsland)</td>
-<td>BE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NWM3NGJhNDEtOGQyMS00ZjdmLTgyMzAtZTM0MzY0MTEwZWQzIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>HOUSE OF RECRUITMENT SOLUTIONS BV</strong></td>
-<td>Sr Underwriter Construction - Brussels - International Insurer</td>
-<td>BE (BE100)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YWEzYjlkODItN2RlYS00ZDU0LTk4YzItOTkxOGYwNmIyMmZmIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>COMMUNE D&#x27;IXELLES</strong></td>
-<td>UN.E CONSEILLER.E EN PRÉVENTION DE NIVEAU 2 Pour le Service Interne pour la Prévention et la Protection au Travail. H/F/X</td>
-<td>BE (BE100)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTg2MDc2MSAy?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>AUSTIN BRIGHT BV</strong></td>
-<td>Senior Accountant - International and Dynamic Environment</td>
-<td>BE (BE100)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OGZjOTdmZDUtNGY4NC00OTdkLWFkYzQtYjZhMmEyNjI5ZWY2IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>STUDIO 47 Stadtfernsehen Duisb urg GmbH &amp; Co. KG</strong></td>
-<td>Volontariat TV-Redaktion (Journalismus) (all genders) (Redaktionsvolontär/in)</td>
-<td>DE (DEA12)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzExNjI3Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Ev.-Luth. Kita-Werk Hamburg-West/Südholstein</strong></td>
-<td>Erzieher / SPA (m/w/d) 25 - 30 Std hausinterne Springkraft Kita Elb-Arche (Erzieher/in)</td>
-<td>DE (DEF09)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIwNzIxNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Delivery Hero SE</strong></td>
-<td>Senior Director, International Finance (Leiter/in - Finanz- und Rechnungswesen)</td>
-<td>DE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAzOTAtOTQ4MjIxNzUyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>1 &amp; 1 Mail &amp; Media Applications SE</strong></td>
-<td>Manager Internal Communications (f/m/d) (Kommunikationsassistent/in)</td>
-<td>DE (DE212<br>DE122)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyMDM4MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>IPRI International Performance Research Institute</strong></td>
-<td>Werkstudent(in) in einem betriebswirtschaftlichen Forschungsinstitut (m/w/d) (Wirtschafts- und Sozialstatistiker/in)</td>
-<td>DE (DE111)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE2NTkzNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>Veolia Umweltservice Ost GmbH</strong></td>
-<td>Interne Fachkraft für Arbeitssicherheit (&quot;SiFa&quot;) für Thüringen - (w/m/d) (Fachkraft - Arbeitssicherheit)</td>
-<td>DE (DEG02<br>DE91C)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA0MTItMjI4NDI2Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>MK Maschinenbau Kubitza GmbH</strong></td>
-<td>Sachbearbeiter Auftragsabwicklung &amp; Export (m/w/d) – Internationaler Maschinenbau (Bürokaufmann/-frau)</td>
-<td>DE (DE71B)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE1MDQ0Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Office People Personalmanagement GmbH</strong></td>
-<td>Lohnsachbearbeiter (m/w/d) intern (Personalsachbearbeiter/in)</td>
-<td>DE (DE5)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyMDMtYjk0YWY3N2NjOWUxNDk0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Office People Personalmanagement GmbH</strong></td>
-<td>Personaldisponent (m/w/d) intern (Personaldisponent/in)</td>
-<td>DE (DE501)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyMDMtMzIzMWFkZDNkMjYyNGMwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>AllCon Service &amp; Dienstleistungs GmbH</strong></td>
-<td>Schweißer international (Schweißer/in)</td>
-<td>DE (DEE03<br>DE929<br>DE803)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ3NTEtMjI4QTgzOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>KLC IDIOMAS Y FORMACION S L U</strong></td>
-<td>DOCENTE CERTIFICADO PROFESIONAL COMM0110-MARKETING Y COMPRAVENTA INTERNACIONAL</td>
-<td>ES (ES425)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzM5OTI1MCAxMDI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>DEPENCARE SL</strong></td>
-<td>CUIDADOR/A INTERNO/A ENTRE SEMANA VITORIA</td>
-<td>ES (ES211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzM3NTg5NSAxMDI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Haaga-Helia ammattikorkeakoulu Oy</strong></td>
-<td>Project Specialist, International Student Service</td>
-<td>FI (FI1B1)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NGUzN2M4MTktMWM5Mi00NjcxLThhN2MtMmQ5ZjkzY2RiZjJiIDgx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>International Affairs Specialist</td>
-<td>FI (FI1B1)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTlkMzQ5NDgtN2ZkOS00ZTBmLWJlNWUtOWZkNTg4ZjM3ZTQzIDgx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>CENTRE DES MONEDIERES</strong></td>
-<td>Educateur d&#x27;internat (H/F)</td>
-<td>FR (FRI21)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5U1pMSiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>Non renseigné</strong></td>
-<td>Technicien SAV Itinérant France &amp; International (H/F)</td>
-<td>FR (FRE23)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5UFRIUCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><strong>Prodigital Sverige AB</strong></td>
+<td>Internship digital marknadsföring, försäljning</td>
+<td>SE (SE121)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY4MDY0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong>alten</strong></td>
-<td>Stage Innovation : Ingénieur Génie Logiciel / Intelligence Artificielle</td>
-<td>Sèvres<br>IDF<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/alten/744000134199618"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Stage Innovation : Ingénieur Conception Mécanique / Biomécanique</td>
+<td>Toulouse<br>Occitanie<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/alten/744000134199148"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
-<td><strong>cima2</strong></td>
-<td>Conseillère ou Conseiller senior, communications internes (mandat 12 mois)</td>
-<td>Saguenay<br>Quebec<br>ca</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/cima2/744000133587964"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
+<td><strong>alten</strong></td>
+<td>Stage Innovation : Ingénieur Réseaux &amp; DevOps</td>
+<td>Sèvres<br>IDF<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/alten/744000132837901"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>alten</strong></td>
+<td>Stage Innovation : Ingénieur Robotique / Mécatronique</td>
+<td>Toulouse<br>Occitanie<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/alten/744000125846968"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>angloamericandebeersgroup</strong></td>
+<td>PR Intern</td>
+<td>Paris<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/angloamericandebeersgroup/744000127654249"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>applusidiada1</strong></td>
+<td>Internship - Passive Safety</td>
+<td>Tarragona<br>CT<br>es</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/applusidiada1/744000132998864"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>averydennison</strong></td>
+<td>Stage en alternance département EHS</td>
+<td>Soignies<br>Région Wallonne<br>be</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/averydennison/744000129937610"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>canva</strong></td>
+<td>HR Business Partner Director - International</td>
+<td>London<br>gb</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/canva/6000000001071638"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>coface</strong></td>
+<td>Alternance - Chargé de développement commercial BI Mid Market</td>
+<td>Bois-Colombes<br>IDF<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/coface/744000131144234"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong>continental</strong></td>
-<td>Intern de ESH</td>
-<td>San Luis Potosí - Tires<br>SAN LUIS POTOSÍ<br>mx</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/continental/744000131985540"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
+<td>HR Generalist Intern</td>
+<td>Petaling Jaya<br>Selangor<br>my</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/continental/744000132134525"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong>continental</strong></td>
-<td>Die shop Internship (นักศึกษาฝึกงานแผนกแม่พิมพ์) วุฒิ ปวส</td>
-<td>Pluakdaeng<br>th</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/continental/744000127570379"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Accounting Internship (นักศึกษาฝึกงาน) วุฒิปริญญาตรี</td>
+<td>Pluak Daeng<br>RAYONG<br>th</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/continental/744000131805985"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>continental</strong></td>
+<td>Supply Chain Management Intern</td>
+<td>Singapore<br>sg</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/continental/744000129921531"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>continental</strong></td>
+<td>Internship HR (8h) - Tires</td>
+<td>Timișoara<br>TM<br>ro</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/continental/744000128233531"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>culinagroup1</strong></td>
-<td>Transport Team Leader **Internal Applicants Only**</td>
-<td>Spalding<br>gb</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/culinagroup1/744000134721390"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>cornerstonebuildingbrandscareers</strong></td>
-<td>Senior Software Engineer (Azure &amp; Internal Business Applications)</td>
-<td>San José<br>San José Province<br>cr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/cornerstonebuildingbrandscareers/3743990013692339"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>deliveryhero</strong></td>
-<td>Intern</td>
-<td>Tunis<br>tn</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/deliveryhero/744000134187639"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>MI and Reporting Manager *Internal applications only*</td>
+<td>Stafford<br>UK - West Midlands - Staffordshire<br>gb</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/culinagroup1/744000134200039"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
 <td><strong>deliveryhero</strong></td>
-<td>Data Analytics &amp; Strategy Intern</td>
-<td>San Salvador<br>sv</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/deliveryhero/744000126574339"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Intern Account Manager Top Accounts Spain</td>
+<td>Madrid<br>es</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/deliveryhero/744000132583632"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>deliveryhero</strong></td>
+<td>Intern Commercial Strategy Analyst</td>
+<td>Madrid<br>es</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/deliveryhero/744000129186559"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>dominos</strong></td>
-<td>Assistant Manager (09459) - 11951 International Dr, Ste C5</td>
+<td>Delivery Driver(03897) - 8957 International Dr</td>
 <td>Orlando<br>FL<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/dominos/744000134628718"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/dominos/744000132524679"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
 </tr>
 <tr>
-<td><strong>dominos</strong></td>
-<td>Customer Service Rep(09459) - 11951 International Dr, Ste C5</td>
-<td>Orlando<br>FL<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/dominos/744000132302057"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
+<td><strong>endava</strong></td>
+<td>Internal Tech - IT Software Asset Management Officer</td>
+<td>Bengaluru<br>Karnataka<br>in</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/endava/744000126473559"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>expeditors</strong></td>
+<td>“Talent Pool” - Banco de Talentos para Estágio</td>
+<td>Manaus<br>AM<br>br</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/expeditors/744000133593329"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>expeditors</strong></td>
+<td>Full-Time Internship - Customs Brokerage</td>
+<td>Torrance<br>CA<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/expeditors/744000131983601"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong>experian</strong></td>
-<td>Internal Auditor - IT</td>
-<td>Mumbai<br>in</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/experian/744000126000524"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>Accounting Associates Graduate (Global Finance)</td>
+<td>Cyberjaya<br>Selangor<br>my</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/experian/744000132120535"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong>eurofins</strong></td>
-<td>Business Intelligence Intern</td>
-<td>Lancaster<br>PA<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/eurofins/744000131132249"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>MBO Stagiair(e) Allround Laborant</td>
+<td>Barneveld<br>GE<br>nl</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/eurofins/744000133374809"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Stagiair(e) MBO 3 &amp; 4 Chemische analyses</td>
+<td>Barneveld<br>GE<br>nl</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/eurofins/744000133369085"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>eurofins</strong></td>
+<td>Ingénieur.e Amélioration Continue en stage</td>
+<td>Colomiers<br>Occitanie<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/eurofins/744000131131369"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
 <td><strong>eurofins</strong></td>
-<td>Praktyki/Staż w laboratorium żywnościowym</td>
-<td>Łódź<br>Łódź Voivodeship<br>pl</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/eurofins/744000126943744"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>Internship in Global Purchasing Department (M/F)</td>
+<td>Katowice<br>Silesian Voivodeship<br>pl</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/eurofins/744000129994469"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>fortunebrands</strong></td>
+<td>Merchandising Operations Intern</td>
+<td>Deerfield<br>ILLINOIS<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/fortunebrands/744000132478208"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>frasersgroup</strong></td>
+<td>Senior Internal Auditor</td>
+<td>Shirebrook<br>England<br>gb</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/frasersgroup/744000132897794"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>gerresheimer</strong></td>
-<td>Praktikum im Bereich Additive Manufacturing (m/w/d) zur systematischen Versuchsplanung (Design of Experiment)</td>
+<td>Abschlussarbeit - Automatisierung von 3D - Messmaschinen zu Vermessung von Formeinsätzen im medizintechnischen Werkzeugbau</td>
 <td>Wackersdorf<br>Bavaria<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/gerresheimer/744000129101889"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/gerresheimer/744000124584390"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>greencrosspetwellnesscompany</strong></td>
-<td>Veterinary Specialist - Internal Medicine - MVSC Glen Waverly</td>
-<td>Glen Waverley<br>VIC<br>au</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/greencrosspetwellnesscompany/744000125251919"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>Veterinary Internal Medicine Internship - VRH Dandenong</td>
+<td>Dandenong<br>VIC<br>au</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/greencrosspetwellnesscompany/744000132731399"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong>grab</strong></td>
-<td>Intern Data Scientist, Geo Maps</td>
-<td>Cluj Napoca<br>ro</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/grab/744000130802021"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>hanagroup</strong></td>
-<td>Stagiaire ingénieur qualité H/F</td>
-<td>Levallois-Perret<br>IDF<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/hanagroup/744000124826395"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>linkedin3</strong></td>
-<td>Sales Manager, Large Customers International (Benelux) – LinkedIn Marketing Solutions</td>
-<td>Amsterdam<br>nl</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/linkedin3/744000134200782"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>linkedin3</strong></td>
-<td>Sales Sr. Manager, Large Customers International (DACH) (m/f/d) – LinkedIn Marketing Solutions</td>
-<td>Munich<br>BY<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/linkedin3/744000130024070"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>llnl</strong></td>
-<td>Materials Science Division Graduate Intern - Fall 2026</td>
-<td>Livermore<br>CA<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/llnl/3743990013250937"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>metgroup</strong></td>
-<td>Business Development Expert</td>
-<td>Budapest<br>hu</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/metgroup/744000134738605"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>muchprosperitytradinginternationalinc</strong></td>
-<td>Ecommerce Intern</td>
-<td>Manila<br>NCR<br>ph</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/muchprosperitytradinginternationalinc/744000134701549"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>ncc</strong></td>
-<td>Praktikplads i NCC, Infrastructure, København/Sjælland, Efterår 2026</td>
-<td>Søborg<br>dk</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/ncc/744000132344339"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>netcompany1</strong></td>
-<td>Trainee Lawyer</td>
-<td>Athens<br>gr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/netcompany1/744000132603539"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>nbcuniversal3</strong></td>
-<td>Artist Management Intern, DreamWorks Animation, Fall 2026</td>
-<td>Glendale<br>CALIFORNIA<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/nbcuniversal3/744000133438250"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>nielseniq</strong></td>
-<td>Customer Success Intern (6 months contract)</td>
-<td>Sofia<br>23<br>bg</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/nielseniq/744000132572589"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>ontariotransitgroup</strong></td>
-<td>Heavy Equipment Mechanic</td>
-<td>Toronto<br>ON<br>ca</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/ontariotransitgroup/744000132864211"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Intern, Strategy &amp; Analytics, Transport</td>
+<td>Singapore<br>sg</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/grab/744000132986239"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>12d</td>
 </tr>
 <tr>
-<td><strong>pro-beam systems GmbH</strong></td>
-<td>Servicetechniker (m/w/d) im internationalen Umfeld (Vertriebsassistent/in)</td>
-<td>DE (DED42)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1MTEtMjAyNlgwMDAwMDUxMDQ1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>humecitycouncil</strong></td>
+<td>Tertiary Student Placement- Early Years</td>
+<td>Broadmeadows<br>VIC<br>au</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/humecitycouncil/744000131596750"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>jsheldllc</strong></td>
+<td>Project Support Services Internship - Spring 2027</td>
+<td>Indianapolis<br>IN<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/jsheldllc/744000129535749"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>keenfinity</strong></td>
+<td>AI &amp; Imaging Processing Intern</td>
+<td>Eindhoven<br>NB<br>nl</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/keenfinity/744000130188229"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>jysk</strong></td>
+<td>SCHÜLERPRAKTIKUM IM VERKAUF (M/W/D) - Bonn</td>
+<td>Bonn<br>NRW<br>de</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/jysk/744000134448059"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jysk</strong></td>
+<td>Stagiair(e) Business to Business (B2B)</td>
+<td>Schoten<br>Vlaanderen<br>be</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/jysk/744000131127386"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>kpffconsultingengineers</strong></td>
+<td>Survey  - Land Survey Intern</td>
+<td>San Diego<br>CA<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/kpffconsultingengineers/3743990013100936"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>G.A.A. Ges. für Abwasser- und Abfalltechnik mbH</strong></td>
-<td>Projektleiter (m/w/d) für nationale und internationale Projekte (Projektingenieur/in)</td>
-<td>DE (DEF06)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjU2NTA1Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>miratech1</strong></td>
+<td>Recruitment Researcher Intern</td>
+<td>Lutsk<br>Volyn Oblast<br>ua</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/miratech1/744000131829424"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>northwesternmedicine</strong></td>
+<td>Medical Assistant - Family Medicine and Internal Medicine Full-time Days</td>
+<td>Bloomingdale<br>IL<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/northwesternmedicine/744000127750829"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>dennree GmbH</strong></td>
-<td>Abiturientenprogramm (m/w/d) - Zentralregion (2026) (Fachwirt/in - Handel)</td>
-<td>DE (DE249)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjctNXlqeWNuZGItUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>SenCom GmbH</strong></td>
-<td>Mitarbeiter Interne Organisation / Auftragsabwicklung (m/w/d) Vollzeit (Industriekaufmann/-frau)</td>
-<td>DE (DE21K)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIxNTY0Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>elasto GmbH &amp; Co. KG</strong></td>
-<td>Sachbearbeiter Einkauf International (m/w/d) (Sachbearbeiter/in - Einkauf)</td>
-<td>DE (DE234)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQyMDA0OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>MBDA Deutschland GmbH</strong></td>
-<td>Project Manager (w/m/d) Internationale Geschäftsfeldentwicklung (Wirtschaftsingenieur/in)</td>
-<td>DE (DE21I)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE0MDc5Ny1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>WLS-Spedition GmbH West</strong></td>
-<td>Berufskraftfahrer (m/w/d) nationaler &amp; internationaler Fernverkehr (Berufskraftfahrer/in)</td>
-<td>DE (DE262)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjYxNjU4Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Ostbayerische Technische Hochschule Amberg-Weiden Land Bayern</strong></td>
-<td>Studiengangskoordinator f. d. internat. Studiengänge der Fakultät Maschinenbau/Umwelttechnik (m/w/d) (Studiengangkoordinator/in)</td>
-<td>DE (DE2)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjg2NDQ0NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Fehr Lagerlogistik GmbH</strong></td>
-<td>Servicetechniker international (m/w/d) (Wartungs- und Servicetechniker/in - Maschinenbau)</td>
-<td>DE (DE123)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI2Mjg5MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>Puls GmbH</strong></td>
-<td>Marketing Manager Channel International &amp; Events (Betriebswirt/in (Hochschule) - Marketing)</td>
-<td>DE (DE131)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk0NzMtMDA2NTYwMzg2Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Airbus Defence and Space GmbH</strong></td>
-<td>Werkstudent im Bereich Strategic Procurement Armament, Electronic Warfare and Drones (d/m/w) (Einkäufer/in)</td>
-<td>DE (DE147)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTUwNzc4MTc5LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><strong>GI GROUP S.P.A.</strong></td>
+<td>collaudatore di circuiti stampati/collaudatrice di circuiti stampati</td>
+<td>IT (ITC47)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OTY1MjQ0IDE3?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Intern in Requirements Management of Space Projects (d/f/m) (Ingenieur/in - Luft- und Raumfahrttechnik)</td>
-<td>DE (DE147)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTUwNzQwNDUwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>assistente alle risorse umane</td>
+<td>IT (ITC41)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OTY1MDI4IDE3?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
 </tr>
 <tr>
-<td><strong>Airbus Defence and Space GmbH</strong></td>
-<td>Masterand im Bereich Raumfahrtgebundene Radarnutzlasten / Digital Embedded Electronics (d/m/w) (Ingenieur/in - Luft- und Raumfahrttechnik)</td>
-<td>DE (DE147)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NTY3NTYwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>SVEUČILIŠTE U ZAGREBU EKONOMSKI FAKULTET</strong></td>
+<td>RADNO MJESTO II. VRSTE – VODITELJ/ICA USTROJSTVENIH JEDINICA II. VRSTE, INTERNI NAZIV: SAMOSTALNI/A REFERENT/ICA ZA OBRAČUN PLAĆA I NAKNADA</td>
+<td>HR</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mjg2ODI3NyAxOQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>POLIKLINIKA ZA DIJALIZU FRESENIUS MEDICAL CARE</strong></td>
+<td>DOKTOR/DOKTORICA MEDICINE - SPECIJALIST/SPECIJALISTICA INTERNE MEDICINE</td>
+<td>HR</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mjg1NTAzOSAxOQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Stiftung St.Franziskus Heiligenbronn</strong></td>
-<td>Pflege- und Erziehungshelfer (w/m/d) - Internat in Schramberg-Heiligenbronn (Kindergartenhelfer/in)</td>
-<td>DE (DE135)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI0MjE1MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td><strong>Glanua</strong></td>
+<td>Construction - Health &amp; Safety Internship/Placement</td>
+<td>IE</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU3MyAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
 </tr>
 <tr>
-<td><strong>Klinikum der Landeshauptstadt Stuttgart gKAöR</strong></td>
-<td>Pflegefachkraft  für die internistische Intensivstation F21A mit dem Schwerpunkt ECMO-Therapie  (m/w (Gesundheits- und Krankenpfleger/in)</td>
-<td>DE (DE111)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5MzgtMzM4MV9KQjUxNjUwOTQtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
+<td><strong>non renseigné</strong></td>
+<td>Experienced Assistant - Cabinet d&#x27;Avocats International (H/F)</td>
+<td>LU</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzczNzYyMCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
 </tr>
 <tr>
-<td><strong>RIKOM GmbH</strong></td>
-<td>Betreuung von Privat- und Gewerbekunden im Bereich Internet- und Telefonanschlüssen sowie Netzwerken (Servicetechniker/in - IT)</td>
-<td>DE (DEG0U)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjk0NTUxMi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td><strong>SPLOŠNA BOLNIŠNICA IZOLA OSPEDALE GENERALE ISOLA, Polje 40 , 6310 IZOLA - ISOLA</strong></td>
+<td>E034005 - BOLNIČAR NEGOVALEC, SPREMLJEVALEC V BOLNIŠNIČNI DEJAVNOSTI (ODDELEK ZA INTERNO MEDICINO) - M/Ž</td>
+<td>SI (SI044)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQ0Mzg3NCAxNA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
 </tr>
 <tr>
-<td><strong>Brilliant Personaldienste GmbH</strong></td>
-<td>Vertriebsdisponent (m/w/d) in der internen Personaldienstleistung (Fachberater/in - Vertrieb)</td>
-<td>DE (DED51<br>DEG05<br>DEG03)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIxODgwNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
+<td><strong>Temp Champ</strong></td>
+<td>Interner Produktauditor / Warenausgangsprüfer (m/w/d)</td>
+<td>AT (AT127)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTY0NzIgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Dynamic Personal</strong></td>
+<td>Interner Produktauditor / Warenausgangsprüfer/in (w/m/d)</td>
+<td>AT (AT127)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTUwNjkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>SIMACEK GmbH</strong></td>
+<td>Internal Auditor:in (m/w/d) in WIEN, Wien (Arbeitsplatz-Auditor/in)</td>
+<td>AT (AT130)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1NzkzNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>siehe Beschreibung</strong></td>
+<td>Internship - Analog Design Power Management System</td>
+<td>AT (AT211)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNjM2MjQgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>siehe Beschreibung</strong></td>
+<td>FACH- ODER ERFAHRENE/ER AUSBILDUNGSÄRZTIN/-ARZT FÜR INNERE MEDIZIN MIT SCHWERPUNKT INTERNISTISCHE ONKOLOGIE UND HÄMATOLO</td>
+<td>AT (AT342)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNDUyODQgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong>aumovio</strong></td>
-<td>Advanced Wireless Prototyping Intern [IDA:00029]</td>
+<td>Tools and AI Applications Value Creator Intern [IDA: 00047]</td>
 <td>Singapore<br>sg</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000126219269"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000134176119"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Corporate Functions Internship at AUMOVIO (TM)</td>
-<td>Timisoara<br>ro</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000124376271"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>aumovio</strong></td>
+<td>Intern de Calidad QMS</td>
+<td>Guadalajara - La Tijera<br>Jalisco<br>mx</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000133121317"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
-<td><strong>brainlab</strong></td>
-<td>Werkstudent:in HR Operations</td>
-<td>Munich<br>BY<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/brainlab/744000128903826"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>aumovio</strong></td>
+<td>ANS_Acccess Vehicle Demo Vehicle Setup and Testing support (Intern)</td>
+<td>yokohama city<br>Kanagawa<br>jp</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000132330604"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>aumovio</strong></td>
+<td>Pflichtpraktikum – Production IT und Cybersecurity - REF7484Y</td>
+<td>Villingen-Schwenningen<br>BW<br>de</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000129403383"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>aumovio</strong></td>
+<td>Robotics AI Engineer Intern [IDA: 00031]</td>
+<td>Singapore<br>sg</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/aumovio/744000126217915"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>boskalis</strong></td>
-<td>Meewerkstage Werkvoorbereiding en/of Uitvoering</td>
-<td>Oss<br>NB<br>nl</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/boskalis/744000128692020"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Meewerkstage Uitvoering</td>
+<td>Amsterdam<br>NH<br>nl</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/boskalis/744000124442150"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>EVG Lufttechnik GmbH</strong></td>
-<td>Internationaler Schweißfachmann / Schweißer (m/w/d) Edelstahl &amp; Anlagenbau (Schweißer/in)</td>
-<td>DE (DE115)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTgtU0RFLTk3ODk0LVNUQS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Bentley InnoMed GmbH</strong></td>
-<td>Internal Communication Specialist (m/w/d) im Bereich Corporate Communication (Kommunikationswissenschaftler/in)</td>
-<td>DE (DE143)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtYmY1NGY5OThfSkI1MTYzMTIxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Hechler, Matthias</strong></td>
-<td>Rechtsanwaltssekretariat mit Internetarbeit (Rechtsanwaltsfachangestellte/r)</td>
-<td>DE (DE11D)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjcxNjM3Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Bott GmbH &amp; Co KG</strong></td>
-<td>Key Account Manager International (m/w/d) (Wirtschaftsingenieur/in)</td>
-<td>DE (DE11A)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDUtMjY1Mjg5LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Schwarz Corporate Solutions KG</strong></td>
-<td>Bauingenieur / Architekt Revision International (m/w/d) (Ingenieur/in - Bau)</td>
-<td>DE (DE118)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDUtMjgxNjkzLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>PerZukunft Arbeitsvermittlung GmbH&amp;Co.KG</strong></td>
-<td>Auslieferungsfahrer (m/w/d) - international - Vollzeit (Auslieferungsfahrer/in (nicht Verkaufsfahrer/in))</td>
-<td>DE (DE300)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIwMTYtMTAwMDQ3MjMyODgtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>PerZukunft Arbeitsvermittlung GmbH&amp;Co.KG</strong></td>
-<td>Bürokauffrau /mann für internationale Pharmagesellschaft (Bürokaufmann/-frau)</td>
-<td>DE (DE300)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIwMTYtMTAwMDQ2OTI5NTYtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>Jan Pethe Interim Management &amp; Consulting GmbH</strong></td>
-<td>Kreditanalyst (m/w/d) im internationalen Bankensektor (Kreditmanager/in)</td>
-<td>DE (DE7)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjIxNDE3NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Hausarzt / Allgemeinmediziner / Internist (m/w/d) attraktive Vergütung (Facharzt/-ärztin - Allgemeinmedizin (Hausarzt/-ärztin))</td>
-<td>DE (DE714)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMzYxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Internist (m/w/d) MVZ-Tätigkeit | Rhein-Main-Gebiet (Facharzt/-ärztin - Innere Medizin)</td>
-<td>DE (DE713)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMDc4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Internist (m/w/d) Raum Darmstadt (Facharzt/-ärztin - Innere Medizin)</td>
-<td>DE (DE711)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMDgxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>ISG Personalmanagement GmbH</strong></td>
-<td>International Key Account Manager (m/w/d) (Account-Manager/in)</td>
-<td>DE (DE7)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE4NTE5OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>HIT Personaldienstleistungen GmbH</strong></td>
-<td>Interner Transporteur (m/w/d) (Fachkraft - Lagerlogistik)</td>
-<td>DE (DE939)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyMzctWlYxVTIyN0Q2VDZIRFdBNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>Brunel GmbH NL Osnabrück</strong></td>
-<td>International Contract Specialist (w/m/d) (Ingenieur/in - Maschinenbau)</td>
-<td>DE (DE9)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIzNjItVFItMjgxNTM2XzYxMjMzMUxTLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>SYNERGIE AMPHENOL</strong></td>
-<td>Formation INTERNE Monteur Câbleur aéronautique F/H</td>
-<td>FR (FRG01)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5V0JZUCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>CCI LE MANS SARTHE</strong></td>
-<td>Chargé de missions mobilité européenne et internationale F/H</td>
-<td>FR (FRG04)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDE2Mjk5NCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>NPEV DISTRIBUTION - CARREFOUR</strong></td>
-<td>Agent de sécurité - Service Interne (H/F)</td>
-<td>FR (FRG01)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwQ1RGUCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>ADEQUAT INTERIM</strong></td>
-<td>FORMATION Interne AIRBUS Monteur Systèmes  (PQHA) F/H</td>
-<td>FR (FRG01)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5VlhUWiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>CREPS VICHY</strong></td>
-<td>Assistant d&#x27;éducation - Maître d&#x27;internat et d&#x27;externat #TSVICHY (H/F)</td>
-<td>FR (FRK11)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwQkhNWiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>ED-TRANS</strong></td>
-<td>Affréteur national et international F/H/X</td>
-<td>FR (FRI15)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzUzNjgzMyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Auditeur / Auditrice interne (H/F)</td>
-<td>FR (FRC21)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzk4NDU3OCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>RECYCL&#x27;AUTO 60</strong></td>
-<td>VENDEUR INTERNET PIECES DETACHEES MOTO / AGENT EXPEDITION (H/F)</td>
-<td>FR (FRE22)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5WERRUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>ASSOCIATION CONCORDIA</strong></td>
-<td>Animateur colonie de jeunes internationaux (H/F)</td>
-<td>FR (FRE23)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5V1pOWiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>lecab-bfc</strong></td>
-<td>Responsable Paie &amp; Administration du Personnel interne groupe H/F</td>
-<td>FR (FRC11)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MzkyMSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Technicien monteur itinérant (International et National) H/F</td>
-<td>FR (FRF11)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQ5OTIzMyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>SILL DAIRY INTERNATIONAL</strong></td>
-<td>Opérateur de production F/H - SILL DAIRY INTERNATIONAL</td>
-<td>FR (FRH02)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzkyNDQ0NCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>SILL DAIRY INTERNATIONAL</strong></td>
-<td>Contrôleur qualité F/H - SILL DAIRY INTERNATIONAL</td>
-<td>FR (FRH02)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE5ODY1OCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>ASSISTANTE / ASSISTANT ACHATS INTERNATIONAUX CONFIRMÉ - TEMPS PLEIN  H/F</td>
-<td>FR (FRF22)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQxNzAxOSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>DCM USIMECA</strong></td>
-<td>Technicien SAV itinérant international H/F</td>
-<td>FR (FR105)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjI5NzE3NCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>VYGON SAS</strong></td>
-<td>Chef de produit international F/H - Marketing (H/F)</td>
-<td>FR (FR108)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzUzMjQ1OSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Responsable S&amp;OP International (F/H)</td>
-<td>FR (FR105)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQ5ODMxNSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>Airbus Defence and Space GmbH</strong></td>
-<td>Working Student in the field of Group Controlling (d/f/m) (Elektroniker/in - Luftfahrttechnische Systeme)</td>
-<td>DE (DE600)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTUxMDAxOTM4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>careers.roche.com</strong></td>
+<td>Strategic Talent Acquisition Intern - German advantage</td>
+<td>Budapest<br>Pest<br>Hungary</td>
+<td><div align="center"><a href="https://careers.roche.com/job/202606-114690"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>20d</td>
 </tr>
 <tr>
-<td><strong>DEKRA Arbeit GmbH</strong></td>
-<td>Junior Sales Manager International – Englisch &amp; Arabisch (m/w/d) (Sales-Manager/in)</td>
-<td>DE (DE600)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTktNDg2MTE1MDM5NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Vodafone GmbH</strong></td>
-<td>International Account Manager (m/w/d) Automotive (Account-Manager/in)</td>
-<td>DE (DEA11<br>DEA1C<br>DE600)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcxMDItNDQyMDE0MzItNTI3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Tempton Personaldienstleistungen GmbH NL Hamburg-Harbug</strong></td>
-<td>LKW-Disponenten (m/w/d) Fernverkehr National/International (Disponent/in - Güterverkehr)</td>
-<td>DE (DE600)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ3NTEtMzczQTEwMTI1My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>Finanz Informatik GmbH &amp; Co. KG</strong></td>
-<td>Product Owner Internet-Filiale Vertrieb (m/w/d) (Wirtschaftsinformatiker/in (Hochschule))</td>
-<td>DE (DE929<br>DE712<br>DEA33)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM4ODQtMzM1ODk0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Praxis Dr.Hofmann</strong></td>
-<td>Medizinische Fachangestellte (m/w/d) für moderne internistische und kardiologische Praxis (Medizinische/r Fachangestellte/r)</td>
-<td>DE (DE712)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAxMDctM2NkYjk2YmM1MGE4MTM4YTJlMy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Hausarzt / Allgemeinmediziner / Internist (m/w/d) | Raum Eberswalde – Hausärztliches MVZ (Facharzt/-ärztin - Allgemeinmedizin (Hausarzt/-ärztin))</td>
-<td>DE (DE405)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMzIyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>ARWA Personaldienstleistungen GmbH NL Ludwigsfelde</strong></td>
-<td>Recruiter für internationales Recruiting (m/w/d) Vollzeit (Personalberater/in)</td>
-<td>DE (DE40H)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQzODUtNjI1LTIzOTRQLTI2LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>AMD TÜV Arbeitsmedizinische Di enste GmbH TÜV Rheinland Group</strong></td>
-<td>Integrationsmanager*in für internationale Auszubildende (w/m/d) / 20197 (Integrationsmanager/in)</td>
-<td>DE (DE40B)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTYxMjktMjAxOTctNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Raben Trans European Germany GmbH</strong></td>
-<td>Leitung Transport Internationale Verkehre/ Transport Team Leader International (m/w/d) (Logistiker/in)</td>
-<td>DE (DE925)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtMWYyYWE0MmItN2Y2Ny00ZWM2LS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>eLogix GmbH</strong></td>
-<td>Trainee – Nachwuchsführungskraft Logistik / Junior Operations Manager (m/w/d) (Leiter/in - Logistik)</td>
-<td>DE (DE94E)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI2MDI3My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
-</tr>
-<tr>
-<td><strong>NVL B.V. &amp; Co. KG</strong></td>
-<td>Project Lead (m/f/d) International Defence Programs (Projektleiter/in)</td>
-<td>DE (DE94G)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjI5NjQxMC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>Rheinmetall AG</strong></td>
-<td>International Production Network Material Manager (m/w/d) (Prozessmanager/in - RPA)</td>
-<td>DE (DE931)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTU5MzktQkItNjMzNzc2LTc4NzgtNTEzNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>Sr. Applied Scientist, Alexa International</td>
-<td>Turin<br>Piedmont<br>ITA</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10438450/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>Senior Applied Scientist, International Machine Learning</td>
-<td>Bengaluru<br>Karnataka<br>IND</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10459652/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>Sr. Go-to-Market Specialist, Amazon Ads International Expansion GTM</td>
-<td>Toronto<br>Ontario<br>CAN</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10446631/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>Sr. Business Development Manager, International Expansion , Amazon Publisher Cloud (APC), Amazon Publisher Services (APS), Amazon Ads</td>
-<td>New York<br>New York<br>USA</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10450366/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>Social Channels &amp; Platforms Manager, Prime Video International - Social Media</td>
-<td>London<br>England<br>GBR</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10429020/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Production Coordinator, International Originals Production &amp; Post Team, Europe</td>
-<td>London<br>England<br>GBR</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10425265/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2027 Tax Intern (Summer Internship)</td>
-<td>Seattle<br>Washington<br>USA</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10435122/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>2027 Amazon Operations Finance Rotational Program Summer Internship</td>
-<td>Seattle<br>Washington<br>USA</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10435673/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>2027 Amazon Finance Rotation Program - Business Unit Finance Intern</td>
-<td>Seattle<br>Washington<br>USA</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10435672/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td>🔥 <strong>Amazon</strong></td>
-<td>Communications Specialist, Operations Internal Communications, Operations Internal Communications</td>
-<td>Dubai<br>ARE</td>
-<td><div align="center"><a href="https://account.amazon.jobs/jobs/10444909/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>H&amp;G Hansen &amp; Gieraths EDV Vertriebs GmbH</strong></td>
-<td>Interner Microsoft Dynamics 365 Business Central Anwendungsentwickler (m/w/d)</td>
-<td>Bonn<br>Nordrhein-Westfalen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/13635-99c69d79_JB5184317-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>BMW AG</strong></td>
-<td>Intern Communication Management (f/m/x)</td>
-<td>München<br>Bayern<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1585597-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td><strong>GOLDBECK GmbH</strong></td>
-<td>Trainee (m/w/d) - International Top Graduate Program</td>
-<td>Berlin<br>Berlin<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1206621147-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Facharzt Internistische Onkologie (m/w/d) östliche Region Hannover</td>
-<td>Lehrte bei Hannover<br>Niedersachsen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/19009-k61739.10606-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Facharzt Internistische Onkologie (m/w/d) Raum Haag in Oberbayern</td>
-<td>Haag in Oberbayern<br>Bayern<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/19009-k61739.10584-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Facharzt Internistische Onkologie (m/w/d) MVZ-Tätigkeit</td>
-<td>Kaarst<br>Nordrhein-Westfalen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/19009-k61739.10546-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Facharzt Internistische Onkologie (m/w/d) Kölner Süden</td>
-<td><details><summary><strong>4 locations</strong></summary>Hürth<br>Rheinland<br>Nordrhein-Westfalen<br>Deutschland</details></td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/19009-k61739.10512-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td><strong>Dirk Rossmann GmbH</strong></td>
-<td>Praktikant / Werkstudent (m/w/d) International Markets</td>
-<td>Burgwedel<br>Niedersachsen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/12942-1591420-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td><strong>JT International Germany GmbH TRIER</strong></td>
-<td>Duales Studium bei JTI - International Business Administration+Ausbildung Industriekaufmann (m/w/d)</td>
-<td>Trier<br>Rheinland-Pfalz<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002933713-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>Today</td>
-</tr>
-<tr>
-<td><strong>Telair International GmbH</strong></td>
-<td>Werkstudent (m/w/d) Sales &amp; Marktanalysen - Luftfahrt, Telair International GmbH</td>
-<td>Miesbach<br>Bayern<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/12811-2255388-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>Speer GmbH &amp; Co. KG</strong></td>
-<td>Fahrer (m/w/d) Teilzeit oder Vollzeit (intern)</td>
-<td>Mannheim<br>Baden-Württemberg<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003302931-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Landschulheim Grovesmühle gGmbH</strong></td>
-<td>Sozialpädagogen / Erzieher  als Internatsbetreuer (m/w/d)</td>
-<td>Veckenstedt<br>Sachsen-Anhalt<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002624496-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Jobanzeige</strong></td>
-<td>Kollege (allg. Mediziner / Internist) (m/w/d)</td>
-<td>Vechta<br>Niedersachsen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/11858-16341097-STA-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>BFI Informationssysteme GmbH</strong></td>
-<td>IT Field Service Techniker (m/w/d) (intern)</td>
-<td>Göttingen<br>Niedersachsen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/15297-srz9xecv-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>NATIONAL-BANK AG</strong></td>
-<td>Experten (w/m/d) internes Kontrollsystem in Essen</td>
-<td><details><summary><strong>4 locations</strong></summary>Essen<br>Ruhr<br>Nordrhein-Westfalen<br>Deutschland</details></td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002188283-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>Deutsche Bahn AG</strong></td>
-<td>Praktikum Interne Kommunikation (w/m/d)</td>
-<td>Frankfurt am Main<br>Hessen<br>Deutschland</td>
-<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/12456-1578561-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>MIGUEL ANGEL SANTOS RAYA</strong></td>
-<td>EMPLEADOS DE HOGAR (INTERNOS)</td>
-<td>ES (ES640)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzM5NjY0NiAxMDI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>SD Worx Staffing Solutions NV</strong></td>
-<td>Internal Salesverantwoordelijke</td>
-<td>BE (BE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YjU5NmRjYjctYWMxNC00MDgwLTliMDAtZjg5NDJiNDBkZWQwIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Organisatie Broeders van Liefde VZW</strong></td>
-<td>Begeleider buitenhuis | Volwassenen LVB - MVB | Brecht | Onbepaalde duur 80% (Enkel intern)</td>
-<td>BE (BE211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDA2NTMzOWMtZTAyOS00NjU3LTljZGEtODQ3N2UwMzJlOTgyIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>JOBMATCH NV</strong></td>
-<td>Internal Sales Medewerker</td>
-<td>BE (BE234)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzIzNjJlMDAtMWY5MC00M2JhLWFiOTEtNDEwZWZmZGFjNmM0IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Evangelisches Krankenhaus Wesel GmbH</strong></td>
-<td>Mitarbeiter (m/w/d) im Bereich interner Patiententransport (Patientenmanager/in)</td>
-<td>DE (DEA1F)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1MTMtMDAwNzY0MjYxNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Diakonie Michaelshoven e.V.</strong></td>
-<td>Praktikant:in (m/w/d) im Praxissemester für unsere Fachberatungsstelle Köln-Kalk (Betreuungskraft / Alltagsbegleiter/in)</td>
-<td>DE (DEA23)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIzMDEzOC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>MPI f. Kohlenforschung</strong></td>
-<td>Student Assistant - Battery Electrode Manufacturing (Chemiker/in)</td>
-<td>DE (DEA16)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIwMzQzNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>H.B.S. Industriedienste GmbH + Co. KG Niederlassung Bergheim</strong></td>
-<td>Technischer Vertrieb mit internationaler Verantwortung (m/w/d) (Sales-Manager/in)</td>
-<td>DE (DEA27)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI3MzAtSUNSRjdNV1ZXUzM2TDgwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>Brunel GmbH NL Bielefeld</strong></td>
-<td>Kundenmanager - International (w/m/d) (Supply-Chain-Manager/in)</td>
-<td>DE (DEA41)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIzNjItUFItMjY3Mzc2XzYxNTE5N0xTLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Internist (m/w/d) Großraum Moers | ambulant (Facharzt/-ärztin - Innere Medizin)</td>
-<td>DE (DEA1F)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwNDg4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Internist (m/w/d) nördliches Ruhrgebiet (Facharzt/-ärztin - Innere Medizin)</td>
-<td>DE (DEA31)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwNDk0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Facharzt Internistische Onkologie (m/w/d) Vollzeit oder Teilzeit (Facharzt/-ärztin - Innere Medizin und Hämatologie und Onkologie)</td>
-<td>DE (DEA43)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMjQ4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>PolyTALENT GmbH</strong></td>
-<td>Elektriker Anlagenbau &amp; Inbetriebnahme International (m/w/d) (Bauelektriker/in)</td>
-<td>DE (DEA34)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTg2NTktMTYzNTE5MzMtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Sanovetis GmbH</strong></td>
-<td>Facharzt Internistische Onkologie (m/w/d) Leipziger Umland (Facharzt/-ärztin - Innere Medizin und Hämatologie und Onkologie)</td>
-<td>DE (DED53)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5Ljk4MjktUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Klinikum Fürth</strong></td>
-<td>Medizinische Fachangestellte für die internistische Privatstation (m/w/d) (Medizinische/r Fachangestellte/r)</td>
-<td>DE (DE253)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtOTkyNGNlYTVfSkI1MTgwNzcxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Max Bögl Bauservice GmbH und Co. KG</strong></td>
-<td>Referent (m/w/d) HR international, DE - Sengenthal (Lkr. Neumarkt i.d.OPf.) (Betriebswirt/in (Hochschule) - Personalmanagement)</td>
-<td>DE (DE236)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1MzIyMi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>BHI Biohealth International GmbH</strong></td>
-<td>Data Engineer (m/w/d), BHI Biohealth International GmbH (Data Engineer)</td>
-<td>DE (DE249)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1ODU2MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Neumüller Personalberatung Regina Neumüller e.K.</strong></td>
-<td>Hiring Hero - Werkstudent HR (m/w/d) (Recruiter/in)</td>
-<td>DE (DE254)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE0ODUwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>carpediem Personalberatung GmbH</strong></td>
-<td>Personaldisponent/in (m/w/d) - Intern (Personaldisponent/in)</td>
-<td>DE (DE211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMTQ5NjI2Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>DIS AG NÜRNBERG</strong></td>
-<td>Finanzbuchhalter International (m/w/d) (Buchhalter/in)</td>
-<td>DE (DE252)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MzMtOTEwN2ViMzhfSkI1MTUyNjM2LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>FERCHAU GmbH Niederlassung Augsburg</strong></td>
-<td>Monteur für internationale Projekte (m/w/d) (Mechatroniker/in)</td>
-<td>DE (DE27D)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDkwNTQ2X0pCNTE3OTE0My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>AUMOVIO SE Haupverwaltung</strong></td>
-<td>Praktikum - System-Test bzw. System-Integration von High Performance Computern (IT-Administrator/in)</td>
-<td>DE (DE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4MDEtOTQ4NDA2MjQyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Rödl GmbH RAG StBG</strong></td>
-<td>Consultant internal Tax (m/w/d) (Betriebswirt/in (Hochschule) - Steuern und Prüfungswesen)</td>
-<td>DE (DE2)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA3MjkyMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>hdkk.fa.us6.oraclecloud.com</strong></td>
-<td>Medical Assistant - Internal Medicine</td>
-<td>United States</td>
-<td><div align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17866"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>edel.fa.us2.oraclecloud.com</strong></td>
-<td>Tax Intern</td>
-<td>Sunnyvale<br>CA<br>United States</td>
-<td><div align="center"><a href="https://edel.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23026"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>hdjq.fa.us2.oraclecloud.com</strong></td>
-<td>Intelligent Systems and Automation Intern</td>
-<td>Mandaluyong<br>National Capital Region<br>Philippines</td>
-<td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26007106"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>ejov.fa.ca2.oraclecloud.com</strong></td>
-<td>Indigenous Engineer Intern/co-op</td>
-<td>Vancouver<br>BC<br>Canada</td>
-<td><div align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26405"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>iaagmj.fa.ocs.oraclecloud.com</strong></td>
-<td>Inventory Planner Intern</td>
-<td>Venezia<br>Veneto<br>Italy</td>
-<td><div align="center"><a href="https://iaagmj.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#412"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>ejta.fa.us6.oraclecloud.com</strong></td>
-<td>Intern Customer Service</td>
-<td>Barueri<br>SP<br>Brazil</td>
-<td><div align="center"><a href="https://ejta.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10099"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>ejta.fa.us6.oraclecloud.com</strong></td>
-<td>Estágio em Engenharia – Operações Técnicas Internas</td>
-<td>SP<br>Brazil</td>
-<td><div align="center"><a href="https://ejta.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9863"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>ibqbjb.fa.ocs.oraclecloud.com</strong></td>
-<td>Intern - Masters Mechanical Engineer (m/f/d)</td>
-<td>Lotte<br>Nordrhein-Westfalen<br>Germany</td>
-<td><div align="center"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#135865"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>hdga.fa.em3.oraclecloud.com</strong></td>
-<td>Heath, Safety and Sustainability Intern</td>
-<td>Oxford<br>Oxfordshire<br>United Kingdom</td>
-<td><div align="center"><a href="https://hdga.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26079"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>edsv.fa.us2.oraclecloud.com</strong></td>
+<td><strong>careers.roche.com</strong></td>
 <td>Intern</td>
-<td>Chiswick<br>London<br>United Kingdom</td>
-<td><div align="center"><a href="https://edsv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26002463"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
-<td>IP Commercial Management Intern</td>
-<td>Mexico</td>
-<td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36645"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>ebwh.fa.us2.oraclecloud.com</strong></td>
-<td>Retail Sales Associate - Womens Shoes, West Dade Miami International - Full Time</td>
-<td>Doral<br>FL<br>United States</td>
-<td><div align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_790431"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Retail Sales Associate, West Dade Miami International - Full Time</td>
-<td>Doral<br>FL<br>United States</td>
-<td><div align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_790415"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong>eoce.fa.em3.oraclecloud.com</strong></td>
-<td>Family Time Practitioner - Internal</td>
-<td>Lowestoft<br>Suffolk<br>United Kingdom</td>
-<td><div align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24021"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>cva.fa.us1.oraclecloud.com</strong></td>
-<td>EH&amp;S Intern</td>
-<td>Houston<br>TX<br>United States</td>
-<td><div align="center"><a href="https://cva.fa.us1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9563"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>edbz.fa.us2.oraclecloud.com</strong></td>
-<td>Field Applications Engineering Intern</td>
-<td>WARSZAWA<br>Poland</td>
-<td><div align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25011169"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>hdhl.fa.us6.oraclecloud.com</strong></td>
-<td>Structural Engineering Intern - Transportation (Fall 2026)</td>
-<td>New York<br>NY<br>United States</td>
-<td><div align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006349"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>eedu.fa.em3.oraclecloud.com</strong></td>
-<td>Internal Audit - Senior Data Analyst</td>
-<td>Lisboa<br>Lisboa<br>Portugal</td>
-<td><div align="center"><a href="https://eedu.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#202603025"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>eljs.fa.us2.oraclecloud.com</strong></td>
-<td>Summer Intern Program</td>
-<td>Sao Paulo<br>Brazil</td>
-<td><div align="center"><a href="https://eljs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#63330"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>emit.fa.ca3.oraclecloud.com</strong></td>
-<td>Overhead Transmission Line Design Engineering Intern - Summer 2027</td>
-<td>Birmingham<br>AL<br>United States</td>
-<td><div align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88869"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>CTLOG INTERNATIONAL</strong></td>
-<td>Agent Logistique Polyvalent F/H - CTLOG INTERNATIONAL</td>
-<td>FR (FRL04)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzM0MjAwMSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>SINUS Jarosław Kozdroń</strong></td>
-<td>Specjalista do spraw obsługi zamówień internetowych (K/M)</td>
-<td>PL (PL81)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4MzEyNTIgMTI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>MARWENT II SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ SPÓŁKA KOMANDYTOWA</strong></td>
-<td>Specjalista ds. sprzedaży internetowej (K/M)</td>
-<td>PL (PL22)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4MTk1ODIgMTI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Powiatowy Urząd Pracy</strong></td>
-<td>Asystent d/s sprzedaży internetowej K/M</td>
-<td>PL (PL9)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4Mjc0NTkgMTI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Hasta AB</strong></td>
-<td>Internationell kundservice- och marknadsassistent</td>
-<td>SE (SE125)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzI0MzA4IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>REGION JÄMTLAND HÄRJEDALEN</strong></td>
-<td>Överläkare/specialist i internmedicin med inriktning kardiologi</td>
-<td>SE (SE322)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2ODg4OCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Framtiden i Sverige AB</strong></td>
-<td>Jr byggkonstruktör sökes till internationellt framgångsföretag!</td>
-<td>SE (SE311)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzMxNjg0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>IKEA AB</strong></td>
-<td>Sommarvikarie till Internåkeriet, IKEA Svenska AB, Älmhult</td>
-<td>SE (SE212)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDIzMzUxIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>LERNIA BEMANNING AB</strong></td>
-<td>Gjutare/Bearbetningsmontör | International Aluminium Casting | Gnosjö</td>
-<td>SE (SE211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2MzY5OSAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>LERNIA BEMANNING AB</strong></td>
-<td>Gjutare | International Aluminium Casting | Gnosjö</td>
-<td>SE (SE211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE0NTAwNiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>adding PEOPLE AB</strong></td>
-<td>Internationell Säljare till ITAB Guidance AB</td>
-<td>SE (SE211)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDA5MTc5IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Job Solution Sweden Consulting AB</strong></td>
-<td>Driven projektledare till internationell teknikbolag!</td>
-<td>SE (SE123)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEzNjgwNCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Beijing<br>Beijing<br>China's Mainland</td>
+<td><div align="center"><a href="https://careers.roche.com/job/202605-113316"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>30d</td>
 </tr>
 <tr>
-<td><strong>AB Mark Bygg och Uthyrning i Linköping</strong></td>
-<td>Maskinförare sökes för halkbekämpning under vintern</td>
-<td>SE (SE123)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzIwOTg5IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Hallandstrafiken AB</strong></td>
-<td>Hallandstrafiken söker intern kommunikatör!</td>
-<td>SE (SE231)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1MjE5IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Experis AB</strong></td>
-<td>Kundorderadministratör - internationell miljö</td>
-<td>SE (SE221)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE3MDU3OCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>UPPSALA UNIVERSITET</strong></td>
-<td>Internrevisor till Uppsala universitet</td>
-<td>SE (SE121)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE3MTg1NiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>hcog.fa.em2.oraclecloud.com</strong></td>
-<td>2026 Field Testing Intern</td>
-<td>York<br>PA<br>United States</td>
-<td><div align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14824"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>egmh.fa.us6.oraclecloud.com</strong></td>
-<td>Intern-Maintenance</td>
-<td>Sri Lanka</td>
-<td><div align="center"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19192"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>egmh.fa.us6.oraclecloud.com</strong></td>
-<td>Intern - Fabric</td>
-<td>Sri Lanka</td>
-<td><div align="center"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19851"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>ejgk.fa.em2.oraclecloud.com</strong></td>
-<td>Manager - Internal Audit</td>
-<td>Chennai<br>Tamil Nadu<br>India</td>
-<td><div align="center"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#INTG10044993"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>eodr.fa.us2.oraclecloud.com</strong></td>
-<td>Physician Assistant or Nurse Practitioner - Internal Medicine near Detroit - Hamtramck, MI</td>
-<td>Hamtramck<br>MI<br>United States</td>
-<td><div align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603011699"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>elxw.fa.em3.oraclecloud.com</strong></td>
-<td>Research Impact Intern CMVM (Employ.ed for PhDs)</td>
-<td>Edinburgh - Central Area<br>Midlothian<br>United Kingdom</td>
-<td><div align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14393"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
-<td>Digital Transformation (DPI/GovTech) Specialist (Open to internal and external applicants)</td>
-<td>Bangkok<br>Thailand</td>
-<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#34667"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>batgroup</strong></td>
-<td>Finance Intern - (6 months)</td>
-<td>Lausanne<br>Vaud<br>Switzerland</td>
-<td><div align="center"><a href="https://apply.workable.com/j/A0ECFBAAB2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>cimmyt-1</strong></td>
-<td>IRS26256 Post-Doctoral Fellow, Sorghum Breeding (Internationally recruited)</td>
-<td>Nairobi<br>Nairobi County<br>Kenya</td>
-<td><div align="center"><a href="https://apply.workable.com/j/3A516D337D"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>crown-equipment</strong></td>
-<td>National &amp; International Account Fleet Support</td>
-<td>Sydney<br>New South Wales<br>Australia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/BD6759B398"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>dane-street-llc</strong></td>
-<td>Board Certified Internal Medicine Physicians for IME Cases- Stockton, CA</td>
-<td>Stockton<br>California<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/760F06343E"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>destinusgroup</strong></td>
-<td>AI Engineering Intern</td>
-<td>Zürich<br>Zurich<br>Switzerland</td>
-<td><div align="center"><a href="https://apply.workable.com/j/58400B16FF"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>dubizzlemena</strong></td>
-<td>Dubizzle - Summer Internship Program 2026</td>
-<td>New Cairo City<br>Cairo Governorate<br>Egypt</td>
-<td><div align="center"><a href="https://apply.workable.com/j/63E5460C71"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>emaratech-2</strong></td>
-<td>Manager - Internal Audit - Noqodi</td>
-<td>Dubai<br>Dubai<br>United Arab Emirates</td>
-<td><div align="center"><a href="https://apply.workable.com/j/9B0C6B2765"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>european-dynamics</strong></td>
-<td>Service Management Support Officer, for international e-Government projects</td>
-<td>Athens<br>Attica<br>Greece</td>
-<td><div align="center"><a href="https://apply.workable.com/j/8D4A378D4B"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>fuseenergy</strong></td>
-<td>Finance Intern</td>
-<td>London<br>England<br>United Kingdom</td>
-<td><div align="center"><a href="https://apply.workable.com/j/6DB55A57F2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>homey</strong></td>
-<td>Legal Intern - London</td>
-<td>London<br>England<br>United Kingdom</td>
-<td><div align="center"><a href="https://apply.workable.com/j/DCDC864B5C"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>innocence-project</strong></td>
-<td>People &amp; Culture Fall Intern 2026</td>
-<td>New York<br>New York<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/116F7799A8"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>international-water-management-institute</strong></td>
-<td>Information and Communication Technology (ICT) Support Intern</td>
-<td>Battaramulla<br>Western Province<br>Sri Lanka</td>
-<td><div align="center"><a href="https://apply.workable.com/j/854BF64A24"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>interpath-advisory</strong></td>
-<td>Intern - Restructuring Advisory (from July 2026)</td>
-<td>Hong Kong<br>Hong Kong<br>Hong Kong</td>
-<td><div align="center"><a href="https://apply.workable.com/j/0CE7DE9960"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>ischool</strong></td>
-<td>Sales Internship</td>
-<td>Nasr City<br>Al Manteqah Al Oula<br>Egypt</td>
-<td><div align="center"><a href="https://apply.workable.com/j/F090CC054A"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>keywords-intl1</strong></td>
-<td>Talent Acquisition Intern for Player Engagement 2026</td>
-<td>Pasig<br>Metro Manila<br>Philippines</td>
-<td><div align="center"><a href="https://apply.workable.com/j/1D8536672D"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>lifemdcareers</strong></td>
-<td>Product Management Intern</td>
-<td>New York<br>New York<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/766A83A187"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>lovebonito</strong></td>
-<td>Marketing Intern</td>
-<td>Singapore<br>Central Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://apply.workable.com/j/9507B3AB82"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>luxasia</strong></td>
-<td>Accounts &amp; Finance Internship - July 2026</td>
-<td>Kuala Lumpur<br>Federal Territory of Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/AD7BDE2E50"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>LOGIMEX</strong></td>
-<td>Exploitant(e) Pôle international   (H/F)</td>
-<td>FR (FRE12)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwQkNRUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Simon de Cyrène Lille Métropole</strong></td>
-<td>Accompagnant de vie interne F/H</td>
-<td>FR (FRE11)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzkzNDA0MCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Contrôleur interne H/F</td>
-<td>FR (FRI34)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzYxNjk1MCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>RAMONETOU</strong></td>
-<td>Ramoneur H/F Formation en interne (H/F)</td>
-<td>FR (FRC11)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwQ1ZGQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>SYNERGIE</strong></td>
-<td>Assistant logistique à l&#x27;international</td>
-<td>FR (FRC13)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5UFNOVCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>CH DE MACON</strong></td>
-<td>INTERNE / EXTERNE - INFIRMIER EN SOINS GENERAUX -  UNITÉ DE RÉGULATION DE L&#x27;ABSENTÉISME DE COURTE DURÉE - H/F</td>
-<td>FR (FRC13)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDI0NDgzNCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>CH DE MACON</strong></td>
-<td>INTERNE / EXTERNE - INFIRMIER EN SOINS GENERAUX -  EHPAD LA PROVIDENCE - H/F</td>
-<td>FR (FRC13)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzczOTk2MCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>www.careers.philips.com</strong></td>
+<td>Internship: People Activation Management (HR, non-thesis)</td>
+<td>Amsterdam<br>Noord-Holland<br>Netherlands</td>
+<td><div align="center"><a href="https://www.careers.philips.com/job/584857"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>19d</td>
 </tr>
 <tr>
-<td><strong>SARL TBS</strong></td>
-<td>Chauffeur SPL International H/F Polyvalent (H/F)</td>
-<td>FR (FRL04)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwRlpZRiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>ADSEA 04</strong></td>
-<td>Educateur d&#x27;internat H/F (H/F)</td>
-<td>FR (FRL01)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5UExOVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>I.M.E LA BOURGUETTE</strong></td>
-<td>EDUCATEUR-TRICE SPECIALISÉ-E H/F INTERNAT (H/F) #TDFE2026</td>
-<td>FR (FRL06)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5U1FQWCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Chargé / Chargée de mission aux relations internationales (H/F)</td>
-<td>FR (FRJ13)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDI1MDMwMCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>www.careers.philips.com</strong></td>
+<td>Manufacturing Engineering Intern</td>
+<td>Suzhou<br>Jiangsu<br>China</td>
+<td><div align="center"><a href="https://www.careers.philips.com/job/586290"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>5d</td>
-</tr>
-<tr>
-<td><strong>SLB - Béziers</strong></td>
-<td>Alternant Commerce International H/F</td>
-<td>FR (FRJ13)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjcwMzI2NyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Gestionnaire clients internationaux H/F</td>
-<td>FR (FRF11)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjUwOTM3MyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE de 6 mois - Business Developer BtoB – clubs de Tennis de Table</td>
-<td>Lille<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-de-6-mois-business-developer-btob-clubs-de-tennis-de-table_lille_DECAT_9aPbzW8"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>Malt</strong></td>
-<td>Cybersécurité &amp; GRC Internship (July 2026)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/b6MPNDy/jobs/cybersecurite-grc-internship-july-2025_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>Theodo France</strong></td>
-<td>Business Developer &amp; Tech Recruiter - Stage Paris - Theodo</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2e70DQm/jobs/business-developer-tech-recruiter-stage-paris-theodo_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Campus &amp; Talent Recruiter  - Stage Paris - Theodo</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2e70DQm/jobs/campus-talent-recruiter-stage-paris-theodo_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>Extreme Agency</strong></td>
-<td>Assistant consultant en influence pole TASTE F/H</td>
-<td>Clichy<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Abxk18o/jobs/assistant-e-consultant-e-rp-influence-pole-taste_clichy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>KAROS</strong></td>
-<td>Front End Developer Internship - 6 months - Paris - W/M/NB</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YgYad2x/jobs/front-end-developer-internship-6-months-paris-w-m-nb_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>Le chocolat des Français</strong></td>
-<td>Assistant(e) chargé(e) d’approvisionnement –  stage (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/O0DowyM/jobs/assistant-charge-d-approvisionnement-stage-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>Keobiz</strong></td>
-<td>Stage M&amp;A / Fusions-Acquisitions</td>
-<td>Paris<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/BvfMKx/jobs/stage-m-a-fusions-acquisitions_paris_KEOBI_z7OYoa3"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Goodeed</strong></td>
-<td>Stage Designer / Graphiste</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NoeyP6W/jobs/designer-graphiste-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Groupe Crédit Agricole</strong></td>
-<td>Stage - Assistant(e) Coordination internationale de gamme en Asset Management H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-assistant-coordination-internationale-de-gamme-en-asset-management-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Reech</strong></td>
-<td>Assistant Chef de projet Influence H/F - stage Septembre 2026</td>
-<td>Montreuil<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/w3Oxpx8/jobs/stage-assistant-chef-de-projet-influence-h-f_paris_REECH_o9K6PeO"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Bloomco</strong></td>
-<td>Stage - Business Developer / SDR (Conseil) - Lyon</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V3JkYDJ/jobs/stage-business-developer-sdr-conseil_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>The Adecco Group</strong></td>
-<td>CHARGE DE RECRUTEMENT H/F</td>
-<td>Caen<br>Normandy<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-h-f_caen_TAG_0pJoJzk"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CHARGE DE RECRUTEMENT H/F</td>
-<td>Nimes<br>Occitanie<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-h-f_nimes"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Pony</strong></td>
-<td>Customer Care Assistant</td>
-<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qQ4j1oy/jobs/customer-care-assistant_bordeaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Project Manager, Vehicles Manufacturing</td>
-<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qQ4j1oy/jobs/project-manager-vehicles-manufacturing_bordeaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Ailancy Advisory</strong></td>
-<td>Consultant stagiaire Organisation et Management - Secteur Financier (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2G93PZm/jobs/consultant-stagiaire-organisation-et-management-secteur-financier-h-f_paris_AA_pP3PKw7"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Pitchy</strong></td>
-<td>Gestionnaire comptable / ADV - Stage H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/M5Dog5e/jobs/gestionnaire-comptable-adv-stage_paris_PITCH_K5qQ48N"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Groupe Scet</strong></td>
-<td>Consultant(e) Junior - Secteur public local - Ingénierie financière - Stage</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/34cn7v/jobs/consultant-junior-secteur-public-ingenierie-financiere-stage-lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>INGA</strong></td>
-<td>Marketing Digital &amp; E-commerce</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/9dD63wA/jobs/marketing-digital-e-commerce_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Alltricks</strong></td>
-<td>E-merchandiser Cycle (H/F) - Stage</td>
-<td>Montigny-le-Bretonneux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/y2X0Amb/jobs/e-merchandiser-cycle-h-f-stage_montigny-le-bretonneux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>PKF Arsilon</strong></td>
-<td>Stagiaire en consolidation h/f</td>
-<td>Rennes<br>Brittany<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/0lO99O/jobs/stagiaire-en-consolidation-h-f_rennes"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Lemon Learning</strong></td>
-<td>Stage – Video Growth &amp; IA (SaaS B2B) – Paris</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WrKJYwN/jobs/stage-video-growth-ia-saas-b2b-paris_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Electra</strong></td>
-<td>Buyer Analyst</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WllbAQ2/jobs/buyer-analyst_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>AXA</strong></td>
-<td>Chargé d&#x27;étude architecture AI (F/H) - Stage de 4 à 6 mois</td>
-<td>Malakoff<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/charge-d-etude-architecture-ai-f-h-stage-de-4-a-6-mois_malakoff"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td>🔥 <strong>Ramp</strong></td>
-<td>Software Engineer (International)</td>
-<td>London<br>United Kingdom</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1TNwEW/jobs/software-engineer-international_london_xshueqrc"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Temporis Experts &amp; Cadres</strong></td>
-<td>Assistant / Assistante Ressources Humaines (RH)</td>
-<td>Lamballe-Armor<br>Brittany<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3uK0b3/jobs/assistant-assistante-ressources-humaines-rh_lamballe-armor_TEC_Jrk903g"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Ministère de la Culture</strong></td>
-<td>Assistant marketing &amp; développement des ventes (H/F)</td>
-<td>Fontainebleau<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RHEFea/jobs/assistant-marketing-developpement-des-ventes-h-f_fontainebleau_MDLC_a2oroy8"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>The Adecco Group</strong></td>
-<td>Chargé de recrutement en stage (stage alterné) H/F</td>
-<td>Le Mans<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-en-stage-stage-alterne-h-f_le-mans_TAG_Jb0lxgb"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Safran Aircraft Engines</strong></td>
-<td>Stage Bac professionnel aéronautique F/H</td>
-<td>Moissy-Cramayel<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ARApbzo/jobs/stage-bac-professionnel-aeronautique-f-h_moissy-cramayel_SAE_xkRNm6m"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>BNP Paribas</strong></td>
-<td>Stage - Chargé de Marketing Digital et de Gestion de Projet (H/F) - 6 mois</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-charge-de-marketing-digital-et-de-gestion-de-projet-h-f-6-mois_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Auditeur Stagiaire de fin d&#x27;études - Grenoble F/H</td>
-<td>Grenoble<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/auditeur-stagiaire-de-fin-d-etudes-grenoble-f-h_grenoble"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Letxbe</strong></td>
-<td>AI Project Manager H/F (Stage)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DqAAYm/jobs/ai-project-manager-h-f-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Atos</strong></td>
-<td>Juriste Senior Contrats Internationaux &amp; Grands Projets IT - F/H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bKGYqPm/jobs/juriste-senior-contrats-internationaux-grands-projets-it-f-h_ile-de-france_ATOS_WJ1wJ2A"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Galadrim</strong></td>
-<td>Monteur vidéo &amp; Motion designer – Stage/Alternance</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4JgaPa8/jobs/content-creator-video-motion-stage-de-fin-d-etudes_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Driveco</strong></td>
-<td>Stage - Supply Chain (F/M/X)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pNJUhN/jobs/stage-supply-chain-f-m-x_paris_DRIVE_8bR0dOQ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Banque Palatine</strong></td>
-<td>Comptable Fournisseurs &amp; Support Facturation Électronique (H/F)</td>
-<td>Fontenay-sous-Bois<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/37f1sa/jobs/comptable-fournisseurs-support-facturation-electronique-h-f_fontenay-sous-bois"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Safran Seats</strong></td>
-<td>ALTERNANCE - Juriste en Droit des Affaires Internationales F/H</td>
-<td>Plaisir<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/gizWuE/jobs/alternance-juriste-en-droit-des-affaires-internationales-f-h-f-h_plaisir"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Ministère de l&#x27;Intérieur</strong></td>
-<td>PP/DPJ/SDBC/BS : Assistant d&#x27;enquête H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MjRrM1R/jobs/pp-dpj-sdbc-bs-assistant-d-enquete-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Primelis</strong></td>
-<td>Marketplace Consultant Intern (Amazon) H/F - CDI</td>
-<td>Levallois-Perret<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DbgDk58/jobs/amazon-account-manager-stage_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Allphins</strong></td>
-<td>Data Scientist (H/F) - Core platform - Stage 6 mois (stage de fin d&#x27;études)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KVQjdyz/jobs/data-scientist-h-f-stage-6-mois-teletravail-possible_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Hello Pomelo</strong></td>
-<td>Product Designer - Stage de fin d&#x27;études</td>
-<td>Barcelona<br>Catalonia<br>Spain</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wddYjS/jobs/product-designer-stage-de-fin-d-etudes_barcelona"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Kactus</strong></td>
-<td>Business Developer - Stage 6 Mois</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/egJZak0/jobs/business-developer-stage-6-mois_paris_KACTU_r37bA89"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Making Science</strong></td>
-<td>Data Consultant - Stage - Paris - F-H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kM4O8rw/jobs/data-consultant-stage-paris-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Safran</strong></td>
-<td>Stage Ingénieur-e Fiabilisation des Méthode de Production F/H</td>
-<td>Caudebec-lès-Elbeuf<br>Normandy<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wRqZadx/jobs/stage-ingenieur-e-fiabilisation-des-methode-de-production-f-h_caudebec-les-elbeuf"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Walter Learning</strong></td>
-<td>Assistant Chef de Projet Pédagogique en stage F/H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RR3zDQm/jobs/assistant-chef-de-projet-pedagogique-en-stage-f-h_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Sacem</strong></td>
-<td>Stagiaire Assistante/Assistant de développement international H/F</td>
-<td>Neuilly-sur-Seine<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kZpp1ro/jobs/stagiaire-assistante-assistant-de-developpement-international-h-f_neuilly-sur-seine"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Sopra Steria</strong></td>
-<td>Stage - Chargé(e) de mission Gouvernance Durabilité</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/k2xbLe/jobs/stage-charge-de-mission-gouvernance-durabilite_paris_SS_GKjxb7z"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage PPI - Juriste en droit social</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/k2xbLe/jobs/stage-ppi-juriste-en-droit-social_paris_SS_r32d3G9"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE LYCEE PRO/BTS - Développer l’activité économique des sports d&#x27;eau (H/F)</td>
-<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-lycee-pro-bts-developper-l-activite-economique-des-sports-d-eau-h-f_bordeaux_DECAT_3NgOAjm"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>STAGE COMMERCE</td>
-<td>Thiais<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce_thiais"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>ArianeGroup</strong></td>
-<td>ALTERNANCE - Chargée / Chargé de communication interne</td>
-<td>Le Haillan<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/alternance-chargee-charge-de-communication-interne-h-f_saint-medard-en-jalles"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Crédit Mutuel Alliance Fédérale</strong></td>
-<td>Alternance - Contrôleur interne – Actifs Non Cotés  (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iyTILx/jobs/alternance-controleur-interne-actifs-non-cotes-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>M Education</strong></td>
-<td>Assistant pédagogique en école maternelle 4-6 mois [Septembre 24 @ Paris]</td>
-<td>Clichy<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wk1yrK8/jobs/stage-en-ecole-maternelle-5-6-mois-janvier-2021-clichy_clichy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Groupe Rocher</strong></td>
-<td>Stage - Assistant Support Vendeur Market Place H/F/X</td>
-<td>Rennes<br>Brittany<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/17rVQ4d/jobs/stage-assistant-support-vendeur-market-place-h-f-x_rennes_GR_9mW9lN2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Sessùn</strong></td>
-<td>Assistant(e) Coordination Curation en stage H/F</td>
-<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/FuM6b5/jobs/assistant-coordination-curation-en-stage-h-f_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Ardian</strong></td>
-<td>Legal Corporate Stage - Janvier 2027 I Paris (M/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xQoNRkJ/jobs/legal-corporate-stage-janvier-2027-i-paris-m-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Webedia</strong></td>
-<td>Assistant(e) de Production Artistique (H/F)</td>
-<td>Levallois-Perret<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kY8m2rw/jobs/assistant-de-production-artistique-h-f_levallois-perret_WEBED_N92qLgZ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>IZIPIZI</strong></td>
-<td>Alternance - E-Commerce Coordinator Junior (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3ZdQK27/jobs/e-commerce-coordinator-junior-alternance_paris_IZIPI_xYwPeyw"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>VEJA</strong></td>
-<td>ASSISTANT.E RELATION INFLUENCE</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qb4739J/jobs/assistant-e-relation-influence_paris_VEJA_jDjdmZ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>ASSISTANT.E COORDINATION INFLUENCE</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qb4739J/jobs/assistant-e-coordination-influence_paris_VEJA_2L28PVr"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>Thales</strong></td>
-<td>Thèse Synthèse et mise en forme de nanoparticules de semiconducteurs pour les technologies d&#x27;écrans (H/F)</td>
-<td>Moirans<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/these-synthese-et-mise-en-forme-de-nanoparticules-de-semiconducteurs-pour-les-technologies-d-ecrans-h-f_moirans"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>McDonald&#x27;s France</strong></td>
-<td>Stagiaire Infrastructure et Cyber Sécurité</td>
-<td>Guyancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/04Nm2Kz/jobs/stagiaire-infrastructure-et-cyber-securite_guyancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>Kiabi</strong></td>
-<td>STAGE EXTRA CURRICULARE ADDETTO/A VENDITA KIABI CORSICO</td>
-<td>Corsico<br>Lombardy<br>Italy</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/stage-extra-curriculare-addetto-a-vendita-kiabi-corsico_corsico_KIABI_20wZgN7"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>Oden</strong></td>
-<td>Stage - Chargé(e) de Développement Commercial</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/q83UsH/jobs/stage-charge-de-developpement-commercial_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>Liora</strong></td>
-<td>Data Analyst  (H/F) | Stage</td>
-<td>Courbevoie<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kld3PN3/jobs/data-analyst-h-f-stage_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>SideCare</strong></td>
-<td>Customer Success Affiliations - STAGE</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/14ozoOd/jobs/responsable-des-nouveaux-membres_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>Cdiscount</strong></td>
-<td>STAGE - ANALYSTE CONFORMITE F/H</td>
-<td>Mérignac<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RwVK24o/jobs/stage-analyste-conformite-f-h_bordeaux-33_CDISC_5xDldMO"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>Monday Sports Club</strong></td>
-<td>Stage – Chef de Projet Expérience, Service Client &amp; Opérations</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ydWZXN2/jobs/stage-chef-de-projet-experience-service-client-operations_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>qima</strong></td>
-<td>Accounts Receivable Intern</td>
-<td>Cebu City<br>Central Visayas<br>ph</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/qima/744000134729323"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>qima</strong></td>
-<td>AI Engineer - HR Focus - Internship only</td>
-<td>Hong Kong<br>hk</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/qima/744000127134849"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>rolandberger</strong></td>
-<td>Einblick in die Strategieberatung und echte Projekte: Livestream I CareerFairy x Roland Berger</td>
-<td>München<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/rolandberger/744000131665739"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>rexel1</strong></td>
-<td>Internal Sales Executive</td>
-<td>Ayr<br>Scotland<br>gb</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/rexel1/744000128596277"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Internal Sales</td>
-<td>Rockhampton<br>au</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/rexel1/744000128396935"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>renesaselectronics</strong></td>
-<td>Intern</td>
-<td>Shanghai<br>cn</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/renesaselectronics/744000129383619"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>scalablegmbh</strong></td>
-<td>Praktikant:in Marketing Operations (m/w/d)</td>
-<td>Berlin<br>BE<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/scalablegmbh/744000134416950"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>scalablegmbh</strong></td>
-<td>Internship Quantitative Trading (Market Making) (m/f/x)</td>
-<td>München<br>BY<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/scalablegmbh/744000128465059"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>🔥 <strong>servicenow</strong></td>
-<td>Intern - Marketing Associate</td>
-<td>Sydney<br>au</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/servicenow/744000130359664"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>solidigm</strong></td>
-<td>2026 Solidigm Graduate Internship China</td>
-<td>Shanghai<br>Shanghai<br>cn</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/solidigm/744000126452469"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>staubligroup</strong></td>
-<td>Product Manager - Robotique (H/F) - Alternance</td>
-<td>Faverges-Seythenex<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/staubligroup/744000124625073"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>sosi1</strong></td>
-<td>Law Student Internship</td>
-<td>Reston<br>VA<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sosi1/3743990013376356"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>sutherland</strong></td>
-<td>Administrative Assistant - Marketing Intern</td>
-<td>Bogotá<br>//BOGOTA<br>co</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sutherland/744000127701549"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Talent Acquisition Quality Intern</td>
-<td>Bogotá<br>//BOGOTA<br>co</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sutherland/744000125190153"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>versant3</strong></td>
-<td>Business News Editor, CNBC International</td>
-<td>Singapore<br>Singapore<br>sg</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/versant3/744000131965879"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>TV Reporter, Business News (Chinese Language) – CNBC International</td>
-<td>Singapore<br>Singapore<br>sg</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/versant3/744000131962909"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>wavestone1</strong></td>
-<td>Consultant.e Junior en Transformation Digitale - Cloud Connect : L’IA pour les métiers de l’architecture entre cas d’usage et stratégie de transformation (Stage de fin d&#x27;études / Alternance)</td>
-<td>Paris<br>Île-de-France<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000133885329"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Consultant·e en Transformation Digitale - CTO/CIO Advisory - Sustainable Tech : Comment accélérer la transformation numérique responsable de nos clients ? (Stage de fin d&#x27;études / Alternance)</td>
-<td>Paris<br>Île-de-France<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000133879495"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Consultant.e Junior en Transformation Digitale - Cloud Transformation : Architecture Cloud Native et Applications Modernes (Stage de fin d&#x27;études / Alternance)</td>
-<td>Paris<br>Île-de-France<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000133878294"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>wavestone1</strong></td>
-<td>Alternance – Chargé·e de mission RSE – H/F</td>
-<td>Puteaux<br>IDF<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000132476410"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>wuestpartner</strong></td>
-<td>Internship Real Estate Consulting 80-100%, 6 months (m/w/d)</td>
-<td>Genève<br>ch</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/wuestpartner/744000132578910"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>westerndigital</strong></td>
-<td>Intern 2, Engineering</td>
-<td>Bayan Lepas<br>Penang<br>my</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134685979"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>westerndigital</strong></td>
-<td>Intern - Manufacturing Engineer, (Start in January 2027)</td>
-<td>Amphoe Si Maha Phot<br>Prachin Buri<br>th</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134646768"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Industrial Engineer</td>
-<td>Amphoe Si Maha Phot<br>Prachin Buri<br>th</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134646358"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong>lakeshore</strong></td>
-<td>INTERNAL APPLICANTS ONLY – Part-Time Retail Sales Lead</td>
-<td>Tualatin<br>OR<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/lakeshore/744000132516419"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Lindy&#x27;s Patisserie</strong></td>
-<td>Productiemedewerker chocolade (Chocolaterie) (fulltime / parttime)</td>
-<td>NL (NL350)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTQxYWQxNDctMzc0Ni03OTBhLWUwNjMtNjg5M2IyMGEyYTRmIDQy?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>AXA</strong></td>
-<td>Gestion de Projet Santé - STAGE F/H</td>
-<td>Malakoff<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/gestion-de-projet-sante-stage-f-h_malakoff"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>B-HIVE</strong></td>
-<td>Business Manager Junior F/H</td>
-<td>Bron<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/g0k6j7L/jobs/business-manager-junior-f-h_bron_BHIVE_mDWzzGa"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>sia</strong></td>
-<td>Final Year Internship Consultant - Transport, Manufacturing &amp; Retail</td>
-<td>Paris<br>Île-de-France<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sia/744000133620059"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Final Year Internship Consultant - Energy, Transport &amp; Manufacturing</td>
-<td>Paris<br>IDF<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sia/744000133614061"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>sia</strong></td>
-<td>Final year internship - Marketing Data Scientist</td>
-<td>Paris<br>IDF<br>fr</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sia/744000130799669"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>sixt</strong></td>
-<td>Fleet Assistant (Fort Lauderdale International Airport)</td>
-<td>Fort Lauderdale<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sixt/744000134546519"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>sixt</strong></td>
-<td>Rental Sales Agent (Nashville International Airport)</td>
-<td>Nashville<br>Tennessee<br>us</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sixt/744000132290759"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>sixt</strong></td>
-<td>Duales Studium Digital Business Management – in Kooperation mit der DHBW Stuttgart</td>
-<td>Stuttgart<br>BW<br>de</td>
-<td><div align="center"><a href="https://jobs.smartrecruiters.com/sixt/744000125840799"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Selency</strong></td>
-<td>Customer Care Specialist H/F (Stage/Alternance)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/yX0jw09/jobs/customer-care-manager-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Equinix</strong></td>
-<td>Internal Audit Senior (Operational Assurance)</td>
-<td>Dallas<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7ACmad/jobs/internal-audit-senior_toronto_dkpqmm6b"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Idex</strong></td>
-<td>Business Developer Grands Comptes Photovoltaïque | Stage | F/H</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/eXjwwW/jobs/business-developer-grands-comptes-photovoltaique-stage-f-h_boulogne-billancourt_IDEX_DldPo0q"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>Efficy</strong></td>
-<td>Email Marketing Intern (French speaker)</td>
-<td>Paris<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/UfTV19/jobs/email-marketing-intern-french-speaker_paris_4yyn26g3"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong>Manutan</strong></td>
-<td>Alternant Chargé de communication interne F/H</td>
-<td>Gonesse<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/lwyAbmx/jobs/alternant-charge-de-communication-interne-f-h_gonesse_MANUT_9m9MrK1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE COMMERCE - 3 semaines à 6 mois (H/F)</td>
-<td>Bourgoin-Jallieu<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-3-semaines-a-6-mois-h-f_bourgoin-jallieu_DECAT_pkJAD88"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>3d</td>
 </tr>
 <tr>
 <td><strong>www.careers.philips.com</strong></td>
-<td>Supplier Sustainability Intern</td>
+<td>E-commerce Intern</td>
 <td>Shanghai<br>Shanghai<br>China</td>
-<td><div align="center"><a href="https://www.careers.philips.com/job/585217"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Customer Order Intern</td>
-<td>Varginha<br>Minas Gerais<br>Brazil</td>
-<td><div align="center"><a href="https://www.careers.philips.com/job/584414"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>www.careers.philips.com</strong></td>
-<td>Government Affairs Intern</td>
-<td>Beijing<br>Beijing<br>China</td>
-<td><div align="center"><a href="https://www.careers.philips.com/job/586230"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>www.careers.philips.com</strong></td>
-<td>Internship: Spectral CBCT Reader Study Analysis</td>
-<td>Best<br>Noord-Brabant<br>Netherlands</td>
-<td><div align="center"><a href="https://www.careers.philips.com/job/586548"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>www.careers.philips.com</strong></td>
-<td>Partner Compliance Screenings Intern</td>
-<td>Shanghai<br>Shanghai<br>China</td>
-<td><div align="center"><a href="https://www.careers.philips.com/job/585529"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>careers.allianz.com</strong></td>
-<td>Local Communication Intern (m/f/d)</td>
-<td>BARCELONA<br>Barcelona<br>Spain</td>
-<td><div align="center"><a href="https://careers.allianz.com/job/98469"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers.allianz.com</strong></td>
-<td>Intern in Market Research at Allianz SE (m/f/d)</td>
-<td>München<br>Germany</td>
-<td><div align="center"><a href="https://careers.allianz.com/job/101215"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern, Anti-Financial Crime Compliance AP - Limited to 12 months</td>
-<td>Hong Kong<br>China</td>
-<td><div align="center"><a href="https://careers.allianz.com/job/98022"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
+<td><div align="center"><a href="https://www.careers.philips.com/job/586456"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong>careers.abb</strong></td>
-<td>Internship - FrontEnd Software Engineer</td>
+<td>Security Consulting Services Intern</td>
 <td>Krakow<br>Lesser Poland<br>Poland</td>
-<td><div align="center"><a href="https://careers.abb/job/JR00034867"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://careers.abb/job/JR00036841"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.abb</strong></td>
+<td>Assembler II ( Internal Conversion Only )</td>
+<td>Senatobia<br>Mississippi<br>United States of America</td>
+<td><div align="center"><a href="https://careers.abb/job/JR00038542"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
+<td>PHARMACY/PHARMACIST-INTERN</td>
+<td>Kalispell<br>MT<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201808"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
 </tr>
 <tr>
 <td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
 <td>PHARMACY/PHARMCST-INTERN</td>
-<td>Columbus<br>OH<br>United States</td>
-<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#202553"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
+<td>Seattle<br>WA<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203451"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
-<td>Fall 2026 Operations/Maintenance Intern- Supply Chain</td>
+<td>PHARMACY/PHARMACIST-GRAD INTERN</td>
 <td>Denver<br>CO<br>United States</td>
-<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196857"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>eeik.fa.us2.oraclecloud.com</strong></td>
-<td>Hourly Pooled -  UW Extension Summer Internship</td>
-<td>United States</td>
-<td><div align="center"><a href="https://eeik.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#261522"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>ejye.fa.ap1.oraclecloud.com</strong></td>
-<td>International Admissions Officer</td>
-<td>Pipitea<br>Wellington<br>New Zealand</td>
-<td><div align="center"><a href="https://ejye.fa.ap1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1009750"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
-</tr>
-<tr>
-<td><strong>fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
-<td>Intern – Information Management (IM)</td>
-<td>Bangkok<br>Thailand</td>
-<td><div align="center"><a href="https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#21431"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td>International Private Bank, UHNW Banker Associate for Indonesia Market, based in Singapore</td>
-<td>Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210762115"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203847"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>International Private Bank, Private Banker, Senior Associate, France</td>
-<td>Paris<br>France</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210762163"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
+<td>PHARMACY/PHARMCST-GRAD INTERN</td>
+<td>Loveland<br>CO<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203863"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
 </tr>
 <tr>
-<td><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td>International Private Bank, Lending Advisor, UK Team</td>
-<td>LONDON<br>LONDON<br>United Kingdom</td>
-<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210749155"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>ejgk.fa.em2.oraclecloud.com</strong></td>
-<td>Intern - ITDD (Veteran)</td>
-<td>Gurgaon<br>Haryana<br>India</td>
-<td><div align="center"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_3#30046280"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>fa-eoic-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
-<td>ALTERNANCE - Assistant Contrôle de Gestion &amp; Contrôle Interne Pôle Mode (H/F)</td>
-<td>PANTIN<br>Île-de-France<br>France</td>
-<td><div align="center"><a href="https://fa-eoic-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX#22340"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>fa-eoic-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
-<td>Internship - Business Planning &amp; Analysis Coordinator - Hermès Perfume and Beauty - Dubaï (M/W)</td>
-<td>Dubai<br>United Arab Emirates</td>
-<td><div align="center"><a href="https://fa-eoic-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX#22382"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>careers.roche.com</strong></td>
-<td>Accounts Payable Intern - Portuguese speaking</td>
-<td>Budapest<br>Pest<br>Hungary</td>
-<td><div align="center"><a href="https://careers.roche.com/job/202606-113994"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>careers.roche.com</strong></td>
-<td>Stelle Internship im GMP Service Facilities &amp; Engineering (m/w/d)</td>
-<td>Penzberg<br>Bavaria<br>Germany</td>
-<td><div align="center"><a href="https://careers.roche.com/job/202606-115200"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>careers.roche.com</strong></td>
-<td>Talent Acquisition Intern - French speaking</td>
-<td>Budapest<br>Pest<br>Hungary</td>
-<td><div align="center"><a href="https://careers.roche.com/job/202605-113354"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>careers.roche.com</strong></td>
-<td>Internship in Internal Engagement Hubs (m/w/d)</td>
-<td>Basel<br>Basel-City<br>Switzerland</td>
-<td><div align="center"><a href="https://careers.roche.com/job/202605-113412"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>careers.roche.com</strong></td>
-<td>Supply Chain Operations Intern (On en Roche Graduate Program)</td>
-<td>Sant Cugat del Vallès<br>Barcelona<br>Spain</td>
-<td><div align="center"><a href="https://careers.roche.com/job/202605-112262"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>careers.allianz.com</strong></td>
-<td>ACDC Governance - Customer Frontend &amp; Reporting Internship (m/f/d)</td>
-<td>BARCELONA<br>Barcelona<br>Spain</td>
-<td><div align="center"><a href="https://careers.allianz.com/job/96118"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
+<td>PHARMACY/PHARMCST-INTERN   (034)</td>
+<td>Wichita<br>KS<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201112"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>14d</td>
 </tr>
 <tr>
-<td><strong>careers.abb</strong></td>
-<td>Procurement Intern</td>
-<td>Buenos Aires<br>Capital Federal<br>Argentina</td>
-<td><div align="center"><a href="https://careers.abb/job/JR00036716"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>careers.fisglobal.com</strong></td>
-<td>Accountant Lead, Internal Controls</td>
-<td>Jacksonville<br>Florida<br>United States of America</td>
-<td><div align="center"><a href="https://careers.fisglobal.com/job/JR0306261"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers.thalesgroup.com</strong></td>
-<td>IVVQ (Test) Engineer (Intern)</td>
-<td>Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://careers.thalesgroup.com/job/R0326509"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers.thalesgroup.com</strong></td>
-<td>STAGE - Communication Interne - F/H</td>
-<td>Meudon<br>Hauts-de-Seine<br>France</td>
-<td><div align="center"><a href="https://careers.thalesgroup.com/job/R0329844"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>careers.dhl.com</strong></td>
-<td>International Transport Planner Eindhoven</td>
-<td>Eindhoven<br>Noord-Brabant<br>Netherlands</td>
-<td><div align="center"><a href="https://careers.dhl.com/job/AV-357828"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>careers.dhl.com</strong></td>
-<td>IWS intern</td>
-<td>Guayaquil<br>Guayas<br>Ecuador</td>
-<td><div align="center"><a href="https://careers.dhl.com/job/AV-353337"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>careers.dhl.com</strong></td>
-<td>Business Analyst Internship</td>
-<td>Petaling Jaya<br>Selangor<br>Malaysia</td>
-<td><div align="center"><a href="https://careers.dhl.com/job/AV-360059"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>careers.dhl.com</strong></td>
-<td>Intern, BPO</td>
-<td>Subang Jaya<br>Selangor<br>Malaysia</td>
-<td><div align="center"><a href="https://careers.dhl.com/job/AV-358478"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>careers.merckgroup.com</strong></td>
-<td>Communication - Internship - Curious Talent</td>
-<td>Madrid<br>Madrid<br>Spain</td>
-<td><div align="center"><a href="https://careers.merckgroup.com/job/299110"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
 <td>↳</td>
-<td>Digital Expert / IT Intern</td>
-<td>Bangkok<br>Klongtoey<br>Thailand</td>
-<td><div align="center"><a href="https://careers.merckgroup.com/job/299786"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>PHARMACY/PHARMCST-INTERN</td>
+<td>Columbia<br>SC<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201270"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
 </tr>
 <tr>
-<td><strong>careers.merckgroup.com</strong></td>
-<td>Internship - Data Scientist - AI Solutions for Manufacturing (m/f/d)</td>
-<td>Corsier-sur-Vevey<br>Vaud<br>Switzerland</td>
-<td><div align="center"><a href="https://careers.merckgroup.com/job/300711"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
+<td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
+<td>Fall 2026 Network Modeling Intern-Supply Chain</td>
+<td>Cincinnati<br>OH<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#204378"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
 </tr>
 <tr>
-<td><strong>jobs.baesystems.com</strong></td>
-<td>Quality Intern 2026</td>
-<td>Sterling Heights<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://jobs.baesystems.com/job/125423BR"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>careers.cisco.com</strong></td>
-<td>Software Development Intern (Cracow, Poland)</td>
-<td>Krakow<br>Poland</td>
-<td><div align="center"><a href="https://careers.cisco.com/job/2015133"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>careers.bonsecours.com</strong></td>
-<td>Licensed Practical Nurse (LPN) — West End Internal Medicine</td>
-<td>Richmond<br>Virginia<br>United States of America</td>
-<td><div align="center"><a href="https://careers.bonsecours.com/job/R277238"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>Non renseigné</strong></td>
-<td>Assistant d&#x27;éducation à l&#x27;internat de nuit (H/F)</td>
-<td>FR (FRF33)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwR0xaQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>POK</strong></td>
-<td>ADJOINT RESPONSABLE ACHATS INTERNATIONAL (H/F)</td>
-<td>FR (FRF22)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwSlNDRyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>ETBT PUBLIC DU MONT-SAINT-MICHEL</strong></td>
-<td>Contrôleur interne en apprentissage (H/F)</td>
-<td>FR (FRD12)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5WVZTQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>RAMONETOU</strong></td>
-<td>Ramoneur H/F Formation en interne (H/F)</td>
-<td>FR (FRD21)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5SllZSyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>CAJ L&#x27;ARC EN CIEL</strong></td>
-<td>Moniteur-Educateur- DAME INTERNAT (H/F)</td>
-<td>FR (FRD22)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwR1JXRCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>UNION FRANCAISE SAUVETAGE ENFANCE</strong></td>
-<td>Educateur d&#x27;internat (H/F)</td>
-<td>FR (FRB04)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkhYWiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Exponens</strong></td>
-<td>Collaborateur Comptable Confirmé - Pôle International - Anglais (H/F)</td>
-<td>FR (FR101)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwSktHSyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>EPITA</strong></td>
-<td>Assistant Accueil Étudiants Internationaux – Programmes Internationaux F/H - EPITA</td>
-<td>FR (FR107)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDI0Nzk4NyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>NEOMA BUSINESS SCHOOL</strong></td>
-<td>CHARGE(E) DE DÉVELOPPEMENT INTERNATIONAL (H/F)</td>
-<td>FR (FR101)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDIwNTE4MCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>LEGTPA</strong></td>
-<td>Assistant d&#x27;éducation de nuit / Surveillant(e) d&#x27;internat (H/F)</td>
-<td>FR (FR102)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkpXWCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>ALTERNANCE - ASSISTANT BUSINESS ANALYST INTERNATIONAL - UNILEC (MOUVEMENT E.LECLERC) - H/F</td>
-<td>FR (FR107)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjY3NzA4MiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>non renseigné</strong></td>
-<td>Orthophoniste - UGA, Médecine interne  F/H F/H (H/F)</td>
-<td>FR (FR107)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzYyNDgyMSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Steck Human Resources Management GmbH</strong></td>
-<td>Servicetechniker international</td>
-<td>CH (CH031)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YTYxMGM0MjgtMGRhMS00YzljLWEzNmUtZmM2ZTIxMzgwMTVlIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>杭州泰格医药科技股份有限公司</strong></td>
-<td>CRA Intern-呼和浩特（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174673"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRA Intern-合肥（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174643"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRC Intern-内江（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174581"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRC Intern-洛阳（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174540"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRC Intern-三门峡（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174536"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRC Intern-泸州（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174514"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRC Intern-清远（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174481"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRC Intern-湛江（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174474"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>数据解决专员实习生（DSS Intern）-漯河（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174447"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>统计分析员实习生（SA Intern）-武汉（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174445"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>CRA Intern-大连（2027校招）</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174444"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>cotiviti</strong></td>
-<td>Intern - Generative AI Developer (available now)</td>
-<td>US-Remote</td>
-<td><div align="center"><a href="https://careers-cotiviti.icims.com/jobs/19214/intern---generative-ai-developer-%28available-now%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
+<td>Fall 2026 Engineering Intern- Supply Chain</td>
+<td>Denver<br>CO<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196838"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>30d</td>
 </tr>
 <tr>
-<td><strong>dchsystem</strong></td>
-<td>Internal Temp Contract (8-13 weeks) CRT/RRT (Regional/Northport)</td>
-<td>Tuscaloosa<br>AL<br>US</td>
-<td><div align="center"><a href="https://careers-dchsystem.icims.com/jobs/13500/internal-temp-contract-%288-13-weeks%29-crt-rrt-%28regional-northport%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>eluq.fa.us2.oraclecloud.com</strong></td>
+<td>Fall 2026 Planning Intern: Demand Planning-Supply Chain</td>
+<td>Blue Ash<br>OH<br>United States</td>
+<td><div align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#198147"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>ekgn.fa.us6.oraclecloud.com</strong></td>
+<td>Product Director, International Products</td>
+<td>United States</td>
+<td><div align="center"><a href="https://ekgn.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#6142"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>didiglobal</strong></td>
-<td>Business Campaign Strategy Intern</td>
-<td>Mexico City<br>MEX<br>MX</td>
-<td><div align="center"><a href="https://careers-didiglobal.icims.com/jobs/20297/business-campaign-strategy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>cooperhealth</strong></td>
-<td>Medical Laboratory Technician (Internal)</td>
-<td>Cape May Court House<br>NJ<br>US</td>
-<td><div align="center"><a href="https://careers-cooperhealth.icims.com/jobs/84143/medical-laboratory-technician-%28internal%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>comcastspectacor</strong></td>
-<td>Lead Bartender | Part-Time | Benchmark International Arena</td>
-<td>Tampa<br>FL<br>US</td>
-<td><div align="center"><a href="https://careers-ovg.icims.com/jobs/32693/lead-bartender-%7c-part-time-%7c-benchmark-international-arena/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>ibnjjb.fa.ocs.oraclecloud.com</strong></td>
+<td>Medical Receptionist - Internal Medicine</td>
+<td>Warrenton<br>VA<br>United States</td>
+<td><div align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#347306"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
-<td><strong>comcastspectacor</strong></td>
-<td>Director of Premium | Full-Time | Benchmark International Arena</td>
-<td>Tampa<br>FL<br>US</td>
-<td><div align="center"><a href="https://careers-ovg.icims.com/jobs/32514/director-of-premium-%7c-full-time-%7c-benchmark-international-arena/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
+<td><strong>ibnjjb.fa.ocs.oraclecloud.com</strong></td>
+<td>Registered Nurse (RN), Internal Medicine Clinic</td>
+<td>Hancock<br>MI<br>United States</td>
+<td><div align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#344321"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
 </tr>
 <tr>
-<td><strong>fsg</strong></td>
-<td>AI Automation Intern – Electrical Construction Operations</td>
-<td>New York<br>NY<br>US</td>
-<td><div align="center"><a href="https://careers-fsg.icims.com/jobs/2406/ai-automation-intern-%e2%80%93-electrical-construction-operations/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>heart</strong></td>
-<td>Intern, NextGen Programs-Remote</td>
-<td>Dallas<br>TX<br>US</td>
-<td><div align="center"><a href="https://careers-heart.icims.com/jobs/17698/intern%2c-nextgen-programs-remote/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>UN Women: International Consultant – Adaptive leadership and Cognitive Coaching, Dhaka Bangladesh (home based and in person)</td>
+<td>Dhaka<br>Bangladesh</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#35070"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>8d</td>
 </tr>
 <tr>
-<td><strong>nv5</strong></td>
-<td>Transmission Line Design Intern</td>
-<td>San Diego<br>CA<br>US</td>
-<td><div align="center"><a href="https://careers-nv5.icims.com/jobs/12098/transmission-line-design-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>pgworks</strong></td>
-<td>Project Management INTERN</td>
-<td>Philadelphia<br>PA<br>US</td>
-<td><div align="center"><a href="https://careers-pgworks.icims.com/jobs/1970/project-management-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>persistentsystems</strong></td>
-<td>Intern - Electrical Engineer (Fall 2026)</td>
-<td>New York<br>NY<br>US</td>
-<td><div align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2271/intern---electrical-engineer-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>Programme Support Intern – EntreprenHER Programme</td>
+<td>South Africa</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#34997"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>9d</td>
 </tr>
 <tr>
-<td><strong>piedmont</strong></td>
-<td>Radiologic Tech - First Call Staffing, Internal Agency</td>
-<td>Conyers</td>
-<td><div align="center"><a href="https://careers-piedmont.icims.com/jobs/21905/radiologic-tech---first-call-staffing%2c-internal-agency/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>primehealthcare</strong></td>
-<td>Internal Medicine Physician</td>
-<td>LEWISTON<br>ME<br>US</td>
-<td><div align="center"><a href="https://careers-primehealthcare.icims.com/jobs/268841/internal-medicine-physician/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>primehealthcare</strong></td>
-<td>Medical Assistant - Internal Medicine Clinic</td>
-<td>Evanston<br>IL<br>US</td>
-<td><div align="center"><a href="https://careers-primehealthcare.icims.com/jobs/266971/medical-assistant---internal-medicine-clinic/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>scires</strong></td>
-<td>DoD SkillBridge Intern – (Logistics Engineer) (Active Duty Service Members)</td>
-<td>Virginia Beach<br>VA<br>US</td>
-<td><div align="center"><a href="https://careers-scires.icims.com/jobs/11187/dod-skillbridge-intern-%e2%80%93-%28logistics-engineer%29-%28active-duty-service-members%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>uabmedicine</strong></td>
-<td>Pharmacy Intern</td>
-<td>Birmingham<br>AL<br>US</td>
-<td><div align="center"><a href="https://careers-uabmedicine.icims.com/jobs/6562/pharmacy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>wuxiapptec</strong></td>
-<td>HR Intern (Contingent)</td>
-<td>CH</td>
-<td><div align="center"><a href="https://careers-wuxiapptec.icims.com/jobs/14100/hr-intern-%28contingent%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
+<td>Intern - Public Health</td>
+<td>Amman- JO1<br>Jordan</td>
+<td><div align="center"><a href="https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#21347"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
-<td><strong>wipfli</strong></td>
-<td>Accounting Internship - Spring 2027</td>
-<td>La Crosse<br>WI<br>US</td>
-<td><div align="center"><a href="https://careers-wipfli.icims.com/jobs/7178/accounting-internship---spring-2027/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
+<td><strong>fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
+<td>Intern – Canada Visa Application Centre (CVAC) – (Full Time – Remunerated)</td>
+<td>Almaty<br>Kazakhstan</td>
+<td><div align="center"><a href="https://fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#21536"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
 </tr>
 <tr>
-<td><strong>aerotek</strong></td>
-<td>Internal Communications Specialist</td>
-<td>Hanover<br>MD<br>US</td>
-<td><div align="center"><a href="https://careers-aerotek.icims.com/jobs/13352/internal-communications-specialist/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>International Private Bank - Investment Business Management - Associate</td>
+<td>Central and Western<br>Hong Kong Island<br>Hong Kong</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210762117"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
 </tr>
 <tr>
-<td><strong>avancecare</strong></td>
-<td>Clinical Nurse - Hybrid (Internal Medicine)</td>
-<td><details><summary><strong>4 locations</strong></summary>Lincolnton<br>NC 28092<br>NC<br>US</details></td>
-<td><div align="center"><a href="https://careers-avancecare.icims.com/jobs/3069/clinical-nurse---hybrid-%28internal-medicine%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>International Private Bank - Professional for SEA Market, based in Singapore</td>
+<td>Singapore<br>Singapore</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210762165"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>5d</td>
 </tr>
 <tr>
-<td><strong>ccsww</strong></td>
-<td>Mental Health Care Coordinator (Internal Title: FBH Clinical Care Coordinator)</td>
-<td>Tukwila<br>WA<br>US</td>
-<td><div align="center"><a href="https://careers-ccsww.icims.com/jobs/7847/mental-health-care-coordinator-%28internal-title%3a-fbh-clinical-care-coordinator%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>Credit Officer. Senior Associate -Technology, Disruptive Commerce &amp; Internet</td>
+<td>New York<br>NY<br>United States</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210754619"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>2026 Commercial &amp; Investment Banking - Markets - Off-Cycle Internship - Frankfurt</td>
+<td>Frankfurt a. Main<br>Germany</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210760052"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>International Consumer Banking - Internal Communications Manager (all genders)</td>
+<td>Berlin<br>Germany</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210746916"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>International Private Bank - New Client Development Specialist - Senior Associate/ Vice President - 1 year contract (all genders)</td>
+<td>Frankfurt a. Main<br>Germany</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210757848"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>jpmc.fa.oraclecloud.com</strong></td>
+<td>Internal Audit - Associate/Vice President , Paris</td>
+<td>Paris<br>France</td>
+<td><div align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210759475"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>careers.roche.com</strong></td>
+<td>Team Lead Engineering Commercial Pharma International Engagement Lead (CRM, Field, VOC, Events)</td>
+<td>Madrid<br>Spain</td>
+<td><div align="center"><a href="https://careers.roche.com/job/202602-104205"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>careers.allianz.com</strong></td>
+<td>Strategic Operations Intern (m/f/d)</td>
+<td>BARCELONA<br>Barcelona<br>Spain</td>
+<td><div align="center"><a href="https://careers.allianz.com/job/97589"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.allianz.com</strong></td>
+<td>Wellbeing, Health &amp; Safety Intern (m/f/d)</td>
+<td>BARCELONA<br>Barcelona<br>Spain</td>
+<td><div align="center"><a href="https://careers.allianz.com/job/100176"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong>careers.allianz.com</strong></td>
+<td>Intern Innovation Experience Technologist - R&amp;D Center Europe (m/f/d)</td>
+<td>Unterföhring (bei München)<br>Germany</td>
+<td><div align="center"><a href="https://careers.allianz.com/job/95718"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.allianz.com</strong></td>
+<td>Working Students (w/m/d)- Summer Internship</td>
+<td>Wien<br>Austria</td>
+<td><div align="center"><a href="https://careers.allianz.com/job/98854"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>careers.abb</strong></td>
+<td>Warehouse/Internal Logistics Supervisor - 2nd Shift</td>
+<td>Mebane<br>North Carolina<br>United States of America</td>
+<td><div align="center"><a href="https://careers.abb/job/JR00037025"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>careers.thalesgroup.com</strong></td>
+<td>ALTERNANCE - Relations Internationales F/H</td>
+<td>Meudon<br>Hauts-de-Seine<br>France</td>
+<td><div align="center"><a href="https://careers.thalesgroup.com/job/R0321477"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>careers.thalesgroup.com</strong></td>
+<td>Software Developer Intern (Open also to Protected Categories, Law 68/99)</td>
+<td>Gorgonzola<br>Milano<br>Italy</td>
+<td><div align="center"><a href="https://careers.thalesgroup.com/job/R0331969"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>careers.bcg.com</strong></td>
+<td>[Banco de Talentos] Delivery AI Engineering Intern, Brazil, BCG X</td>
+<td>São Paulo<br>São Paulo<br>Brazil</td>
+<td><div align="center"><a href="https://careers.bcg.com/job/58105"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.merckgroup.com</strong></td>
+<td>Government Affairs Patients Advocacy - Internship - Curious Talent</td>
+<td>Madrid<br>Madrid<br>Spain</td>
+<td><div align="center"><a href="https://careers.merckgroup.com/job/299636"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>EHS - Internship - Curious Talent</td>
+<td>Mollet del Valles<br>Barcelona<br>Spain</td>
+<td><div align="center"><a href="https://careers.merckgroup.com/job/299013"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Endocrinology Marketing - Internship - Curious Talent</td>
+<td>Madrid<br>Madrid<br>Spain</td>
+<td><div align="center"><a href="https://careers.merckgroup.com/job/299270"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.ppg.com</strong></td>
+<td>IT Intern</td>
+<td>Shah Alam<br>Selangor<br>Malaysia</td>
+<td><div align="center"><a href="https://careers.ppg.com/job/JR266645"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>careers.ppg.com</strong></td>
+<td>Process Engineer - Internship</td>
+<td>Quattordio<br>Alessandria<br>Italy</td>
+<td><div align="center"><a href="https://careers.ppg.com/job/JR266379"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.ppg.com</strong></td>
+<td>EHS Intern</td>
+<td>Petaling Jaya<br>Selangor<br>Malaysia</td>
+<td><div align="center"><a href="https://careers.ppg.com/job/JR266848"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>siehe Beschreibung</strong></td>
+<td>Senior Projektleiter (w/m/d) - Internationale Kundenprojekte im Sondermaschinenbau</td>
+<td>AT (AT312)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNDQzMDggNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Büroring Personalmanagement</strong></td>
+<td>Einkäufer (m/w/d) 20 h/Woche - internationales Pharmaunternehmen</td>
+<td>AT (AT312)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyNTg1NjcgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>PPS Pipeline Systems GmbH</strong></td>
+<td>Werkstudent:in Bauwesen (m/w/d) (Tiefbauingenieur/in)</td>
+<td>DE (DEB33)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIwMzAwMC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>TimePartner Personalmanagement GmbH</strong></td>
+<td>Fahrer intern (m/w/d) (Fahrer/in - Personenbeförderung)</td>
+<td>DE (DEB21)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTItOTUyODYwODYwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Sanovetis GmbH</strong></td>
+<td>Internist Praxis (m/w/d) kollegiales Team (Facharzt/-ärztin - Innere Medizin)</td>
+<td>DE (DEB17)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5Ljk5MTQtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Teckentrup GmbH &amp; Co. KG</strong></td>
+<td>Presales &amp; Project Manager International (M/W/D) (Außendienstmitarbeiter/in)</td>
+<td>DE (DEA42)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI4OTk3OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Berner Omnichannel Trading Holding SE</strong></td>
+<td>Werkstudent (w/m/d) Produktmanagement International (Produktmanager/in)</td>
+<td>DE (DE119<br>DEA23)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyNTAzMy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>GROUP7 AG</strong></td>
+<td>Disponent / Speditionskaufmann Internationale Landverkehre (m/w/d) (Kaufmann/-frau - Spedition und Logistikdienstleistung)</td>
+<td>DE (DEA1D)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTc5MjYtMDA2NTUwNzA5Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Dr. Reinhard Kusiek</strong></td>
+<td>Medizinische/r Fachangestellte/r (w/m/d) für hausärztlich-internistische Praxis (Medizinische/r Fachangestellte/r)</td>
+<td>DE (DEA)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjkxNTM5NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Klinikum Leverkusen gGmbH</strong></td>
+<td>Finanzcontroller (m/w/d) (Betriebswirt/in (Fachschule) - international)</td>
+<td>DE (DEA24)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIwODg2OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>Groupe Roullier</strong></td>
+<td>Responsable Expérience Commerciale International F/H</td>
+<td>SAINT-MALO<br>ILLE-ET-VILAINE<br>FR</td>
+<td><div align="center"><a href="https://roullier.csod.com/ux/ats/careersite/1/job/6923?c=roullier"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Groupe Roullier</strong></td>
+<td>Responsable Développement Marketing Agronomique International F/H</td>
+<td>SAINT-MALO<br>ILLE-ET-VILAINE<br>FR</td>
+<td><div align="center"><a href="https://roullier.csod.com/ux/ats/careersite/1/job/6771?c=roullier"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Henkel</strong></td>
+<td>Internship Packaging Development Digitalization</td>
+<td>Düsseldorf<br>DE</td>
+<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84375?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>Henkel</strong></td>
+<td>Intern Marketing Laundry &amp; Home Care</td>
+<td>Barcelona<br>ES</td>
+<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/85903?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Henkel</strong></td>
+<td>Internship AI Commercial Excellence</td>
+<td>Düsseldorf<br>DE</td>
+<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/81569?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Henkel</strong></td>
+<td>Internship International Marketing - Hair Care</td>
+<td>Hamburg<br>DE</td>
+<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83775?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>alan</strong></td>
+<td>Talent Associate (internship)</td>
+<td>Paris<br>France</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/alan/332f9cc1-9d40-4bf0-bfca-279b1650814d"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>airwallex</strong></td>
+<td>Manager, Internal Audit, CN</td>
+<td>CN - Shanghai</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/airwallex/236714f8-ebed-4290-82b3-ee4290a32919"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>docebo</strong></td>
+<td>International Key Account Manager</td>
+<td>London<br>UK</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/docebo/6aa0176c-802c-434c-b2af-05446f20da6d"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>maintainx</strong></td>
+<td>Software Development Intern</td>
+<td>Canada (All hubs)</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/maintainx/4189beb9-a98c-48cc-a9ab-b7bce0390d39"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>safelease</strong></td>
+<td>Operations - Summer Intern</td>
+<td>Austin<br>TX (On-site)</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/safelease/08cdb0eb-c481-40e5-81d7-13367a45cf08"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>saronic</strong></td>
+<td>Electrical Engineer Intern (Fall 2026)</td>
+<td>Austin<br>TX</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/saronic/62c0a94b-c5a7-4b35-8092-d01dba301519"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>skydropx</strong></td>
+<td>Customer Service Internacional (Import/Export)</td>
+<td>Monterrey</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/skydropx/10ed68f7-d3ac-439e-89ed-729369359327"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>statista</strong></td>
+<td>Internal Sales Coach (m/f/d)</td>
+<td>London</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/statista/fa14c77c-18e1-4f68-8af1-7bea7938416a"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>voodoo</strong></td>
+<td>Growth - Playables Associate - Intern</td>
+<td>Paris</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/voodoo/d284a256-2429-4c44-ab5d-a50642f4bfc6"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>ctgt</strong></td>
+<td>Software Engineering Intern (Summer 2027)</td>
+<td>San Francisco</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>enpal</strong></td>
+<td>Senior Associate (w/m/d) – International Operations &amp; Site Build-up</td>
+<td>Berlin</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/enpal/2883f277-578a-480f-a749-85d557d71133"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>fiducial</strong></td>
+<td>Internship - Security &amp; Compliance</td>
+<td>Delft</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/fiducial/c7131122-bfcd-47cd-9fe6-3e09e328b3d4"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>gen-digital</strong></td>
+<td>Application Security Fuzzing Intern</td>
+<td>CZE - Prague</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/gen-digital/5230f044-bf53-4ac1-abe8-89df61cfb4c1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>pocketprep</strong></td>
+<td>Product Design Intern</td>
+<td>Durham Office</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/pocketprep/9770114f-3dec-4e67-a6e3-f1e01cedd45b"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>se3</strong></td>
+<td>Government Relations Intern</td>
+<td>Munich</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/se3/4059b9fc-1267-4e4a-8f8b-0d339bab0615"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>deugro Group</strong></td>
+<td>Intern-Business Excellence | Legal &amp; Business Support</td>
+<td>Shanghai<br>CN</td>
+<td><div align="center"><a href="https://deugro-group.csod.com/ux/ats/careersite/1/job/2183?c=deugro-group"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Entravision</strong></td>
+<td>Sales Assistant Intern</td>
+<td>Las Vegas<br>NV<br>US</td>
+<td><div align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5039?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>SSE Academy</strong></td>
+<td>Internal Sales Engineer</td>
+<td>Huddersfield<br>WEST YORKSHIRE<br>GB</td>
+<td><div align="center"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4620?c=sseacademy"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>TalentGo</strong></td>
+<td>Internship - Technical Cybersecurity</td>
+<td>Rivas-Vaciamadrid<br>Madrid<br>ES</td>
+<td><div align="center"><a href="https://talentgo.csod.com/ux/ats/careersite/1/job/2167?c=talentgo"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>University of Northern Colorado</strong></td>
+<td>Adjunct Hiring Pool - Political Science &amp; International Affairs</td>
+<td>Greeley<br>CO<br>US</td>
+<td><div align="center"><a href="https://unco.csod.com/ux/ats/careersite/1/job/989?c=unco"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>Turner Construction</strong></td>
+<td>SB Supply Chain Intern-Fall 2026 (Memphis)</td>
+<td>Memphis<br>TN<br>US</td>
+<td><div align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20381?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>Transdev</strong></td>
+<td>Internship - Junior analyst M/F</td>
+<td>Issy les Moulineaux<br>FR</td>
+<td><div align="center"><a href="https://transdev.csod.com/ux/ats/careersite/1/job/11354?c=transdev"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Bayer</strong></td>
+<td>Internship Marketing Dermatology (m/f/d)</td>
+<td>Zurich<br>Zürich<br>Switzerland</td>
+<td><div align="center"><a href="https://talent.bayer.com/careers/job/562949977350137"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Arcadis</strong></td>
+<td>Transportation Planning Intern</td>
+<td>Irvine<br>CA<br>US</td>
+<td><div align="center"><a href="https://arcadis.eightfold.ai/careers/job/563671531414647"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Applied Materials</strong></td>
+<td>Corporate Quality Internal Auditor</td>
+<td>Santa Clara<br>CA<br>US</td>
+<td><div align="center"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811946"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Coca-Cola Europacific Partners</strong></td>
+<td>Mgr, International Tax</td>
+<td>Sofia<br>Sofia City Province<br>BG</td>
+<td><div align="center"><a href="https://ccep.eightfold.ai/careers/job/563087416521062"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Deutsche Telekom</strong></td>
+<td>AI Business Innovation &amp; Growth Internship (m/f/d)</td>
+<td>Berlin<br>BE<br>DE</td>
+<td><div align="center"><a href="https://telekom-growthhub.eightfold.ai/careers/job/563465373858337"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>Dolby</strong></td>
+<td>PhD Research Intern  - Volumetric Representation (Fall 2026, Atlanta)</td>
+<td>Atlanta<br>GA<br>US</td>
+<td><div align="center"><a href="https://dolby.eightfold.ai/careers/job/42014081"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>2k</strong></td>
+<td>Senior Manager, International GTM - EMEA LATAM, NBA 2K</td>
+<td>London<br>England<br>United Kingdom</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/2k/jobs/7733484003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>acluinternships</strong></td>
+<td>Fall 2026 Legal Intern, Abortion Criminal Defense Initiative</td>
+<td>Remote/Hybrid-New York City or Washington D.C.</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/acluinternships/jobs/8578531002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>assetwatch</strong></td>
+<td>International Trade &amp; Logistics Consultant  - Contract</td>
+<td>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/assetwatch/jobs/4706939005"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>axon</strong></td>
+<td>International Financial Accountant</td>
+<td>Bucharest<br>Bucharest<br>Romania</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7769174003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>blockchain</strong></td>
+<td>UX/Product Design Intern</td>
+<td>Paris</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/blockchain/jobs/7961085"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>bpcs</strong></td>
+<td>Senior UX/UI Designer – AI Internal Tools</td>
+<td>Remote</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/bpcs/jobs/8027611"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>bursonglobalcareers</strong></td>
+<td>Communication intern - Barcelona</td>
+<td>Barcelona<br>Barcelona<br>Spain</td>
+<td><div align="center"><a href="https://www.bursonglobal.com/careers/jobs?gh_jid=5276745008"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>ceg</strong></td>
+<td>International Graduate Program - Samlino Group</td>
+<td>Lisbon<br>Portugal</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/ceg/jobs/7727204003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>cribl</strong></td>
+<td>Revenue Enablement Intern</td>
+<td>Remote - United States</td>
+<td><div align="center"><a href="https://cribl.io/job-detail/?gh_jid=5165439004"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>cvx</strong></td>
+<td>Startup Intern</td>
+<td>Copenhagen<br>Denmark</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/cvx/jobs/7728206003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>feverup</strong></td>
+<td>French Legal Intern</td>
+<td>Madrid</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/4890222101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>feverup</strong></td>
+<td>Internship - Music Curator for Candlelight Concerts</td>
+<td>Mexico City</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/4879402101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>hackerrank</strong></td>
+<td>Customer Experience Engineer - Intern</td>
+<td>Onsite in Bangalore<br>India</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/hackerrank/jobs/8015586"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>harbingermotors</strong></td>
+<td>Intern, Cybersecurity</td>
+<td>Garden Grove<br>CA</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5164361007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>humanrightswatch</strong></td>
+<td>Asia Division Intern</td>
+<td>Sydney<br>New South Wales<br>Australia</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/humanrightswatch/jobs/8601975002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>10d</td>
+</tr>
+<tr>
+<td><strong>justworks</strong></td>
+<td>Senior Employment Counsel, International Lifecycle</td>
+<td>Toronto<br>Canada</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/justworks/jobs/7997716?gh_jid=7997716"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>kensingtontours</strong></td>
+<td>Intern - Operations, Ultraluxe Product</td>
+<td>Toronto</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5172026007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Behavioral Health Specialist (Internal title: Clinical Care Coordinator)</td>
-<td>Tacoma<br>WA<br>US</td>
-<td><div align="center"><a href="https://careers-ccsww.icims.com/jobs/7746/behavioral-health-specialist-%28internal-title%3a-clinical-care-coordinator%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Intern - Product</td>
+<td>Toronto</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5172007007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
+<td><strong>landor</strong></td>
+<td>Springboard Internship - Motion Design</td>
+<td>Delhi</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/landor/jobs/7904109"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>memx</strong></td>
+<td>Internal Audit Associate</td>
+<td>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/memx/jobs/5276837008"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>J.P. Sauer &amp; Sohn Maschinenbau GmbH</strong></td>
+<td>Mitarbeiter Lager &amp; Interner Transport (m/w/d) (Lager- und Transportarbeiter/in)</td>
+<td>DE (DEF02)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2ODgtMjg5OTMyNzgtUkpBLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>CBR Service GmbH</strong></td>
+<td>Werkstudent / Sales Assistant (m/w/d) - Street One und CECIL im Outlet Kiefersfelden (Verkäufer/in)</td>
+<td>DE (DE21K)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI2Njk0OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>Brodos AG</strong></td>
+<td>Pflichtpraktikum (Kaufmännische Fachkraft)</td>
+<td>DE (DE257)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIyNTUwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>TM Technischer Gerätebau GmbH</strong></td>
+<td>Mitarbeiter für unsere Vertriebsabteilung National- u. International (Verkaufssachbearbeiter/in)</td>
+<td>DE (DE279)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjc4NTIxMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Universitätsklinikum Würzburg</strong></td>
+<td>internistische Intensivstation M51 (Pflegefachmann/-frau (Ausbildung))</td>
+<td>DE (DE263)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjgwODM5MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>kbo-Donau-Altmühl-Kliniken GmbH</strong></td>
+<td>Facharzt für Allgemeinmedizin / Internist (w/m/d) (Facharzt/-ärztin - Innere Medizin)</td>
+<td>DE (DE211)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTYzMzQta3Y0Z2puMm4yNmN5Zzg2bzByLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Erzdiözese München und Freising KdöR</strong></td>
+<td>Application Manager:in für interne IT-Anwendungen (IT-Projektleiter/in (Weiterbildung/Ausbildung))</td>
+<td>DE (DE212)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ0MjQtNDQyNDgyNTItNjE2LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>X2E GmbH</strong></td>
+<td>Werkstudent Softwareentwicklung – DevOps &amp; Tooling (m/w/d) (Informatiker/in)</td>
+<td>DE (DE122)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIyNjM3NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>C.Josef Lamy GmbH</strong></td>
+<td>International Marketing Manager (m/w/d) (Betriebswirt/in (Hochschule) - Marketing)</td>
+<td>DE (DE125)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI1ODgwMy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>Hochschule Ravensb.-Weingarten Land BW</strong></td>
+<td>Koordinator*in für Internationalisierung (w/m/d) in Teilzeit (50%) (Bürokaufmann/-frau)</td>
+<td>DE (DE148)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI3NDkwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>August-Hermann-Werner-Schule Staatl. sonderpäd. Bildungs- u Beratungszentr. mit Internat</strong></td>
+<td>Pflegefachkraft (m/w/d) im Tagdienst unseres Internates (Pflegefachmann/-frau (Gesundheits- und Kinderkrankenpflege))</td>
+<td>DE (DE115)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI1MDU2MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Stiftung St.Franziskus Heiligenbronn</strong></td>
+<td>Freiwilliges Soziales Jahr – Bickebergschule (w/m/d) (Lehrer/in - Grundschulen)</td>
+<td>DE (DE136)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjUwMTcyMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Raben Trans European Germany GmbH</strong></td>
+<td>Teamleitung Transport International (m/w/d) (Logistiker/in)</td>
+<td>DE (DEG0R)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtNWVjZmJkMWItMzFkNC00NmVhLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Sanovetis GmbH</strong></td>
+<td>Hausarzt / Allgemeinmediziner / Internist (m/w/d) Raum Erfurt | ambulant (Facharzt/-ärztin - Allgemeinmedizin (Hausarzt/-ärztin))</td>
+<td>DE (DEG01)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMzcwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>culmen</strong></td>
+<td>International Procurement and Logistics Project Coordinator</td>
+<td>Alexandria<br>VA<br>US</td>
+<td><div align="center"><a href="https://careers-culmen.icims.com/jobs/4456/international-procurement-and-logistics-project-coordinator/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>didiglobal</strong></td>
+<td>ROM Pricing Intern</td>
+<td>Mexico City<br>MEX<br>MX</td>
+<td><div align="center"><a href="https://careers-didiglobal.icims.com/jobs/20305/rom-pricing-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>didiglobal</strong></td>
+<td>CX Ops - Service Strategy Intern</td>
+<td>Sao Paulo | BR-SP-Sao Paulo | MX-MEX-Mexico City<br>SP<br>BR</td>
+<td><div align="center"><a href="https://careers-didiglobal.icims.com/jobs/20192/cx-ops---service-strategy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>didiglobal</strong></td>
+<td>Legal Intern</td>
+<td>Mexico City<br>MEX<br>MX</td>
+<td><div align="center"><a href="https://careers-didiglobal.icims.com/jobs/19934/legal-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>covenanthealth</strong></td>
+<td>Respiratory Therapy Intern, Cardiopulmonary Services</td>
+<td>Lenoir City<br>TN<br>US</td>
+<td><div align="center"><a href="https://careers-covenanthealth.icims.com/jobs/74013/resp-therapy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>comcastspectacor</strong></td>
+<td>Concessions Attendant | Part-Time | Benchmark International Arena</td>
+<td>Tampa<br>FL<br>US</td>
+<td><div align="center"><a href="https://careers-ovg.icims.com/jobs/32711/concessions-attendant-%7c-part-time-%7c-benchmark-international-arena/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>comcastspectacor</strong></td>
+<td>Specialty Cook | Part-Time | Benchmark International Arena</td>
+<td>Tampa<br>FL<br>US</td>
+<td><div align="center"><a href="https://careers-ovg.icims.com/jobs/32690/specialty-cook-%7c-part-time-%7c-benchmark-international-arena/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>epeconsulting</strong></td>
+<td>DER Public Policy Intern</td>
+<td>Austin<br>TX<br>US</td>
+<td><div align="center"><a href="https://careers-epeconsulting.icims.com/jobs/2167/der-public-policy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>heart</strong></td>
+<td>Intern, Southeast Community CPR-Remote</td>
+<td>Nashville<br>TN<br>US</td>
+<td><div align="center"><a href="https://careers-heart.icims.com/jobs/17677/intern%2c-southeast-community-cpr-remote/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>here</strong></td>
+<td>Procurement Intern – Sourcing Operations &amp; Digital Enablement</td>
+<td>NL-Amsterdam</td>
+<td><div align="center"><a href="https://careers-here.icims.com/jobs/81444/procurement-intern-%e2%80%93-sourcing-operations-%26-digital-enablement/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>idlo</strong></td>
+<td>Corporate Accounting Intern</td>
+<td>IT-Rome</td>
+<td><div align="center"><a href="https://careers-idlo.icims.com/jobs/1727/corporate-accounting-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>kinaxis</strong></td>
+<td>Co-op/ Intern Engineer, Data &amp; Analytics</td>
+<td>Ottawa<br>ON<br>CA</td>
+<td><div align="center"><a href="https://careers-kinaxis.icims.com/jobs/34766/co-op--intern-engineer%2c-data-%26-analytics/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>kinaxis</strong></td>
+<td>Co-op/Intern Software Development - C++</td>
+<td>Remote<br>UNAVAILABLE<br>CA</td>
+<td><div align="center"><a href="https://careers-kinaxis.icims.com/jobs/34764/co-op-intern-software-development---c%2b%2b/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>latticesemi</strong></td>
+<td>Administrative Intern</td>
+<td>| MY-Bayan Lepas<br>Penang</td>
+<td><div align="center"><a href="https://careers-latticesemi.icims.com/jobs/3686/administrative-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>nationaldebtrelief</strong></td>
+<td>People Experience Intern</td>
+<td>US</td>
+<td><div align="center"><a href="https://careers-nationaldebtrelief.icims.com/jobs/6502/people-experience-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>northside</strong></td>
+<td>Front Office Assistant - Internal Medicine</td>
+<td>Cumming<br>GA<br>US</td>
+<td><div align="center"><a href="https://careers-northside.icims.com/jobs/112236/front-office-assistant---internal-medicine/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>peraton</strong></td>
+<td>Internal Audit Associate</td>
+<td>US</td>
+<td><div align="center"><a href="https://careers-peraton.icims.com/jobs/167398/internal-audit-associate/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>stifel</strong></td>
+<td>Branch Intern</td>
+<td>Stockton<br>CA<br>US</td>
+<td><div align="center"><a href="https://careers-stifel.icims.com/jobs/9420/branch-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>walterpmoore</strong></td>
+<td>Engineering Intern</td>
+<td>Toronto<br>ON<br>CA</td>
+<td><div align="center"><a href="https://careers-walterpmoore.icims.com/jobs/4101/engineering-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong>growfinancial</strong></td>
-<td>Treasury Intern- Fall 2026</td>
+<td>FP&amp;A Intern- Fall 2026</td>
 <td>US-Remote</td>
-<td><div align="center"><a href="https://careers-growfinancial.icims.com/jobs/2671/treasury-intern--fall-2026/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://careers-growfinancial.icims.com/jobs/2670/fp%26a-intern--fall-2026/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>indeed</strong></td>
+<td>Assistant Manager, Payroll - Internal Only</td>
+<td>Remote<br>UNAVAILABLE<br>US</td>
+<td><div align="center"><a href="https://careers-indeed.icims.com/jobs/47063/assistant-manager%2c-payroll---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>judge</strong></td>
 <td>Intern</td>
-<td>Wayne<br>PA<br>US</td>
-<td><div align="center"><a href="https://careers-judge.icims.com/jobs/2963/intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>marvin</strong></td>
-<td>Tool &amp; Die Maker Intern</td>
-<td>Fargo<br>ND<br>US</td>
-<td><div align="center"><a href="https://composite-jobs-marvin.icims.com/jobs/9877/tool-%26-die-maker-intern/job?hub=7&in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>publiccounsel</strong></td>
-<td>Internship Fall 2026 - PDD Brockton</td>
-<td>Brockton<br>MA<br>US</td>
-<td><div align="center"><a href="https://careers-publiccounsel.icims.com/jobs/3137/internship-fall-2026---pdd-brockton/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>strattec</strong></td>
-<td>Engineering Intern</td>
-<td>Milwaukee</td>
-<td><div align="center"><a href="https://careers-strattec.icims.com/jobs/8480/engineering-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>sig</strong></td>
-<td>Quantitative Systematic Trading Internship - PhD: Summer 2027</td>
-<td>New York<br>NY<br>US</td>
-<td><div align="center"><a href="https://careers-sig.icims.com/jobs/10822/quantitative-systematic-trading-internship---phd%3a-summer-2027/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Tax Internship: Summer 2027</td>
-<td>Bala Cynwyd (Philadelphia Area)<br>PA<br>US</td>
-<td><div align="center"><a href="https://careers-sig.icims.com/jobs/10965/tax-internship%3a-summer-2027/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>stlukes-stl</strong></td>
-<td>Licensed Practical Nurse - LPN - Internal Medicine</td>
-<td>SAINT LOUIS<br>MO<br>US</td>
-<td><div align="center"><a href="https://careers-stlukes-stl.icims.com/jobs/34048/lpn/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>aubade-paris</strong></td>
-<td>Gestionnaire relation client - (H/F) - Stage 6 mois</td>
-<td>Paris<br>France</td>
-<td><div align="center"><a href="https://join.com/companies/aubade-paris/jobs/16349428-gestionnaire-relation-client-h-f-stage-6-mois"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>bable-smartcities</strong></td>
-<td>(Intern) Junior Urban Mobility Advisor</td>
-<td>Stuttgart<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/bable-smartcities/jobs/16361913-intern-junior-urban-mobility-advisor"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>communisone</strong></td>
-<td>Praktikant:in Social Media - Sportvermarktung</td>
-<td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/communisone/jobs/16367263-praktikant-in-social-media-sportvermarktung"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Charlotte<br>NC<br>US</td>
+<td><div align="center"><a href="https://careers-judge.icims.com/jobs/2939/intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>dariussaee</strong></td>
-<td>Internal Account Manager (m/w/d)  100% Homeoffice | Vollzeit | Festanstellung oder Freelancer-Vertrag</td>
-<td>Aachen<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/dariussaee/jobs/16337748-internal-account-manager-m-w-d-100-homeoffice-oder-vollzeit-oder-festanstellung-oder-freelancer-vertrag"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
-</tr>
-<tr>
-<td><strong>flach-barfigo</strong></td>
-<td>Konstruktion (all genders), Maschinenbau - Mechanische Komponenten - internationaler Industrieanlagenbau, 1030 Wien</td>
-<td>Vienna<br>Austria</td>
-<td><div align="center"><a href="https://join.com/companies/flach-barfigo/jobs/16356278-konstruktion-all-genders-maschinenbau-mechanische-komponenten-internationaler-industrieanlagenbau-1030-wien"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>gastro-bedarf24de</strong></td>
-<td>Praktikum im Bereich Social Media &amp; Content Creation (m/w/d)</td>
-<td>Duisburg<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/gastro-bedarf24de/jobs/16369251-praktikum-im-bereich-social-media-und-content-creation-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>gemmyo</strong></td>
-<td>Assistant.e Vidéaste</td>
-<td>Paris<br>France</td>
-<td><div align="center"><a href="https://join.com/companies/gemmyo/jobs/16359643-assistant-e-videaste"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>homberger-ag</strong></td>
-<td>Head Business Development / Sales international (w/m/d) 100%</td>
-<td>Zürich<br>Switzerland</td>
-<td><div align="center"><a href="https://join.com/companies/homberger-ag/jobs/16375857-head-business-development-sales-international-w-m-d-100"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>horbachde600</strong></td>
-<td>Praktikum im Consulting (m/w/d) bei Horbach</td>
-<td>Stuttgart<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/horbachde600/jobs/16359525-praktikum-im-consulting-m-w-d-bei-horbach"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Global University Systems (GUS)</strong></td>
-<td>Business Development Manager for International Student Recruitment</td>
-<td>Lahore<br>PK</td>
-<td><div align="center"><a href="https://gusglobaluniversitysystems.teamtailor.com/jobs/7979395-business-development-manager-for-international-student-recruitment"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>Ingeteam</strong></td>
-<td>INTERNATIONAL KAM - ELECTRIC VEHICLE CHARGERS</td>
-<td>Navarra<br>ES</td>
-<td><div align="center"><a href="https://ingeteam.teamtailor.com/jobs/7888234-international-kam-electric-vehicle-chargers"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>Pandox Belgium</strong></td>
-<td>Reservations &amp; guest service expert internship</td>
-<td>Brussel<br>BE</td>
-<td><div align="center"><a href="https://pandox-belgium-careers.teamtailor.com/jobs/7764079-reservations-guest-service-expert-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Smart</strong></td>
-<td>Addetto/a al supporto commerciale e marketing interno</td>
-<td>Buguggiate<br>IT</td>
-<td><div align="center"><a href="https://sweet.teamtailor.com/jobs/7923629-addetto-a-al-supporto-commerciale-e-marketing-interno"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Actual Talent</strong></td>
-<td>Comm. &amp; External Relations - Internship VGED (Madrid)</td>
-<td>Madrid<br>ES</td>
-<td><div align="center"><a href="https://winid.teamtailor.com/jobs/7837460-comm-external-relations-internship-vged-madrid"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>长鑫存储技术有限公司</strong></td>
-<td>产品经理实习生（人力资源数智化方向）-Product Manager Intern (HR Digital Intelligence)(J19354)</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://cxmt.zhiye.com/portal/jobs/621104897"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>primeinc</strong></td>
+<td>Operations Intern</td>
+<td>Pittston<br>PA<br>US</td>
+<td><div align="center"><a href="https://careers-primeinc.icims.com/jobs/5133/operations-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>18d</td>
 </tr>
 <tr>
-<td><strong>invinoradio</strong></td>
-<td>Stage - Assistant chef de projet H/F</td>
+<td><strong>alizeehotesses</strong></td>
+<td>Stage Business Developer Evènementiel &amp; Hospitalité du 1/09/26 au 31/12/26</td>
 <td>Paris<br>France</td>
-<td><div align="center"><a href="https://join.com/companies/invinoradio/jobs/16353021-stage-assistant-chef-de-projet-h-f"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://join.com/companies/alizeehotesses/jobs/16350681-stage-business-developer-evenementiel-et-hospitalite-du-1-09-26-au-31-12-26"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>danslenoir</strong></td>
+<td>Stage - Chargé(e) Communication &amp; Événementiel (H/F)</td>
+<td>Nantes<br>France</td>
+<td><div align="center"><a href="https://join.com/companies/danslenoir/jobs/16342787-stage-charge-e-communication-et-evenementiel-h-f"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>doctariode</strong></td>
+<td>AI Engineering Intern</td>
+<td>Munich<br>Germany</td>
+<td><div align="center"><a href="https://join.com/companies/doctariode/jobs/16377139-ai-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>jimjim</strong></td>
-<td>Praktikum Content Creation &amp; Video Production 80-100% (9-12 Monate)</td>
-<td>Zürich<br>Switzerland</td>
-<td><div align="center"><a href="https://join.com/companies/jimjim/jobs/16353612-praktikum-content-creation-und-video-production-80-100-9-12-monate"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>juvigo</strong></td>
-<td>Internship - International Social Media &amp; Community Management</td>
-<td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/juvigo/jobs/16376903-internship-international-social-media-and-community-management"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Internship - International Travel Influencer</td>
-<td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/juvigo/jobs/16372202-internship-international-travel-influencer"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>refarm</strong></td>
-<td>Pflichtpraktikum / Praxissemester - nachhaltiger Vertrieb</td>
-<td>Karlsruhe<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/refarm/jobs/16376383-pflichtpraktikum-praxissemester-nachhaltiger-vertrieb"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>droppery</strong></td>
+<td>Sales internship - French / Dutch speaking I FR &amp; NL</td>
+<td>Amsterdam<br>Netherlands</td>
+<td><div align="center"><a href="https://join.com/companies/droppery/jobs/16367852-sales-internship-french-dutch-speaking-i-fr-and-nl"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>16d</td>
 </tr>
 <tr>
-<td><strong>scharfstein-group</strong></td>
-<td>Praktikant Real Estate Investments (m/w/d)</td>
+<td><strong>eurolondon401</strong></td>
+<td>Rechtsanwalt (m/w/d) Arbeitsrecht in internationaler Wirtschaftskanzlei</td>
+<td>Munich<br>Germany</td>
+<td><div align="center"><a href="https://join.com/companies/eurolondon401/jobs/16338832-rechtsanwalt-m-w-d-arbeitsrecht-in-internationaler-wirtschaftskanzlei"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>evylde</strong></td>
+<td>Praktikum (m/w/d) Consulting</td>
+<td>Cologne<br>Germany</td>
+<td><div align="center"><a href="https://join.com/companies/evylde/jobs/16332837-praktikum-m-w-d-consulting"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>filmeventde</strong></td>
+<td>Praktikum Eventmanagement ab sofort (m/w/d)</td>
+<td>Frankfurt am Main<br>Germany</td>
+<td><div align="center"><a href="https://join.com/companies/filmeventde/jobs/16308286-praktikum-eventmanagement-ab-sofort-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>firstmountain</strong></td>
+<td>Praktikum Reiseveranstaltung/Touristik (m/w/d) - ab Mitte September 2026</td>
 <td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/scharfstein-group/jobs/16363289-praktikant-real-estate-investments-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://join.com/companies/firstmountain/jobs/16316178-praktikum-reiseveranstaltung-touristik-m-w-d-ab-mitte-september-2026"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>PROSOL</strong></td>
+<td>Alternance - Auditeur Interne (H/F)</td>
+<td>FR (FRK26)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzY2MjQ5NiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>CMD ENGRENAGES ET REDUCTEURS</strong></td>
+<td>Alternant technicien logistique interne H/F</td>
+<td>FR (FRE11)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjczMzUyMiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Data Analyst Audit Interne (H/F)</td>
+<td>FR (FRJ23)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzYxNTMxMiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Technicien SAV international H/F</td>
+<td>FR (FRF31)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQ5ODMzNCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>MUTUELLE VIASANTE</strong></td>
+<td>Contrôleur interne H/F (H/F)</td>
+<td>FR (FR101)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5Q01UWCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>BA Friedrichshain-Kreuzberg SE Personal</strong></td>
+<td>Gesamtleitung Interner Service Jugendamt (m/w/d) (Fachwirt/in - Verwaltung)</td>
+<td>DE (DE300)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ3OTUtNjc1NjFfMTIwNDgwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>Airbus Operations GmbH Werk Bremen</strong></td>
+<td>Werkstudent in der Entgeltabrechnung (d/m/w) (Personalberater/in)</td>
+<td>DE (DE600)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ5NDA2MjQ2LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>The Quality Group Gmbh</strong></td>
+<td>(Junior) Media &amp; Shopper Activation Manager (gn) – Core Markets International (Innendienstleiter/in)</td>
+<td>DE (DE600)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtYTI5NjQ2OTktMGVlZi00ODNjLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>Aviation Industry Personnel Services GmbH</strong></td>
+<td>International Trade/Projects (m/w/d) Lufthansa Technik (Wirtschaftsingenieur/in)</td>
+<td>DE (DE600)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1NjQtazIxODQwLjE0Mjg3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Sander Catering GmbH</strong></td>
+<td>Küchenhilfe (w/m/d) in Güstrow, ecolea - Internationale Schule Güstrow (Helfer/in - Küche)</td>
+<td>DE (DE80K)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI3NDY3NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Heraeus Business Solutions GmbH HRdirekt</strong></td>
+<td>Manager (m/w/d) Export Control &amp; Sanctions (Fachanwalt/-anwältin - internationales Wirtschaftsrecht)</td>
+<td>DE (DE719)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE0NDU1Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Asklepios Klinik Lich GmbH</strong></td>
+<td>Internationale Pflegefachkraft für Kenntnisprüfung (w/m/d) (Pflegefachmann/-frau (Gesundheits- und Krankenpflege))</td>
+<td>DE (DE721)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA0NTYtMjI3ODEyNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>IMPACT GmbH - NL Frankfurt</strong></td>
+<td>Chemielaborant (m/w/d) für internationalen Hersteller bis zu 22€ pro h (Chemielaborjungwerker/in)</td>
+<td>DE (DE718)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTktNDg0Njk1NzkwNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>IMPACT GmbH - NL Frankfurt</strong></td>
+<td>Elektromonteur (m/w/d) für internationalen Elektrohersteller bis zu 18€ pro Stunde (Löter/in)</td>
+<td>DE (DE713)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTktNDg0MDgxNzI2OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong>Sanovetis GmbH</strong></td>
+<td>Internist MVZ (m/w/d) Berliner Speckgürtel - Raum Bernau (Facharzt/-ärztin - Innere Medizin)</td>
+<td>DE (DE405)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMDM0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Deutsche Post AG Zentrale</strong></td>
+<td>Disponent (m/w/d)- internationale und nationale Straßentransporte / Fernverkehr (Fachlagerist/in)</td>
+<td>DE (DE408)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQzNDAtNDY0NTk5ODYzLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Asklepios Fachkliniken Brandenburg GmbH</strong></td>
+<td>Examinierte Pflegefachkraft (w/m/d) für die pflegefachliche Sprachbegleitung unserer internationalen (Pflegefachmann/-frau (Gesundheits- und Krankenpflege))</td>
+<td>DE (DE401)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA0NTYtMjI1NDA4Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Verein Oberlinhaus gGmbH</strong></td>
+<td>Pädagogischer Mitarbeiter (gn*) Internat (Pädagoge/Pädagogin)</td>
+<td>DE (DE404)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTc2NjctMjAyNmE0dWdjc3lvLTAwMC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>CBR Service GmbH</strong></td>
+<td>Praktikum Modedesign Womenswear - Street One und CECIL in Isernhagen (Modedesigner/in)</td>
+<td>DE (DE929)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzI0ODA0Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Möbel Heinrich GmbH &amp; Co. KG</strong></td>
+<td>Interne Stellenausschreibung Teamleitung Auslieferung Möbel (m/w/d) (Auslieferungsfahrer/in (nicht Verkaufsfahrer/in))</td>
+<td>DE (DE928)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtNWI5MzA3NDMtMDQ5OS00MTE4LS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
-<td><strong>shapemateeu</strong></td>
-<td>Praktikum Content Marketing &amp; Creation (m/w/d)</td>
-<td>Cologne<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/shapemateeu/jobs/16371780-praktikum-content-marketing-und-creation-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>WE Group GmbH &amp;amp; Co. KG</strong></td>
+<td>Leiter Projektabwicklung (m/w/d) - Interne Projektsteuerung (Projektleiter/in)</td>
+<td>DE (DE948)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtODUzNzIwMjZfSkI1MTc0OTY3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>rakuna1</strong></td>
+<td>Business/Data Analyst Intern</td>
+<td>Long Biên<br>Hà Nội<br>vn</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/rakuna1/744000133180129"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>qima</strong></td>
+<td>Estágio - Documentação Técnica</td>
+<td>Valinhos<br>SP<br>br</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/qima/744000124886958"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>sosmediterranee</strong></td>
-<td>Pflichtprakikum Kommunikation und Advocacy</td>
-<td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/sosmediterranee/jobs/16366792-pflichtprakikum-kommunikation-und-advocacy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>trident-hamburgde</strong></td>
-<td>HR-Manager International in Voll- oder Teilzeit (m/w/d)_ID302</td>
-<td>Heeslingen<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/trident-hamburgde/jobs/16346867-hr-manager-international-in-voll-oder-teilzeit-m-w-d-_id302"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>yfood</strong></td>
-<td>International Influencer Marketing Manager (m/f/d)</td>
-<td>Munich<br>Germany</td>
-<td><div align="center"><a href="https://join.com/companies/yfood/jobs/16353338-international-influencer-marketing-manager-m-f-d"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>rolandberger</strong></td>
+<td>Hema Internship - Abu Dhabi, UAE</td>
+<td>Abu Dhabi<br>Abu Dhabi<br>ae</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/rolandberger/744000127833779"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>arsiem</strong></td>
-<td>Product Manager/Networking – Internet</td>
-<td>Columbia<br>MD</td>
-<td><div align="center"><a href="https://jobs.lever.co/arsiem/17f974d8-5cc7-444d-8613-6790ba279cd3"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
+<td><strong>relaischateaux</strong></td>
+<td>Stagiaire réceptionniste (H/F)</td>
+<td>Paris<br>IDF<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/relaischateaux/744000132165709"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
 </tr>
 <tr>
-<td><strong>bhvr</strong></td>
-<td>Technical Animator - Internship Fall 2026 | Animateur·trice technique - Stage Automne 2026</td>
-<td>Montreal<br>QC</td>
-<td><div align="center"><a href="https://jobs.lever.co/bhvr/cacf53d4-943c-4c66-adec-bac350a2c2f9"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>cabonorte</strong></td>
-<td>Corporate Procurement Manager – UAE, Dubai with international expertise</td>
-<td>UAE</td>
-<td><div align="center"><a href="https://jobs.lever.co/cabonorte/ab044777-926c-4921-937a-52099f5258ce"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>crestoperations</strong></td>
-<td>DIS-TRAN Steel Internal Transfer Portal - Project Management Office Manager</td>
-<td>Pineville<br>Louisiana</td>
-<td><div align="center"><a href="https://jobs.lever.co/crestoperations/847f810f-4d2b-48cb-9195-983c20267b7c"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>deuna</strong></td>
-<td>Data Science intern</td>
-<td>San Francisco</td>
-<td><div align="center"><a href="https://jobs.lever.co/deuna/060457fb-42c4-4150-a8fa-e2c312a88e6a"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>rrdonnelley</strong></td>
+<td>HR Intern</td>
+<td>Logan<br>UT<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/rrdonnelley/744000134879173"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
-<td><strong>elfbeauty</strong></td>
-<td>Inteirm Analyst, Commercial Insights, International</td>
-<td>London<br>England</td>
-<td><div align="center"><a href="https://jobs.lever.co/elfbeauty/d3bc5393-a619-410a-bac9-b7cc1d261f07"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
+<td><strong>rexel1</strong></td>
+<td>Internal Sales Executive</td>
+<td>Plymouth<br>England<br>gb</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/rexel1/744000131879241"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
 </tr>
 <tr>
-<td><strong>emma-sleep</strong></td>
-<td>Marketing Intern - (German Speaker)</td>
-<td>Frankfurt</td>
-<td><div align="center"><a href="https://jobs.lever.co/emma-sleep/a680019b-3e8d-4af7-a62e-151fb3e6e581"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>rexel1</strong></td>
+<td>Internal Sales</td>
+<td>Roma<br>au</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/rexel1/744000127798090"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Internal Sales Executive</td>
+<td>Rosyth<br>Scotland<br>gb</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/rexel1/744000127747619"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>renesaselectronics</strong></td>
+<td>Intern, Quoting Analyst</td>
+<td>Bayan Lepas<br>my</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/renesaselectronics/744000126436731"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>scalablegmbh</strong></td>
+<td>Intern Business Development Austria (m/f/x)</td>
+<td>Wien<br>Wien<br>at</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/scalablegmbh/744000133634939"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>7d</td>
 </tr>
 <tr>
-<td><strong>foodstuffs</strong></td>
-<td>Brand &amp; Communications Intern</td>
-<td>Foodstuffs Landing Drive<br>Mangere<br>Auckland</td>
-<td><div align="center"><a href="https://jobs.lever.co/foodstuffs/d8ff4240-4991-450b-a940-3b3c7fb35cd5"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Quality Improvement Intern</td>
-<td>Foodstuffs Landing Drive<br>Mangere<br>Auckland</td>
-<td><div align="center"><a href="https://jobs.lever.co/foodstuffs/916e64a3-01c0-481d-b526-6196a7299656"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>gonetspeed</strong></td>
-<td>Door-to-Door Fiber Internet Sales Representative</td>
-<td>New York Mills<br>NY</td>
-<td><div align="center"><a href="https://jobs.lever.co/gonetspeed/1c8d378a-ba28-42e3-90b9-259503fc1161"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Door-to-Door Fiber Internet Sales Representative</td>
-<td>Cheektowaga<br>NY</td>
-<td><div align="center"><a href="https://jobs.lever.co/gonetspeed/661f0a7d-4bb3-42aa-b7bb-00b1249b8b52"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>gonetspeed</strong></td>
-<td>Door-to-Door Fiber Internet Sales Representative</td>
-<td>East Aurora<br>NY</td>
-<td><div align="center"><a href="https://jobs.lever.co/gonetspeed/6cfabca8-e0d2-4ad1-ab41-d997cb2fa59e"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>gonetspeed</strong></td>
-<td>Door-to-Door Fiber Internet Sales Representative</td>
-<td>Kittery<br>ME</td>
-<td><div align="center"><a href="https://jobs.lever.co/gonetspeed/6dcbe107-f547-4416-b51c-a667039e9ec0"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>gonetspeed</strong></td>
-<td>Door-to-Door Fiber Internet Sales Representative</td>
-<td>Canandaigua<br>New York</td>
-<td><div align="center"><a href="https://jobs.lever.co/gonetspeed/a40957c4-646a-493a-b9b0-3edad8d2c7e2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Door-to-Door Fiber Internet Sales Representative</td>
-<td>Victor<br>New York</td>
-<td><div align="center"><a href="https://jobs.lever.co/gonetspeed/d3c27e0a-3f26-4f8a-b6ae-73879de9f6ce"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>hypebeast</strong></td>
-<td>Editorial Intern</td>
-<td>New York</td>
-<td><div align="center"><a href="https://jobs.lever.co/hypebeast/1ba06c0f-316d-4cf6-8f15-fdd599a30d83"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>jobgether</strong></td>
-<td>AI Engineer (Remote, International)</td>
-<td>Germany</td>
-<td><div align="center"><a href="https://jobs.lever.co/jobgether/6424a639-6bf5-4d4e-b072-c8f60bbc4b82"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>🔥 <strong>servicenow</strong></td>
+<td>Product Success Analyst Intern</td>
+<td>Sydney<br>au</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/servicenow/744000134688699"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>2d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>AI Engineer (Remote, International)</td>
-<td>India</td>
-<td><div align="center"><a href="https://jobs.lever.co/jobgether/c4841997-6a10-47e1-975a-799fa2bfc91a"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
+<td><strong>securitas</strong></td>
+<td>International Client Guard - Walloon Brabant</td>
+<td>La Hulpe<br>Wallonia<br>be</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/securitas/744000133275529"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>AI Engineer (Remote, International)</td>
-<td>Saudi Arabia</td>
-<td><div align="center"><a href="https://jobs.lever.co/jobgether/d61e07b8-12c5-4c27-9c14-636faba40fdd"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
+<td><strong>sgs</strong></td>
+<td>Senior Internal Auditor</td>
+<td>Makati City<br>NCR<br>ph</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/sgs/744000134411319"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
 </tr>
 <tr>
-<td><strong>oaknorth.ai</strong></td>
-<td>Head of Internal Audit</td>
-<td>London</td>
-<td><div align="center"><a href="https://jobs.lever.co/oaknorth.ai/72fa3f7a-c0f7-4a3e-9899-fe1e00178a46"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td>🔥 <strong>palantir</strong></td>
-<td>Forward Deployed Software Engineer, Internship - AUS Government</td>
-<td>Sydney<br>Australia</td>
-<td><div align="center"><a href="https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>staubligroup</strong></td>
+<td>Technicien Methodes Maintenance (H/F)</td>
+<td>Faverges-Seythenex<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/staubligroup/744000129129825"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>payjoy</strong></td>
-<td>Accounting Intern</td>
-<td>Taguig City</td>
-<td><div align="center"><a href="https://jobs.lever.co/payjoy/431da3a7-7432-4696-973a-696aec1513c8"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>stowgroup</strong></td>
+<td>International Quality Inspector</td>
+<td>Spiere-Helkijn<br>Vlaanderen<br>be</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/stowgroup/744000134711488"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>swissquote</strong></td>
+<td>Brand Marketing Intern</td>
+<td>Gland<br>VD<br>ch</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/swissquote/744000132588449"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>14d</td>
 </tr>
 <tr>
-<td><strong>paytm</strong></td>
-<td>Internal Audit - Risk Advisory</td>
-<td>Noida<br>Uttar Pradesh</td>
-<td><div align="center"><a href="https://jobs.lever.co/paytm/12ba9ea0-bc18-4a55-8d80-b7d338b8c9f0"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>sutherland</strong></td>
+<td>SENA intern</td>
+<td>Barranquilla<br>Atlantico<br>co</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/sutherland/744000127724858"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Talent Acquisition Sourcing Intern</td>
+<td>Bogotá<br>Bogota<br>co</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/sutherland/744000127720924"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>thewonderfulcompany</strong></td>
+<td>Practicante comunicación y cultura</td>
+<td>Monterrey<br>N.L.<br>mx</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/thewonderfulcompany/744000133457273"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>8d</td>
 </tr>
 <tr>
-<td><strong>plus-2</strong></td>
-<td>Machine Learning Engineer Intern - Scenario Simulation</td>
-<td>Santa Clara<br>CA</td>
-<td><div align="center"><a href="https://jobs.lever.co/plus-2/b4f750e7-0148-41f0-b2b1-ff054450a320"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>vusiongroupsa</strong></td>
+<td>Stage consultant Grande Distribution</td>
+<td>Paris<br>IDF<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/vusiongroupsa/744000128423829"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong>wavestone1</strong></td>
+<td>Stage de fin d&#x27;études - Sujet de stage : Data, IA &amp; IoT : la performance des entreprises par la donnée</td>
+<td>Paris<br>Île-de-France<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000134776309"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>wavestone1</strong></td>
+<td>Consultant.e Junior en Transformation Digitale - Cloud Connect : Comment réinventer nos infrastructures et notre connectivité pour accompagner - et anticiper - les usages numériques du futur ? (Stage de fin d&#x27;études / Alternance)</td>
+<td>Paris<br>Île-de-France<br>fr</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000133883232"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>wavestone1</strong></td>
+<td>Financial Services Consulting Intern - Wavestone Luxembourg</td>
+<td>Leideleng<br>Distrikt Luxemburg<br>lu</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/wavestone1/744000126099944"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>westerndigital</strong></td>
+<td>Intern - Product Design Engineering (Studying Bachelor Degree)</td>
+<td>Amphoe Si Maha Phot<br>Prachin Buri<br>th</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134646858"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Systems Engineering Intern</td>
-<td>Santa Clara<br>CA</td>
-<td><div align="center"><a href="https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>shieldai</strong></td>
-<td>Government Relations Manager - UK, Nordics and Benelux (R5217)</td>
-<td>London</td>
-<td><div align="center"><a href="https://jobs.lever.co/shieldai/c57970ab-e013-4e38-b8f0-3815c500b98a"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>tevora</strong></td>
-<td>Cybersecurity Internship Fall 2026 - Solutions</td>
-<td>Irvine<br>CA</td>
-<td><div align="center"><a href="https://jobs.lever.co/tevora/23fb4ead-6204-4f9b-9a60-9c28b7d1d3dc"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>wingtra-2</strong></td>
-<td>Robotics Firmware Intern - GNC focus</td>
-<td>Zürich</td>
-<td><div align="center"><a href="https://jobs.lever.co/wingtra-2/516a1b2b-961a-41dd-bc22-f82fd0ba86b4"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>paytmpayments</strong></td>
-<td>Talent Acquisition - Intern - Recruitment - Bangalore</td>
-<td>Bangalore<br>Karnataka</td>
-<td><div align="center"><a href="https://jobs.lever.co/paytmpayments/7efbd9e4-269f-4180-84d8-bb1bdf2f844c"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>General Translation</strong></td>
-<td>Internet-Native Bilingual Evaluator Expert (Spanish – Spain)</td>
-<td>Remote</td>
-<td><div align="center"><a href="https://work.mercor.com/jobs/list_AAABnt-IdFdW6Khkn2BM-oId/internet-native-bilingual-evaluator-expert-spanish-spain"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>hbbq.fa.us2.oraclecloud.com</strong></td>
-<td>Intern (Electrical)</td>
-<td>Singapore</td>
-<td><div align="center"><a href="https://hbbq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4419"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>eofd.fa.us6.oraclecloud.com</strong></td>
-<td>Pharmacy Graduate Intern</td>
-<td>Brownwood<br>TX<br>United States</td>
-<td><div align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729566"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
+<td>Intern - Maintenance Technician (นักศึกษาฝึกงาน ผู้ช่วยช่างซ่อมบำรุง) Start in January 2027</td>
+<td>BangPa-in<br>PHRA NAKHON SI AYUTTHAYA<br>th</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134646369"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Pharmacy Student Intern</td>
-<td>Downers Grove<br>IL<br>United States</td>
-<td><div align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729798"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>ecge.fa.us2.oraclecloud.com</strong></td>
-<td>Internal IT Auditor, Consultant</td>
-<td>Oakland<br>CA<br>United States</td>
-<td><div align="center"><a href="https://ecge.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20261152"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>ebcs.fa.em2.oraclecloud.com</strong></td>
-<td>Leitender Planungskoordinator / Projektleiter international (w/m/d)</td>
-<td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#41382"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>ebez.fa.us2.oraclecloud.com</strong></td>
-<td>Tax Intern | Summer 2026</td>
-<td>Westlake Village<br>CA<br>United States</td>
-<td><div align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5836"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>epej.fa.us2.oraclecloud.com</strong></td>
-<td>Welfare and Self-Reliance Paid Intern</td>
-<td>Salt Lake City<br>UT<br>United States</td>
-<td><div align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375913"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>MediPersonal</strong></td>
-<td>Hebamme (80-100%) in Bäretswil – Unterstützung für internationale Fachkräfte</td>
-<td>CH (CH040)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NmU4OTNjYmUtM2VhYS00NzlmLTk5ODAtYzRlZTZkMWM0ZTE0IDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>Office fédéral constructions et logistique OFCL</strong></td>
-<td>Spécialiste en gestion de la qualité et des risques, et en système de contrôle interne</td>
-<td>CH (CH021)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YjJlYTFlMDctZmIyOS00ZjhhLTk1ZmMtZTVlNzVlNGVjN2M4IDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>Sabag AG</strong></td>
-<td>Conseiller clients service interne Sanitaires</td>
-<td>CH (CH021)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/N2I2MTlmYjEtMGIxMi00ZjBiLWFkMWItMzdmYTUzM2Y5NWRmIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Watma Education AB</strong></td>
-<td>Speciallärare till Nordic International Ystad</td>
-<td>SE (SE224)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE1MzMxNSAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>Emploid AB</strong></td>
-<td>Trafikledare Internationella Flöden</td>
-<td>SE (SE224)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2NjM4OCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Bravura Sverige AB</strong></td>
-<td>Internrevisor till PreZero Recycling</td>
-<td>SE (SE224)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE1NjM5MyAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>Malmö Universitet</strong></td>
-<td>Internationell handläggare med inriktning marknadsföring och rekrytering</td>
-<td>SE (SE224)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDY3MzQyIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>European Media Partner Sverige AB</strong></td>
-<td>Säljare med projektansvar till internationellt mediebolag</td>
-<td>SE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTA5Njk1IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Transmotec Sweden AB</strong></td>
-<td>Internationell säljare</td>
-<td>SE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTA2MTM0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Mno International AB</strong></td>
-<td>Receptionist - MnO International</td>
-<td>SE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwNTU5IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Appointed Sverige AB</strong></td>
-<td>International Sales Support for the French and Dutch market</td>
-<td>SE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ODQzOTUgMTIx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Anicura Djursjukhuset i Jönköping AB</strong></td>
-<td>Vi söker specialist med kunskap och passion inom internmedicin</td>
-<td>SE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzQ3MzEgMTIx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Polismyndigheten</strong></td>
-<td>Gruppchef till Internationell samordning och samverkanssystem, IT-avdeln.</td>
-<td>SE</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzk4OTYgMTIx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>VÄSTRA GÖTALANDSREGIONEN</strong></td>
-<td>Fysioterapeut till område internmedicin med inriktning lungmedicin</td>
-<td>SE (SE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2NzcxNyAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>International Färg AB</strong></td>
-<td>Sommarvikarier till AkzoNobel / International AB i Angered</td>
-<td>SE (SE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDA1OTE2IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Volvo Business Services AB</strong></td>
-<td>International Graduate Program - Volvo Group Real Estate</td>
-<td>SE (SE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzc0NzU0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Beiersdorf AB</strong></td>
-<td>Marketing Intern - Eucerin</td>
-<td>SE (SE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE2MzQ0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>Intern - Maintenance Engineer</td>
+<td>BangPa-in<br>PHRA NAKHON SI AYUTTHAYA<br>th</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134646458"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>HR Intern 2019 for Beiersdorf</td>
-<td>SE (SE232)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzIzMTcyIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>Intern - People Development Assistant (Studying Bachelor Degree) - Start in January 2027</td>
+<td>BangPa-in<br>PHRA NAKHON SI AYUTTHAYA<br>th</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/westerndigital/744000134646208"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
 </tr>
 <tr>
-<td><strong>TOPLIMO International AB</strong></td>
-<td>Limousine Chauffeur  Toplimo International AB</td>
-<td>SE (SE110)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjA5NzE0OSAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>HARRY HOPE</strong></td>
+<td>Comptable Général Interne (H/F)</td>
+<td>FR (FRF11)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDE3OTA0MiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
 </tr>
 <tr>
-<td><strong>Fören Saint Louis Fritidsverksamhet Ideell Fören</strong></td>
-<td>Fritidsledare halvtid/eftermiddagstid på internationell fransk skola</td>
-<td>SE (SE110)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA0Njg3IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>REGERINGSKANSLIET</strong></td>
-<td>Regeringskansliet söker en internrevisor</td>
-<td>SE (SE110)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2ODU4OSAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>REGERINGSKANSLIET</strong></td>
-<td>Sekretariatet för EU och internationella frågor - arbeta som EU-samordnare</td>
-<td>SE (SE110)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2NDIwNCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>GROUPE ROCHER OPERATIONS</strong></td>
+<td>CDI - Responsable Douane &amp; Conformité Internationale - H/F/X (H/F)</td>
+<td>FR (FRH04)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5VkdCUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>15d</td>
 </tr>
 <tr>
-<td><strong>D&amp;Z Fastighets HB</strong></td>
-<td>International Marketing Specialist</td>
-<td>SE (SE110)</td>
-<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDgwNTcxIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><strong>Bodemer Auto</strong></td>
+<td>Chargé(e) commercial(e) internet F/H - Bodemer Auto</td>
+<td>FR (FRH04)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDE5MDAzMiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
-<td><strong>mondia-group</strong></td>
-<td>Partnership Operations Intern</td>
-<td>Madrid<br>Community of Madrid<br>Spain</td>
-<td><div align="center"><a href="https://apply.workable.com/j/0CF128E92C"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
+<td><strong>Maison d&#x27;enfants Ermitage</strong></td>
+<td>Educateur d&#x27;internat Centre Parental (H/F)</td>
+<td>FR (FRF33)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDI1NDE2MCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
 </tr>
 <tr>
-<td><strong>odk-media</strong></td>
-<td>Programmatic AdOps Intern (Unpaid)</td>
-<td>Irvine<br>California<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/BD8A06BFAF"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>JobAlign</strong></td>
+<td>Growth Marketer - SEO international &amp; contenu (marchés européens) (H/F)</td>
+<td>FR (FRF21)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwSFRCSiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>RAMONETOU</strong></td>
+<td>Ramoneur H/F Formation en interne (H/F)</td>
+<td>FR (FRD12)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5SlhaUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>RAMONETOU</strong></td>
+<td>Ramoneur H/F Formation en interne (H/F)</td>
+<td>FR (FRB01)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5VFFMUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>EPITECH</strong></td>
+<td>Assistant Administratif Affaires Internationales (H/F)</td>
+<td>FR (FR107)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5TERRVCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>LYCEE GENERAL INTERNAT D&#x27;EXCELLENCE</strong></td>
+<td>Manager d&#x27;internat (H/F)</td>
+<td>FR (FR102)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5UVZCSiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>LYCEE PROFESSIONNEL PRIVE ST-JEAN</strong></td>
+<td>Éducateur en INTERNAT EDUCATIF SCOLAIRE COLLEGE ST JEAN (H/F)</td>
+<td>FR (FR108)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwR1NWQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>GEODIS</strong></td>
+<td>Directeur des Comptabilités et du Restructuring juridique interne Groupe (F/H) H/F</td>
+<td>FR (FR105)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDM0NTczNCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>[Offre interne] Product Manager Publicité (H/F)</td>
+<td>FR (FR105)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mjc4MDk3OSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Social Media Content Intern (Unpaid)</td>
-<td>Irvine<br>California<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/4C06CB6D2D"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Chargé des admissions internationales H/F/X</td>
+<td>FR (FR101)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzA1Mjg4NiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>pathlight</strong></td>
-<td>Teaching Support Interns (Youths for Autism)</td>
-<td>Singapore<br>Central Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://apply.workable.com/j/3D63381401"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>Delica AG</strong></td>
+<td>International Business Development Manager , Basel</td>
+<td>CH (CH032)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YWYwNWNjMmQtMDllYy00OTBiLWI2YzMtYTQ4Y2NkNDRkYWExIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>sixt</strong></td>
+<td>Fleet Technician (Louis Armstrong New Orleans International Airport)</td>
+<td>Kenner<br>Lousiana<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/sixt/744000134841989"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>sixt</strong></td>
+<td>Duales Studium Digital Business Management – in Kooperation mit der DHBW Stuttgart</td>
+<td>Munich<br>BY<br>de</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/sixt/744000130711410"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>smithsgroup2</strong></td>
+<td>Sales Intern</td>
+<td>Tlalnepantla<br>ESTADO DE MÉXICO<br>mx</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/smithsgroup2/744000134893849"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>access-services-3</strong></td>
+<td>Mobile Crisis Internship-Fall 2026/Spring 2027</td>
+<td>Plymouth Meeting<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://apply.workable.com/j/6D3B181636"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>alumil</strong></td>
+<td>Payroll Intern</td>
+<td>Kilkis<br>Central Macedonia<br>Greece</td>
+<td><div align="center"><a href="https://apply.workable.com/j/C6B9B93C42"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>alten-mexico-1</strong></td>
+<td>(2130) Material Systems Intern - Saltillo</td>
+<td>Saltillo<br>Coahuila<br>Mexico</td>
+<td><div align="center"><a href="https://apply.workable.com/j/B5A27659FB"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>pony-dot-ai</strong></td>
-<td>Research Intern - Deep Learning</td>
-<td>Fremont<br>California<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/4C1F53EF5D"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>asico</strong></td>
+<td>Internal Auditor</td>
+<td>Dubai<br>Dubai<br>United Arab Emirates</td>
+<td><div align="center"><a href="https://apply.workable.com/j/48999F11EC"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>prismplus</strong></td>
-<td>Operations Intern (Confidential Projects)</td>
-<td>Singapore<br>Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://apply.workable.com/j/B0D54DF1F9"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>qcp-group</strong></td>
-<td>Intern, Marketing - Graphic Design (Jul - Dec 2026)</td>
-<td>Singapore<br>Singapore<br>Singapore</td>
-<td><div align="center"><a href="https://apply.workable.com/j/D700674C85"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>quandela</strong></td>
-<td>Internship: Quantum Machine Learning Software Intern for MerLin (H2-2026)</td>
-<td>Massy<br>Île-de-France<br>France</td>
-<td><div align="center"><a href="https://apply.workable.com/j/745A80F3B1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>bayutdubizzle</strong></td>
+<td>Sales Support Intern</td>
+<td>Muscat<br>Muscat Governorate<br>Oman</td>
+<td><div align="center"><a href="https://apply.workable.com/j/0BB3850DF4"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>20d</td>
 </tr>
 <tr>
-<td><strong>reapra-pte-ltd</strong></td>
-<td>Time Support Intern (Remote)</td>
-<td>South Korea</td>
-<td><div align="center"><a href="https://apply.workable.com/j/A3BBE9045C"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>citywide</strong></td>
+<td>Business Operations Intern</td>
+<td>Covington<br>Kentucky<br>United States</td>
+<td><div align="center"><a href="https://apply.workable.com/j/C6E5B322B4"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>connectprep</strong></td>
+<td>Data Analyst Internship</td>
+<td>Boston<br>Massachusetts<br>United States</td>
+<td><div align="center"><a href="https://apply.workable.com/j/65F6D2C32E"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>d2b-1</strong></td>
+<td>HR &amp; Payroll Assistant | AU/NZ (Internal)</td>
+<td>Manila<br>Metro Manila<br>Philippines</td>
+<td><div align="center"><a href="https://apply.workable.com/j/EB37B155FB"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>dof</strong></td>
+<td>Internship Engineer</td>
+<td>Singapore<br>Singapore<br>Singapore</td>
+<td><div align="center"><a href="https://apply.workable.com/j/D4217DA1C7"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>ecareers</strong></td>
+<td>Recruitment Coordinator Intern</td>
+<td>Manchester<br>England<br>United Kingdom</td>
+<td><div align="center"><a href="https://apply.workable.com/j/59907B9CD1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>fundingsocieties</strong></td>
+<td>Customer Experience Intern</td>
+<td>Kuala Lumpur<br>Federal Territory of Kuala Lumpur<br>Malaysia</td>
+<td><div align="center"><a href="https://apply.workable.com/j/B815601DAE"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>goglobal</strong></td>
+<td>Internal Finance - Head of System Enabling (Finance)</td>
+<td>Poland</td>
+<td><div align="center"><a href="https://apply.workable.com/j/25F1A1BA28"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>halo-industries</strong></td>
+<td>Software Engineer Intern - Machine Learning Workflow</td>
+<td>Santa Clara<br>California<br>United States</td>
+<td><div align="center"><a href="https://apply.workable.com/j/29728B1DAF"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>homey</strong></td>
+<td>Intern - Client Onboarding (Conveyancing)</td>
+<td>Colombo<br>Western Province<br>Sri Lanka</td>
+<td><div align="center"><a href="https://apply.workable.com/j/5B9C296F36"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>luxasia</strong></td>
+<td>2026 Internship - Retail Operations (July - December)</td>
+<td>Taguig<br>Metro Manila<br>Philippines</td>
+<td><div align="center"><a href="https://apply.workable.com/j/7205BC65B2"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Demand Planning Intern</td>
+<td>Jakarta<br>Jakarta<br>Indonesia</td>
+<td><div align="center"><a href="https://apply.workable.com/j/605B0E9795"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>All-Jobs Personalservice GmbH</strong></td>
+<td>HR Administrative International Assigment (m/w/d) ‍ (Kaufmann/-frau - Groß- und Außenhandel (Großhandel))</td>
+<td>DE (DE11A)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTktNDg1NDY4NTA0MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>DEKRA Arbeit GmbH</strong></td>
+<td>Expert International Tax &amp; Transfer Pricing (m/w/d) (Steuerberater/in)</td>
+<td>DE (DE111)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTktNDg1OTU3NDc4NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>Sanovetis GmbH</strong></td>
+<td>Internist (m/w/d) Heilbronner Land | Entwicklungsperspektive (Facharzt/-ärztin - Innere Medizin)</td>
+<td>DE (DE118)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMzg0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Hausarzt / Allgemeinmediziner / Internist (m/w/d) Raum Bruchsal - Kraichgau (Facharzt/-ärztin - Allgemeinmedizin (Hausarzt/-ärztin))</td>
+<td>DE (DE123)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMzgzLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>FERCHAU GmbH Niederlassung Ulm</strong></td>
+<td>Sales Trainee (m/w/d) (Verkaufstrainer/in)</td>
+<td>DE (DE144)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDAyODkyX0pCNTE2MTY1OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Hays Professional Solutions GmbH Standort Stuttgart</strong></td>
+<td>Recruiter internationale Fachkräftegewinnung und (Recruiter/in)</td>
+<td>DE (DE1)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTMzMTktODczMjk3LzFfNjA5NTU0TFMtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Clearstone GmbH</strong></td>
+<td>IT-Koordinator:in in Stuttgart (m/w/d) für ein wachsendes internationales Unternehmen in Stuttgart (IT-Projektkoordinator/in)</td>
+<td>DE (DE1)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA2ODkyMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>BORSIG GmbH</strong></td>
+<td>Elektrotechniker / Elektroingenieur oder EMSR-Techniker (m/w/d), im internationalen Anlagenbau (Ingenieur/in - Automatisierungstechnik)</td>
+<td>DE (DE139)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDUtMjc0NzgxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>PerZukunft Arbeitsvermittlung GmbH&amp;Co.KG GmbH &amp; Co. KG</strong></td>
+<td>Telefonist - Internetanbieter - 13,90 € m/w/d (Servicefachkraft - Dialogmarketing)</td>
+<td>DE (DE300)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIwMTYtMTAwMDQ2ODExNTEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>FERCHAU GmbH Niederlassung Frankfurt</strong></td>
+<td>Internationaler Servicetechniker (m/w/d) (Mechatroniker/in)</td>
+<td>DE (DE719)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDgwMDU1X0pCNTE3MzQ2My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>Sanovetis GmbH</strong></td>
+<td>Internist (m/w/d) familiäres Umfeld (Facharzt/-ärztin - Innere Medizin)</td>
+<td>DE (DE718)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMDgyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>FERCHAU GmbH Niederlassung Kassel</strong></td>
+<td>Sales Trainee (m/w/d) (Verkaufstrainer/in)</td>
+<td>DE (DE734)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNTA3MzYxX0pCNTE2Nzg0OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Younivers GmbH</strong></td>
+<td>Auftragskoordinator m/w/d (Betriebswirt/in (Hochschule) - Internationale Wirtschaft)</td>
+<td>DE (DE731)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ2MzgtMTM3NzY1NDAtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>FERCHAU GmbH Niederlassung Osnabrück</strong></td>
+<td>Sales Trainee (m/w/d) (Verkaufstrainer/in)</td>
+<td>DE (DE944)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDU0MjQzX0pCNTE2MTY4Ny1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Chef de projet international - LTSA F/H (H/F)</td>
+<td>FR (FRK24)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzg4NDY0NSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>SYNERGIE AMPHENOL</strong></td>
+<td>Formation INTERNE Ajusteur monteur aéronautique F/H</td>
+<td>FR (FRG01)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5V0JUViA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Incident Manager Réseau &amp; Internet F/H (H/F)</td>
+<td>FR (FRG01)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzYyODUyMCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>21d</td>
+</tr>
+<tr>
+<td><strong>moomoo</strong></td>
+<td>Brand &amp; Social Media Intern</td>
+<td>Kuala Lumpur<br>Federal Territory of Kuala Lumpur<br>Malaysia</td>
+<td><div align="center"><a href="https://apply.workable.com/j/978C9FEDB7"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>mylo-btech</strong></td>
+<td>Activation Officer (Internal Vacancy)</td>
+<td>Cairo<br>Cairo Governorate<br>Egypt</td>
+<td><div align="center"><a href="https://apply.workable.com/j/21B58C018C"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>payabl</strong></td>
+<td>People Operations Internship</td>
+<td>Limassol<br>Limassol<br>Cyprus</td>
+<td><div align="center"><a href="https://apply.workable.com/j/75AF273DE6"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>quadric-dot-i-o-inc</strong></td>
+<td>AI Inference Engineer Intern - Model Pruning</td>
+<td>Burlingame<br>California<br>United States</td>
+<td><div align="center"><a href="https://apply.workable.com/j/870833317E"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
 </tr>
 <tr>
 <td><strong>renmoney</strong></td>
-<td>Internal Control Officer</td>
+<td>Tax Intern</td>
 <td>Lagos<br>Lagos<br>Nigeria</td>
-<td><div align="center"><a href="https://apply.workable.com/j/1708C841E3"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>rentokil-initial</strong></td>
-<td>Customer Service Internship - Subang Jaya</td>
-<td>Subang Jaya<br>Selangor<br>Malaysia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/84C6E34B1C"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>singulier</strong></td>
-<td>Data Analytics Intern</td>
-<td>Paris<br>Île-de-France<br>France</td>
-<td><div align="center"><a href="https://apply.workable.com/j/40E90AAB17"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>solarvest</strong></td>
-<td>Project Intern</td>
-<td>Petaling Jaya<br>Selangor<br>Malaysia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/FB8F902A61"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><div align="center"><a href="https://apply.workable.com/j/69796655B2"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong>teleport-careers</strong></td>
-<td>Intern, Customer Care</td>
-<td>Bukit Damansara<br>Wilayah Persekutuan Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/B42A5B087A"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>teleport-careers</strong></td>
-<td>Legal - Teleport Malaysia Internship Program 2026</td>
+<td>Product &amp; Technology - Teleport Malaysia Internship Program 2026</td>
 <td>Kuala Lumpur<br>Federal Territory of Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/A7FDA65EA3"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://apply.workable.com/j/056912C58C"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>17d</td>
 </tr>
 <tr>
-<td><strong>virtuhire</strong></td>
-<td>International Freight &amp; Customs Manager</td>
-<td>South Africa</td>
-<td><div align="center"><a href="https://apply.workable.com/j/3470675953"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>vulcan</strong></td>
-<td>Internal Sales Consultant</td>
-<td>Mackay<br>Queensland<br>Australia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/E9F9A7815C"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>webook</strong></td>
+<td>Sales Admin Intern</td>
+<td>Riyadh<br>Riyadh Province<br>Saudi Arabia</td>
+<td><div align="center"><a href="https://apply.workable.com/j/846AA5B200"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
-</tr>
-<tr>
-<td><strong>vulcan</strong></td>
-<td>Internal Sales Consultant</td>
-<td>Albury<br>New South Wales<br>Australia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/5FB1235930"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
 </tr>
 <tr>
 <td><strong>worldfish</strong></td>
-<td>GIS Intern</td>
+<td>Finance Intern</td>
 <td>Batu Maung<br>Penang<br>Malaysia</td>
-<td><div align="center"><a href="https://apply.workable.com/j/9322D6B5CC"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>greenlife-healthcare-staffing-1</strong></td>
-<td>Internal Medicine Physician</td>
-<td>Roanoke Rapids<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/278CCC8007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://apply.workable.com/j/58F7732D04"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>13d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Internal Medicine Physician</td>
-<td>Henderson<br>North Carolina<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/62BCDB9DBE"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td><strong>zealgroup</strong></td>
+<td>Business Analysis Strategy Intern</td>
+<td>Hong Kong<br>Hong Kong<br>Hong Kong</td>
+<td><div align="center"><a href="https://apply.workable.com/j/892EE33C37"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
 </tr>
 <tr>
-<td><strong>greenlife-healthcare-staffing-1</strong></td>
-<td>Internist</td>
-<td>Hackensack<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/C7E493C2AE"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>greenlife-healthcare-staffing-1</strong></td>
-<td>Internist / Nursing Home Physician</td>
-<td>The Bronx<br>New York<br>United States</td>
-<td><div align="center"><a href="https://apply.workable.com/j/B2C2E12FF9"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Bear Robotics</strong></td>
-<td>Robotics System Engineering Intern</td>
-<td>Seoul<br>KR</td>
-<td><div align="center"><a href="https://bear-robotics.breezy.hr/p/65c910b4dbe1-robotics-system-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>zoneit</strong></td>
+<td>IT Recruiter Intern</td>
+<td>Rajasthan<br>India</td>
+<td><div align="center"><a href="https://apply.workable.com/j/80AA7E8E80"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>CENSUS SA</strong></td>
-<td>🚀 CENSUS Cybersecurity Engineering Internship Program: Learn. Hack. Secure! Thessaloniki</td>
-<td>Thessaloniki<br>GR</td>
-<td><div align="center"><a href="https://census.breezy.hr/p/69fd395267c001-census-cybersecurity-engineering-internship-program-learn-hack--secure-thessaloniki"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><strong>talent3600</strong></td>
+<td>Business Development Intern ( Fluent English Speaker )</td>
+<td>El Sheikh Zayed City<br>Giza Governorate<br>Egypt</td>
+<td><div align="center"><a href="https://apply.workable.com/j/C94A025ABD"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>Cove Living Pte Ltd</strong></td>
-<td>Creative Intern</td>
-<td>Singapore<br>SG</td>
-<td><div align="center"><a href="https://cove.breezy.hr/p/69439e5014e9-creative-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>hammerjack</strong></td>
-<td>hammerjack Interns - Official</td>
-<td>Makati<br>PH</td>
-<td><div align="center"><a href="https://hammerjack-pty-ltd.breezy.hr/p/8db190fc31db-hammerjack-interns-official"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>Kredivo Group</strong></td>
-<td>Product Manager - Internal Tools (Ops)</td>
-<td>Jakarta<br>ID</td>
-<td><div align="center"><a href="https://kredivo-group.breezy.hr/p/233d2345254e-product-manager-internal-tools-ops"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>SBC Performance</strong></td>
-<td>Marketing Intern</td>
-<td>Kyiv<br>UA</td>
-<td><div align="center"><a href="https://sbc-performance.breezy.hr/p/3fff7c59574801-marketing-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>unisongroup</strong></td>
+<td>Functional Business Analyst - Corporate Internet Banking / Payments</td>
+<td>Singapore<br>Singapore<br>Singapore</td>
+<td><div align="center"><a href="https://apply.workable.com/j/6F818AF879"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Support Services Group</strong></td>
-<td>MANILA International CSR | Non-voice | Sports-Entertainment Account</td>
-<td>Mandaluyong<br>PH</td>
-<td><div align="center"><a href="https://ssg-philippines.breezy.hr/p/d26fa8fc366b-manila-international-csr-non-voice-sports-entertainment-account"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
+<td><strong>non renseigné</strong></td>
+<td>Chargé / Chargée de mission aux relations internationales (H/F)</td>
+<td>FR (FRI12)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDI4NDI0MyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
-<td><strong>Support Services Group</strong></td>
-<td>MANILA International Outbound Sales | Voice | Web Hosting Account</td>
-<td>Mandaluyong<br>PH</td>
-<td><div align="center"><a href="https://ssg-philippines.breezy.hr/p/4ca8e202a3ab-manila-international-outbound-sales-voice-web-hosting-account"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>Automation &amp; Integration Specialist — Master-Level Internship – Startup Programs</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/df4fddc1e89d-automation-integration-specialist-master-level-internship---startup-programs"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>Back End Developer - Master-Level Internship</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/f4859df17c84-back-end-developer-master-level-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>Communications Specialist — Master-Level Internship</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/67dfe46a0346-communications-specialist-master-level-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Creative Content Specialist — Internship</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/de10cf772c01-creative-content-specialist-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>Digital Operations Manager Intern — Master-Level Internship – Startup Programs</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/f21a7a12a2ea-digital-operations-manager-intern-master-level-internship---startup-programs"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>ESG, SDG &amp; CSR Impact Measurement Analyst — Master-Level Internship</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/28d21a7ad536-esg-sdg-csr-impact-measurement-analyst-master-level-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>Social Media Content Creator Intern – Startup Programs</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/fb98defe5267-social-media-content-creator-intern-startup-programs"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>Technical Product Owner — Master-Level Internship</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/2ac53e95f0d4-technical-product-owner-master-level-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Vosyn</strong></td>
-<td>UI/UX Design Intern – Internal Interfaces &amp; Experiences — Master-Level Internship – Startup Programs</td>
-<td>Etobicoke<br>ON</td>
-<td><div align="center"><a href="https://vosyn.breezy.hr/p/d58a1eeecc1f-ui-ux-design-intern-internal-interfaces-experiences---master-level-internship---startup-programs"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>LINE MAN Wongnai</strong></td>
-<td>Intern - Multimedia Designer (Communications Team)</td>
-<td>Bangkok<br>TH</td>
-<td><div align="center"><a href="https://wongnai-media-co-ltd.breezy.hr/p/f29569ca2bf2-intern-multimedia-designer-communications-team"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>acemoneytransfer</strong></td>
-<td>PHP Developer Intern</td>
-<td>Kharian<br>Punjab<br>Pakistan</td>
-<td><div align="center"><a href="https://acemoneytransfer.applytojob.com/apply/jobs/details/XNyQHpRUeF"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>alwaysmkt</strong></td>
-<td>Creative &amp; Design Internship</td>
-<td>Kuala Lumpur<br>Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://alwaysmkt.applytojob.com/apply/jobs/details/eFO3wXRzBX"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>ISIT Internship</td>
-<td>Kuala Lumpur<br>Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://alwaysmkt.applytojob.com/apply/jobs/details/CVUe0Rmzwe"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>alwaysmkt</strong></td>
-<td>Marketing Internship</td>
-<td>KL Gateway<br>Kuala Lumpur<br>Malaysia</td>
-<td><div align="center"><a href="https://alwaysmkt.applytojob.com/apply/jobs/details/ut194vZwT6"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>AURA POITOU CHARENTES</strong></td>
+<td>CHARGÉ(E) DE COMMUNICATION INTERNE (H/F)</td>
+<td>FR (FRI34)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwRERXTiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>8d</td>
 </tr>
 <tr>
-<td><strong>bambooworks</strong></td>
-<td>AI &amp; Automation Internship (Remote)</td>
-<td>Remote</td>
-<td><div align="center"><a href="https://bambooworks.applytojob.com/apply/jobs/details/zKObvZz2Sk"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>GROUPE HOSPITALIER SAINTES - SAINT-JEAN-D&#x27;ANGELY</strong></td>
+<td>Médecin Interniste - Orientation Hématologie non maligne (H/F)</td>
+<td>FR (FRI32)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDExOTk3OCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Ingénieur.e process logistique interne (H/F)</td>
+<td>FR (FRL04)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mjc3NTA0NSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>beesweetcitrus</strong></td>
-<td>Production Management Intern</td>
-<td>Fowler<br>CA</td>
-<td><div align="center"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/cZahOwzMCC"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
+<td><strong>Meteo France International</strong></td>
+<td>Ingénieur Intégration Meteo F/H - Meteo France International</td>
+<td>FR (FRJ23)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDAyNjg0OCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
-<td><strong>ethosveterinaryhealth</strong></td>
-<td>Licensed Veterinary Technician, Internal Medicine</td>
-<td>Anchorage<br>AK</td>
-<td><div align="center"><a href="https://ethosveterinaryhealth.applytojob.com/apply/jobs/details/uBM9g2ZD0S"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Licensed Veterinary Technician, Internal Medicine</td>
-<td>Nashville<br>TN</td>
-<td><div align="center"><a href="https://ethosveterinaryhealth.applytojob.com/apply/jobs/details/3XMAoHbAGN"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>focuskpi</strong></td>
-<td>AI Business Operations Intern (Remote, Paid)</td>
-<td>Remote</td>
-<td><div align="center"><a href="https://focuskpi.applytojob.com/apply/jobs/details/udj57Jky8L"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>harmonyunitedhc</strong></td>
-<td>Psychotherapist Intern Outpatient Clinic– CSW / MHC / MFT/ Independent Contractor/Coral Gables</td>
-<td>Coral Gables<br>FL</td>
-<td><div align="center"><a href="https://harmonyunitedhc.applytojob.com/apply/jobs/details/0LRaKelSbW"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>hoplitegroup</strong></td>
-<td>International Engagement Support Subject Matter Expert (SME)</td>
-<td>Tampa<br>FL</td>
-<td><div align="center"><a href="https://hoplitegroup.applytojob.com/apply/jobs/details/4xA4kplopD"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>hungrypanda</strong></td>
-<td>Marketing Intern (Paid) - Mandarin Speaking</td>
-<td>Philadelphia<br>PA</td>
-<td><div align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/dz8jkHMnbi"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>lawyerscommitteeforcivilrightsunderlaw</strong></td>
-<td>2026 Fall Legal Intern</td>
-<td>Washington<br>DC</td>
-<td><div align="center"><a href="https://lawyerscommitteeforcivilrightsunderlaw.applytojob.com/apply/jobs/details/B6twRjRcvL"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>IMP - IMPRO</strong></td>
+<td>Educateur d&#x27;internat - CDI - 1 ETP (H/F)</td>
+<td>FR (FRF12)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjEwSFZMViA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>6d</td>
 </tr>
 <tr>
-<td><strong>mcaairports</strong></td>
-<td>Manager - Starbucks - Key West International Airport</td>
-<td>Key West<br>FL</td>
-<td><div align="center"><a href="https://mcaairports.applytojob.com/apply/jobs/details/Kh2dk683Z7"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Technical Infrastructure Program Manager, Internet Capacity Engineering</td>
+<td>Sydney<br>New South Wales<br>AUS</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10425423/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>moladin</strong></td>
-<td>Collection &amp; Operations Admin Intern</td>
-<td>South Jakarta<br>Jakarta<br>Indonesia</td>
-<td><div align="center"><a href="https://moladin.applytojob.com/apply/jobs/details/1fpAN8R4qL"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>qubecinema</strong></td>
-<td>Human Resource Intern</td>
-<td><details><summary><strong>4 locations</strong></summary>Mylapore<br>Chennai<br>Tamilnadu<br>India</details></td>
-<td><div align="center"><a href="https://qubecinema.applytojob.com/apply/jobs/details/7pYWuhTi7w"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>synergenx</strong></td>
-<td>INTERNAL ONLY Regional Medical Assistant Trainer (Traveling)</td>
-<td>Nashville<br>TN</td>
-<td><div align="center"><a href="https://synergenx.applytojob.com/apply/jobs/details/08c4riBtPE"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>thedurableslatecompany</strong></td>
-<td>International Construction Project Manager</td>
-<td>Savage<br>MD</td>
-<td><div align="center"><a href="https://thedurableslatecompany.applytojob.com/apply/jobs/details/XjUrhDlJam"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>whitneymuseumofamericanart</strong></td>
-<td>[Fall 2026] Event Marketing Internship</td>
-<td>New York<br>NY</td>
-<td><div align="center"><a href="https://whitneymuseumofamericanart.applytojob.com/apply/jobs/details/SUDEtkTnx6"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>Lomography</strong></td>
-<td>Online Marketing Intern for Hong Kong &amp; Taiwan</td>
-<td>Hong Kong<br>Hong Kong</td>
-<td><div align="center"><a href="https://lomography.recruitee.com/o/online-marketing-intern-for-hong-kong-taiwan-4"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>elockers</strong></td>
-<td>International Field Marketing Manager</td>
-<td>Amsterdam<br>Noord-Holland<br>Netherlands</td>
-<td><div align="center"><a href="https://elockers.recruitee.com/o/international-field-marketing-manager"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Líbere Hospitality Group</strong></td>
-<td>Ancillary Sales Intern</td>
-<td>Bilbo<br>ES</td>
-<td><div align="center"><a href="https://alliron.teamtailor.com/jobs/7684631-ancillary-sales-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>AniCura Belgium</strong></td>
-<td>Internship Dierenarts – AniCura Saventa (Zaventem)</td>
-<td>Zaventem<br>BE</td>
-<td><div align="center"><a href="https://anicuraglobal.teamtailor.com/jobs/7692353-internship-dierenarts-anicura-saventa-zaventem"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Delve Interim &amp; Search</strong></td>
-<td>Sales Coordinator till internationellt bolag</td>
-<td>Göteborg<br>SE</td>
-<td><div align="center"><a href="https://delve.teamtailor.com/jobs/7862424-sales-coordinator-till-internationellt-bolag"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Sr. Data Tax Analyst, 3P ITX - International Tax Team</td>
+<td>Bratislava<br>Bratislavský kraj<br>SVK</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10443004/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>23d</td>
 </tr>
 <tr>
-<td><strong>Henkel</strong></td>
-<td>Procurement Elevate Summer Intern</td>
-<td>Cairo<br>EG</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84689?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Sr Capital Planning Manager, International Capital Management</td>
+<td>Sydney<br>New South Wales<br>AUS</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10454933/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Sr. Manager HR, Amazon Business, Amazon International Stores (AIS) PXT</td>
+<td>Seattle<br>Washington<br>USA</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10458799/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>2027 Software Dev Engineer Intern</td>
+<td>Dublin<br>IRL</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10418355/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Design Intern , Amazon University Talent Acquisition</td>
+<td>Rio de Janeiro<br>Rio de Janeiro<br>BRA</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10438927/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>IT Legal Intern</td>
+<td>Milan<br>Lombardy<br>ITA</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10453878/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Manager, Applied Science, International Seller Services</td>
+<td>Seattle<br>Washington<br>USA</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10428638/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Communications Specialist, International Stores &amp; Corporate Communications</td>
+<td>Toronto<br>Ontario<br>CAN</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10457761/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td>🔥 <strong>Amazon</strong></td>
+<td>Principal Software Engineer, Alexa International</td>
+<td>Bengaluru<br>Karnataka<br>IND</td>
+<td><div align="center"><a href="https://account.amazon.jobs/jobs/10439737/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td>🔥 <strong>Apple</strong></td>
+<td>Legal Internships</td>
+<td>United States</td>
+<td><div align="center"><a href="https://jobs.apple.com/en-us/details/200664232/legal-internships"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Mercedes-Benz Group AG</strong></td>
+<td>Praktikant*in Externe und Interne Kommunikation Schwerpunkt Retailmarketing &amp; Retailkommunikation</td>
+<td>Berlin<br>Berlin<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1586620-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>Today</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Praktikant*in Externe und Interne Kommunikation Schwerpunkt Öffentlichkeitsarbeit</td>
+<td>Berlin<br>Berlin<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/13151-1586791-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>Today</td>
+</tr>
+<tr>
+<td><strong>Gemeinnützige Gesellschaft für paritätische Sozialarbeit mbH</strong></td>
+<td>Heilerziehungspfleger/ Pflegefachkraft/ Erzieher (m/w/d) - WS Stadtpark (Heiminterne Tagesstruktur)</td>
+<td>Wilhelmshaven<br>Niedersachsen<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/17281-0065683666-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>Today</td>
+</tr>
+<tr>
+<td><strong>BMW AG</strong></td>
+<td>Werkstudent Interne Kommunikation Entwicklung Hochvolt-Speicher und Laden (w/m/x)</td>
+<td>München<br>Bayern<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/12462-1572913-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong>Deutsche Lufthansa AG</strong></td>
+<td>Internship Risk Management</td>
+<td>Frankfurt am Main<br>Hessen<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1591854-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Deutsche Lufthansa AG</strong></td>
+<td>Internship Psychological Diagnostics &amp; Assessments</td>
+<td>Frankfurt am Main<br>Hessen<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1572864-1-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Opus One Recruitment GmbH</strong></td>
+<td>(Junior) Bankkaufmann | Bankkauffrau für internen Bereich (m/w/d)</td>
+<td>München<br>Bayern<br>Deutschland</td>
+<td><div align="center"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1000911776-S"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>A.P.CHR. CHRISTOU BROTHERS ENTERPRISES LIMITED</strong></td>
+<td>COOK C CONTINENTAL /INTERNATIONAL CUISINE</td>
+<td>CY (CY000)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzM3NzcxIDU?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Sorenson Recruiting</strong></td>
+<td>International Game Presenter to Bulgaria, Sofia  (English)</td>
+<td>BG</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE1MTI0MiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>Capra Robotics ApS</strong></td>
+<td>Marketing Manager for an Internationally Growing Robotics Company</td>
+<td>DK (DK042)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZmE5OTM3NjEtYjY0Yy00MDU5LTkyYzUtZWJmMWE5MzJhN2Y1IDc?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>软牛科技集团</strong></td>
+<td>运营实习生（Operations Intern）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://afirstsoft.zhiye.com/portal/jobs/230892616"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>Franke Group</strong></td>
+<td>Global Internal Auditor  100%</td>
+<td>CH (CH023)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzdhOWNhYjUtODE4My00NDYxLTg2OTItYmQyZmUxYTI3YmE4IDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>Valjob</strong></td>
+<td>International Accountant Finance Specialist   100%</td>
+<td>CH (CH021)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/N2FmMzBiYzEtOWYxMC00MmIxLTk0ZDktMzFlNzY3OThlYmRhIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Nencki AG</strong></td>
+<td>Area Sales Manager international Bahntechnik</td>
+<td>CH (CH021)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZDRmYzMxNmItNTk2Ny00MDVmLWE1ZjgtNWM1YmUyOGJjY2FlIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Réseau de l&#x27;Arc SA / Hôpital de St-Imier</strong></td>
+<td>Médecin Gériatre ou Médecin Interniste</td>
+<td>CH (CH021)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/OWYwNGM0OTctMTE4NS00Y2M2LTkzZmMtN2RiZWFjMWQ1ZTk0IDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Fören Fogdaröd Omsorg, Vård &amp; Utbildning Utan Pe</strong></td>
+<td>Karolinaskolan söker internatpersonal</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDI1ODY0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Bladins Skola, Stiftelsen</strong></td>
+<td>MYP French Teacher, Bladins International school</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwODQ3IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>REGION SKÅNE</strong></td>
+<td>Arbetsterapeut till VO akutsjukvård och internmedicin i Malmö</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE3NTUyNSAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>REGION SKÅNE</strong></td>
+<td>Arbetsterapeut, vikariat, till VO akutsjukvård och internmedicin i Lund</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2NTYwMiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>14d</td>
 </tr>
 <tr>
+<td><strong>Kletor Sverige AB</strong></td>
+<td>Specialist inom internmedicin till utvecklande och långsiktig tjänst</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjExODYwOCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Mindment AB</strong></td>
+<td>Industrielektriker - Elmontör till Internationella Projekt till ReEnerfy</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEwMTc5NyAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Vultus AB</strong></td>
+<td>Communication and Sales Internship</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzg1MTI2IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
 <td>↳</td>
-<td>Internship New Business - Strategy &amp; Project Management</td>
-<td>Düsseldorf<br>DE</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84524?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Graphic Design Internship</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzg0NzgwIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Bladins Skola, Stiftelsen</strong></td>
+<td>MYP/DP Mathematics teacher, Bladins International school</td>
+<td>SE (SE224)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM5ODU5IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Mångkulturell Kunskap Mk Ekonomisk Fören</strong></td>
+<td>Internationell samordnare</td>
+<td>SE</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Mzc3ODQ2IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Bladins Skola, Stiftelsen</strong></td>
+<td>Swedish MYP Teacher, Bladins International School of Malmö</td>
+<td>SE</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAyNjk2IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Datainspektionen</strong></td>
+<td>Datainspektionen söker jurister till den internationella verksamheten</td>
+<td>SE</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTk3NTMgMTIx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Middlepoint AB</strong></td>
+<td>Receptionist till internationellt säkerhetsbolag i Göteborg, deltid 50%</td>
+<td>SE (SE232)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjExNzU2NiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Luda.Farm AB</strong></td>
+<td>INTERNATIONELL SÄLJARE MED KUNSKAPER I TYSKA</td>
+<td>SE (SE232)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzM0MTY5IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>GE Healthcare Bio-Sciences AB</strong></td>
+<td>Logistik &amp; Admin Specialist (Internship)</td>
+<td>SE (SE110)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM1MTg0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>REGERINGSKANSLIET</strong></td>
+<td>Regeringskansliet söker en internrevisor med it-profil</td>
+<td>SE (SE110)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE4MDYxMCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>REGERINGSKANSLIET</strong></td>
+<td>Enhetsassistenter till enheten för EU och internationella frågor</td>
+<td>SE (SE110)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjE2ODk5NiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Bravura Sverige AB</strong></td>
+<td>Senior Software Developer till internationellt SaaS-bolag</td>
+<td>SE (SE110)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjExMDMyNCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Talent &amp; Partner AB</strong></td>
+<td>Key Account Manager till Internetbroker!</td>
+<td>SE (SE110)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDg5MzEwIDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Vattenfall AB</strong></td>
+<td>Vattenfall International Trainee Programme – Trainee IT/Analytics</td>
+<td>SE (SE110)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NDYzMDk0IDEyMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>WETALENT B.V.</strong></td>
+<td>Stagiair(e) Online Marketing - WETALENT</td>
+<td>NL (NL416)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTQxYWQxNDUtZWE3OS03OTBhLWUwNjMtNjg5M2IyMGEyYTRmIDQy?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Aide-soignant en grande équipe - Médecine interne F/H</td>
+<td>FR (FR105)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzMyMjYwOCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>Katholieke Universiteit te Leuven AV</strong></td>
+<td>Medewerker Onderwijs- en internationaliseringsprocessen</td>
+<td>BE (BE242)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZDhlNmRjZTktNDNkZS00NzFhLTljZWUtNTcwZDVkYTYzNDg5IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>TopAngels NV</strong></td>
+<td>Offerte beheerder /  intern technisch adviseur  (M/V/X) – Bouwmaterialen –  regio Tienen</td>
+<td>BE (BE242)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzUyMDU2NTMtZmRkMS00ZWUxLThhMGMtYTE2NGY1N2Q3YzI4IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>14d</td>
 </tr>
 <tr>
-<td><strong>Henkel</strong></td>
-<td>Compulsory Internship Regional Marketing EU(d/f/m) - Start August 2026</td>
-<td>Wien<br>AT</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84569?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Henkel</strong></td>
-<td>Sales Elevate Summer Intern</td>
-<td>Cairo<br>EG</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84432?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong>Henkel</strong></td>
-<td>Internship Sales Enablement and Business Operations</td>
-<td>Düsseldorf<br>DE</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/81563?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>Alexianer Krefeld GmbH</strong></td>
+<td>Pflegefachkraft (m/w/d) Internistische Wahlleistungsstation, Alexianer Krefeld (Pflegefachmann/-frau (Gesundheits- und Krankenpflege))</td>
+<td>DE (DEA14)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1Nzk3OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
+</tr>
+<tr>
+<td><strong>MöllerWerke GmbH</strong></td>
+<td>Vertriebsingenieur international (m/w/d), Kupferhammer (Vertriebsingenieur/in)</td>
+<td>DE (DEA41)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1NjEyNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>FERCHAU GmbH Vertriebsstützpunkt Oelde</strong></td>
+<td>Servicetechniker Sondermaschinenbau (m/w/d) Internationale Perspektive USA (Mechatroniker/in)</td>
+<td>DE (DEA5B)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNTA0NTExX0pCNTE2MTI5My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Neo Temp GmbH</strong></td>
+<td>Steuerberater M&amp;A Tax / Internationales Steuerrecht (m/w/d) (Steuerberater/in)</td>
+<td>DE (DEA52)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTU5MzctazU1ODA1LjExODA0OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>rocket match powered by notificAI GmbH</strong></td>
+<td>Oberarzt (m/w/d) Innere Medizin / Hämatologie und internistische Onkologie (Facharzt/-ärztin - Innere Medizin und Kardiologie)</td>
+<td>DE (DEA58)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTUyMzUtazQzNTUyLjIxNjQ3Ny1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>Sanovetis GmbH</strong></td>
+<td>Internist (m/w/d) Kreis Gütersloh (Facharzt/-ärztin - Innere Medizin)</td>
+<td>DE (DEA42)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkwMDktazYxNzM5LjEwMzUyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>Akzent Personaldienstleistungen GmbH</strong></td>
+<td>Personaldisponent (m/w/d) in Dresden (01097) – 35–40 Std./Woche, intern bei Akzent (Personaldisponent/in)</td>
+<td>DE (DED21)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ1OTktQlg0MkhWTk04V1hBRjJTSi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Klüh Security GmbH</strong></td>
+<td>Sicherheitsmitarbeiter mit IHK Sachkunde und dem Willen zur internen GSSK Weiterbildung (m/w/d) (Sicherheitsmitarbeiter/in)</td>
+<td>DE (DED2F)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTc3MTAtMDA2NTMyMjQ3Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>APAG Personalplanung GmbH</strong></td>
+<td>Bürokaufmann/-frau (m/w/d) intern (Bürokaufmann/-frau)</td>
+<td>DE (DE21I)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTktNDg0Njk4NjI5MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Rädlinger Primus Line GmbH</strong></td>
+<td>Sachbearbeiter (m/w/d) im Technischen Vertriebsinnendienst International (Kaufmännische Fachkraft)</td>
+<td>DE (DE235)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxMTctWUYtNDM5MDctWUYtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Dürr CTS GmbH</strong></td>
+<td>HR Business Partner international (m/w/d) (Personalreferent/in)</td>
+<td>DE (DE246<br>DE115)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxMTctWUYtNDUyNDItWUYtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>mömax Deutschland GmbH</strong></td>
+<td>Trainee zur Büroleitung (m/w/d) (Kaufmann/-frau - Büromanagement)</td>
+<td>DE (DE271)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjctMWRmb3lkbmh2NTAtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>accompio GmbH</strong></td>
+<td>accompio GmbH: Administrator interne IT (m/w/d) (IT-Administrator/in)</td>
+<td>DE (DE271)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE5NTYtMzAwNjY5MTc4MDg2OTYwMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>OSI Foods GmbH &amp; Co. KG</strong></td>
+<td>Bilanzbuchhalter (m/w/d), OSI International Holding GmbH (Bilanzbuchhalter/in/Bachelor Professional in Bilanzbuchhaltung)</td>
+<td>DE (DE276)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI4MDMwNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Job Lounge GmbH Unterhaching</strong></td>
+<td>Vertriebsmitarbeiter (gn) intern (Servicefachkraft - Dialogmarketing)</td>
+<td>DE (DE21G)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4NTYtMzRIVzcwVkg0RjBYNTJHWi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>ARWA Personaldienstleistungen GmbH</strong></td>
+<td>Werkstudent im HR Recruiting (m/w/d)  (Recruiter/in)</td>
+<td>DE (DE254)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQzODUtNDA3LTI0MzdQLTI2LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Orizon GmbH, Niederlassung München Süd</strong></td>
+<td>Produktmanager Crossfunktion (m/w/d) (Betriebswirt/in (Fachschule) - international)</td>
+<td>DE (DE212)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ3NTEtNDE3QTEzMjYxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>MANPOWER GmbH &amp; Co. KG</strong></td>
+<td>Bilanzbuchhalter (gn) – IFRS | Internationales Industrieunternehmen (Bilanzbuchhalter/in/Bachelor Professional in Bilanzbuchhaltung)</td>
+<td>DE (DE212)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEwODEtNVBGRDdRU0lIUktPNVM2Si1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>Helmi Göttler Private Arbeitsvermittlung</strong></td>
+<td>Sachbearbeiter Export / Zoll / internationale Versandabwicklung mit Gefahrgutbezug (m/w/d) (Kaufmann/-frau - Spedition und Logistikdienstleistung)</td>
+<td>DE (DE254)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyOTEtMTM3NTU5ODAtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Siemens Energy Global GmbH &amp; Co. KG</strong></td>
+<td>Internal Communications Assistant (f/m/d) (Community-Manager/in)</td>
+<td>DE (DE252)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTUxNzAtNDY1MDM5MzExLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>AUMOVIO SE Haupverwaltung</strong></td>
+<td>Praktikum – IT im Cloud Platform Bereich (IT-Administrator/in)</td>
+<td>DE (DE232)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4MDEtOTQ3MTc3MjM3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>karriere@ze:roPRAXEN</strong></td>
+<td>MFA / exam. Pflegekraft (m/w/d) Dialyse Mannheim (am Diakonissenkrankenh..., Fachinternistisches ... (Fachkrankenpfleger/in - Nephrologie)</td>
+<td>DE (DE126)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI4NDgwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>BW PARTNER Bauer Schätz Hasenclever Partnerschaft mbB</strong></td>
+<td>(interne) Buchhaltung (m/w/d) (Steuerfachangestellte/r)</td>
+<td>DE (DE111)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtMGFiMmFjYTlfSkI1MTc5NDI1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>DEM Personalservice GmbH</strong></td>
+<td>Recruiter intern-Teilzeit (m/w/d) (Recruiter/in)</td>
+<td>DE (DE117)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjItMTM0OTcyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong>Believe</strong></td>
+<td>Head of International Accounting (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PQMr2Rx/jobs/head-of-international-accounting-h-f_paris_BELIE_mMO2Dd7"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Dream Catcher Sales</strong></td>
+<td>Juriste IP/IT international - RGPD - CDI</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RQkoPo/jobs/juriste-ip-it-international-rgpd-cdi_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Groupe Rocher</strong></td>
+<td>Assistant Support Vendeur Market Place</td>
+<td>Rennes<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/17rVQ4d/jobs/assistant-support-vendeur-market-place_rennes"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Magma Technology</strong></td>
+<td>Data Analyst Intern</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QlX91NY/jobs/data-analyst-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>KPMG France</strong></td>
+<td>Stagiaire Assistant Technique Audit F/H</td>
+<td>Maisons-Alfort<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/g0gkx2Z/jobs/stagiaire-assistant-technique-audit-f-h_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Hello Watt</strong></td>
+<td>Customer Success Application (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1yXyzWw/jobs/customer-success-h-f-stage_paris_HW_m8DMb1e"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>Vente-unique.com</strong></td>
+<td>Chef.fe de projet e-marketing International - Italy (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KADDeeJ/jobs/chef-fe-de-projet-e-marketing-international-italy-h-f_paris_VENTE_z8w0gDO"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>Artelia</strong></td>
+<td>Directeur/Directrice de projets internationaux – Rivières, eaux souterraines et résilience (Choisy-le-Roi)</td>
+<td>Choisy-le-Roi<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/directeur-directrice-de-projet-international-hydraulique-amenagements-st-ouen_saint-ouen-sur-seine"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td>Internal Audit Senior Manager</td>
+<td>Kuala Lumpur<br>Wilayah Persekutuan Kuala Lumpur<br>Malaysia</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VWab97/jobs/internal-audit-senior-manager_kuala-lumpur"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Ministère de la Culture</strong></td>
+<td>Stagiaire à la direction déléguée à la communication</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RHEFea/jobs/stagiaire-a-la-direction-deleguee-a-la-communication_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td>Chargé de Recrutement en stage alterné H/F</td>
+<td>Cognac<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-en-stage-alterne-h-f_cognac"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Internship in Supply Chain Controlling (Finance)</td>
-<td>Amsterdam<br>NL</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83534?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>Chargé de recrutement en stage H/F</td>
+<td>Dijon<br>Bourgogne-Franche-Comte<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-en-stage-h-f_dijon_TAG_majqZV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Internship CRM Europe</td>
-<td>Düsseldorf<br>DE</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83670?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>Chargé de recrutement Stagiaire H/F</td>
+<td>Nice<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-stagiaire-h-f_nice_TAG_P4N5DYw"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Regulatory Intern</td>
-<td>Makati City<br>PH</td>
-<td><div align="center"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83191?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>La Solive</strong></td>
+<td>Chargé(e) de projet - Gestion de Campus - Nantes (stage/alternance)</td>
+<td>Nantes<br>Loire Region<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/aorwGL7/jobs/business-developer-b2b-freelance-cdd_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Hungry and Foolish</strong></td>
+<td>Chef de Projet en Publicité (H/F) - Stage - Paris</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/A4Kqzdq/jobs/stagiaire-chef-de-projet-en-publicite-h-f_paris_HAF_5OrM3Qa"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>A.P.C.</strong></td>
+<td>STAGE - ASSISTANT(E) PRODUCTION  (H/F) - 6 MOIS</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2o4Rs6/jobs/stage-assistant-e-production-h-f-6-mois_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>Extreme Agency</strong></td>
+<td>Assistant chef de projet - PLV/PRINT</td>
+<td>Clichy<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Abxk18o/jobs/assistant-chef-de-projet_clichy"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>B:bot</strong></td>
+<td>Stage Ingénieur·e Conception Mécanique &amp; Industrialisation</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wq76xYD/jobs/stage-ingenieur-e-conception-mecanique-industrialisation_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Morning</strong></td>
+<td>Commercial - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/z1RdzL3/jobs/assistant-e-chef-fe-de-projet-evenementiel-developpement-offre-salles-de-reunions_paris_MORNI_No0NbaD"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Klox</strong></td>
+<td>Stage - Assistant Gestion de projet Marketing &amp; Communication (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GepedXq/jobs/assistant-account-manager-sport-gaming-brands-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Alveus</strong></td>
+<td>Stage - Chef de projet/Responsable Pédagogique</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Q7ZAlOY/jobs/stage-entrepreneuriat-education-responsable-pedagogique_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td>Account Manager Junior - Stage de fin d&#x27;études/alternance</td>
+<td>La Défense<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3qx8mY2/jobs/account-manager-stage-alternance-h-f_paris-la-defense_WAVES_VbYVmW9"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Fidal</strong></td>
+<td>Stage droit fiscal H/F</td>
+<td>Quimper<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xUvEhn/jobs/stage-droit-fiscal-h-f_quimper"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Adyen</strong></td>
+<td>Internal Control Specialist (Technology Risk)</td>
+<td>Amsterdam<br>Netherlands</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXdtos/jobs/internal-control-specialist-technology-risk_amsterdam_uhoionas"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Ministère de la Culture</strong></td>
+<td>Stagiaire en conservation - mobilier ancien</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RHEFea/jobs/stagiaire-en-conservation-mobilier-ancien_paris_MDLC_GP2pMk5"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td>STAGIAIRE CHARGÉ(E) DE RECRUTEMENT H/F</td>
+<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stagiaire-charge-e-de-recrutement-h-f_lyon_TAG_wDJxdz1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Believe</strong></td>
+<td>Editorial &amp; Marketing Partnerships Assistant - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PQMr2Rx/jobs/editorial-marketing-partnerships-assistant-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - Analyste Risque de Marché sur Actions - H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-analyste-risque-de-marche-sur-actions-h-f_paris_BP_19RoLx6"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Technip Energies France</strong></td>
+<td>Internship - Digitalization of Engineering Processes and Schedules - F/M</td>
+<td>Nanterre<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZLS6UW/jobs/internship-digitalization-of-engineering-processes-and-schedules-f-m_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>in&#x27;li</strong></td>
+<td>Analyste Financements H/F (stage 6 mois)</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VmNbkGN/jobs/analyste-financements-h-f-stage-6-mois_puteaux_INLI_NZ18PV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Orus</strong></td>
+<td>Sales - Paris - Stage fin d&#x27;études ou Césure</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pRNf2x/jobs/sales-paris-stage-fin-d-etudes_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Neoptim</strong></td>
+<td>Apprenti(e) Business Developer F/H</td>
+<td>Agen<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/EvVUTo/jobs/apprenti-business-developer-f-h"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>Ekstend Group</strong></td>
+<td>Stage-Assistant(e) Marketing H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dJ8AVPr/jobs/stage-assistant-marketing-h-f_paris_EG_K6ppVoJ"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>ZEPLUG</strong></td>
+<td>Stage - Account Executive Junior - F/H</td>
+<td>Nice<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/yYPm117/jobs/stage-account-executive-junior-f-h_nice_ZEPLU_oGeKp7L"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Alixio Group</strong></td>
+<td>Consultant / chargé d&#x27;étude emploi-formation stagiaire -  F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ygBCzS/jobs/consultant-charge-d-etude-emploi-formation-stagiaire-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Open2Europe</strong></td>
+<td>Stage Assistant(e) Relations Presse Zone Allemagne</td>
+<td>Asnières-sur-Seine<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/rYX7J3R/jobs/stage-assistant-relations-presse-zone-allemagne_asnieres-sur-seine"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Figure</strong></td>
+<td>Hardware Reliability Intern (Fall 2026)</td>
+<td>San Jose<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Vmaj3o/jobs/hardware-reliability-intern_san-jose_nqvry6gu"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
 </tr>
 <tr>
 <td><strong>Hermès</strong></td>
-<td>CDI - Responsable Pôle Qualité Fabrication Interne et Arts &amp; Craft - H/F</td>
-<td>Pantin<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/cdi-responsable-pole-qualite-fabrication-interne-et-arts-craft-h-f_pantin_HERMS_W0XkRNl"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>10d</td>
+<td>Assistant Store Manager, Hong Kong International Airport</td>
+<td>Hong Kong<br>Hong Kong SAR<br>Hong Kong</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/assistant-store-manager-hong-kong-international-airport_hong-kong_HERMS_bJNmxMm"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - Assistant aux équipes de delegated solutions H/F</td>
+<td>Nanterre<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-assistant-aux-equipes-de-delegated-solutions-h-f_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Warner Music France</strong></td>
+<td>Alternance - Assistant(e) Marketing International</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ArzR0Gb/jobs/alternance-assistant-marketing-international_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>La Sécurité Sociale</strong></td>
+<td>Apprenti(e) CAP IMTB (Interventions en Maintenance Technique des Bâtiments)</td>
+<td>Strasbourg<br>Grand Est<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/y4aRJ5b/jobs/apprenti-cap-imtb-interventions-en-maintenance-technique-des-batiments_strasbourg"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>Saegus</strong></td>
+<td>Consultant·e Agile, Design Thinking, Innovation – Stage de fin d&#x27;études</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/w2m9yYx/jobs/consultant-e-agile-design-thinking-innovation-stage-de-fin-d-etudes_paris_SAEGU_wZJD2Do"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>LeCab</strong></td>
+<td>Business Developer BtoB [Stage]</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/P67kJGm/jobs/business-developper-btob-stage_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Eigrene</strong></td>
+<td>Chargé(e) opérationnel(le) en stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LyKJ7YM/jobs/charge-operationnel-le-en-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Walter Learning</strong></td>
+<td>Concepteur pédagogique en stage F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RR3zDQm/jobs/assistant-chef-de-projet-pedagogique-en-stage-f-h_paris_WL_ZqeAkyb"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Business Developer en stage F/H</td>
+<td>Madrid<br>Community of Madrid<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RR3zDQm/jobs/business-developer-en-stage-f-h_madrid"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Spark</strong></td>
+<td>Growth manager (SEA / Social ads) - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/lQGQd4N/jobs/growth-manager_paris_SPARK_okqqlK"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Merlin Labs</strong></td>
+<td>Senior Manager of SEC Reporting &amp; Internal Controls</td>
+<td>Boston<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/UkY8ph/jobs/senior-manager-of-sec-reporting-internal-controls_boston_a6eooph2"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Hermès</strong></td>
+<td>Seasonal Coordinator - Client Relations Center</td>
+<td>New York<br>New York<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/seasonal-coordinator-client-relations-center_new-york_HERMS_ZJ96DJb"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Sorare</strong></td>
+<td>Marketing Intern</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/36XzMkb/jobs/marketing-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td>Auditeur stagiaire de fin d&#x27;études - Lille F/H</td>
+<td>Lille<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/auditeur-stagiaire-de-fin-d-etudes-lille-f-h_lille_DELOI_jdKbjaQ"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>CS</strong></td>
+<td>Chef(fe) de Projet Primavera UNIFIER : Planification &amp; Pilotage de Projets Nucléaires – Contexte International - Industrie - Lyon</td>
+<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QmqNNlw/jobs/chef-fe-de-projet-primavera-unifier-planification-pilotage-de-projets-nucleaires-contexte-international-industrie-lyon_lyon_CS_p6aw0qW"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>Business Analyst - Intelligence Artificielle H/F</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/business-analyst-intelligence-artificielle-h-f_montrouge_CAC_P3dAqrl"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Havas France</strong></td>
+<td>ARENA MEDIA - STAGE - STAGE- CHARGÉ(E) MÉDIA - F/H</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/arena-media-stage-stage-charge-e-media-f-h_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Kiabi</strong></td>
+<td>Chargé(e) de Production Marketing International (H/F) – CDD 6 mois</td>
+<td>Lezennes<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/charge-de-production-marketing-international-h-f-cdd-6-mois_lezennes"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong>Crédit Mutuel Alliance Fédérale</strong></td>
-<td>MASTER CONSEILLER CLIENTELE PATRIMONIALE BAC +4/5 (F/H)</td>
-<td>L'Aigle<br>Normandy<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iyTILx/jobs/master-conseiller-clientele-patrimoniale-bac-4-5-f-h_l-aigle"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Responsable commerciale/commercial (F/H) - Stage - Assistant commercial - Pôle Retail France Suisse Monaco</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iyTILx/jobs/responsable-commerciale-commercial-f-h-stage-assistant-commercial-pole-retail-france-suisse-monaco_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Swissroc Group</strong></td>
+<td>Stagiaire Asset Management (h/f)</td>
+<td>Plan-les-Ouates<br>Geneva<br>Switzerland</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Wl8baKl/jobs/50c4084d-e584-47b4-a1b0-795ac6a0da6b"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Selency</strong></td>
+<td>Community &amp; Social Media Manager (stage)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/yX0jw09/jobs/social-media-manager-stage_paris_SELEN_pPY3z17"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>KPMG France</strong></td>
+<td>Consultant Senior Risques Opérationnels Contrôle Interne F/H</td>
+<td>Courbevoie<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/g0gkx2Z/jobs/consultant-senior-risques-operationnels-et-controle-interne-f-h_courbevoie"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>L’Occitane</strong></td>
+<td>Stage - Assistant Media F/H - Erborian</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/j2336wr/jobs/stage-assistant-media-f-h-erborian_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>Daisy</strong></td>
+<td>Stage - Customer Care Manager</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3FuipP/jobs/stage-no-code-automatisation-fin-d-etudes-make-api-saas_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>FastGoodCuisine</strong></td>
+<td>Assistant(e) Communication - Stage - Paris (F/H/X)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D33Ddb/jobs/assistant-communication-stage-paris-f-h-x_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>MoEa</strong></td>
+<td>Assistant.e DA</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/r9AQwp1/jobs/assistant-e-da_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>VINCI Construction</strong></td>
+<td>Conducteur de travaux bâtiment stagiaire - septembre 26 F/H</td>
+<td>Roubaix<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/conducteur-de-travaux-batiment-stagiaire-septembre-26-f-h_roubaix"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>Motilde</strong></td>
+<td>Stage Ingénieur R&amp;D – Développement de solutions IT (H/F) – Barcelone</td>
+<td>Barcelona<br>Catalonia<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LzY2GqG/jobs/ingenieur-r-d-developpement-de-solutions-it-h-f-barcelone_barcelona"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>Groupe TF1</strong></td>
+<td>STAGE - Assistant(e) chargé(e) éditorialisation plateforme H/F</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NbDLM4D/jobs/stage-assistant-charge-editorialisation-plateforme-h-f_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>SFERIS</strong></td>
+<td>Opérateur Signalisation Electrique (HMT3) H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WAp3g70/jobs/operateur-signalisation-electrique-hmt3-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>GitGuardian</strong></td>
+<td>Finance Operations Intern</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GmW3ap7/jobs/finance-operations-intern_paris_GITGU_ddjOr0a"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Lemon Learning</strong></td>
+<td>Stage IA/Data Science/Dev Agentique</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WrKJYwN/jobs/stage-ia-data-science-dev-agentique_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Stage IA/Data science</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WrKJYwN/jobs/stage-ia-datascience-engineer_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Little Worker</strong></td>
+<td>Architecte d&#x27;intérieur (H/F) - Stage 6 mois</td>
+<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dZwMgxz/jobs/architecte-d-interieur-h-f-stage-6-mois_bordeaux_LW_0KMA3Jk"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>datashake</strong></td>
+<td>Consultant SEA/SMA - Stage - Paris</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/l3kjRpK/jobs/stage-junior-traffic-manager_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Vocca</strong></td>
+<td>Business Ops / Deployment Manager - 6 months internship (end of study)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kP13P2/jobs/business-ops-deployment-manager-stage-6-mois-fin-d-etudes_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Delabie [FR]</strong></td>
+<td>Alternant Ingénieur Amélioration continue H/F</td>
+<td>Friville-Escarbotin<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/cH49iA/jobs/alternant-ingenieur-amelioration-continue-h-f_friville-escarbotin"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>CANAL+ Group</strong></td>
+<td>STAGE - GRAPHISTE STUDIO DIGITAL PLATEFORME (F/H/X)</td>
+<td>Issy-les-Moulineaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dlWKb0r/jobs/stage-graphiste-studio-digital-plateforme-f-h-x_issy-les-moulineaux_CG_1ODzd6L"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>Kyriba</strong></td>
+<td>Junior HR Generalist - Americas</td>
+<td>Mexico City<br>Mexico City<br>Mexico</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/l2AVVwW/jobs/junior-hr-generalist-americas_mexico-city"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>L&#x27;Oréal Groupe</strong></td>
+<td>STAGE 6 MOIS - MARKETING - LUXE DIVISION - JUILLET 2026 - 1700€/mois</td>
+<td>Levallois-Perret<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/85DZZr7/jobs/stage-6-mois-marketing-luxe-division-juillet-2026-1700-mois_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>Kingfisher</strong></td>
+<td>Software Engineer Apprentice (Southampton)</td>
+<td>Southampton<br>England<br>United Kingdom</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Oe97MN/jobs/software-engineer-apprentice-southampton_southampton"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>AXA</strong></td>
+<td>Conseiller Commercial (F/H) - CQP 7 mois</td>
+<td>Rennes<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/conseiller-commercial-f-h-cqp-7-mois_rennes_AXA_AqXaRZQ"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Artelia</strong></td>
+<td>Assistante / Assistant de Projets Mobilités - International</td>
+<td>Choisy-le-Roi<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/assistante-assistant-de-projets-mobilites-international_choisy-le-roi"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>Hermès</strong></td>
+<td>ALTERNANCE - Assistant(e) Marketing Opérationnel International H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/alternance-assistant-marketing-operationnel-international-h-f_paris_HERMS_0K3Qrz"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>hcjy.fa.us2.oraclecloud.com</strong></td>
+<td>International and Operational Genetic Counselor</td>
+<td>United States</td>
+<td><div align="center"><a href="https://hcjy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#11538"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>hdjq.fa.us2.oraclecloud.com</strong></td>
+<td>Internship: AI-based Test &amp; Measurement Workflows</td>
+<td>DRESDEN<br>SACHSEN<br>Germany</td>
+<td><div align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26007333"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>ejov.fa.ca2.oraclecloud.com</strong></td>
+<td>Indigenous Engineer Intern/co-op</td>
+<td>Toronto<br>ON<br>Canada</td>
+<td><div align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26420"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>ejov.fa.ca2.oraclecloud.com</strong></td>
+<td>GHD Summer Internship Program 2026/27 - Canberra, Wollongong &amp; Southern NSW</td>
+<td>CANBERRA<br>AUSTRALIAN CAPITAL TERRITORY<br>Australia</td>
+<td><div align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26536"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>ejov.fa.ca2.oraclecloud.com</strong></td>
+<td>GHD Summer Internship Program 2026/27 - Adelaide</td>
+<td>ADELAIDE<br>SOUTH AUSTRALIA<br>Australia</td>
+<td><div align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26540"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>ejst.fa.em3.oraclecloud.com</strong></td>
+<td>Youth Initiatives Development Associate Intern</td>
+<td>District of Columbia<br>United States</td>
+<td><div align="center"><a href="https://ejst.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1698"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>edsv.fa.us2.oraclecloud.com</strong></td>
+<td>Intern (Human Resource)</td>
+<td>Wilayah Persekutuan Kuala Lumpur<br>Malaysia</td>
+<td><div align="center"><a href="https://edsv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26002894"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>hcun.fa.us2.oraclecloud.com</strong></td>
+<td>Human Resources Intern</td>
+<td>ELIZABETHTOWN<br>KENTUCKY<br>United States</td>
+<td><div align="center"><a href="https://hcun.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10162"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com</strong></td>
+<td>Design Co-op/Intern</td>
+<td>Canada</td>
+<td><div align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36276"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>hcld.fa.em2.oraclecloud.com</strong></td>
+<td>Cash Management Sales Manager.GTB-IBG-Qatar.International Banking Group</td>
+<td>Qatar</td>
+<td><div align="center"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5855"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>eeho.fa.us2.oraclecloud.com</strong></td>
+<td>M&amp;D Operations Planning Intern - OVIP</td>
+<td>United States</td>
+<td><div align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334366"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>eppr.fa.us2.oraclecloud.com</strong></td>
+<td>SB Intern, First Officer</td>
+<td>Lake Success<br>Nassau<br>United States</td>
+<td><div align="center"><a href="https://eppr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#189405"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>evac.fa.us2.oraclecloud.com</strong></td>
+<td>Medical Assistant - Internal Medicine</td>
+<td>Lubbock<br>TX<br>United States</td>
+<td><div align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#440915"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>evac.fa.us2.oraclecloud.com</strong></td>
+<td>Lead Medical Assistant - Internal Medicine</td>
+<td>Missoula<br>MT<br>United States</td>
+<td><div align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#438327"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>ebwv.fa.us2.oraclecloud.com</strong></td>
+<td>Line Cook | Fairfield Inn Harrisburg International Airport</td>
+<td>Middletown<br>PA<br>United States</td>
+<td><div align="center"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#235825"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>hcxg.fa.em2.oraclecloud.com</strong></td>
+<td>Intern, Accounting (Accounts Receivable)</td>
+<td>Kuala Lumpur<br>Malaysia</td>
+<td><div align="center"><a href="https://hcxg.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15365"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>edbz.fa.us2.oraclecloud.com</strong></td>
+<td>Human Resources Intern (m/f/d)</td>
+<td>Germany</td>
+<td><div align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25006372"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>edbz.fa.us2.oraclecloud.com</strong></td>
+<td>Field Applications Engineering Intern m/f/d</td>
+<td>Germany</td>
+<td><div align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25002653"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>edbz.fa.us2.oraclecloud.com</strong></td>
+<td>DoD SkillBridge | Equipment Technician Intern</td>
+<td>Dallas<br>TX<br>United States</td>
+<td><div align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25011121"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>hdhl.fa.us6.oraclecloud.com</strong></td>
+<td>Building Science Intern (Fall 2026)</td>
+<td>Burnaby<br>BC<br>Canada</td>
+<td><div align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006436"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>hdhl.fa.us6.oraclecloud.com</strong></td>
+<td>Transportation Engineering Co-op/Intern (Fall/Winter 2026)</td>
+<td>New York<br>NY<br>United States</td>
+<td><div align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1005928"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>egup.fa.us2.oraclecloud.com</strong></td>
+<td>International Trade Compliance Sr. Management</td>
+<td>Tijuana<br>Mexico</td>
+<td><div align="center"><a href="https://egup.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20274259"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>egup.fa.us2.oraclecloud.com</strong></td>
+<td>Internal Audit Specialist</td>
+<td>Cluj Napoca<br>Romania</td>
+<td><div align="center"><a href="https://egup.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20271733"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>hctz.fa.us2.oraclecloud.com</strong></td>
+<td>Intern_Accounts Payable</td>
+<td>Muntinlupa<br>Philippines<br>Philippines</td>
+<td><div align="center"><a href="https://hctz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2505821"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>SUCCES BV</strong></td>
+<td>Customer Service – Internal sales (Frans- Engels) | FT of 4/5</td>
+<td>BE (BE328)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MGVkODdhNzktYjYyZS00NmIwLTgyOGEtZjkwMWU1ZWFkMWUyIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>SELECT HUMAN RESOURCES NV</strong></td>
+<td>Commercial Interne - Awans</td>
+<td>BE (BE332)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZGY3NmZhNmUtMzMyMS00ZmFkLTlmZTEtYjJiZDhkNGVmNzU2IDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>FORUM JOBS NV</strong></td>
+<td>Service Technieker Intern Transport</td>
+<td>BE (BE335)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NWE5ZDkzN2EtYWM1NC00YmNlLTg2N2YtZDFlMTdjZjBjYjNlIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>UNIQUE NV</strong></td>
+<td>International Business Developer</td>
+<td>BE (BE328)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTg5OTdhNTgtOWJlMS00NGY1LTlhZjItZmVlMDNhNTNjZmQyIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>SELECT HUMAN RESOURCES NV</strong></td>
+<td>Junior Internal Sales NL/FR | Home Office tot 2d/week</td>
+<td>BE (BE332)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ODdiOTUzNWUtZTNmZi00Mjg4LWI5NzEtOWQ0ODlmYTAyMDcyIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>HOUSE OF RECRUITMENT SOLUTIONS BV</strong></td>
+<td>Internal Sales Agro</td>
+<td>BE (BE328)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YWM0ODFmM2QtM2E5Ni00YzBlLTgzY2YtM2E1ODliYzRhOThlIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>BOULANGERIE BAKKERIJ MANOUACH</strong></td>
+<td>Cuisinier(e)-Pâtissier(e) qualifié(e) - spécialisation internationale et marocaine H/F/X</td>
+<td>BE (BE100)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTg3NjM4MCAy?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>HR PRACTISWISE</strong></td>
+<td>Responsable Commercial International - Industrie &amp; Automobile H/F/X</td>
+<td>BE (BE100)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTg2MjI4OCAy?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>AUSTIN BRIGHT BV</strong></td>
+<td>Fiduciaire internationale - Stabilité et évolution</td>
+<td>BE (BE100)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Y2E4YWM3ZWMtYTgyZC00M2ZkLWEyZGYtMGZjMDkzNjY5OWMzIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>LGA HR NV</strong></td>
+<td>Junior Associate Corporate M&amp;A - Internationaal Advocatenkantoor (HQ Brussel)</td>
+<td>BE (BE100)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MmYxZjM0ZjQtMjlmMy00MDRmLTg4N2MtY2ZmYzQwYTE1NGExIDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>dp dreher partners gmbh &amp; Co. KG</strong></td>
+<td>Head of International Product Sales (m/w/d) &quot;Motion Control&quot; (Vertriebsberater/in)</td>
+<td>DE</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTgtU0RFLTEwMTMxMi1TVEEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>MIQR GmbH</strong></td>
+<td>PRAKTIKANT (m/w/d) im Bereich DaF / DaZ / Germanistik / Geistes-/Sprachwissenschaften (Germanist/in)</td>
+<td>DE (DED41<br>DED21<br>DED2E)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE3NjAwMi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Bundesverwaltungsamt</strong></td>
+<td>AWV-2026-068: Bürosachbearbeiter/-in (m/w/d) für Internetrecherchen bei Sicherheitsüberprüfungen (Verwaltungsfachangestellte/r - Bundesverwaltung)</td>
+<td>DE (DEA23<br>DE300)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzIwNDQ1NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Tesla Germany GmbH</strong></td>
+<td>Battery Testing Engineer Internship, Powertrain Engineering Europe (m/w/d) (Sekretär/in)</td>
+<td>DE (DE300)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTUxNTgtMjAyNjI3MDc0NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Ministerium der Justiz und für Digitalisierung</strong></td>
+<td>Landesinterne Ausschreibung - Büromitarbeiterin/eines Büromitarbeiters (w/m/d) im MdJD (Justizfachangestellte/r)</td>
+<td>DE (DE404)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE0NzEwNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>FERCHAU GmbH Niederlassung Bremen City</strong></td>
+<td>Projektcontroller &amp; Contract Manager (m/w/d) Internationaler Anlagenbau (Controller/in)</td>
+<td>DE (DE501)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyNjUtNDg3MjY0X0pCNTE3OTE0NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>hanfried Personaldienstleistungen GmbH</strong></td>
+<td>Disponent (m/w/d) - Auftragsabwicklung /Internationaler Handel (Industriekaufmann/-frau)</td>
+<td>DE (DE501)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTc3MjQtVFNCTEtNWTNXWEw2UFdRSS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>hanfried Personaldienstleistungen GmbH</strong></td>
+<td>Personaldisponent / HR Consultant (m/w/d) für internes Team! (Fachkaufmann/-frau - Personal)</td>
+<td>DE (DE501)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTc3MjQtT1NYNFZXNEFLTlBOS1k5TC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Atlas Cloud SL</strong></td>
+<td>Internship Informático Salesforce IT</td>
+<td>ES (ES416)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzM5NjU4OSAxMDI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>PROMYGES S.A.</strong></td>
+<td>ADMINISTRATIVO DEPARTAMENTO DE COMPRAS INTERNACIONALES</td>
+<td>ES (ES300)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzM5MDI4NiAxMDI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong>Pankkih Oy</strong></td>
+<td>IT hardware &amp; automation intern (with growth opportunity to engineer)</td>
+<td>FI</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YWE0OTZlMDgtNWY3ZS00MGY4LTg5ZWEtNDI2M2QxNjBkNmE4IDgx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>Tallink Silja Oy</strong></td>
+<td>International Sales Manager</td>
+<td>FI (FI1B1)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NmJhNDE4MGEtZWMzNC00ZDg5LTljODMtMjk4NGZlNDRhYjc4IDgx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>non renseigné</strong></td>
+<td>Vendeur Ambulant Ferroviaire (H/F) - Ligne Internationale</td>
+<td>FR</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzQ4MjY2MyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>INOMATEX</strong></td>
+<td>Automaticien(ne) itinérant à l&#x27;internationnal (H/F)</td>
+<td>FR</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5TldUTiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>BRANGE ENVIRONNEMENT</strong></td>
+<td>RESPONSABLE SITES INTERNET &amp; DONNEES TECHNIQUES ERP (H/F)</td>
+<td>FR (FRI14)</td>
+<td><div align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA5V1FDUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>egmh.fa.us6.oraclecloud.com</strong></td>
+<td>Intern - Talent Acquisition</td>
+<td>Sri Lanka</td>
+<td><div align="center"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19934"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Intern - Planning</td>
+<td>Sri Lanka</td>
+<td><div align="center"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19956"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>egmh.fa.us6.oraclecloud.com</strong></td>
+<td>Intern - Compliance &amp; Safety</td>
+<td>Sri Lanka</td>
+<td><div align="center"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19590"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>ejgk.fa.em2.oraclecloud.com</strong></td>
+<td>Senior - Internal Audit</td>
+<td>Gurgaon<br>Haryana<br>India</td>
+<td><div align="center"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#INTG10046368"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>10d</td>
+</tr>
+<tr>
+<td><strong>eodr.fa.us2.oraclecloud.com</strong></td>
+<td>Pharmacist Intern</td>
+<td>Rock Hill<br>SC<br>United States</td>
+<td><div align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014277"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>GESI Associate (Open to Internal and external candidates)</td>
+<td>Jakarta Pusat<br>Indonesia</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35104"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>Investments and Debt Finance Specialist, Africa (Open to Internal &amp; External Applicants)</td>
+<td>Pretoria<br>South Africa</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#33943"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>Roster of Interns (open call)</td>
+<td>Belgrade<br>Serbia</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#27843"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>Intern - Development Cooperation</td>
+<td>Seoul<br>Republic of Korea</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#34693"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>estm.fa.em2.oraclecloud.com</strong></td>
+<td>Business Process Analyst (2 positions) [Open to internal and external applicants]</td>
+<td>Chisinau<br>Republic of Moldova</td>
+<td><div align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#34884"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>eswt.fa.us6.oraclecloud.com</strong></td>
+<td>GME Program Manager, Internal Medicine-Cardiology, Full Time, First Shift</td>
+<td>Cincinnati<br>OH<br>United States</td>
+<td><div align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22914"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>eimy.fa.us6.oraclecloud.com</strong></td>
+<td>Professional Student Radiological Intern</td>
+<td>Rockford<br>IL<br>United States</td>
+<td><div align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#49093"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>careers.geaerospace.com</strong></td>
+<td>Stage - Ingénierie de procédés</td>
+<td>Bromont<br>Quebec<br>Canada</td>
+<td><div align="center"><a href="https://careers.geaerospace.com/job/R5035001"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.geaerospace.com</strong></td>
+<td>Military DoD SkillBridge Program - Multiple Positions 2027</td>
+<td>Evendale<br>Ohio<br>United States of America</td>
+<td><div align="center"><a href="https://careers.geaerospace.com/job/R5035870"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>careers.geaerospace.com</strong></td>
+<td>Military DoD SkillBridge Program - Production Assembly Mechanic</td>
+<td>Evendale<br>Ohio<br>United States of America</td>
+<td><div align="center"><a href="https://careers.geaerospace.com/job/R5036716"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>careers.geaerospace.com</strong></td>
+<td>Systems Engineering Intern - Mechanical/Aerospace Engineering (Avionics) - US - Summer 2027 - Returning Students</td>
+<td>Grand Rapids<br>Michigan<br>United States of America</td>
+<td><div align="center"><a href="https://careers.geaerospace.com/job/R5030175"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Systems Engineering Co-op - Mechanical/Aerospace Engineering (Avionics) - US - Fall 2027 - Returning Students</td>
+<td>Grand Rapids<br>Michigan<br>United States of America</td>
+<td><div align="center"><a href="https://careers.geaerospace.com/job/R5030183"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Engines Engineering Intern – US – Summer 2027 - Returning Students</td>
+<td>Evendale<br>Ohio<br>United States of America</td>
+<td><div align="center"><a href="https://careers.geaerospace.com/job/R5029793"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Tuscaloosa<br>Alabama<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912691"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Cullman<br>Alabama<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940156"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Homewood<br>Alabama<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0923324"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Northport<br>Alabama<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926863"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Senior Manager of Account Management - Local Markets (International Team)</td>
+<td>Work at Home<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0908114"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Bakersfield<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954951"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>El Cajon<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913412"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Palm Desert<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0935274"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Antioch<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940118"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Costa Mesa<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0955654"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Vallejo<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0934136"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Laguna Beach<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0921089"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Hayward<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0934446"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Gridley<br>California<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912631"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Wallingford<br>Connecticut<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913306"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Newtown<br>Connecticut<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913554"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Clinton<br>Connecticut<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960878"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Milford<br>Connecticut<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953942"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Farmington<br>Connecticut<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933433"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>East Hampton<br>Connecticut<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926735"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Newark<br>Delaware<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926652"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Hudson<br>Florida<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913642"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Port Charlotte<br>Florida<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943836"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Seminole<br>Florida<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943211"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Cumming<br>Georgia<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0947229"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Savannah<br>Georgia<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940886"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Athens<br>Georgia<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933415"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Alexandria<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0947185"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Paoli<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912702"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Indianapolis<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920188"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Hanover<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912898"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Noblesville<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926658"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Bluffton<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926701"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Jeffersonville<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0959172"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Davenport<br>Iowa<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913158"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Fort Dodge<br>Iowa<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913539"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Overland Park<br>Kansas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912758"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Mandeville<br>Louisiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926858"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Kennebunk<br>Maine<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954084"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Augusta<br>Maine<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913449"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>District Heights<br>Maryland<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0909138"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Bethesda<br>Maryland<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913468"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Swampscott<br>Massachusetts<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0946317"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Fall River<br>Massachusetts<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0949782"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Fenton<br>Michigan<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0909023"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Lansing<br>Michigan<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912998"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Redford<br>Michigan<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943545"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Grosse Ile<br>Michigan<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0908013"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Grosse Pointe<br>Michigan<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926624"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Minneapolis<br>Minnesota<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913058"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Mankato<br>Minnesota<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920690"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Greenwood<br>Mississippi<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912648"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Henderson<br>Nevada<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926729"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Ramsey<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954028"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Oakhurst<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913120"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Hoboken<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913573"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Gibbsboro<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0937752"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>South Plainfield<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960938"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Bernardsville<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0943350"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Gloucester City<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0939066"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Sparta<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913199"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Rye<br>New York<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0954052"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Fishkill<br>New York<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913388"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Port Jefferson Station<br>New York<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913361"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Brooklyn<br>New York<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913237"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Bohemia<br>New York<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0909165"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Fayetteville<br>North Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0959282"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Clemmons<br>North Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0952343"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Garner<br>North Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0952241"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Oxford<br>North Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0952251"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Bismarck<br>North Dakota<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0906306"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Reynoldsburg<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913624"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Pataskala<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940188"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Hamilton<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913034"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Gallipolis<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913085"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Parma<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0909891"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Dublin<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0920244"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern - Grad</td>
+<td>Sylvania<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0941606"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Beavercreek<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0940242"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Sunbury<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913257"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Tigard<br>Oregon<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0955320"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Chalfont<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913248"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Williamsport<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913307"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Perkasie<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0945523"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Newtown<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0937098"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Greencastle<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926745"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>New Cumberland<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912895"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Carbondale<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0939166"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Wynnewood<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0921142"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Quakertown<br>Pennsylvania<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0854992"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Providence<br>Rhode Island<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0946244"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Sumter<br>South Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912735"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Newberry<br>South Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953980"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Goose Creek<br>South Carolina<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953991"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Sioux Falls<br>South Dakota<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926726"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Collierville<br>Tennessee<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926785"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Nashville<br>Tennessee<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0933218"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Beaumont<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913518"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Temple<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926736"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Arlington<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0926901"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>El Paso<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0938060"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Pharmacy Intern</td>
+<td>Abilene<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0922497"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad- International Pharmacy Intern</td>
+<td>South Jordan<br>Utah<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913535"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Richmond<br>Virginia<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0913430"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Vancouver<br>Washington<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0947172"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Fairmont<br>West Virginia<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0912991"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>South Charleston<br>West Virginia<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0953973"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>Menomonie<br>Wisconsin<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0941349"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Foreign Pharmacy Grad - International Pharmacy Intern</td>
+<td>De Pere<br>Wisconsin<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0941336"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>23d</td>
+</tr>
+<tr>
+<td><strong>jobs.cvshealth.com</strong></td>
+<td>Pharmacy Intern</td>
+<td>Racine<br>Wisconsin<br>United States</td>
+<td><div align="center"><a href="https://jobs.cvshealth.com/job/R0960884"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>杭州泰格医药科技股份有限公司</strong></td>
+<td>CRA Intern-成都（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174693"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>临床试验助理实习生(TMF Intern)-上海（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174609"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-沈阳（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174535"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-延边（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174529"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-郴州（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174507"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-自贡（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174510"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-阜阳（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174501"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-荆州（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174498"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CRC Intern-镇江（2027校招）</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://tigermed.zhiye.com/portal/jobs/511174467"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>careers.zimmerbiomet.com</strong></td>
+<td>Internal Audit Director</td>
+<td>Barcelona<br>Catalonia<br>Spain</td>
+<td><div align="center"><a href="https://careers.zimmerbiomet.com/job/8464"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.msd.com</strong></td>
+<td>Intern, D&amp;L Trade Compliance Data Analyst</td>
+<td>Singapore<br>Singapore<br>Singapore</td>
+<td><div align="center"><a href="https://jobs.msd.com/job/R400206"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>jobs.msd.com</strong></td>
+<td>Intern - Supply Chain/ Business related - Supplier Management &amp; Procurement</td>
+<td>Boxmeer<br>North Brabant<br>Netherlands</td>
+<td><div align="center"><a href="https://jobs.msd.com/job/R351616"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>careers.truist.com</strong></td>
+<td>Sr. Internal Auditor - Wholesale Lending</td>
+<td>Charlotte<br>North Carolina<br>USA</td>
+<td><div align="center"><a href="https://careers.truist.com/job/R0113426"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>careers.marsh.com</strong></td>
+<td>Technico-commercial(e) TPE-PME international H/F</td>
+<td>Paris<br>France</td>
+<td><div align="center"><a href="https://careers.marsh.com/job/R_356010"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>careers.marsh.com</strong></td>
+<td>Manager, Internal Communications, Europe - Lisbon</td>
+<td>Lisbon<br>Portugal</td>
+<td><div align="center"><a href="https://careers.marsh.com/job/R_356795"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>careers.marsh.com</strong></td>
+<td>Senior Client Executive - International Students</td>
+<td>Auckland<br>New Zealand</td>
+<td><div align="center"><a href="https://careers.marsh.com/job/R_350713"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>careers.omers.com</strong></td>
+<td>Intern, AI Enablement &amp; Adoption Specialist (Fall 2026, 4 Months) - New York</td>
+<td>New York<br>New York<br>United States of America</td>
+<td><div align="center"><a href="https://careers.omers.com/job/JR-8159"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>careers.tdsynnex.com</strong></td>
+<td>Internal Sales Executive (Temporary)</td>
+<td>Barcelona<br>Barcelona<br>Spain</td>
+<td><div align="center"><a href="https://careers.tdsynnex.com/job/R51545"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>jobs.thermofisher.com</strong></td>
+<td>Sr Intern, Quality Control</td>
+<td>Ferentino<br>Frosinone<br>Italy</td>
+<td><div align="center"><a href="https://jobs.thermofisher.com/job/R-01331115"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobs.kuehne-nagel.com</strong></td>
+<td>Sea Logistics Operational Care Specialist, International Supply Chain</td>
+<td>Guangzhou City<br>China</td>
+<td><div align="center"><a href="https://jobs.kuehne-nagel.com/job/13446"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>careers.brp.com</strong></td>
+<td>Digital Merchandising Intern</td>
+<td>Campinas<br>BRA - Sao Paulo<br>Brazil</td>
+<td><div align="center"><a href="https://careers.brp.com/job/35678"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>careers.cencora.com</strong></td>
+<td>International Customer Service Rep III</td>
+<td>Bogota<br>Colombia</td>
+<td><div align="center"><a href="https://careers.cencora.com/job/R2610286"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>careers.kbr.com</strong></td>
+<td>Senior Manager, Internal Audit &amp; Controls</td>
+<td>Houston<br>Texas<br>United States of America</td>
+<td><div align="center"><a href="https://careers.kbr.com/job/R2124292"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>jobs.virginia.edu</strong></td>
+<td>Registered Nurse (RN) Internal Traveler - Outpatient Surgery OR</td>
+<td>Charlottesville<br>Virginia<br>United States of America</td>
+<td><div align="center"><a href="https://jobs.virginia.edu/job/R0078766"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>jobs.ascension.org</strong></td>
+<td>Pharmacy Intern</td>
+<td>Milwaukee<br>Wisconsin<br>United States</td>
+<td><div align="center"><a href="https://jobs.ascension.org/job/454101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>jobs.ascension.org</strong></td>
+<td>Respiratory Therapy Intern</td>
+<td>Evansville<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.ascension.org/job/427267"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>jobs.ascension.org</strong></td>
+<td>Internal Medicine Physician Assistant or Nurse Practitioner</td>
+<td>Greenfield<br>Wisconsin<br>United States</td>
+<td><div align="center"><a href="https://jobs.ascension.org/job/453415"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>jobs.ascension.org</strong></td>
+<td>Internal Medicine / Family Medicine Hospitalist</td>
+<td>Franklin<br>Wisconsin<br>United States</td>
+<td><div align="center"><a href="https://jobs.ascension.org/job/446340"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>jobs.ascension.org</strong></td>
+<td>Internal Medicine Physician</td>
+<td>North Vernon<br>Indiana<br>United States</td>
+<td><div align="center"><a href="https://jobs.ascension.org/job/437961"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>careers-quartile</strong></td>
+<td>DSP Strategist</td>
+<td>Remote (Brazil)</td>
+<td><div align="center"><a href="https://ats.rippling.com/careers-quartile/jobs/7de6ff7a-e6d6-4aa6-884d-22e2d034745e"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>democratic-national-committee</strong></td>
+<td>Fall 2026 DNC Rapid Social Internship</td>
+<td>Washington<br>DC</td>
+<td><div align="center"><a href="https://ats.rippling.com/democratic-national-committee/jobs/ca1848d1-e626-4310-8eea-08e4f639f37b"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>fluidai-medical-careers</strong></td>
+<td>Junior Business Development Associate (8+ Month Preferred)</td>
+<td>Kitchener<br>Canada</td>
+<td><div align="center"><a href="https://ats.rippling.com/fluidai-medical-careers/jobs/30dcedf1-1a44-43f8-a2a7-d142b4533333"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>first-meridian-services</strong></td>
+<td>Team Member - Tacos Tequila Whiskey - Denver International Airport</td>
+<td>Denver<br>CO</td>
+<td><div align="center"><a href="https://ats.rippling.com/first-meridian-services/jobs/def54d6b-1ff9-41e6-88bf-b9c1e466737f"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>skyportsdeliveries-limited</strong></td>
+<td>Remote Pilot, Freelance/Contractor</td>
+<td>Aylesbury<br>United Kingdom</td>
+<td><div align="center"><a href="https://ats.rippling.com/skyportsdeliveries-limited/jobs/b865009e-b7f5-46e9-9609-e7ce18ec549a"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>comprehensive-prosthetics-orthotics</strong></td>
+<td>Fabrication Technician Intern – Willowbrook, IL (1st Shift)</td>
+<td>Willowbrook<br>IL</td>
+<td><div align="center"><a href="https://ats.rippling.com/comprehensive-prosthetics-orthotics/jobs/97cb91c5-9ff0-4e54-ab4b-e5254c46299f"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>timberline</strong></td>
+<td>Specialty DVM - Internal Medicine</td>
+<td>Seattle<br>WA</td>
+<td><div align="center"><a href="https://ats.rippling.com/timberline/jobs/fc825875-83cd-49de-9ecd-54dcc894a227"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>surfline</strong></td>
+<td>Customer Service Assistant</td>
+<td>San Diego<br>CA</td>
+<td><div align="center"><a href="https://ats.rippling.com/surfline/jobs/3afb3ad5-a198-4a2f-9198-66e0d6ebad4b"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>accellearning</strong></td>
+<td>AI Engineer (Internship) - Intelligent Question Bank Platform</td>
+<td>Secaucus<br>NJ<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/accellearning/744000129584829"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>abuserefugeorg</strong></td>
+<td>Internship Supervisor (Volunteer/Remote)</td>
+<td>Westerville<br>OH<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/abuserefugeorg/744000129349729"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>abbvie</strong></td>
+<td>Associate Director, International Digital Marketing Patient Ecosystem Lead</td>
+<td>Mettawa<br>IL<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/abbvie/3743990013796456"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Associate Director International Learning Oncology</td>
+<td>Mettawa<br>IL<br>us</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/abbvie/3743990013792876"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>abbvie</strong></td>
+<td>Intern Talent Acquisition</td>
+<td>Madrid<br>MD<br>es</td>
+<td><div align="center"><a href="https://jobs.smartrecruiters.com/abbvie/3743990013131046"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>TeamViewer Germany GmbH</strong></td>
+<td>Intern, Inside Sales (French speaker)</td>
+<td>Porto<br>PT</td>
+<td><div align="center"><a href="https://teamviewer.teamtailor.com/jobs/7721691-intern-inside-sales-french-speaker"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>JABARI</strong></td>
+<td>Internal Communications Exec, EMEA - 1 Year Contract</td>
+<td>London<br>GB</td>
+<td><div align="center"><a href="https://wearediverse2.teamtailor.com/jobs/7774500-internal-communications-exec-emea-1-year-contract"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Wiremind</strong></td>
+<td>Gen AI Engineer (M/F) - Internship - Paris</td>
+<td>Paris<br>FR</td>
+<td><div align="center"><a href="https://wiremind-1714146283.teamtailor.com/jobs/7881599-gen-ai-engineer-m-f-internship-paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>STAGE COMMERCE saisonnier boutique du Lavandou</td>
+<td>Le Lavandou<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-saisonnier-boutique-du-lavandou_le-lavandou"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>10d</td>
 </tr>
 <tr>
 <td><strong>Groupe Crédit Agricole</strong></td>
-<td>Stage - Chargé(e) de Sécurité Financière et Prévention de la Fraude H/F</td>
-<td>Montrouge<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-charge-de-securite-financiere-et-prevention-de-la-fraude-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>STAGE - Juriste en protection des données H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-juriste-en-protection-des-donnees-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>11d</td>
 </tr>
 <tr>
-<td><strong>RSM</strong></td>
-<td>Stagiaire Transaction Services H/F</td>
-<td>Saint-Herblain<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Qm8paMl/jobs/stagiaire-transaction-services-h-f_saint-herblain"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>iwoca</strong></td>
-<td>M&amp;A Intern - manda</td>
-<td>London<br>United Kingdom</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/teMXm1/jobs/m-a-intern-manda_london_6mzk4pjq"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>NTT DATA</strong></td>
+<td>Junior Buyer</td>
+<td>London<br>England<br>United Kingdom</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/buyer_london"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>11d</td>
 </tr>
 <tr>
 <td><strong>The Adecco Group</strong></td>
-<td>CHARGE DE RECRUTEMENT Stagiaire H/F</td>
-<td>Hazebrouck<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-stagiaire-h-f_hazebrouck"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>STAGIAIRE CHARGÉ(E) DE RECRUTEMENT H/F</td>
+<td>Longueil-Sainte-Marie<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stagiaire-charge-e-de-recrutement-h-f_longueil-sainte-marie"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>11d</td>
 </tr>
 <tr>
-<td><strong>BNP Paribas</strong></td>
-<td>Stage - Portfolio Manager - Fund Financing - H/F</td>
+<td><strong>Wakeo</strong></td>
+<td>Sales Lead Generation - 6 months Internship</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-portfolio-manager-fund-financing-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/koyDG62/jobs/sales-lead-generation-6-months-internship_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>11d</td>
-</tr>
-<tr>
-<td><strong>Crédit Agricole CIB</strong></td>
-<td>Développeur(euse) C# H/F - FO Booking  Risk - Non Linear IT H/F</td>
-<td>Montrouge<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/developpeur-euse-c-h-f-fo-booking-risk-non-linear-it-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>EssilorLuxottica France</strong></td>
-<td>VIE - SC BPO &amp; Project Leader H/F</td>
-<td>Dubai<br>United Arab Emirates</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/BmQD1j/jobs/vie-sc-bpo-project-leader-h-f_dubai"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>Groupe Figaro</strong></td>
-<td>Stage - Assistant communication et ventes voyages (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D4ezvy/jobs/stage-assistant-communication-et-ventes-voyages-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>Livi</strong></td>
-<td>Chargé(e) de Projets Marketing - Stage (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D9qX6Qo/jobs/charge-de-projets-marketing-stage-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>Amorino</strong></td>
-<td>[STAGE] Communication Digitale H/F</td>
-<td>Orly<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iZN9DM/jobs/stage-charge-de-communication-et-relation-presse_orly"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Applied Intuition</strong></td>
-<td>Research Intern (World-Action Foundation Model, Robotics)</td>
-<td>Sunnyvale<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/SATFpf/jobs/research-intern-world-action-foundation-model-robotics_sunnyvale_7vvigmxm"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>Stage – Organisateur(ice) de l’Espace Digital &amp; IA (F/H)</td>
-<td>Rouvignies<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-organisateur-ice-de-l-espace-digital-ia-f-h_rouvignies"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Technip Energies France</strong></td>
-<td>Apprenticeship - General Installation &amp; Piping Design Engineer - F/M - IFP School</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZLS6UW/jobs/apprenticeship-general-installation-piping-design-engineer-f-m-ifp-school_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td>HAVAS IT - ALTERNANCE - HAVAS IT - ALTERNANCE GESTIONNAIRE ACHAT IT ET ADMINISTRATIF</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-it-alternance-havas-it-alternance-gestionnaire-achat-it-et-administratif_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
 </tr>
 <tr>
 <td><strong>Kiabi</strong></td>
-<td>_STAGE CONSEILLER DE VENTE (H/F/NB) - MAUREPAS</td>
-<td>Maurepas<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/stage-conseiller-e-de-mode-kiabi-maurepas-78_maurepas_KIABI_x2QAJ3w"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
+<td>STAGE EXTRACURRICULARE 30H RETRIBUITO  KIABI ROMA TIBURTINA</td>
+<td>Rome<br>Latium<br>Italy</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/stage-extracurriculare-30h-retribuito-kiabi-roma-tiburtina_roma_KIABI_exl7wpV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
-<td><strong>Havas France</strong></td>
-<td>HAVAS LIFE PARIS - STAGE - ASSISTANT.E RH</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-life-paris-stage-assistant-e-rh_puteaux_HF_PXRe4kx"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
+<td><strong>BATIBIG</strong></td>
+<td>Contrôleur de gestion H/F</td>
+<td>Clichy<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YJuKqj/jobs/controleur-de-gestion-h-f_clichy_BATIB_N465XW1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
-<td><strong>Respire</strong></td>
-<td>Stage Analyste Financier - Sept.26</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dtyP8i/jobs/stage-analyste-financier-sept-26_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>Keemia</strong></td>
-<td>Assistant.e Logistique Stage de 6 mois · Noisy-le-Sec (93) · À partir de juillet</td>
-<td>Montreuil<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7gWz633/jobs/assistant-e-logistique-stage-de-6-mois-noisy-le-sec-93-a-partir-de-juillet_montreuil"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>L’Occitane</strong></td>
-<td>Stage - Assistant.e Chef de Produit Développement H/F - Melvita</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/j2336wr/jobs/stage-assistant-e-chef-de-produit-developpement-h-f-melvita_paris_LOCCI_rXQQRkR"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>SUEZ</strong></td>
-<td>Stage - Ingénieur Management de Projets - H/F</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/stage-ingenieur-management-de-projets-h-f_lyon_SUEZ_PZKop92"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>ALTERNANCE - CONSEIL INTERNE H/Fe poste H/F</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/alternance-conseil-interne-h-fe-poste-h-f_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>DashBook</strong></td>
-<td>Consultant Marketing - Internship (FR/UK/SP)</td>
-<td>Barcelona<br>Catalonia<br>Spain</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/BzknxH/jobs/consultant-marketing-internship-fr-uk-sp_barcelone_DASHB_M6eKJWJ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Revolugo</strong></td>
-<td>Assistant Marketing et Communication</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/csGCj7/jobs/assistant-marketing-et-communication_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Groupe Crédit Agricole</strong></td>
-<td>Stage - Gestionnaire Middle Office (PERES) H/F</td>
-<td>Montrouge<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-gestionnaire-middle-office-peres-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Hermès</strong></td>
-<td>STAGE - Assistant Chef de Projet Développement et Industrialisation Bijouterie (H/F)</td>
-<td>Pantin<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-assistant-chef-de-projet-developpement-et-industrialisation-bijouterie-h-f_pantin"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td>Stage Banquier Privé</td>
-<td>Bayonne<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/stage-banquier-prive_bayonne"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage - Conseil Marché des Particuliers</td>
-<td>Firminy<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/stage-conseil-marche-des-particuliers_firminy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>MISTER IA</strong></td>
-<td>Founders Associate - Alternance/Stage - Paris 8</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/hJLAOS/jobs/commercial-business-developer-junior-stage-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Capgemini</strong></td>
-<td>Stage Consultante / Consultant SAP Technique</td>
-<td>Issy-les-Moulineaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/oGmK9Lp/jobs/stage-consultante-consultant-sap-technique_issy-les-moulineaux_CAPGE_KrkMJMY"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Wooclap</strong></td>
-<td>Event Marketing Stage (6 Mois)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kgw7ooo/jobs/stagiaire-event-marketing-6-mois_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>makesense</strong></td>
-<td>Stage - Chargé.e de Projets Data &amp; Automatisation IA (No-Code)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4X05Yol/jobs/stage-charge-e-de-projets-data-automatisation-ia-no-code_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Groupe Crédit Agricole</strong></td>
-<td>Stage - Assistant(e) Consulting Interne H/F</td>
-<td>Montrouge<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-assistant-consulting-interne-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Heroiks</strong></td>
-<td>ALTERNANCE - Consultant Digital Junior H/F</td>
+<td><strong>CertiDeal - VC Technology</strong></td>
+<td>Bras droit CEO</td>
 <td>Levallois-Perret<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZmbPRoo/jobs/alternance-consultant-digital-junior-h-f_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Fremantle</strong></td>
-<td>Stage assistant de développement</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PwaFdb/jobs/stage-assistant-de-developpement_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>AXA</strong></td>
-<td>Assistant chef de projet IA et Automatisation Documentaire (F/H) - Stage</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/assistant-chef-de-projet-ia-et-automatisation-documentaire-f-h-stage_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Harbinger Motors</strong></td>
-<td>Finance Internship</td>
-<td>Garden Grove<br>CA<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QEogC1/jobs/finance-internship_garden-grove-ca_kmay3ihe"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Anduril Industries</strong></td>
-<td>Director of Business Development (Advanced Effects (International))</td>
-<td>Costa Mesa<br>CA<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/78upeU/jobs/director-of-business-development_costa-mesa_s3ot3ysg"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>BNP Paribas</strong></td>
-<td>STAGE - CONSEILLER EN INVESTISSEMENT SPECIALISTE PRODUITS STRUCTURES - H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-conseiller-en-investissement-specialiste-produits-structures-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Petits-fils</strong></td>
-<td>Auditeur qualité interne ( H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/y1w2549/jobs/auditeur-interne-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Tennaxia</strong></td>
-<td>Stagiaire Brand &amp; Content F/H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NdJLmml/jobs/stagiaire-brand-content-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>L&#x27;Étincelle</strong></td>
-<td>Founder associate H/F - Stage</td>
-<td>Aubervilliers<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/nWS3hm/jobs/founder-associate-h-f-stage_aubervilliers"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>EDF</strong></td>
-<td>Alternance - Chargée ou Chargé de Communication Interne F/H</td>
-<td>La Défense<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/a8KoLro/jobs/alternance-chargee-ou-charge-de-communication-interne-f-h_la-defense"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>BNP Paribas</strong></td>
-<td>Stage - Assistant RSE Communication et engagement H/F - 6 mois</td>
-<td>Rueil-Malmaison<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-assistant-rse-communication-et-engagement-h-f-6-mois_rueil-malmaison"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage - Social Media Manager Junior H/F</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-social-media-manager-junior-h-f_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td>Conseil Marché des Particuliers</td>
-<td>Amiens<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/conseil-marche-des-particuliers_amiens_SG_OwryGQa"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>iBanFirst</strong></td>
-<td>Head of Internal Audit</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NdmXpo7/jobs/head-of-internal-audit_paris_IBANF_kMMglre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Aon France</strong></td>
-<td>Coordinateur International (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QHy2eM/jobs/coordinateur-international-h-f_paris_AF_LpJjQYG"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Kleep</strong></td>
-<td>Business Development Intern</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3P6QMu/jobs/business-development-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Groupe Rocher</strong></td>
-<td>STAGE - MOBILISATION &amp; COMMUNICATION H/F/X - YVES ROCHER</td>
-<td>Issy-les-Moulineaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/17rVQ4d/jobs/stage-mobilisation-communication-h-f-x-yves-rocher_issy-les-moulineaux_GR_2ZXRLKG"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Numberly</strong></td>
-<td>Internship - CRM &amp; Digital Marketing - Romanian Speaker</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Z0y26rb/jobs/internship-crm-digital-marketing-romanian-speaker_paris_NUMBE_6lL7Y2V"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>May</strong></td>
-<td>Stagiaire Social Media &amp; Communication</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PjOWvC/jobs/stagiaire-social-media-communication_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>Skello</strong></td>
-<td>Stagiaire Product Manager &amp; Marketing</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/9gb1rX1/jobs/stagiaire-product-manager-marketing_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Office Manager - STAGE</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/9gb1rX1/jobs/office-manager-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>AREP</strong></td>
-<td>Stage - Assistant.e d&#x27;études urbaniste - Marseille (6 mois) - F/H</td>
-<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/vF0eHK/jobs/stage-assistant-e-d-etudes-urbaniste-marseille-6-mois-f-h_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>Hermès</strong></td>
-<td>STAGE - Assistant Data Haute Joaillerie (H/F)</td>
-<td>Pantin<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-assistant-data-haute-joaillerie-h-f_pantin_HERMS_5pgmVyO"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>Celonis</strong></td>
-<td>Field Marketing Internship (Part-time)</td>
-<td>New York<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/5sOJNX/jobs/field-marketing-internship-part-time_new-york_mtynfnnj"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong>Groupe Crédit Agricole</strong></td>
-<td>Chef de projets MOE Echanges et Paiements Internationaux H/F</td>
-<td>Guyancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/chef-de-projets-moe-echanges-et-paiements-internationaux-h-f_guyancourt_GCA_6WJGMXw"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>Alvarez &amp; Marsal France</strong></td>
-<td>Strategy Transformation Internship Program - Start September 2026</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/HIjtg6/jobs/strategy-transformation-internship-program-january-2026-start_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE COMMERCE JUIN</td>
-<td>Auch<br>Occitanie<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-juin_auch"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Stage droit fiscal F/H</td>
-<td>Toulouse<br>Occitanie<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-droit-fiscal-f-h_toulouse_DELOI_PXp9JqP"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td>HAVAS PARIS - STAGE - CHARGE DE MISSION / REDACTEUR THINK TANK A IMPACT #NEWDEAL (F/H)</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-paris-stage-charge-de-mission-redacteur-think-tank-a-impact-newdeal-f-h_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>Amplifon</strong></td>
-<td>Stage Marketing and Communications Specialist (H/F/X)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kYLd2Yw/jobs/stage-marketing-and-communications-specialist-h-f-x_paris_AMPLI_PNd0Vkw"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>L&#x27;École Française</strong></td>
-<td>Stage Chargé(e) d’admissions (H/F)</td>
-<td>Levallois-Perret<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/brp63Mo/jobs/stage-charge-d-admissions-h-f_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>Parella</strong></td>
-<td>Stage – Chargé(e) de Marketing &amp; Communication (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Rorbjo8/jobs/stage-charge-de-communication-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>TV5MONDE</strong></td>
-<td>STAGE 6mois - Assistant·e relations presse</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fTurOF/jobs/stage-6mois-assistant-e-relations-presse_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>SUEZ</strong></td>
-<td>Stage - Juriste droit social - H/F</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/stage-juriste-droit-social-h-f_puteaux_SUEZ_pbNwZPN"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Ferrero</strong></td>
-<td>Assistant Chargé de Communication Interne - Stage (H/F/X)</td>
-<td>Villers-Écalles<br>Normandy<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1MbqOb0/jobs/assistant-charge-de-communication-interne-stage-h-f-x_villers-ecalles_FERRE_Y3MY9Qe"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Safran</strong></td>
-<td>STAGE :  pour les modèles de substitution en simulations physiques – Partie II F/H</td>
-<td>Châteaufort<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wRqZadx/jobs/stage-pour-les-modeles-de-substitution-en-simulations-physiques-partie-ii-f-h_chateaufort"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage - conception et développement d&#x27;une interface web de formalisation et de visualisation de data F/H</td>
-<td>Itteville<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wRqZadx/jobs/stage-conception-et-developpement-d-une-interface-web-de-formalisation-et-de-visualisation-de-data-f-h_itteville"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Goodvest</strong></td>
-<td>Analyste Investissement Responsable - Stage</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/w5jGV1/jobs/alternance-stage-analyste-isr_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Hermès</strong></td>
-<td>Temporary Coordinator - eCommerce Client Relations Center</td>
-<td>Manhattan<br>New York<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/temporary-coordinator-ecommerce-client-relations-center_manhattan"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE EVENEMENTIEL 6 mois- chargé-e de projet VITALSPORT</td>
-<td>Saint-Maximin<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-evenementiel-6-mois-charge-e-de-projet-vitalsport_saint-maximin_DECAT_AJ8OxAL"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>BNP Paribas</strong></td>
-<td>Stage - ALMT Resources Management Officer – H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-almt-resources-management-officer-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE COMMERCE - Développer l’activité commerciale de ton sport (H/F)</td>
-<td>Annecy<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-developper-l-activite-commerciale-de-ton-sport-h-f_seynod_DECAT_kqDYMoZ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>ORSYS</strong></td>
-<td>INGÉNIEUR D&#x27;AFFAIRES EN STAGE - LILLE H/F</td>
-<td>Lille<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/A4ODkKb/jobs/ingenieur-d-affaires-en-stage-lille-h-f_lille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Nightline France</strong></td>
-<td>Stage - Assistant·e de Gestion de Projet Associatif Fresque de la Santé Mentale®</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4RpN20/jobs/stage-assistant-e-de-gestion-de-projet-associatif-fresque-de-la-sante-mentale_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
-</tr>
-<tr>
-<td><strong>Edumiam</strong></td>
-<td>Responsable Développement Stratégique F/H</td>
-<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VqWANxp/jobs/ingenieur-pedagogique_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/70ApANk/jobs/bras-droit-ceo_levallois-perret_CVT_lK4ODb1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong>Groupe Figaro</strong></td>
-<td>Journaliste bien-être stage - H/F</td>
+<td>Chargé(e) de communication interne - Alternance (H/F)</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D4ezvy/jobs/journaliste-bien-etre-stage-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D4ezvy/jobs/charge-de-communication-interne-alternance-h-f_paris_GF_GWZbr07"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
-<td><strong>EY</strong></td>
-<td>Consultant(e) stagiaire en Supply Chain &amp; Operations  - F/H Paris</td>
+<td><strong>ba&amp;sh</strong></td>
+<td>assistant·e comptabilité clients f/h</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Gwee77X/jobs/consultant-stagiaire-en-supply-chain-operations-f-h-paris_paris_EY_RQgrWNw"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JPGX0y4/jobs/assistant-e-comptabilite-clients-f-h_paris_BASH_OAZRJWM"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>11d</td>
 </tr>
 <tr>
-<td><strong>The Mediterranean Food Lab</strong></td>
-<td>Stage Marketing &amp; Communication — SHO</td>
+<td><strong>Pandacraft</strong></td>
+<td>Stage chef de projet CRM / Marketing Digital</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/UnDUA4/jobs/stage-marketing-communication-sho_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XW3g3kK/jobs/assistant-chef-de-projet-crm-marketing-digital-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Framatome</strong></td>
-<td>Ingénieur Sûreté pour la Conception et la Modification des REP F/H</td>
+<td><strong>Natixis</strong></td>
+<td>Stage - 6 mois - Stratégiste ESG</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/o252mmM/jobs/ingenieur-surete-pour-la-conception-et-la-modification-des-rep-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JDQP1gb/jobs/stage-6-mois-strategiste-esg_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>EDF</strong></td>
-<td>Stage - Chargé de mission agrivoltaïque F/H</td>
-<td>Montpellier<br>Occitanie<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/a8KoLro/jobs/charge-de-mission-agrivoltaique-f-h_montpellier"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><strong>Accenture France</strong></td>
+<td>Consultant stagiaire Aéronautique et Défense – F/H – Toulouse</td>
+<td>Blagnac<br>Occitanie<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VRelrW9/jobs/consultant-stagiaire-aeronautique-et-defense-f-h-toulouse_blagnac"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>FINANCIERE APSYS</strong></td>
+<td>Stage - Assistant(e) marketing et communication (F/H)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1ab5m3/jobs/stage-assistant-marketing-et-communication-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Pretto</strong></td>
+<td>Strategy &amp; Operations - stage H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2eK7GDr/jobs/strategy-operations-stage-h-f_paris_PRETT_P0Qq1Pw"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Clio</strong></td>
+<td>Director of Product Management (International)</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/aVe5Vb/jobs/director-of-product-management_fr_svyu3n2t"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong>Hermès</strong></td>
-<td>STAGE - Assistant Coordinateur Artistique - Studio Dessin (H/F)</td>
+<td>STAGE - Assistant Planification &amp; Animation de Projets Immobiliers (H/F)</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-assistant-coordinateur-artistique-studio-dessin-h-f_paris_HERMS_2DZjM87"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-assistant-planification-animation-de-projets-immobiliers-h-f_paris_HERMS_ldJ303W"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Decathlon</strong></td>
-<td>STAGE COMMERCE - Expérience Sportive Client (H/F)</td>
-<td>Vouneuil-sous-Biard<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-experience-sportive-client-h-f_vouneuil-sous-biard_DECAT_NAk67bo"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><strong>Groupement Mousquetaires</strong></td>
+<td>STAGE - Business Analyst H/F</td>
+<td>Vert-le-Grand<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zYeP3MN/jobs/stage-business-analyst-h-f_vert-le-grand_GM_br6Ajqw"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Sonio</strong></td>
-<td>Growth Marketing Intern</td>
+<td><strong>Spendesk</strong></td>
+<td>Business Development Representative Intern</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1WPN2LP/jobs/growth-marketing-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8LGom7d/jobs/business-development-representative-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Schneider Electric</strong></td>
-<td>Stage - Communication externe (Opinions, Eléments de langage, Thought Leadership) - Rueil Malmaison - H/F</td>
-<td>Rueil-Malmaison<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WRUVr2/jobs/stage-communication-externe-opinions-elements-de-langage-thought-leadership-rueil-malmaison-h-f_rueil-malmaison_SE_9DM5kN0"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td><strong>Keolis</strong></td>
+<td>Devenez Conducteurs Receveurs H/F  Formation TP CTCR financée</td>
+<td>Courbevoie<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Q1O1Qdj/jobs/devenez-conducteurs-receveurs-h-f-formation-tp-ctcr-financee_courbevoie"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>KPMG France</strong></td>
-<td>Stagiaire Tax F/H</td>
-<td>Mérignac<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/g0gkx2Z/jobs/stagiaire-tax-f-h_merignac_KF_NYo2Y2W"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
+<td>↳</td>
+<td>Stage - Chargé de mission Amélioration de la Performance des processus F/H</td>
+<td>Courbevoie<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Q1O1Qdj/jobs/stage-charge-de-mission-amelioration-de-la-performance-des-processus-f-h_courbevoie_KEOLI_glm9qpL"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Webedia</strong></td>
-<td>Juriste en Droit des Affaires / Droit du Numérique (H/F)</td>
-<td>Levallois-Perret<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kY8m2rw/jobs/juriste-en-droit-des-affaires-droit-du-numerique-h-f_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>ALADINOO GROUP</strong></td>
-<td>Stage Assistant(e) Chef de Projet Événementiel &amp; Retail Luxe (H/F)</td>
+<td><strong>Crédit Mutuel Arkéa</strong></td>
+<td>Stage - Chargé de clientèle Marché Immobilier HF H/F</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/X3oo6s/jobs/stage-assistant-chef-de-projet-evenementiel-retail-luxe-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zDakzV3/jobs/stage-charge-de-clientele-marche-immobilier-hf-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>VINCI Energies en France</strong></td>
-<td>Stage PFE - Adjoint.e Resp. d&#x27;Affaires - Génie thermique F/H</td>
-<td>Orcines<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GjVpLRX/jobs/stage-pfe-adjoint-e-responsable-d-affaires-genie-thermique_clermont"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><strong>Naboo</strong></td>
+<td>Finance Ops Support FR/EN - Internship - Barcelona</td>
+<td>Barcelona<br>Catalonia<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/9jvT8A/jobs/b2b-customer-support-agent_barcelone"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Safran</strong></td>
-<td>STAGE SSE : Analyse environnementale et plan d&#x27;actions associé F/H</td>
-<td>Châteaudun<br>Centre-Val de Loire<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wRqZadx/jobs/stage-sse-analyse-environnementale-et-plan-d-actions-associe-f-h_chateaudun"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><strong>MEDIAS FRANCE</strong></td>
+<td>Commercial (stage) - F/H</td>
+<td>Clichy<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QRoZXY1/jobs/commercial-stage-f-h_clichy"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
 </tr>
 <tr>
-<td><strong>Etyo</strong></td>
-<td>Juriste droit des affaires _ Stage  F/H</td>
+<td><strong>Les Sherpas</strong></td>
+<td>Sales / Business Developer / SDR - Stage 6 mois - Début ASAP</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DQa2DX/jobs/juriste-droit-des-affaires-_-stage-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/gQp83y8/jobs/business-developper-stage-6-mois-asap_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Greenly</strong></td>
+<td>Brand Designer (Internship)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/743kRr0/jobs/brand-designer-internship_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>SUEZ</strong></td>
+<td>Stage - Chargé(e) d&#x27;opération M&amp;A H/F</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/stage-charge-d-operation-m-a-h-f_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Mexens (ex. Technique Solaire)</strong></td>
+<td>Chef/Cheffe de projet construction H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kVRke3Z/jobs/chef-cheffe-de-projet-construction-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Radio France</strong></td>
+<td>Stage : Chef.fe de projet innovation &amp; rédaction H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Yboa4ee/jobs/stage-chef-fe-de-projet-innovation-redaction-h-f_paris_RF_Jbkzra4"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Ardian</strong></td>
+<td>Sustainability Non Controlling Stage - Janvier 2027 I Paris  (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xQoNRkJ/jobs/sustainability-non-controlling-stage-janvier-2027-i-paris-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Echosens</strong></td>
+<td>Stagiaire Ingénieur Excellence Opérationnelle (H/F)</td>
+<td>Créteil<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/aGnbBs/jobs/stagiaire-ingenieur-excellence-operationnelle-h-f_creteil"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Betclic Group</strong></td>
+<td>IT Workplace Internship F/M</td>
+<td>Sliema<br>Malta</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xo88Lmg/jobs/it-workplace-internship_sliema"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - ESG Analyst F/H</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-esg-analyst-f-h_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Kiabi</strong></td>
+<td>STAGE EXTRACURRICULARE KIABI Marcianise</td>
+<td>Marcianise<br>Campania<br>Italy</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/stage-extracurriculare-kiabi-marcianise_marcianise_KIABI_mb1LbVe"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>Faume</strong></td>
+<td>Chef de projet transverse</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ORKYPNa/jobs/chef-de-projet-transverse_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>TVMonaco</strong></td>
+<td>Stage - chargé(e) de communication</td>
+<td>Monaco<br>Monaco</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/jVg1Ix/jobs/stage-charge-de-communication_monaco"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong>VINCI Construction</strong></td>
-<td>Stage PFE - Ingénieur.e études de prix bâtiment F/H</td>
-<td>Cayenne<br>Guyane<br>French Guiana</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/stage-pfe-ingenieur-e-etudes-de-prix-batiment-f-h_cayenne_VC_rgZ6Myd"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td>Assistant Chief Operating Officer</td>
-<td>La Défense<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/assistant-chief-operating-officer_la-defense_SG_8R2LkJ8"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
+<td>Conducteur de travaux stagiaire F/H</td>
+<td>Chooz<br>Grand Est<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/conducteur-de-travaux-stagiaire-f-h_chooz"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong>Decathlon</strong></td>
+<td>STAGE COMMERCE - Vendeur(se) (H/F)</td>
+<td>Saint-Doulchard<br>Centre-Val de Loire<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-vendeur-se-h-f_saint-doulchard"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>STAGE COMMERCE - Développer l’activité commerciale de ton sport (H/F)</td>
-<td>Thiais<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-developper-l-activite-commerciale-de-ton-sport-h-f_thiais_DECAT_d52bq7"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Villefranche-sur-Saône<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-developper-l-activite-commerciale-de-ton-sport-h-f_villefranche-sur-saone_DECAT_q71pVjy"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>STAGE COMMERCE - Développer l’activité commerciale de ton sport (H/F)</td>
+<td>Pornic<br>Loire Region<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-developper-l-activite-commerciale-de-ton-sport-h-f_pornic"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Candidature spontanée -STAGE-</td>
+<td>Yutz<br>Grand Est<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/candidature-spontanee-cdi-cdd-alternance-stage_yutz_DECAT_KlzKqqj"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>In Extenso</strong></td>
+<td>Responsable comptable interne H/F</td>
+<td>La Tronche<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LO7WsD/jobs/responsable-comptable-interne-h-f_la-tronche_IE_1dDK6e6"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Responsable Comptable Interne H/F</td>
+<td>Marnaz<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LO7WsD/jobs/responsable-comptable-interne-h-f_marnaz_IE_40yeXoQ"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Responsable comptable interne H/F</td>
+<td>Montélimar<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LO7WsD/jobs/responsable-comptable-interne-h-f_montelimar"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>Rewake</strong></td>
+<td>Stage - Bras droit CEO - Economie circulaire</td>
+<td>Montreuil<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ElVD3U/jobs/stage-business-development-b2b-startup_montreuil"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>Groupe M6</strong></td>
+<td>Stage | Assistant(e) régie H/F</td>
+<td>Neuilly-sur-Seine<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MqYxDrN/jobs/stage-assistant-regie-h-f_neuilly-sur-seine"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>SYSNAV</strong></td>
+<td>Physique - Comportement d&#x27;un Baromètre - Amélioration des Algorithmes de Navigation en Z - F/H</td>
+<td>Vernon<br>Normandy<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/rdz8oLR/jobs/investigation-et-modelisation-du-comportement-d-un-barometre-face-a-des-changements-drastiques-de-temperatures-pour-l-amelioration-des-algorithmes-de-navigation-en-z_vernon_SYSNA_k7lQp0W"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>GLOBE GROUPE FRANCE</strong></td>
+<td>Assistant Planning Stratégique &amp; Brand Activation - Stage - H/F</td>
+<td>Neuilly-sur-Seine<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/gCArzw/jobs/assistant-planning-strategique-brand-activation-stage-h-f_neuilly-sur-seine"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>Pollen</strong></td>
+<td>AI Transformation - Stage (Paris)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/6kEtEq/jobs/ai-transformation-stage-paris_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>ManoMano</strong></td>
+<td>Second Life Operations &amp; Sales Assistant - M/W</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ObVAP/jobs/second-life-operations-sales-assistant-m-w_paris_MANOM_26VOGXO"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Worklife</strong></td>
+<td>FinOps Intern – FP&amp;A &amp; Data (F/H)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WzZ500r/jobs/finops-intern-fp-a-data-f-h_paris_WORKL_j6A1y5a"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>SUEZ</strong></td>
+<td>Stage - Chargé de projets Energies &amp; Carbone - H/F</td>
+<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/stage-charge-de-projets-energies-carbone-h-f_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Entreprises engagées</strong></td>
+<td>Alternance / Stage - Chargé(e) de Marketing et Communication RSE</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NMbNNr/jobs/atlernance-ou-stage-charge-de-projets-marketing-et-communication-rse_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Keemia</strong></td>
+<td>Assistant.e Chef de Projet Événementiel Stage de 6 mois · Bordeaux (33) · À partir de juillet</td>
+<td>Cenon<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7gWz633/jobs/assistant-e-chef-de-projet-evenementiel-stage-de-6-mois-bordeaux-33-a-partir-de-juillet_cenon_KEEMI_0gPXp7l"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Trustpair</strong></td>
+<td>Talent Acquisition Intern/Apprentice M/F/Mx</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YDX6P5e/jobs/talent-acquisition-intern-apprentice-m-f-mx_paris_TRUST_G38lDXA"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>VINCI Construction</strong></td>
+<td>Chargé de communication F/H</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/charge-de-communication-f-h_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Artefact</strong></td>
+<td>Data Consultant Intern - (Indonesia, Jakarta)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/klOYyoz/jobs/data-consultant-intern-indonesia-jakarta_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - Juriste Droit des Contrats H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/juriste-droit-des-contrats-h-f_paris_BP_zy456OL"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>Legal Assistant H/F</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/legal-assistant-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Chargé(e) de développement junior H/F</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/charge-de-developpement-junior-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Metiga</strong></td>
+<td>Stage - Chargé.e de recrutement</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8sIMnV/jobs/stage-charge-e-de-recrutement_paris_METIG_5ARM4pL"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Growth Room</strong></td>
+<td>Stage fin d&#x27;études - Consultant(e) junior en stratégie digitale - SEA / Social Ads</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GVKZW8y/jobs/stage-junior-growth-specialist_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>muchbetter.ai</strong></td>
+<td>Stage - Marketing &amp; Communication</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GeGpI2/jobs/stage-marketing-communication_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Carrefour</strong></td>
+<td>Data/Business Analyst Pricing - (F/H) en stage</td>
+<td>Massy<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qbeJpY5/jobs/data-business-analyst-pricing-f-h-en-stage_massy_CARRE_wYQRr1Z"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>Apprentis d&#x27;Auteuil</strong></td>
+<td>Éducateur(trice) d&#x27;internat scolaire</td>
+<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/TkcSTw/jobs/educateur-trice-d-internat-scolaire_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>Planon</strong></td>
+<td>Legal Stage (WO)</td>
+<td>Nijmegen<br>Gelderland<br>Netherlands</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XmH1i7/jobs/legal-stage-wo_nijmegen_PLANO_836OL6K"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>Groupe SII</strong></td>
+<td>Stage Ingénieur.e Logiciel Vérification et Validation (F/H)</td>
+<td>Vélizy-Villacoublay<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/5p9XmWL/jobs/stage-ingenieur-e-logiciel-verification-et-validation-f-h_velizy-villacoublay"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>Chef de projet H/F</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/chef-de-projet-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td>Assistant.e Chargé.e d&#x27;Affaires Entreprise</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/assistant-e-charge-e-d-affaires-entreprise_paris_SG_DpX7mWX"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td>Stagiaire Transaction Services - Immobilier (F/H)</td>
+<td>Casablanca<br>Casablanca - Settat<br>Morocco</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stagiaire-transaction-services-immobilier-f-h_casablanca"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Excellence Track Program : stage ingénieur fin d’études – Parcours audit financier/ESG – Paris La Défense F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/excellence-track-program-stage-ingenieur-fin-d-etudes-parcours-audit-financier-esg-paris-la-defense-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Ingénieurs Audit Financier SFE - Toulouse F/H</td>
+<td>Toulouse<br>Occitanie<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/ingenieurs-audit-financier-f-h-sfe-toulouse_toulouse"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>17d</td>
+</tr>
+<tr>
+<td><strong>Scale AI</strong></td>
+<td>AI Builder Intern</td>
+<td>New York<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NVvUnD/jobs/ai-builder-intern_san-francisco_jfo7pad2"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>RTE, Le réseau de transport d&#x27;électricité</strong></td>
+<td>Stagiaire BAC+4/BAC+5, Stagiaire Affaires industrielles</td>
+<td>La Défense<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/q8GOo45/jobs/stagiaire-bac-4-bac-5-stagiaire-affaires-industrielles_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>PMU</strong></td>
+<td>Stage - Chargé de Marketing Client Hippique H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qybVJyV/jobs/stage-charge-de-marketing-client-hippique-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Auum</strong></td>
+<td>Stage Community Management</td>
+<td>Châtillon<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wPXzak8/jobs/stage-community-management_chatillon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Natixis</strong></td>
+<td>Stage - 6 mois - Juriste financier F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JDQP1gb/jobs/stage-6-mois-juriste-financier-f-h_paris_NATIX_klZLomZ"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>Générale du Solaire</strong></td>
+<td>Stage – Data Analyst - Stockage &amp; innovation (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Dqxz5I/jobs/stage-data-analyst-stockage-innovation-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>LOOK UP</strong></td>
+<td>Stage - Juriste Droit Social (H/F)</td>
+<td>Toulouse<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/djuEtD/jobs/stage-juriste-droit-social-h-f_toulouse"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>BIOCODEX</strong></td>
+<td>Stagiaire Ingénieur -Tous genres-</td>
+<td>Beauvais<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kMjM963/jobs/stagiaire-ingenieur-tous-genres_beauvais"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>Framatome</strong></td>
+<td>Stage ou Alternance - Gestion de projet et logistique industrielle F/H</td>
+<td>Saint-Marcel<br>Bourgogne-Franche-Comte<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/o252mmM/jobs/stage-gestion-de-projet-et-logistique-industrielle-f-h_saint-marcel_FRAMA_xGy6RGg"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>Braze</strong></td>
+<td>Senior Internal Auditor</td>
+<td>Austin<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JNGHL1/jobs/senior-internal-auditor_austin_pz5hbbtq"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>PKF Arsilon</strong></td>
+<td>Stage en Evaluation Financière - Septembre 2026 H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/0lO99O/jobs/stage-en-evaluation-financiere-septembre-2026-h-f_paris_PA_8G7QPRV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>ba&amp;sh</strong></td>
+<td>assistant·e visuel merchandising f/h</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JPGX0y4/jobs/assistant-e-visuel-merchandising-f-h_paris_BASH_LqNzpGy"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>Safran</strong></td>
+<td>Apprenti.e Chargé.e de Missions en Contrôle interne F/H</td>
+<td>Plaisir<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wRqZadx/jobs/apprenti-e-charge-e-de-missions-en-controle-interne-f-h_plaisir"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Groupe Crédit Agricole</strong></td>
+<td>Alternant Chargé d&#x27;action en communication interne H/F</td>
+<td>Villejuif<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/alternant-charge-d-action-en-communication-interne-h-f_villejuif"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Opteven</strong></td>
+<td>Stage Assistant Commercial Business Développer F/H</td>
+<td>Villeurbanne<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/aYs0UY/jobs/stage-assistant-commercial-business-developper-f-h_villeurbanne_OPTEV_ZDD9906"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>AXA</strong></td>
+<td>Chargé de comptes clients internationaux (F/H)</td>
+<td>Fontenay-sous-Bois<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/charge-de-comptes-clients-internationaux-f-h_fontenay-sous-bois"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>AXA Health - Alternant Chargé de Gestion International F/H</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/axa-health-alternant-charge-de-gestion-international-f-h_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Ligue de Football Professionnel</strong></td>
+<td>Stage - Assistant(e) études marketing (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/k7j6Yq2/jobs/stage-assistant-etudes-marketing-h-f_paris_LDFP_5zxWO42"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Médiamétrie</strong></td>
+<td>Alternance - Assistant Chargé d&#x27;Etudes et de veille programmes audiovisuels internationaux (F/H)</td>
+<td>Levallois-Perret<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qVp2MXN/jobs/alternance-assistant-charge-d-etudes-et-de-veille-programmes-audiovisuels-internationaux-f-h_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Hopening Groupe</strong></td>
+<td>🎬 STAGE ASSISTANT.E CRÉATION DIGITALE “GRANDES CAUSES”</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3iWsJV/jobs/stage-assistant-e-creation-digitale-grandes-causes_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Hectarea</strong></td>
+<td>Stage - Business Developer</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RewVjk/jobs/stage-developpeur-fullstack_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
 <td><strong>RITZ PARIS</strong></td>
-<td>Stage Bar Hemingway H/F</td>
+<td>Stage Bar Vendôme H/F</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/cJvle6/jobs/stage-bar-hemingway-h-f_paris_RP_jqx9XPJ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/cJvle6/jobs/stage-bar-vendome-h-f_paris_RP_KeGMpoR"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Stage Boulangerie H/F</td>
+<td>Stage Sommellerie H/F</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/cJvle6/jobs/stage-boulangerie-h-f_paris_RP_JXGyyVV"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/cJvle6/jobs/stage-sommellerie-h-f_paris_RP_b6zyoNW"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
-<td><strong>Redion Holding</strong></td>
-<td>Contrôleur de gestion international // International Expenses Controller</td>
+<td>↳</td>
+<td>Stage Cuisine H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/cJvle6/jobs/stage-cuisine-h-f_paris_RP_r98YlJ1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Nodalview</strong></td>
+<td>Frontend Developer Junior or Intern</td>
+<td>Saint-Gilles<br>Brussels<br>Belgium</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1pwR5Lw/jobs/frontend-developer-junior-or-intern_bruxelles"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Præmia REIM</strong></td>
+<td>Stage - Juriste Corporate H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Dk8PjS/jobs/stage-juriste-corporate-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Etablissement français du sang</strong></td>
+<td>STAGE - Chargé de mission au cabinet de la présidence F/H</td>
 <td>Saint-Denis<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NTnPla/jobs/controleur-de-gestion-international-international-expenses-controller_saint-denis"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>ArianeGroup</strong></td>
-<td>CDI - Responsable Commercial(e) France &amp; International Défense / Spatial (F/H)</td>
-<td>Les Mureaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/cdi-responsable-commercial-france-international-defense-spatial-f-h_les-mureaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>Groupe Figaro</strong></td>
-<td>Assistant Chef de Projet Publicités Stage - H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D4ezvy/jobs/assistant-chef-de-projet-publicites-stage-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/61gM3WV/jobs/stage-charge-de-mission-au-cabinet-de-la-presidence-f-h_la-plaine-saint-denis_EFDS_JlmWXeb"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>22d</td>
 </tr>
 <tr>
-<td><strong>Auchan</strong></td>
-<td>Stage Assistant produits jouets F/H</td>
-<td>Villeneuve-d'Ascq<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kMyke5e/jobs/stage-assistant-produits-jouets-f-h_villeneuve-d-ascq"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - Regulatory &amp; Risk Organizer H/F</td>
+<td>Pantin<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-regulatory-risk-organizer-h-f_pantin"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>Voyage Privé</strong></td>
+<td>Chargé(e) de projets événementiels</td>
+<td>Aix-en-Provence<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WMg7ber/jobs/charge-de-projets-evenementiels_aix-en-provence"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>TBWA\GROUPE</strong></td>
+<td>Stage - Assistant.e Chargé.e de Production F/M - TBWA Paris</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7XwL0c/jobs/stage-assistant-e-charge-e-de-production-f-m-tbwa-paris_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>VONA</strong></td>
+<td>Stage fin d&#x27;études - Consultant.e IA/DATA</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ywzggQO/jobs/stage-fin-d-etudes-consultant-e-ia-et-cybersecurite_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>mk2</strong></td>
+<td>Assistant.e acquisitions F/H - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VgWX9Y/jobs/assistant-e-acquisitions-f-h-stage_paris_MK2_4ZbqJe8"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>22d</td>
 </tr>
 <tr>
 <td><strong>Deloitte</strong></td>
-<td>Stage de fin d&#x27;études : Conseil en rémunération F/H</td>
+<td>Avocat expérimenté en Fiscalité des entreprises / Fiscalité internationale F/H</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-de-fin-d-etudes-conseil-en-remuneration-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>PMU</strong></td>
-<td>Stage – Contrôleur et Auditeur Interne H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qybVJyV/jobs/stage-controleur-et-auditeur-interne-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>Générale du Solaire</strong></td>
-<td>Internship - Junior PV engineer - Italy</td>
-<td>Milan<br>Lombardy<br>Italy</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Dqxz5I/jobs/pv-electrical-engineer-italy_milano"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/avocat-experimente-en-fiscalite-des-entreprises-fiscalite-internationale-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>23d</td>
 </tr>
 <tr>
-<td><strong>ba&amp;sh</strong></td>
-<td>assistant·e brand content e-commerce f/h</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JPGX0y4/jobs/assistant-e-brand-content-e-commerce-f-h_paris_BASH_rGyekjO"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>My Job Glasses</strong></td>
-<td>Stage 6 mois - Data Analyst - Edtech à impact</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/jdWkba/jobs/stage-6-mois-data-analyst-edtech-a-impact_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>Dynergie</strong></td>
-<td>Chargé de Veille - Stage F/H</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/k3aoOXo/jobs/charge-de-veille-stage-f-h_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>BNP Paribas Real Estate</strong></td>
+<td>Stage &quot; Chargé(e) de projets digitaux &quot; (H/F)</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1pNkrqL/jobs/stage-charge-de-projets-digitaux-h-f_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>23d</td>
 </tr>
 <tr>
 <td><strong>Hermès</strong></td>
-<td>Stage - Assistant Développement Matières Cuirs (H/F)</td>
-<td>Pantin<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-assistant-developpement-matieres-cuirs-h-f_pantin_HERMS_xYKOxy1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Stagiaire Stratégie IT - Organisation et Performance de la DSI F/H</td>
+<td>STAGE - Juriste Droit des Affaires Direction Juridique Retail HI (H/F)</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stagiaire-strategie-it-organisation-et-performance-de-la-dsi-f-h_paris-la-defense_DELOI_zM7q4rM"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>L&#x27;Étincelle</strong></td>
-<td>Stage - Chargé.e campus - Aubervilliers</td>
-<td>Aubervilliers<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/nWS3hm/jobs/coordination-pedagogique-campus-aubervilliers-stage_aubervilliers"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>Abeille Assurances (Aéma Groupe)</strong></td>
-<td>Stage | Assistant Marketing / Parcours digitaux et expérience clients H-F</td>
-<td>Bois-Colombes<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/gsKaaL/jobs/stage-assistant-marketing-parcours-digitaux-et-experience-clients-h-f_bois-colombes"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-juriste-droit-des-affaires-direction-juridique-retail-hi-h-f_paris_HERMS_VX3yMX2"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>24d</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td>Chef de projet RH - Copilot</td>
-<td>La Défense<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/chef-de-projet-rh-copilot_la-defense"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>24d</td>
-</tr>
-<tr>
-<td><strong>Groupement Mousquetaires</strong></td>
-<td>STAGE - Chargé de communication H/F</td>
-<td>Pagny-sur-Meuse<br>Grand Est<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zYeP3MN/jobs/stage-charge-de-communication-h-f_pagny-sur-meuse_GM_eNKLmVm"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
 </tr>
 <tr>
 <td><strong>Deloitte</strong></td>
 <td>Stage Conseil en Transformation F/H</td>
-<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-conseil-en-transformation-f-h_bordeaux_DELOI_R9gxVzD"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage de fin d&#x27;études - Monitor Deloitte - Conseil en Stratégie (F/H)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/monitor-deloitte-stage-de-fin-d-etudes-conseil-en-strategie-h-f_paris-la-defense_DELOI_W1bXxbW"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Crédit Agricole CIB</strong></td>
-<td>Chargé(e) de projet SIRH paie H/F</td>
-<td>Saint-Quentin<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/charge-de-projet-sirh-paie-h-f_saint-quentin"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Stage Conseil en Transformation F/H</td>
-<td>Nantes<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-conseil-en-transformation-f-h_nantes_DELOI_0jrAKOk"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Sinteo</strong></td>
-<td>STAGE Ingénieur en Bâtiment durable et Efficacité énergétique F/H</td>
-<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/nqAo5u/jobs/stage-ingenieur-en-batiment-durable-et-efficacite-energetique-f-h_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Dedale Intelligence</strong></td>
-<td>People Operations &amp; International Expansion Manager (CDI)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/M6wj4Zz/jobs/talent-acquisition-career-development-internship_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Morning</strong></td>
-<td>Assistant·e Morning Manager (Business &amp; Opérations) - Stage</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/z1RdzL3/jobs/business-manager-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Leboncoin</strong></td>
-<td>Assistant Communication Interne &amp; Engagement Collaborateurs (H/F/N)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/o22V05K/jobs/assistant-communication-interne-engagement-collaborateurs-h-f-n_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>ManoMano</strong></td>
-<td>FP&amp;A Assistant - Revenue &amp; Marketing - Internship</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ObVAP/jobs/fp-a-assistant-revenue-marketing-internship_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Tevali Partners</strong></td>
-<td>M&amp;A/LBO/Levée de fonds – Industrie &amp; Services énergétiques (stage)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/9qdvsN/jobs/m-a-lbo-levee-de-fonds-industrie-services-energetiques-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>DESCOURS &amp; CABAUD</strong></td>
-<td>Stage Ouvrier (F/H)</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MQaMrpV/jobs/stage-ouvrier-f-h_lyon_DC_e35o5XK"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>OVHcloud</strong></td>
-<td>STAGE septembre 2026 - Ingénieur R&amp;D refroidissement en Datacenter F/H/N</td>
-<td>Croix<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NPxYN4o/jobs/stage-septembre-2026-ingenieur-r-d-refroidissement-en-datacenter-f-h-n_croix_OVHCL_WrwzGLV"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>BNP Paribas</strong></td>
-<td>Stage - Assistant(e) Chef de projet - H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-assistant-chef-de-projet-h-f_paris_BP_gNegexw"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>Groupe TF1</strong></td>
-<td>STAGE - Assistant Programmation Cellule invités Semaine H/F</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NbDLM4D/jobs/stage-assistant-programmation-cellule-invites-semaine-h-f_boulogne-billancourt_GT_yZed7q6"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>Zelty</strong></td>
-<td>Chargé(e) de Projets IA &amp; Low code</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qPLO00r/jobs/charge-de-projets-ia-low-code_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>Groupe TF1</strong></td>
-<td>STAGE - Ingénieur Développement Stratégie Technique H/F</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NbDLM4D/jobs/stage-ingenieur-developpement-strategie-technique-h-f_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>STAGE - Juriste Publicité et Datech H/F</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NbDLM4D/jobs/stage-juriste-publicite-et-datech-h-f_boulogne-billancourt_GT_ayJwr3o"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>26d</td>
-</tr>
-<tr>
-<td><strong>CLASQUIN</strong></td>
-<td>Agent de transit international - Congrès, Foires et Salons&amp; Events (H/F)</td>
-<td>Villepinte<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VpoDqW/jobs/international-road-logistics-coordinator-fairs-and-exhibitions-coordinateur-logistique-route-internationale-foires-et-expositions-h-f_villepinte"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Groupe Crédit Agricole</strong></td>
-<td>STAGE - Assistant(e) de communication H/F</td>
-<td>Montrouge<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-assistant-de-communication-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>d-Matrix</strong></td>
-<td>Applied AI Engineering Intern</td>
-<td>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mD42GN/jobs/applied-ai-engineering-intern_fr_kwylvxvu"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>The Adecco Group</strong></td>
-<td>Chargé de recrutement en stage H/F</td>
-<td>Brest<br>Brittany<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-en-stage-h-f_brest"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Thales</strong></td>
-<td>International Sales Manager SatCom (H/F)</td>
-<td>Gennevilliers<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/international-sales-manager-satcom-h-f_gennevilliers"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>VINCI Construction</strong></td>
-<td>PFE 2027 Gérer efficacement les chantiers en tant que conducteur·rice de travaux POITIERS F/H</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/pfe-2027-gerer-efficacement-les-chantiers-en-tant-que-conducteur-rice-de-travaux-poitiers-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>PFE 2027 Gérer efficacement les chantiers en tant que conducteur·rice de travaux OLORON SAINTE MARIE F/H</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/pfe-2027-gerer-efficacement-les-chantiers-en-tant-que-conducteur-rice-de-travaux-oloron-sainte-marie-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>PFE 2027 Gérer efficacement les chantiers en tant que conducteur·rice de travaux SEC TP F/H</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/pfe-2027-gerer-efficacement-les-chantiers-en-tant-que-conducteur-rice-de-travaux-sec-tp-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Safran Aircraft Engines</strong></td>
-<td>STAGE - Conversion SAMCEF vers ANSYS de modèles mécaniques 2D axi et/ou 3D F/H</td>
-<td>Corbeil-Essonnes<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ARApbzo/jobs/stage-conversion-samcef-vers-ansys-de-modeles-mecaniques-2d-axi-et-ou-3d-f-h_moissy-cramayel"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Civils de la Défense - Ministère des Armées et des Anciens combattants</strong></td>
-<td>TRAITANT ATELIER DOSSIERS TRANSVERSES</td>
-<td>Nancy<br>Grand Est<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/baJevK/jobs/traitant-atelier-dossiers-transverses_nancy_CDLDMDA_NDo3oeL"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Sinteo</strong></td>
-<td>STAGE Ingénieur en Bâtiment durable et Efficacité énergétique F/H</td>
-<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/nqAo5u/jobs/stage-ingenieur-en-batiment-durable-et-efficacite-energetique-f-h_bordeaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Deloitte Luxembourg</strong></td>
-<td>Intern for our Fund Industry Strategy &amp; Business Design team</td>
-<td>Hesperange<br>Luxembourg</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GToSe1/jobs/intern-for-our-fund-industry-strategy-business-design-team_luxembourg"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>JAKALA</strong></td>
-<td>Marketing &amp; Data Strategy - Stage</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/gG83bW8/jobs/marketing-data-strategy-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Diptyque paris</strong></td>
-<td>Stage - Assistant développement Packaging H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RkGkYNA/jobs/stage-assistant-developpement-packaging-h-f_paris_DP_r99za50"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>DayOff</strong></td>
-<td>Stage – Customer Success</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LoOVYA9/jobs/stage-customer-success-service-client_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>Artelia</strong></td>
-<td>Cheffe / Chef de projet réseaux électriques - International</td>
-<td>Échirolles<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/cheffe-chef-de-projet-reseaux-electriques-international_echirolles"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>COWOOL</strong></td>
-<td>STAGIAIRE REVENUE MANAGER H/F (COWOOL)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/5Bbf9n/jobs/stagiaire-revenue-manager-h-f-cowool_paris_COWOO_zR3zLGy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>Ipsos</strong></td>
-<td>Stage - Chargé.e d&#x27;Études Média, Telecom, Entertainment (F/H/NB)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VRQZD2Q/jobs/stage-charge-e-d-etudes-media-telecom-entertainment-f-h-nb_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>ANGARDE</strong></td>
-<td>Assistant.e Experience Client</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/99Kw7wP/jobs/assistant-e-experience-client_paris_ANGAR_eDY7kAZ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>Département Du Val D&#x27;Oise</strong></td>
-<td>Stagiaire chargé de coordination des projets jeunesse et égalité des chances  F/H</td>
-<td>Cergy<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/EWHqq7/jobs/stagiaire-charge-de-coordination-des-projets-jeunesse-et-egalite-des-chances-f-h_cergy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>Ekstend Group</strong></td>
-<td>Stage-Assistant(e) Marketing Opérationnel Skoda H/F</td>
-<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dJ8AVPr/jobs/stage-assistant-marketing-operationnel-h-f_marseille_EG_1GQl1W5"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>CLASQUIN</strong></td>
-<td>Agent de Transit Route Internationale H/F</td>
-<td>Villefranche-sur-Saône<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VpoDqW/jobs/agent-de-transit-route-internationale-h-f_villefranche-sur-saone"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>Anybuddy</strong></td>
-<td>Stage - Assistant Responsable du Support Client  (H/F)</td>
-<td>Lille<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/oViYIS/jobs/stage-operationnel-placement-des-reservations-support-client-h-f_lille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>emlyon business school</strong></td>
-<td>Stage-Juriste F/H</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/597Kj2/jobs/stage-juriste-f-h_lyon_EBS_YqookD2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>Carrefour</strong></td>
-<td>Trésorier Front Office - en stage (F/H)</td>
-<td>Massy<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qbeJpY5/jobs/tresorier-front-office-en-stage-f-h_massy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>Civils de la Défense - Ministère des Armées et des Anciens combattants</strong></td>
-<td>RESPONSABLE DE LA COORDINATION ET DU CONTROLE INTERNE</td>
-<td>Saint-Germain-en-Laye<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/baJevK/jobs/responsable-de-la-coordination-et-du-controle-interne_saint-germain-en-laye"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>30d</td>
-</tr>
-<tr>
-<td><strong>VINCI Construction</strong></td>
-<td>Stage / PFE - Conducteur.rice de Travaux TP / Enrobé F/H</td>
-<td>Cayenne<br>Guyane<br>French Guiana</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/stage-pfe-conducteur-rice-de-travaux-tp-enrobe-f-h_cayenne"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>OVHcloud</strong></td>
-<td>Internship HR/Office Manager (m/f/x) - 3 Monate</td>
-<td>Cologne<br>North-Rhine-Westphalia<br>Germany</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NPxYN4o/jobs/internship-hr-office-manager-m-f-x-3-monate_koln"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td>Product Development Intern (Intern)</td>
-<td>San Jose<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/product-development-intern-intern_san-jose_xscqxvqy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Whatnot</strong></td>
-<td>International Recruiter</td>
-<td>Dublin<br>Ireland</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PmP0BT/jobs/international-recruiter-operations_dublin_6s4zl6wz"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>The Adecco Group</strong></td>
-<td>STAGE ASSISTANT RECRUTEMENT H-F H/F</td>
-<td>Aix-en-Provence<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stage-assistant-recrutement-h-f-h-f_aix-en-provence_TAG_Ay7RGyb"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Groupe VYV</strong></td>
-<td>Stage 4/6 mois - Chargé(e) de projets RH H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dxUciQ/jobs/stage-4-6-mois-charge-de-projets-rh-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Kern Consulting</strong></td>
-<td>Stagiaire IA Générative - Identification et mise en oeuvre de cas d&#x27;usage F/H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Uw6g7p/jobs/stagiaire-ia-generative-identification-et-mise-en-oeuvre-de-cas-d-usage-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Groupe EBRA</strong></td>
-<td>Stagiaire Documentaliste H/F - Le Dauphiné Libéré - Veurey Voroize</td>
-<td>Veurey-Voroize<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fw56jl/jobs/stagiaire-documentaliste-h-f_veurey-voroize"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>JJA</strong></td>
-<td>Stage de pré-embauche Administrateur SIRH / Workday (H/F)</td>
-<td>Gonesse<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZyXymkr/jobs/stage-de-pre-embauche-administrateur-sirh-workday-h-f_gonesse"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Wise</strong></td>
-<td>Data Analyst - Internal Audit</td>
-<td>Tallinn<br>Estonia</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VWab97/jobs/data-analyst-internal-audit_tallin_WISE_97Ppbe1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Ligue de Football Professionnel</strong></td>
-<td>Stage -  Assistant(e) Communication Relation Fans (H/F)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/k7j6Yq2/jobs/lfp-media-offre-de-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Removall</strong></td>
-<td>Stage de fin d&#x27;étude - Data &amp; Business Intelligence Analyst for Nature</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1qs1oe/jobs/stage-data-business-intelligence-analyst-for-nature_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Payflows</strong></td>
-<td>Marketing Intern</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Umic7U/jobs/marketing-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Mistral Ai</strong></td>
-<td>Director of Internal Control</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ualpKW/jobs/director-of-internal-control_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>VINCI Construction</strong></td>
-<td>STAGE  TFE/PFE -  Assistant  Conducteur de travaux F/H</td>
-<td>Nice<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/stage-tfe-pfe-assistant-conducteur-de-travaux-f-h_nice_VC_l0b92ox"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>IDEALWINE</strong></td>
-<td>Assistant(e) Marketing et Communication  Stage (6 mois)</td>
-<td>Colombes<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/H1HsZv/jobs/assistant-marketing-et-communication-stage-6-mois_colombes_IDEAL_edob54V"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>muchbetter.ai</strong></td>
-<td>Stage - Business Development &amp; Sales Ops</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GeGpI2/jobs/stage-marketing-growth-hacking_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>CAMPING-CAR PARK</strong></td>
-<td>Stagiaire Administration Commerciale &amp; Qualité CRM</td>
-<td>Pornic<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/h9xCfv/jobs/stagiaire-administration-commerciale-qualite-crm_pornic"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Mon Petit Placement</strong></td>
-<td>Chargé d&#x27;affaires h/f</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JjrqbPw/jobs/charge-d-affaires-h-f_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Commercial h/f</td>
-<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JjrqbPw/jobs/commercial-h-f_lyon_MPP_ZJPzyz3"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>KOLABS GROUP</strong></td>
-<td>Stage - Agentic AI &amp; Automatisation (Paris)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ed1NlPZ/jobs/stage-agentic-ai-automatisation-paris_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Glimpact</strong></td>
-<td>Stage Ingénieur analyse cycle de vie</td>
-<td>Brussels<br>Brussels<br>Belgium</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bllzR8/jobs/stage-ingenieur-analyse-cycle-de-vie_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>WAX</strong></td>
-<td>Chief of staff / Bras droit CEO (stage/alternance)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7p7ahe/jobs/chief-of-staff-bras-droit-ceo-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Lambda</strong></td>
-<td>Security Engineering Intern (Summer 2026)</td>
-<td>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/J5eoW0/jobs/security-engineering-intern-summer-2026_us_qwlvohwg"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td>Assistant Chef de projet - Filière Finance</td>
-<td>La Défense<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/assistant-chef-de-projet-filiere-finance_la-defense_SG_PoJV4KP"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Disneyland® Paris</strong></td>
-<td>Praktikum im Bereich Marketing, Disneyland® Paris</td>
-<td>Munich<br>Bavaria<br>Germany</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/R0r0MoA/jobs/praktikum-im-bereich-marketing-disneyland-paris_munich_DP_q8D43xq"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Webedia</strong></td>
-<td>Assistant(e) suivi contenus social media / Design graphique (H/F)</td>
-<td>Levallois-Perret<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kY8m2rw/jobs/assistant-suivi-contenus-social-media-design-graphique-h-f_levallois-perret"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Nash</strong></td>
-<td>Full Stack Engineering Intern</td>
-<td>San Francisco<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fPW4Bh/jobs/full-stack-engineering-intern_san-francisco_4tdt4cln"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Evera</strong></td>
-<td>Marketing &amp; Acquisition manager H/F - Stage</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/HnLs5U/jobs/brand-content-marketing-h-f-stage"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Castalie</strong></td>
-<td>Stagiaire Chief of Staff F/H</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wwg46aZ/jobs/stagiaire-chief-of-staff-f-h_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>TBWA\GROUPE</strong></td>
-<td>Stage - Assistant.e Chef.fe de Publicité F/M - TBWA Paris</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7XwL0c/jobs/stage-assistant-e-chef-fe-de-publicite-f-m-tbwa-paris_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Deloitte Luxembourg</strong></td>
-<td>Senior Manager in International Corporate Tax</td>
-<td>Hesperange<br>Luxembourg</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GToSe1/jobs/senior-manager-in-international-corporate-tax_luxembourg_DL_K395q8j"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Toast</strong></td>
-<td>International Financial Technology Counsel</td>
-<td>London<br>United Kingdom</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/sLjAlJ/jobs/international-financial-technology-counsel_london_5aohaasd"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>The Adecco Group</strong></td>
-<td>Chargé de Recrutement en Stage H/F</td>
-<td>Montoir-de-Bretagne<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-en-stage-h-f_montoir-de-bretagne"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>STAGIAIRE CHARGÉ(E) DE RECRUTEMENT H/F</td>
-<td>Allenjoie<br>Bourgogne-Franche-Comte<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stagiaire-charge-e-de-recrutement-h-f_allenjoie_TAG_2DeNpwz"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>L&#x27;Oréal Groupe</strong></td>
-<td>STAGE 6 MOIS - À partir de juillet 2026 - TALENT ACQUISITION- Master ½ - 1700€/mois</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/85DZZr7/jobs/stage-6-mois-a-partir-de-juillet-2026-metier-master-1700-mois_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>ArianeGroup</strong></td>
-<td>STAGE DE CESURE - Ingénieure / Ingénieur en production - Conduite démarche 5S et amélioration continue</td>
-<td>Vernon<br>Normandy<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/stage-de-cesure-ingenieure-ingenieur-en-production-conduite-demarche-5s-et-amelioration-continue_vernon"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td>HAVAS PARIS - STAGE - STAGE CONTENT MANAGER ( F/H)</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-paris-stage-stage-content-manager-f-h_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Groupe EBRA</strong></td>
-<td>STAGE - ATTACHE(E) DE PRESSE - H/F - EBRA Events</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fw56jl/jobs/stage-attache-e-de-presse-h-f-ebra-events_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Kelio</strong></td>
-<td>Expert Support Technique &amp; Beta-Tests Internationaux H/F</td>
-<td>Cholet<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XzGQOo2/jobs/expert-support-technique-beta-tests-internationaux-h-f_cholet_KELIO_V46LKkJ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Craft AI</strong></td>
-<td>Stage Commercial BDR Agents IA</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JoJzxVb/jobs/stage-commercial-bdr-agents-ia_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>FLYING WHALES</strong></td>
-<td>INTERNSHIP - SAFETY ENGINEER</td>
-<td>Suresnes<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dy3im5/jobs/internship-safety-engineer_suresnes"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>DNG</strong></td>
-<td>Chef de projet communication &amp; événementiel (stage)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/lGVL5lx/jobs/communication-marketing-manager_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Groupe Crédit Agricole</strong></td>
-<td>STAGE - CHARGE DE COM INTERNE ET EXTERNE H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-charge-de-com-interne-et-externe-h-f_paris_GCA_goP94x7"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage - Projet RGPD RH H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-projet-rgpd-rh-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>BNP Paribas</strong></td>
-<td>Stage - Architecte Poste de Travail Intune H/F - 6 mois</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-architecte-poste-de-travail-intune-h-f-6-mois_montreuil"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Compagnie Européenne De Garanties Et Cautions</strong></td>
-<td>Stage - Gestionnaire sinistres construction F/H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/yZy1SX/jobs/stage-gestionnaire-sinistres-construction-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Grant Thornton</strong></td>
-<td>Stagiaire - Corporate Tax - Lille (H/F)</td>
-<td>Lille<br>Hauts-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/J2eKo87/jobs/stagiaire-corporate-tax-lille-h-f_lille"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Papernest</strong></td>
-<td>Account Manager - VIE - Barcelone (H/F) - Septembre</td>
-<td>Barcelona<br>Catalonia<br>Spain</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3jRk35/jobs/account-manager-vie-barcelone-h-f-septembre_barcelona"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td>HAVAS PLAY - STAGE - TEAM CRÉA JUNIOR (H/F/X)</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-play-stage-da-junior-h-f-x_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>HAVAS PLAY - STAGE - DA MOTION JUNIOR (H/F/X)</td>
-<td>Puteaux<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-play-stage-da-motion-junior-h-f-x_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Driveco</strong></td>
-<td>Stage - Workflows IA et agents (F/M/X)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pNJUhN/jobs/stage-workflows-ia-et-agents-f-m-x_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Une Robe Un Soir</strong></td>
-<td>Graphiste (stage)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PxPYAGP/jobs/graphiste-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>OTOQI</strong></td>
-<td>Operations Internship F/M</td>
-<td>Milan<br>Lombardy<br>Italy</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1ymyr70/jobs/operations-internship-f-m_milan"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td>BETC Fullsix - Assistant Directeur Artistique (H/F/X) - Stage</td>
-<td>Pantin<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/betc-fullsix-assistant-e-directeur-rice-artistique-stage_pantin"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Safran</strong></td>
-<td>STAGE-Exploitation base de données de l&#x27;évaluation des fournisseurs F/H</td>
-<td>Malakoff<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wRqZadx/jobs/stage-exploitation-de-l-evaluation-des-fournisseurs-f-h_malakoff"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Alice &amp; Bob</strong></td>
-<td>Marketing Operations Apprenticeship H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/gV244x/jobs/marketing-operations-apprenticeship-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Sportfield</strong></td>
-<td>Stage Marketing et Operations</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/PxgXN3/jobs/stage-marketing-et-operations_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Leapsome</strong></td>
-<td>Product Marketing Intern (German Speaker)</td>
-<td>Berlin<br>Germany</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/d6IaOf/jobs/product-marketing-intern_berlin_lmb4y7ud"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Civils de la Défense - Ministère des Armées et des Anciens combattants</strong></td>
-<td>HRO - ET - EXPERT TECHNIQUE RESEAUX INTERNES</td>
-<td>Toulon<br>Provence-Alpes-Cote d'Azur<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/baJevK/jobs/hro-et-expert-technique-reseaux-internes_toulon"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Formlabs</strong></td>
-<td>Engineering Intern (Hardware Reliability, Fall 2026)</td>
-<td>Somerville<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/engineering-intern_merville_brybgvzt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Etched</strong></td>
-<td>Design Verification Intern</td>
-<td>San Jose<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/design-verification-intern_san-jose_bzbb5vyl"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Astranis</strong></td>
-<td>Embedded Software Developer (Network/Payload Software Intern (Fall 2026))</td>
-<td>San Francisco<br>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/embedded-software-developer_san-francisco_z3ryczaf"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Stage Fondation Education H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-fondation-education-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Stage Fondation Pôle Innovation sociale F/H</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-fondation-pole-innovation-sociale-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>PM Studio Paris</strong></td>
-<td>STAGE - Chargé de Production &amp; Logistique H/F</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/urbr4s/jobs/stage-charge-de-production-logistique-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>VINCI Construction</strong></td>
-<td>STAGE CHEF DE CHANTIER DECOUVERTE DES TP 16 F/H</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/stage-chef-de-chantier-decouverte-des-tp-16-f-h_nanterre_VC_5mQ0pOL"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Crédit Agricole CIB</strong></td>
-<td>International Business Development Analyst</td>
-<td>Frankfurt<br>Hesse<br>Germany</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/relationship-manager-assistant-h-f_frankfurt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Safran Aircraft Engines</strong></td>
-<td>EDM Intern</td>
-<td>Beijing<br>China</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ARApbzo/jobs/edm-intern_suzhou"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Deloitte</strong></td>
-<td>Stage droit des sociétés / droit fiscal F/H</td>
 <td>Strasbourg<br>Grand Est<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-droit-des-societes-droit-fiscal-f-h_strasbourg_DELOI_obe9YWA"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Better World</strong></td>
-<td>Data Operations Analyst (Stage de césure / fin d’étude - pré-embauche)</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/rD40qY0/jobs/data-operations-analyst-stage-de-cesure-fin-d-etude-pre-embauche_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Etyo</strong></td>
-<td>Stage Ingénieur travaux / Gestion de projet immobilier _ CONSEIL &amp; AMO Toulouse F/H</td>
-<td>Ramonville-Saint-Agne<br>Occitanie<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DQa2DX/jobs/stage-ingenieur-travaux-gestion-de-projet-immobilier-_-conseil-amo-toulouse-f-h_ramonville-saint-agne_ETYO_wLbge4D"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-conseil-en-transformation-f-h_strasbourg_DELOI_Jp8bGlR"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>24d</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Stage Ingénieur travaux / Gestion de projet immobilier _ CONSEIL &amp; AMO Bordeaux F/H</td>
-<td>Bordeaux<br>Nouvelle-Aquitaine<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DQa2DX/jobs/stage-ingenieur-travaux-gestion-de-projet-immobilier-_-conseil-amo-bordeaux-f-h_bordeaux_ETYO_NlJM7k7"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td>Stage Conseil en Supply Chain F/H</td>
+<td>Lille<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-conseil-en-supply-chain-f-h_lille"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>24d</td>
 </tr>
 <tr>
-<td><strong>Groupe DIAM</strong></td>
-<td>HR Project Officer (Estágio / Programa de Estudo-Trabalho)</td>
-<td>Paços de Ferreira<br>Portugal</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QDawcT/jobs/hr-project-officer-estagio-programa-de-estudo-trabalho_pacos-de-ferreira_GD_PrGm5Ww"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>Pernod Ricard</strong></td>
+<td>Stage Maintenance</td>
+<td>Vendeville<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YDQ9lZ1/jobs/stage-maintenance_vendeville"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>Etyo</strong></td>
-<td>Stage - Conseil en immobilier / AMO – Gestion de projets - Rennes F/H</td>
-<td>Rennes<br>Brittany<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DQa2DX/jobs/stage-conseil-en-immobilier-amo-gestion-de-projets-rennes-f-h_rennes_ETYO_1groVY6"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>Hermès</strong></td>
+<td>AFC - Apprendista alla vendita Lugano (F/M)</td>
+<td>Lugano<br>Ticino<br>Switzerland</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/afc-apprendista-alla-vendita-lugano-f-m_lugano_HERMS_JzjQ2Zw"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong>Partly</strong></td>
+<td>Operations Associate - Graduate Internship</td>
+<td>London<br>United Kingdom</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/jeg7x2/jobs/repairer-ambassador-graduate-internship_london_57su2czv"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
 <td><strong>Deloitte</strong></td>
 <td>Stage en droit des affaires / corporate m&amp;a F/H</td>
-<td>Strasbourg<br>Grand Est<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-en-droit-des-affaires-corporate-m-a-f-h_strasbourg_DELOI_m81xWye"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Havas France</strong></td>
-<td>PLEAD - STAGE - STAGIAIRE - CONSEIL STRATÉGIQUE EN COMMUNICATION DIGITALE</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/plead-stage-stagiaire-conseil-strategique-en-communication-digitale_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>My Little Paris</strong></td>
-<td>Intership - Intern Project Management Marketing MY LITTLE BOX (german speaking )</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1jV4jMw/jobs/intership-intern-project-management-marketing-my-little-box-germany_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Carrefour</strong></td>
-<td>Chef de projet Performance (F/H)</td>
-<td>Massy<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qbeJpY5/jobs/chef-de-projet-performance-f-h_massy"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Assistant Support Achats Non Marchands - en stage (F/H)</td>
-<td>Massy<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qbeJpY5/jobs/assistant-support-achats-non-marchands-en-stage-f-h_massy_CARRE_kVrRPrZ"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Omnicom Media</strong></td>
-<td>Assistant(e) Chargé(e) Média - Stage (Apple)</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Am0bNY/jobs/stage-assistant-consultant-media_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Trader Social Assistant- Stage</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Am0bNY/jobs/stage-assistant-chef-de-projet-social-media_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Groupama Protection Juridique</strong></td>
-<td>Stage - Juriste Droit du Travail F/H/X</td>
-<td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/luef9H/jobs/juriste-droit-du-travail-stage-f-h-x_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Reworld Media</strong></td>
-<td>Stage Septembre 2026 - Cadreur F/H</td>
-<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Jl63D1G/jobs/stage-juillet-2026-technicien-multicamera-operateur-regie-vmix-f-h_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>1password</strong></td>
-<td>Finance Intern - Corporate Accounting, Special Projects - Fall 2026</td>
-<td>Remote Canada</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/1password/2db3a396-6461-415f-863e-775f7b1ec2bd"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>commure</strong></td>
-<td>Intern, HR Operations (Bangladesh)</td>
-<td>Dhaka<br>Bangladesh</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/commure/99c269fa-008a-4848-af20-c65201a7f552"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>h3x-technologies</strong></td>
-<td>Manufacturing Engineer Intern</td>
-<td>Louisville<br>Colorado</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/h3x-technologies/d0688850-a809-4637-8440-b0551ec639fa"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>halter</strong></td>
-<td>Production Engineering Internship (Mechanical)</td>
-<td>Auckland</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/halter/d3658f43-e4ab-47a7-b706-e3cf095e6731"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>inspiration-commerce-group</strong></td>
-<td>Summer Intern (Ecommerce Operations)</td>
-<td>Toronto</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/inspiration-commerce-group/ae338ac1-ab64-492c-a8f3-2ee2f33b488c"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>joko</strong></td>
-<td>Business Associate Intern (Online Business)</td>
-<td>Paris</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/joko/0e69a6af-f0b3-4634-aead-afdd8a7ce647"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>17d</td>
-</tr>
-<tr>
-<td><strong>joko</strong></td>
-<td>US Business Associate Intern</td>
-<td>Paris</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/joko/ef6afdea-453b-4af6-b6c8-de04cc1bd046"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>knowunity</strong></td>
-<td>CEO Office Intern – Organic Growth</td>
-<td>Berlin</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/knowunity/9150b518-4fa4-4e81-b34e-d08197813d85"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>myedspacecareers</strong></td>
-<td>Founder&#x27;s Intern - Summer 2026 Intake</td>
-<td>London</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/myedspacecareers/fd9ab70c-29cb-46fd-8e69-33069c04c6a1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>newform</strong></td>
-<td>Creative Production Intern</td>
-<td>New York City</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/newform/ae7b1b6e-2a72-4186-ae5f-bf25bd95e656"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>plaid</strong></td>
-<td>Internal Communications</td>
-<td>San Francisco HQ</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/plaid/6887f482-81b4-4ec8-8f52-bb29c796f2e8"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>29d</td>
-</tr>
-<tr>
-<td><strong>proxima-fusion</strong></td>
-<td>Intern Enterprise AI Team</td>
-<td>Munich</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/proxima-fusion/186e4b2e-c2d9-455a-acc1-6550c65427fc"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>saronic</strong></td>
-<td>Naval Architect Intern (Fall 2026)</td>
-<td>Austin<br>TX</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>sleeper</strong></td>
-<td>User Research Intern</td>
-<td>San Francisco</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/sleeper/9c61d64a-efe3-4033-aa2d-ceb3dd28da45"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>🔥 <strong>snowflake</strong></td>
-<td>EMEA Communications Intern</td>
-<td>GB-London</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/snowflake/b696164c-4865-43f4-940d-b5353755748f"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>strala-ai</strong></td>
-<td>Office of the CEO Intern — Growth</td>
-<td>San Francisco</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/strala-ai/b6659653-ad82-4892-87dc-79156d6eaee9"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>taktile</strong></td>
-<td>Software Engineer Intern</td>
-<td>Iasi Office</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong>the-exploration-company</strong></td>
-<td>Engine Functional Propulsion Intern</td>
-<td>Bordeaux<br>France</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/the-exploration-company/56aea086-061a-4789-b760-c13176f6822c"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>enpal</strong></td>
-<td>Sales Team Lead Assistant Intern I Lavoro full-time in sede a Milano (f/m/x)</td>
-<td>Milan</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/enpal/0083d70f-3fa1-4bf9-9f34-01625202c9ef"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>enpal</strong></td>
-<td>Tech &amp; Automation Internship (f/m/x)</td>
-<td>Berlin</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/enpal/0581f1fb-0388-4e16-9e11-d6650e05ceef"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong>harmattan-ai</strong></td>
-<td>AI/Computer Vision Intern - Onboard Detection &amp; Tracking</td>
-<td>Paris</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/harmattan-ai/8aa22f15-fcd5-426e-8025-f44b9dc664b2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>heron-power</strong></td>
-<td>Intern, Hardware Test Engineering</td>
-<td>Scotts Valley</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/heron-power/7c3f30a6-f806-4bf5-a94c-cb4dece20cb2"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>heron-power</strong></td>
-<td>Intern, System Integration &amp; Test Software</td>
-<td>Scotts Valley</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/heron-power/807ae67d-1571-4f85-b597-224d0d4db784"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>lightspeedhq</strong></td>
-<td>Field Sales Intern - (Dutch Speaking)</td>
-<td>Ghent</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/lightspeedhq/1829777b-d9bb-43bd-ab3f-31e9d950d3af"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>pebl</strong></td>
-<td>Software Engineer Intern, Payroll</td>
-<td>Palo Alto<br>CA</td>
-<td><div align="center"><a href="https://jobs.ashbyhq.com/pebl/f94e9238-656b-4b1c-a4c7-b5d4909b0663"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>22d</td>
-</tr>
-<tr>
-<td><strong>Leschaco</strong></td>
-<td>International Gateway Specialist (m|w|d)</td>
-<td>Frankfurt a. M.<br>HESSEN<br>DE</td>
-<td><div align="center"><a href="https://leschaco.csod.com/ux/ats/careersite/1/job/1229?c=leschaco"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>TalentGo</strong></td>
-<td>Internship - UAV Guidance, Navigation and Control (GNC)</td>
-<td>San Sebastian de los Reyes<br>Madrid<br>ES</td>
-<td><div align="center"><a href="https://talentgo.csod.com/ux/ats/careersite/1/job/2211?c=talentgo"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>TalentGo</strong></td>
-<td>Internship - Strategy</td>
-<td>Rivas-Vaciamadrid<br>Madrid<br>ES</td>
-<td><div align="center"><a href="https://talentgo.csod.com/ux/ats/careersite/1/job/2140?c=talentgo"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>28d</td>
-</tr>
-<tr>
-<td><strong>Transdev</strong></td>
-<td>Alternance - Chargé(e) de communication interne H/F</td>
-<td>Issy-les-moulineaux<br>FR</td>
-<td><div align="center"><a href="https://transdev.csod.com/ux/ats/careersite/1/job/11499?c=transdev"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>Eightfold</strong></td>
-<td>Engineering Intern - Class of 2026</td>
-<td>Bengaluru<br>KA<br>IN</td>
-<td><div align="center"><a href="https://app.eightfold.ai/careers/job/68761445130"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>Ericsson</strong></td>
-<td>Baseband Developer Intern - AI Adoption</td>
-<td>Austin<br>TX<br>US</td>
-<td><div align="center"><a href="https://ericsson.eightfold.ai/careers/job/563121776042640"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>Citi</strong></td>
-<td>Internal Accounts Product Owner, AVP</td>
-<td>Tampa<br>FL<br>US</td>
-<td><div align="center"><a href="https://citi.eightfold.ai/careers/job/859035744176"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>acluinternships</strong></td>
-<td>Fall 2026 Graduate Intern, National Political Advocacy Department- Justice National Campaigns</td>
-<td>Remote</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/acluinternships/jobs/8603657002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>acluinternships</strong></td>
-<td>Fall 2026 Legal Intern, Capital Punishment Project</td>
-<td>Hybrid- Durham<br>N.C. or New York City</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/acluinternships/jobs/8582269002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>acluinternships</strong></td>
-<td>Fall 2026 Undergraduate Intern, Candidate Races-NPAD</td>
-<td>Remote</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/acluinternships/jobs/8610663002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong>acluinternships</strong></td>
-<td>Fall 2026 Undergraduate Intern, Social Media- Communications and Marketing Department</td>
-<td>Remote/Hybrid- New York City</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/acluinternships/jobs/8612383002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1d</td>
-</tr>
-<tr>
-<td><strong>alarmcom</strong></td>
-<td>International Business Development Manager</td>
-<td>REMOTE</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/alarmcom/jobs/8599043002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>barbaricum</strong></td>
-<td>Internal Stakeholder Lead - Senior</td>
-<td>Washington<br>DC</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/barbaricum/jobs/5268119008"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>bitgo</strong></td>
-<td>Head of Internal Audit</td>
-<td>San Francisco<br>California<br>United States</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/bitgo/jobs/8224387002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>bursonglobalcareers</strong></td>
-<td>PR Intern</td>
-<td>Malaysia</td>
-<td><div align="center"><a href="https://www.bursonglobal.com/careers/jobs?gh_jid=4780938008"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>casetify</strong></td>
-<td>Partnerships Intern</td>
-<td>Kwun Tong<br>Hong Kong</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/casetify/jobs/6015954004"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>celonis</strong></td>
-<td>Field Marketing Intern</td>
-<td>New York<br>US<br>New York</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7729995003?gh_jid=7729995003"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>celonis</strong></td>
-<td>Intern Knowledge Management Analyst</td>
-<td>Bangalore<br>India</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/celonis/jobs/7762509003?gh_jid=7762509003"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>cresta</strong></td>
-<td>Data Science Intern (Customer Success)</td>
-<td>United States (Remote)</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/cresta/jobs/5213417008"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>dept</strong></td>
-<td>Events Intern</td>
-<td>Amsterdam<br>Rotterdam<br>Hybrid</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/dept/jobs/8009505"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>easygo</strong></td>
-<td>Internal Auditor</td>
-<td>Melbourne<br>Australia</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/easygo/jobs/5155270007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>27d</td>
-</tr>
-<tr>
-<td><strong>exadelinc</strong></td>
-<td>Financial Services Intern</td>
-<td>Fortaleza<br>Brazil</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/exadelinc/jobs/6101483004"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>faradayfuture</strong></td>
-<td>Robotics Intern (Part Time)</td>
-<td>El Segundo<br>California<br>United States</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/faradayfuture/jobs/7752219003"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>figureai</strong></td>
-<td>Firmware Intern [Fall 2026]</td>
-<td>San Jose<br>CA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4691070006"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>8d</td>
-</tr>
-<tr>
-<td><strong>harbingermotors</strong></td>
-<td>Intern, Marketing</td>
-<td>Garden Grove<br>CA</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/harbingermotors/jobs/5164342007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>18d</td>
-</tr>
-<tr>
-<td><strong>hudl</strong></td>
-<td>Tax Accounting Intern</td>
-<td>Lincoln<br>NE<br>United States</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/hudl/jobs/7926925"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>internshiplist2000</strong></td>
-<td>Product Marketing Intern (Fall/September 2026, 12 Months)</td>
-<td>Oakville<br>Ontario - Canada</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>jobsatphamily</strong></td>
-<td>Machine Learning Intern- Immediate Start</td>
-<td>New York</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/jobsatphamily/jobs/5281239008"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>kensingtontours</strong></td>
-<td>Intern - Repeat Marketing: CRM &amp; Email Marketing</td>
-<td>Toronto</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5168656007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Intern - Repeat Marketing: Luxury Events &amp; Content Marketing</td>
-<td>Toronto</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/kensingtontours/jobs/5168671007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>legendcareers</strong></td>
-<td>Manager Internal Audit</td>
-<td>Bridgewater<br>New Jersey<br>United States</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/legendcareers/jobs/4708663005"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>life360</strong></td>
-<td>Director, International Commercialization Strategy</td>
-<td>Remote<br>UK</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/life360/jobs/8581314002"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>Nantes<br>Loire Region<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stage-en-droit-des-affaires-corporate-m-a-f-h_nantes_DELOI_wjMmLDD"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>25d</td>
 </tr>
 <tr>
-<td><strong>lucidmotors</strong></td>
-<td>Brand Communications Intern</td>
-<td>Amsterdam<br>NH</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5136413007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>BNP Paribas Real Estate</strong></td>
+<td>Stagiaire &quot; Chargé(e) de marketing &quot; H/F</td>
+<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1pNkrqL/jobs/stagiaire-charge-de-marketing-h-f_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Finance Business Analytics Intern</td>
-<td>Amsterdam<br>NH</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/lucidmotors/jobs/5136407007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>Groupe TF1</strong></td>
+<td>STAGE - Assistant(e) Product Owner H/F</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NbDLM4D/jobs/stage-assistant-product-owner-h-f_boulogne-billancourt_GT_wybzm3R"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>mentalhealthcenterofdenver</strong></td>
-<td>Clinical Intern, Intensive Treatment Team (Juvenile Justice)</td>
-<td>Denver</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/mentalhealthcenterofdenver/jobs/7770745003"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>19d</td>
+<td><strong>So Villas</strong></td>
+<td>Chargé(e) de Relation Client &amp; Commercial | Plus de 50 SoVillas incroyables</td>
+<td>Neuilly-sur-Seine<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/DVIsYG/jobs/charge-de-relation-client-commercial-plus-de-50-sovillas-incroyables_neuilly-sur-seine"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>neteasegames</strong></td>
-<td>Social Media Content Marketing Intern</td>
-<td>Canada-Remote; United States-Remote</td>
-<td><div align="center"><a href="https://job-boards.greenhouse.io/neteasegames/jobs/5165597007"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
+<td><strong>Crieur Public</strong></td>
+<td>Stage - Assistant.e social media - Création &amp; Community Management</td>
+<td>Fontaines-sur-Saône<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Qokgrqz/jobs/stage-assistant-e-social-media-creation-community-management_fontaines-sur-saone"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>SentinelOne</strong></td>
-<td>Employee Experience Intern</td>
-<td>Amsterdam<br>Netherlands</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ogflB0/jobs/employee-experience-intern_amsterdam_r7roi4ld"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>Frenchfounders</strong></td>
+<td>Bras droit - Relationship Manager  - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pk2kQkJ/jobs/assistant-relationship-manager-paris_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>Quinyx</strong></td>
-<td>Office Intern</td>
-<td>Amsterdam<br>Netherlands</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/BSBzsj/jobs/office-intern_amsterdam_fs2mlqey"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>Steamulo</strong></td>
+<td>Stage — Cybersécurité / DevSecOps</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bK0xCJ/jobs/stage-cybersecurite-devsecops_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
 </tr>
 <tr>
-<td><strong>Thomson Reuters</strong></td>
-<td>Research Scientist Intern (Foundational Research)</td>
-<td>London<br>United Kingdom</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WrsvUP/jobs/research-scientist-intern_fr_ulrzy44s"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><strong>SUEZ</strong></td>
+<td>Fiscaliste Senior (H/F)</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/fiscaliste-senior-h-f_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
 </tr>
 <tr>
-<td><strong>OpenUp</strong></td>
-<td>Customer Success Intern</td>
-<td>Amsterdam<br>Netherlands</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/jA4pLG/jobs/customer-success-intern_amsterdam_uf4pddgt"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Baseten</strong></td>
-<td>Software Engineer (Billing &amp; Internal Tooling)</td>
+<td>🔥 <strong>Notion</strong></td>
+<td>International Tax Manager</td>
 <td>United States</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/S1PECK/jobs/software-engineer_fr_rr36gosq"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVeUmq/jobs/international-tax-manager_us_pqn4q6ot"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
 </tr>
 <tr>
-<td><strong>Les Grappes</strong></td>
-<td>Stage 6 Mois / Chargé.e de Marketing - Paris</td>
+<td><strong>BNP Paribas</strong></td>
+<td>Comptable - Stage H/F</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/comptable-stage-h-f_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Kiabi</strong></td>
+<td>ASSISTENTE ALLA CLIENTELA - KIABI MARCIANISE</td>
+<td>Marcianise<br>Campania<br>Italy</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/assistente-alla-clientela-kiabi-marcianise_marcianise_KIABI_gPG3OVK"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Papernest</strong></td>
+<td>Talent Acquisition Specialist - Internship - Barcelona</td>
+<td>Barcelona<br>Catalonia<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3jRk35/jobs/talent-acquisition-internship-barcelona_barcelona_PAPER_a66Y1V"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Pony</strong></td>
+<td>City Relationships Intern</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WJzdVoV/jobs/stage-marketing-communication_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qQ4j1oy/jobs/city-relationships-intern_paris_PONY_JPg8lob"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
 </tr>
 <tr>
-<td><strong>Kelio</strong></td>
-<td>Chargé de Marketing et Communication International H/F - CDD 7 mois</td>
-<td>Cholet<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XzGQOo2/jobs/charge-de-marketing-et-communication-international-h-f-cdd-7-mois_cholet"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Rankmi</strong></td>
-<td>Práctica Profesional Psicología / Ing. en RRHH</td>
-<td>Santiago<br>Chile</td>
-<td><div align="center"><a href="https://www.getonbrd.com/jobs/practica-profesional-people-culture-rankmi-santiago"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>Enviame</strong></td>
-<td>Diseñador/a de Comunicaciones Internas (Pre Post Natal)</td>
-<td>Remote</td>
-<td><div align="center"><a href="https://www.getonbrd.com/jobs/disenador-a-de-comunicaciones-internas-pre-post-natal-enviame-remote"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>20d</td>
-</tr>
-<tr>
-<td><strong>TechSoup</strong></td>
-<td>Senior CRM Developer/Engineer [international role based in Poland]</td>
-<td>Anywhere in the World</td>
-<td><div align="center"><a href="https://weworkremotely.com/remote-jobs/techsoup-senior-crm-developer-engineer-international-role-based-in-poland"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>Groupe DIAM</strong></td>
+<td>Chargé(e) de projets RH</td>
+<td>Cergy-Pontoise<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QDawcT/jobs/charge-de-projets-rh_cergy-pontoise"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>27d</td>
 </tr>
 <tr>
-<td><strong>Institut Le Rosey SA</strong></td>
-<td>Un couple (2 personnes) de Technicien de surface interne CDI à partir du 21.08.2026</td>
-<td>Rolle<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/45b59e43-0782-44d4-8b73-805ff0d4a82a/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>11d</td>
+<td><strong>Groupe Crédit Agricole</strong></td>
+<td>Stage - Inside Sales - Data-as-a-Service H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-inside-sales-data-as-a-service-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
 </tr>
 <tr>
-<td><strong>Winterthur Gas &amp; Diesel AG</strong></td>
-<td>Intern Technical Customer Support (m/f/d)</td>
-<td>Winterthur<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/b4ad6e13-2f77-4d74-8845-3bba12e0d7fc/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>IV-Stelle Bern</strong></td>
-<td>Médecins spécialistes en médecine interne générale, neurologie, chirurgie orthopédique et traumatologie de l’appareil locomoteur, psychiatrie et psychothérapie (50-100%)</td>
-<td>Bern<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/05f97f66-7ba0-40d0-aaa9-2bb737c6cca6/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>16d</td>
-</tr>
-<tr>
-<td><strong>Georg Fischer</strong></td>
-<td>Internship Portfolio Marketing (m/f/d) / 6 months - 12 months</td>
-<td>Schaffhausen IIFS<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/4c06c533-1ff7-476b-91ca-263ac663145a/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>23d</td>
-</tr>
-<tr>
-<td><strong>Swarovski (Schweiz) AG</strong></td>
-<td>Intern eCommerce Onsite Merchandising</td>
-<td>Zurich<br>CH<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/4ccbeca8-59f3-4884-bb42-867d7283694f/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Wingtra AG</strong></td>
-<td>Robotics Firmware Intern - Drone Platform &amp; Systems</td>
-<td>Zürich<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/087622e9-6903-43ce-9d6e-959ca0037960/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>G. et F. Châtelain, succursale de Chanel SARL</strong></td>
-<td>Forecasting Intern</td>
-<td>GENEVE CORP<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/1c93f34a-34cf-4900-9029-d421e09e39f1/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>25d</td>
-</tr>
-<tr>
-<td><strong>Wüest Partner</strong></td>
-<td>Internship Real Estate Consulting 80-100%, 6 months (m/w/d)</td>
-<td>Genève<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/97b6251d-0f30-42f7-a8c3-74dce70c65a4/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Swiss International Air Lines AG</strong></td>
-<td>Internship in Corporate Development (limited 6 months, 80-100%, all genders)</td>
-<td>Zürich/Kloten<br>Switzerland</td>
-<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/823b5c39-2e61-40a2-b6dd-6bbc94e02896/"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>15d</td>
-</tr>
-<tr>
-<td><strong>Levitate</strong></td>
-<td>International Sales Representative</td>
-<td>Copenhagen<br>Denmark</td>
-<td><div align="center"><a href="https://thehub.io/jobs/6a29010261ffbed9d1616941"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>athme</strong></td>
-<td>Operations Intern (Student, DK)</td>
-<td>Copenhagen<br>Denmark</td>
-<td><div align="center"><a href="https://thehub.io/jobs/6a317c2828cd28ae40a89aef"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>Grale</strong></td>
-<td>Internship - Business Development</td>
-<td>Stockholm<br>Sweden</td>
-<td><div align="center"><a href="https://thehub.io/jobs/69f933c8c82c902ff6c4ea41"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Circleback</strong></td>
-<td>Software Engineering Intern (Summer 2027)</td>
-<td>San Francisco<br>CA<br>US</td>
-<td><div align="center"><a href="https://www.ycombinator.com/companies/circleback/jobs/lulIPMP-software-engineering-intern-summer-2027"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong>addigy</strong></td>
-<td>International Account Executive</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://addigy.bamboohr.com/careers/111"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong>civicus</strong></td>
-<td>Civic Space Research Intern</td>
-<td>N/A</td>
-<td><div align="center"><a href="https://civicus.bamboohr.com/careers/81"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong>cnwr</strong></td>
-<td>Support Technician Intern (Cybersecurity)</td>
-<td>Toledo<br>Ohio<br>United States</td>
-<td><div align="center"><a href="https://cnwr.bamboohr.com/careers/52"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong>emater</strong></td>
-<td>Video Editing Internship Program</td>
-<td>Yerevan<br>Armenia</td>
-<td><div align="center"><a href="https://emater.bamboohr.com/careers/108"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>mesa</strong></td>
-<td>International Move Manager</td>
-<td>Chesterfield<br>Missouri<br>United States</td>
-<td><div align="center"><a href="https://mesa.bamboohr.com/careers/110"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong>nycballet</strong></td>
-<td>Fall Intern - Individual Giving &amp; Major Gifts</td>
-<td>New York<br>New York<br>United States</td>
-<td><div align="center"><a href="https://nycballet.bamboohr.com/careers/178"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>2d</td>
-</tr>
-<tr>
-<td><strong>redotpay</strong></td>
-<td>Business Intelligence Intern</td>
-<td>Hong Kong<br>Hong Kong<br>Hong Kong</td>
-<td><div align="center"><a href="https://redotpay.bamboohr.com/careers/178"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>reverehealth</strong></td>
-<td>Medical Assistant-FT-Internal Medicine-American Fork</td>
-<td>American Fork<br>Utah<br>United States</td>
-<td><div align="center"><a href="https://reverehealth.bamboohr.com/careers/2848"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>7d</td>
-</tr>
-<tr>
-<td><strong>sisd</strong></td>
-<td>Human Resources Specialist Level III (Internal Only 3 Days)</td>
-<td>Saginaw<br>Michigan<br>United States</td>
-<td><div align="center"><a href="https://sisd.bamboohr.com/careers/149"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>14d</td>
-</tr>
-<tr>
-<td><strong>understandingwar</strong></td>
-<td>Cognitive Warfare Project Internship Fall 2026</td>
-<td>Washington<br>District of Columbia<br>United States</td>
-<td><div align="center"><a href="https://understandingwar.bamboohr.com/careers/233"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>Société Générale</strong></td>
-<td>Assistant chargé d&#x27;Affaires Entreprises -</td>
-<td>La Roche-sur-Yon<br>Loire Region<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/assistant-charge-d-affaires-entreprises_la-roche-sur-yon_SG_Gw6wlGd"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
-</tr>
-<tr>
-<td><strong>VINCI Energies en France</strong></td>
-<td>Stage - Juriste Droit Social F/H</td>
+<td><strong>VINCI Construction</strong></td>
+<td>PFE 2027 Gérer efficacement les chantiers en tant que conducteur·rice de travaux ALBI F/H</td>
 <td>Nanterre<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GjVpLRX/jobs/stage-juriste-droit-social-f-h_nanterre_VEEF_Joj1zyG"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
-<td>1mo</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/pfe-2027-gerer-efficacement-les-chantiers-en-tant-que-conducteur-rice-de-travaux-albi-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
 </tr>
 <tr>
-<td><strong>Groupement Mousquetaires</strong></td>
-<td>STAGE RESPONSABILITE SOCIETALE DES ENTREPRISES RSE</td>
-<td>Villemomble<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zYeP3MN/jobs/stage-responsabilite-societale-des-entreprises-rse_villemomble"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>↳</td>
+<td>PFE 2027 Gérer efficacement les chantiers en tant que conducteur·rice de travaux BERGERAC F/H</td>
+<td>Nanterre<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/pfe-2027-gerer-efficacement-les-chantiers-en-tant-que-conducteur-rice-de-travaux-bergerac-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>PFE 2027 Gérer efficacement les chantiers en tant que conducteur·rice de travaux ROYAN F/H</td>
+<td>Nanterre<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/pfe-2027-gerer-efficacement-les-chantiers-en-tant-que-conducteur-rice-de-travaux-royan-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - Chargé de Contentieux - Avocat - H/F</td>
+<td>Levallois-Perret<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-charge-de-contentieux-avocat-h-f_levallois"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Stage - FMCG H/F</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-fmcg-h-f_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Générale du Solaire</strong></td>
+<td>Stage (ou alternance) - Assistant(e) Ingénieur Performance (H/F)</td>
+<td>Vendargues<br>Occitanie<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Dqxz5I/jobs/stage-assistant-ingenieur-performance-h-f_vendargues_GDS_NA9PAlV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>HappyVore</strong></td>
+<td>Responsable de secteur GMS Paris - Commercial (F/H/X) - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Rp0YOow/jobs/responsable-de-secteur-gms-commercial-f-h-x_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Ardian</strong></td>
+<td>Audit Interne Stage - Septembre 2026 I Paris (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xQoNRkJ/jobs/audit-interne-stage-septembre-2026-i-paris-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Antea Group</strong></td>
+<td>INTERNATIONAL - Directeur de projet en Eau urbaine à Lyon (69) ou à Antony (92) ou à Montpellier (34) - (F/H) - ANT140</td>
+<td>Antony<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/WdbyZVY/jobs/international-directeur-de-projet-en-eau-urbaine-a-lyon-69-ou-a-antony-92-ou-a-montpellier-34-f-h-ant140_antony_AG_5NKPyAr"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Groupe Les Echos Le Parisien</strong></td>
+<td>Chef de projet marketing stagiaire F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3p9713/jobs/chef-de-projet-marketing-stagiaire-f-h_paris_GLELP_8jK77L8"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Fdv Partner</strong></td>
+<td>STAGE BUSINESS DEVELOPER H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/eMl9lLy/jobs/stage-business-developer-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>PlusAI</strong></td>
+<td>Perception Intern</td>
+<td>Santa Clara<br>CA<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/perception-intern_santa-clara-ca_fxrusdzo"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Hermès</strong></td>
+<td>STAGE - Assistant Acheteur Indirect &amp; Composants Techniques (H/F)</td>
+<td>Pantin<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pkYePV7/jobs/stage-assistant-acheteur-indirect-composants-techniques-h-f_pantin"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Safran Aircraft Engines</strong></td>
+<td>STAGE - IA de confiance : développement d&#x27;outils d&#x27;interprétabilité pour l&#x27;IA F/H</td>
+<td>Moissy-Cramayel<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ARApbzo/jobs/stage-ia-de-confiance-developpement-d-outils-d-interpretabilite-pour-l-ia-f-h_moissy-cramayel"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Safran Electronics &amp; Defense</strong></td>
+<td>Werkstudent Project Management Officer - Flight Test &amp; Instrumentation (m/w/d)</td>
+<td>Bergisch Gladbach<br>North-Rhine-Westphalia<br>Germany</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/n9v6xK/jobs/werkstudent-project-management-officer-flight-test-instrumentation-m-w-d_bergisch-gladbach"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>VEJA</strong></td>
+<td>ASSISTANT(E) CHEF(FE) DE PROJET COMMUNICATION (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qb4739J/jobs/assistant-e-chef-fe-de-projet-communication_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Equativ</strong></td>
+<td>Treasury and Cash Collection Intern (1 year Internship)</td>
+<td>Montreal<br>Quebec<br>Canada</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/G3lK64y/jobs/treasury-and-cash-collection-intern-1-year-internship_montreal"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>AdOps Trainee</td>
+<td>Mexico City<br>Mexico City<br>Mexico</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/G3lK64y/jobs/adops-trainee_mexico-city"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Make My Lemonade</strong></td>
+<td>Stage Assistant-e Chef-fe de produit</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ckb8z5/jobs/stage-assistant-e-chef-fe-de-produit_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Natixis</strong></td>
+<td>Stage - 6 mois - Global Securities Sales Assistant F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JDQP1gb/jobs/stage-6-mois-global-securities-sales-assistant-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>Rejoins-nous en stage pour l&#x27;organisation du Vitalsport !</td>
+<td>Montbeliard<br>Bourgogne-Franche-Comte<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/rejoins-nous-en-stage-pour-l-organisation-du-vitalsport_montbeliard"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>French Bloom</strong></td>
+<td>Assistant Administration Des Ventes &amp; Customer Success - stage (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/h5W3bg/jobs/gestionnaire-administratif-export-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>Natixis</strong></td>
+<td>Stage - 6 mois - Asset Management F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JDQP1gb/jobs/stage-6-mois-asset-management-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>[PIAS] FRANCE</strong></td>
+<td>Assistant.e label Demain - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZwKVg56/jobs/assistant-e-label-demain_paris_PF_agaYbdV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>leakmited</strong></td>
+<td>Sales Operations - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/SMNsxH/jobs/sales-operations-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>STAGE COMMERCE - Développer l’activité commerciale de ton sport (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-developper-l-activite-commerciale-de-ton-sport-h-f_paris_DECAT_6RDoyMj"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>TERACT</strong></td>
+<td>Stage - Responsable de compte client (Gammvert.fr) F/H</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWYd1/jobs/stage-key-account-manager-marketplace-gammvert-fr-f-h_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>Chef de projet Paiement internationaux (SWIFT) H/F</td>
+<td>Saint-Quentin<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/chef-de-projet-paiement-internationaux-swift-h-f_saint-quentin"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>A.P.C.</strong></td>
+<td>Stage - Assistant achats matières fournitures / tissus - 6 Mois</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2o4Rs6/jobs/stage-assistant-achats-matieres-fournitures-tissus-6-mois_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>Crédit Agricole CIB</strong></td>
-<td>12 Month Internship - Structuring - Risk Advisory</td>
-<td>London<br>England<br>United Kingdom</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/12-month-internship-structuring-risk-advisory_london"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td>GMD Trading, Trainee</td>
+<td>Seoul<br>South Korea</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/gmd-trading-trainee_seoul"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Crédit Mutuel Alliance Fédérale</strong></td>
-<td>Stagiaire école (F/H) - Contrôle des Sociétés de Gestion et des Prospectus</td>
+<td><strong>The Adecco Group</strong></td>
+<td>STAGIAIRE CHARGÉ(E) DE RECRUTEMENT H/F</td>
+<td>Imphy<br>Bourgogne-Franche-Comte<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stagiaire-charge-e-de-recrutement-h-f_imphy"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Etablissement français du sang</strong></td>
+<td>STAGE - Chargé de communication institutionnelle et relations presse F/H</td>
+<td>Saint-Denis<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/61gM3WV/jobs/stage-charge-de-communication-institutionnelle-et-relations-presse-f-h_la-plaine-saint-denis"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage - Chargé événementiel - H/F</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iyTILx/jobs/stagiaire-ecole-f-h-controle-des-societes-de-gestion-et-des-prospectus_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-charge-evenementiel-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Stereolabs</strong></td>
+<td>Technicien Électronique de Production (H/F) - Stage de Septembre à Décembre 2026</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/QdbKXRP/jobs/stage-2026-technicien-ne-electronique-de-production-septembre-a-decembre-2026_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Apprentis d&#x27;Auteuil</strong></td>
+<td>Educateur.trice en internat éducatif et scolaire (F/H)</td>
+<td>Blanquefort<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/TkcSTw/jobs/educateur-trice-en-internat-educatif-et-scolaire-f-h_blanquefort_AD_4lq0y7J"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>MoEa</strong></td>
+<td>Stage – Responsable Service Client</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/r9AQwp1/jobs/stage-responsable-service-client_paris_MOEA_5paXrdR"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>A.P.C.</strong></td>
+<td>STAGE NON REMUNERE - ASSISTANT(E) CHARGÉ(E) DE RSE</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2o4Rs6/jobs/stage-non-remunere-assistant-e-chargee-de-rse_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
 <td><strong>Tikehau Capital</strong></td>
-<td>Internship - Fixed Income (H/F) - September 2026</td>
+<td>MB - Internship - Private Debt Analyst (H/F) - September 2026</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bdL7cg/jobs/internship-fixed-income-h-f-september-2026_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bdL7cg/jobs/mb-internship-private-debt-analyst-h-f-september-2026_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>EY</strong></td>
-<td>Alternance Chargé(e) de Marketing Secteurs - F/H - Paris - Septembre ou Octobre 2026</td>
-<td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Gwee77X/jobs/alternance-charge-de-marketing-secteurs-f-h-paris-septembre-ou-octobre-2026_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><strong>NTT DATA</strong></td>
+<td>Prácticas universitarias NTT DATA</td>
+<td>Málaga<br>Andalucia<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bVBkJa/jobs/practicas-universitarias-ntt-data_malaga"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>Gimmy</strong></td>
-<td>Bras droit CEO - H/F - Stage 6 mois</td>
+<td><strong>lemlist</strong></td>
+<td>International Partnerships Manager</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/jsYQNP/jobs/bras-droit-ceo-chief-of-staff_paris_GE_5xJGr7O"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/kwkpyMK/jobs/partnerships-manager-us-uk_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
-<td><strong>ARLETTIE PARIS</strong></td>
-<td>Stagiaire Vendeur(euse) Polyvalent(e)</td>
+<td><strong>VINCI Construction</strong></td>
+<td>Conducteur de travaux Bâtiment - Stage F/H</td>
+<td>Brest<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/conducteur-de-travaux-batiment-stage-f-h_brest"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Safran Aircraft Engines</strong></td>
+<td>Process Intern</td>
+<td>Beijing<br>China</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ARApbzo/jobs/product-intern_suzhou"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Groupe VYV</strong></td>
+<td>Aide-soignant Jour H/F - Médecine Interne et infectieuse</td>
+<td>Pessac<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/dxUciQ/jobs/aide-soignant-jour-h-f-medecine-interne-et-infectieuse_pessac_GV_lZ2R8lV"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Hello Pomelo</strong></td>
+<td>Stage Développeur(se) &amp; DevOps Run/TMA</td>
+<td>Barcelona<br>Catalonia<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wddYjS/jobs/stage-developpeur-se-maintenance-applicative-devops_barcelona"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Euris</strong></td>
+<td>STAGE DEVELOPPEUR FULL STACK APPLICATION WEB &amp; MOBILE HYBRIDE H/F</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1ZRgwXM/jobs/stage-developpeur-full-stack-application-web-mobile-hybride_boulogne-billancourt_EURIS_2w5oO"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>HelloFresh France</strong></td>
+<td>Delivery Operations Business Analyst Intern France et Benelux(M/F/X)</td>
 <td>Paris<br>Ile-de-France<br>France</td>
-<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XZYM3yl/jobs/stagiaire-vendeur-euse-polyvalent_paris_AP_P7le04l"><img src="https://i.imgur.com/fbjwDvo.png" width="80" alt="Apply"></a></div></td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/2ebzAP5/jobs/delivery-operations-3pl-france-et-benelux-intern-m-f-x_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>PlusAI</strong></td>
+<td>Machine Learning Engineer Intern (Scenario Generation)</td>
+<td>Santa Clara<br>CA<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-scenario-generation_santa-clara-ca_i7d7bifs"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Coallia</strong></td>
+<td>Service Civique  H/F</td>
+<td>Clermont<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GaoF7R/jobs/service-civique-h-f_clermont"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td>STAGIAIRE CHARGÉ(E) DE RECRUTEMENT H/F</td>
+<td>La Verpillière<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stagiaire-charge-e-de-recrutement-h-f_la-verpilliere"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>STAGE COMMERCE - Développer l’activité commerciale de ton sport (H/F)</td>
+<td>Trégueux<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-developper-l-activite-commerciale-de-ton-sport-h-f_tregueux_DECAT_aVdNZNO"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>mc2i</strong></td>
+<td>Stage - Consultant(e) en Transformation Numérique H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/RyzjrMe/jobs/stage-en-transformation-numerique-h-f_paris-8e-arrondissement_MC2I_5gDYpW2"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Tata Consultancy Services France</strong></td>
+<td>Strategic Assistant</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qDNdRyj/jobs/strategic-assistant_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Aurora</strong></td>
+<td>Senior Staff Internal Communications</td>
+<td>San Francisco<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/AKTZso/jobs/senior-staff-internal-communications_san-francisco_4wipk7gd"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Thales</strong></td>
+<td>ALTERNANCE - Communication interne / Editorial - F/H</td>
+<td>Gennevilliers<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/alternance-communication-interne-editorial-f-h_gennevilliers_THALE_gGorAJx"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Hopscotch Groupe</strong></td>
+<td>STAGE ASSISTANT(E) MARKETING ACTIVATIONS /  PLANNING STRATÉGIQUE H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/wyRyjyx/jobs/stage-assistant-e-marketing-activations-planning-strategique-h-f_paris_HG_qQJaRYr"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>COWOOL</strong></td>
+<td>Inside Sales Coliving (H/F)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/5Bbf9n/jobs/inside-sales-coliving-h-f_paris_COWOO_5AbOR3a"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>ArianeGroup</strong></td>
+<td>Praktikant (m/w/d) im Bereich Commercial Management Datenanalyse</td>
+<td>Hardthausen am Kocher<br>Baden-Wurttemberg<br>Germany</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/praktikant-m-w-d-im-bereich-commercial-management-datenanalyse_lampoldshausen"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Carrefour</strong></td>
+<td>Stagiaire Data Analyst (F/H)</td>
+<td>Dravegny<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qbeJpY5/jobs/stagiaire-data-analyst-f-h_evry_CARRE_Ga9Ww6z"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>MSX International</strong></td>
+<td>Intern</td>
+<td>Chennai<br>Tamil Nadu<br>India</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/UODyqF/jobs/intern_chennai"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>US Analyst - Credit Analyst - Risk and Permanent Control</td>
+<td>New York<br>New York<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/us-analyst-credit-analyst-risk-and-permanent-control_new-york"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Kiabi</strong></td>
+<td>STAGE EXTRACURRICULARE KIABI TO DREAM</td>
+<td>Turin<br>Piedmont<br>Italy</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/stage-extracurriculare-kiabi-to-dream_torino_KIABI_qbdLwKr"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Embryolisse</strong></td>
+<td>Stage Assistant(e) Expérience Client – Embryolisse / Hygée</td>
+<td>Issy-les-Moulineaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/28T5Db/jobs/stage-assistant-experience-client-embryolisse-hygee_issy-les-moulineaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Hubcycle</strong></td>
+<td>Senior Food Ingredients Sales Manager - International</td>
+<td>Avignon<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/pjmLb4/jobs/senior-food-ingredients-sales-manager-international_avignon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Etablissement français du sang</strong></td>
+<td>ASSISTANT COMMUNICATION F/H F/H</td>
+<td>Coye-la-Forêt<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/61gM3WV/jobs/assistant-communication-f-h-f-h_fort-de-france"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>Rejoins-nous en stage pour l&#x27;organisation du Vitalsport ! DECATHLON LE PONTET</td>
+<td>Bollène<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/rejoins-nous-en-stage-pour-l-organisation-du-vitalsport-decathlon-le-pontet_bollene"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>Project Team (Organization), Trainee</td>
+<td>Seoul<br>South Korea</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/organization-trainee_seoul"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Pernod Ricard</strong></td>
+<td>Service Delivery Analyst intern</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YDQ9lZ1/jobs/service-delivery-analyst-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Orano</strong></td>
+<td>Responsable Stratégie &amp; Gouvernance IT Internationale F/H</td>
+<td>Châtillon<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qZG5Z4r/jobs/responsable-strategie-gouvernance-it-internationale-f-h_chatillon_ORANO_pDYGP4R"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Nalios France</strong></td>
+<td>Consultant(e) en Transformation Digitale (stage de fin d&#x27;études)</td>
+<td>Toulouse<br>Occitanie<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GJJ3RT/jobs/consultant-en-transformation-digital-stage-de-fin-d-etudes_lille"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>The Source</strong></td>
+<td>Assistant.e de production (STAGE)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/17gWdpw/jobs/assistant-e-de-production-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>Stage Analyste FMCG Infra</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-analyste-fmcg-infra_puteaux_BP_J2zYmxG"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Crédit Mutuel Alliance Fédérale</strong></td>
+<td>STAGE - Assistant(e) Chargé(e) de Marketing (H/F)</td>
+<td>Courbevoie<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iyTILx/jobs/stage-assistant-charge-de-marketing-h-f_courbevoie"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Natixis</strong></td>
+<td>Stage 6 mois - Commodity Structured Finance Analyst F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JDQP1gb/jobs/stage-6-mois-commodity-structured-finance-analyst-f-h_paris_NATIX_5Aq0yD"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>PIXID</strong></td>
+<td>Stage – IA &amp; Transformation des usages</td>
+<td>Courbevoie<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/qdrDLP5/jobs/stage-ia-transformation-des-usages_courbevoie"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>AXA</strong></td>
+<td>Stage - Analyste Investissements Alternatifs</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/8DDQYq1/jobs/stage-analyste-investissements-alternatifs_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Etched</strong></td>
+<td>GTM Intern</td>
+<td>San Jose<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/gtm-intern_san-jose_2ea2dqxr"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Groupement Mousquetaires</strong></td>
+<td>STAGE - Chef de Projet Concept H/F</td>
+<td>Vert-le-Grand<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zYeP3MN/jobs/stage-chef-de-projet-concept-h-f_vert-le-grand_GM_w2OXjbd"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>STAGE- Développer l’activité commerciale de ton sport (H/F) SEPTEMBRE / OCTOBRE</td>
+<td>Villenave-d'Ornon<br>Nouvelle-Aquitaine<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-developper-l-activite-commerciale-de-ton-sport-h-f-septembre-octobre_villenave-d-ornon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Grant Thornton</strong></td>
+<td>Stagiaire - Audit Extra-financier - Neuilly-sur-Seine (H/F)</td>
+<td>Neuilly-sur-Seine<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/J2eKo87/jobs/stagiaire-audit-extra-financier-neuilly-sur-seine-h-f_neuilly-sur-seine_GT_bL4bk80"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Groupe Crédit Agricole</strong></td>
+<td>Stage – Talent Acquisition Assistant / Chargé de sourcing talents H/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-talent-acquisition-assistant-charge-de-sourcing-talents-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td>CHARGE DE RECRUTEMENT Stagiaire H/F</td>
+<td>Coudekerque-Branche<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-stagiaire-h-f_coudekerque-branche_TAG_oLZ3NMD"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>ASSISTANT ADMINISTRATIF Stagiaire H/F</td>
+<td>Longuenesse<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/assistant-administratif-stagiaire-h-f_longuenesse_TAG_V7MyyWN"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Deloitte</strong></td>
+<td>Auditeur stagiaire fin d&#x27;études ESG F/H</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/auditeur-stagiaire-fin-d-etudes-esg-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Crédit Agricole CIB</strong></td>
+<td>12 Month Internship - Macro Structuring</td>
+<td>London<br>England<br>United Kingdom</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/XGGXdK/jobs/12-month-internship-macro-structuring_london"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>emlyon business school</strong></td>
+<td>Chargé/ Chargée de communication interne</td>
+<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/597Kj2/jobs/charge-chargee-de-communication-interne_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>féfé Cocktails</strong></td>
+<td>Stage - Consumer Insights &amp; Innovation Produit | Cocktails &amp; Boissons</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MpAw8bD/jobs/stage-consumer-insights-innovation-produit-cocktails-boissons_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Cuure</strong></td>
+<td>Marketing Digital &amp; E-commerce - Stage</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zk82MP3/jobs/merchandising-associate_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>SAPER VEDERE</strong></td>
+<td>Stage en influence et affaires publiques</td>
+<td>Brussels<br>Brussels<br>Belgium</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/LH9ZFk/jobs/stage-en-influence-et-affaires-publiques"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Disneyland® Paris</strong></td>
+<td>Praktikum PR &amp; Marketing im Bereich Disneyland® Paris</td>
+<td>Munich<br>Bavaria<br>Germany</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/R0r0MoA/jobs/praktikum-pr-marketing-im-bereich-disneyland-paris_munich"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Havas France</strong></td>
+<td>HAVAS PLAY - STAGE - INFLUENCE MARKETING JUNIOR (H/F/X)</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-play-stage-influence-marketing-junior-h-f-x_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Wake up Café</strong></td>
+<td>Chargé(e) de parcours et bénévoles – Stage - Sèvres</td>
+<td>Sèvres<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7MPwPg3/jobs/charge-de-parcours-et-benevoles-stage-sevres_sevres"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>DESCOURS &amp; CABAUD</strong></td>
+<td>Stagiaire en Comptabilité &amp;amp; Crédit Clients (F/H)</td>
+<td>Vénissieux<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MQaMrpV/jobs/stagiaire-en-comptabilite-amp-credit-clients-f-h_venissieux_DC_WoJAmZW"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Crossbeam</strong></td>
+<td>Data Analyst, Revenue Operations Intern (M/F/X)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/plxJWx7/jobs/go-to-market-engineer-intern-m-f-x_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Shangri-La Paris</strong></td>
+<td>Stagiaire Ressources Humaines</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MaNhEG/jobs/stagiaire-ressources-humaines_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>VINCI Construction</strong></td>
+<td>Réalisation de dossier F/H</td>
+<td>Nanterre<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/realisation-de-dossier-f-h_nanterre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Saronic</strong></td>
+<td>Test Engineer Intern (Fall 2026)</td>
+<td>Austin<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/mhHbjz/jobs/test-engineer-intern-fall-2026_austin_dglwexyr"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Bally&#x27;s Interactive</strong></td>
+<td>Manager - Internal Audit</td>
+<td>Chicago<br>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/manager-internal-audit_chicago_evuqp7ik"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td>STAGE CHARGE DE RECRUTEMENT H/F H/F</td>
+<td>Rennes<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/stage-charge-de-recrutement-h-f-h-f_rennes"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td>Stage Animateur Marketing</td>
+<td>Andrézieux-Bouthéon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/stage-animateur-marketing_andrezieux-boutheon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Groupe Crédit Agricole</strong></td>
+<td>STAGE - Chargé(e) de conformité en Know Your Customer H/F</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-charge-de-conformite-en-know-your-customer-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Skaleet</strong></td>
+<td>Stage développeur Frontend H/F</td>
+<td>Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/yYmoDmO/jobs/stage-developpeur-frontend-react-next-js-react-native-h-f_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Kiabi</strong></td>
+<td>_STAGE CONSEILLER DE VENTE (H/F/NB) - MARSEILLE</td>
+<td>Aubagne<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/stage-conseiller-de-vente-h-f_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Wavestone</strong></td>
+<td>Stage de fin d&#x27;études - Consultant.e Data/IA - Lyon</td>
+<td>Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/3qx8mY2/jobs/stage-de-fin-d-etudes-consultant-e-data-ia-lyon_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Libheros</strong></td>
+<td>Chef de Projets Opérations e-santé - Paris (F/H)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Y2pyeRd/jobs/chef-de-projet-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Matmut</strong></td>
+<td>Stage - Chargé(e) de Recherche et d&#x27;Innovation (F/H)</td>
+<td>Rouen<br>Normandy<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GgWa27/jobs/facilitateur-d-innovation-f-h_rouen"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Groupement Mousquetaires</strong></td>
+<td>Job Etudiant</td>
+<td>Rosières-en-Santerre<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zYeP3MN/jobs/job-etudiant_rosieres-en-santerre"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>PlayPlay</strong></td>
+<td>Chef de projet digital - Customer Success  -  Stage 6 mois Juillet ou Septembre 2026</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/NPXkM1W/jobs/chef-de-projet-digital-customer-success-stage-6-mois-juillet-ou-septembre-2026_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>BuyCo</strong></td>
+<td>Business &amp; Data Analyst - Customer Care (H/F)</td>
+<td>Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/1l7OoOO/jobs/customer-care-trainee-h-f_marseille"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>datacraft</strong></td>
+<td>DATA SCIENTIST - IA agentique (stage)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VkZkwwW/jobs/data-scientist-ia-agentique-stage_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>VINCI Construction</strong></td>
+<td>STAGE CHEF DE CHANTIER DECOUVERTE DES TP 81 F/H</td>
+<td>Nanterre<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/4qq8rQ/jobs/stage-chef-de-chantier-decouverte-des-tp-81-f-h_nanterre_VC_Oy0Akk5"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>VINCI Energies en France</strong></td>
+<td>Stagiaire chargé(e) de mission environnement F/H</td>
+<td>Toulouse<br>Occitanie<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GjVpLRX/jobs/stagiaire-charge-de-mission-environnement-f-h_toulouse_VEEF_Ow8Pqk0"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Wise</strong></td>
+<td>Internal Audit Manager</td>
+<td>Sydney<br>New South Wales<br>Australia</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/VWab97/jobs/internal-audit-manager_sydney"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Société Générale</strong></td>
+<td>Conseiller Accueil</td>
+<td>Lillers<br>Hauts-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/K2r7aw0/jobs/conseiller-accueil_lillers"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Citio</strong></td>
+<td>[Stage] Data Engineering &amp; Analytics</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/D9qyzL/jobs/stage-data-engineering-analytics_paris_CITIO_yP8wAyb"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>WAX</strong></td>
+<td>Business Development Representative (BDR)</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/7p7ahe/jobs/business-development-representative-bdr_paris_WAX_45PwX6l"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Groupe Crédit Agricole</strong></td>
+<td>Stage Assistant Chef de Projet Digital H/F</td>
+<td>Montrouge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/bR14OmN/jobs/stage-assistant-chef-de-projet-digital-h-f_montrouge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Safran Electronics &amp; Defense</strong></td>
+<td>Werkstudent/in (m/w/d) Entwicklung  -Schwerpunkt “Onboard-Verarbeitungsmodul/Onboard processing module</td>
+<td>Bergisch Gladbach<br>North-Rhine-Westphalia<br>Germany</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/n9v6xK/jobs/werkstudent-in-m-w-d-entwicklung-schwerpunkt-onboard-verarbeitungsmodul-onboard-processing-module_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Bsport</strong></td>
+<td>French SDR end-of studies-internship</td>
+<td>Barcelona<br>Catalonia<br>Spain</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/xopQLxm/jobs/french-inbound-sdr-end-of-studies-internship_barcelona"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Le Collectionist</strong></td>
+<td>Onsite Concierge Assistant (H/F/X) - Internship - Paros (Greece)</td>
+<td>Athens<br>Attiki<br>Greece</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/Z07kxLo/jobs/onsite-concierge-assistant-h-f-x-internship-paros-greece_athenes"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>féfé Cocktails</strong></td>
+<td>Stage - Chef de Secteur GMS</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/MpAw8bD/jobs/chef-de-secteur-gms_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Alterfood-Drinkyz</strong></td>
+<td>Stage - Social Media &amp; Création de contenu</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YageZJ2/jobs/stage-social-media-creation-de-contenu_paris_ALTER_V89Y5rJ"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>The Adecco Group</strong></td>
+<td>CHARGE DE RECRUTEMENT H/F</td>
+<td>L'Aigle<br>Normandy<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/ZMet0N/jobs/charge-de-recrutement-h-f_l-aigle"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Decathlon</strong></td>
+<td>STAGE COMMERCE - Cycle (H/F)</td>
+<td>Bron<br>Auvergne-Rhone-Alpes<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/V7KyWwe/jobs/stage-commerce-cycle-h-f_bron"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Havas France</strong></td>
+<td>HAVAS PARIS - STAGE - HAVAS PARIS-STAGE-DA WEB / UI DESIGNER DIGITAL (H/F)</td>
+<td>Puteaux<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fhfOA5/jobs/havas-paris-stage-havas-paris-stage-da-web-ui-designer-digital-h-f_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Kiabi</strong></td>
+<td>_STAGE CONSEILLER DE VENTE (H/F/NB) - VILLEBON</td>
+<td>Villebon-sur-Yvette<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/KgL7ylz/jobs/_stage-conseiller-de-vente-h-f-nb-villebon_villebon-sur-yvette"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Spark Avocats</strong></td>
+<td>M&amp;A - Private Equity - Cabinet d&#x27;Avocats - Stage Janvier 2027</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/zDmgaXO/jobs/m-a-private-equity-cabinet-d-avocats-stage-janvier-2027_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Tiger Data</strong></td>
+<td>Senior Software Engineer (Database Internals)</td>
+<td>United States</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/iyg2Ey/jobs/senior-software-engineer_fr_mjjixoxt"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Finalli</strong></td>
+<td>Consultant en financement de l’innovation (H/F) en stage - Rennes</td>
+<td>Rennes<br>Brittany<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/oBORw2/jobs/consultant-en-financement-de-l-innovation_rennes_FINAL_xm9WdRm"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>BRICO DEPOT</strong></td>
+<td>Assistant(e) Commerce International et Logistique</td>
+<td>Longpont-sur-Orge<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/fl7ljO/jobs/assistant-commerce-international-et-logistique_longpont-sur-orge"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Idex</strong></td>
+<td>Stage Ingénieur Méthodes et Energies F/H</td>
+<td>Rueil-Malmaison<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/eXjwwW/jobs/stage-ingenieur-methodes-et-energies-f-h_rueil-malmaison_IDEX_axPKbLP"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>BNP Paribas</strong></td>
+<td>STAGE – Développeur Java/Angular/Cloud H/F - 6 mois</td>
+<td>Pantin<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/JXVz1DQ/jobs/stage-developpeur-java-angular-cloud-h-f-6-mois_pantin"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Casale SA</strong></td>
+<td>Junior Software Engineer (Internship Program)</td>
+<td>Lugano<br>Switzerland</td>
+<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/cde48ec2-bf86-42e8-8135-db0c7a6e3772/"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Exact Sciences International Sàrl</strong></td>
+<td>Lead Health Systems Integrations Manager, International</td>
+<td>Switzerland - Zug<br>Switzerland</td>
+<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/ee1716cf-4f51-484a-9948-f5498c9bd8c3/"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong>Refco Manufacturing Ltd</strong></td>
+<td>Internal Sales 80-100% (m/w/d)</td>
+<td>Hitzkirch<br>Switzerland</td>
+<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/93d22d50-143e-4513-b4a8-afdb0dd2659d/"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>CISTEC AG</strong></td>
+<td>ICT-Leiter:in intern (80 – 100%)</td>
+<td>Zürich<br>Switzerland</td>
+<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/601a8a01-0567-4c34-9b08-920cddd9a0dc/"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>Hitachi Energy AG</strong></td>
+<td>Internship Application Development 80 - 100% (f/m/d)</td>
+<td><details><summary><strong>4 locations</strong></summary>Zurich<br>Zurich<br>Switzerland<br>Switzerland</details></td>
+<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/61d3dd89-eaff-4dcc-b9b7-2b08c0d7e8c2/"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Swiss International Air Lines AG</strong></td>
+<td>Internship HR Business Partnering (limited to 6 months, 80-100%, all genders)</td>
+<td>Zürich/Kloten<br>Switzerland</td>
+<td><div align="center"><a href="https://www.jobs.ch/en/vacancies/detail/1e351ebf-a06e-45ae-851d-67f6d124f0a6/"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>One Robot</strong></td>
+<td>Machine Learning Intern</td>
+<td>San Francisco<br>CA<br>US</td>
+<td><div align="center"><a href="https://www.ycombinator.com/companies/one-robot/jobs/tJSlTgB-machine-learning-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Pure</strong></td>
+<td>Product Engineering Intern</td>
+<td>Los Angeles<br>CA<br>US / Remote (US)</td>
+<td><div align="center"><a href="https://www.ycombinator.com/companies/pure/jobs/fZDWDQD-product-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Growth Marketing Intern</td>
+<td>Marina del Rey<br>CA<br>US</td>
+<td><div align="center"><a href="https://www.ycombinator.com/companies/pure/jobs/FB9AhLp-growth-marketing-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>415</strong></td>
+<td>2027 Spring &amp; Summer Internship Program</td>
+<td>Canton<br>Ohio<br>United States</td>
+<td><div align="center"><a href="https://415.bamboohr.com/careers/76"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>consensus</strong></td>
+<td>Creative Technologist Intern</td>
+<td>2100 København Ø<br>Denmark</td>
+<td><div align="center"><a href="https://consensus.bamboohr.com/careers/39"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Customer Success Intern</td>
+<td>2100 København Ø<br>Denmark</td>
+<td><div align="center"><a href="https://consensus.bamboohr.com/careers/38"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>aier</strong></td>
+<td>IT Intern</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://aier.bamboohr.com/careers/67"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>calpionplutus</strong></td>
+<td>AI Engineering Intern (Python &amp; Agentic AI)</td>
+<td>Dallas<br>Texas<br>United States</td>
+<td><div align="center"><a href="https://calpionplutus.bamboohr.com/careers/310"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>clearspace</strong></td>
+<td>Communications &amp; Events Intern - 80%</td>
+<td>Renens VD<br>Switzerland</td>
+<td><div align="center"><a href="https://clearspace.bamboohr.com/careers/53"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>growpublicschools</strong></td>
+<td>Early Childhood Education Aide 1st Grade (2026-2027) - Internal Candidates</td>
+<td>Arvin<br>California<br>United States</td>
+<td><div align="center"><a href="https://growpublicschools.bamboohr.com/careers/382"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>internationalfreshproduce</strong></td>
+<td>Director, International Relations</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://internationalfreshproduce.bamboohr.com/careers/84"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>kandou</strong></td>
+<td>Internship – Analog Design</td>
+<td>Saint-Sulpice<br>Switzerland</td>
+<td><div align="center"><a href="https://kandou.bamboohr.com/careers/384"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>ndp</strong></td>
+<td>(Internal Applicants Only) Creative Media Producer</td>
+<td>Toronto<br>Ontario<br>Canada</td>
+<td><div align="center"><a href="https://ndp.bamboohr.com/careers/464"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>oscglobal</strong></td>
+<td>Cyber Security Intern (SOE)</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://oscglobal.bamboohr.com/careers/323"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>plugandplaytechcenter</strong></td>
+<td>IT Intern</td>
+<td>Sunnyvale<br>California<br>United States</td>
+<td><div align="center"><a href="https://plugandplaytechcenter.bamboohr.com/careers/1461"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>redotpay</strong></td>
+<td>Intern(Payment Product Manager)</td>
+<td>Hong Kong<br>Hong Kong<br>Hong Kong</td>
+<td><div align="center"><a href="https://redotpay.bamboohr.com/careers/194"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>reverehealth</strong></td>
+<td>Social Media Intern-PT-Hobble Creek Pediatrics-Springville</td>
+<td>Springville<br>Utah<br>United States</td>
+<td><div align="center"><a href="https://reverehealth.bamboohr.com/careers/2762"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>smule</strong></td>
+<td>Internship - Machine Learning Engineer</td>
+<td>N/A</td>
+<td><div align="center"><a href="https://smule.bamboohr.com/careers/31"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>understandingwar</strong></td>
+<td>Geospatial Intelligence and National Security Technologies Internship Fall 2026</td>
+<td>Washington<br>District of Columbia<br>United States</td>
+<td><div align="center"><a href="https://understandingwar.bamboohr.com/careers/234"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>windcave</strong></td>
+<td>Credit Controller Intern</td>
+<td>Auckland<br>New Zealand</td>
+<td><div align="center"><a href="https://windcave.bamboohr.com/careers/132"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>Aimpoint Digital</strong></td>
+<td>Internal Reporting Analyst 2026 - COL</td>
+<td>Medellin<br>CO</td>
+<td><div align="center"><a href="https://aimpoint-digital.breezy.hr/p/026565f21a99-internal-reporting-analyst-2026-col"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>Pernod Ricard</strong></td>
+<td>Global Media Executive Apprentice - M/F</td>
+<td>Paris<br>Ile-de-France<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/YDQ9lZ1/jobs/global-media-executive-apprentice-m-f_paris_PR_bm9G2xo"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Matmut</strong></td>
+<td>Coordinateur Téléphonie &amp; Communications unifiées – Projets Internes &amp; Exploitation F/H</td>
+<td>Sotteville<br>Normandy<br>France</td>
+<td><div align="center"><a href="https://www.welcometothejungle.com/en/companies/GgWa27/jobs/coordinateur-telephonie-communications-unifiees-projets-internes-exploitation-f-h_sotteville"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>ibanfirst</strong></td>
+<td>Internal Audit Manager</td>
+<td>Brussels; Paris</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/ibanfirst/jobs/4873968101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>indiecampers-linkedin</strong></td>
+<td>Sales Intern</td>
+<td>Mexico City</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/indiecampers-linkedin/jobs/8575922002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Spontaneous Application | Tourism &amp; Operations Internship - Erasmus+</td>
+<td>Malmö<br>Skåne län<br>Sweden</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8556083002?gh_jid=8556083002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Tourism &amp; Operations Internship</td>
+<td>Faro<br>Faro<br>Portugal</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8587721002?gh_jid=8587721002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Tourism &amp; Operations Internship</td>
+<td>Warszawa<br>Masovian Voivodeship<br>Poland</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8603788002?gh_jid=8603788002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Tourism &amp; Operations Internship</td>
+<td>Nantes<br>Loire-Atlantique<br>France</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8611573002?gh_jid=8611573002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Tourism &amp; Operations Internship</td>
+<td>Bordeaux<br>Gironde<br>France</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8611576002?gh_jid=8611576002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Tourism &amp; Operations Internship</td>
+<td>Alicante<br>Alicante<br>Spain</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8611650002?gh_jid=8611650002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Tourism &amp; Operations Internship - Erasmus+</td>
+<td>Toulouse<br>Haute-Garonne<br>France</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8556102002?gh_jid=8556102002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Tourism &amp; Operations Internship - Erasmus+</td>
+<td>Porto<br>Porto<br>Portugal</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8587746002?gh_jid=8587746002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>indiecampers</strong></td>
+<td>Tourism &amp; Operations Internship - Erasmus+</td>
+<td>Tromsø<br>Troms<br>Norway</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8556150002?gh_jid=8556150002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Tourism &amp; Operations Internship - Erasmus+</td>
+<td>Bilbao<br>Bizkaia<br>Spain</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8556153002?gh_jid=8556153002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Tourism &amp; Operations Internship - Erasmus+</td>
+<td>Santa Cruz de Tenerife<br>Santa Cruz de Tenerife<br>Spain</td>
+<td><div align="center"><a href="https://indiecampers.com/discover/en-us/careers/8556174002?gh_jid=8556174002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>innodatainc</strong></td>
+<td>Events &amp; Community Growth Intern</td>
+<td>Remote - Washington</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/innodatainc/jobs/4285592009"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>novafounders</strong></td>
+<td>Ejendoms Investerings Intern</td>
+<td>Copenhagen<br>Denmark</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/novafounders/jobs/7727466003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Management Intern</td>
+<td>Copenhagen<br>Denmark</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/novafounders/jobs/7728197003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>onrunning</strong></td>
+<td>Intern - Events Management</td>
+<td>Zurich</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/onrunning/jobs/8032361?gh_jid=8032361"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>onrunning</strong></td>
+<td>Intern - Product Technology</td>
+<td>Zurich</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/onrunning/jobs/8019985?gh_jid=8019985"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>point72</strong></td>
+<td>International Trade Support Associate</td>
+<td>Singapore</td>
+<td><div align="center"><a href="https://boards.greenhouse.io/point72/jobs/8581871002?gh_jid=8581871002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>pokemoncareers</strong></td>
+<td>International Accounting Manager</td>
+<td>Bellevue<br>Washington<br>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/pokemoncareers/jobs/7748662003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong>rfsmart</strong></td>
+<td>Business Development Intern - Fall 2026</td>
+<td>Jacksonville<br>Florida<br>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/rfsmart/jobs/5230703008"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong>rocketlab</strong></td>
+<td>Software Intern Fall 2026</td>
+<td>Albuquerque<br>NM</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7736776003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Structural Analysis Intern Fall 2026</td>
+<td>Long Beach<br>CA</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/7734020003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>scopely</strong></td>
+<td>Intern - Game Design (Slot)</td>
+<td>IN - Bangalore<br>India</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/scopely/jobs/5256167008?gh_jid=5256167008"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>sharkninjaoperatingllc</strong></td>
+<td>Internship - Sales Operations &amp; Commercial Coordination</td>
+<td>Paris<br>France</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4686371006"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>spin</strong></td>
+<td>Analista de Comunicación Interna y Marca Empleadora</td>
+<td>Ciudad de México<br>México; Monterrey<br>México</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/spin/jobs/4707641005"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>spsnorthamerica</strong></td>
+<td>Internal Messenger Lead</td>
+<td>New York<br>New York<br>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/spsnorthamerica/jobs/5216632008"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>stackadapt</strong></td>
+<td>People Operations Intern (Fall 2026)</td>
+<td>Canada</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/stackadapt/jobs/4280872009"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>thequalitygroupgmbh1</strong></td>
+<td>Intern Product Line Management (gn)</td>
+<td>Deutschland<br>remote</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4896086101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>thirdbridge</strong></td>
+<td>Associate Intern, Client Services- Japanese Speaker (2028 Graduate)</td>
+<td>Tokyo</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/thirdbridge/jobs/4908859101?gh_jid=4908859101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>transmarketgroup</strong></td>
+<td>DevOps/SRE Intern</td>
+<td>Chicago<br>Illinois<br>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Trader Intern</td>
+<td>Chicago<br>Illinois<br>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/transmarketgroup/jobs/5151569007?gh_jid=5151569007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>28d</td>
+</tr>
+<tr>
+<td><strong>tripadvisor</strong></td>
+<td>Junior Accountant Intern</td>
+<td>London</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/tripadvisor/jobs/8023715"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td><strong>verve</strong></td>
+<td>(Senior) Auditor – Internal Controls, SOX</td>
+<td>Dublin<br>Ireland</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/verve/jobs/8600603002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>walleyecapital-external-students</strong></td>
+<td>Equity Volatility Quant Researcher Intern (Summer 2027)</td>
+<td>Miami<br>FL</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Technology Intern (Summer 2027)</td>
+<td>New York<br>New York</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>30d</td>
+</tr>
+<tr>
+<td><strong>adasiaholdings</strong></td>
+<td>Talent Acquisition Intern</td>
+<td>Jakarta</td>
+<td><div align="center"><a href="https://anymindgroup.com/career/job/7076416?gh_jid=7076416"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>eccintegrator</strong></td>
+<td>SkillBridge Internship (Must be active duty)</td>
+<td>All Locations</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/eccintegrator/jobs/4272403009"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>fahertybrand</strong></td>
+<td>Intern, Hospitality Operations &amp; Growth</td>
+<td>Spring Lake<br>New Jersey<br>United States</td>
+<td><div align="center"><a href="https://fahertybrand.com/pages/faherty-applications?gh_jid=5167810007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>fanaticscollectibles</strong></td>
+<td>Director, Product Management - Commercial &amp; International Growth</td>
+<td>New York<br>NY<br>United States</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4278851009"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>fidelityguarantylife</strong></td>
+<td>Senior Internal Wholesaler, Annuity</td>
+<td>Remote</td>
+<td><div align="center"><a href="https://www.fglife.com/about/careers/apply.html?gh_jid=7789025003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong>florafoodgroup</strong></td>
+<td>R&amp;D Intern - Process Technology</td>
+<td>Wageningen<br>Netherlands</td>
+<td><div align="center"><a href="https://www.florafoodgroup.com/careers/join-flora-food-group/8534239002?gh_jid=8534239002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>flyzipline</strong></td>
+<td>Computational Physics Intern (Fall 2026)</td>
+<td>South San Francisco<br>California<br>USA</td>
+<td><div align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7766408003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>flyzipline</strong></td>
+<td>Flight Test Engineer Intern (Fall 2026)</td>
+<td>South San Francisco<br>California<br>USA</td>
+<td><div align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7767622003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>flyzipline</strong></td>
+<td>Strategic Operations Program Management Intern (Fall 2026)</td>
+<td>South San Francisco<br>California<br>USA</td>
+<td><div align="center"><a href="https://www.zipline.com/open-roles?gh_jid=7772054003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>18d</td>
+</tr>
+<tr>
+<td><strong>jumia</strong></td>
+<td>Data Scientist Intern - Jumia (Full Time)</td>
+<td>Egypt</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/jumia/jobs/4892409101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>3d</td>
+</tr>
+<tr>
+<td><strong>kaizengaming</strong></td>
+<td>Internship Progam Kaizen Gaming</td>
+<td>São Paulo<br>Brazil</td>
+<td><div align="center"><a href="https://careers.kaizengaming.com/job-details/7764510003?gh_jid=7764510003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>nashvillezoo</strong></td>
+<td>Post Graduate Veterinary Intern</td>
+<td>Nashville<br>TN</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/nashvillezoo/jobs/5267424008"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>13d</td>
+</tr>
+<tr>
+<td><strong>oneacrefund</strong></td>
+<td>Quality Engineering Intern</td>
+<td>Nairobi<br>Kenya or Kigali<br>Rwanda</td>
+<td><div align="center"><a href="https://oneacrefund.org/vacancies/?gh_jid=8030141"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>orchestra</strong></td>
+<td>Emerging Talent Communications Internship – Consumer, Sports &amp; Technology (Fall 2026)</td>
+<td>New York<br>N.Y. or Washington<br>D.C.</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/orchestra/jobs/8610591002"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>pcm</strong></td>
+<td>Intern, Private Client Service</td>
+<td>Calgary<br>Alberta<br>Canada</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/pcm/jobs/4299545009"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>4d</td>
+</tr>
+<tr>
+<td><strong>peakenergy</strong></td>
+<td>Supplier Industrialization Engineer Intern (Fall 2026)</td>
+<td>Burlingame<br>CA</td>
+<td><div align="center"><a href="https://peakenergy.com/get-in-touch/careers/jobs?job_id=5165279007&gh_jid=5165279007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>sbenergy</strong></td>
+<td>Electrical Engineering/Power System Intern</td>
+<td>Denver<br>CO</td>
+<td><div align="center"><a href="https://sbenergy.com/careers/?gh_jid=5986631004"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>sentinellabs</strong></td>
+<td>Internal Communications Intern</td>
+<td>Prague<br>Czech Republic</td>
+<td><div align="center"><a href="https://www.sentinelone.com/jobs/7676006003?gh_jid=7676006003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>stepstone</strong></td>
+<td>2026 – 2027 Investment Controlling Internship</td>
+<td>Dublin</td>
+<td><div align="center"><a href="https://www.stepstonegroup.com/current-opportunities/?gh_jid=8028580"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>teads1</strong></td>
+<td>Sales Intern</td>
+<td>Madrid</td>
+<td><div align="center"><a href="https://job-boards.eu.greenhouse.io/teads1/jobs/4861763101"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>tulip</strong></td>
+<td>Manufacturing Solutions Engineer Intern</td>
+<td>Budapest<br>Hungary</td>
+<td><div align="center"><a href="https://tulip.co/careers/job-posting/?gh_jid=7765984003"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>unity3d</strong></td>
+<td>Développeuse ou développeur backend sénior, Outils IA internes  / Senior Backend Developer, Internal AI Tooling</td>
+<td>Montreal<br>Canada</td>
+<td><div align="center"><a href="https://unity.com/careers/positions/7992251?gh_jid=7992251"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>veracyte</strong></td>
+<td>Research &amp; Development Laboratory Intern</td>
+<td>San Diego<br>California<br>United States</td>
+<td><div align="center"><a href="https://veracyte.com/job-detail?gh_jid=5161373007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>waldensecurity</strong></td>
+<td>Memphis - Internal Candidate Application</td>
+<td>Memphis</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/waldensecurity/jobs/5172056007"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>7d</td>
+</tr>
+<tr>
+<td>🔥 <strong>waymo</strong></td>
+<td>International Standardization Lead (Staff Researcher)</td>
+<td>London<br>England<br>United Kingdom</td>
+<td><div align="center"><a href="https://careers.withwaymo.com/jobs?gh_jid=7890744"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>aitworldwide</strong></td>
+<td>International Operations Agent II</td>
+<td>Romulus<br>MI<br>US</td>
+<td><div align="center"><a href="https://careers-aitworldwide.icims.com/jobs/7327/international-operations-agent-ii/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>baptisthealthal</strong></td>
+<td>Nurse Intern, Med/Surg</td>
+<td>HOMEWOOD<br>AL<br>US</td>
+<td><div align="center"><a href="https://careers-baptisthealthal.icims.com/jobs/298915/nurse-intern%2c-med-surg/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>bncollege</strong></td>
+<td>Student CMO (Campus Marketing Officer – Marketing Intern)</td>
+<td>SYRACUSE<br>NY<br>US</td>
+<td><div align="center"><a href="https://careers-bncollege.icims.com/jobs/22816/student-cmo-%28campus-marketing-officer-%e2%80%93-marketing-intern%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Atlas Technica</strong></td>
+<td>Sr. Systems Engineer (Internal Support)</td>
+<td>Lima<br>PE</td>
+<td><div align="center"><a href="https://atlas-technica.breezy.hr/p/da7f34c48efb-sr-systems-engineer-internal-support"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Sr. Systems Engineer (Internal Support)</td>
+<td>London<br>GB</td>
+<td><div align="center"><a href="https://atlas-technica.breezy.hr/p/1ecf5787129b-sr-systems-engineer-internal-support"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Betclic Group</strong></td>
+<td>Internship - Casino Content Operations Assistant F/M</td>
+<td>Bordeaux<br>FR</td>
+<td><div align="center"><a href="https://betclic-group.breezy.hr/p/e8578e05c41b01-internship-casino-content-operations-assistant-f-m"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>Carda Health</strong></td>
+<td>Cardiac and Pulmonary Rehab Telehealth Physician (Internal Medicine)</td>
+<td>United States</td>
+<td><div align="center"><a href="https://cardahealth.breezy.hr/p/f47667390d9e-cardiac-and-pulmonary-rehab-telehealth-physician-internal-medicine"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Everlight Solar</strong></td>
+<td>Athletic Leadership and Sales Internship</td>
+<td>Lincoln<br>NE</td>
+<td><div align="center"><a href="https://everlight-solar.breezy.hr/p/5cfd85472551-athletic-leadership-and-sales-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>25d</td>
+</tr>
+<tr>
+<td><strong>German American Chambers of Commerce</strong></td>
+<td>Internship Membership, Events &amp; Communication (12 months)</td>
+<td>New York<br>NY</td>
+<td><div align="center"><a href="https://german-american-chambers-of-commerce.breezy.hr/p/c0bd5081ba8e-internship-membership-events-communication-12-months"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Helpware</strong></td>
+<td>Recruitment Intern</td>
+<td>Cebu<br>PH</td>
+<td><div align="center"><a href="https://helpware-inc.breezy.hr/p/c06a294f8636-recruitment-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong>Nexus Group</strong></td>
+<td>CEO Office &amp; AI Transformation- 18-Monats-Internship (w/m/d) 80-100%</td>
+<td><details><summary><strong>4 locations</strong></summary>Neuwiesenstrasse 15<br>8400 Winterthur<br>CH<br>CH</details></td>
+<td><div align="center"><a href="https://nexus-group.breezy.hr/p/91504884d688-ceo-office-ai-transformation-18-monats-internship-w-m-d-80-100"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>26d</td>
+</tr>
+<tr>
+<td><strong>Nexthire</strong></td>
+<td>Impact Infotech- International Sales Process</td>
+<td>Mumbai<br>IN</td>
+<td><div align="center"><a href="https://nexthire.breezy.hr/p/53b8cbfe8e25-impact-infotech-international-sales-process"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Reliant Mission</strong></td>
+<td>Resonate Internship</td>
+<td>Fremont<br>CA</td>
+<td><div align="center"><a href="https://reliantinternships.breezy.hr/p/b3a63a460d3a-resonate-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>HIKINEX</strong></td>
+<td>Trainer (Open for Internal Applicants only)</td>
+<td>Argentina</td>
+<td><div align="center"><a href="https://recruiting.breezy.hr/p/81b0a682c090-trainer-open-for-internal-applicants-only"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong>SBC Performance</strong></td>
+<td>Marketing Intern</td>
+<td>Украина</td>
+<td><div align="center"><a href="https://sbc-performance.breezy.hr/p/5c26ac74099d01-marketing-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Support Services Group</strong></td>
+<td>Supply Chain Coordinator | International Gaming Account</td>
+<td>Mandaluyong<br>PH</td>
+<td><div align="center"><a href="https://ssg-philippines.breezy.hr/p/1cd5a2c01ce8-supply-chain-coordinator-international-gaming-account"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Team Leader | Pioneer International Retail Account</td>
+<td>Mandaluyong<br>PH</td>
+<td><div align="center"><a href="https://ssg-philippines.breezy.hr/p/0566d88621fd-team-leader-pioneer-international-retail-account"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Commonwealth Health</strong></td>
+<td>Intern/Extern- Telemetry</td>
+<td>Wilkes-Barre<br>PA</td>
+<td><div align="center"><a href="https://tenor-health-foundation.breezy.hr/p/c87d2a30e332-intern-extern-telemetry"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>Vosyn</strong></td>
+<td>Grant &amp; Funding Application Writer Intern – Startup Programs</td>
+<td>Etobicoke<br>ON</td>
+<td><div align="center"><a href="https://vosyn.breezy.hr/p/3962d7914b74-grant-funding-application-writer-intern-startup-programs"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>LINE MAN Wongnai</strong></td>
+<td>Intern - Talent Acquisition/Recruitment (People Team)(Starting from June onward)</td>
+<td>Thailand</td>
+<td><div align="center"><a href="https://wongnai-media-co-ltd.breezy.hr/p/453f058c17d0-intern-talent-acquisition-recruitment-people-team-starting-from-june-onward"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>alluvionic</strong></td>
+<td>Accounting Intern</td>
+<td>Melbourne<br>FL</td>
+<td><div align="center"><a href="https://alluvionic.applytojob.com/apply/jobs/details/T8RA5YNbU4"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong>drivenadvisors</strong></td>
+<td>Senior International Tax Manager</td>
+<td>Coral Gables<br>FL</td>
+<td><div align="center"><a href="https://drivenadvisors.applytojob.com/apply/jobs/details/dkwY6kKEXc"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>grizzlytrek</strong></td>
+<td>Indigenous Operator Internship - Class 1 and 3</td>
+<td>Edmonton<br>AB<br>Canada</td>
+<td><div align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/hSBfArv4Zo"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>harborhealth</strong></td>
+<td>Family/Internal Medicine Physician - Culebra</td>
+<td>San Antonio<br>TX</td>
+<td><div align="center"><a href="https://harborhealth.applytojob.com/apply/jobs/details/mKPLqYeupa"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>hantzgroup</strong></td>
+<td>Planning Analyst - Intern</td>
+<td>Marquette<br>MI</td>
+<td><div align="center"><a href="https://hantzgroup.applytojob.com/apply/jobs/details/tClFv3v2ic"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>hungrypanda</strong></td>
+<td>Marketing Intern - Mandarin Speaking</td>
+<td>Paris<br>France</td>
+<td><div align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/sernqCohL1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>itcdefense</strong></td>
+<td>Logistics Specialist for International Programs, Senior</td>
+<td>Lexington Park<br>MD</td>
+<td><div align="center"><a href="https://itcdefense.applytojob.com/apply/jobs/details/kMhWk1B7Lf"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>jobsatdarcars</strong></td>
+<td>Corporate Automotive Internet Sales Representative</td>
+<td>Rockville<br>MD</td>
+<td><div align="center"><a href="https://jobsatdarcars.applytojob.com/apply/jobs/details/6WKjVe4dha"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>2d</td>
+</tr>
+<tr>
+<td><strong>jobsatdarcars</strong></td>
+<td>Automotive Business Development Representative (BDC)/Internet Sales</td>
+<td>Mount Kisco<br>NY</td>
+<td><div align="center"><a href="https://jobsatdarcars.applytojob.com/apply/jobs/details/xsDI5Zu0S7"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>5d</td>
+</tr>
+<tr>
+<td><strong>mcaairports</strong></td>
+<td>Barista - Orlando International Airport</td>
+<td>Orlando<br>FL</td>
+<td><div align="center"><a href="https://mcaairports.applytojob.com/apply/jobs/details/M8TjsaCOsT"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>satechi</strong></td>
+<td>Social Media/Content Intern</td>
+<td>Scripps Summit Ct<br>CA</td>
+<td><div align="center"><a href="https://satechi.applytojob.com/apply/jobs/details/BlzwtgnQMg"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>selectra</strong></td>
+<td>Internship - Inbound Sales Agent - Dutch Speaking</td>
+<td>Madrid<br>Spain</td>
+<td><div align="center"><a href="https://selectra.applytojob.com/apply/jobs/details/oTnQ4brZeA"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>21d</td>
+</tr>
+<tr>
+<td><strong>Athora Netherlands</strong></td>
+<td>Interim - Internal accountmanager pensioning</td>
+<td>Amsterdam<br>Noord-Holland<br>Nederland</td>
+<td><div align="center"><a href="https://athora.recruitee.com/o/interim-internal-accountmanager-pensioning"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Carv.com B.V.</strong></td>
+<td>AI Agent Oversight Intern</td>
+<td>Amsterdam<br>Noord-Holland<br>Netherlands</td>
+<td><div align="center"><a href="https://careers.carv.com/o/ai-agent-oversight-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Fastned</strong></td>
+<td>Internship Expansion Management (m/w/d)</td>
+<td>Zürich<br>Zürich<br>Switzerland</td>
+<td><div align="center"><a href="https://fastned.recruitee.com/o/internship-expansion-management-mwd"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>9d</td>
+</tr>
+<tr>
+<td><strong>Lomography</strong></td>
+<td>Sales &amp; Marketing Internship</td>
+<td>Vienna<br>Wien<br>Austria</td>
+<td><div align="center"><a href="https://lomography.recruitee.com/o/sales-marketing-internship-3"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong>Si-Ware Systems</strong></td>
+<td>System Graduate Internship</td>
+<td>Cairo<br>Al Qāhirah<br>Egypt</td>
+<td><div align="center"><a href="https://siwaresystems.recruitee.com/o/system-graduate-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Tessan</strong></td>
+<td>Internship - Operations (US Market) (H/F)</td>
+<td>Paris<br>Île-de-France<br>France</td>
+<td><div align="center"><a href="https://carriere.tessan.io/o/internship-operations-us-market-hf-1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong>TransPerfect</strong></td>
+<td>Data Engineering | Intern | Lisbon</td>
+<td>Lisbon<br>Lisboa<br>Portugal</td>
+<td><div align="center"><a href="https://transperfect.com/o/data-engineering-intern-lisbon-3"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>12d</td>
+</tr>
+<tr>
+<td><strong>GRB Gemeinnütziges Rheinisches Bildungszentrum GmbH</strong></td>
+<td>Vertriebsassistenz/ Berufseinsteiger für Internationale Bildung (w/m/d)</td>
+<td>Düsseldorf<br>Nordrhein-Westfalen<br>Deutschland</td>
+<td><div align="center"><a href="https://grb.recruitee.com/o/vertriebsassistenz-berufseinsteiger-fur-internationale-bildung-wmd-1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong>PALAZZO HOSPITALITY</strong></td>
+<td>Banquet Supervisor (International Convention Center – Pre-Opening)</td>
+<td>Ezulwini<br>Manzini<br>Swaziland</td>
+<td><div align="center"><a href="https://palazzohospitality.recruitee.com/o/banquet-supervisor-international-convention-center-pre-opening"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Commis Chef (International Convention Center – Pre-Opening)</td>
+<td>Ezulwini<br>Manzini<br>Swaziland</td>
+<td><div align="center"><a href="https://palazzohospitality.recruitee.com/o/commis-chef-international-convention-center-pre-opening-1"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>AniCura Italia</strong></td>
+<td>Internship Rotazionale - Borghesiana (RM)</td>
+<td>Roma<br>IT</td>
+<td><div align="center"><a href="https://anicuraglobal.teamtailor.com/jobs/7776998-internship-rotazionale-borghesiana-rm"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong>Bodyguard</strong></td>
+<td>Sales &amp; Operations intern</td>
+<td>Paris<br>FR</td>
+<td><div align="center"><a href="https://bodyguard.teamtailor.com/jobs/7969510-sales-operations-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>6d</td>
+</tr>
+<tr>
+<td><strong>EAT HAPPY GROUP</strong></td>
+<td>Senior Manager International Marketing, Projects &amp; Planning (m/w/d)</td>
+<td>Köln<br>DE</td>
+<td><div align="center"><a href="https://eathappygroup.teamtailor.com/jobs/7918037-senior-manager-international-marketing-projects-planning-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
+<td><strong>Flanks</strong></td>
+<td>Financial Back Office Intern</td>
+<td>Barcelona<br>ES</td>
+<td><div align="center"><a href="https://flanks.teamtailor.com/jobs/7729782-financial-back-office-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="40" alt="Apply"></a></div></td>
 <td>1mo</td>
 </tr>
 </tbody>
