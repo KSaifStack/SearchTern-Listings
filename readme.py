@@ -7,17 +7,16 @@ from datetime import datetime, timezone
 GITHUB_FILE_SIZE_LIMIT = 512000
 SIZE_BUFFER = 2560
 
-# Inactivity threshold in days
 INACTIVE_THRESHOLD_DAYS = 60
 
 # Base GitHub URL for nav links
 BASE_URL = "https://github.com/KSaifStack/jobscraper/blob/main/"
 
-# Max character lengths before truncation
+APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
+
 MAX_COMPANY_LEN = 24
 MAX_ROLE_LEN    = 60
 
-# Blocked companies
 BLOCKED_COMPANIES: set[str] = {}
 
 # FAANG+ companies
@@ -129,20 +128,52 @@ def build_nav(current_page: int, total_pages: int) -> str:
 
 
 def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
-    """Build the top section of each README page."""
-    nav       = build_nav(current_page, total_pages)
-    page_info = f"Page {current_page} of {total_pages} — {total_rows:,} total listings"
+    today = datetime.now(timezone.utc).strftime("%B %d, %Y")
+    nav   = build_nav(current_page, total_pages)
 
     if current_page == 1:
-        return (
-            "# SearchTern Job Listings\n\n"
-            "Auto-generated from jobhive. Updated each scrape run.\n\n"
-            f"**{page_info}**\n\n"
-            f"{nav}\n\n"
-        )
+        return f"""<div align="center">
+
+<img src="https://raw.githubusercontent.com/KSaifStack/SearchTern/main/frontend/src/assets/Logo.png" alt="SearchTern Logo" width="200"/>
+
+# 🐦 SearchTern
+
+### The all-in-one internship platform for college students
+
+[![Website](https://img.shields.io/badge/Visit-SearchTern.com-1D9E75?style=for-the-badge)](https://searchtern.com)
+[![Listings](https://img.shields.io/badge/Internships-{total_rows:,}-blue?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
+[![Updated](https://img.shields.io/badge/Updated-{today.replace(" ", "%20")}-orange?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
+
+</div>
+
+---
+
+> 🎓 **{total_rows:,} internships & new grad roles** updated twice daily from 49 ATS platforms worldwide.
+> Finding an internship has never been harder — students are sending 500–1000+ applications just to land one.
+> SearchTern breaks that cycle. [**Start your search →**](https://searchtern.com)
+
+---
+
+### 📊 Data powered by jobhive
+
+This dataset is pulled and filtered from [**jobhive**](https://github.com/stapply-ai/ats-scrapers) —
+an open-source project by [Stapply](https://data.stapply.ai) that scrapes job listings directly
+from ATS platforms (Greenhouse, Lever, Ashby, Workday and 45 more) where companies actually post.
+No LinkedIn reposts. No duplicates. One source of truth.
+
+> If you find jobhive useful, consider ⭐ starring their repo: [stapply-ai/ats-scrapers](https://github.com/stapply-ai/ats-scrapers)
+
+---
+
+**Page {current_page} of {total_pages}**
+
+{nav}
+
+"""
     return (
-        f"# SearchTern Job Listings — Page {current_page}\n\n"
-        f"**{page_info}**\n\n"
+        f"# 🐦 SearchTern Internship Listings — Page {current_page}\n\n"
+        f"**Page {current_page} of {total_pages} — {total_rows:,} total listings** | "
+        f"[← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)\n\n"
         f"{nav}\n\n"
     )
 
@@ -211,8 +242,7 @@ def generate_readme(dataframe, output_dir="."):
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
-            f'<td align="center" style="white-space:nowrap;"><a href="{link}">Apply</a></td>\n'
-            f'<td style="white-space:nowrap;">{age}</td>\n'
+            f'<td align="center" style="white-space:nowrap;"><a href="{link}"><img src="{APPLY_BUTTON}" width="60" alt="Apply"></a></td>\n'            f'<td style="white-space:nowrap;">{age}</td>\n'
             "</tr>"
         )
 
