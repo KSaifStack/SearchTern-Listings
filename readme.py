@@ -242,7 +242,7 @@ def generate_readme(dataframe, output_dir="."):
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
-            f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="{link}"><img src="{APPLY_BUTTON}" width="60" alt="Apply"></a></td>\n'            f'<td style="white-space:nowrap;">{age}</td>\n'
+            f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="{link}"><img src="{APPLY_BUTTON}" width="40" alt="Apply"></a></td>\n'            f'<td style="white-space:nowrap;">{age}</td>\n'
             "</tr>"
         )
 
