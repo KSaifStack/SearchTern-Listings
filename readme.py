@@ -14,8 +14,8 @@ BASE_URL = "https://github.com/KSaifStack/jobscraper/blob/main/"
 
 APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 
-MAX_COMPANY_LEN = 24
-MAX_ROLE_LEN    = 60
+MAX_COMPANY_LEN = 20
+MAX_ROLE_LEN    = 48
 
 BLOCKED_COMPANIES: set[str] = {}
 
@@ -95,11 +95,11 @@ def build_table(rows: list[str]) -> str:
     return (
         '<table style="width:100%; table-layout:fixed; border-collapse:collapse;">\n'
         '<colgroup>\n'
-        '<col style="width:12%">\n'
-        '<col style="width:48%">\n'
-        '<col style="width:25%">\n'
+        '<col style="width:14%">\n'
+        '<col style="width:46%">\n'
+        '<col style="width:24%">\n'
         '<col style="width:8%">\n'
-        '<col style="width:7%">\n'
+        '<col style="width:8%">\n'
         '</colgroup>\n<thead>\n<tr>\n'
         '<th style="text-align:left; white-space:normal;">Company</th>\n'
         '<th style="text-align:left; white-space:normal;">Role</th>\n'
@@ -231,7 +231,6 @@ def generate_readme(dataframe, output_dir="."):
         # Truncate long fields
         company  = truncate(company, MAX_COMPANY_LEN)
         role     = truncate(role, MAX_ROLE_LEN)
-
         age          = days_display(date)
         company_cell = format_company(company, prev_company, age, prev_age)
         prev_company = company
@@ -242,7 +241,8 @@ def generate_readme(dataframe, output_dir="."):
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
-            f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="{link}"><img src="{APPLY_BUTTON}" width="40" alt="Apply"></a></td>\n'            f'<td style="white-space:nowrap;">{age}</td>\n'
+            f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{link}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
+            f'<td style="white-space:nowrap;">{age}</td>\n'
             "</tr>"
         )
 

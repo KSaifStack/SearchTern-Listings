@@ -1,16 +1,16 @@
 #  SearchTern Internship Listings — Page 15
 
-**Page 15 of 15 — 13,227 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 15 of 18 — 13,227 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
-[← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md)
+[← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-16.md)
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <colgroup>
-<col style="width:12%">
-<col style="width:48%">
-<col style="width:25%">
+<col style="width:14%">
+<col style="width:46%">
+<col style="width:24%">
 <col style="width:8%">
-<col style="width:7%">
+<col style="width:8%">
 </colgroup>
 <thead>
 <tr>
@@ -23,4719 +23,5172 @@
 </thead>
 <tbody>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>apex-technology-inc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Internship, Embedded Systems (Summer...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Oakland<br>CA<br>us</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000129247369" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jokerkaderselektion</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Leitung Pflege und Betreuung</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Zürich<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/jokerkaderselektion/jobs/16358685-leitung-pflege-und-betreuung"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fehrandpeers</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Transportation Engineer/Planner</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Long Beach<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/fehrandpeers/371fc35e-1351-4d1a-a319-2c56f33199ba" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>sheladiaassociates</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">International Traffic Technology Expert</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bishkek<br>kg</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/sheladiaassociates/744000125910919"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>primeagency</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern (University Student Internship)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/primeagency/jobs/16353140-marketing-intern-university-student-internship" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Gedimat Labenne Rougier</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur PL F/H - Gedimat Labenne Rougier</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjUyMTU0NyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Les Recruteurs Sa...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur Bancheur F/H - Les Recruteurs Saintais</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI32)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE5ODY2MCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AniCura Nederland</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Vacature Ervaren Paraveterinair Interne Geneeskunde (32-3...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Utrecht<br>NL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://anicuraglobal.teamtailor.com/jobs/7718940-vacature-ervaren-paraveterinair-interne-geneeskunde-32-36-uur-week-anicura-utrecht-sdu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Icoopa</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Collaborateur(rice) comptable Agricole (CDD -...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE5ODM5NCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>palantir</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Deployment Strategist, Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/palantir/774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Fornel</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur VL F/H - Fornel</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI31)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE5ODM0MiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Electra</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Revops &amp; Strategy Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/WllbAQ2/jobs/business-analyst-intern_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei Research C...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Learned Video Compression</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">München<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/7823264-intern-learned-video-compression" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>therapie1com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Founder&#x27;s Associate Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/therapie1com/jobs/16383858-founder-s-associate-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>keenfinity</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Data Analyst (m./f./div.)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ovar<br>pt</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/keenfinity/744000129222989" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Elevation Church</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Director (Concord Campus)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Concord<br>NC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://elevation-church.breezy.hr/p/81efe131ec03-production-director-concord-campus"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Bantam Camping AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer/in Werkstattannahme und Ersatz...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH021)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/M2IzMjFlZWEtYmE2NC00MjIyLWFmMTEtY2RkMzU1NTlkOTVjIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>destinationknot</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Itinerary Coordinator - Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>Georgia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/destinationknot/6da2f246-277a-4960-9ac8-0b40bcc1bef4"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Travel Booking Specialist (Entry-Level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/349eaa04-8141-4e97-a3de-4b73a6390677" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Online - Trip Planning Support Advisor- Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/destinationknot/e684aef3-7f6d-4af3-85c7-43f47c3b8f84"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Remote Travel Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>Texas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/aa6d57b7-8f20-4af3-b5c8-cf1da85c9b88" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EXTREM</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Foreur sur foreuse hydraulique (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ26)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4Q1hTRyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Padoa</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Customer Ops/Admin CRM (Stage) F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/DVVrN9A/jobs/customer-ops-admin-crm-stage-f-h_paris_PADOA_XYllVP2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>destinationknot</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Online |  Resort Coordinator | Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/destinationknot/8bc26875-8c16-4fec-bf8b-4009800a2a95"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Remote Travel Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Baltimore<br>Maryland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/18a59289-32b2-41b8-b5c8-babe8336cd33" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Apple</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tooling Engineer - iPhone (early career)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Shenzhen</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.apple.com/en-us/details/200659918/tooling-engineer-iphone-early-career"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADEQUAT INTERIM</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR LIVREUR F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR107)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WVROVyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SBC Performance</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kyiv<br>UA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sbc-performance.breezy.hr/p/3fff7c59574801-marketing-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>urs</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Auditor I, II or III</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-urs.icims.com/jobs/3521/internal-auditor-i%2c-ii-or-iii/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>let-it-click</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikum Social Media ManagerIn (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Osnabrück<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/let-it-click/jobs/16356474-pflichtpraktikum-social-media-managerin-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MTM LLC</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales Representative</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wilmington<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://mtm-llc.breezy.hr/p/0137707b4a4e-entry-level-sales-representative" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Qovoltis</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chef.fe de projets Exploitation &amp; Maintenance</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arcueil<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/WhYP9l/jobs/stage-chef-fe-de-projets-exploitation-maintenance_arcueil"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hotman Group</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level GRC Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fort Worth<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hotman-group-llc.breezy.hr/p/97f1838af55f-entry-level-grc-analyst" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ideematec</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Purchasing &amp; Logistics Specialist (gn) internationale Sol...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wallerfing<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/ideematec/jobs/16336666-purchasing-und-logistics-specialist-gn-internationale-solar-tracker-projekte"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Deloitte Luxembourg</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Personal Assistant - International Corporate ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hesperange<br>Luxembourg</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/GToSe1/jobs/personal-assistant-international-corporate-tax-team_luxembourg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Auto Technician (2nd Shift- Mon-T...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Elyria<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.carvana.com/careers/apply?gh_jid=7967625" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>metergysolutions</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Project Manager, Commercial (Entry Level - En...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/metergysolutions/3793579e-5e7a-439e-8eb2-cd27727e6678" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Anker Swiss AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Treuhandexperte</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH040)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjI0NmE2OWYtNDdlOC00MmQyLWIyZTgtZjAwZGVhNWE3MzVmIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>clinicalarchitecture</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Operations Engineer (Internal + SaaS)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>Indiana<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5150229007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>feld1</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (m/w/d) Projektentwicklung - Erne...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/feld1/jobs/16357734-werkstudent-m-w-d-projektentwicklung-erneuerbare-energien" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>palantir</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Forward Deployed Software Engineer, Internshi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gfn</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer:in/ Administrationsmitarbeiter...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kiel<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/gfn/jobs/16352125-kundenbetreuer-in-administrationsmitarbeiter-in-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bilderstanze</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Redaktionspraktikum (mit Option auf ein Volon...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/bilderstanze/jobs/16362491-redaktionspraktikum-mit-option-auf-ein-volontariat" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>malt</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI &amp; Automation Engineer Intern (September 2026)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/malt/6b0a327b-8891-492d-891a-2052987462b2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Faume</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Business Developper (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ORKYPNa/jobs/stage-sales-development-representative_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>pocketprep</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Durham Office</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/pocketprep/9770114f-3dec-4e67-a6e3-f1e01cedd45b" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Faume</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Sales Development Representative (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ORKYPNa/jobs/stage-sales-respresentative_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Wrknest AB</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundansvarig inom eftermarknad till internati...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE232)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEzNDA1OCAxMjE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PRUVOT COUVERTURE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreurs / Zingueurs H/F (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFNERyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>stripe</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Designer, Internal Tools</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US / Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=7954207" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Atdomco</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ATDOMCO - Internship - Legal Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Luxembourg<br>LU</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://atdomco-1739192595.teamtailor.com/jobs/7819877-atdomco-internship-legal-assistant" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>iPersonal AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Heizungsinstallateur EFZ (m/w/d) in Montreux gesucht</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Schreinerpraktiker/in EBA (m/w/d) in Montreux...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH011)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MWJiNWYzOWItZTljYy00ZWFiLWI0MmEtMmJlMzUxOTZmOTIzIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZmMyOWYwMjEtODNiMy00NjFiLWE2NTEtNGQxNDk5YWE2YmYxIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>JABARI</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Performance Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>GB</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://wearediverse2.teamtailor.com/jobs/7713360-performance-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>morganmorganjobsa...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Presuit Secretary (Entry Level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>Georgia<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6009119004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>vohra</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine Physician - Jackson, MN</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jackson<br>MN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/vohra/f6813fc0-1d85-49cb-abc8-9cdf2526775b"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>likeyaa</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Pflicht-) Praktikum Creative Design (m/w/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dortmund<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/likeyaa/jobs/16355745-pflicht-praktikum-creative-design-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>senprima</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleiter/ Betreuungskraft/ Haushaltshilfe (m/w/d)...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wiesloch<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/senprima/jobs/16332537-alltagsbegleiter-betreuungskraft-haushaltshilfe-m-w-d-minijob-teilzeit"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PINEAU THERMIC SY...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DESSINATEUR METREUR CVC (h/f) (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG03)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUpXWiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>impossiblecloud</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">High Potential Program - IT Support</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hamburg</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/impossiblecloud/d8217001-310f-4a2a-8081-7053d288f2df"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>likeyaa</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Pflicht-) Praktikum Social Media &amp; Influence...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dortmund<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/likeyaa/jobs/16364467-pflicht-praktikum-social-media-und-influencer-marketing-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>spacex</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Graduate Engineer, Mechanical (Starlink)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://boards.greenhouse.io/spacex/jobs/8542046002?gh_jid=8542046002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>L.M.B SA</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Equilibreur / Equilibreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI21)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUNWViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SOL PROVENCAL</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FOREUR / AIDE FOREUR (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4Q1FZTiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TERCIO</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conducteur livreur poids lourds (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUpQWiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>deloitte6</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Controls Internal Audit  - Senior Manager (various indust...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Midrand<br>GP<br>za</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/deloitte6/744000125808537"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>morganmorganjobsa...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Presuit Secretary (Entry Level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fort Myers<br>Florida<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6009058004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AXA Versicherungen AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Collaborateur-trice au service interne pour l&#x27;Agence Prin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Le Landeron<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/5f27f692-6305-4947-9da2-7793ff1907f3/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>codary</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent Customer Support (m/w/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/codary/jobs/16362841-werkstudent-customer-support-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>UV BOUDEVILLE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD21)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4Q0xRRiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ZEPLUG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Apprentice - Strategy Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Numberly</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - CRM &amp; Digital Marketing</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/yYPm117/jobs/apprentice-strategy-analyst_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Z0y26rb/jobs/internship-crm-digital-marketing_paris-9e-arrondissement" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MAXIME LOIC</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Foreur d&#x27;eau / Chef foreur technique (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4Q0pLWCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>invinoradio</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Assistant chef de projet H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/invinoradio/jobs/16353021-stage-assistant-chef-de-projet-h-f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Orano</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structuration et Gestion de l&#x27;Information et du Document</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bagnols-sur-Cèze<br>Occitanie<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/qZG5Z4r/jobs/structuration-et-gestion-de-l-information-et-du-document_bagnols-sur-ca-ze"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>FOURES ET FILS</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti couvreur zingueur F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ27)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUZWWSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>flash-renov</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur Zingueur H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bailleul<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/flash-renov/jobs/16327728-couvreur-zingueur-h-f"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>projektron</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Technische Kundenbetreuung / IT Support</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/projektron/jobs/16364384-technische-kundenbetreuung-it-support" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Seven Retail</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Videographer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">jakarta<br>ID</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://seven-retail.breezy.hr/p/442360125d8a-videographer-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudentenstelle - Technische Kundenbetreu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/projektron/jobs/16346217-werkstudentenstelle-technische-kundenbetreuung-it-support" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ACTION PIN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">RESPONSABLE HOMOLOGATION INTERNATIONAL - AGRICOLE  H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SDEZ</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur PL H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK23)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUZGVCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>alpaca</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Frontend Engineer - Internal Tools</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - North America - Europe</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/alpaca/jobs/6008654004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>applusidiada1</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Homologation- Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurgaon<br>HARYANA<br>in</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/applusidiada1/744000129136899" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>sumup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Product Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sumup.com/careers/positions/8285272002?gh_jid=8285272002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>exco</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Masterarbeit (Maschinenbau / Mechatronik) - R...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frankenthal<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/exco/jobs/16360230-masterarbeit-maschinenbau-mechatronik-roboterbasierte-testsysteme-in-der-medizintechnik" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AMBITION BOIS</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse (H/F)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI13)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4Q0JDVCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUNZQyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CBR COURSES</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK24)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4QlpOVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DELETTRES CHARPENTE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUNWTCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>RANDSTAD</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (F/H)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR102)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4QlpKRyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ZAMBUJO ANTONIO</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WUNUVyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ideenkind</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum Social Media &amp; Creator Research (100 % remote)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ludwigshafen<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/ideenkind/jobs/16334942-praktikum-social-media-und-creator-research-100-remote"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BRL</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur PL / Chauffeuse-livreuse PL...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL03)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFpWUiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MURGIER DISTRIBUTION</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur Poids Lourds (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK21)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4QlRIVCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DUBERNET CHARPENTE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI13)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFpGWCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PROMAN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4QlRCTiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>OK Job AG, Zweign...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fachperson Betreuung EFZ 60-100%</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH031)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Y2ZmZmNhMDUtOGVkMS00OTAyLTljZWQtNjM0ZDU5MzE4NDI4IDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MULTICOURSES</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">4 Conducteur livreur installateur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFZCTCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>E.U.R.L. CHRISTIA...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFdXRCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>6M</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livreur Fast Food - secteur St Claude (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFZTViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LAYE CORPORATION</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse  (H/F...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI14)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFRYWSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SOCIETE NOUVELLE ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur-zingueur H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFNLUyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CHRISTOPHE DURAND...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Charpentier couvreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFNDViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MEN AT WORK</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aide Foreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFJYVCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>celonis</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Strategic Program Management</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Madrid<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/celonis/jobs/7752798003?gh_jid=7752798003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LEDUC SAS</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">COUVREUR H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WFBCUSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TPS DIFFUSION</strong></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Livreur de journaux (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WllHSCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0tSSCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>FREY SEBASTIEN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4QlFHTSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Otto Fischer AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer/in im Aussendienst (Zentralsch...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Zentralschweiz<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/3934adf3-2bea-400c-8100-0f2e28b976ce/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>karya</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Curation Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/karya/jobs/5215559008"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Forum Jobs</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Agent de Fabrication Coffreur-Boiseur H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1ODQ3NiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carollo</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Wastewater Process Mechanical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>latticesemi</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">| MY-Bayan Lepas<br>Penang</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-latticesemi.icims.com/jobs/3621/intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>pilmicofoodscorporation</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati<br>Metro Manila<br>ph</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/pilmicofoodscorporation/744000125717734"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADEQUAT INTERIM</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur VL</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ13)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA2V0tXQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bybit</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Test Development Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Abu Dhabi<br>UAE; APAC - Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.eu.greenhouse.io/bybit/jobs/4863104101"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.merckgroup.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">QA Product Compliance - Internship - Curious Talent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mollet del Valles<br>Barcelona<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/299280"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PlusAI</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern_santa-clara-ca_65ux4p2k" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pharmaceutical Technology - Internship - Curious Talent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mollet del Valles<br>Barcelona<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/298950"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Data Infrastructure...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/software-engineer-intern-data-infrastructure-and-tools_santa-clara-ca_qi5d3y6p" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entreprise architecture - Internship - Curious Talent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mollet del Valles<br>Barcelona<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/299041"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern (Planning)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-planning_santa-clara-ca_vlkogzge" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Nuro</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vehicle Reliability (Intern)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/lFWoe9/jobs/vehicle-reliability-intern_mountain-view-ca_qaw4ar5h" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Etched</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DFT Intern (12 Week Internship)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/dft-intern-12-week-internship_san-jose_mmebdmqp" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Project Engineer - Internship - Curious Talent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tres Cantos<br>Madrid<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/299201"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Core Ops Intern (Fall 2026)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/core-ops-intern-fall-2026_san-jose_6eqqe4sm" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; AI - Internship - Curious Talent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mollet del Valles<br>Barcelona<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/298774"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.adobe.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Product Manager 5</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.adobe.com/job/R167876"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.merckgroup.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science and AI - Internship - Curious Talent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mollet del Valles<br>Barcelona<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/299031"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ehwy.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PART-TIME CASUAL, CAMPUS STORE CASHIER</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ithaca<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ehwy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3627"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcog.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Field Technician 1 - Construction Materials T...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">York<br>PA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14753"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofh.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager - Collection - Strategy - RFB - Mumbai - Lodha (I...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#45684"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eohh.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager of Internal Communications</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eohh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#424760"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebrf.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Services Worker - Finger Lakes Campus</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Auburn<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2558"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>efuq.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">International Sales Tour Guide (Japanese or Korean Speaking)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Honolulu<br>HI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19028"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejia.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Planner Assistant (Co-op)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#106700"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hdow.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hdow.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#248388"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Emmett<br>ID<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#708995"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Kroll Nowack GbR</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Strausberg<br>Brandenburg<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852304-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Zossen bei Berlin<br>Brandenburg<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852306-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Eberswalde<br>Brandenburg<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852302-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sulzbach-Rosenberg<br>Bayern<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852287-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Berlin<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852293-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Lam<br>Oberpfalz<br>Bayern<br>Deutschland</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852285-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Cham<br>Oberpfalz<br>Bayern<br>Deutschland</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852300-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Halle (Saale)<br>Sachsen-Anhalt<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852298-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Michael Page Zeitarbe...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) - Betriebliche Altersvorsorge</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frankfurt am Main<br>Hessen<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002080340-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Ulrich &amp; Martin Meyer...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) in Teilzeit gesucht</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Espelkamp<br>Nordrhein-Westfalen<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001732188-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Kroll Nowack GbR</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kloster Lehnin<br>Brandenburg<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001642569-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Die etwas andere Pflegeeinrichtung. Hier geht es um LEBEN...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Potsdam<br>Brandenburg<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1001852296-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>quandela</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: Experimental Scientist junior - optics &amp; elec...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massy<br>Île-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/DC142C6CEC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>wati-dot-i-o</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Shenzhen<br>Guangdong Province<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/0204FB844E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>quandela</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: Quandela&#x27;s Algorithms and Applications (H2/2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massy<br>Île-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/B9CF4FFA80"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: Quality Assurance Engineer (H2/2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massy<br>Île-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/E7BFAF70A8"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: PIC Cryogenic Characterization and Packaging ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massy<br>Île-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/C2D6587D19"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: Microfabrication for Single-Photon Devices (H...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massy<br>Île-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/6B477EFF2F"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Market &amp; Customer Activation</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/82146?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Global Market &amp; Customer Activation, Adhesive ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/82589?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>luxasia</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2026 Internship - Talent and Excitement (June - December)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Taguig<br>Metro Manila<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/40EE9842D0"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aier</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aier.bamboohr.com/careers/67"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>dubizzlemena</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dubizzle - Summer Internship Program 2026</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Cairo City<br>Cairo Governorate<br>Egypt</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/63E5460C71"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>celanese</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager, Internal Audit &amp; Risk</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://celanese.applytojob.com/apply/jobs/details/XcJmQypAR6"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bellefairejcb</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Child and Adolescent Group Services (CAGS) Intern (Fall 2...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lorain<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://bellefairejcb.applytojob.com/apply/jobs/details/BRyVgF2ynu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ansiblegovernmentsolu...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Primary Care Physician (Internal or Family Medicine)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lufkin<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ansiblegovernmentsolutions.applytojob.com/apply/jobs/details/z5qY56KNHl"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>zalora</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Product Developer - Fashion Apparel Design</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://zalora.applytojob.com/apply/jobs/details/7DYvHXbA4J"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Immediate Opening: Entry-Level Sales Relations Associate ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/Xmz1GJJ0Wr"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>clevelandresearch</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Equity Research Associate- Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cleveland<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://clevelandresearch.applytojob.com/apply/jobs/details/9euqbgkkrn"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Entry-Level Remote Role | Training Provided | Fast Hiring</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/SEubpD1xXW"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Now Hiring: Sales Relations Associate (Entry-Level) | Ful...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/wRoWMCCiU2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emeraldstay</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guest Services Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>Catalunya<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emeraldstay.applytojob.com/apply/jobs/details/rQXup21h2l"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Schwarz Corporate Sol...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bauprojektleiter / Bauherrenvertreter TGA - Fokus HKLS am...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE117)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDUtMjgxNjk1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bauingenieur / Architekt Revision International (m/w/d) (...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE118)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDUtMjgxNjkzLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Global-Gruppe</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) Sport Versicherungen Innendienst, ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA27)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1MTM4NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Privatkundenbetreuer (m/w/d) Versicherungen Innendienst, ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA27)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1MTM3Ny1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Helios Gesundheit</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Betreuer:in klinische Applikationen und Subsysteme (m/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA14)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NDQtMzA3Nzk4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADAC Nordrhein e.V.</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Teamleiter (w/m/d) der Ortsclubbetreuung, Regional Club (...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI1MTYwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fgcplus</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Information Technology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bacolod City<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ats.rippling.com/fgcplus/jobs/55c4240e-4e6a-44bc-bc8b-908aeee23ae2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bling</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent:in CRM (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/bling/jobs/16327325-werkstudent-in-crm-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Si-Ware Systems</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">System Graduate Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cairo<br>Al Qāhirah<br>Egypt</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://siwaresystems.recruitee.com/o/system-graduate-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">URGENT HIRING: ENTRY-LEVEL REMOTE ROLE (NO EXPERIENCE REQ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/YMTQHKA77O"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Remote | Entry Level Leadership | Free Full Training | N...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/BRkymHtl4r"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">-Virtual Entry-Level Position | Immediate Hiring | Apply Now</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/nPgEVgrUCC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Nencki AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Area Sales Manager international Bahntechnik</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH021)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZDRmYzMxNmItNTk2Ny00MDVmLWE1ZjgtNWM1YmUyOGJjY2FlIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>destinationknot</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Travel Scheduling Coordinator | Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/destinationknot/3333b1c7-82c8-4561-988e-1241ac2ef92c"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>KMU Treuhand und Revi...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter:in Treuhand &amp; Finanzen</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH012)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YTM4ZmZhODctNGMzZC00ZDNlLTg3MGMtYjM0ZjE1YjE0ZDczIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Gunzenhauser &amp; Partne...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter/in Treuhand</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH031)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZTJlZmM1NzEtZGI4MS00NWU1LWFiOWYtYWZjOTdjMGEzNDY5IDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mandyovbkarrierede</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenaquise &amp; Kundenbetreuung (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rodewisch<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/mandyovbkarrierede/jobs/16329037-kundenaquise-und-kundenbetreuung-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TOPLIMO International AB</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Limousine Chauffeur  Toplimo International AB</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE110)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjA5NzE0OSAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MICHAEL PAGE ACHATS L...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Responsable transport international h/f</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH02)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ4NDczMSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">WORK FROM HOME Remote Sales Associate (Entry-Level).</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/EPaZGeOzoz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Sales Representative (Remote).</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/4dmoGC8gR7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">NOW HIRING: Remote Sales Associate (Entry-Level).</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/unuVSwc8o7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>globelifeaillisarussel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">REMOTE Customer Service Representative - Entry-Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://globelifeaillisarussel.applytojob.com/apply/jobs/details/HuJgL2oW42"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mobile Customer Service Entry Level Agent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://globelifeaillisarussel.applytojob.com/apply/jobs/details/Wy3125xJs4"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Remote Entry-Level Benefits Coordinator | Start ASAP</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/pBuC17rukC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>globelifeaillisarussel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Remote Service Agent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://globelifeaillisarussel.applytojob.com/apply/jobs/details/9pHn4mWonv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Work From Home Remote Sales Associate (Entry-Level).</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/D3TzUpIznU"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">START ASAP Remote Sales Associate (Entry-Level).</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/kLnPIVHZhu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gsm GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technischer Dozent / Betreuer Erwachsenenbildung (w/m/d) ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE929)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQzNjktMjAyNm9rOGNsdnp4LTAwMC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WISAG Produktionsserv...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Reinigungskraft (m/w/d) in Reutlingen (Helfer/in - Reinig...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE141)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM0NjUtMDAwMjFhNjQ5ZGUwMDEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>L.I.T. Automotive Sol...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Spezialist/in / Anwendungsbetreuer/in (m/w/d) (Anwendu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG0D)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTUzMzQtMDA2NDY0MjY5OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TimePartner Personalm...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Telefonischer Kundenbetreuer (m/w/d) - Hybrides Arbeiten ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE252)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTItOTQ0NTc2NzgxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Vitanas GmbH &amp; Co. KG...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsfachkraft (m|w|d) (Pflegefachmann/-frau (Gesund...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEF05)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQwMjctMDAwMDkzMWZjNTYwMDEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DPD Deutschland GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager International Network Optimisation (m/w/d) (Suppl...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE261)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTYwODgtMzEwMTk5NF8zOTk5MzUyLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>IM Hauspersonal Sebas...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Erzieher (m/w/d) - Live-in (Kinder...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODQ5Ny1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA<br>DEA36)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODQ3MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE2<br>DE233)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODQ3OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE300)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODQ1NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE5)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODQzNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE949<br>DE9)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODQyMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEF0<br>DEF07<br>DEF0B)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODM2OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODM1NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE1)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODM0MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE7<br>DE725<br>DE719)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODMyNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA<br>DEA1E<br>DEA28)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODMxNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE1<br>DE136)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODMwNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE7)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODI5Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE2<br>DE21D)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODI2NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB1D<br>DEB15<br>DEB23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODI1Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE1<br>DE11B<br>DE11C)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODI4MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kinderbetreuer, Nanny, Kinderpfleger oder Erzieher (m/w/d...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB<br>DEB3C<br>DEB3B)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjcxODIzNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Elevate Aircraft Seat...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Supporter (m/w/d) (IT-Kundenbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB32)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA1MDc3Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Restaurant SeeZeit e.Kfm</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Freundliche Servicekraft (m/w/d) gesucht (Servicekraft - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEF0A)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQ2MzQxNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>METRO Deutschland GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Abiturientenprogramm zum Handelsfachwirt (m/w/d) (3-in-1)...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE714)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM4MzAtOTQ0NjIwOTI0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Airbus Defence and Sp...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Working Student Procurement Strategy (d/f/m) (Elektronike...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NjAyODY1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Travel Customer Service Representative | Entry L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/aisle_and_abroad/826ed4d4-c7e0-415c-a2b4-d94c275008e3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Marienhospital Aachen...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft / Alltagsbegleiter / Hauswirtschaftskraft...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA2D)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA0OTUwNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>THK GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter Order Fulfillment Center (OFC) - Internal Sal...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA1C)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA0OTAxOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Airbus Defence and Sp...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Working Student (d/f/m) Mission Systems (Ingenieur/in - L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21J)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NTkyMjIzLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WISAG Produktionsserv...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industriemechaniker | Schlosser (m/w/d) Bayreuth (Industr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE242)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM0NjUtMDAwMjFhNjQ5ODIwMDEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Senioren Residenz Ste...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft (m/w/d) gesucht (Betreuungskraft / Alltag...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE0C)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQ2MjQ5Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ACONEXT Stuttgart GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleiter (m/w/d) Serienbetreuung/ Defence - Standort...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTExMTItMjY3OS0xNzcxMjU0LTAtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ALBASpross gGmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Coach (all genders) in Vollzeit (Sportlehrer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE300)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA0NzU3NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Airbus Defence and Sp...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Masterand im Bereich Raumfahrtgebundene Radarnutzlasten /...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE147)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NTY3NTY3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Masterand im Bereich Raumfahrtgebundene Radarnutzlasten /...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE147)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NTY3NTYwLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern in the field of GraphRAG-based AI Assistants (d/f/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE939)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NTY3NTQxLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Airbus Operations Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent im Bereich A320 FAL Linie 2 (d/m/w) (Elektron...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0NTUyNzY1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Allianz Agentur Sven ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer/in (m/w/d) der Agentur, gerne auch als Ums...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE248)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQ1Nzg0MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Continental AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum - HR Business Partner Team - REF96441N (Assiste...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE929)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI3NDUtOTQ0NTM2MzI1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WESTFLEISCH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SAP Consultant BI (m/w/d) (IT-Kundenbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA33)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtMjhiZTZkNWUtNDI2NC00NjA5LS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">(Senior) SAP Consultant BI (m/w/d) (IT-Kundenbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA33)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtODY1NWY5MTEtYTE2My00MDFhLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Diakoniewerk Martinsb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsassistent/in  (m./w./d.) in Teilzeit 20 - 30 St...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE249)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjM2Mjk0NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>NEW AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Inhouse Consultant SAP IS-U (Modulbetreuer:in) (IT-System...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA15)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk3NDQtcWFUaGlrdFAtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Hospitality Services Coordinator | Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Illinois</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/aisle_and_abroad/465d7d9f-ddea-4a42-b827-745dc5941a87"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>sbenergy</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering/Power System Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sbenergy.com/careers/?gh_jid=5986631004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Redwood City<br>CA; San Diego<br>CA; or Denver<br>CO</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sbenergy.com/careers/?gh_jid=5980168004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Capital Markets Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco Bay Area<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sbenergy.com/careers/?gh_jid=5989244004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>agap2IT</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DEVELOPPEUR C#  (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/xfYf6N/jobs/developpeur-c-h-f_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ArianeGroup</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent im Bereich Energiemanagement (d/m/w)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hardthausen am Kocher<br>Baden-Wurttemberg<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/werkstudent-im-bereich-energiemanagement-d-m-w_lampoldshausen"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>doctariode</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Founder&#x27;s Associate Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/doctariode/jobs/16367388-founder-s-associate-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>npx</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ontario</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/npx/048ca8da-bfb9-4454-8147-ac9497629634"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.dhl.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Internship - Project Management</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>Illinois<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.dhl.com/job/AV-352332"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Internship - Quality Assurance Specialist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>Indiana<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.dhl.com/job/AV-352330"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bestandsbetreuer_in im Versicherungs- &amp; Finanzbereich</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT323)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTc5ODAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Maklerbetreuer:in (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTc0NTYgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Regalbetreuer (m/w/d) Frischdienst und Backstation</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTcyMzUgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>topagent</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE Assistant(e) commercial(e) Immobilier H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Saint-Étienne<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/topagent/jobs/16325221-stage-assistant-e-commercial-e-immobilier-h-f"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fehrandpeers</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-level Transportation Engineer/Planner (Summer 2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/fehrandpeers/174fccc7-c96e-4633-9206-e3126263ef2d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>phonely</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bfsaulhotels</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">General Maintenance (Entry Level) - Full Time - Holiday Inn</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington (Crystal City)<br>Virginia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/bfsaulhotels/d5039144-780f-43c9-8230-0b2c6ab5e20e"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>spacex</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Graduate Engineer, Electrical - Satellites (Starlink)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://boards.greenhouse.io/spacex/jobs/8541336002?gh_jid=8541336002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hillel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Director of Campus &amp; External Affairs, Campus Impact Advi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/hillel/jobs/4693884005"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>crxmarkets</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikant Sales &amp; Client Success (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/crxmarkets/jobs/16380412-praktikant-sales-und-client-success-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Carmen Schools of Sci...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 Dean of Students - Southgate High School Campus</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://carmen-schools-of-science-technology.breezy.hr/p/85e71e4ab32b-26-27-dean-of-students-southgate-high-school-campus"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 High School Spanish Teacher - Southgate Campus</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://carmen-schools-of-science-technology.breezy.hr/p/ac4396d7e099-26-27-high-school-spanish-teacher-southgate-campus"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MediPersonal</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dipl. Pflegefachmann /-frau HF gesucht (m/w/d) 100% in Re...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH057)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Zjc2ZjI3MDQtZTBkNS00Y2U2LTlmMWUtMWVlNDBlZDAwMDUzIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>divcowest</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/divcowest/jobs/4244219009"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>silvernovaai</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Legal Data Engineering (m/w/d) - Praktikum (6 Monate)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/silvernovaai/jobs/16333365-legal-data-engineering-m-w-d-praktikum-6-monate"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>meet5</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Online Marketing und Community Management bei ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frankfurt am Main<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/meet5/jobs/16371551-internship-online-marketing-und-community-management-bei-meet5-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>pillong</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Sales Manager International / Key Account Manager ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Saarbrücken<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/pillong/jobs/16336186-senior-sales-manager-international-key-account-manager-pv-montagesysteme-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aumovio</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Južnobački okrug<br>Vojvodina<br>rs</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aumovio/744000125324589"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>doctariode</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Special Projects</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/doctariode/jobs/16331206-software-engineering-intern-special-projects"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/doctariode/jobs/16377139-ai-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Abalone Switzerland SA</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technicien chiffreur charpente bois (f/h) - 100% Vaud</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lausanne<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/ff4c78b7-3375-4560-8500-f77d63f325d6/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>grab</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Data Scientist - Country &amp; Marketing</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Petaling Jaya<br>my</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/grab/744000125308676"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Markant Handels- und ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Development Manager International (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pfäffikon SZ<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/8ffea662-2887-4cbe-ad9e-09f506037bbd/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Arcadis</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Software Development And AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Amersfoort<br>UT<br>NL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://arcadis.eightfold.ai/careers/job/563671531295185"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>J.P. Morgan (Suisse) SA</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Corporate &amp; Investment Bank - Global Investment Bank...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Zurich<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/1764f764-1c1a-4c08-a957-76f57337ddaf/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mg-rp</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (m/w/d) - Foresight</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frankfurt am Main<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/mg-rp/jobs/16333130-werkstudent-m-w-d-foresight"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>framatome</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Electrical Engineer - Site Projects Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Richland<br>WA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-framatome.icims.com/jobs/3014/early-career-electrical-engineer---site-projects-engineering/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>grab</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer Mobile (Android)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Petaling Jaya<br>my</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/grab/744000125246689"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Artelia</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Directeur / Directrice de projet Hydraulique Urbaine - In...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Grenoble<br>Auvergne-Rhone-Alpes<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/directeur-directrice-de-projet-hydraulique-urbaine-international_grenoble"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.roche.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Engineer for Internal Network Defense</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Madrid<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.roche.com/job/202604-110450"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Substation Electrical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Minneapolis<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86678"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcal.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lead Talent Acquisition Specialist, Campus &amp; Customer Adv...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Camden<br>NJ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcal.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2240"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ecqf.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">F2F Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milano<br>Italy</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ecqf.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8527"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebxs.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">GIS Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">KS<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ebxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#309371"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejis.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine - Physician - Westchester, NY</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Scarsdale<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3037975"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Electrical Engineering - Fall 2026</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Thornhill<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86377"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcog.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2026 Internship - Environmental Asbestos Technician</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14484"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eodr.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Physician Assistant or Nurse Practitioner - Internal Medi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hamtramck<br>MI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603011699"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ecsr.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Director, NYC Academic Internship Program</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nashville<br>TN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008260"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eohh.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sr. Internal Communications Specialist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eohh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#424821"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebcs.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Software Development And AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Amersfoort<br>Utrecht<br>Netherlands</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#39792"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Careers Talent Acquisition Specialist (Mid Shift)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati<br>Metro Manila<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#40364"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Bally&#x27;s Interactive</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Communications Coordinator</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Providence<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/internal-communications-coordinator_providence_2lv6sifw" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sr. Product Manager, Amazon International Technology</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sao Paulo<br>Sao Paulo<br>BRA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://account.amazon.jobs/jobs/10414929/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">A/V Coordinator, International, Amazon MGM St...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>England<br>GBR</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10434171/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Delivery Practice Manager, A2C, Professional ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>Washington<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10434053/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer II, Internet Ed...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>British Columbia<br>CAN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10434964/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebcs.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Leitender Planungskoordinator / Projektleiter...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#41382" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hereford<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716990" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boothwyn<br>PA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716962" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Centreville<br>MD<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716913" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pennsville<br>NJ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716769" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Lunas<br>NM<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Newtown Square<br>PA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716726" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Poultney<br>VT<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716713" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Littleton<br>NH<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716711" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Turner Construction</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MK Intern - Marketing (Bay Area)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Walnut Creek<br>CA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20076?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Spring 2027 (Detroit)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Detroit<br>MI<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20331?c=turnerconstruction" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>flexspring</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">QA Automation Engineer Co-op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://flexspring.bamboohr.com/careers/50"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Team Assistant (m/f)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bratislava<br>SK</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83742?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcpd.fa.ca2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paper Mill Engineering Student Co-op - Toronto - Fall 202...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#9797"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Manager, Vice President - Card</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wilmington<br>DE<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210744865"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Turner Construction</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Spring 2027 (Toledo)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toledo<br>OH<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20327?c=turnerconstruction" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Internal Audit Associate -Treasury, Chief Investme...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jersey City<br>NJ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210742718"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emaratech-2</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager - Internal Audit - Noqodi</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dubai<br>Dubai<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/9B0C6B2765"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry-Level Work From Home Role | Start Anytime | Hiring...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/FZmKZnvaGX"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Fall 2026 (Cleveland)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cleveland<br>OH<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20328?c=turnerconstruction" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry-Level Work From Home Career | Immediate Openings</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Spring 2027 (Cleveland)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cleveland<br>OH<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20329?c=turnerconstruction" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Fall 2026 (Detroit)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Detroit<br>MI<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20330?c=turnerconstruction" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>viva</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marousi<br>Attica<br>Greece</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/7A719A3459" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Distribution Electrical Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Foxboro<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebhz.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Digital Transformation</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebhz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1005790" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egln.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Loma Linda<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15087" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>don.fa.em2.oracle...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">EUI Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9289" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hdjq.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Demo Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DEBRECEN<br>HAJDÚ BIHAR<br>Hungary</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26003262" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eodr.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chief Nursing Officer - Abrazo Arrowhead Campus</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Glendale<br>AZ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603013185" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Electrical Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Foxboro<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88077" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egmh.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Compliance &amp; Safety</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sri Lanka</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19590" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejgk.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber IAM Managed Service - IAM Interns to FT...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_3#30045534" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber IAM Managed Service - IAM Interns</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_3#30045513" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Payments Associate - Commercial...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210752916" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>youngliving</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Manager, International Product Marketing</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lehi<br>Utah<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://youngliving.bamboohr.com/careers/184" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry-Level Sales &amp; Benefits Advisor | Remot...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/cqLQ3ebdBy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/tAHFMQbTkS" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>civicsciencecareers</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">People Operations / Human Resources Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>beesweetcitrus</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Processing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fowler<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/MMbyNj6r3a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>echelon</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Echelon Fellowship (Internship)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alexandria<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://echelon.applytojob.com/apply/jobs/details/9pM7rVjZJg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>trubluehomeservic...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research &amp; Operations Intern / Senior Fall Ri...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Flower mound<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://trubluehomeserviceally.applytojob.com/apply/jobs/details/mEldW7QSvF" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>pony-dot-ai</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Generalist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fremont<br>California<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/BA5FFDBC71" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>devsinc-17</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Graduate Intern- Sales &amp; Product</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lahore<br>Punjab<br>Pakistan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/F905D71249" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>keywords-intl1</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">China</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/3DB1BB30D8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Job Lounge GmbH U...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vertriebsmitarbeiter (gn) intern (Servicefach...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21G)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4NTYtMzRIVzcwVkg0RjBYNTJHWi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AGAPLESION Bethan...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft (w/m/d) Teilzeit (Betreuungsk...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED42)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4OTMtMDA2NDk4NDk0OC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Neo Temp GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Callcenter Agent / Kundenbetreuer (m/w/d) |  ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzODM2Ny1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Stadtwerke Potsda...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter internes Rechnungswesen (m/w/d...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE404)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY2NTktMDA2NDk4MDIzOC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>impuls Finanzmana...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer/-in (m/w/d) in einem Versicher...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE276)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzNzQ5Mi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>promenade</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sr. Software Engineer, Internal Apps</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://civicsciencecareers.applytojob.com/apply/jobs/details/HjWYKGIFXV"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/promenade/d5121093-233c-4331-802e-603b8512cebf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Remote | Entry-Level Associate | Flexible Schedule | Imm...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/ZWON5tFGVq"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>windowsbyrba</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Sales and Marketing</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paramus<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/windowsbyrba/ccd983d5-a903-4430-9e59-1fb5873be3c4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>evexiashealthsolutions</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Client Services Solutions Specialist (ENTRY LEVEL)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SOUTHLAKE<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://evexiashealthsolutions.applytojob.com/apply/jobs/details/KrZTLMsPnz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Evangelische Heim...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleiter / Betreuungskraft (m/w/d) (B...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE115)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtZTMyYzE3ZjlfSkI1MTU3ODI3LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote / Work From Home - Full-Time / Part-Time | Entry-L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/eounGQ3Z6B"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Virtual Entry-Level Position | Full/Part-Time | Hiring No...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/NFl6NAqLDo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Deutsche Angestellten...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lernberater (m/w/d) - Modulares Weiterbildungssystem in H...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzODQ1Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BBW Lasertechnik GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) (Industriekaufmann/-frau)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21K)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzNzc1My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Alloheim Senioren-Res...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachkraft Soziale Betreuung (m/w/d) (Heilerziehungspflege...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA16)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM1MjAtMDA2NDYwNDgzOC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Adecco Personaldienst...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Logistik- &amp; Supply Chain Koordinator (m/w/d) AIRBUS FAL I...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MzItMWM1M2I3MDVfSkI1MTQwMzU1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Patrick Rambow</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Steuerberater:in (m/w/d) gesucht - Wir freuen uns auf Dic...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE141)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzA0MzEzNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>H World International...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Expert CRM &amp; Loyalty (all genders), H World Intern...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE712)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI0OTM3My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hauraton GmbH &amp; Co. KG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter im Vertrieb-Innendienst  / Internal Sales (m/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE124)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI0OTEwOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Mission Leben gGmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft Altenhilfe (m/w/d) (Betreuungskraft / All...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE723)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTU5OTItMjI0OTEzMC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Finanz Informatik Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Spezialist / Anwendungsbetreuer (m/w/d) (Systeminforma...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE929<br>DE712<br>DEA33)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM4ODQtMzM0Mjk4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WAF - Wohnen Arbeit F...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreutes Wohnen- Teilhabeservice - Hilfskraft (m/w/d) in...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQ0OTM1NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EMS Electro Medical S...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gesamtleitung Kundenservice / Kundenbetreuer / Call-Cente...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE212)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxMTctWUYtNDM0NjEtWUYtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Klinikum Esslingen GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hebamme (w/m/d) zur Betreuung der Schwangeren-Sprechstund...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE113)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQ0ODgxNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>avendi Senioren Servi...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Leitung Sozialer Dienst (m/w/d) (Betreuungskraft / Alltag...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE1)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQ0ODQzNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>K&amp;S - Dr. Krantz Sozi...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Teamleitung soziale Betreuung (m/w/d) K&amp;S Seniorenresiden...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG01)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjctZHN3Nnd3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Harburg-Freudenberger...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent Automatisierung/Software Engineering im Berei...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Horn &amp; Co. Group</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter telefonische Kundenbetreuung (m/w...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA5A)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI0ODgzNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIyODctSk9CLTg0MTE1My1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>zahnkult GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Zahntechniker/in mit Kundenbetreuung (m/w/d) (Zahntechnik...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA29)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzOTYwNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Junius Immobilien...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Objektbetreuer/in Wohnungseigentumsverwaltung...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE216)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzE0MzEyMi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>The Coatinc Company H...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuung Innendienst (M/W/D) Standort Bochum (Fach...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA51)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2NTItSk9CLTgzODIyNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TARGOBANK AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kaufmann zum Kundenbetreuer als Quereinsteige...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE116)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI0NTctMTU3OTUyNy0xLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Duisburger Baugesells...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeitung (w/m/d) Neuvermietung  und Kundenbetreuun...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzODcxOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>KDVZ Kommunale Da...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Anwendungsbetreuer kommunaler Sitzungsdienst ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA27)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTgtU0RFLTEwMTExMi1TVEEtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Haufe-Lexware GmbH &amp; ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Service Mitarbeiter:in in der Kundenbetreuung (...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Anwendungsbetreuer im Finanzwesen (m/w/d) Vol...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA27)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTgtU0RFLTEwMTExMS1TVEEtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AUMOVIO SE Haupve...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum - System-Test bzw. System-Integrati...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE232)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4MDEtOTQ4NDA2MjQyLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Pikatron GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Interner Servicetechniker (m/w/d) (Elektronik...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE718)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjY1MDIzMS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WSM Walter Solbac...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Key Account Manager International (Ost-Europa...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA2A)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjY0OTAxOS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Frankfurter Volks...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Privatkundenbetreuer (m/w/d) in Ober-Roden (K...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE71C)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2ODgtUkVHLTM2NjQ4LVJKQS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ncs plus GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Systembetreuer (m/w/d) (Fachinformatiker/i...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE300)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NjMtUkVGMzg3RC01MjA1MDk3MjQ4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzOTgzNS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Finanz Informatik Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">297/B - IT-Spezialist / Anwendungsbetreuer (m/w/d) (Beruf...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA33<br>DE712<br>DE929)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAwNzktamR4cGVwR3UtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>3M Deutschland GmbH H...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Anlagenbetreuer (m/w/*) (CNC-Fachkraft/NC-Anwendungsfachm...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE273)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQzNDc2OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>H World International...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cluster Director of Sales (All Genders) - Steigenberger I...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE712)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI0ODQ5My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ANregiomed Klinikum A...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Anwendungsbetreuer (m/w/d) (Pflegefachmann/-frau (Gesundh...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE251)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzNTQwNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Jessy Braun Alltagsen...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleiter (m/w/d) (Betreuungskraft / Alltagsbeglei...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB3G)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAyOTk0OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Pflegeteam - Noya GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Servicealltagskraft (m/w/d) (Betreuungskraft / Alltagsbeg...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA1D)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjIxMjg4Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TSYS EUROPE (DEUTSCHL...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer*in (m/w/d)- Kredikarte (Callcenteragent/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GO! EXPRESS &amp; LOG...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter - in der Kurierbetreuung &amp; Ladung...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMTMxNTExNC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQwODEtSk9CLTg0MTA0MC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Finanz Informatik Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Produktbetreuer - Apple &amp; Client Arbeitsplatz (m/w/d) ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA33<br>DE712<br>DE929)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM4ODQtMzI2Njc1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>JV anonymised</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Einzelfallbetreuung (m/w/d) in Teilzeit (Sozi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE91C)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjY0NzY5NS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AWO Seniorendienste N...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsassistent *in (Betreuungskraft / Alltagsbegleit...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MTgtMTU3Mzg0LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>wewole STIFTUNG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsfachkraft (m/w/d) - Betreuung Mensc...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA55)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzOTYyMS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AWO Betreuungsdienste...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsfachkraft, Erzieher*in, Heilerziehungspfleger*i...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE408)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MTgtMTQxNzU3LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Albert Berner Deu...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internationaler Vertriebsmitarbeiter (w/m/d) ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE119)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzOTExNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Gecimli Sefa - NG Style</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Offene Stelle in einem freundlichen Team (Friseur/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21J)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjIwNjY0NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Klinikum und Seni...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegefachkraft/MTR/OTA/ATA/MFA (w/m/d) Inter...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEF0E)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzODkwOC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>agap2IT</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business partner(H/F) alternance/stage</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/xfYf6N/jobs/business-partner-alternance-stage_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Fleesensee Cluban...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ROBINSON FLEESENSEE Kinderbetreuer, Erzieher,...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE80J)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjY0NTk5OS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Support Services Group</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Operations Manager | Pioneer International Healthcare-Fin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mandaluyong<br>PH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ssg-philippines.breezy.hr/p/378d87030e00-operations-manager-pioneer-international-healthcare-financial-account"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Authentic Style V...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Sales Manager (m/w/d) (Sales-Ma...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE268)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzODU5Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>POK</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">TECHNICO-COMMERCIALE / TECHNICO-COMMERCIAL ET MARKETING I...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF22)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQxNzAxMSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Diakonie Michaels...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegefachkraft (m/w/d) Tagespflege Lebensfre...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzNzcwNC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SozialBank AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Teamleitung Kundenbetreuung (m/w/d) (Onlinema...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA23)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3NzgtMjI2ODIxNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>flyeralarm GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Manager m/w/d International Busines...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE263)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzNjQzMC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Finanz Informatik...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">342/B - Product Owner Internet-Filiale Vertri...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE929<br>DE712<br>DEA33)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAwNzktWlFES0pPVmstUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GASAG Gruppe</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SAP Basis Consultant (w/m/d) (IT-Kundenbetreu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE300)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtYTk5ZGVkM2MtYWU3OC00MWQyLS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Serviscope AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter (m/w/d) Kundenbetreuung Inbound i...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA2C)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtNDBlYzIzYjMtMWIwNC00NDFjLS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Eichhof Pflege gGmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft / Alltagsbegleiter/in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE725)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjA2OTQ5MS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Thales</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE - Project Support for Contract Manageme...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Meudon<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/stagiaire-contract-management-pmo_meudon" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Deutsche Bahn AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quereinsteiger:in als Kundenbetreuer:in im Na...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE405)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI0NTYtMTU2OTExMi0xLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Thales</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE - Communication Interne - F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Meudon<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/stage-communication-interne-f-h_meudon_THALE_99ObmpM" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Beamy</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineer (Stage)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/OLkP5Dk/jobs/product-engineer-stage_paris_BEAMY_mlqqyqY" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Privatkundenbetreuer:in (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT124)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTYyMzMgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kassier:in mit Regalbetreuung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT125)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzgyMTkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FACHBETREUUNG BROT</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT342)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTY3NDkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kassier:in mit Regalbetreuung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT126)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzgyMTcgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior International Tax Manager (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT342)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTYxNzIgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Accounting Specialist (w/d/m)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT127)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzcyMTIgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Disponent Landverkehr FTL/LTL (m/w/d) Internationale Verk...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT221)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTY2MzIgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kassier:in mit Regalbetreuung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT111)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzY4NDAgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">LEITUNG SCHULISCHE NACHMITTAGSBETREUUNG Enzenkirchen Volk...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT311)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTU2MTYgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CETEO</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SAP FI/CO Modulbetreuer (m/w/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hausbetreuer / Hausbesorger  (m/w/d)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTU3MTQgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzY3MTUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>IQ Pharma Services</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuung / Auftragsbearbeitung (w/m/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT323)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzc0NTkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ELT-Projektetechniker*in - Internationale Elektrotechnik-...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT221)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTU4ODAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BACKBOX- &amp; Regalbetreuer_in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzc0NTcgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Partnerbetreuer_in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzc5NDcgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FACHSOZIALBETREUER_IN ALTENARBEIT ODER PFLEGE...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT315)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzc2MjkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Klinik Favoriten</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Konsiliarinternist*in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzcwMDkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BACKBOX- &amp; Regalbetreuer (m/w/d) Turmgasse 26...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT211)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzcyMjMgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kindergartenbetreuer_innen (m/w/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT222)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzY4NjYgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegeassistentin bzw. Pflegeassistent oder F...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT122)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzcxNjUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">BACKBOX- &amp; Regalbetreuer_in</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT113)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTUwNTcgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>HUTTER Druck .&amp;CoKG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">KUNDEN &amp; AUFTRAGS-BETREUUNG (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT335)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTU0NTkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>equativ</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Treasury and Cash Collection Intern (1 year Internship)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montreal</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/equativ/97e58b46-986a-4f8a-aebd-686d76d286cc"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>civitech</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Analytics Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX or Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/civitech/ac698b6a-83b6-4d8e-b487-3b40dc39b295"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei Technologies C...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op Engineer - AI Tooling &amp; Agent</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Waterloo<br>Ontario<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://huaweicanada.recruitee.com/o/co-op-engineer-ai-tooling-agent-3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Ingenius Prep</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Development and Marketing Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ingenius-prep.breezy.hr/p/168461ce8903-business-development-and-marketing-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SVP</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Responsable Communication Interne et Marque Employeur (F/H)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bois-Colombes<br>FR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://svp.teamtailor.com/jobs/7701961-responsable-communication-interne-et-marque-employeur-f-h"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>destinationknot</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Trip Planning Coordinator - Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/destinationknot/189cdfa0-048a-4e12-8783-beea9d9c4c9b"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Trone</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Customer Success Manager (CSM)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/m3oPmdJ/jobs/stage-customer-success-manager-csm_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CTLOG INTERNATIONAL</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Owner F/H - CTLOG INTERNATIONAL</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQxNTY2NSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DESSANGE Evreux</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Coiffeur(se) polyvalent(e) F/H - DESSANGE Evreux</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD21)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQxNTYxOSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CTLOG INTERNATIONAL</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chef d&#x27;exploitation logistique F/H - CTLOG INTERNATIONAL</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQxNTU5OSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Automotive Detailer / Lot Attendant Post Prod...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bessemer<br>Alabama</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7905437"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TLC Worldwide</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Partnerships Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>GB</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://tlcworldwide.teamtailor.com/jobs/7701894-partnerships-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Automotive Detailer / Lot Attendant Post Prod...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">fairburn<br>GA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7905414"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SWEEP</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>FR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sweep.teamtailor.com/jobs/7700798-data-engineer-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>justworks</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager, International Payroll Operations APAC</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - International</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://boards.greenhouse.io/justworks/jobs/7895815?gh_jid=7895815"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aecom2</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Akron<br>OH<br>us</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000125155978"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT311)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzcxNTkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cleveland<br>OH<br>us</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000125155606"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>KPMG France</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stagiaire Avocat Corporate M&amp;A F/H</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Courbevoie<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/g0gkx2Z/jobs/stagiaire-corporate-m-a-f-h_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aecom2</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Ecology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Winnipeg<br>MB<br>ca</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000125153359"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Ecology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Red Lake<br>ON<br>ca</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000125152854"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Ecology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dryden<br>ON<br>ca</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000125151697"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Ecology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Thunder Bay<br>ON<br>ca</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000125152599"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>levelupenglish</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DACH Expansion &amp; Outreach Intern (m/f/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/levelupenglish/jobs/16329274-dach-expansion-and-outreach-intern-m-f-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>FRANCE BOISSONS ILE D...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR/ LIVREUR POIDS LOURD  (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR102)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WlhXWSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>isonohealth</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Biomedical/Electrical Engineering Imaging Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ats.rippling.com/isonohealth/jobs/ceaa730f-7be8-4df1-8122-cadd7e366301"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>vohra</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine Physician - Worthington, MN</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Worthington<br>MN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/vohra/51e7dba2-9ba2-43d1-a968-a357d7d779c2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CG CONCEPT</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF33)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WlRKUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Domicil Bern AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter:in Betreuung und Pflege 30-100%</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bern<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/32a7ce9b-4ca8-46b8-b33e-c8d877077290/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Pandox Belgium</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Agent Builder Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bruxelles<br>BE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://pandox-belgium-careers.teamtailor.com/jobs/7697891-ai-agent-builder-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mewssystems</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal AI Builder</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Czechia; Netherlands; Spain; Sweden; United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.mews.com/en/careers/jobs/4861788101?gh_jid=4861788101"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei Research Cente...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Test and Technical Resources Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">München<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/7697549-intern-test-and-technical-resources-analyst"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Good Brands</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Influence Manager - Japanese market [Internship...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>FR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://typology-1732032895.teamtailor.com/jobs/7697515-assistant-influence-manager-japanese-market-internship-6-months"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>FICHET SECURITY SOLUT...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technicien support clients internationaux (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR103)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WkRTWSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ISONORM HABITAT</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF31)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WVdGVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADEQUAT INTERIM ET RE...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">aide foreur F/H</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3Wk1DUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CONSTRUCTION ET METHO...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aide Coffreur plancher (H-F)  (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WktXSiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>plansys</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine Physician (1099 available, Mon-Fri, 40h...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hampton<br>VA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-plansys.icims.com/jobs/11037/internal-medicine-physician-%281099-available%2c-mon-fri%2c-40hrs-wk%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ql</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine Physician (1099 available, Mon-Fri, 40h...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hampton<br>VA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-ql.icims.com/jobs/11037/internal-medicine-physician-%281099-available%2c-mon-fri%2c-40hrs-wk%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LEGROS</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MACON / COUVREUR / TAILLEUR EN APPRENTISSAGE H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF24)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WkpYSiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>peakgames</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Backend (New Grad)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full-time</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/peakgames/cfaf2251-1472-4e73-b0a3-e3e88df7aa91"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gutpersonal</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">26017 International Product Compliance Manager</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wetzikon<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/gutpersonal/jobs/16354800-26017-international-product-compliance-manager"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>airwallex</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manager, Internal Audit (Technology)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SG - Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/airwallex/e6299c5e-b8ac-43e5-a49a-79c96a9f0cb2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TRANS EUROPE EXPRESS</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur petite messagerie (h/f)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ15)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WkZNSCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TECHNOPAIRE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti Vendeur / vendeuse en magasin / internet backmar...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK28)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WkRIWSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Veo Technologies</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Opportunities at Veo - Register Your CV</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Copenhagen<br>Denmark</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://thehub.io/jobs/69fbdd0c01e51bcf2551d348"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Apple</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Internship Winter 2026</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Minato</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.apple.com/en-us/details/200642759/sales-internship-winter-2026"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BOUTEILLE ET FILS</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ22)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WkJESCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>HIOLLE TECHNOLOGIES</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Manager Ferroviaire FR-Internat H/F (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WVpaUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>POMONA PASSIONFROID</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur livreur PL H/F (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB06)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WVpEViA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EXPERT RENOVATION TOI...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WVhORCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LP CHARPENTE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur Zingueur (alternance) (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK28)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WVdSUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>UNION NOUVELLE LEMAN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur Poids Lourds (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK28)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA2U1FNVCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>berkley</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Business/Marketing</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Saint Petersburg<br>FL<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-berkley.icims.com/jobs/13962/intern---business-marketing/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Randstad</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">COFFREUR BANCHEUR (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjM1NzAwNiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.merckgroup.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Software Engineering (m/f/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Eysins<br>Vaud<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.merckgroup.com/job/297168"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.wbd.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Staff Product Designer, Growth - International</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.wbd.com/job/R000105139"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jobs.thermofisher.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">(Sr) Project Manager - Internal Medicine Team - Remote ba...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>North Carolina<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.thermofisher.com/job/R-01352066"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>edel.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network Performance Security and Preproduction Tester -6 ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sophia Antipolis<br>Alpes-Maritimes<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://edel.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22144"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejhp.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern R&amp;D</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hendrik-Ido-Ambacht<br>Zuid-Holland<br>Netherlands</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2611238"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egln.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Nurse B-Inpatient East Campus Hospital: U1300 Me...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Loma Linda<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14739"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejhp.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Livreur</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Laval<br>QC<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2611424"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egmh.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Marketing</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sri Lanka</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19209"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Geologist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86613"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ehif.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">H.O. Construction Engineer - Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Madrid<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ehif.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#29089"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcjy.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Assistant Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lainate<br>Milan<br>Italy</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcjy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#11174"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eljs.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Media Coordinator France (F/H)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eljs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#63053"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ecqf.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Warszawa<br>Poland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ecqf.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8393"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>edel.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Grads 2026 (US)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://edel.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22818"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Grad 2026 (Canada)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Burnaby<br>BC<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://edel.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22817"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emfg.fa.em4.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - IT Project Management LPL (M/F) - 6 months</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Belval<br>Luxembourg<br>Luxembourg</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emfg.fa.em4.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#28231"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Enser Versicherungsko...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuung Gewerbe- und Industrieversicherungen (Inn...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ense<br>Nordrhein-Westfalen<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002284780-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Supply Planning (Henkel Consumer Brands)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>ES</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83396?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship International Brand Management Authentic Beaut...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hamburg<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83040?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>freight-t-a-s-llc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Freight Sales International and Domestic</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bethesda<br>Maryland<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/891D893CFA"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>woom</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Financial Planning &amp; Analysis (f/m/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Vienna<br>Vienna<br>Austria</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://woom.bamboohr.com/careers/160"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>clvgroup</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Grad Sales Representative</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Oakville<br>Ontario<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://clvgroup.bamboohr.com/careers/185"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>satellogic</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SW-AIT Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montevideo<br>Zonamerica<br>Uruguay</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://satellogic.bamboohr.com/careers/526"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>freight-t-a-s-llc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Freight Sales - International and Domestic</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mississauga<br>Ontario<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/24563FDE3D"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>enfinity-global-2</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SOPs, Internal Controls &amp; SOX Subject Matter Expert (SME)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/E916382BFC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>satellogic</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical-AIT Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montevideo<br>Zonamerica<br>Uruguay</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://satellogic.bamboohr.com/careers/525"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>plugandplaytechcenter</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://plugandplaytechcenter.bamboohr.com/careers/1461"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lead Technical Program Manager, International Infrastruct...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210743919"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bellefairejcb</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Youth Mental Health Specialist Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Shaker Heights<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://bellefairejcb.applytojob.com/apply/jobs/details/xDIBWjpF7B"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry Level | Work From Home Sales Role for Beginners</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/B2HRqrTJ2J"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>stafffinancialgroup</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Staff Accountant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Alpharetta<br>GA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://stafffinancialgroup.applytojob.com/apply/jobs/details/PopGLE1QYb"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Associate Position (Entry-Level)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/Lp3OmOWHk1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>upfluence</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Growth Marketing Intern (End-of-Studies Internship)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lyon<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://upfluence.applytojob.com/apply/jobs/details/t8RL7Z9LNd"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>stafffinancialgroup</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Staff Accountant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kennesaw<br>GA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://stafffinancialgroup.applytojob.com/apply/jobs/details/DLbALWd8Bw"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SPANISH SPEAKING WORK FROM HOME | Entry Level Sales Track...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/xGuGQnSc8j"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Now Hiring- Work from Home Jobs | Entry Level Leadership...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/DGHibOUA6r"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network Development Engineer I, Internet Edge Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>Washington<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://account.amazon.jobs/jobs/10413833/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BeneVit Holding GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft / Alltagsbegleiter (m/w/d) (Betreuungskra...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE133)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkzNTQtazYxNTE4LjEzMTctUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CAPERA GmbH &amp; Co. KG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Konstruktionsingenieur / Serienbetreuer Konstruktion (m/w...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE7)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMzc4NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ENGIE Deutschland GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Leitung Service International (m/w/d) (Niederlassungsleit...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE27A)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMjMwNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>datomino GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer/Softwaretester (m/w/d) (IT-Kundenbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21H)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMTUzNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Merentis GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Systemadministrator (m/w/d) - Interne IT &amp; Infr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE501)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMTA0Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>knowmates GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">JTL-Wawi / ERP Support Specialist - E-Commerce &amp; WMS (m/w...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED51)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMDAxNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>JABARI</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Creative Trafficking Placement Intern - Subscriber Acquis...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>GB</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://wearediverse2.teamtailor.com/jobs/7694744-creative-trafficking-placement-intern-subscriber-acquisitions"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Stiftung St.Franzisku...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Freiwilliges Soziales Jahr - Schreinerei (Tischler/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE135)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjUwMTM2Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Freiwilliges Soziales Jahr - Malerwerkstatt (Maler/in und...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE135)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjUwMDY4MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Landschaftsverband Rh...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Initiativbewerbungen (Betreuungskraft / Alltagsbegleiter/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA26<br>DEA2D)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTU2OTktMTIwNjg4NC0xLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SMP Sintermetalle Pro...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Unser Unternehmen sucht neue Mitarbeiter (m/w/d) und freu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE123)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzNDk1NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Games Island GmbH &amp; C...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter Adventuregolf Hof, Untreusee (m/w/d) (Service...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE244)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQzMTg1Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Airbus Defence and Sp...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Master Thesis - Untersuchung und Weiterentwicklung eines ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE147)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5NDctOTQ0MDY2MDE4LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>VR Bank Lahn-Dill eG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Firmenkundenbetreuer (m/w/d) (Bankkaufmann/-frau)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE724)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTgwMjQtMTBRMk0wMDAwMWQwMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MeDConNet. GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Anwendungsbetreuer CAFM/ERP (m/w/d) (IT-Berater/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED41)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMTg4MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Reichhart Logistik GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kraftfahrer / LKW Fahrer (m/w/x) C/ CE internationaler Fe...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMTU3Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Randstad Deutschland ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Linienbetreuer (m/w/d) (Maschineneinrichter/in (allgemein))</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE122)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAzMTUxOS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>elasto GmbH &amp; Co. KG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Produktmanager International (m/w/d) in Vollzeit. (Produk...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE234)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQyMDU5OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter Einkauf International (m/w/d) (Sachbearbei...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE234)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQyMDA0OC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Regens-Wagner-Stiftun...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungshelfer (m/w/d) in Teilzeit gesucht! (Betreuungs...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21F)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjQxODM5Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Andros Deutschland GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SAP &amp; EDI Integration Manager (m/w/d) (ERP-Systembetreuer...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE71B)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjQ5MDQ5NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Nexans</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Legal Internship - Corporate / M&amp;A</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">La Défense<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/LNahro/jobs/legal-internship-corporate-m-a_la-defense"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>terawattinfrastructure</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager, Internal AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/terawattinfrastructure/b01dbea0-012f-4cb4-92ab-eed8cd2a9f38"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Q ENERGY France</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage Juriste Droit des affaires F/H - Lyon - Stage (4 mois)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lyon<br>Auvergne-Rhone-Alpes<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/UBCvzH/jobs/stage-juriste-droit-des-affaires-f-h-lyon-stage-6-mois_lyon"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">(Junior) Consultant (m/w/x) Advisory/Governance, Risk &amp; I...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Allgemeinmediziner*in / Internist*in mit Inte...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTQ2NDAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzY0NDQgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Behindertenbetreuer*in | Wohnhaus 3 Retz</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT125)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTM2MzkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">EINSATZKOORDINATOR (M/W/X), PFLEGE UND BETREU...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT126)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzY0NjYgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>crb</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Grad Architectural Designer I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>us</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/crb/744000129025558" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.allianz.com</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Events &amp; Visitor Experience - R&amp;D Cent...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Unterföhring (bei München)<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.allianz.com/job/95717" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Imbissstandbetreuer_in (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT221)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTM1MTggNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Innovation Experience Technologist - R...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Unterföhring (bei München)<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.allianz.com/job/95718" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Objektbetreuer_in (all genders)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT211)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTM4MTAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>lecab-bfc</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Responsable Paie &amp; Administration du Personne...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MzkyMSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>R3 Roofing &amp; Exterior...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Outside Sales Representative (Entry-Level)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Iowa City<br>IA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://r3-roofing.breezy.hr/p/3ed3fbe6902f-outside-sales-representative-entry-level"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Automotive Detailer / Lot Attendant Post Prod...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Syracuse<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7902158"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>univeris.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/univeris.com/539d6461-e9c1-4119-b0d1-8e4d916135e6"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>h3x-technologies</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Louisville<br>Colorado</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/h3x-technologies/d0688850-a809-4637-8440-b0551ec639fa"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Design Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Louisville<br>Colorado</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/h3x-technologies/b3443c91-ca97-45eb-90c6-93491050466e"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>kimley-horn</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Civil Engineer - Roadway</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-kimley-horn.icims.com/jobs/23765/entry-level-civil-engineer---roadway/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>wintermute-trading</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DeFi Algorithmic Trading Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/wintermute-trading/f512e856-a6e8-4aac-bae1-430b2ed0ea57"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Smart</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Talent Acquisition &amp; Marketing Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Brescia<br>IT</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sweet.teamtailor.com/jobs/7692849-talent-acquisition-marketing-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Eaton</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-Op Product Engineering - Talent dev. Program</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bajos de Haina<br>San Cristóbal Province<br>DO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eaton.eightfold.ai/careers/job/687236146342"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei R&amp;D UK</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Proactive Interaction Agents</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>GB</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://huaweiuk.teamtailor.com/jobs/7693291-research-intern-proactive-interaction-agents"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>dokych</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Internship (m/w/x)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Baden<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/dokych/jobs/16359893-business-internship-m-w-x"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>andurilindustries</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Operations, International</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Costa Mesa<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5022011007?gh_jid=5022011007"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TransPerfect</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Video Editing &amp; Production Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>Catalunya [Cataluña]<br>Spain</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://transperfect.com/o/video-editing-production-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Eveler</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage / Alternance Developpeur BACK-END</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rueil-Malmaison<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/GAJ3lA/jobs/stage-developpeur-back-end_rueil-malmaison"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>housinganywhere</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager - Platform &amp; Internal Ops</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rotterdam<br>Zuid-Holland<br>Netherlands</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/housinganywhere/jobs/7726298003"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>palantir</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Forward Deployed Software Engineer, Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>securitas</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Vektere til datasenter Stack i Fetsund (Intern)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fetsund<br>Akershus<br>no</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/securitas/744000124871559"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MOUANS MATERIEL MEDICAL</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">TECHNICIEN LIVREUR (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA2WFZXUSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>familien-krankenpfleg...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engagierte Betreuungskraft (m/w/d) in kleiner Pflegewohng...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Essen<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/familien-krankenpflege-muelheim/jobs/16332397-engagierte-betreuungskraft-m-w-d-in-kleiner-pflegewohngemeinschaft-in-kettwig-gesucht"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>louisdreyfuscompany</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Regional Senior Internal Auditor</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Federal Territory of Kuala Lumpur<br>my</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/louisdreyfuscompany/744000124859679"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Calybre</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Calybre Graduate / Intern Programme</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gauteng<br>ZA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://calybre.breezy.hr/p/025771e57ec501-calybre-graduate-intern-programme"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>kplusa</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">(Pflicht-) Praktikum Praktikant/in Social Media &amp; Online ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/kplusa/jobs/16329290-pflicht-praktikum-praktikant-in-social-media-und-online-marketing-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SD Worx</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Global Sales Manager - International Mid Market - New Bus...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Breda<br>NL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://sdworxgroup.teamtailor.com/jobs/7687806-global-sales-manager-international-mid-market-new-business"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Licorne Society</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Head of sales international</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/OYKrB7/jobs/head-of-sales-international_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ViaSat Antenna System...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">RF Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lausanne<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/31f3ae58-f25e-4736-82c4-04ff730b128e/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Dolby</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sound Experiences Lab Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>CT<br>ES</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://dolby.eightfold.ai/careers/job/41027217"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>veo</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Opportunities at Veo - Register Your CV</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Copenhagen</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/veo/0e9d2a87-92f6-4086-a8a5-f750f124c76f"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Bear Robotics</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seoul<br>KR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://bear-robotics.breezy.hr/p/0f24f8b9cafd-firmware-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics System Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seoul<br>KR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://bear-robotics.breezy.hr/p/65c910b4dbe1-robotics-system-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BTP CFA Grand-Est</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti(e) couvreur zingueur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF31)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WFRDRyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LENIE SEBASTIEN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur/couvreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WFJZRiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Wise Group AB</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kontorsassistent till internationellt bolag i centrala St...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE110)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjA5MDAwMiAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ASIA PACK</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL05)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WFBIUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BTP CFA GRAND EST</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti(e) Couvreur Zingueur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF31)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WEtWRCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SARL FICEK J-Y</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC13)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WEtNRyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TOITURE ET TRADITION</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3WEhIVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bocusa</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Department-Sanctions &amp; Compliance Audit AVP</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-bocusa.icims.com/jobs/4257/internal-audit-department-sanctions-%26-compliance-audit-avp/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Strategy and Research Department Macro and Market Researc...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-bocusa.icims.com/jobs/3750/strategy-and-research-department-macro-and-market-research-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Blaze Media</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paid Internship- Digital Media</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://blaze-media.breezy.hr/p/2f9670d8f60a-paid-internship-digital-media"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Electrical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86511"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Civil Engineer (Overhead Transmission Lines)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>VA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejgk.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Manager - Internal Audit</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#INTG10044447"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcun.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Human Resources Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ELIZABETHTOWN<br>KENTUCKY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcun.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10162"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>erym.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Staff Nurse - Medical Surgical - New Graduate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Little River<br>SC<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25446"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejta.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Abu Dhabi<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejta.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9530"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebcs.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Environmental Scientist/Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>NC<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#40553"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sewell<br>NJ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#707745"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gebraucht Macs.de GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">*** Mini-Job *** Kundenbetreuer (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bad Sassendorf<br>Nordrhein-Westfalen<br>Deutschland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1195571293-S"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sr. Product Manager, International Emerging Stores Payments</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dubai<br>ARE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://account.amazon.jobs/jobs/10412557/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern, AWS Data Services -...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>Washington<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://account.amazon.jobs/jobs/10412530/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Security Engineer, Internal Audit</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massachusetts<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://account.amazon.jobs/jobs/10412602/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>syntiant</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Model Converter Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/84C6D73625"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>quadric-dot-i-o-inc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Kernel Engineer (New Grad)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Burlingame<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/B8F898E1F5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Deep Learning Compiler Engineer (New Grad)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Burlingame<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/43779C9213"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>lucidya</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Software Engineer (Internship, Fresh Graduate)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Riyadh<br>Riyadh Province<br>Saudi Arabia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/972E263571"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Remote Work From Home - Entry-Level - No Experience Need...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/rQMAJH0yfB"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Entry-Level Role | Full/Part-Time | Beginner Frien...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/4paGZR5MLs"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bellefairejcb</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Behavioral Health Respite Care Provider Intern (Fall 2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Shaker Heights<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://bellefairejcb.applytojob.com/apply/jobs/details/gzNPebPRHs"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry Level | Beginner-Friendly Work From Home Job</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/s1npeuzKlo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>accessinc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Childcare Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Akron<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://accessinc.applytojob.com/apply/jobs/details/WnnrtUUJhg"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Urgent Hiring: Entry Level Sales Representative (Remote ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/AXNzKJKUwv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Schmitt GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technischer Kundensupport (m/w/d) 3rd Level Support (IT-K...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE254)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4MjEtQ1hIUTRaT1JZNzNaRVRSUy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LUNISA trust &amp; match ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Service Koordinator (m/w/d) (IT-Kundenbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE2)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAyMjgyNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Stadtwerke Potsdam GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Systembetreuer technische MaKo und EDM (m/w/d) (In...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE404)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY2NTktMDA2NDU1NjY5My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Diakoniewerk Kloster ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Integrationshelfer-Fachkraft (m/w/d) zur Einzelbetreuung ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE80O)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAyMDg1MS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Caritasverband Oberha...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FSJ/BFD im Bereich Service, Organisation, Veranstaltungen...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA17)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkyOTEtMWZlMThhMzdfSkI1MTM3OTE2LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>wenglor sensoric gmbh</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SAP Inhouse Consultant (m/w/d) (ERP-Systembetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE147)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxMTctWUYtNDMyMTQtWUYtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MERKUR Immobilien und...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Anwendungsbetreuer CAFM (m/w/d) (Anwendungssystemadmin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA46)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4MjAtMDA2NDU2ODA1My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>RH Senioren-Residenze...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Komm in unser Team (Betreuungskraft / Alltagsbegleiter/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB14)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAyMzI2Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DATAGROUP Business So...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Trainee Sales- und Accountmanagement (all genders) (Sales...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE300)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTc3MDAtMDA2NDU1MDcwOC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Marienhaus Dienstleis...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEC04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtNzIxOTc3OGEtZGQ4Ny00ODA2LS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtNWY4YzZkZjEtYmVjYS00ZmQ3LS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB35)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtMjI2OWZlMmItMjk3Zi00NGZjLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtYzg1MDk2NmItNjcwNy00YzNhLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB18)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtMjMwZWYxZWQtMGZmZS00NjAyLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEC03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtYTNiNjY5ZmEtOTRkOS00MDRiLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Jugendberatung und Ju...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Erzieher in Ausbildung: PivA (m/w/d) (Kinderbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE712)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtZTA1MzkyMzctMjEwNy00MDVhLS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Elettronica GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektmanager (gn) - Intern &amp; Extern (Projektleiter/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA2C)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjI2NTU0My1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carpediem Personalber...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Personaldisponent/in (m/w/d) - Intern (Personaldisponent/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE211)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMTQ5NjI2Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Implicity</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Product Manager AI &amp; Internal Tooling</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/a54LKx7/jobs/senior-product-manager-internal-tooling-ai_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LIAMETHO</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR-LIVREUR Super Poids Lourd H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjI5NzM5OSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Apple</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SWE Engineering Project Manager, International Experience...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cupertino</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.apple.com/en-us/details/200649007/swe-engineering-project-manager-international-experience-operations-features"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer_innen zur Ausbildung in der Personalverrec...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT335)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTMwNjggNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer_innen in der Personalverrechnung (w/m/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT335)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTMwMTIgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">eine/n Pflegeassistent_in oder eine/n Fachsozialbetreuer_...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT121)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTIzMjcgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Klinik Favoriten</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Allgemeinmediziner an der Internistischen Notfallambulanz...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTIwNzQgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seniorenbetreuer_in
-Kennziffer: 2026-40330</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT223)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTIxODkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADAMEK Facility Service</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Springer/in Hausbetreuung (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT124)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTE3MDkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Mandl hoch2</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Waschanlagenbetreuer_in</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT122)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTI0MDAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>liveflow</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer - AI Agents</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/liveflow/93a4d132-b68c-42d7-ace0-7975661130ba"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Ingeteam</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ESPECIALISTA EN MOVILIDAD INTERNACIONAL</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Zamudio<br>ES</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ingeteam.teamtailor.com/jobs/7685375-especialista-en-movilidad-internacional"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>blackbird-labs-inc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/blackbird-labs-inc/a901dd42-7c52-488a-bd55-f1d5dcd37b38"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Karmen</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sales / Business Developer (Stage)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/d5YeAO3/jobs/business-developer-alternance_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hopening Groupe</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE de 6 mois - ASSISTANT (e) PROJECT MANAGER MARKETING...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Puteaux<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/3iWsJV/jobs/stage-de-6-mois-assistant-project-manager-marketing-h-f_puteaux_HG_047qDjx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Stiftung Lebensart</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stellvertretung Leitung Pflege und Betreuung</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH021)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTljZDJiOGMtNzFmZC00YmM5LWI0Y2MtYTljNmFkN2NiZjcyIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>kimley-horn</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Civil Engineer - Renewable Energy</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Delray Beach<br>FL<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-kimley-horn.icims.com/jobs/23757/entry-level-civil-engineer---renewable-energy/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Auto Detailer / Lot Attendant - Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Old Hickory<br>TN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7895437"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Detailer / Lot Attendant - Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Old Hickory<br>TN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7895434"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lot Attendant / Auto Detail  - Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Old Hickory<br>TN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7895432"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>impossiblecloud</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Founder&#x27;s Associate Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hamburg</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/impossiblecloud/981d0e29-82cf-455c-9231-d9712f7265cd"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei Research Cente...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant - Battery Modelling (18-Month Leased L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nürnberg<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/7682984-research-assistant-battery-modelling-18-month-leased-labor"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Tata Consultancy Serv...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pre-sales Consultant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Puteaux<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/qDNdRyj/jobs/pre-sales-consultant_puteaux"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>givedirectly</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Manager</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/givedirectly/jobs/4692575005"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Arcadis</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ITS/Traffic Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://arcadis.eightfold.ai/careers/job/563671530291054"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AniCura Iberia</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internado UCI - AniCura Lauro</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Granollers<br>ES</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://anicuraglobal.teamtailor.com/jobs/7682073-internado-uci-anicura-lauro"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ARHEMIS</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1haRCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EMPLEO PERPIGNAN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur Bancheur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ15)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1hRSCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CASH PRIMEURS</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse  (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1dERyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LYCEE POLYVALENT BLAI...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MAITRE d&#x27;internat (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Domino&#x27;s Pizza RI...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livreur en Scooter F/H - Domino&#x27;s Pizza RIXHE...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1ZUTiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MjE3NiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SAS FERATTE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur Bardeur / Couvreuse Bardeuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1ZSQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Domino&#x27;s Pizza HE...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livreur en Scooter F/H - Domino&#x27;s Pizza HESIN...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MTY4NyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Quality Control - Post Production</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7894940"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TERRASSEMENTS CORSES ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur / Coffreuse / aide coffreur H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRM02)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1RTRyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ENTREPRISE BEDU</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AIDE COUVREUR (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE21)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1FWSiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TRANSGOURMET</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI14)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1ROVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DELICE ET CREATION DI...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur livreur PL (permis C) CDD (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK27)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1NNUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ELIS BRETAGNE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur - Livreur Poids Lourd H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH01)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V1NDUSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>grwminfo</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Social Media &amp; Content Marketing Praktikant:in (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bochum<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/grwminfo/jobs/16369162-social-media-und-content-marketing-praktikant-in-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Global Crowdproject AB</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Consultants for International Assignment</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjA4ODExNCAxMjE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Fachkraft.ch GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Automatiker/in in der internen Montage</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sursee<br>Switzerland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.jobs.ch/en/vacancies/detail/7a66dfc5-fbb6-489c-a602-a4edf1516bc1/"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SAS ENT PEYRETHON</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V0tZTCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei Research Cente...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - AI Research for Optical Field Manipulation Algor...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jena<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/7679066-intern-ai-research-for-optical-field-manipulation-algorithms"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>66degrees</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Service Desk Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Pune</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/66degrees/jobs/5988396004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PIXID</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektmanager Internationales Rollout, deutschsprachig</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Courbevoie<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/qdrDLP5/jobs/projektmanager-internationales-rollout-deutschsprachig_courbevoie"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Grale</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Business Development</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stockholm<br>Sweden</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://thehub.io/jobs/69f933c8c82c902ff6c4ea41"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADEQUAT INTERIM ET RE...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aide foreur (F/H)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3V0JRQyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SEGUIN COUVERTURE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur / Aide couvreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VlhYVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AZB COUVERTURE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH01)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3Vk5LUyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EPSAN</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VlRIWSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AJC COUVERTURE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH02)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VlNEViA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BATISOMME</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ardoisier - couvreur - zingueur</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">BE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTE4NTg5NDIgNDQx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>animocabrands</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IAP Internship (Full time preferred)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/animocabrands/a451e86e-b1bf-4317-bf3c-f56f84444ad6"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.dhl.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, IPJ KMM</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Subang Jaya<br>Selangor<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.dhl.com/job/AV-351196"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcog.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2026 Internship - Construction Technician</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Macomb<br>MI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14746"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-evmr-saasfaprod1.f...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Co-op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35743"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejgk.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Consultant - Internal Audit</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejgk.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#INTG10044397"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eimy.fa.us6.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">RN - Inpatient, General Internal Medicine</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Madison<br>WI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#47562"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>cbha.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Auditor II, Internal Audit</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Exton<br>PA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://cbha.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7118"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Environmental Scientist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Baltimore<br>MD<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86418"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>syntiant</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Computer Vision Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redwood City<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/EC22EF9B1E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Applied Materials</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Quality Internal Auditor</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811946"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Transdev</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">International Bid and Transport Project Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Issy Les Moulineaux<br>FR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://transdev.csod.com/ux/ats/careersite/1/job/11257?c=transdev"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Applied Materials</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Quality Internal Auditor</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811811"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CoStar Group</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">International Employee Relations Consultant, Human Resour...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://costar.eightfold.ai/careers/job/446718420675"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Innovation in Operations -</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/82517?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">International Private Bank, Analyst for Hong Kong Market</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Central and Western<br>Hong Kong Island<br>Hong Kong</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210744522"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>apexstructural</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Structural Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Brentwood<br>Tennessee<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apexstructural.bamboohr.com/careers/221"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bpcm</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern, Corporate Communications</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/8E2139AE92"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Private Bank Senior Internal Auditor</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">LONDON<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210741377"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bpcm</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Internship - Influencer &amp; Celebrity Relations</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">West Hollywood<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/2DECF31B27"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fully Remote Job Opening | Entry Level | Beginner Friendl...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/ImBh3VQVtQ"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Diderot Education...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant(e) en processus d&#x27;assimilation des...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ23)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MDkxOSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ENTRY-LEVEL | BEGINNER FRIENDLY REMOTE ASSOCIATE ROLE</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/7riZhEsiZk"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant(e) en gestion de l&#x27;information tou...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ23)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MDk2NyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EPITA</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant Permanent Programmes Internationau...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR107)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE1MDA5NiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>JPG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Responsable Accords-Cadres Internationaux F/H...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR108)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0OTk4NCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Campus d&#x27;Aix/Mars...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant(e) en Tourisme et Territoires F/H ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0OTE4NyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Work From Home | Entry Level Leadership | Free Full Trai...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/LH8HTMxPMz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant(e) en Optimisation des processus a...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0OTA2MCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>staugustinepreparator...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">25-26 North Campus Facility Maintenance Technician</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://staugustinepreparatoryacademy.applytojob.com/apply/jobs/details/PoztJVUOqZ"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Diderot Education...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant.e en BTS communication F/H - Dider...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0ODY2MSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>themethodisthomeofk</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Therapist - Community Services - Owensboro Campus</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Owensboro<br>KY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://themethodisthomeofk.applytojob.com/apply/jobs/details/uL75wJx3fQ"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant.e en BTS MHR F/H - Diderot Educati...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0ODY0MiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>staugustinepreparator...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 South Campus Lower Elementary School K5 Teacher</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://staugustinepreparatoryacademy.applytojob.com/apply/jobs/details/rOS1a8Dihv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant.e en BTS Gestion et protection de ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0ODU3NCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">APPLY NOW | Bilingual Spanish | Entry Level Sales | Immed...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/eMjY3XjAd8"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant.e en BTS Tourisme F/H - Diderot Ed...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0ODU5NSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eaiti</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Physics/Math Graduate - Entry Level Software Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Vienna<br>VA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eaiti.applytojob.com/apply/jobs/details/04bnB7a43f"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en Expertise naturaliste - Ecologu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK26)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzk1NiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Beginner-Friendly Remote Associate Role</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/QPDewh04dO"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant(e) en Expertise Naturaliste F/H - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK26)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0NzkxOSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>scmp</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://scmp.applytojob.com/apply/jobs/details/9P9OhUop4E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en anglais F/H - Diderot Education...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzg0NCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FULLY REMOTE JOB OPENING | ENTRY-LEVEL | BEGINNER FRIENDL...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/Nwxmw33wMx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en recherche - nutrition F/H - Did...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzg2NCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>deka</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machinist - Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manchester<br>NH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://deka.applytojob.com/apply/jobs/details/q4RksovvXz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en conduite de Projet - nutrition ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzg3MyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fully Remote - Sales Relations Associate (Entry Level)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/W6AfUbjWTC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en nutrition du sportif F/H - Dide...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzg0OCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en Pathologie / Bases physiopathol...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzg1MSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant en Sciences - Nutrition F/H - Dide...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0Nzg2MyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ATTILA</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Technicien de toiture/ Couvreur/ Etancheur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzE0NzI5NSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>formlabs</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Design Intern (Fall 2026)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Somerville<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.formlabs.com/job/7959457/apply/?gh_jid=7959457" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Auto Technician</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Plainfield<br>IN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.carvana.com/careers/apply?gh_jid=7892171"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Antonio<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.carvana.com/careers/apply?gh_jid=7964489" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ZAG Zeitarbeits-Gesel...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Disponent Nationaler/Internationaler Fernverkehr (m/w/d) ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE05)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTMyMTgtMjE4OTc0XzIwMjYtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Spitex 24 AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seniorenbetreuung in der Region Zug 20-40%</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Zug<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/1512b7e2-8790-46c1-b884-f8319bb87eee/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Marienhaus Kliniken G...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleitung &amp; Anwendungsbetreuung Medizinsysteme (m/w/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxODE0MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>autobiz</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage (6 mois) - Chef de Projet Digital Marke...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Courbevoie<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/2rX51J7/jobs/stage-6-mois-chef-de-projet-seo-geo-h-f_courbevoie" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hays AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Head of International Key Account Management Nutzfahrzeug...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE716)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTMzMTktODcyMTQ5LzFfNjA5MTE0TFMtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hydrowatt AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vertriebsingenieur  International</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH052)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YTI5OWYzODEtMzNkOC00OGNmLThkNGUtMmMzMTFiNGMzZTcyIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Oswald Iden Engineeri...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter Auftragsabwicklung im internationalen Vert...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxOTQtYTAzZWZkNWI3NGYyMTE0Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Groupe Kyka</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fleuriste (H/F) - Stage</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/VPcxdf/jobs/fleuriste-h-f-stage_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TeamViewer German...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Development</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stuttgart<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://teamviewer.teamtailor.com/jobs/7814735-intern-software-development" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AniCura Iberia</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internado Rotatorio - AniCura Lauro Hospital ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Granollers<br>ES</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://anicuraglobal.teamtailor.com/jobs/7813986-internado-rotatorio-anicura-lauro-hospital-veterinari" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PROMAN</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4WEhYSiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Auto Technician</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tooele<br>UT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.carvana.com/careers/apply?gh_jid=7963930" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>renius treuhand ag</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mandatsleiter:in Treuhand</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH040)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZWQ5YThhYzYtZmY3YS00OGIwLWI2NmUtNmZjMTIzMmI0NmVkIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>lietmeyer</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Immobilienkaufmann (m/w/d) Technische Objektb...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hildesheim<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/lietmeyer/jobs/16344907-immobilienkaufmann-m-w-d-technische-objektbetreuung-home-office-nrw" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>keyone1</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum Growth Marketing &amp; User Acquisition...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bad Homburg<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/keyone1/jobs/16338916-praktikum-growth-marketing-und-user-acquisition-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MTM LLC</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales Representative - Base Salar...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Raleigh<br>NC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://mtm-llc.breezy.hr/p/99e3b5397303-entry-level-sales-representative-base-salary-commission" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mc2i</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Poste interne - Product Owner/Chef(fe) de pro...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/RyzjrMe/jobs/product-owner-chef-de-projet-sirh-f-h_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Sysco France</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur livreur PL H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bruguières<br>Occitanie<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/icKjGI/jobs/chauffeur-livreur-pl-h-f_bruguieres_SF_o6aY870" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>VetsEZ</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Developer Intern (Remote Opportunity)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vetsez.breezy.hr/p/f34bc749355101-full-stack-developer-intern-remote-opportunity" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GEIQ 24</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V1hYWCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CAP&#x27;TOIT VENDEE -...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur / aide couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V1pITCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Holcim AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Communications intern for 6-months</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Zug<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/e89a0c44-6949-48c8-ba25-8e0940eb8177/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>thingk ag</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter Treuhand 60 - 100 %</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH061)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NTMwNjBiMTEtZDI5Zi00OTAzLThmZjUtZDZmNjZhM2FlN2JkIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Numberly</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - CRM &amp; Digital Marketing - Greek ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Z0y26rb/jobs/internship-crm-digital-marketing-greek-speaker_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Provia Personal AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Teamleiter Treuhand 100%</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH040)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjE2ODU3YmEtY2IyNy00ZWFhLTg3YWYtYWI4YTY2M2JjM2I0IDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mandatsleiter Treuhand 80%-100%</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH063)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZWY1MGFiNWYtMzNkOC00ZDE0LThiNmItNjJjYTFkYjkzMTI5IDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADEQUAT INTERIM</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur Plancher F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL04)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V1NDSyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hexagroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Copywriter Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>us</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/hexagroup/744000128912497" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Auto Body Prepper (2nd Shift)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Akron<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.carvana.com/careers/apply?gh_jid=7963226" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>3S Swiss Solar So...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Projektleiter Schweiz mit Entwicklungspotenzi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Schweiz<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/d9e8f29b-ecba-4551-9183-6d21f7931851/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Arcadis</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Architect</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai<br>Shanghai<br>CN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://arcadis.eightfold.ai/careers/job/563671531976307" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>yfood</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Influencer Marketing Manager (m...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/yfood/jobs/16353338-international-influencer-marketing-manager-m-f-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>wesort</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (m/w/d) - Data &amp; AI</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Würzburg<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/wesort/jobs/16347967-werkstudent-m-w-d-data-und-ai" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WITH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage Junior Consultant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/drDV7Pa/jobs/stage-junior-consultant_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>KLANIK</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chef de Projet Transverse (Direction de l&#x27;Off...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marseille<br>Provence-Alpes-Cote d'Azur<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/63LO9bj/jobs/chef-de-projet-transverse-direction-de-l-offre-et-de-l-expertise-h-f_marseille" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>deerstreet</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikum: Prozessautomatisierung, KI ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/deerstreet/jobs/16344872-pflichtpraktikum-prozessautomatisierung-ki-und-digitale-tools-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Provia Personal AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter Treuhand</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH052)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NWYyYzIwYmEtMDliYy00OWVlLTkzY2MtMDA1ZGI0MGUyZjMwIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Szpital Powiatowy...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lekarz - specjalista reumatologii (K/M)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PL (PL42)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4MTA0MjEgMTI?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>flach-barfigo</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Konstruktion (all genders), Maschinenbau - Me...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vienna<br>Austria</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/flach-barfigo/jobs/16356278-konstruktion-all-genders-maschinenbau-mechanische-komponenten-internationaler-industrieanlagenbau-1030-wien" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Provia Personal AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter Treuhand (m/w) 100%</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH055)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MGIzZTdiNjQtOTJkZi00MzVlLWJhYTEtYzE0YTM1Y2E0ZmQ4IDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ENTREPRISE BEAR</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ15)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V05ERiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ETABLISSEMENTS RI...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR LIVREUR MANUTENTIONNAIRE POIDS LOUR...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB04)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V01aRCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aethoshotels</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Accounting Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aethos Milan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aethoshotels/e199a7a7-4e9b-458a-a3e6-cfff5905d433" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>UNIVERSITETET I O...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Post-doctoral fellowship NORCIE - Norwegian C...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">NO (NO081)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NzA0NGFlOWItNjQ0Yi00M2FmLWE1NjktYWE3YWViNjRkMTJmIDI2MQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Start People</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur poseur / Couvreuse poseuse de pannea...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzEzMTk3NCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur / Coffreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzEzMTk0NyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Coffreur / Coffreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI23)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzEzMTgxMCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Euris</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE CHEF DE PROJET LOGICIELS SAAS F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/1ZRgwXM/jobs/stage-chef-de-projet-f-h_boulogne-billancourt" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE DEVELOPPEUR FULL STACK APPLICATION WEB ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boulogne-Billancourt<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/1ZRgwXM/jobs/stage-developpeur-full-stack-application-web-mobile-hybride_boulogne-billancourt_EURIS_2w5oO" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TRIANGLE AUTOMOBILE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MACON COFFREUR (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC21)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0xaQiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LACO</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Commercial International H/F (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0RYVCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Business Developer H/F (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0RUWCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>celonis</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Demo Experience &amp; Applied AI</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Madrid<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/celonis/jobs/7731854003?gh_jid=7731854003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>meet5</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Founders Associate bei Meet5 (m/w/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frankfurt am Main<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/meet5/jobs/16368841-internship-founders-associate-bei-meet5-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TRANSCOPAL</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur VL H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRM01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0pWSCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>JACQUELINE MEHDI</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0hZViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SARL PR CONSTRUCTION</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur/couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0hNQiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>profishop</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum im Order Management | Customer Succ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bremen<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/profishop/jobs/16365928-praktikum-im-order-management-oder-customer-success-management-oder-ecommerce" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum im Finanzwesen | Finance and Accoun...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bremen<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/profishop/jobs/16345786-praktikum-im-finanzwesen-oder-finance-and-accounting-oder-ecommerce" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SENGES</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur VL (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ28)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4V0NMVCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TRANS MEDICAL SER...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse - Sit...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR106)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VlZEUCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Travel Planner | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Baltimore<br>Maryland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/e83e3c77-b02a-4453-b730-be31f37cb2e1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Scheduling Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Texas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/ce99282d-f42e-4415-884b-a30f3ad2724c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Scheduling Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Georgia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/b01ca68f-d5ef-47a9-a938-8f3060c182f8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Customer Service Representative -Hot...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Texas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/4bd4ef36-d3d4-49dd-87e3-cbc650483a46" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Customer Service Representative -Hot...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Michigan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/472e2139-c202-4094-a5ab-e046978c97b2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Booking Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/825187a7-1a6d-4ebe-9944-3e63b6c45431" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Travel &amp; Event Planner | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/ab76c4ae-a350-4423-abf7-a96593c9954f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Scheduling Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Texas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/fe70d343-7238-46d0-925f-a4f5dd0c8319" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Itinerary Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Baltimore<br>Maryland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/efb43f43-5fee-4e8d-bc2a-e46c5989f735" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Itinerary Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/b271788f-ce56-471d-937c-8085658e425e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Customer Service Booking Coordinator...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/0244562e-12a0-4d01-a499-c072cb9e56d8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Entry Level | Reservations Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ohio</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/28892cc9-5e20-48f9-8205-aaef09e1d615" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Customer Experience Associate | Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/85be2ac3-0590-4c4b-8665-a7b9e51abddd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Reservations Assistant | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>Washington</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/44746d3b-f108-4b17-b78d-e6ac97891d55" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Customer Experience Associate |...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Georgia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/bfdf2536-f5db-4c2c-b164-caadddd1c7e7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Customer Experience Associate |...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Maryland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/9504f28e-b500-421b-b480-b982b2f75a40" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Booking &amp; Reservations Assistant (Remote) | E...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>Oregan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/dd891f58-ba57-46e1-a198-778e52b2e461" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote |  Hotel Reservation Specialist | Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/2d06a339-3694-410a-96ba-cb31cd6788b7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Entry Level | Customer Support Coord...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Maryland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/cd429927-f376-49eb-81d3-fb9d50acbf51" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Entry Level | Customer Support Coord...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/0277f8f0-f2d8-4bc6-b82b-1b64ad544cb7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Entry Level | Customer Support Coord...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/3ed103f9-5175-43b9-acba-8adff622e056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Travel Services Support Advisor | En...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Texas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/08096ca9-81f2-4f62-bac1-2ef6df22126f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Travel Planner | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>Florida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/ee9f125e-3446-4209-98de-65b05c7a020e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Hospitality &amp; Travel Coordinator Entry...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Georgia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/b9af71fb-267a-4aff-94e3-98f6cf7ce3bd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Destination Event Coordinator | Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/77e23ecc-57d6-40ac-a1fb-75779fee7bf0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Event &amp; Travel Planning Coordin...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Georgia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/543c5f4a-75ae-4d27-a10a-c91f0280ed41" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>didiglobal</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Driver Growth Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>MEX<br>MX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-didiglobal.icims.com/jobs/19776/driver-growth-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>nana</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Safety Officer ($18.50/hr + DOE) - Can...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Buffalo<br>NY<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-nana.icims.com/jobs/23543/campus-safety-officer-%28%2418.50-hr-%2b-doe%29---canisius-university---buffalo%2c-ny/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Destination Event Coordinator |...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Florida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/994eb208-1a4f-41aa-b932-c62211df4a00" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level  | Event &amp; Travel Planning Coordi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/d63a6900-73c3-4b11-8534-57261e8ca157" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Customer Support Advisor | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/742868d7-1c63-40c3-a449-70826719a2ab" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Hospitality Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Texas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/d4039404-0102-475c-bd42-bbbf0f413aef" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Customer Experience Associate | Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Florida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/7f002e4e-8367-4cbd-bb2a-fc9d52097357" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online | Customer Care Coordinator | Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/aa77137e-a05f-4760-bccd-ff3074e11bed" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Customer Care Coordinator | Online</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/aef05a8e-c910-433a-8bdb-5347760b1720" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PlusAI</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern (Scenario Si...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-scenario-simulation_santa-clara-ca_rnfdzfbo" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Simulation Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/simulation-engineer-intern_santa-clara-ca_frcfqw2a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern (Scenario Ge...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-scenario-generation_santa-clara-ca_i7d7bifs" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Workwize</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Customer Success Manager Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Amsterdam<br>Netherlands</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ZcABkW/jobs/customer-success-manager-internship_amsterdam_ozj2w537" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>nCino</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Strategic Account Manager (Mortgage, Internal...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/gnjxH4/jobs/strategic-account-manager-mortgage-internal-mortgage-banking_us_fiohckty" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Alteryx</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Revenue Operations Intern (Insights &amp; Analytics)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/FnaNFD/jobs/revenue-operations-intern-insights-analytics_irvine_2ansytey" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Artelia</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stagiaire en automatisation</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Montreal<br>Quebec<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/stagiaire-en-automatisation_montreal" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Payflows</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Umic7U/jobs/marketing-intern_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Coallia</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Service Civique  H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clermont<br>Hauts-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/GaoF7R/jobs/service-civique-h-f_clermont" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>destinationknot</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Appointment Setter | Booking Hotels ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/destinationknot/0cfc6eff-7eb4-4969-b6bf-c80dd985da13" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.marsh.com</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Actuarial Analyst (6 months internship)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lisbon<br>Portugal</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.marsh.com/job/R_351445" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.thalesgro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.thalesgroup.com/job/R0319695" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Lufthansa Technik AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Project Management</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hamburg<br>Hamburg<br>Deutschland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/13348-1579024-1-S" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ZIPP Pflegedienst...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hauswirtschaftskraft/ Betreuungskraft</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bad Langensalza<br>Thüringen<br>Deutschland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003136250-S" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebcs.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Architect</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai<br>China</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#41297" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egmk.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Commercial Excellence &amp; Finance Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4296" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rancho Cucamonga<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716675" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">NJ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716484" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Renton<br>WA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716582" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcwp.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-Op Student</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Monroe<br>CT<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwp.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2012581" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship in Human Resources department</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Krusevac<br>RS</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84081?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Trade Marketing</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ciudad de Guatemala<br>GT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83630?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Purchasing Technical Supply</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/82876?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Global Packaging CoE</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/81525?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Entravision</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Assistant Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sacramento<br>CA<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5036?c=entravision" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>deugro Group</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Business Excellence | Legal &amp; Business...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai<br>CN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://deugro-group.csod.com/ux/ats/careersite/1/job/2183?c=deugro-group" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>withplum</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Internship Paid (Duration: 3 months)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Athens<br>Attica<br>Greece</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/6573BB812A" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>teleport-careers</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Quality Assurance (QA)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Federal Territory of Kuala Lumpur<br>Malaysia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/A8C0C00F54" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eeho.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">M&amp;D Customer Solutions Analyst Intern - OVIP</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334388" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcxg.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Market Analysis and Competitive ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nanterre<br>92-Hauts-de-Seine<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcxg.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15399" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Geotechnical Engineering Intern - Summer 2026</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">El Paso<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87999" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejov.fa.ca2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - Victoria</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MELBOURNE<br>VICTORIA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26523" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Mechanical Engineer - Buildings</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87984" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pavement Engineering Co-op Student</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Edmonton<br>AB<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87921" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eabw.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internet DevOps Engineering Lead</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mansfield<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eabw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#30918" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-evmr-saasfapro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Coop</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36602" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI R&amp;D Engineer Coop</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36914" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>elfw.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pharmacy Intern - Retail Pharmacy - Per Diem</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Corning<br>NY<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22608" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebwb.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship in Process Engineering (12 months)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alajuela<br>Costa Rica</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebwb.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#11620" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eeho.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">M&amp;D Operations Planning Intern - OVIP</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334366" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>epgr.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Service Assistant-The Smokehouse Coop (Full-T...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cherokee<br>NC<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epgr.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hdhl.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bridge/Structural Engineering Intern - Transp...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006049" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Private Bank, Executive Directo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Madrid<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750828" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Licensed Practical Nurse (LPN) Internal Medic...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Somerset<br>KY<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#342894" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Private Bank, Banker Associate ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Central and Western<br>Hong Kong Island<br>Hong Kong</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210740625" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>studygroupuk</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Director of Campus Operations</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sheffield<br>Sheffield<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://studygroupuk.applytojob.com/apply/jobs/details/mGOL9ynRNS" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Entry Level Jobs + No Experience Neede...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/3YW5z0I3F5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>staugustineprepar...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 North Campus K4-6th Grade Spanish Teacher</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Glendale<br>WI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://staugustinepreparatoryacademy.applytojob.com/apply/jobs/details/m5ZeRjCJvb" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 North Campus K4-6 Visual Arts Teacher</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Glendale<br>WI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://staugustinepreparatoryacademy.applytojob.com/apply/jobs/details/uLSFQG9qEY" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry Level Sales Representative (Remote | W...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/8RKQFADXYg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level / Growth-Focused | No Experience ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/puxyfuNQCS" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">||Entry-Level Work From Home Position | No De...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/lOWTNGo3zW" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fully Remote Setup | Entry-Level | Apply Now</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/wq3JxNtEri" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>beesweetcitrus</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Accounting Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fowler<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/xdZm9etAN4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>regentcollegelondon</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Student Recruitment Officer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>Greater london<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://regentcollegelondon.applytojob.com/apply/jobs/details/e6zE6aUHqO" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>joniandfriends</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vice President, International Ministries</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Agoura Hills<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://joniandfriends.applytojob.com/apply/jobs/details/PsmBRKSVe1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jdrfelectromageng...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Lab Support Co-op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mississauga<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jdrfelectromagengineeringinc.applytojob.com/apply/jobs/details/CqIIJnZSHg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>kelcoindustries</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Co-op Student</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Angola<br>IN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kelcoindustries.applytojob.com/apply/jobs/details/8UEmbeuE0s" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>nreca</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lea County Electric Cooperative- Manager of E...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lovington<br>NM</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nreca.applytojob.com/apply/jobs/details/Bvv8itCyET" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>monklawgroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Legal Receptionist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lakeland<br>FL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://monklawgroup.applytojob.com/apply/jobs/details/8WXMSvTgdW" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>elchemy</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Sales Specialist - Paints and C...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://elchemy.applytojob.com/apply/jobs/details/lAcDSCWt3U" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mediix-recruitment</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Graduate Paediatric Occupational Therapist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Murrumba Downs<br>Queensland<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/6611E1FCB3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>moomoo</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brand Content Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/F08FD86BE4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>odk-media</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Social Media Content Intern (Unpaid)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>California<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/4C06CB6D2D" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>pony-dot-ai</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Deep Learning</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fremont<br>California<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/4C1F53EF5D" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AMADEUS FIRE AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Specialist / IT-Systembetreuer (m/...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB32)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4NjItMjQ1MzA3LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AGAPLESION Bethan...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft (m/w/d) Tagespflege (Altenpfl...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE300)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4OTMtMDA2NDk0Mzc2Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Delivery Hero SE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Director, International Finance (Leite...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAzOTAtOTQ4MjIxNzUyLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Linimed GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegehilfskraft (m/w/d) Betreutes Wohnen - Jena (Gesundh...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkyODMtMDA1ODEwNjI2Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegefachkraft (m/w/d) als Standortleitung B...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG0T)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkyODMtMDA2NDk0MTUzNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>phia</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hamburger Energie...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuerin OT/IT Security - SIEM &amp; Industrial...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM3NTUtNDQyMDQ0MDYtNTI3LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CALANBAU Brandsch...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Personalreferent (m/w/d) mit Schwerpunkt Ausb...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ0MTAtMDA2NDkyNTYxNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Sybit GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Service Manager AMS (m/w/d) SAP CX /CRM (IT-K...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE138)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyOTE2Ny1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>brainsport GmbH &amp;...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent Softwareentwicklung (m/w/d) (Soft...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE721)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjkyNTkzOS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hauswirtschafts- &amp; Betreuungskraft (m/w/d) Hauskrankenpfl...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkyODMtMDA1ODEwNjk0Ny1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent Frontend-Entwicklung &amp; UI/UX (m/w...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE737<br>DE721)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjkyNTk0Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Arbeiter-Samariter-Bu...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Heilerziehungspflegehelfer:in, Betreuungskraft - Gruppend...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE501)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTg3NzQtMDA1ODA1NjAwMi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DIS AG Personaldienst...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Objektbetreuer Wohnimmobilien (m/w/d) (Immobilienkaufmann...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE402)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MzMtM2JjNTNiYTBfSkI1MTM1NDM1LVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>dreihome GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hausmeister / Objektbetreuer (m/w/d) gesucht (Hausmeister...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA11)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxOTgyMS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Auto-Scholz AHG GmbH ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kfz-Mechatroniker PKW / Mitarbeitender KFZ-Meister (m/w/d...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>FRISTO SE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent Verkauf (m/w/d) Bayreuth (Helfer/...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE242)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ0NzYtMDAwNmQ3MDBiNzYwMDEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>RVM Versicherungsmakl...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer/Schadensachbearbeiter  (m/w/d) Innendienst...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE141)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjM5NDg3MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTgyNDctbmpaMlhWWjItUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">GENERALIST - Kundenbetreuer/Versicherungskaufmann (m/w/d)...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE141)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjM5NDgyNS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stellvertretender Marktleiter (m/w/d) Bayreut...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE242)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTgyNDctUmliNEoyTGEtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>REMONDIS Service Inte...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Controller International (m/w/d) (Controller/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA5C)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQzMzItMDAwMDJmMjNjOWIwMDEtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marktleiter (m/w/d) Bayreuth (Filialleiter/in...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE242)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTgyNDctUUZNU2pRNXgtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Johanniter-Unfall-Hil...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft (m/w/d) Ganztagsschule Garbsen (Kinderbet...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE929)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQyNzEtMTU3MDAxMy0xLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Evangelische Heim...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleiter / Betreuungskraft (m/w/d) (B...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE148)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM2MzUtMjBjN2RhM2NfSkI1MTU2ODY4LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Finanz Informatik Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenservicemanager (m/w/d) (IT-Kundenbetreuer/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE929<br>DEA33<br>DE712)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAwNzktUm5BZWlmY1EtUyAx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Telair Internatio...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chief Engineer (m/f/d) Business Unit Boeing, ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21F)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI2NzgxOC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Composite World GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (m/w/d) im Bereich Mediengestaltung Bild und ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG0U)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxNjc1MC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Nuverta Immobilie...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Objektbetreuer (m/w/d) (Objektverwalter/in (I...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE133)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzNTMxOC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>HEINE Optotechnik Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudenten - Bereich Montage von Diagnostik-Instrument...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21L)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjctZHN1dW8zLVMgMQ?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>heristo AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Senior) HR Manager (m/w/d) - Schwerpunkt Per...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE94E)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYzNjA3MS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>voestalpine Signaling...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Account Manager:in International, voestalpine Signaling S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI0NjA1Mi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Lindner &amp; Fischer...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hausmeister / Objektbetreuer (m/w/d) (Hausmei...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE405)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzNDM5NS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Interzero CSG GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">KUNDENBETREUER INTERNATIONAL (M/W/D) (Gewerbekundenberate...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjM4NTUwNi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Ev.-Luth. Kirchen...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2025-1500 Erzieher (m_w_d) als interne Vertre...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEF05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYzNDY1OS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Autohaus Weeber GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Empfangsmitarbeiter / Kfz - Serviceassistent / Kundenbetr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE112)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjM4NTExMi1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Aide GmbH Regensburg</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fertigungsbetreuer (m/w/d) (Fertigungsmechani...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE7)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzMjk3NC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>European Homecare Gmb...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sozialbetreuer (m/w/d) (Sozialassistent/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB23)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxNDA1Ni1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MEIKO Maschinenba...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internationales HR / Stellvertretende Leitung...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE134)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTY5MzItRTdENTg0Qzc0NTc5NkVGNENBRC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Burg Beilstein GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft (m/w/d) VZ/TZ (Erzieher/in)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE722)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwMzAxMTI5OS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AWO Kreisverband ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter*in der Schulkindbetreuung, Inklus...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE144)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MTgtMTc1NTY1LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ltjgroup</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Auditor Interno</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Honduras</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/ltjgroup/102bb5b8-7f1c-46be-aab4-7ed28f2e56f7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AUMOVIO SE Haupve...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum - Industrial Engineering (Wirtschaf...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE716)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTk4MDEtOTQ4MTkzMTk1LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MTM LLC</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales Representative - Base Salary + Commission</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>NC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://mtm-llc.breezy.hr/p/ca98948e9981-entry-level-sales-representative-base-salary-commission"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LUSINI Group GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior International Marketing &amp; Sales Manage...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE277)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzMTE3OS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Changes Career Ce...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzk0NzEwLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MAPAL Dr. Kress S...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Systembetreuer (m/w/d) (Fachinformatiker/in -...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE129)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYyOTU4Ny1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EVAZ GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">LKW-Fahrer (m/w/d) CE im internationalen Fern...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE406)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEzMDIwNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AWO Soziale Diens...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleiter*in, Betreuungskraft (Betreuu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE937)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MTgtMTc1NTI2LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Raben Trans Europ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Regionale Speditionsleitung International (m/...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE922<br>DE925)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2ODgtMjg5ODk4MzQtUkpBLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Natascha Notis Ho...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Teilzeit Bad Kreuznach (Helfer/in - Reinigung)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYyNTk0OS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Mitteldeutsche Fl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Senior) Internal Auditor / Interner Revisor ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED53)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA2MzgtOTQ4MTU4MTAyLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Vodafone GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Account Manager (m/w/d) Automot...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA11<br>DEA1C<br>DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcxMDItNDQyMDE0MzItNTI3LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Stiftung Liebenau...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungskraft (m/w/d) (Haus- und Familienpf...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE149)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtMmEzNGE5ODgtMGExZS00ZGMzLS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EWR Aktiengesells...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Referent (m/w/d) Regulierung &amp; Netzcontrollin...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB3B)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjk3MjA1MC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Frankfurter Volks...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Privatkundenbetreuer (m/w/d) mit Schwerpunkt ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE717)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMTY3OTg1OS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WLS-Spedition Gmb...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berufskraftfahrer (m/w/d) nationaler &amp; intern...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE262)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMjYxNjU4Mi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TARGOBANK AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Spezialist Kundenbetreuung im Leasing (w/m/d)...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI0NTctMTUyNzMxNC0xLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Fondation de France</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">STAGE - Assistant chef de projet H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Puteaux<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/T4nnkw/jobs/stage-assistant-chef-de-projet-h-f_puteaux" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ArianeGroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikant (m/w/d) im Bereich Commercial Mana...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardthausen am Kocher<br>Baden-Wurttemberg<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/praktikant-m-w-d-im-bereich-commercial-management-datenbankentwicklung_lampoldshausen" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>base-power</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Technical Program Management Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/base-power/c6228333-5f84-4363-9a3a-fd1dfb8ad1a2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Sourcing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/base-power/7ba325d9-4256-4567-83a4-8dd9c72a0d10" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Spezialist:in Risikomanagement - Internes Kontrollsystem/...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTA5NDAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter_in Interne Logistik</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT314)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzYyMjIgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuer_in Wohnen</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTA4MjYgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BACKBOX- &amp; Regalbetreuer_in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT226)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzYwMjkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuer:in Altenarbeit (w/m/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT225)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTExOTAgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuer:in Altenarbeit (w/m/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT223)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTEyMzEgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter_in - Interne Verwaltung</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTAzNDggNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuer_in Altenarbeit: Vollzeit (37 Std./Woch...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Maschinenring Har...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Heizwerkbetreuer (m/w/d)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT224)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTAxOTQgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzU5ODEgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Systemadministrator*in mit Applikationsbet...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT222)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzYxMDUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dipl. Gesundheits- und Krankenpflegekraft als psychosozia...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT211)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMDk2NDkgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Servicetechniker / Installationstechniker (Eu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT311)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzU4NTMgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuer:in Altenarbeit (FSB&quot;A&quot;)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT315)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMDk5NTYgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Teamleiter_in interne Ausbildung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT121)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzU3MDUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuer_innen &quot;Altenarbeit&quot; (FSBA)
-Kennziffer:...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT223)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMDk5NTMgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Raiffeisen-Lagerhaus ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fahrer und Anlagenbetreuer (m./w./d.)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT124)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMTAxMTIgNDM?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>nv5</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transmission Line Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-nv5.icims.com/jobs/12098/transmission-line-design-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gdms</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Engineer - (Co-Op)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ft. Wayne<br>IN<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers-gdms.icims.com/jobs/72244/intern-engineer---%28co-op%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>let-it-click</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikum IT / Webentwicklung (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Osnabrück<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/let-it-click/jobs/16365645-pflichtpraktikum-it-webentwicklung-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>internshiplist2000</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Digital Marketing EMEA, Intern (Fall/September 2026, 12 M...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Oakville<br>Ontario - Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5182221008"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DGKP - Mobile Pflege und Betreuung (Wagna)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT225)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzU2NjUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Marketing Intern (Fall/September 2026, 12 Months)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Oakville<br>Ontario - Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5184516008"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegeassistentin bzw. einen Pflegeassistente...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT125)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzUzNDggNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>myvers24</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer:in</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bitterfeld-Wolfen<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/myvers24/jobs/16354086-kundenbetreuer-in"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuung Stiftungen &amp; Family Offices (all ge...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT332)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQ5MjggNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>dvtrading</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Internship - Trading (DV Equities)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/dvtrading/jobs/4691295005"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-Betreuung Stiftungen &amp; Family Offices (all...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT332)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzUyOTggNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MediPersonal</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Angiologie Facharzt EFZ gesucht (m/w/d) 100% in Region Kr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH057)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQxNmM5OGUtZDNiNi00MWZmLTkyODctOWM3Mzk1YTk1ZDYwIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>wr</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Adult Education Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Greenville<br>SC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.lever.co/wr/f42fc276-10de-4d03-a9ba-3e8f3ebc34ab"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mateoestate</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Customer Success Internship (m/w/d) - Software Startup</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/mateoestate/jobs/16359381-customer-success-internship-m-w-d-software-startup"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Huawei Europe</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineer (Internship)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milano<br>IT</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://huaweidusseldorf-1719303222.teamtailor.com/jobs/7675824-civil-engineer-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Reworld Media</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage Septembre 2026 - Cadreur F/H</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boulogne-Billancourt<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/Jl63D1G/jobs/stage-juillet-2026-technicien-multicamera-operateur-regie-vmix-f-h_boulogne-billancourt"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ZEPLUG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Product Marketing Manager Junior - H/F</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/yYPm117/jobs/stage-product-marketing-manager-junior-h-f_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>tandem-health</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - Internal Tooling</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stockholm</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/tandem-health/34fa5664-8fae-42db-87d7-9474890c22f5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aecom2</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Traction Power Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Philadelphia<br>PA<br>us</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aecom2/744000124443219"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>vio</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">People Ops Coordinator - Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Netherlands - Employee</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.ashbyhq.com/vio/4f9e04aa-33e3-4d18-a012-37196327db92"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MB LOGISTIQUE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Livreur installateur premium (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ22)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VkxaRiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Groupe V33</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage administratif RH (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Domblans<br>Bourgogne-Franche-Comte<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/cglfMI/jobs/stage-administratif-rh-h-f_domblans"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Numberly</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Analytics Engineer Data Collab</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/Z0y26rb/jobs/stage-analytics-engineer-data-collab_paris-9e-arrondissement"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ipcenter.at</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Trainer:in Werkstatt Fitnessbetreuung (m/w/x)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQ5OTEgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MTM LLC</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales Representative - Base Salary + Commission</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://mtm-llc.breezy.hr/p/e3e50439cef2-entry-level-sales-representative-base-salary-commission"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales Consultant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frederick<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://mtm-llc.breezy.hr/p/0b66fffdeb18-entry-level-sales-consultant" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>astranis</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Reliability Test Intern (Fall 2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://job-boards.greenhouse.io/astranis/jobs/4677973006"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>npx</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Design Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ontario</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/npx/4e2f6fd7-26dd-47d9-aa3c-b7ff6bdb2cdb" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AAJD</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intervenant Socio-Educatif en internat (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VkdHTiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aisle_and_abroad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote | Booking &amp; Reservations Assistant  | ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Baltimore<br>Maryland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/7dc1b1a3-eb77-47db-8c1e-2e3d4a2497db" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AERTOIT</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur / Aide couvreuse</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR107)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VkRWRiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Customer Support Coordinator | ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/aisle_and_abroad/abe67e20-6b22-48f2-a17a-7fcc84b1cd61" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PLG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur PL (F/H) (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB02)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VkNNVyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PROCARL</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRM01)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VFhaUiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>iPersonal AG</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Automobil-Mechatroniker/in EFZ 100% in Region Kreuzlingen...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH057)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YzYyY2YwYWItMzBmZS00OWY5LTk2NWQtODMzNjNiMDI2YWYyIDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gastro-bedarf24de</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum im Bereich Social Media &amp; Content Creation (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Duisburg<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/gastro-bedarf24de/jobs/16369251-praktikum-im-bereich-social-media-und-content-creation-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Numberly</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Consulting &amp; Digital Marketing</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>VONA</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Juriste RGPD / Assistant DPO (H/F) - Stage (6...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/Z0y26rb/jobs/stage-consulting-digital-marketing_paris-9e-arrondissement"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ywzggQO/jobs/stage-6-mois-protection-des-donnees-a-caractere-personnel_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>odace</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Community Manager (Stage)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/odace/jobs/16354271-community-manager-stage" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>quaise</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Future Internship Opportunities</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/quaise/jobs/4259386009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>1komma5grad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Energy Analyst (m/f/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hamburg<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/1komma5grad/jobs/16340760-internship-energy-analyst-m-f-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>medienbildung-bra...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuung digitaler Anlagen und Lerninfrastru...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cottbus<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/medienbildung-brandenburg/jobs/16344090-betreuung-digitaler-anlagen-und-lerninfrastruktur-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Active Dental</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Dental Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Plano<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://active-dental-management.breezy.hr/p/512b15f5f03b-entry-level-dental-assistant" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>blockchain</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">UX/Product Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/blockchain/jobs/7961085" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ggw</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer / Senior Kundenbetreuer (m/w/d...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cologne<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/ggw/jobs/16339682-kundenbetreuer-senior-kundenbetreuer-m-w-d-industrieversicherungen-oder-ggw-gmbh" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SITRA FRANCE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur International CE (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VlNaViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>blue-robotics</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Design Co-op (Fall 2026)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Victoria<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/blue-robotics/jobs/a2ef9b40-afa7-4629-99b9-2a58b415a501" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Electronics Design Co-op (Fall  2026)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Victoria<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/blue-robotics/jobs/a0ed8cc8-5b7d-456f-93fa-36b75e5b90e7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LES ELEVEURS DE L...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conducteur livreur / Conductrice livreuse poi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF33)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VlJGRyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gleanwork</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Management Intern, Admin Console (Sum...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/gleanwork/jobs/4699772005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>captur</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ML Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/captur/jobs/c6f72181-57ee-40e5-b862-9f1f82ac7e3d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MEDICALE TRANSPORTS</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">chauffeur livreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE11)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VlBLQiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>APPEL INTERIM GAP</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Charpentier couvreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkxWUSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>STYCH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant ouvreur - LAVAL (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG03)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkJMUSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant ouvreur - BREST (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VFpXSiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>M.T.I</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD21)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkxLUiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>STYCH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Enseignant ouvreur - LES SABLES D&#x27;OLONNE (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VFdCUCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Academic Work Swe...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CEO Assistant till internationellt bolag</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE110)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEyNzg4OCAxMjE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>UNION FRANCAISE S...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Educateur d&#x27;internat (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB04)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkhYWiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AMJ COUVERTURE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VkhSWiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>zededa</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - AI &amp; Edge Kubernetes Orch...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/zededa/jobs/3e34a738-5eb1-405d-b46b-e9737226f5be" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AniCura Deutschland</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tiermedizinische Fachangestellte / TFA (m/w/d...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Reutlingen<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://anicuraglobal.teamtailor.com/jobs/7803103-tiermedizinische-fachangestellte-tfa-m-w-d-reutlingen" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PRO 25</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-Livreur de meubles (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC21)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VEtLViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>muchbetter.ai</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Business Development &amp; Sales Ops</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/GeGpI2/jobs/stage-marketing-growth-hacking_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eurolondon401</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rechtsanwalt (m/w/d) Arbeitsrecht in internat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/eurolondon401/jobs/16338832-rechtsanwalt-m-w-d-arbeitsrecht-in-internationaler-wirtschaftskanzlei" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Sabag AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conseiller clients service interne Sanitaires</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH021)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/N2I2MTlmYjEtMGIxMi00ZjBiLWFkMWItMzdmYTUzM2Y5NWRmIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>lilasciences</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op, Protein Sciences</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4257050009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>preventicus</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum / Abschlussarbeit (m/w/d): Software...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jena<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/preventicus/jobs/16352558-praktikum-abschlussarbeit-m-w-d-software-testing-medizinprodukte" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>greenforce</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikant im Backoffice (w/m/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/greenforce/jobs/16340882-pflichtpraktikant-im-backoffice-w-m-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Tata Consultancy ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Strategic Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Puteaux<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/qDNdRyj/jobs/strategic-assistant_puteaux" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>averydennison</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: Chemical/Polymer Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alphen aan den Rijn<br>ZH<br>nl</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/averydennison/744000128659515" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship: Pilot Plant Innovation</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Leiden<br>ZH<br>nl</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/averydennison/744000128659422" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CENTREXPRESS</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conducteur livreur / Conductrice livreuse poi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VFhWTSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BSO</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FOREUR (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR102)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VFhISCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Syngenta Crop Pro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Process Technology Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH012)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/ZDQyNjY2ZDEtNDFiZC00NzQ1LTk3OGQtMzliNjUzZGUxNjI4IDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>A.P.CHR. CHRISTOU...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">COOK C CONTINENTAL /INTERNATIONAL CUISINE</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CY (CY000)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzM3NzcxIDU?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LA RELIURE DU LIM...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti(e) Relieur/lieuse Doreur/reuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI33)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VFNXUCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>NucleusTeq</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer- Entry Level (NIT/IIT)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai<br>IN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nucleusteq.breezy.hr/p/7d9b260b4c7c-software-engineer-entry-level-nit-iit" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>nana</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Kitchen Helper - Alyeska Pipeline- Rot...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Anchorage<br>AK<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-nana.icims.com/jobs/23050/remote-kitchen-helper---alyeska-pipeline--rotational/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>uti</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Local Campus Admissions Representative</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Smyrna<br>GA<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-uti.icims.com/jobs/10549/local-campus-admissions-representative/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aitworldwide</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Operations Trainer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Itasca<br>IL<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-aitworldwide.icims.com/jobs/7387/international-operations-trainer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Randstad</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">COFFREUR BANCHEUR (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzA1NTkzOCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Lendable</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate - Operations Transformation Associate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/SCB06l/jobs/operations-process-improvement-intern-financial-crime-ops_london_mpedtdqt" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Glydways</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst (Entry Level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/iD5GnA/jobs/financial-analyst-entry-level_richmond_qc54oiqy" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.ppg.com</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Process Engineer - Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quattordio<br>Alessandria<br>Italy</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ppg.com/job/JR266379" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineerin Design - Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quattordio<br>Alessandria<br>Italy</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ppg.com/job/JR266371" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.itw.com</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chemist Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Luis Obispo<br>California<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR8061" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tech Ops Engineer Intern  - Fall 2026, AWS Da...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jeffersonville<br>Ohio<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10426739/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Entravision</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Assistant Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">McAllen<br>TX<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5035?c=entravision" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Turner Construction</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Houston</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/17580?c=turnerconstruction" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Customer Excellence &amp; Master Data</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Utrecht<br>NL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/84016?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Sales Enablement and Business Oper...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Düsseldorf<br>DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/81563?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Transdev</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Junior analyst M/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Issy les Moulineaux<br>FR</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://transdev.csod.com/ux/ats/careersite/1/job/11354?c=transdev" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Entravision</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Assistant Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5039?c=entravision" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Assistant Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5037?c=entravision" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Mechanical Engineer - Buildings</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Riverside<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87884" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>don.fa.em2.oracle...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship in GBS PSO</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9413" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebrf.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Supervisor - Monroe Campus</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2944" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejis.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Medical Assistant I- Internal Medicine - Hewl...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3038615" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebwb.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship in General Services (12 months)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alajuela<br>Costa Rica</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebwb.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#11637" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eodr.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Grad Registered Nurse (RN) - Telemetry</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tucson<br>AZ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2503030267" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hdkk.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Patient Service Rep - Internal Medicine (days...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Beverly Hills<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17806" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egmh.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Product Development</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sri Lanka</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19534" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-evmr-saasfapro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Photonic Integrated Circuits Test Coop</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36486" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eswt.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Medical Assistant, Full-Time, First Shift, In...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22868" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>don.fa.em2.oracle...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship in GBS - Delivery Orchestration</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9411" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eeho.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SCA Project Manager Intern - OVIP</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334344" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcpd.fa.ca2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shipyard Support Engineering Student/Co-op- F...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Halifax<br>NS<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#10164" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-ewlq-saasfapro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Instructor - Internal Medicine (Knoxville, TN)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Knoxville<br>TN<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8291" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit, Technology Audit Director, Co...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jersey City<br>NJ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210751910" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Private Bank, Professional for ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210752226" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Private Bank, Structured Lendin...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Luxembourg<br>Luxembourg<br>Luxembourg</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210752836" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Entry-Level Remote Openings | No Experience ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/8sKJw0twoB" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ENTRY-LEVEL VIRTUAL POSITION | URGENT HIRING ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/iWDOvMcOSi" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HIRING: ENTRY-LEVEL | WORK FROM HOME | START ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/vHBApG4guC" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales Representative | Remote Job...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/Dvdv5i1qiI" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">||Entry-Level Remote Opening | Flexible Sched...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/DZlfKN73AZ" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">_Start Working From Home Today | Entry Level ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/lGB56WRPYq" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>reingoldinc</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data and AI Marketing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alexandria<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://reingoldinc.applytojob.com/apply/jobs/details/5wjRGUZ0z4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>yuassociates</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Civil Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Elmwood Park<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://yuassociates.applytojob.com/apply/jobs/details/vwWY51d22X" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>expedient</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level IT Support Associate Overnight (F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Upper Arlington<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://expedient.applytojob.com/apply/jobs/details/EznKIPba3T" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>yuassociates</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Environmental Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Elmwood Park<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://yuassociates.applytojob.com/apply/jobs/details/OYe7VaqpOe" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ladder</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Service Desk Intern (summer) with MetroPow...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Albany<br>GA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ladder.applytojob.com/apply/jobs/details/qv4kZkYHNn" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>bellefairejcb</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Care Coordinator Intern (Fall 2026)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lorain<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bellefairejcb.applytojob.com/apply/jobs/details/fpuqIZj0oT" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>safewaygaragedoor...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Warehouse Production Associate - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tempe<br>AZ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://safewaygaragedoorsllc.applytojob.com/apply/jobs/details/QL8PoJl021" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>yuassociates</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Geotechnical Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Elmwood Park<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://yuassociates.applytojob.com/apply/jobs/details/md6PUiOilM" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>adilstonegroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine Doctor (Ref#009)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ho Chi Minh<br>Viet Nam</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://adilstonegroup.applytojob.com/apply/jobs/details/mncn6DNjvB" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>cascade-engineeri...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Reliability Test Technician</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>Washington<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/779C44A840" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>zone5technologies</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Data Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Luis Obispo<br>California<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/zone5technologies/jobs/5231405008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Aviation Industry...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Trade/Projects (m/w/d) Lufthans...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1NjQtazIxODQwLjE0Mjg3LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Deutsche Windtech...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (m/w/d) Online Campus &amp; Digital L...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE501)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAxMTktMDA2NDkxNDUzNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Mitteldeutsche Ve...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter Ticketing &amp; Veranstalterbetreuung...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE03)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyNTg4Ny1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>R+V Allgemeine Ve...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) Sachversicherung (Vers...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE712)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTkzMDEtOTQ3OTk1NDk4LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Berner Omnichanne...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (w/m/d) Produktmanagement Interna...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA23<br>DE119)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyNTAzMy1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Thales</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ALTERNANCE - Communication interne / Editoria...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gennevilliers<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/alternance-communication-interne-editorial-f-h_gennevilliers_THALE_gGorAJx" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>RH2 Engineering</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Staff Engineer (Entry Level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nampa<br>ID</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rh2-engineering-inc.breezy.hr/p/208703602ddf-staff-engineer-entry-level" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MEDICLIN Service ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Service- und Cafeteriamitarbeiter (w/m/d), ME...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED53)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI2Njg0MS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cafeterialeitung (w/m/d), MEDICLIN Campus Lei...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED53)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI2NjgzNi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stellv. Cafeterialeitung (w/m/d), MEDICLIN Ca...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED53)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI2NjgzMS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>APS GmbH Tagespflege</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleitung (m/w/d) in Teilzeit gesucht...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE914)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYyMTIwNy1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Boels Verleih GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer mit technischen Grundkenntniss...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2ODgtMjg5ODA5OTUtUkpBLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TOPSTAR GMBH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Area Sales &amp; Field Project Manager Internatio...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxMTctWUYtNDQ2MjctWUYtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AGAPLESION WOHNEN...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegehelfer in unserer Tagespflege (w/m/d) (...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE144)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ4OTMtMDA2NDkxMzc1Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Diakonisches Werk...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsfachkraft (m/w/d) in Borsdorf (Heil...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED52)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTU3NDUtMDA2NDkxMDM4Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WSM Walter Solbac...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kommissarischer Leiter Interne Logistik (m/w/...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA2A)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYxNzU3My1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>prosozial GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-KUNDENBERATER/ INFORMATIONSMANAGER/ TRAINE...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB1A)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYxNjg3Mi1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BLG AutoTerminal ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter (m/w/d) Kundenbetreuung / Cust...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjAzMDktODM3NS0xNzc0MzMzLTAtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Josera Erbacher S...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Expert* Corporate Communication International...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE269)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjYxNjE2OC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Maschinenring Per...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleitung (m/w/d) (Betreuungskraft / ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE21H)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1NDEtWVNFS0hZMVo0R0tDS1k2MS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>base-power</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Changes Career Ce...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE2)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzk0NDkyLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzc4NzEyLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEG0)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzk0NzExLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEB)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzk0NzEyLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>v. Bodelschwinghs...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegefachkraft (m/w/d) | Emmaus-Sinai / Kurz...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA41)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTM5MTYtNDQyMDExODQtNTI2LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Seniorenresidenz ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsfachkraft (m/w/d) als Krankheitsver...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE914)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTIwNjU5NDM4Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Vivendo gGmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Heilerziehungspfleger, Gesundheits-, Kranken-...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE408)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTE5OTY3Nzk2MS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>base-power</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AWO Betreuungsdie...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Altenpfleger*in, Betreuungsfachkraft, Fachkra...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE40D)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MTgtOTM3MjktUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ArianeGroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikant (m/w/d) im Bereich Commercial Mana...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardthausen am Kocher<br>Baden-Wurttemberg<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/Yk2B3I/jobs/praktikant-m-w-d-im-bereich-commercial-management-datenanalyse_lampoldshausen" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Apple</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Regulatory Affairs Lead (Medica...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cupertino</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.apple.com/en-us/details/200643226/international-regulatory-affairs-lead-medical-devices" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>periodic-labs</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nanofabrication Intern - Summer 2026</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Menlo Park</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/periodic-labs/2cfb099d-42f1-4dff-93f4-1862b13f914a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shopmitarbeiter/in im Bereich Verkauf u. Kund...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT221)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQ3NDcgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Leiter:in in unserer firmeninternen Elektrote...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT124)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQyMTYgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Fach-)Betreuer:in (Springerdienst), Wohnhaus...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT315)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQzNjEgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflegeassistentin bzw. Pflegeassistenten oder...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT124)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQyOTMgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kassa- und Regalbetreuer_in im Supermarkt</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT213)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQyOTAgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Fach-)Betreuer:in (Springerdienst), Wohnhaus...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT312)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQ2MTUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Behindertenbetreuer*in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT122)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzQzMTEgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Marktgemeinde Andorf</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Freizeitbetreuers/in in der Nachmittagsbetreuung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT311)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzM5ODMgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shopmitarbeiter_in im Bereich Verkauf u. Kund...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT223)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzMzMTUgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Heimhelfer:in - Mobile Pflege und Betreuung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT223)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzMzMTEgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Kelebek Kindergruppe</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kindergruppenbetreuer/in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT130)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzM1OTIgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>siehe Beschreibung</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Regalbetreuer:in Fleischbereich</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT127)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzM0MTIgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuer*in BA oder Pflegeassistent*in</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT226)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzM3NzIgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fachsozialbetreuung Altenarbeit (w/m/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AT (AT125)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTcyMzM5MzkgNDM?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>sheladiaassociates</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Senior Road Design Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Phnom Penh<br>Phnom Penh<br>kh</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/sheladiaassociates/744000128570770" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Team Leader (Senior Highway Eng...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Phnom Penh<br>Phnom Penh<br>kh</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/sheladiaassociates/744000128569809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>khanacademy</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Analytics Lead (24 months fixed...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA / Remote (Continental US + Hawaii + Canada Only)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/khanacademy/jobs/7958915" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>maintainx</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Canada (All hubs)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/maintainx/4189beb9-a98c-48cc-a9ab-b7bce0390d39" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>m3usa</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chattanooga<br>TN<br>us</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/m3usa/744000128559146" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BREGER - EVREUX</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conducteur SPL - National F/H - BREGER - EVREUX</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD21)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzA0NzYyMyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EHPAD Les Jardins...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Agent de maintenance / livreur F/H - EHPAD Le...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR103)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzA0NzYzNyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Fornel</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-Livreur PL F/H - Fornel</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI23)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzA0NzYxOCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Groupe Loste</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-Livreur multisecteurs CDI F/H - Gro...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MzA0NzUyNSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>newsela</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Contract: Sr. Analytics Engineer - Internal Data</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Argentina; Brazil; Mexico; Colombia; Chile; Costa Rica</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/newsela/jobs/7818607" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Carmen Schools of...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 American Board Teacher Residency - High...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://carmen-schools-of-science-technology.breezy.hr/p/4bd29aa1da83-26-27-american-board-teacher-residency-high-school-science-teacher--northwest-campus" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">26-27 American Board Teacher Residency - High...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://carmen-schools-of-science-technology.breezy.hr/p/79d8f9309d5e-26-27-american-board-teacher-residency-high-school-math-teacher--southgate-campus" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>stadtwerke-oberursel</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Technischer Objektbetreuer / Liegenschaftsman...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Oberursel<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/stadtwerke-oberursel/jobs/16349562-technischer-objektbetreuer-liegenschaftsmanager-m-w-d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Deloitte Luxembourg</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Talent acquisition and analytics assistant - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hesperange<br>Luxembourg</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/GToSe1/jobs/talent-acquisition-and-analytics-assistant-6-months-to-1-year-internship_luxembourg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Flying Bisons</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">UX/UI Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote job</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://flyingbisons.recruitee.com/o/uxui-design-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>scaleon</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent Founders Associate - Strategie, A...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/scaleon/jobs/16336403-werkstudent-founders-associate-strategie-ai-und-company-building-w-m-d-berlin" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>KOLABS GROUP</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Agentic AI &amp; Automatisation (Paris)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ed1NlPZ/jobs/stage-agentic-ai-automatisation-paris_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>vohra</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Medicine Physician - Victoria, TX</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Victoria<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/vohra/2d0f5113-63b6-46c4-bf0c-72696d58c774" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>morganmorganjobsa...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seeking Paralegal New Grads!</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alpharetta<br>Georgia<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/6006109004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>carvana</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HIRNG NOW! Entry-Level Auto Body Technician</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Akron<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.carvana.com/careers/apply?gh_jid=7958211" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HIRING NOW! Entry-Level Auto Body Technician</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Akron<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.carvana.com/careers/apply?gh_jid=7958204" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>SPE LOC</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL03)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VEdIRCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TOITECH SERVICES</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur/ Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR104)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4VEZOTSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Tata Consultancy ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alternance Campus Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Puteaux<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/qDNdRyj/jobs/alternant-campus-manager_puteaux" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>OPALE INTERIM</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U05LUCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Groupe SII</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stagiaire Business Manager (F/H)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toulouse<br>Occitanie<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/5p9XmWL/jobs/stagiaire-business-manager-f-h_toulouse" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MTM LLC</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Sales - Base + Commission</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Baltimore<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://mtm-llc.breezy.hr/p/c96afe7c777c-entry-level-sales-base-commission" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Hopscotch Groupe</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage - Influence manager (F/H/X) heaven</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/wyRyjyx/jobs/influence-manager-f-h-x-heaven_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>r. beeler + partn...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Treuhand Sachbearbeiterin / Kaufm. Allrounder...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Zug<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/51a63c71-e936-4a57-aac9-41740b9f0408/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ACADEMIC WORK SWE...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Konferensrumstekniker till internationellt bo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE224)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEyNTU5OSAxMjE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MJ TOITURE ET MAC...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur / Aide couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF33)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1ZTWCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF33)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1ZSUSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>PROVENCE DAUPHINE...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR LIVREUR PL (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK28)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1ZISiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR LIVREUR VL (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK28)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1ZESiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>sportdanslaville</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage assistant d&#x27;exploitation Campus IDF</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/sportdanslaville/jobs/16342429-stage-assistant-d-exploitation-campus-idf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CHAMBRE DES METIE...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Apprenti couvreur-charpentier H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRF24)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1NXWiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Naboo</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Event Development Intern - DACH Market</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>Catalonia<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/9jvT8A/jobs/event-developer-intern-dach-market_barcelone" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ADEQUAT INTERIM</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Operateur cadreuse H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD21)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1NOViA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.dhl.com</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern-OFR</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Guangzhou<br>Guangdong<br>China<br>People's Republic of</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.dhl.com/job/AV-355134" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>[PIAS] FRANCE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant.e Promotion - Stage</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ZwKVg56/jobs/assistant-e-promotion-presse-web-stage_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>abogadosbravomurillo</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Becario Laboral</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Madrid<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/abogadosbravomurillo/jobs/16333628-becario-laboral" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fampay</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/fampay/f1a64ab7-a22d-49e5-93a2-f7feb1668ccf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aumovio</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technical Internship at AUMOVIO (TM)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Timisoara<br>ro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/aumovio/744000124376029"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; Business Analyst/Support Intern [IDA: ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>sg</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aumovio/744000128435029" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Atexo</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chef de projets transformation IT - Stage - Paris</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/dQ5lwm3/jobs/chef-de-projets-si-for-pro-stage-paris_paris"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HR Intern - Global Travel [IDA: 00042]</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>sg</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aumovio/744000128431020" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LG MAT</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur polyvalent / Chauffeuse-livreuse polyva...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH04)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VExXWiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>NJH TRANSPORT</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur-livreur / Chauffeuse-livreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ13)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1FKSiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LAFON GUILLAUME</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRK12)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VEtaRiA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>skynrg</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Policy &amp; Sustainability Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Amsterdam</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/skynrg/16447c91-5226-41ea-9f47-39a7b0f4afc3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GEIQ BTP</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>OUEST FRAIS DISTR...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur livreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U1BQUyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BOULANGER BLOIS</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chauffeur Livreur Installateur - CDI Temps pl...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB05)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4TkZaWiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>FRANCE BOISSONS L...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CDI Chauffeur Livreur Poids Lourds Nantes - (...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRG01)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U05TTCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GREGOIRE YOANN</strong></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ25)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3VEtSViA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRD12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U05ORyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Agencja Interaktywna ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Osoba do wykonywania stron internetowych (web-developer) ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PL (PL72)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ3ODc4MTUgMTI?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Liberall Group</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Liberall Conseil - Bras droit CEO - Stage (H/...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/7JHn6R/jobs/liberall-conseil-bras-droit-ceo_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>INTERIMA PROVENCE</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR LIVREUR (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRL03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3U1JWWSA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ABALONE TT LA TESTE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CHAUFFEUR LIVREUR PL F/H (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRI12)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U01RSyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>louisdreyfuscompany</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Regional Senior Internal Auditor</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>NULL<br>sg</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/louisdreyfuscompany/744000124338489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>continental</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Auditor ContiTech CTBC</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Timișoara<br>TM<br>ro</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/continental/744000128410834" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Blinden- und Behinder...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fachperson Betreuung  80 - 100%</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH021)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MDEyOTQxNjItNjc3MC00NzA2LThmM2ItNzYxYWZmOGY5MzY1IDYx?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Global Internal Auditor (Cross-Functional)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Budapest<br>hu</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/continental/744000128412955" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Bally&#x27;s Interactive</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Table Games - Dealer School Opportunity</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kansas City<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/table-games-dealer-school_kansas-city_7wlkhknv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Gens de Confiance</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">People Specialist &amp; Talent Recruiter - Stage ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nantes<br>Loire Region<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/zDmRMqK/jobs/people-specialist-talent-recruiter-alternance-f-m_nantes" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejov.fa.ca2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Environmental Technician</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">BORGER<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26268"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aumovio</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Startup Partnership &amp; Strategy Management Int...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>sg</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aumovio/744000128411708" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcog.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Field Technician I - Construction Materials T...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Plymouth<br>MI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14731"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>triplewhale</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager, Internal Systems</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jerusalem<br>Israel (Hybrid)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/triplewhale/jobs/5230603008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>edbz.fa.us2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Technician Intern - Dallas/Tucson</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25010550"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>CONNEUIL LOCATION</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conducteur-livreur  (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRB04)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U0hXUCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-evmr-saasfaprod1.f...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Test Developer Co-op/Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35684"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>digital-trendteam</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marketing &amp; KI - Personal Branding auf Social...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mainz<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/digital-trendteam/jobs/16331395-marketing-und-ki-personal-branding-auf-social-media-oder-praktikum-in-jungem-startup" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>estm.fa.em2.oracleclo...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Roster of Interns (open call)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Belgrade<br>Serbia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#27843"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LA SQUADRA VELOCE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aide couvreur / Aide couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FR101)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U0dSVCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>webook</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Riyadh<br>Riyadh Province<br>Saudi Arabia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/C07255C746"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>MENCO</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH02)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4UlZWTCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>DELOUVRIER - JOUL...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur zingueur / Couvreuse zingueuse (H/F)...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4U0ZMWSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>iPersonal AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Elektroniker/in EFZ (m/w/d) 100% in Region Kr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH057)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/Y2I3ODUzOTItZGYxNi00MTE5LWEyOTAtNGNkYmIxZjJkOTk4IDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Kredivo Group</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Head of Data Science - International Markets</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kredivo-group.breezy.hr/p/87cfe0d29890-head-of-data-science-international-markets" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ASAP</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse - CORDISTE (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4UkZESCA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse (H/F)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRE22)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4UkZLUiA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>uti</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Local Campus Admissions Representative</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-uti.icims.com/jobs/10533/local-campus-admissions-representative/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ORDIA</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MAGASINIER-LIVREUR (H/F) EN CONTRAT D&#x27;APPRENT...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRY40)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4UlpSTSA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>artefact</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist Intern (2024)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jakarta<br>Jakarta<br>Indonesia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/artefact/jobs/8564128002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Workato</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ohariu/jobs/ai-engineering-intern_san-francisco_mljcbaw5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>HTG Hoch- und Tie...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Supporter / Anwendungsbetreuer (m/w/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gadebusch<br>Mecklenburg-Vorpommern<br>Deutschland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10000-1203553897-S" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Bahndienste SCHWA...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter Social Media Betreuung (m/w/d) Ne...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Nürnberg<br>Mittelfranken<br>Bayern<br>Deutschland</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1003128563-S" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eoje.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern - USA</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PLANO<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eoje.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#6315" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship as Trade Marketing Assistant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milano<br>IT</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/82977?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Commercial Excellence Intern (m/f)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Budapest<br>HU</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83952?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Regulatory Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>PH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83191?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Production Management</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Scheemda<br>NL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83955?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Digital Marketing - Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Utrecht<br>NL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83290?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eswt.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GME Program Manager, Internal Medicine-Cardio...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22914" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>jpmc.fa.oraclecloud.com</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">International Consumer Banking - Business Analysis Lead</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Metro Manila<br>National Capital Region<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210716622"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejta.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Inside Sales Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sao Paulo<br>SP<br>Brazil</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejta.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9844" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>kumu</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati<br>Metro Manila<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://kumu.bamboohr.com/careers/340"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>erym.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Physician Office Clinical RN - McLeod Interna...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dillon<br>SC<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25813" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>epos</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Talent Acquisition Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://apply.workable.com/j/5367777FB6"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejia.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Engineering Support (Co-op)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#106787" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">&quot;(Entry-Level | Remote)No Experience Needed | Work From H...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-evmr-saasfapro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Lab Technician Co-op/Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36832" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebwh.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Retail Sales Support Specialist - Tommy Hilfi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Doral<br>FL<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_781061" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>epyz.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Respiratory Therapy - Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wilmington<br>DE<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epyz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18962" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hdhl.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Architect</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Edmonton<br>AB<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006025" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hcog.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Field Technician I - Construction</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14258" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egup.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Specialist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cluj Napoca<br>Romania</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egup.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20271733" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hctz.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fall 2026 - Electrical Device Characterizatio...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hctz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2505101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Structural Engineer (Buildings)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87821" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fa-evmr-saasfapro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Optical Test Co-op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36616" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eluq.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PHARMACY/PHARMCST-INTERN</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Savannah<br>GA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#162159" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>insticator</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chief of Staff, Internal AI Optimization</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://insticator.bamboohr.com/careers/322" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>spadepartners</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Benefits Manager</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/j5ON0Ptf4M"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://spadepartners.applytojob.com/apply/jobs/details/k4TQwIYjtp" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>honkamppc</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Human Resources Intern (Fall 2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dubuque<br>IA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://honkamppc.applytojob.com/apply/jobs/details/uIEKePIMKn"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>thecalendargroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Personal Assistant - (International and Domes...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thecalendargroup.applytojob.com/apply/jobs/details/gf5Bx2flpW" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Work From Home Role | Simple Task...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/0NsnbNQFbt" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">_Launch Your Remote Career | Entry-Level Remo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/W0xuc72bkv" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>thecarycompany</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI / Automation Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Addison<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thecarycompany.applytojob.com/apply/jobs/details/1gRuFg1wIp" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Remote Entry Level Jobs + No Experience Need...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/yJoLw91qt5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>etaily</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ecommerce Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://etaily.applytojob.com/apply/jobs/details/TWrdAgQ890" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>kellystrayhorn</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DEVELOPMENT ASSOCIATE INTERNSHIP AT KST</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kellystrayhorn.applytojob.com/apply/jobs/details/czfJotrdc9" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FINANCE &amp; OPERATIONS ASSOCIATE INTERNSHIP AT KST</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kellystrayhorn.applytojob.com/apply/jobs/details/aEkJqcvu7F" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>lycomingcollege</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Director of Campus Life &amp; Residential Education</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Life Fellow</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Williamsport<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://lycomingcollege.applytojob.com/apply/jobs/details/HPutRZNTQC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lycomingcollege.applytojob.com/apply/jobs/details/MCA696yWLr" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>grizzlytrek</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Floorhand (New Class 3 License Holder)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Grand Prairie<br>AB<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/RHtZOn7Y31"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>itcdefense</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Logistics Specialist for International Progra...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lexington Park<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://itcdefense.applytojob.com/apply/jobs/details/kMhWk1B7Lf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Socius e.V.</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter:in in der Mittagsbetreuung Grundschule Haar (...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE212)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxMjQ1NS1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>olsonkundig</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Legal &amp; Contracts Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://olsonkundig.applytojob.com/apply/jobs/details/VwtqxYhBrj" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Fitness Champ Weinhei...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter/in Fitnessstudio Service und Mitgliederbetreu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE126)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxMjEyNy1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>mpf-federal-4</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant - Part Time</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bethesda<br>Maryland<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/D19E4AE159" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>fundingsocieties</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Security Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/6C3C8B7EE8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ellison-institute...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant (Jamali Lab) - Generative ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Oxford<br>England<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/6C97437F26" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>toast</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Product Manager, International</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.toasttab.com/jobs?gh_jid=7930336" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>System Straub Mar...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Erfahrener Kinderbetreuer (m/w/d) (20 Std./Wo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4NTgtU1NINzM0MC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Ideenkraftwerk GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Webentwicklung rocken: Praktikum mit Fokus au...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA43)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDAtMTE4NzYxOTc5Ni1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>griffithuniversity</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nathan<br>QLD<br>au</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/griffithuniversity/744000128265089" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Thales</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ALTERNANCE - Community Manager interne F/H</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vélizy-Villacoublay<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/13QAa65/jobs/alternance-community-manager-interne-f-h_velizy-villacoublay" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Blaschke Umweltte...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter/in Internationales Office Managem...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE276)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyMTg5My1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Energie- und Wass...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) (Kundendienstberater/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA37)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTIxMTctWUYtNDQ1MzQtWUYtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Changes Career Ce...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED51)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzk0NTQ0LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mitarbeiter/in Fitnessstudio Service und Mitgliederbetreu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE128)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzAxMjEyMC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT-Kundenbetreuer (m/w/d) (IT-Kundenbetreuer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEE03)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTEyODktMjQzNzk0NTQzLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Cureus GmbH</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Projektassistenz* (m/w/d) Bau &amp; Immobilien, 79000 - Cureu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE600)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI4MTEtMjI0NTQ1NC1TIDE?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Avedo III GmbH Ni...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kundenbetreuer (m/w/d) Teilzeit (Promoter/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE131)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtY2Q5OTE4ZGUtYTcwZC00M2FhLS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GARDNER AEROSPACE MAZ...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chiffreur (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ21)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA3QlZWSCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>St. Augustinus Gr...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Specialist (m/w/d) 2nd Level Suppo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEA1D)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI5NTEtZjk4ZDFkYWEtZjhiZS00ZWUzLS1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>devoteam</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship Opportunity - Jordan</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Amman<br>jo</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://jobs.smartrecruiters.com/devoteam/744000124296729"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AWO Kreisverband ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Betreuungsfachkraft, Heilerziehungspfleger*in...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE405)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI2MTgtMTY4ODA2LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hellofresh</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Anlagenbetreuer (all genders)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Barleben<br>Saxony-Anhalt<br>Germany; Magdeburg<br>Saxony-Anhalt<br>Germany</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://careers.hellofresh.com/global/en/job/7881113?gh_jid=7881113"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LITTLE CIGOGNE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Content &amp; Community Manager H/F - Stage</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/2gwx67z/jobs/community-manager-h-f-stage_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracleclo...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Kletor Sverige AB</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal medicine career opportunities in Sweden</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE224)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEyMzc5MCAxMjE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>LITTLE CIGOGNE</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage Assistant Marketing / e-commerce</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/2gwx67z/jobs/stage-assistant-marketing-e-commerce_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>immotalente</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Immobilienverwalter (m/w/d) | Berlin-Kreuzberg</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/immotalente/jobs/16332516-immobilienverwalter-m-w-d-oder-berlin-kreuzberg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Arcadis</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Architecture &amp; Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milan<br>Lombardy<br>IT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://arcadis.eightfold.ai/careers/job/563671530758824" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Aleph Ventures</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Door Knocker-Entry Level Sales Associate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Christiansburg<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aleph-ventures.breezy.hr/p/acc3da07b15d-door-knocker-entry-level-sales-associate" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>QUALI&#x27;PRO+</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Couvreur / Couvreuse</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRJ13)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA4UlZTVyA5?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Stegra AB</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Head of Internal Audit</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SE (SE110)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEyMjkxNCAxMjE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Sotra Agency GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter/in Treuhand oder Junior Mandat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>8 locations</strong></summary>Zürich<br>Bern<br>Zug<br>Basel<br>Luzern<br>Region Zentralschweiz<br>St.Gallen<br>Switzerland</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/b3d36efd-62aa-49f2-8ba5-3033c2a1221d/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>AB InBev France</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stagiaire Chef De Secteur H/F</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paris<br>Ile-de-France<br>France</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/gYoAwL/jobs/stagiaire-chef-de-secteur-h-f_paris" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>TreuVision AG</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Treuhandexperte od. in Ausbildung</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH040)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/YjQxMTc2ZTEtOWNiOC00NGQ4LTkyYWUtMzE5NjBiMTAxNTFiIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>cannondesign</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Architect - Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://www.cannondesign.com/careers/?gh_jid=8563638002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ascenda-loyalty</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer TransferConnect</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>SGP</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.gem.com/ascenda-loyalty/am9icG9zdDolhiaUFEFOynKKK5wz6ZpN" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>indeed</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Manager, Payroll - Internal Only</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>UNAVAILABLE<br>US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-indeed.icims.com/jobs/47063/assistant-manager%2c-payroll---internal-only/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>yfood</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Influencer Marketing Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/TOzU15/jobs/international-influencer-marketing-manager_munich_2jskzmo5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>careers.thalesgro...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.thalesgroup.com/job/R0328869" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level-FRONT END MANAGER</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kenai<br>AK<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#715327" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Canaan<br>CT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#706590"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Laurel<br>MT<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#712251" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Henkel</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SC &amp; Ops Digital Transformation Summer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Cairo<br>EG</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83097?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Trade Marketing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ciudad de Guatemala<br>GT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83668?c=henkel" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejov.fa.ca2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - Perth</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PERTH<br>WESTERN AUSTRALIA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26544" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Purchase to Pay Summer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Cairo<br>EG</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83083?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - Adelaide</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ADELAIDE<br>SOUTH AUSTRALIA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26540" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofh.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AVP - Collections - Strategy - Process &amp; Cost...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#46703" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejov.fa.ca2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - Regio...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BUNBURY<br>WESTERN AUSTRALIA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26543" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Webstudio Summer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Cairo<br>EG</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://henkel.csod.com/ux/ats/careersite/1/job/83108?c=henkel"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - South...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BRISBANE<br>QUEENSLAND<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26530" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">&quot;Virtual Entry-Level Role | Work From Home | Career Growt...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - Tasmania</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HOBART<br>TASMANIA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26528" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - Sydney</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SYDNEY<br>NEW SOUTH WALES<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26542" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>hdhl.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Water Co-op Student - Fall 2026</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Windsor<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1005988" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofh.fa.em2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Officer - DSMG - Settlement Process &amp; MIS - M...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#46668" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ejov.fa.ca2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - New Z...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AUCKLAND<br>New Zealand</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26533" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GHD Summer Internship Program 2026/27 - North...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CAIRNS<br>QUEENSLAND<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26535" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">||Remote Entry-Level Role - Full/Part-Time | ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/17q4h4X6M7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level | Remote Associate Role Beginner-...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/4CYdiGxdzh" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>thamringroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Palembang<br>Sumatera Selatan<br>Indonesia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thamringroup.applytojob.com/apply/jobs/details/3IzdY48gcF" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Remote Entry-Level Role - Full/Part-Time | B...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/sf3cQZvG4L" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Virtual Entry-Level Position | Immediate Hir...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Multiple states)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/gwNOQjzpTQ" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Work From Home Sales Representative (Entry L...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/nPhtx9ZPn3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>etaily</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Demand and Supply Planning Intern (Hybrid)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://etaily.applytojob.com/apply/jobs/details/CnxOocNxn1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>stafffinancialgroup</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internal Audit Senior</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nashville<br>TN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stafffinancialgroup.applytojob.com/apply/jobs/details/35FPeZbpqy" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>payreto</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>Metro Manila<br>Philippines</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://payreto.applytojob.com/apply/jobs/details/xojmH1qe6j" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Profs &amp; Execs GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fahrerbetreuer (m/w/d) (Speditionskaufmann/-f...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE273<br>DE112<br>DE271)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ2NDItazMyNjgxLjYwMTItUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fahrerbetreuer (m/w/d) (Berufskraftfahrer/in)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DEF0D<br>DE933<br>DE937)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ2NDItazMyNjgxLjYwMTEtUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>K&amp;S - Dr. Krantz ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Trainee zur Pflegedienstleitung (w/m/d) K&amp;S S...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE501)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjctMmIzb2YwMDYyM2ktUyAx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>pro-beam systems ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Servicetechniker (m/w/d) im internationalen U...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED42)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTI1MTEtMjAyNlgwMDAwMDUxMDQ1LVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Birger AB</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Builder (Lovable) Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SE</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/NjEyMTQ1MiAxMjE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>gesundheitsrondell</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Physiotherapeut (w, m, d)-Profisportbetreuung...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Neckarsulm<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.com/companies/gesundheitsrondell/jobs/16343847-physiotherapeut-w-m-d-profisportbetreuung-bei-interesse" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>scm</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Developer Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Radnor<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/scm/jobs/721888" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Research Analyst Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Radnor<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/scm/jobs/721895" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Zynga</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Analytics Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/PPVrQR/jobs/analytics-internship_barcelona_yvanvsxt" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;">🔥 <strong>Salesforce</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Executive Assistant (International Government...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/xeNXWK/jobs/executive-assistant-international-government-affairs_dublin_p2fjmnp4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Okta</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Director of Internal Communications</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/ISQpoZ/jobs/director-of-internal-communications_san-francisco_bq4bodiv" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Lambda</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineering Intern (Summer 2026)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/sXLA9OsPTw"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/J5eoW0/jobs/security-engineering-intern-summer-2026_us_qwlvohwg" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Now Hiring: Remote Sales Associate | Entry-Level | Immedi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/tYWLQqdR3T"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Devoted Health</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Senior Internal Controls Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Waltham<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/muFbuP/jobs/senior-internal-controls-analyst_us_yoqg6mso" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>EURL CHENILLOT PASCAL</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">COUVREUR-CHARPENTIER-ZINGUEUR (H/F)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRC21)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjA2WktKRCA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eofd.fa.us6.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">McCall<br>ID<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#715066" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>shapemateeu</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum Influencer Marketing &amp; Partnerships (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cologne<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/shapemateeu/jobs/16368589-praktikum-influencer-marketing-und-partnerships-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ebwv.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Line Cook | Fairfield Inn Harrisburg Internat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Middletown<br>PA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#235825" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eeho.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">M&amp;D Operations Analyst Intern - OVIP</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334371" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">`Urgently Hiring | Fully Remote | Entry Level...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/qyIsmCCwAD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Praktikum Content Marketing &amp; Creation (m/w/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cologne<br>Germany</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://join.com/companies/shapemateeu/jobs/16371780-praktikum-content-marketing-und-creation-m-w-d"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Michael Page</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Consolideur au Sein d&#x27;Un Groupe International en Bretagne...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FR (FRH03)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjIxOTExNyA5?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Surface Labs</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI GTM Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA<br>US / Remote (US)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.ycombinator.com/companies/surface-labs/jobs/k6SbAbd-ai-gtm-engineer-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Work From Home - Remote Sales Representative ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/KaA047Uulw" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Ads Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA<br>US / Remote (US)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.ycombinator.com/companies/surface-labs/jobs/KtquZ0C-ai-ads-engineer-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>BetterBasket</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.ycombinator.com/companies/betterbasket/jobs/VizvMJh-software-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Blaze</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Special Projects Intern | AI Content Generation -- Work D...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote (US)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.ycombinator.com/companies/blaze-2/jobs/BON6JAn-special-projects-intern-ai-content-generation-work-directly-with-the-ceo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Revyl</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA<br>US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.ycombinator.com/companies/revyl/jobs/SduBVhc-engineering-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>GrazeMate</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>New South Wales<br>AU</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://www.ycombinator.com/companies/grazemate/jobs/Tb1uBMc-robotics-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Remote Career Launch Associate (Entry Level) Free Full T...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">START ASAP - CUSTOMER SALES REP - ENTRY-LEVEL</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/a24oPMQNaA"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/KwozpxfaQy" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelifeaok...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`APPLY NOW | Bilingual Spanish | Entry Level Leadership |...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>ccmiretailservices</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Merchandiser / Auditor Position Available - I...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">International Falls<br>MN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ccmiretailservices.applytojob.com/apply/jobs/details/AxYopg9Rqe" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>K&amp;S - Dr. Krantz ...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Alltagsbegleiter / Mitarbeiter in der soziale...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DED53)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTQ5MjctZHFteGZhLVMgMQ?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>egra</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Researcher / Engineer / Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Septeo</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BECARIO/ Revenue Operations</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Barcelona<br>Catalonia<br>Spain</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/kccL87/jobs/becario-revenue-operations_barcelona" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>WIRmachenDRUCK Sc...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sachbearbeiter Kundenbetreuung (m/w/d) 100 % ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Baar<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/0ee871fd-c13b-4046-b196-382480b981bf/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Mobility Genossen...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fahrzeugbetreuer:in Umgebung Olten (w/m/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Olten<br>Switzerland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobs.ch/en/vacancies/detail/8ecc8fc3-bc4b-4ed0-b3b1-2969e0d3d5af/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Inderbitzin &amp; Ris...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mandatsleiter/in Treuhand m/w im 50-100% Pensum</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CH (CH063)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MWRkZDVkODAtZjRjNi00NGNjLWJmZTUtMzA2MWZkZjI0YTlkIDYx?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Karla</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entrepreneur in Residence Intern (Customer Su...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Berlin<br>Germany</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/HZPWRM/jobs/entrepreneur-in-residence-intern-customer-success-4-6-month-internship_berlin_fktagvvh" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Astranis</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Integration Associate (Avionics, F...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/electrical-integration-associate-avionics-fall-2026_san-francisco_q2tciz6t" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>Roll2Job GmbH</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikum im Bereich Unternehmenskommu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Münster<br>Westfalen<br>Nordrhein-Westfalen<br>Deutschland</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.arbeitsagentur.de/jobsuche/jobdetail/10001-1002676318-S" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>eeho.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CEGIU Demo Data Strategy Intern - OVIP</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Redwood City<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334396" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittm...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">`Start this Week | Entry Level Leadership | F...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/LFoT87Trca"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/gkn7w6gQGL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>americanincomelif...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Remote Sales Associate (Entry Level | No Exp...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Multiple states)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/fkxIeQhquo" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Remote Bilingual Sales Associate (Entry Level, Immediate...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">_ Entry-Level / Growth-Focused | No Experienc...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/iBMiwffWFC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/mBqCC8XC6t" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>aoglobelifebrittmarie...</strong></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">`Urgent Hiring: Entry-Level Remote Role (No Experience Re...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">↳</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">-Sales Representative Entry Level (Remote | W...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere"><a href="https://aoglobelifebrittmarieyarian.applytojob.com/apply/jobs/details/Xya87M1jE0"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/iVTNJBekmw" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><strong>1 &amp; 1 Mail &amp; Medi...</strong></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manager Internal Communications (f/m/d) (Komm...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DE (DE212<br>DE122)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MTAwMDEtMTAwMzEyMDM4MC1TIDE?lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="44" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 </tbody>
 </table>
 
-[← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md)
+[← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-16.md)
