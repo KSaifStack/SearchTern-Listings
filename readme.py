@@ -1,5 +1,6 @@
 import html
 import os
+import re
 from datetime import datetime, timezone
 
 # GitHub render limit
@@ -9,11 +10,12 @@ SIZE_BUFFER = 2560
 # Inactivity threshold in days
 INACTIVE_THRESHOLD_DAYS = 60
 
-# Apply button image
-APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
-
 # Base GitHub URL for nav links
 BASE_URL = "https://github.com/KSaifStack/jobscraper/blob/main/"
+
+# Max character lengths before truncation
+MAX_COMPANY_LEN = 40
+MAX_ROLE_LEN    = 80
 
 # Blocked companies
 BLOCKED_COMPANIES: set[str] = {}
@@ -34,6 +36,23 @@ FAANG_PLUS: set[str] = {
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
+
+def is_english(text: str) -> bool:
+    """Return False if text contains non-ASCII characters (catches foreign listings)."""
+    try:
+        text.encode("ascii")
+        return True
+    except UnicodeEncodeError:
+        return False
+
+
+def truncate(text: str, max_len: int) -> str:
+    """Truncate text to max_len characters."""
+    text = text.strip()
+    if len(text) > max_len:
+        return text[:max_len - 3] + "..."
+    return text
+
 
 def days_display(date_str) -> str:
     """Convert ISO timestamp to human-readable age string."""
@@ -56,7 +75,7 @@ def format_location(location) -> str:
     """Format location — collapse 4+ locations into a dropdown."""
     if not location or str(location) == "nan":
         return "N/A"
-    parts = [p.strip() for p in str(location).split(",")]
+    parts = [p.strip() for p in str(location).split(",") if p.strip()]
     if len(parts) <= 3:
         return "<br>".join(parts)
     joined = "<br>".join(parts)
@@ -74,6 +93,7 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str) -> 
 
 
 def build_table(rows: list[str]) -> str:
+    """Wrap rows in a full HTML table."""
     return (
         "<table>\n<thead>\n<tr>\n"
         "<th>Company</th>\n"
@@ -86,44 +106,40 @@ def build_table(rows: list[str]) -> str:
         + "\n</tbody>\n</table>"
     )
 
+
 def build_nav(current_page: int, total_pages: int) -> str:
-    """Build previous/next nav links accounting for root vs pages/ folder."""
+    """Build previous/next nav links."""
     links = []
-
     if current_page > 1:
-        prev_url = BASE_URL + "README.md" if current_page == 2 else BASE_URL + f"pages/README-{current_page - 1}.md"
+        prev_url = (
+            BASE_URL + "README.md"
+            if current_page == 2
+            else BASE_URL + f"pages/README-{current_page - 1}.md"
+        )
         links.append(f"[← Previous page]({prev_url})")
-
     if current_page < total_pages:
         next_url = BASE_URL + f"pages/README-{current_page + 1}.md"
         links.append(f"[Next page →]({next_url})")
-
     return " | ".join(links)
 
 
 def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
     """Build the top section of each README page."""
-    nav = build_nav(current_page, total_pages)
+    nav       = build_nav(current_page, total_pages)
     page_info = f"Page {current_page} of {total_pages} — {total_rows:,} total listings"
 
     if current_page == 1:
-        return f"""# SearchTern Job Listings
-
-Auto-generated from jobhive. Updated each scrape run.
-
-**{page_info}**
-
-{nav}
-
-"""
-    else:
-        return f"""# SearchTern Job Listings — Page {current_page}
-
-**{page_info}**
-
-{nav}
-
-"""
+        return (
+            "# SearchTern Job Listings\n\n"
+            "Auto-generated from jobhive. Updated each scrape run.\n\n"
+            f"**{page_info}**\n\n"
+            f"{nav}\n\n"
+        )
+    return (
+        f"# SearchTern Job Listings — Page {current_page}\n\n"
+        f"**{page_info}**\n\n"
+        f"{nav}\n\n"
+    )
 
 
 # ── Main ───────────────────────────────────────────────────────────────────────
@@ -137,17 +153,16 @@ def generate_readme(dataframe, output_dir="."):
     pages_dir = os.path.join(output_dir, "pages")
 
     # ── Build all rows ──────────────────────────────────────────────────────
-    all_rows = []
-    prev_company = None
-    prev_age = None
-    skipped_blocked = 0
+    all_rows        = []
+    prev_company    = None
+    prev_age        = None
+    skipped_blocked  = 0
     skipped_inactive = 0
+    skipped_foreign  = 0
 
     for _, row in dataframe.iterrows():
         company  = str(row["company"]).strip()
-        role = str(row["role"]).strip()
-        if len(role) > 80:
-            role = role[:77] + "..."
+        role     = str(row["role"]).strip()
         location = str(row["location"]).strip()
         date     = str(row["date"]).strip()
         link     = str(row["link"]).strip()
@@ -155,6 +170,11 @@ def generate_readme(dataframe, output_dir="."):
         # Skip blocked companies
         if company in BLOCKED_COMPANIES:
             skipped_blocked += 1
+            continue
+
+        # Skip foreign language listings (non-ASCII title or company)
+        if not is_english(role) or not is_english(company):
+            skipped_foreign += 1
             continue
 
         # Skip inactive listings
@@ -168,35 +188,38 @@ def generate_readme(dataframe, output_dir="."):
         except Exception:
             pass
 
+        # Truncate long fields
+        company  = truncate(company, MAX_COMPANY_LEN)
+        role     = truncate(role, MAX_ROLE_LEN)
+
         age          = days_display(date)
         company_cell = format_company(company, prev_company, age, prev_age)
         prev_company = company
         prev_age     = age
 
         all_rows.append(
-            f"<tr>\n"
+            "<tr>\n"
             f"<td>{company_cell}</td>\n"
             f"<td>{html.escape(role)}</td>\n"
             f"<td>{format_location(location)}</td>\n"
-            f'<td><div align="center"><a href="{link}">'
-            f'<img src="{APPLY_BUTTON}" width="40" alt="Apply"></a></div></td>\n'
+            f'<td align="center"><a href="{link}">Apply</a></td>\n'
             f"<td>{age}</td>\n"
-            f"</tr>"
+            "</tr>"
         )
 
     total_rows = len(all_rows)
 
     # ── Split rows into pages by byte size ─────────────────────────────────
-    pages = []
+    pages             = []
     current_page_rows = []
-    current_size = 0
+    current_size      = 0
 
     for row_html in all_rows:
         row_size = len(row_html.encode("utf-8"))
         if current_size + row_size > (GITHUB_FILE_SIZE_LIMIT - SIZE_BUFFER) and current_page_rows:
             pages.append(current_page_rows)
             current_page_rows = [row_html]
-            current_size = row_size
+            current_size      = row_size
         else:
             current_page_rows.append(row_html)
             current_size += row_size
@@ -211,12 +234,14 @@ def generate_readme(dataframe, output_dir="."):
 
     for i, page_rows in enumerate(pages):
         page_num = i + 1
+        filepath = (
+            os.path.join(output_dir, "README.md")
+            if page_num == 1
+            else os.path.join(pages_dir, f"README-{page_num}.md")
+        )
 
-        if page_num == 1:
-            filepath = os.path.join(output_dir, "README.md")
-        else:
+        if page_num > 1:
             os.makedirs(pages_dir, exist_ok=True)
-            filepath = os.path.join(pages_dir, f"README-{page_num}.md")
 
         nav     = build_nav(page_num, total_pages)
         content = (
@@ -233,9 +258,10 @@ def generate_readme(dataframe, output_dir="."):
         files_written.append(filepath)
 
     # ── Summary ────────────────────────────────────────────────────────────
-    print(f"\nTotal rows written : {total_rows:,}")
-    print(f"Pages created      : {total_pages}")
-    print(f"Skipped (blocked)  : {skipped_blocked}")
-    print(f"Skipped (inactive) : {skipped_inactive}")
+    print(f"\nTotal rows written  : {total_rows:,}")
+    print(f"Pages created       : {total_pages}")
+    print(f"Skipped (blocked)   : {skipped_blocked}")
+    print(f"Skipped (inactive)  : {skipped_inactive}")
+    print(f"Skipped (foreign)   : {skipped_foreign}")
 
     return files_written
