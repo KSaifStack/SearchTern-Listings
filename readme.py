@@ -136,7 +136,7 @@ def build_header(current_page: int, total_pages: int, total_rows: int) -> str:
 
 <img src="https://raw.githubusercontent.com/KSaifStack/SearchTern/main/frontend/src/assets/Logo.png" alt="SearchTern Logo" width="200"/>
 
-# 🐦 SearchTern
+# SearchTern
 
 ### The all-in-one internship platform for college students
 
@@ -242,7 +242,7 @@ def generate_readme(dataframe, output_dir="."):
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
-            f'<td align="center" style="white-space:nowrap;"><a href="{link}"><img src="{APPLY_BUTTON}" width="60" alt="Apply"></a></td>\n'            f'<td style="white-space:nowrap;">{age}</td>\n'
+            f'<td align="center" style="white-space:nowrap;"><a href="{link}"><img src="{APPLY_BUTTON}" width="40" alt="Apply"></a></td>\n'            f'<td style="white-space:nowrap;">{age}</td>\n'
             "</tr>"
         )
 
