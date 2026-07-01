@@ -406,7 +406,7 @@ def generate_readme(dataframe, output_dir="."):
 
         nav     = build_nav(page_num, total_pages)
         content = (
-            build_header(page_num, total_pages, total_rows,dataframe)
+            build_header(page_num, total_pages, total_rows,dataframe if page_num == 1 else None)
             + build_table(page_rows)
             + f"\n\n{nav}\n"
         )
@@ -418,10 +418,12 @@ def generate_readme(dataframe, output_dir="."):
         print(f"Wrote {filepath} — {len(page_rows):,} rows, {size_kb:.1f} KB")
         files_written.append(filepath)
 
+    generate_country_pages(dataframe, output_dir)
+
     print(f"\nTotal rows written  : {total_rows:,}")
     print(f"Pages created       : {total_pages}")
     print(f"Skipped (blocked)   : {skipped_blocked}")
     print(f"Skipped (inactive)  : {skipped_inactive}")
     print(f"Skipped (foreign)   : {skipped_foreign}")
-
+    
     return files_written
