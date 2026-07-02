@@ -34,7 +34,7 @@
 <td style="word-break:break-word;">Principle People Business Partner EMEA- Inter...</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>IE</td>
 <td align="center"><a href="https://careers-indeed.icims.com/jobs/47344/principle-people-business-partner-emea--internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Glanua</strong></td>
@@ -51,25 +51,25 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;"><strong>Glanua</strong></td>
 <td style="word-break:break-word;">Construction -  Mechanical Engineer Internshi...</td>
 <td style="word-break:break-word;">IE</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU5NiAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Construction - Health &amp; Safety Internship/Pla...</td>
 <td style="word-break:break-word;">IE</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU3MyAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jobgether</strong></td>
 <td style="word-break:break-word;">AI Engineer (Remote, International)</td>
 <td style="word-break:break-word;">Ireland</td>
 <td align="center"><a href="https://jobs.lever.co/jobgether/88546ad3-cc6c-44f1-9f32-dc75ee2ddc18"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>careers.allianz.com</strong></td>
@@ -83,7 +83,7 @@
 <td style="word-break:break-word;">Legal Operations Analyst, Privacy - INTERNAL ...</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>IE</td>
 <td align="center"><a href="https://careers-indeed.icims.com/jobs/47323/legal-operations-analyst%2c-privacy---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>toast</strong></td>
@@ -125,14 +125,14 @@
 <td style="word-break:break-word;">Staff Product Designer, Internal Tools</td>
 <td style="word-break:break-word;"><details><summary><strong>6 locations</strong></summary>Dublin<br>Ireland; Leeds<br>England<br>United Kingdom; London<br>England<br>United Kingdom</details></td>
 <td align="center"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4284521009"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
+<td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>FARRELLY &amp; CO PAI...</strong></td>
 <td style="word-break:break-word;">Painter (Entry Level)</td>
 <td style="word-break:break-word;">IE (IE061)</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1MjA4OSAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>octoenergy</strong></td>

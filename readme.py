@@ -19,12 +19,15 @@ MAX_ROLE_LEN    = 48
 
 BLOCKED_COMPANIES: set[str] = {
     "aoglobelife",
+    "aoglobelifebrittmarieyarian",
+    "aoglobelifesholaadebayo",
     "americanincomelif",
     "aoglobelifebrittm",
     "destinationknot",
     "themcquadeorganiz",
     "globelifeaillisar",
 }
+NORMALIZED_BLOCKED_COMPANIES = {name.strip().lower() for name in BLOCKED_COMPANIES}
 
 # FAANG+ companies
 FAANG_PLUS: set[str] = {
@@ -90,6 +93,11 @@ def truncate(text: str, max_len: int) -> str:
     if len(text) > max_len:
         return text[:max_len - 3] + "..."
     return text
+
+
+def normalize_company(company: str) -> str:
+    """Normalize company names so blocking works consistently."""
+    return str(company).strip().lower()
 
 
 def days_display(date_str) -> str:
@@ -213,7 +221,11 @@ def generate_country_pages(dataframe, output_dir="."):
         prev_age     = None
 
         for _, row in group.iterrows():
-            company  = truncate(str(row["company"]).strip(), MAX_COMPANY_LEN)
+            company_name = str(row["company"]).strip()
+            if normalize_company(company_name) in NORMALIZED_BLOCKED_COMPANIES:
+                continue
+
+            company  = truncate(company_name, MAX_COMPANY_LEN)
             role     = truncate(str(row["role"]).strip(), MAX_ROLE_LEN)
             location = str(row["location"]).strip()
             date     = str(row["date"]).strip()
@@ -356,7 +368,7 @@ def generate_readme(dataframe, output_dir="."):
         link     = str(row["link"]).strip()
 
         # Skip blocked companies
-        if company in BLOCKED_COMPANIES:
+        if normalize_company(company) in NORMALIZED_BLOCKED_COMPANIES:
             skipped_blocked += 1
             continue
 
