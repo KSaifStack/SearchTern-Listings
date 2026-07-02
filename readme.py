@@ -93,6 +93,73 @@ COUNTRY_NAMES = {
     "RO": "🇷🇴 Romania",
 }
 
+CANONICAL_DOMAIN_MAP: dict[str, str] = {
+    "baesystems": "BAE Systems",
+    "marsh": "Marsh",
+    "cencora": "Cencora",
+    "geaerospace": "GE Aerospace",
+    "ascension": "Ascension",
+}
+
+
+def clean_company_name(company: str) -> str:
+    """Normalize company values that are domains or noisy tokens.
+
+    - Unescape HTML entities
+    - Convert domain-like names (jobs.foo.com, careers.foo.org) to a readable form
+    - Remove common suffixes like 'careers', trailing digits, and punctuation
+    - Title-case the final result while preserving known canonical mappings
+    Returns empty string when the name should be skipped.
+    """
+    if not company:
+        return ""
+    name = html.unescape(str(company)).strip()
+    if not name:
+        return ""
+
+    lower = name.lower()
+
+    # If it's an Oracle Cloud ATS URL, normalize to a friendly label
+    if is_oracle_cloud_url(lower):
+        return "Oracle Cloud"
+
+    # If it's a careers portal URL like careers.foo.com, try to extract the SLD
+    if is_careers_portal_url(lower):
+        m = re.search(r"careers\.([a-z0-9-]+)", lower)
+        if m:
+            sld = m.group(1)
+            if sld in CANONICAL_DOMAIN_MAP:
+                return CANONICAL_DOMAIN_MAP[sld]
+            s = re.sub(r"[-_0-9]+", " ", sld).strip()
+            return " ".join(w.capitalize() for w in s.split())
+
+    # If it looks like a domain with dots and no spaces, extract the SLD
+    if "." in lower and " " not in lower:
+        # Try to capture the second-level domain
+        m = re.search(r"(?:^(?:www|jobs|careers|apply)\.)?([a-z0-9-]+)(?:\.[a-z0-9-]+)+$", lower)
+        if m:
+            sld = m.group(1)
+            if sld in CANONICAL_DOMAIN_MAP:
+                return CANONICAL_DOMAIN_MAP[sld]
+            # split hyphens and digits, then title-case
+            s = re.sub(r"[-_0-9]+", " ", sld).strip()
+            return " ".join(w.capitalize() for w in s.split())
+
+    # Remove common noise suffixes and trailing digits (e.g., dmcengineering2024 -> dmcengineering)
+    cleaned = re.sub(r"(?:careers|jobs|portal|apply|recruitment|ats|jobsat)$", "", lower)
+    cleaned = re.sub(r"\d+$", "", cleaned)
+    # Replace non-letter/number with spaces
+    cleaned = re.sub(r"[^a-z0-9]+", " ", cleaned).strip()
+    if not cleaned:
+        return ""
+
+    # If the cleaned token is a short acronym-like string, return uppercased
+    if cleaned.isupper() or (len(cleaned) <= 4 and cleaned.isalpha()):
+        return cleaned.upper()
+
+    return " ".join(w.capitalize() for w in cleaned.split())
+
+
 
 
 def is_english(text: str) -> bool:
@@ -145,14 +212,26 @@ def format_location(location) -> str:
     return f"<details><summary><strong>{len(parts)} locations</strong></summary>{joined}</details>"
 
 
-def format_company(company: str, prev_company: str, age: str, prev_age: str) -> str:
-    """↳ for consecutive same-company rows, 🔥 for FAANG+."""
+def format_company(company: str, prev_company: str, age: str, prev_age: str, link: str = None) -> str:
+    """Return company HTML. If `link` provided, wrap company in anchor.
+
+    - Returns '↳' for consecutive same-company rows (keeps previous visual cue).
+    - Adds 🔥 for FAANG+ companies.
+    """
+    cell = ""
     if company == prev_company and age == prev_age:
-        return "↳"
-    escaped = html.escape(company)
-    if company.lower() in FAANG_PLUS:
-        return f"🔥 <strong>{escaped}</strong>"
-    return f"<strong>{escaped}</strong>"
+        cell = "↳"
+    else:
+        escaped = html.escape(company)
+        if company.lower() in FAANG_PLUS:
+            cell = f"🔥 <strong>{escaped}</strong>"
+        else:
+            cell = f"<strong>{escaped}</strong>"
+
+    if link and cell:
+        safe = html.escape(link, quote=True)
+        return f'<a href="{safe}" target="_blank" rel="noopener noreferrer">{cell}</a>'
+    return cell
 
 
 def build_table(rows: list[str]) -> str:
@@ -240,19 +319,16 @@ def generate_country_pages(dataframe, output_dir="."):
         for _, row in group.iterrows():
             company_name = str(row["company"]).strip()
             
-            # Skip Oracle Cloud URLs
-            if is_oracle_cloud_url(company_name):
-                continue
-            
-            # Skip careers portal URLs
-            if is_careers_portal_url(company_name):
-                continue
-            
-            # Skip blocked companies
-            if normalize_company(company_name) in NORMALIZED_BLOCKED_COMPANIES:
+            # Clean company name for country pages
+            cleaned_company = clean_company_name(company_name)
+            if not cleaned_company:
                 continue
 
-            company  = truncate(company_name, MAX_COMPANY_LEN)
+            # Skip blocked companies
+            if normalize_company(cleaned_company) in NORMALIZED_BLOCKED_COMPANIES:
+                continue
+
+            company  = truncate(cleaned_company, MAX_COMPANY_LEN)
             role     = truncate(str(row["role"]).strip(), MAX_ROLE_LEN)
             location = str(row["location"]).strip()
             date     = str(row["date"]).strip()
@@ -262,7 +338,7 @@ def generate_country_pages(dataframe, output_dir="."):
                 continue
 
             age          = days_display(date)
-            company_cell = format_company(company, prev_company, age, prev_age)
+            company_cell = format_company(company, prev_company, age, prev_age, link)
             prev_company = company
             prev_age     = age
 
@@ -395,23 +471,19 @@ def generate_readme(dataframe, output_dir="."):
         date     = str(row["date"]).strip()
         link     = str(row["link"]).strip()
 
-        # Skip Oracle Cloud URLs
-        if is_oracle_cloud_url(company):
-            skipped_oracle += 1
-            continue
-
-        # Skip careers portal URLs
-        if is_careers_portal_url(company):
+        # Clean company name (strip domains, careers portals, noisy tokens)
+        cleaned_company = clean_company_name(company)
+        if not cleaned_company:
             skipped_oracle += 1
             continue
 
         # Skip blocked companies
-        if normalize_company(company) in NORMALIZED_BLOCKED_COMPANIES:
+        if normalize_company(cleaned_company) in NORMALIZED_BLOCKED_COMPANIES:
             skipped_blocked += 1
             continue
 
         # Skip foreign language listings (non-ASCII title or company)
-        if not is_english(role) or not is_english(company):
+        if not is_english(role) or not is_english(cleaned_company):
             skipped_foreign += 1
             continue
 
@@ -427,10 +499,10 @@ def generate_readme(dataframe, output_dir="."):
             pass
 
         # Truncate long fields
-        company  = truncate(company, MAX_COMPANY_LEN)
+        company  = truncate(cleaned_company, MAX_COMPANY_LEN)
         role     = truncate(role, MAX_ROLE_LEN)
         age          = days_display(date)
-        company_cell = format_company(company, prev_company, age, prev_age)
+        company_cell = format_company(company, prev_company, age, prev_age, link)
         prev_company = company
         prev_age     = age
 
