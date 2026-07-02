@@ -213,7 +213,7 @@ def format_location(location) -> str:
 
 
 def format_company(company: str, prev_company: str, age: str, prev_age: str, link: str = None) -> str:
-    """Return company HTML. If `link` provided, wrap company in anchor.
+    """Return company HTML. Wraps in anchor when a job URL is provided.
 
     - Returns '↳' for consecutive same-company rows (keeps previous visual cue).
     - Adds 🔥 for FAANG+ companies.
@@ -229,9 +229,9 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str, lin
     else:
         cell = base
 
-    if link and cell:
-        safe = html.escape(link, quote=True)
-        return f'<a href="{safe}" target="_blank" rel="noopener noreferrer">{cell}</a>'
+    if link:
+        safe_link = html.escape(link, quote=True)
+        return f'<a href="{safe_link}">{cell}</a>'
     return cell
 
 
