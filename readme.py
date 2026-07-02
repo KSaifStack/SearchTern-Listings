@@ -17,7 +17,14 @@ APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 MAX_COMPANY_LEN = 20
 MAX_ROLE_LEN    = 48
 
-BLOCKED_COMPANIES: set[str] = {}
+BLOCKED_COMPANIES: set[str] = {
+    "aoglobelife",
+    "americanincomelif",
+    "aoglobelifebrittm",
+    "destinationknot",
+    "themcquadeorganiz",
+    "globelifeaillisar",
+}
 
 # FAANG+ companies
 FAANG_PLUS: set[str] = {
