@@ -41,24 +41,24 @@
 <td style="word-break:break-word;">Construction - Civil Engineer Internship/Plac...</td>
 <td style="word-break:break-word;">IE</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTY1NyAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTY1NiAxOA?lang=en" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTY1NiAxOA?lang=en" target="_blank" rel="noopener noreferrer">↳ <strong>Glanua</strong></a></td>
 <td style="word-break:break-word;">Construction - Quantity Surveyor Internship/P...</td>
 <td style="word-break:break-word;">IE</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTY1NiAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU5NiAxOA?lang=en" target="_blank" rel="noopener noreferrer"><strong>Glanua</strong></a></td>
+<td style="word-break:break-word;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU5NiAxOA?lang=en" target="_blank" rel="noopener noreferrer">↳ <strong>Glanua</strong></a></td>
 <td style="word-break:break-word;">Construction -  Mechanical Engineer Internshi...</td>
 <td style="word-break:break-word;">IE</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU5NiAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU3MyAxOA?lang=en" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU3MyAxOA?lang=en" target="_blank" rel="noopener noreferrer">↳ <strong>Glanua</strong></a></td>
 <td style="word-break:break-word;">Construction - Health &amp; Safety Internship/Pla...</td>
 <td style="word-break:break-word;">IE</td>
 <td align="center"><a href="https://europa.eu/eures/portal/jv-se/jv-details/MjQ1NTU3MyAxOA?lang=en"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -76,7 +76,7 @@
 <td style="word-break:break-word;">Internal Audit Manager - 12 Month Maternity C...</td>
 <td style="word-break:break-word;">Dublin<br>Ireland</td>
 <td align="center"><a href="https://careers.allianz.com/job/101359"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://careers-indeed.icims.com/jobs/47323/legal-operations-analyst%2c-privacy---internal-only/job?in_iframe=1" target="_blank" rel="noopener noreferrer"><strong>Indeed</strong></a></td>
@@ -90,7 +90,7 @@
 <td style="word-break:break-word;">Senior Android Engineer, International</td>
 <td style="word-break:break-word;">Dublin<br>Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8012759"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://cbhm.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2094" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
@@ -139,7 +139,7 @@
 <td style="word-break:break-word;">Rotational Moulding Operator</td>
 <td style="word-break:break-word;">Portadown<br>Northern Ireland (GB)</td>
 <td align="center"><a href="https://jobs.lever.co/octoenergy/4edea764-d24c-4179-91ef-e01d65a85e08"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
+<td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://apply.workable.com/j/CE0F0C7400" target="_blank" rel="noopener noreferrer"><strong>DAVY</strong></a></td>

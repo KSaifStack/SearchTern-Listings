@@ -37,31 +37,31 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#14463" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word;"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#78151" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word;">Senior Vice President, International Payments...</td>
+<td style="word-break:break-word;">Manchester<br>Greater Manchester<br>United Kingdom</td>
+<td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#78151"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#14463" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Edinburgh Medical School 300 Archival Researc...</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14463"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://eedu.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#202602755" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://eedu.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#202602755" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Practice Leader - International Business Unit...</td>
 <td style="word-break:break-word;">Ipswich<br>Suffolk<br>United Kingdom</td>
 <td align="center"><a href="https://eedu.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#202602755"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014489" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014489" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Intern, Kroll Agency &amp; Trustee Services</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21014489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#78151" target="_blank" rel="noopener noreferrer">↳</a></td>
-<td style="word-break:break-word;">Senior Vice President, International Payments...</td>
-<td style="word-break:break-word;">Manchester<br>Greater Manchester<br>United Kingdom</td>
-<td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#78151"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@
 <td style="word-break:break-word;">International Senior Sourcer</td>
 <td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4267421009"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://remoteok.com/remote-jobs/remote-administrative-assistant-entry-level-recruit-lytics-hiring-1134138" target="_blank" rel="noopener noreferrer"><strong>Recruit Lytics Hi...</strong></a></td>
@@ -121,7 +121,7 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4589?c=sseacademy" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4589?c=sseacademy" target="_blank" rel="noopener noreferrer">↳ <strong>Sse Academy</strong></a></td>
 <td style="word-break:break-word;">Internal Sales Team Leader</td>
 <td style="word-break:break-word;">Huddersfield<br>WEST YORKSHIRE<br>GB</td>
 <td align="center"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4589?c=sseacademy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -149,21 +149,21 @@
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24031" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24031" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Compliance Business Support Officer (Internal)</td>
 <td style="word-break:break-word;">Suffolk<br>United Kingdom</td>
 <td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24031"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hcri.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#16866" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hcri.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#16866" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Intern Data Analyst, Data Insights</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://hcri.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#16866"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#14326" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#14326" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Research Assistant</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14326"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -198,13 +198,6 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://rayconglobal.applytojob.com/apply/jobs/details/hryKRYTKh9" target="_blank" rel="noopener noreferrer"><strong>Rayconglobal</strong></a></td>
-<td style="word-break:break-word;">Business Intelligence Rotational Associate (2...</td>
-<td style="word-break:break-word;">London<br>United Kingdom</td>
-<td align="center"><a href="https://rayconglobal.applytojob.com/apply/jobs/details/hryKRYTKh9"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><a href="https://hcjy.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#11399" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Accounts Payable Administrator - CooperSurgical</td>
 <td style="word-break:break-word;">Fareham<br>Hampshire<br>United Kingdom</td>
@@ -212,45 +205,52 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hdid.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4535" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hdid.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4535" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">International External Reporting (Vice Presid...</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://hdid.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4535"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hdga.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26057" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hdga.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26057" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Software Engineer - Intern</td>
 <td style="word-break:break-word;">Basildon<br>Essex<br>United Kingdom</td>
 <td align="center"><a href="https://hdga.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26057"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://10pearls.applytojob.com/apply/jobs/details/rGxTYj829u" target="_blank" rel="noopener noreferrer"><strong>10pearls</strong></a></td>
-<td style="word-break:break-word;">Associate Account Executive - Intern</td>
+<td style="word-break:break-word;"><a href="https://rayconglobal.applytojob.com/apply/jobs/details/hryKRYTKh9" target="_blank" rel="noopener noreferrer"><strong>Rayconglobal</strong></a></td>
+<td style="word-break:break-word;">Business Intelligence Rotational Associate (2...</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
-<td align="center"><a href="https://10pearls.applytojob.com/apply/jobs/details/rGxTYj829u"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://rayconglobal.applytojob.com/apply/jobs/details/hryKRYTKh9"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4722" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word;">Consultant International Relocation</td>
+<td style="word-break:break-word;">United Kingdom</td>
+<td align="center"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://ecwz.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2464" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word;"><a href="https://ecwz.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2464" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Internet Intelligence Investigators Superviso...</td>
 <td style="word-break:break-word;">Birmingham<br>West Midlands<br>United Kingdom</td>
 <td align="center"><a href="https://ecwz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2464"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24085" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24085" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Graduate Internship</td>
 <td style="word-break:break-word;">Felixstowe<br>Suffolk<br>United Kingdom</td>
 <td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24085"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4722" target="_blank" rel="noopener noreferrer">↳</a></td>
-<td style="word-break:break-word;">Consultant International Relocation</td>
-<td style="word-break:break-word;">United Kingdom</td>
-<td align="center"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><a href="https://10pearls.applytojob.com/apply/jobs/details/rGxTYj829u" target="_blank" rel="noopener noreferrer"><strong>10pearls</strong></a></td>
+<td style="word-break:break-word;">Associate Account Executive - Intern</td>
+<td style="word-break:break-word;">London<br>United Kingdom</td>
+<td align="center"><a href="https://10pearls.applytojob.com/apply/jobs/details/rGxTYj829u"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -331,7 +331,7 @@
 <td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24021" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24021" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Family Time Practitioner - Internal</td>
 <td style="word-break:break-word;">Lowestoft<br>Suffolk<br>United Kingdom</td>
 <td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24021"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -359,7 +359,7 @@
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10453316/apply" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10453316/apply" target="_blank" rel="noopener noreferrer">↳ 🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word;">Software Development Manager, Internet Edge S...</td>
 <td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10453316/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -387,35 +387,35 @@
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#114563" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#114563" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">(Entry level) Mechanical Design Engineer</td>
 <td style="word-break:break-word;">Yeovil<br>Somerset<br>United Kingdom</td>
 <td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#114563"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#5894" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#5894" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Head of Trade Finance Sales.Corporate Banking...</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5894"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#5892" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#5892" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Senior Relationship Manager.Corporate Banking...</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5892"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#23784" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#23784" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Learning Coordinator (Internal)</td>
 <td style="word-break:break-word;">Ipswich<br>Suffolk<br>United Kingdom</td>
 <td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23784"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#5893" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#5893" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Account Manager.Corporate Banking - London.In...</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://hcld.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5893"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -436,14 +436,14 @@
 <td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hdow.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#248919" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://hdow.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#248919" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Senior Internal Audit Manager</td>
 <td style="word-break:break-word;">London<br>Greater London<br>United Kingdom</td>
 <td align="center"><a href="https://hdow.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#248919"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24011" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#24011" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Graduate Internship</td>
 <td style="word-break:break-word;">Ipswich<br>Suffolk<br>United Kingdom</td>
 <td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24011"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -513,21 +513,21 @@
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000131411444" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000131411444" target="_blank" rel="noopener noreferrer">↳ <strong>Aecom</strong></a></td>
 <td style="word-break:break-word;">Grow Your Career In The Water Sector - Expres...</td>
 <td style="word-break:break-word;">Chesterfield<br>England<br>gb</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000131411444"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000131412289" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000131412289" target="_blank" rel="noopener noreferrer">↳ <strong>Aecom</strong></a></td>
 <td style="word-break:break-word;">Grow Your Career In The Water Sector - Expres...</td>
 <td style="word-break:break-word;">Leeds<br>England<br>gb</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000131412289"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000131407931" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000131407931" target="_blank" rel="noopener noreferrer">↳ <strong>Aecom</strong></a></td>
 <td style="word-break:break-word;">Grow Your Career In The Water Sector - Expres...</td>
 <td style="word-break:break-word;">Manchester<br>England<br>gb</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000131407931"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -548,17 +548,17 @@
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://apply.workable.com/j/DCDC864B5C" target="_blank" rel="noopener noreferrer"><strong>Homey</strong></a></td>
-<td style="word-break:break-word;">Legal Intern - London</td>
-<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/DCDC864B5C"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10445091/apply" target="_blank" rel="noopener noreferrer">🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word;">Software Development Engineer III, Internet E...</td>
 <td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10445091/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">22d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://apply.workable.com/j/DCDC864B5C" target="_blank" rel="noopener noreferrer"><strong>Homey</strong></a></td>
+<td style="word-break:break-word;">Legal Intern - London</td>
+<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/DCDC864B5C"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
@@ -590,13 +590,6 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://apply.workable.com/j/47F6D838FF" target="_blank" rel="noopener noreferrer"><strong>Fuseenergy</strong></a></td>
-<td style="word-break:break-word;">Finance Intern - Corporate</td>
-<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/47F6D838FF"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><a href="https://apply.workable.com/j/DA194E3038" target="_blank" rel="noopener noreferrer"><strong>Helical</strong></a></td>
 <td style="word-break:break-word;">Operations Analyst - Internship</td>
 <td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
@@ -604,7 +597,14 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://apply.workable.com/j/6DB55A57F2" target="_blank" rel="noopener noreferrer"><strong>Fuseenergy</strong></a></td>
+<td style="word-break:break-word;"><a href="https://apply.workable.com/j/47F6D838FF" target="_blank" rel="noopener noreferrer"><strong>Fuseenergy</strong></a></td>
+<td style="word-break:break-word;">Finance Intern - Corporate</td>
+<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/47F6D838FF"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">28d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://apply.workable.com/j/6DB55A57F2" target="_blank" rel="noopener noreferrer">↳ <strong>Fuseenergy</strong></a></td>
 <td style="word-break:break-word;">Finance Intern</td>
 <td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
 <td align="center"><a href="https://apply.workable.com/j/6DB55A57F2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -632,31 +632,31 @@
 <td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10438452/apply" target="_blank" rel="noopener noreferrer">↳</a></td>
-<td style="word-break:break-word;">Applied Science Manager, Alexa International</td>
-<td style="word-break:break-word;">London<br>England<br>GBR</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10438452/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10438451/apply" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10438451/apply" target="_blank" rel="noopener noreferrer">↳ 🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word;">Applied Scientist, Alexa International Tech</td>
 <td style="word-break:break-word;">London<br>England<br>GBR</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10438451/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#210750315" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
-<td style="word-break:break-word;">Private Banking Internal Auditor</td>
-<td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10438452/apply" target="_blank" rel="noopener noreferrer">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word;">Applied Science Manager, Alexa International</td>
+<td style="word-break:break-word;">London<br>England<br>GBR</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10438452/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#210754928" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#210754928" target="_blank" rel="noopener noreferrer"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">International Private Bank, Executive Directo...</td>
 <td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210754928"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">30d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#210750315" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word;">Private Banking Internal Auditor</td>
+<td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
@@ -674,6 +674,13 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#76889" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word;">Director, International Compliance Governance...</td>
+<td style="word-break:break-word;">London<br>London<br>United Kingdom</td>
+<td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#76889"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><a href="https://account.amazon.jobs/jobs/10435185/apply" target="_blank" rel="noopener noreferrer">🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word;">2026 Program Manager Intern , Prime video</td>
 <td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
@@ -685,13 +692,6 @@
 <td style="word-break:break-word;">Expressions of Interest - WSP National Intern...</td>
 <td style="word-break:break-word;">Sydney<br>New South Wales<br>Australia</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#AUR_6PT3Y"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#76889" target="_blank" rel="noopener noreferrer">↳</a></td>
-<td style="word-break:break-word;">Director, International Compliance Governance...</td>
-<td style="word-break:break-word;">London<br>London<br>United Kingdom</td>
-<td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#76889"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -758,7 +758,7 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#9411" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#9411" target="_blank" rel="noopener noreferrer">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Internship in GBS - Delivery Orchestration</td>
 <td style="word-break:break-word;">United Kingdom</td>
 <td align="center"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9411"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -919,7 +919,7 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/lW5K6h/jobs/technology-internal-audit-manager_bury_zh4laar5" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/lW5K6h/jobs/technology-internal-audit-manager_bury_zh4laar5" target="_blank" rel="noopener noreferrer">↳ <strong>Grant Thornton Uk</strong></a></td>
 <td style="word-break:break-word;">Technology Internal Audit Manager</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lW5K6h/jobs/technology-internal-audit-manager_bury_zh4laar5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -933,7 +933,7 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/mkfrj6/jobs/director-of-product-marketing_london_f35e4lkd" target="_blank" rel="noopener noreferrer">↳</a></td>
+<td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/mkfrj6/jobs/director-of-product-marketing_london_f35e4lkd" target="_blank" rel="noopener noreferrer">↳ <strong>Alphasense</strong></a></td>
 <td style="word-break:break-word;">Director of Product Marketing (International,...</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/mkfrj6/jobs/director-of-product-marketing_london_f35e4lkd"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>

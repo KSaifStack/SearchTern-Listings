@@ -218,15 +218,16 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str, lin
     - Returns '↳' for consecutive same-company rows (keeps previous visual cue).
     - Adds 🔥 for FAANG+ companies.
     """
-    cell = ""
-    if company == prev_company and age == prev_age:
-        cell = "↳"
+    escaped = html.escape(company)
+    if company.lower() in FAANG_PLUS:
+        base = f"🔥 <strong>{escaped}</strong>"
     else:
-        escaped = html.escape(company)
-        if company.lower() in FAANG_PLUS:
-            cell = f"🔥 <strong>{escaped}</strong>"
-        else:
-            cell = f"<strong>{escaped}</strong>"
+        base = f"<strong>{escaped}</strong>"
+
+    if company == prev_company and age == prev_age:
+        cell = f"↳ {base}"
+    else:
+        cell = base
 
     if link and cell:
         safe = html.escape(link, quote=True)
