@@ -29,7 +29,24 @@ BLOCKED_COMPANIES: set[str] = {
 }
 NORMALIZED_BLOCKED_COMPANIES = {name.strip().lower() for name in BLOCKED_COMPANIES}
 
-# FAANG+ companies
+
+def is_oracle_cloud_url(company: str) -> bool:
+    """Detect Oracle Cloud ATS URLs masquerading as company names."""
+    normalized = company.strip().lower()
+    return (
+        ".fa." in normalized and "oracl" in normalized  # e.g., "ejhp.fa.us6.oraclecloud.com"
+        or normalized.endswith(".oraclecloud.com")
+        or "fa-" in normalized and "saasfaprod" in normalized  # e.g., "fa-evlj-saasfaprod1..."
+    )
+
+
+def is_careers_portal_url(company: str) -> bool:
+    """Detect careers portal URLs masquerading as company names."""
+    normalized = company.strip().lower()
+    # Match patterns like careers.marsh.com, careers.cencora.com, etc.
+    return "careers." in normalized and re.search(r"\.\w{2,}(?:\.\w{2,})?$", normalized) is not None
+
+
 FAANG_PLUS: set[str] = {
     "airbnb", "adobe", "amazon", "amd", "anthropic", "apple",
     "asana", "atlassian", "bytedance", "cloudflare", "coinbase",
@@ -222,6 +239,16 @@ def generate_country_pages(dataframe, output_dir="."):
 
         for _, row in group.iterrows():
             company_name = str(row["company"]).strip()
+            
+            # Skip Oracle Cloud URLs
+            if is_oracle_cloud_url(company_name):
+                continue
+            
+            # Skip careers portal URLs
+            if is_careers_portal_url(company_name):
+                continue
+            
+            # Skip blocked companies
             if normalize_company(company_name) in NORMALIZED_BLOCKED_COMPANIES:
                 continue
 
@@ -359,6 +386,7 @@ def generate_readme(dataframe, output_dir="."):
     skipped_blocked  = 0
     skipped_inactive = 0
     skipped_foreign  = 0
+    skipped_oracle   = 0
 
     for _, row in dataframe.iterrows():
         company  = str(row["company"]).strip()
@@ -366,6 +394,16 @@ def generate_readme(dataframe, output_dir="."):
         location = str(row["location"]).strip()
         date     = str(row["date"]).strip()
         link     = str(row["link"]).strip()
+
+        # Skip Oracle Cloud URLs
+        if is_oracle_cloud_url(company):
+            skipped_oracle += 1
+            continue
+
+        # Skip careers portal URLs
+        if is_careers_portal_url(company):
+            skipped_oracle += 1
+            continue
 
         # Skip blocked companies
         if normalize_company(company) in NORMALIZED_BLOCKED_COMPANIES:
@@ -460,6 +498,7 @@ def generate_readme(dataframe, output_dir="."):
 
     print(f"\nTotal rows written  : {total_rows:,}")
     print(f"Pages created       : {total_pages}")
+    print(f"Skipped (Oracle URLs): {skipped_oracle}")
     print(f"Skipped (blocked)   : {skipped_blocked}")
     print(f"Skipped (inactive)  : {skipped_inactive}")
     print(f"Skipped (foreign)   : {skipped_foreign}")

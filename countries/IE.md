@@ -72,13 +72,6 @@
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.allianz.com</strong></td>
-<td style="word-break:break-word;">Internal Audit Manager - 12 Month Maternity C...</td>
-<td style="word-break:break-word;">Dublin<br>Ireland</td>
-<td align="center"><a href="https://careers.allianz.com/job/101359"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>indeed</strong></td>
 <td style="word-break:break-word;">Legal Operations Analyst, Privacy - INTERNAL ...</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>IE</td>
@@ -91,13 +84,6 @@
 <td style="word-break:break-word;">Dublin<br>Ireland</td>
 <td align="center"><a href="https://careers.toasttab.com/jobs?gh_jid=8012759"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cbhm.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Production Engineering Internship</td>
-<td style="word-break:break-word;">LETTERKENNY<br>COUNTY DONEGAL<br>Ireland</td>
-<td align="center"><a href="https://cbhm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2094"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>PlayStation</strong></td>

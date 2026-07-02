@@ -163,6 +163,13 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>verticalscreen</strong></td>
+<td style="word-break:break-word;">License Verification Specialist (Entry-Level)</td>
+<td style="word-break:break-word;">Warminster<br>PA<br>US</td>
+<td align="center"><a href="https://careers-verticalscreen.icims.com/jobs/2633/license-verification-specialist-%28entry-level%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>indeed</strong></td>
 <td style="word-break:break-word;">Team Lead, Client Success Manager Enterprise ...</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
@@ -171,9 +178,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Chief of Staff - Internal Only</td>
+<td style="word-break:break-word;">Global Client Strategist II - Internal Only</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
-<td align="center"><a href="https://careers-indeed.icims.com/jobs/47275/chief-of-staff---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://careers-indeed.icims.com/jobs/47351/global-client-strategist-ii---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Senior Manager, Compensation Operations - Int...</td>
+<td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
+<td align="center"><a href="https://careers-indeed.icims.com/jobs/47280/senior-manager%2c-compensation-operations---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -184,21 +198,7 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>indeed</strong></td>
-<td style="word-break:break-word;">Global Client Strategist II - Internal Only</td>
-<td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
-<td align="center"><a href="https://careers-indeed.icims.com/jobs/47351/global-client-strategist-ii---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>verticalscreen</strong></td>
-<td style="word-break:break-word;">License Verification Specialist (Entry-Level)</td>
-<td style="word-break:break-word;">Warminster<br>PA<br>US</td>
-<td align="center"><a href="https://careers-verticalscreen.icims.com/jobs/2633/license-verification-specialist-%28entry-level%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>uti</strong></td>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Local Campus Admissions Representative</td>
 <td style="word-break:break-word;">Bloomfield<br>NJ<br>US</td>
 <td align="center"><a href="https://careers-uti.icims.com/jobs/10630/local-campus-admissions-representative/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -206,9 +206,9 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>indeed</strong></td>
-<td style="word-break:break-word;">Senior Manager, Compensation Operations - Int...</td>
+<td style="word-break:break-word;">Chief of Staff - Internal Only</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
-<td align="center"><a href="https://careers-indeed.icims.com/jobs/47280/senior-manager%2c-compensation-operations---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://careers-indeed.icims.com/jobs/47275/chief-of-staff---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -219,56 +219,14 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.dupont.com</strong></td>
-<td style="word-break:break-word;">2026 Fall Semester Co-Op: Chemical, Mechanica...</td>
-<td style="word-break:break-word;">Wilmington<br>Delaware<br>United States of America</td>
-<td align="center"><a href="https://careers.dupont.com/job/246719W"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.bonsecour...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN) - New Grad - Telemetry ...</td>
-<td style="word-break:break-word;">Portsmouth<br>Virginia<br>United States of America</td>
-<td align="center"><a href="https://careers.bonsecours.com/job/R272010"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.zimmerbio...</strong></td>
-<td style="word-break:break-word;">Development Engineer Co-Op</td>
-<td style="word-break:break-word;">Warsaw<br>Indiana<br>United States</td>
-<td align="center"><a href="https://careers.zimmerbiomet.com/job/11276"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>mujin</strong></td>
+<td style="word-break:break-word;">Intern - Product Development (Spring 2027)</td>
+<td style="word-break:break-word;">Suwanee<br>Georgia<br>United States</td>
+<td align="center"><a href="https://mujin.bamboohr.com/careers/168"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">2026 Fall Co-Op, Development Engineer - PMI</td>
-<td style="word-break:break-word;">Warsaw<br>Indiana<br>United States</td>
-<td align="center"><a href="https://careers.zimmerbiomet.com/job/11099"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.bsmhealth...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN) - New Grad - Telemetry ...</td>
-<td style="word-break:break-word;">Portsmouth<br>Virginia<br>United States of America</td>
-<td align="center"><a href="https://careers.bsmhealth.org/job/R272010"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.geaerospa...</strong></td>
-<td style="word-break:break-word;">Military DoD SkillBridge Program - Production...</td>
-<td style="word-break:break-word;">Arkansas City<br>Kansas<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5036928"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Intern</td>
-<td style="word-break:break-word;">Columbus<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#204628"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>mujin</strong></td>
 <td style="word-break:break-word;">Intern - Software Development (Spring 2027)</td>
 <td style="word-break:break-word;">Suwanee<br>Georgia<br>United States</td>
 <td align="center"><a href="https://mujin.bamboohr.com/careers/165"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -289,661 +247,10 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Intern</td>
-<td style="word-break:break-word;">Lynnwood<br>WA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#204719"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-etbx-saasfapro...</strong></td>
-<td style="word-break:break-word;">Intern - Year Round (Desktop Support)</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=nfcu#31027"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Certified Medical Assistant (CMA) Internal Me...</td>
-<td style="word-break:break-word;">McMinnville<br>OR<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#347515"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Experience Research Senior Associate, Card In...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210764549"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Private Client Banker - South Cooper and Arbr...</td>
-<td style="word-break:break-word;">Fort Worth<br>TX<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210764815"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>theraveagency</strong></td>
 <td style="word-break:break-word;">Marketing &amp; Program Intern</td>
 <td style="word-break:break-word;">Chapel Hill<br>North Carolina<br>United States</td>
 <td align="center"><a href="https://theraveagency.bamboohr.com/careers/143"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>mujin</strong></td>
-<td style="word-break:break-word;">Intern - Product Development (Spring 2027)</td>
-<td style="word-break:break-word;">Suwanee<br>Georgia<br>United States</td>
-<td align="center"><a href="https://mujin.bamboohr.com/careers/168"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - ER</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603009326"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - ICU</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603010109"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Psychology Intern-Mt Sinai Hospital-  FT - D</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039467"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - Med Surg</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014704"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - Telemetry</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014999"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Psychology Intern-Mt Sinai Hospital - FT Days</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039466"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efds.fa.em5.oracl...</strong></td>
-<td style="word-break:break-word;">Senior Internal Control Analyst - SOX</td>
-<td style="word-break:break-word;">Dearborn<br>MI<br>United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#64475"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Services Representative, Internal Med...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23417"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Psychology Intern- Mt Sinai Hospital- FT- Days</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039468"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant, Internal Medicine, Full Ti...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22605"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Certified Diabetes Educator, Internal Med-End...</td>
-<td style="word-break:break-word;">West Chester<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21958"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecsr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008546"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - PCU</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603004073"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elar.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant Internal Medicine</td>
-<td style="word-break:break-word;">Fairfax<br>VA<br>United States</td>
-<td align="center"><a href="https://elar.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#683443"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efuq.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Maintenance Technician (Entry Level)</td>
-<td style="word-break:break-word;">Sedona<br>AZ<br>United States</td>
-<td align="center"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Sales Manager TO International In House- Cabo</td>
-<td style="word-break:break-word;">Orlando<br>FL<br>United States</td>
-<td align="center"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21528"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eczd.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Legal Intern</td>
-<td style="word-break:break-word;">Irvine<br>CA<br>United States</td>
-<td align="center"><a href="https://eczd.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5333"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Retail Merchandising Support Associate, West ...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_790941"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Millbrae<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730235"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dublin<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730473"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdsn.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Senior Manager, Internal Audit</td>
-<td style="word-break:break-word;">Boston<br>MA<br>United States</td>
-<td align="center"><a href="https://hdsn.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2738"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730243"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gladstone<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730252"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ladera Ranch<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730257"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Elgin<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730278"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Napa<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730281"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Colleyville<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730302"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Santa Fe<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730320"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Albuquerque<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730313"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">San Francisco<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Frisco<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730336"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cohasset<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730345"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Klamath Falls<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730359"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Douglas<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730360"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Redmond<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730377"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecvz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant (Outpatient), AHPN Visalia ...</td>
-<td style="word-break:break-word;">Visalia<br>CA<br>United States</td>
-<td align="center"><a href="https://ecvz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#68371"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Saint Charles<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729941"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Shelton<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730391"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">FamilySearch Talent Intern</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375957"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Diamond<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730411"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Spokane<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730421"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Torrance<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730440"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Silverton<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730655"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Plano<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730657"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730635"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Salisbury<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730612"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Yucca Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730233"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">La Grange Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729932"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Snyder<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#711942"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Salinas<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721126"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cheney<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730217"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Clarkston<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730210"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Vancouver<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730222"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Molalla<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730110"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oswego<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730104"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sebastopol<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730088"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mesa<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730078"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Romeoville<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730076"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wichita Falls<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730081"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hobbs<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730056"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Portland<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730026"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hammond<br>LA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730022"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sequim<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730003"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hillsboro<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729988"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fair Haven<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729964"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Longview<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729961"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Boise<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729963"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Joliet<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729967"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Springfield<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729948"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Naperville<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729936"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bend<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729938"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Omak<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729940"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Eastvale<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730461"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rolling Meadows<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729928"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chicago<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729931"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bala Cynwyd<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729913"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Reston<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729906"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cary<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729895"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Waukegan<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729890"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mansfield<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729883"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hermiston<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729870"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729863"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brighton<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730516"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Randolph<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730524"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730254"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Burns<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730483"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Las Vegas<br>NV<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#730512"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -1040,29 +347,15 @@
 <tr>
 <td style="word-break:break-word;"><strong>mci2</strong></td>
 <td style="word-break:break-word;">Entry-Level Accountant</td>
-<td style="word-break:break-word;">Orlando<br>FL<br>US</td>
-<td align="center"><a href="https://careers-mci2.icims.com/jobs/47782/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Entry-Level Accountant</td>
 <td style="word-break:break-word;">UNAVAILABLE<br>TX<br>US</td>
 <td align="center"><a href="https://careers-mci2.icims.com/jobs/47783/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>marinerfinance</strong></td>
-<td style="word-break:break-word;">Talent and Development Summer Internship</td>
-<td style="word-break:break-word;">Nottingham<br>MD<br>US</td>
-<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1547/talent-and-development-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>mci2</strong></td>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Entry-Level Accountant</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>US</td>
-<td align="center"><a href="https://careers-mci2.icims.com/jobs/47780/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Remote<br>FL<br>US</td>
+<td align="center"><a href="https://careers-mci2.icims.com/jobs/47784/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
@@ -1082,8 +375,22 @@
 <tr>
 <td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Entry-Level Accountant</td>
-<td style="word-break:break-word;">Remote<br>FL<br>US</td>
-<td align="center"><a href="https://careers-mci2.icims.com/jobs/47784/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Dallas<br>TX<br>US</td>
+<td align="center"><a href="https://careers-mci2.icims.com/jobs/47780/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Entry-Level Accountant</td>
+<td style="word-break:break-word;">Orlando<br>FL<br>US</td>
+<td align="center"><a href="https://careers-mci2.icims.com/jobs/47782/entry-level-accountant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>marinerfinance</strong></td>
+<td style="word-break:break-word;">Talent and Development Summer Internship</td>
+<td style="word-break:break-word;">Nottingham<br>MD<br>US</td>
+<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1547/talent-and-development-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
@@ -1094,724 +401,10 @@
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Warehouse/Internal Logistics Operator_2nd shift</td>
-<td style="word-break:break-word;">Selmer<br>Tennessee<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00037205"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>iazuqy.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse - Adult Internal Medicine</td>
-<td style="word-break:break-word;">San Francisco<br>CA<br>United States</td>
-<td align="center"><a href="https://iazuqy.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5375"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Private Bank- Select Banker- Gl...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210764506"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Network Modeling Intern-Supply Chain</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#204378"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">2026-2027 - Commercial &amp; Investment Bank - Ma...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210761733"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-etbx-saasfapro...</strong></td>
-<td style="word-break:break-word;">Senior Manager, Internal Audit</td>
-<td style="word-break:break-word;">Vienna<br>VA<br>United States</td>
-<td align="center"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=nfcu#31071"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-eqpz-saasfapro...</strong></td>
-<td style="word-break:break-word;">Student Intern Temp</td>
-<td style="word-break:break-word;">Auburndale<br>FL<br>United States</td>
-<td align="center"><a href="https://fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2597"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#194374"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Senior Product Manager, Global by Default (Gb...</td>
 <td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10461695/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>enxp.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Administrative Intern at Mary H. Matula Eleme...</td>
-<td style="word-break:break-word;">La Plata<br>MD<br>United States</td>
-<td align="center"><a href="https://enxp.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4566"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Research Assistant II - Tisch Cancer...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039719"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwv.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Front Desk Agent | Fairfield Inn Harrisburg I...</td>
-<td style="word-break:break-word;">Middletown<br>PA<br>United States</td>
-<td align="center"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#236096"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">RN Care Coordinator, Internal Medicine, Full ...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23402"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecyq.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Customer Account Success Intern</td>
-<td style="word-break:break-word;">Portland<br>OR<br>United States</td>
-<td align="center"><a href="https://ecyq.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7021"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Civil Transportation Engineer</td>
-<td style="word-break:break-word;">Tamuning<br>GU<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89923"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdox.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Intern - Sales and Marketing (Healthcare Anal...</td>
-<td style="word-break:break-word;">Pittsburgh<br>PA<br>United States</td>
-<td align="center"><a href="https://hdox.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#61258"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Environmental Planner</td>
-<td style="word-break:break-word;">Honolulu<br>HI<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89065"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">LPN LVN - Internal Medicine</td>
-<td style="word-break:break-word;">Mission Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#440649"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eevd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Intern</td>
-<td style="word-break:break-word;">Winter Park<br>FL<br>United States</td>
-<td align="center"><a href="https://eevd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2026992"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eimy.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Professional Student Radiologic Intern</td>
-<td style="word-break:break-word;">Rockford<br>IL<br>United States</td>
-<td align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#49091"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Professional Student Radiological Intern</td>
-<td style="word-break:break-word;">Rockford<br>IL<br>United States</td>
-<td align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#49093"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Patient Scheduling Representative - General I...</td>
-<td style="word-break:break-word;">Madison<br>WI<br>United States</td>
-<td align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#49316"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejst.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Youth Initiatives Development Associate Intern</td>
-<td style="word-break:break-word;">District of Columbia<br>United States</td>
-<td align="center"><a href="https://ejst.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1698"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internet Sales Representative II</td>
-<td style="word-break:break-word;">Reston<br>VA<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#338422"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate  (RN) - PCU</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603013822"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tigard<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729296"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Livingston<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729448"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Oswego<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sherwood<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729500"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lafayette<br>LA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729502"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Amarillo<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729513"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chino Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729520"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Scottsbluff<br>NE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729532"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sudbury<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729539"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Williams<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729542"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">San Diego<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729550"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Parkville<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729563"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chester Springs<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729564"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lincoln City<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729561"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Brownwood<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729566"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lakeside<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729571"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Baltimore<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729567"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Abilene<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729573"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Abilene<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729579"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Plaistow<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729601"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Lake Havasu City<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729622"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Berlin<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729475"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Scottsdale<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729614"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Solana Beach<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729653"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Antioch<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729667"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mount Prospect<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729207"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Orland Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729408"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Shreveport<br>LA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729390"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Park Ridge<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729406"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Yakima<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729372"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Downers Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729345"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Palos Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729343"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brockton<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729322"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tucson<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729316"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sharon<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729311"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Colorado Springs<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729295"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Denison<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729457"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fort Worth<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729279"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Glen Ellyn<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729278"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hurst<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729260"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">South Chicago Heights<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729258"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">New Lenox<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729251"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Puyallup<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729249"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Canyon<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729240"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Carver<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729238"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sturbridge<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729229"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Waukegan<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729228"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Dyer<br>IN<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729225"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Enterprise<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729221"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wilmington<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729208"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cleburne<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729209"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">League City<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729690"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kahului<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729695"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Phoenix<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729721"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729729"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mundelein<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729736"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Thousand Oaks<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729753"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Carlsbad<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729768"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oro Valley<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729767"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Downers Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729798"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Paso Robles<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729807"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Carol Stream<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729427"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejof.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Student Worker - Student Productions Intern - BC</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20796"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Durango<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729201"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wood Dale<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729184"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">San Diego<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729180"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">McMinnville<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729474"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emfg.fa.em4.oracl...</strong></td>
-<td style="word-break:break-word;">Senior Internal Auditor</td>
-<td style="word-break:break-word;">PORTLAND<br>TX<br>United States</td>
-<td align="center"><a href="https://emfg.fa.em4.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36513"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Scottsdale<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729465"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Prince Frederick<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729816"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Anderson<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729466"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Welfare and Self-Reliance Paid Intern</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375913"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Havasu City<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729467"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newport<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729456"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Battle Ground<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729455"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Global Wellness Specialist Intern</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375882"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Barrington<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729424"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Prescott Valley<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729618"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
@@ -1864,223 +457,6 @@
 <td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Retail Sales Associate - Womens Shoes, West D...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_790431"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Retail Sales Associate, West Dade Miami Inter...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_790415"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Florence<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729039"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gunnison<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729149"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Silverdale<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729130"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Salem<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729122"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Clatskanie<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729123"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Montebello<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729118"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bartlett<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729094"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">El Paso<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729087"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Glendora<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729083"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Horizon City<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729080"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bothell<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729077"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Beaverton<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729071"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Alexandria<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729060"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">San Rafael<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729057"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Seaside<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729053"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Grand Junction<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729051"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Eugene<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729049"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oregon City<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729046"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fort Lee<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729045"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">San Mateo<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729175"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wiscasset<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729037"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fairbanks<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729029"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Cashier-Front End Entry Level</td>
-<td style="word-break:break-word;">Bremerton<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729024"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Anaheim<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729167"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Niles<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729162"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kelso<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729134"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Buffalo Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729140"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Soquel<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729159"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Marysville<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729170"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>monday.com</strong></td>
 <td style="word-break:break-word;">Internal Communications Manager - NAM, LATAM ...</td>
 <td style="word-break:break-word;">New York<br>United States</td>
@@ -2096,9 +472,9 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Holiday Marketing Intern (Fall 2026)</td>
+<td style="word-break:break-word;">Hardware Test Internship (Fall 2026)</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/hCSesN/jobs/holiday-marketing-intern-fall-2026_san-francisco_63oandj7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/hCSesN/jobs/hardware-test-internship-fall-2026_san-francisco_hbpg4ql3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -2110,9 +486,9 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Hardware Test Internship (Fall 2026)</td>
+<td style="word-break:break-word;">Holiday Marketing Intern (Fall 2026)</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/hCSesN/jobs/hardware-test-internship-fall-2026_san-francisco_hbpg4ql3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/hCSesN/jobs/holiday-marketing-intern-fall-2026_san-francisco_63oandj7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -2166,135 +542,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">2027 Spring and Summer Mechanical Engineering...</td>
-<td style="word-break:break-word;">Cedar Rapids<br>Iowa<br>United States</td>
-<td align="center"><a href="https://jobs.baesystems.com/job/125975BR"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Software Engineering Intern III, Summer 2026</td>
 <td style="word-break:break-word;">Reston<br>Virginia<br>United States</td>
 <td align="center"><a href="https://jobs.baesystems.com/job/125787BR"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Warwick<br>RI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728891"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pacific Grove<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719607"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">La Habra<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729015"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Delta<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728893"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cottage Grove<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728883"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Algonquin<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728874"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lubbock<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728872"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bakersfield<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728869"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">West Lebanon<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#729012"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sandpoint<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728998"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kenmore<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728984"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Midland Park<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728983"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oxon Hill<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728969"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Burbank<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728955"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Olympia<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728943"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Arlington<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728925"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">West Dundee<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728916"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">2027 Spring and Summer Mechanical Engineering...</td>
+<td style="word-break:break-word;">Cedar Rapids<br>Iowa<br>United States</td>
+<td align="center"><a href="https://jobs.baesystems.com/job/125975BR"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -2319,10 +576,10 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>e2</strong></td>
-<td style="word-break:break-word;">Transmission Line Engineer (Entry-level)</td>
-<td style="word-break:break-word;">Pasadena<br>CA<br>US</td>
-<td align="center"><a href="https://careers-e2.icims.com/jobs/6040/transmission-line-engineer-%28entry-level%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>ice</strong></td>
+<td style="word-break:break-word;">Senior Internal Auditor</td>
+<td style="word-break:break-word;">Atlanta<br>GA<br>US</td>
+<td align="center"><a href="https://careers-ice.icims.com/jobs/13240/senior-internal-auditor/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -2333,10 +590,10 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ice</strong></td>
-<td style="word-break:break-word;">Senior Internal Auditor</td>
-<td style="word-break:break-word;">Atlanta<br>GA<br>US</td>
-<td align="center"><a href="https://careers-ice.icims.com/jobs/13240/senior-internal-auditor/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>e2</strong></td>
+<td style="word-break:break-word;">Transmission Line Engineer (Entry-level)</td>
+<td style="word-break:break-word;">Pasadena<br>CA<br>US</td>
+<td align="center"><a href="https://careers-e2.icims.com/jobs/6040/transmission-line-engineer-%28entry-level%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -2383,16 +640,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Bally&#x27;s Interactive</strong></td>
-<td style="word-break:break-word;">Supervisor - Internet Gaming</td>
+<td style="word-break:break-word;">Manager - Internet Gaming</td>
 <td style="word-break:break-word;">Atlantic City<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/supervisor-internet-gaming_atlantic-city_zwy5yurx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/manager-internet-gaming_atlantic-city_h7i4piit"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Manager - Internet Gaming</td>
+<td style="word-break:break-word;">Supervisor - Internet Gaming</td>
 <td style="word-break:break-word;">Atlantic City<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/manager-internet-gaming_atlantic-city_h7i4piit"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/supervisor-internet-gaming_atlantic-city_zwy5yurx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -2403,458 +660,10 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Warehouse/Internal Logistics Supervisor</td>
-<td style="word-break:break-word;">Athens<br>Tennessee<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00039092"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Castle Rock<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203534"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-GRAD INTERN</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203847"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-GRAD INTERN</td>
-<td style="word-break:break-word;">Loveland<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203863"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Kalispell<br>MT<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201808"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">MFG HPWS TECHNICIAN ENTRY LEVEL</td>
-<td style="word-break:break-word;">Lynchburg<br>VA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203759"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-etbx-saasfapro...</strong></td>
-<td style="word-break:break-word;">Intern - Year Round (Lending Service Support ...</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=nfcu#30959"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">The Woodlands<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203797"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN) New Grad Medical Surgical</td>
-<td style="word-break:break-word;">Paris<br>TX<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#346826"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Medical Receptionist - Internal Medicine</td>
-<td style="word-break:break-word;">Warrenton<br>VA<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#347306"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Early Career Development Program Manager, US ...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210763898"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-GRAD INTERN</td>
-<td style="word-break:break-word;">Spring<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203800"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Concordia College</strong></td>
 <td style="word-break:break-word;">Assistant Director for Campus Visits</td>
 <td style="word-break:break-word;">Moorhead<br>MN<br>US</td>
 <td align="center"><a href="https://concordiacollege.csod.com/ux/ats/careersite/1/job/198?c=concordiacollege"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">New Grad Registered Nurse (RN) - PCU</td>
-<td style="word-break:break-word;">New Braunfels<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014928"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebpm.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Seasonal Technical Viticulture Intern</td>
-<td style="word-break:break-word;">94558 Napa<br>CA<br>United States</td>
-<td align="center"><a href="https://ebpm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1005060"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egay.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Rotational Field Service Supervisor</td>
-<td style="word-break:break-word;">Odessa<br>TX<br>United States</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#42450"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - Med Surg...</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603010900"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant, Internal Medicine, Full Ti...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23373"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Civil Engineer</td>
-<td style="word-break:break-word;">Valhalla<br>NY<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89838"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecsr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Campus Dining Team Member</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008539"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efuq.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Maintenance Technician I (Entry Level)</td>
-<td style="word-break:break-word;">South Lake Tahoe<br>CA<br>United States</td>
-<td align="center"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21348"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>iazbqy.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Paper Machines - Entry Level Operations</td>
-<td style="word-break:break-word;">Mansfield<br>LA<br>United States</td>
-<td align="center"><a href="https://iazbqy.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2003047"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Field Testing Technicians</td>
-<td style="word-break:break-word;">Waukesha<br>WI<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15183"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Environmental Scientist</td>
-<td style="word-break:break-word;">Miami Lakes<br>FL<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89948"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcxs.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern, Investigations Diligence and Complian...</td>
-<td style="word-break:break-word;">Chicago<br>IL<br>United States</td>
-<td align="center"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21014508"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Star<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728530"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fort Collins<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728853"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Orleans<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728767"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Covington<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728768"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fairfax<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728745"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">La Grande<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728739"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Falls Church<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728780"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">South Yarmouth<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728532"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chino<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728534"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newberg<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728536"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wilmette<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728546"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern-Washington &amp; Alaska</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728637"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Apache Junction<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728556"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Odessa<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728562"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Nottingham<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728579"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Littleton<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728577"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lebanon<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728583"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Haddon Township<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728599"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Grants Pass<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728598"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Heath<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728605"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dale City<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728614"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mountain House<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728688"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Escondido<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728691"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gridley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728696"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Zurich<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728697"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lynnwood<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728705"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">San Jose<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728711"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Flourtown<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728720"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Auburndale<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728721"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofe.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Sr. Executive Assistant to the Deputy Chief A...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#78228"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wenatchee<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728817"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Public and International Affairs Intern -  Wa...</td>
-<td style="word-break:break-word;">Washington<br>DC<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375774"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">FamilySearch Paid Advertising Intern</td>
-<td style="word-break:break-word;">Lehi<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375856"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mahopac<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728829"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Estes Park<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728847"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehap.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Maintenance Technician | Camden Reunion Park/...</td>
-<td style="word-break:break-word;">Apex<br>NC<br>United States</td>
-<td align="center"><a href="https://ehap.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#260341"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Daly City<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#672880"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecge.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Auditor, Consultant</td>
-<td style="word-break:break-word;">Oakland<br>CA<br>United States</td>
-<td align="center"><a href="https://ecge.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20261216"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">San Anselmo<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#714581"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lakewood<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728777"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -2984,17 +793,17 @@
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>piedmont</strong></td>
-<td style="word-break:break-word;">Chaplain Intern, PT</td>
-<td style="word-break:break-word;">Augusta<br>GA<br>US</td>
-<td align="center"><a href="https://careers-piedmont.icims.com/jobs/23792/chaplain-intern%2c-pt/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>dewberry</strong></td>
 <td style="word-break:break-word;">Entry Level Landscape Architect</td>
 <td style="word-break:break-word;">Raleigh<br>NC<br>US</td>
 <td align="center"><a href="https://careers-dewberry.icims.com/jobs/15908/entry-level-landscape-architect/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">7d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>piedmont</strong></td>
+<td style="word-break:break-word;">Chaplain Intern, PT</td>
+<td style="word-break:break-word;">Augusta<br>GA<br>US</td>
+<td align="center"><a href="https://careers-piedmont.icims.com/jobs/23792/chaplain-intern%2c-pt/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
@@ -3051,433 +860,6 @@
 <td style="word-break:break-word;">Senior Internal Auditor</td>
 <td style="word-break:break-word;">Baton Rouge<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/senior-internal-auditor_baton-rouge_jzuo3fzu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Aurora<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203469"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203468"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacist Grad Intern</td>
-<td style="word-break:break-word;">Meridian<br>ID<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203515"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY INTERN Findlay, OH</td>
-<td style="word-break:break-word;">Findlay<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203441"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Greenwood Village<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203492"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Colorado Springs<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203346"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-INTERN</td>
-<td style="word-break:break-word;">Centennial<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203476"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-GRAD INTERN</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203488"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcwx.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Quality Engineer Co-op Fall 2026</td>
-<td style="word-break:break-word;">Cleveland<br>OH<br>United States</td>
-<td align="center"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_6#14874"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMACIST-GRAD INTERN</td>
-<td style="word-break:break-word;">Colorado Springs<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203342"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">MFG HPWS TECHNICIAN ENTRY LEVEL</td>
-<td style="word-break:break-word;">Atlanta<br>GA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203098"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203451"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">LPN New Grad</td>
-<td style="word-break:break-word;">Florence<br>AL<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#345926"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egay.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Welder - entry level - Tulsa</td>
-<td style="word-break:break-word;">Tulsa<br>OK<br>United States</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#42078"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eimy.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">RN - General Internal Medicine Clinic</td>
-<td style="word-break:break-word;">Madison<br>WI<br>United States</td>
-<td align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#49203"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Civil Engineering Intern/Co-op - Community De...</td>
-<td style="word-break:break-word;">West Chester<br>PA<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006495"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Field Testing Technicians</td>
-<td style="word-break:break-word;">Hillside<br>IL<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15156"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cva.fa.us1.oracle...</strong></td>
-<td style="word-break:break-word;">Supply Chain Intern/Co-Op</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://cva.fa.us1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9750"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecsr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Senior Projects Manager, Campus Network</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008523"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cva.fa.us1.oracle...</strong></td>
-<td style="word-break:break-word;">Industrial Operations Intern/Co-Op</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://cva.fa.us1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9751"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Backstage Captain, West Dade Miami Internatio...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_789920"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career, Environmental Scientist, Geolog...</td>
-<td style="word-break:break-word;">Shelton<br>CT<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89769"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdox.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Intern, Organizational Development</td>
-<td style="word-break:break-word;">Secaucus<br>NJ<br>United States</td>
-<td align="center"><a href="https://hdox.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#63033"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Designer/Mechanical EIT - San Fra...</td>
-<td style="word-break:break-word;">San Francisco<br>CA<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006452"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Applied Research Intern - Water (Fall 2026)</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006445"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registrar ED - Rotating Shifts - THOP Sierra ...</td>
-<td style="word-break:break-word;">El Paso<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603007395"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emcm.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Hospital Services Product Install...</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2349336"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">NSM PBX Operator, Part time 12PM-8PM - South ...</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015664"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Per Diem Pharmacy Intern; Mount Sinai Morning...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039096"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcxs.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern, Investigations Diligence and Complian...</td>
-<td style="word-break:break-word;">Washington<br>DC<br>United States</td>
-<td align="center"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21014506"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Port Orchard<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728370"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">South Elgin<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728281"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Leander<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728274"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sycamore<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728363"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebqb.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Tax Manager, International Tax Services</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://ebqb.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#12786"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibmqjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Sr Analyst International Compensation - US Ba...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4697"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newport Beach<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728520"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Feasterville Trevose<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728516"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Spokane Valley<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728506"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Clovis<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728501"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chelan<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728490"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">2027 Summer Business Internship</td>
-<td style="word-break:break-word;">Itasca<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728484"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Philadelphia<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728479"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Phoenixville<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728458"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Slaton<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728453"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dallas<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728438"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Rosa<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728432"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Damascus<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728423"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Windham<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728394"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tacoma<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728386"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Narberth<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728380"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Homewood<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728339"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Worcester<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ontario<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728305"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">River Forest<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728307"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hczw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Operations Support Intern</td>
-<td style="word-break:break-word;">Wilmington<br>DE<br>United States</td>
-<td align="center"><a href="https://hczw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#16406"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Assistant Assembly Video Editor - BYU-Pathway...</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375737"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Weymouth<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728240"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Blairstown<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728268"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Walpole<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728296"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cut Bank<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728269"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
@@ -3600,6 +982,13 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>gdeb</strong></td>
+<td style="word-break:break-word;">Entry Level Nuclear Engineer</td>
+<td style="word-break:break-word;">New London<br>CT<br>US</td>
+<td align="center"><a href="https://careers-gdeb.icims.com/jobs/18585/entry-level-nuclear-engineer/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>healthequity</strong></td>
 <td style="word-break:break-word;">Intern - Public Policy and Government Affairs</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
@@ -3611,13 +1000,6 @@
 <td style="word-break:break-word;">Director, Business Operations - Internal Only</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
 <td align="center"><a href="https://careers-indeed.icims.com/jobs/47249/director%2c-business-operations---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>gdeb</strong></td>
-<td style="word-break:break-word;">Entry Level Nuclear Engineer</td>
-<td style="word-break:break-word;">New London<br>CT<br>US</td>
-<td align="center"><a href="https://careers-gdeb.icims.com/jobs/18585/entry-level-nuclear-engineer/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
@@ -3656,59 +1038,10 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.marsh.com</strong></td>
-<td style="word-break:break-word;">Oliver Wyman Actuarial - Internship - Summer ...</td>
-<td style="word-break:break-word;">New York<br>New York<br>United States of America</td>
-<td align="center"><a href="https://careers.marsh.com/job/R_356561"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>indicalab</strong></td>
-<td style="word-break:break-word;">Product Specialist, Clinical Applications (In...</td>
-<td style="word-break:break-word;">Albuquerque<br>New Mexico<br>United States</td>
-<td align="center"><a href="https://indicalab.bamboohr.com/careers/182"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdbg.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Campus Access Specialist - Security</td>
-<td style="word-break:break-word;">Glens Falls<br>NY<br>United States</td>
-<td align="center"><a href="https://hdbg.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1538"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Part Time (30 Hours) Associate Banker, Intern...</td>
-<td style="word-break:break-word;">Saint Augustine<br>FL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210759663"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeik.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Hourly Pooled -  UW Extension Summer Internship</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eeik.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#261522"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Henderson<br>NV<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203129"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Bartlett<br>TN<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#203150"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Part Time (30 Hours) Associate Banker, North ...</td>
-<td style="word-break:break-word;">Arlington<br>TX<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210761290"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>Biola University</strong></td>
+<td style="word-break:break-word;">Producer, Post-Production &amp; International Con...</td>
+<td style="word-break:break-word;">US</td>
+<td align="center"><a href="https://biola.csod.com/ux/ats/careersite/1/job/2571?c=biola"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
@@ -3719,332 +1052,17 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>indicalab</strong></td>
+<td style="word-break:break-word;">Product Specialist, Clinical Applications (In...</td>
+<td style="word-break:break-word;">Albuquerque<br>New Mexico<br>United States</td>
+<td align="center"><a href="https://indicalab.bamboohr.com/careers/182"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>Billings Clinic</strong></td>
 <td style="word-break:break-word;">New Grad RN, Hospital - Inpatient Surgical (0...</td>
 <td style="word-break:break-word;">BILLINGS<br>MT<br>US</td>
 <td align="center"><a href="https://billingsclinic.csod.com/ux/ats/careersite/1/job/11926?c=billingsclinic"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>Biola University</strong></td>
-<td style="word-break:break-word;">Producer, Post-Production &amp; International Con...</td>
-<td style="word-break:break-word;">US</td>
-<td align="center"><a href="https://biola.csod.com/ux/ats/careersite/1/job/2571?c=biola"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>iazbqy.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Entry Level Production - Bogalusa Box Plant</td>
-<td style="word-break:break-word;">Bogalusa<br>LA<br>United States</td>
-<td align="center"><a href="https://iazbqy.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2003010"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant - INTERNAL MEDICINE</td>
-<td style="word-break:break-word;">Santa Rosa<br>CA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#442532"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Advisor - Estee Lauder, West Dade Miam...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_789820"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Services Representative, Internal Med...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23353"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Advisor - Lancome, West Dade Miami Int...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_789757"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">New Grad Registered Nurse (RN) - Med Surg</td>
-<td style="word-break:break-word;">Harlingen<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2503035133"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egay.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Rotational Field Service Technician</td>
-<td style="word-break:break-word;">Casper<br>WY<br>United States</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#42449"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15547"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>enmv.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Security Specialist - Campus Middle School</td>
-<td style="word-break:break-word;">CO<br>United States</td>
-<td align="center"><a href="https://enmv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1013588"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Valdez<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728184"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Port Angeles<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728161"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehkn.fa.ca2.oracl...</strong></td>
-<td style="word-break:break-word;">Nevada Gold Mines - Skilled Trades Intern Pro...</td>
-<td style="word-break:break-word;">Elko<br>NV<br>United States</td>
-<td align="center"><a href="https://ehkn.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#238050"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Medford<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728172"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Plymouth<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727880"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pleasant Valley<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727885"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">North Hampton<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727911"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Childress<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727920"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Saint George<br>UT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727923"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fountain<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728213"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Malta<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727872"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Belmont<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727941"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Henderson<br>NV<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727953"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">HQF - Parking Project Consultant - Paid Intern</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375760"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Audubon<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727956"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dorchester<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727985"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newhall<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727990"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Centennial<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728165"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Prescott<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brookline<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728185"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Great Falls<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728034"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sandy<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728062"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pasadena<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728063"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level - New Store Coming Soon</td>
-<td style="word-break:break-word;">Dyer<br>IN<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728072"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Palo Alto<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728087"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sacramento<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728166"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Morgan Hill<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728082"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Grand Prairie<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728092"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Agoura Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728094"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Auburn<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728126"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fox Lake<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728136"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Forest Grove<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728145"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chico<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728157"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Windsor<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728159"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Belfair<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727943"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tehachapi<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#728195"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
@@ -4118,13 +1136,6 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>southcoast</strong></td>
-<td style="word-break:break-word;">RN Internal Traveler - Emergency</td>
-<td style="word-break:break-word;">Wareham<br>MA<br>US</td>
-<td align="center"><a href="https://careers-southcoast.icims.com/jobs/34267/rn-internal-traveler---emergency/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>carollo</strong></td>
 <td style="word-break:break-word;">Entry Level Water/Wastewater Engineer</td>
 <td style="word-break:break-word;">Fresno<br>CA<br>US</td>
@@ -4132,73 +1143,10 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.usbank.com</strong></td>
-<td style="word-break:break-word;">Multiple Positions - International Banking Op...</td>
-<td style="word-break:break-word;">Saint Paul<br>MN<br>United States</td>
-<td align="center"><a href="https://careers.usbank.com/job/2026-0016810"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.mercy.com</strong></td>
-<td style="word-break:break-word;">New Grad Registered Nurse (RN) - Med Surg - 5...</td>
-<td style="word-break:break-word;">Paducah<br>Kentucky<br>United States of America</td>
-<td align="center"><a href="https://careers.mercy.com/job/R271726"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.truist.com</strong></td>
-<td style="word-break:break-word;">Sr. Internal Auditor - Wholesale Lending</td>
-<td style="word-break:break-word;">Charlotte<br>North Carolina<br>USA</td>
-<td align="center"><a href="https://careers.truist.com/job/R0113426"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.bsmhealth...</strong></td>
-<td style="word-break:break-word;">New Grad Registered Nurse (RN) - Med Surg - 5...</td>
-<td style="word-break:break-word;">Paducah<br>Kentucky<br>United States of America</td>
-<td align="center"><a href="https://careers.bsmhealth.org/job/R271726"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACIST INTERN</td>
-<td style="word-break:break-word;">North Las Vegas<br>NV<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#202445"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN), New Grad - Endoscopy</td>
-<td style="word-break:break-word;">Wilson<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#339669"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Registered Nurse (RN), New Grad - Cath Lab</td>
-<td style="word-break:break-word;">Wilson<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#342483"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Registered Nurse (RN), New Grad - Telemetry</td>
-<td style="word-break:break-word;">Wilson<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334363"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-etbx-saasfapro...</strong></td>
-<td style="word-break:break-word;">Intern - Year Round (Product Engineering- Cor...</td>
-<td style="word-break:break-word;">Vienna<br>VA<br>United States</td>
-<td align="center"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=nfcu#30698"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN), New Grad Emergency Room</td>
-<td style="word-break:break-word;">Hickory<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#322785"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>southcoast</strong></td>
+<td style="word-break:break-word;">RN Internal Traveler - Emergency</td>
+<td style="word-break:break-word;">Wareham<br>MA<br>US</td>
+<td align="center"><a href="https://careers-southcoast.icims.com/jobs/34267/rn-internal-traveler---emergency/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -4206,517 +1154,6 @@
 <td style="word-break:break-word;">Research Assistant/Associate</td>
 <td style="word-break:break-word;">Washington<br>District of Columbia<br>United States</td>
 <td align="center"><a href="https://cnas.bamboohr.com/careers/135"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">MFG HPWS TECHNICIAN ENTRY LEVEL - PART TIME</td>
-<td style="word-break:break-word;">Winchester<br>KY<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201584"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcwx.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Process Engineer Co-op Fall 2026</td>
-<td style="word-break:break-word;">Cleveland<br>OH<br>United States</td>
-<td align="center"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_6#14872"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN), New Grad - Medsurg</td>
-<td style="word-break:break-word;">Wilson<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334790"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Registered Nurse (RN), New Grad - Emergency S...</td>
-<td style="word-break:break-word;">Wilson<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#331456"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elcn.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Mechanical Co-Op</td>
-<td style="word-break:break-word;">Raleigh<br>NC<br>United States</td>
-<td align="center"><a href="https://elcn.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#112744"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Medicine Physician</td>
-<td style="word-break:break-word;">Fort Mill<br>SC<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603008426"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Civil Engineering Intern - Transportation (Fa...</td>
-<td style="word-break:break-word;">Rochelle Park<br>NJ<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006411"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efds.fa.em5.oracl...</strong></td>
-<td style="word-break:break-word;">Manager of Internal Audit- Ford Credit Bank</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#65339"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Senior LVN - Internal Medicine</td>
-<td style="word-break:break-word;">Beverly Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18520"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Chemical Scientist</td>
-<td style="word-break:break-word;">Portland<br>ME<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89595"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epgr.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Food Service Associate, The Smokehouse Coop (...</td>
-<td style="word-break:break-word;">Cherokee<br>NC<br>United States</td>
-<td align="center"><a href="https://epgr.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7209"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">NSM PA Rep II, Surgery Days -  South Campus</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015654"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">NSM PBX Operator I, Part Time 11PM-7AM - Sout...</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015656"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edyy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Newsroom Intern</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#16700"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PBX Operator I, Part Time - South Campus</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015659"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>estm.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">RBA Strategic Partnerships Intern</td>
-<td style="word-break:break-word;">New York<br>United States</td>
-<td align="center"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35099"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecsr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Chef de Cuisine, Campus Dining</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008488"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">NSM Registrar ED, Part Time 4PM-8PM - South C...</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015658"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Structural Drafter</td>
-<td style="word-break:break-word;">Billings<br>MT<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89322"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">NSM Registrar ED Days 7AM-7PM - South Campus</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015660"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career GIS Analyst</td>
-<td style="word-break:break-word;">Phoenix<br>AZ<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88977"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant - Internal Medicine</td>
-<td style="word-break:break-word;">Lubbock<br>TX<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#440915"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejhp.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">2026 Fall Engineering Co-Op - Holland, MI</td>
-<td style="word-break:break-word;">Holland<br>MI<br>United States</td>
-<td align="center"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2605884"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ridgecrest<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727822"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sonoma<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#705863"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Burlington<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727278"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chesterton<br>IN<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725569"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">DeKalb<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727832"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ramona<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727826"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Palatine<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727823"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Los Angeles<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727795"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Round Lake Beach<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727758"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Costa Mesa<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727754"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oceanside<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727732"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Liberty Lake<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ashland<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727717"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Albuquerque<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727716"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hyattsville<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727676"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tillamook<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727685"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Los Lunas<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727646"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Ruidoso<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727642"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bellingham<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727614"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brentwood<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727604"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gilbert<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727598"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Boston<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727595"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Cruz<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727593"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Folsom<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727562"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newport<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727556"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Skokie<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727555"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sherman Oaks<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727549"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">New Lenox<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727547"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fairfield<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727529"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bozeman<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727505"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bainbridge Island<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727503"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mountain Home<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727497"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Moses Lake<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727474"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Clinton<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727468"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">West Roxbury<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727454"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Missoula<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727439"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727436"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oxnard<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727434"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Batavia<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727425"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bensenville<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727426"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Goldens Bridge<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727412"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Los Gatos<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727379"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Stickney<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727376"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Montclair<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727370"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Patterson<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727355"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">McHenry<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727333"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Merrimack<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727318"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Azle<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727298"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Granada Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727281"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">2026 Pharmacy Graduate Intern - Louisiana</td>
-<td style="word-break:break-word;">Baton Rouge<br>LA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#708700"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -4748,17 +1185,10 @@
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>persistentsystems</strong></td>
-<td style="word-break:break-word;">Intern - Hardware Engineer (Fall 2026)</td>
-<td style="word-break:break-word;">New York<br>NY<br>US</td>
-<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2270/intern---hardware-engineer-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>orange</strong></td>
-<td style="word-break:break-word;">Senior IP Account Manager, Orange Wholesale I...</td>
-<td style="word-break:break-word;">Virginia<br>VA<br>US</td>
-<td align="center"><a href="https://careers-orange.icims.com/jobs/28016/senior-ip-account-manager%2c-orange-wholesale-international/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>framatome</strong></td>
+<td style="word-break:break-word;">Early Career IBR Mechanical Engineer</td>
+<td style="word-break:break-word;">Lynchburg<br>VA<br>US</td>
+<td align="center"><a href="https://careers-framatome.icims.com/jobs/3031/early-career-ibr-mechanical-engineer/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -4766,6 +1196,13 @@
 <td style="word-break:break-word;">Intern - Embedded Software Engineer (Fall 2026)</td>
 <td style="word-break:break-word;">New York<br>NY<br>US</td>
 <td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2272/intern---embedded-software-engineer-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Intern - Electrical Engineer (Fall 2026)</td>
+<td style="word-break:break-word;">New York<br>NY<br>US</td>
+<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2271/intern---electrical-engineer-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -4777,23 +1214,9 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>persistentsystems</strong></td>
-<td style="word-break:break-word;">Intern - Electrical Engineer (Fall 2026)</td>
+<td style="word-break:break-word;">Intern - Hardware Engineer (Fall 2026)</td>
 <td style="word-break:break-word;">New York<br>NY<br>US</td>
-<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2271/intern---electrical-engineer-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>framatome</strong></td>
-<td style="word-break:break-word;">Early Career IBR Mechanical Engineer</td>
-<td style="word-break:break-word;">Lynchburg<br>VA<br>US</td>
-<td align="center"><a href="https://careers-framatome.icims.com/jobs/3031/early-career-ibr-mechanical-engineer/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>gdeb</strong></td>
-<td style="word-break:break-word;">Facilities Project Manager - Electrical Engin...</td>
-<td style="word-break:break-word;">Groton<br>CT<br>US</td>
-<td align="center"><a href="https://careers-gdeb.icims.com/jobs/19338/facilities-project-manager---electrical-engineer-%28entry-level%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2270/intern---hardware-engineer-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -4804,45 +1227,17 @@
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.statestre...</strong></td>
-<td style="word-break:break-word;">International Tax Planning, MD</td>
-<td style="word-break:break-word;">Boston<br>Massachusetts<br>United States of America</td>
-<td align="center"><a href="https://careers.statestreet.com/job/R-792776"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>orange</strong></td>
+<td style="word-break:break-word;">Senior IP Account Manager, Orange Wholesale I...</td>
+<td style="word-break:break-word;">Virginia<br>VA<br>US</td>
+<td align="center"><a href="https://careers-orange.icims.com/jobs/28016/senior-ip-account-manager%2c-orange-wholesale-international/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.usbank.com</strong></td>
-<td style="word-break:break-word;">International Banking Ops Associate - GTSS Pa...</td>
-<td style="word-break:break-word;">Saint Paul<br>MN<br>United States</td>
-<td align="center"><a href="https://careers.usbank.com/job/2026-0016168"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>calpionplutus</strong></td>
-<td style="word-break:break-word;">AI Engineering Intern (Python &amp; Agentic AI)</td>
-<td style="word-break:break-word;">Dallas<br>Texas<br>United States</td>
-<td align="center"><a href="https://calpionplutus.bamboohr.com/careers/310"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit Associate</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210757584"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>usan</strong></td>
-<td style="word-break:break-word;">Entry Level Software Engineer - Hybrid - Norc...</td>
-<td style="word-break:break-word;">Norcross<br>Georgia<br>United States</td>
-<td align="center"><a href="https://usan.bamboohr.com/careers/196"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>University of Sou...</strong></td>
-<td style="word-break:break-word;">Research Assistant (Part Time)-Collier Group</td>
-<td style="word-break:break-word;">Hattiesburg<br>MS<br>US</td>
-<td align="center"><a href="https://usm.csod.com/ux/ats/careersite/1/job/5392?c=usm"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>gdeb</strong></td>
+<td style="word-break:break-word;">Facilities Project Manager - Electrical Engin...</td>
+<td style="word-break:break-word;">Groton<br>CT<br>US</td>
+<td align="center"><a href="https://careers-gdeb.icims.com/jobs/19338/facilities-project-manager---electrical-engineer-%28entry-level%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -4853,472 +1248,24 @@
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ekcm.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Practice Manager- Internal and Family Medicine</td>
-<td style="word-break:break-word;">West Lafayette<br>IN<br>United States</td>
-<td align="center"><a href="https://ekcm.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#421850"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>calpionplutus</strong></td>
+<td style="word-break:break-word;">AI Engineering Intern (Python &amp; Agentic AI)</td>
+<td style="word-break:break-word;">Dallas<br>Texas<br>United States</td>
+<td align="center"><a href="https://calpionplutus.bamboohr.com/careers/310"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Medicine Physician</td>
-<td style="word-break:break-word;">Phoenix<br>AZ<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603008194"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>University of Sou...</strong></td>
+<td style="word-break:break-word;">Research Assistant (Part Time)-Collier Group</td>
+<td style="word-break:break-word;">Hattiesburg<br>MS<br>US</td>
+<td align="center"><a href="https://usm.csod.com/ux/ats/careersite/1/job/5392?c=usm"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">NSM Financial Counselor - South Campus</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015663"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejfh.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Director of EVS/Internal Maintenance - GVR</td>
-<td style="word-break:break-word;">Henderson<br>NV<br>United States</td>
-<td align="center"><a href="https://ejfh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21173"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Multi Campus Float Pool RN - Operating Room</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#441354"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Multi Campus Float Pool Staff RN - NICU/ Pedi...</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#438477"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eohh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant - Immunization Project</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://eohh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#424844"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Caleb Brett - Entry-Level Petroleum Inspector</td>
-<td style="word-break:break-word;">St Louis<br>MO<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15100"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Bridge Inspection Engineer - Ass...</td>
-<td style="word-break:break-word;">Mooresville<br>NC<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89586"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">NSM Registrar ED, Nights 7PM-7AM - South Campus</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015662"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Structural Engineering Intern - Transportatio...</td>
-<td style="word-break:break-word;">New Haven<br>CT<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006350"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edyy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">News Intern (Fall 2026)</td>
-<td style="word-break:break-word;">Steubenville<br>OH<br>United States</td>
-<td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#16701"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Urban Planning Intern - Transportation (Fall ...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006351"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Student Intern</td>
-<td style="word-break:break-word;">Richland<br>WA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#439120"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehac.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Director, Internet and Brand Creative - Rejuv...</td>
-<td style="word-break:break-word;">Portland<br>OR<br>United States</td>
-<td align="center"><a href="https://ehac.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19078"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Field Technician - Construction M...</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15125"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Entry-Level Field Technician - Construction M...</td>
-<td style="word-break:break-word;">Toa Baja<br>PR<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15101"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Research Assistant I - Surgery</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039360"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Staff Nurse - Labor and Delivery Fellowship (...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039249"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egup.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Audit Specialist, Global Risk Oversight</td>
-<td style="word-break:break-word;">Westerville<br>OH<br>United States</td>
-<td align="center"><a href="https://egup.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20269111"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fountain Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726755"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Elmhurst<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726896"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oak Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725271"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Williston<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726641"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Shrewsbury<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726643"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Nashua<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726647"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bonners Ferry<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726660"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ashland<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726659"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bethesda<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726666"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Londonderry<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726691"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Garden City<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726704"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Palos Heights<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726711"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Guerneville<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Belmont<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726759"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">FamilySearch Global Engagement Church Channel...</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375715"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lynden<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727137"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lakeway<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726784"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">East Moline<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726809"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sweet Home<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726816"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">FamilySearch Image &amp; Metadata Quality Control...</td>
-<td style="word-break:break-word;">Lehi<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375714"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ellicott City<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727156"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cresskill<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726764"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Melrose<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727181"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fremont<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727183"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Aberdeen<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727191"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bellevue<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726841"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726888"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wasilla<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726845"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">South Portland<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726881"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Auburn<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726889"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Spearfish<br>SD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726891"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Clyde<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727139"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Montrose<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727130"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Baker City<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727121"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Arvada<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727108"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lakeview<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727103"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Elburn<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727078"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rockland<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727076"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Highland Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727048"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fort Mohave<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727028"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newtonville<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727024"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Grover Beach<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726976"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hoffman Estates<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726963"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Addison<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726946"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Campbell<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726918"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lisle<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726905"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mesquite<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#727155"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>usan</strong></td>
+<td style="word-break:break-word;">Entry Level Software Engineer - Hybrid - Norc...</td>
+<td style="word-break:break-word;">Norcross<br>Georgia<br>United States</td>
+<td align="center"><a href="https://usan.bamboohr.com/careers/196"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -5371,143 +1318,10 @@
 <td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rye<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726574"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fair Oaks<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726580"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sunnyvale<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726433"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Camas<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726578"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ventura<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726595"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chula Vista<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726612"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Arlington Heights<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726564"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Yorkville<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726535"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Roswell<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726513"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bristol<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726495"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Garland<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Highlands Ranch<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726480"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fox River Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726460"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Prunedale<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726442"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">South Burlington<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726606"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Deerfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726604"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oak Lawn<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726599"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oakhurst<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#712903"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Butte<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726626"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Clovis<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726619"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>ql</strong></td>
+<td style="word-break:break-word;">Medical Office Clerk - Pediatrics/L&amp;D/PICU/In...</td>
+<td style="word-break:break-word;">Portsmouth<br>VA<br>US</td>
+<td align="center"><a href="https://careers-ql.icims.com/jobs/11656/medical-office-clerk---pediatrics-l%26d-picu-internal-med-post-partum-nicu/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
@@ -5515,13 +1329,6 @@
 <td style="word-break:break-word;">Medical Office Clerk - Pediatrics/L&amp;D/PICU/In...</td>
 <td style="word-break:break-word;">Portsmouth<br>VA<br>US</td>
 <td align="center"><a href="https://careers-plansys.icims.com/jobs/11656/medical-office-clerk---pediatrics-l%26d-picu-internal-med-post-partum-nicu/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ql</strong></td>
-<td style="word-break:break-word;">Medical Office Clerk - Pediatrics/L&amp;D/PICU/In...</td>
-<td style="word-break:break-word;">Portsmouth<br>VA<br>US</td>
-<td align="center"><a href="https://careers-ql.icims.com/jobs/11656/medical-office-clerk---pediatrics-l%26d-picu-internal-med-post-partum-nicu/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
@@ -5536,146 +1343,6 @@
 <td style="word-break:break-word;">Software Engineer Internship</td>
 <td style="word-break:break-word;"><details><summary><strong>5 locations</strong></summary>San Jose<br>CA<br>US / Atlanta<br>GA<br>US / Remote (US)</details></td>
 <td align="center"><a href="https://www.ycombinator.com/companies/allus-ai/jobs/DdWHHZr-software-engineer-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Plainfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726383"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Freehold<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726250"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Anchorage<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726343"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Canby<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726338"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Forest<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726326"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Manteca<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#696920"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Substitute Teacher - Palmer AK Campus Seminary</td>
-<td style="word-break:break-word;">Palmer<br>AK<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#371671"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Evanston<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726324"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Coos Bay<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726305"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Albany<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726398"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rapid City<br>SD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726399"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Fe<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726394"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Woodridge<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726299"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Reedsport<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726354"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Abilene<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726419"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oakland<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726296"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Melrose Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726237"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Crown Point<br>IN<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726259"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Washington<br>DC<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726254"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Goleta<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726382"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">12d</td>
 </tr>
 <tr>
@@ -5715,72 +1382,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Research Intern (Reinforcement Learning, Self...</td>
-<td style="word-break:break-word;">Sunnyvale<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/SATFpf/jobs/research-intern-reinforcement-learning-self-driving_sunnyvale_sddj5deu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Research Intern (World-Action Foundation Mode...</td>
 <td style="word-break:break-word;">Sunnyvale<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/SATFpf/jobs/research-intern-world-action-foundation-model-robotics_sunnyvale_7vvigmxm"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Production Excellence Coordinator (Internal E...</td>
-<td style="word-break:break-word;">Senatobia<br>Mississippi<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00039137"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Warehouse/Internal Logistics Operator 2nd Shi...</td>
-<td style="word-break:break-word;">Pinetops<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00035089"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Euless<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201783"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-GRAD INTERN</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201673"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacist Intern</td>
-<td style="word-break:break-word;">Vancouver<br>WA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201628"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/SUMMER INTERN</td>
-<td style="word-break:break-word;">Humble<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201672"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Ridgeland<br>MS<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201681"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>icfcjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Internal Controls Manager</td>
-<td style="word-break:break-word;">Phoenix<br>AZ<br>United States</td>
-<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#115531"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Research Intern (Reinforcement Learning, Self...</td>
+<td style="word-break:break-word;">Sunnyvale<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/SATFpf/jobs/research-intern-reinforcement-learning-self-driving_sunnyvale_sddj5deu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
@@ -5788,237 +1399,6 @@
 <td style="word-break:break-word;">!Entry-Level Customer Relations Representative</td>
 <td style="word-break:break-word;">United States</td>
 <td align="center"><a href="https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/bldqpvT52J"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse C-CCST East Campus Hospital: P...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15462"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Nurse Practitioner-Internal Medicine -ISM, Mo...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039176"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egup.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">IT Security Internship (Summer 2026)</td>
-<td style="word-break:break-word;">Westerville<br>OH<br>United States</td>
-<td align="center"><a href="https://egup.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20258835"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Medicine Physician - Primary Care</td>
-<td style="word-break:break-word;">Tucson<br>AZ<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603008127"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">House Supervisor  FT 7p-7a South Campus</td>
-<td style="word-break:break-word;">Nacogdoches<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603015520"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant - Tumor Research Institute</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#439807"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejfh.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Maintenance Supervisor - GVR</td>
-<td style="word-break:break-word;">Henderson<br>NV<br>United States</td>
-<td align="center"><a href="https://ejfh.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21957"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elfw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Service Specialist- Internal Medicine...</td>
-<td style="word-break:break-word;">Vestal<br>NY<br>United States</td>
-<td align="center"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22934"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Riverside<br>RI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726040"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Westchester<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725929"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chewelah<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726108"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Darien<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Whitinsville<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718161"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Streamwood<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726041"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Murrieta<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725823"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">The Dalles<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726173"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pleasant Hill<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#706266"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Zion<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725979"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Helena<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726192"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Woodburn<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725913"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">South Holland<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725909"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mission Viejo<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725907"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Middleburg<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725900"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">East Boston<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725884"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Munster<br>IN<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725857"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oak Forest<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725839"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Milton Freewater<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725835"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Glenview<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725831"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bourbonnais<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726068"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">West Linn<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725828"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mill Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#726143"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Des Plaines<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725830"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Antioch<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725927"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
@@ -6120,24 +1500,10 @@
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Internal Logistics Technician</td>
-<td style="word-break:break-word;">Senatobia<br>Mississippi<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00037353"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Concordia College</strong></td>
 <td style="word-break:break-word;">Health and Wellness Intern / Health Center As...</td>
 <td style="word-break:break-word;">Bemidji<br>MN<br>US</td>
 <td align="center"><a href="https://concordiacollege.csod.com/ux/ats/careersite/1/job/108?c=concordiacollege"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>over-the-moon-1</strong></td>
-<td style="word-break:break-word;">Buying &amp; Merchandising Intern</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://apply.workable.com/j/36168F9106"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
@@ -6148,31 +1514,10 @@
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>oscglobal</strong></td>
-<td style="word-break:break-word;">Cyber Security Intern (GRC)</td>
-<td style="word-break:break-word;">Richland<br>Washington<br>United States</td>
-<td align="center"><a href="https://oscglobal.bamboohr.com/careers/322"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Surprise<br>AZ<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201379"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-eqpz-saasfapro...</strong></td>
-<td style="word-break:break-word;">Engineer, New Grad, EI, or PE - Roads and Dra...</td>
-<td style="word-break:break-word;">Winter Haven<br>FL<br>United States</td>
-<td align="center"><a href="https://fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2535"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-ewlq-saasfapro...</strong></td>
-<td style="word-break:break-word;">Senior International Program Coordinator: Int...</td>
-<td style="word-break:break-word;">Knoxville<br>TN<br>United States</td>
-<td align="center"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8647"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">Software Development Engineer II, Internet Ed...</td>
+<td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10453254/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
@@ -6183,339 +1528,17 @@
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word;">Software Development Engineer II, Internet Ed...</td>
-<td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10453254/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ernh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Accounting Intern- Finance, Part-Time Tempora...</td>
-<td style="word-break:break-word;">Mullica Hill<br>NJ<br>United States</td>
-<td align="center"><a href="https://ernh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20063145"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">RN &amp; New Graduate Nurse Hiring Event for Med-...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23314"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Executive Secretary, Internal Medicine, Full ...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23216"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Cyber Security Intern (GRC)</td>
+<td style="word-break:break-word;">Richland<br>Washington<br>United States</td>
+<td align="center"><a href="https://oscglobal.bamboohr.com/careers/322"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>epyc.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">AP Coordinator Intern</td>
-<td style="word-break:break-word;">Norwell<br>MA<br>United States</td>
-<td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#162481"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Secretary-Internal Medicine-Manhasset...</td>
+<td style="word-break:break-word;"><strong>over-the-moon-1</strong></td>
+<td style="word-break:break-word;">Buying &amp; Merchandising Intern</td>
 <td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039492"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant - Part-Time - Internal Medi...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#12991"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient* East Campus Hospi...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15407"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Staff Scheduler - Internal Medicine</td>
-<td style="word-break:break-word;">Los Angeles<br>CA<br>United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17195"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Landscape Architecture Intern (Fall 2026)</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006352"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehtl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Audit, Sr. Manager</td>
-<td style="word-break:break-word;">Golden Valley<br>MN<br>United States</td>
-<td align="center"><a href="https://ehtl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18600"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Structural Engineering Intern - Transportatio...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006349"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate - Telemetry</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2503035259"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Careers Fire and Life Safety Engineer</td>
-<td style="word-break:break-word;">Columbia<br>MD<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89427"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebrf.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Office Assistant - Monroe Residential...</td>
-<td style="word-break:break-word;">Rochester<br>NY<br>United States</td>
-<td align="center"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3105"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehtl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Audit, Manager</td>
-<td style="word-break:break-word;">Golden Valley<br>MN<br>United States</td>
-<td align="center"><a href="https://ehtl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18599"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chandler<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725707"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Ana<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725764"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Towson<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725454"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Vergennes<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725482"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edxn.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">IT Services Co-Op</td>
-<td style="word-break:break-word;">Boston<br>MA<br>United States</td>
-<td align="center"><a href="https://edxn.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26106"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">IT Data Services Co-Op</td>
-<td style="word-break:break-word;">Boston<br>MA<br>United States</td>
-<td align="center"><a href="https://edxn.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26107"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">FamilySearch Internal Communications Intern</td>
-<td style="word-break:break-word;">Lehi<br>UT<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#375660"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chestertown<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Huntley<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725525"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecge.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal IT Auditor, Senior</td>
-<td style="word-break:break-word;">Oakland<br>CA<br>United States</td>
-<td align="center"><a href="https://ecge.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20261157"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Internal IT Auditor, Consultant</td>
-<td style="word-break:break-word;">Oakland<br>CA<br>United States</td>
-<td align="center"><a href="https://ecge.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20261152"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eify.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant - IPT</td>
-<td style="word-break:break-word;">Springfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eify.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8515"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Corona<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725553"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Danville<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725558"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Morris<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725591"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lancaster<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725593"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Franklin Park<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725610"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Spring Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725617"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Livermore<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725406"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sonora<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725624"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lockport<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725637"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kapaa<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725395"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gurnee<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725642"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Flower Mound<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725648"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Minooka<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725677"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Half Moon Bay<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725671"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hood River<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725701"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sugar Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725427"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Casper<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725433"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Glendale Heights<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725731"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Seminole<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725750"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wauconda<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725447"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://apply.workable.com/j/36168F9106"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
@@ -6589,24 +1612,24 @@
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jointcommission</strong></td>
-<td style="word-break:break-word;">International Administrative Consultant</td>
-<td style="word-break:break-word;">Oakbrook Terrace<br>IL<br>US</td>
-<td align="center"><a href="https://careers-jointcommission.icims.com/jobs/7292/international-administrative-consultant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>marinerfinance</strong></td>
+<td style="word-break:break-word;">Branch Operations Summer Internship</td>
+<td style="word-break:break-word;">Jacksonville<br>FL<br>US</td>
+<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1706/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;"><strong>jointcommission</strong></td>
 <td style="word-break:break-word;">International MD Consultant</td>
 <td style="word-break:break-word;">Oakbrook Terrace<br>IL<br>US</td>
 <td align="center"><a href="https://careers-jointcommission.icims.com/jobs/7294/international-md-consultant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>marinerfinance</strong></td>
-<td style="word-break:break-word;">Branch Operations Summer Internship</td>
-<td style="word-break:break-word;">Jacksonville<br>FL<br>US</td>
-<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1706/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">International Administrative Consultant</td>
+<td style="word-break:break-word;">Oakbrook Terrace<br>IL<br>US</td>
+<td align="center"><a href="https://careers-jointcommission.icims.com/jobs/7292/international-administrative-consultant/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
@@ -6645,27 +1668,6 @@
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.itw.com</strong></td>
-<td style="word-break:break-word;">Project Engineer Intern</td>
-<td style="word-break:break-word;">San Luis Obispo<br>California<br>United States of America</td>
-<td align="center"><a href="https://careers.itw.com/job/JR8064"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Grad Intern</td>
-<td style="word-break:break-word;">Beaverton<br>OR<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201251"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>indicalab</strong></td>
-<td style="word-break:break-word;">Associate Application Specialist (Internal Only)</td>
-<td style="word-break:break-word;">Albuquerque<br>New Mexico<br>United States</td>
-<td align="center"><a href="https://indicalab.bamboohr.com/careers/180"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Mecklenburg County</strong></td>
 <td style="word-break:break-word;">High School Intern- Ivory/Baker Recreation Ce...</td>
 <td style="word-break:break-word;">Charlotte<br>NC<br>US</td>
@@ -6673,290 +1675,10 @@
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Credit Officer. Senior Associate -Technology,...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210754619"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Internal Audit Manager - Vice President - Com...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210759059"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN   (034)</td>
-<td style="word-break:break-word;">Wichita<br>KS<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201112"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Martinez<br>GA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201265"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Licensed Practical Nurse (LPN) New Graduate</td>
-<td style="word-break:break-word;">Muscle Shoals<br>AL<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#345850"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdbg.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Secretary - Rehabilitation &amp; Wellness...</td>
-<td style="word-break:break-word;">Gansevoort<br>NY<br>United States</td>
-<td align="center"><a href="https://hdbg.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1034"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Columbia<br>SC<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#201270"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Private Bank- Select Banker- As...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210740387"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Field Technician - Construction M...</td>
-<td style="word-break:break-word;">Shreveport<br>LA<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15076"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cva.fa.us1.oracle...</strong></td>
-<td style="word-break:break-word;">Engineering Co-Op</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://cva.fa.us1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7983"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hckd.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://hckd.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2037790"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edyy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">2026 Summer News Internship</td>
-<td style="word-break:break-word;">Syracuse<br>NY<br>United States</td>
-<td align="center"><a href="https://edyy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#16676"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Civil Engineering Co-op Student (Fall 2026)</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006038"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Macy&#x27;s 2026 Summer Internship - Marketing MBA</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#80629"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Career Geologist/Scientist</td>
-<td style="word-break:break-word;">Louisville<br>KY<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89353"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elfw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Supervisor, Office Operations - Internal Medi...</td>
-<td style="word-break:break-word;">Corning<br>NY<br>United States</td>
-<td align="center"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22821"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - Neuro</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603011071"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Communications and Public Involv...</td>
-<td style="word-break:break-word;">Albuquerque<br>NM<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89317"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdox.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Account Manager</td>
-<td style="word-break:break-word;">West Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://hdox.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#62629"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Administrative Support Team Associate, West D...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_788499"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">RC Pre-Authorization Clinician - THOP Memoria...</td>
-<td style="word-break:break-word;">El Paso<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603000569"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Apple Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724978"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newark<br>DE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725113"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Auburn<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725137"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pacifica<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725183"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gaithersburg<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725201"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Sun City<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725295"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Central Point<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725225"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Crystal Lake<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725391"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Corvallis<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725255"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brea<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725333"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Plano<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725323"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Walnut Creek<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#713975"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Irvine<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725320"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Frisco<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725300"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Coppell<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725050"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hoboken<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725033"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Menlo Park<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Elk Grove<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724975"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejof.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Student Worker - Baylor Eats Piper Intern - BC</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20574"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bonney Lake<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#725073"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>indicalab</strong></td>
+<td style="word-break:break-word;">Associate Application Specialist (Internal Only)</td>
+<td style="word-break:break-word;">Albuquerque<br>New Mexico<br>United States</td>
+<td align="center"><a href="https://indicalab.bamboohr.com/careers/180"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
@@ -7003,16 +1725,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>spencersandspirit</strong></td>
-<td style="word-break:break-word;">Fall 2026 Enterprise Applications Internship</td>
+<td style="word-break:break-word;">Fall 2026 Project Management Internship</td>
 <td style="word-break:break-word;">Egg Harbor Township<br>NJ<br>US</td>
-<td align="center"><a href="https://careers-spencersandspirit.icims.com/jobs/4109/fall-2026-enterprise-applications-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://careers-spencersandspirit.icims.com/jobs/4110/fall-2026-project-management-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Project Management Internship</td>
+<td style="word-break:break-word;">Fall 2026 Enterprise Applications Internship</td>
 <td style="word-break:break-word;">Egg Harbor Township<br>NJ<br>US</td>
-<td align="center"><a href="https://careers-spencersandspirit.icims.com/jobs/4110/fall-2026-project-management-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://careers-spencersandspirit.icims.com/jobs/4109/fall-2026-enterprise-applications-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
@@ -7100,31 +1822,10 @@
 <td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">ELDS Fab Warehouse Internal Logistics Operato...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00035252"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Assembler II ( Internal Conversion Only )</td>
-<td style="word-break:break-word;">Senatobia<br>Mississippi<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00038542"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">ELDS Warehouse Internal Logistics Operator 2n...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00035104"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">ELDS Warehouse Internal Logistics Operator- 2...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00034147"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>Billings Clinic</strong></td>
+<td style="word-break:break-word;">Biomed IT Intern</td>
+<td style="word-break:break-word;">US</td>
+<td align="center"><a href="https://billingsclinic.csod.com/ux/ats/careersite/1/job/11838?c=billingsclinic"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
@@ -7135,304 +1836,10 @@
 <td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>Billings Clinic</strong></td>
-<td style="word-break:break-word;">Biomed IT Intern</td>
-<td style="word-break:break-word;">US</td>
-<td align="center"><a href="https://billingsclinic.csod.com/ux/ats/careersite/1/job/11838?c=billingsclinic"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Sr. Systems Development Engineer, Internet Ed...</td>
 <td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10450639/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-epmn-saasfapro...</strong></td>
-<td style="word-break:break-word;">Communications Intern</td>
-<td style="word-break:break-word;">CA<br>United States</td>
-<td align="center"><a href="https://fa-epmn-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=SCVWaterCareers#76"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeik.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Work Study - Wildlife Toxicology Research Ass...</td>
-<td style="word-break:break-word;">Laramie<br>WY<br>United States</td>
-<td align="center"><a href="https://eeik.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#261467"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Payments International Product Specialist - E...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210759724"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">College of Western Idaho - Pearson Campus Amb...</td>
-<td style="word-break:break-word;">Boise<br>ID<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24747"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#12096"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Senior Water Reuse Engineer</td>
-<td style="word-break:break-word;">Pasadena<br>CA<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006354"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Substation Electrical Engineer</td>
-<td style="word-break:break-word;">San Diego<br>CA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89212"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eimy.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Neonatal Nurse Practitioner Internship</td>
-<td style="word-break:break-word;">Madison<br>WI<br>United States</td>
-<td align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#48816"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egay.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Project Manager - Tulsa (entry-level)</td>
-<td style="word-break:break-word;">Tulsa<br>OK<br>United States</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#42148"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Issaquah<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724868"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Waltham<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724762"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mililani Town<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#710853"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Barbara<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724857"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Stayton<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724904"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Corte Madera<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724827"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Nampa<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724805"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Troutdale<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724775"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eiqg.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Floor Tech - Main Campus West</td>
-<td style="word-break:break-word;">Springfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eiqg.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#157381"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibmwjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">CCRC Campus Executive Director</td>
-<td style="word-break:break-word;">Colorado Springs<br>CO<br>United States</td>
-<td align="center"><a href="https://ibmwjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25024345"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eiqg.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Floor Tech -  Main Campus East</td>
-<td style="word-break:break-word;">Springfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eiqg.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#157378"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcwp.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Machinist - Entry level</td>
-<td style="word-break:break-word;">Saxonburg<br>PA<br>United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2012893"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Show Low<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724772"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bath<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724548"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wilmington<br>DE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724524"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Stowe<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724505"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kailua<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724419"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wayne<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724397"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Grass Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724961"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level - New Store Coming Soon</td>
-<td style="word-break:break-word;">Crown Point<br>IN<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724941"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tustin<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724935"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Corning<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724931"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Spring Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724911"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lombard<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724606"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Petaluma<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724628"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Port Chester<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724671"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Thornwood<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724674"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lander<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724698"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sidney<br>NE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724694"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Snoqualmie<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724748"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gresham<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724763"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lakewood<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724773"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
@@ -7464,17 +1871,17 @@
 <td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fhcrc</strong></td>
-<td style="word-break:break-word;">Unpaid Research Intern - School Credit Only -...</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>US</td>
-<td align="center"><a href="https://careers-fhcrc.icims.com/jobs/31351/unpaid-research-intern---school-credit-only---temporary/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>wafd</strong></td>
 <td style="word-break:break-word;">Sr Internal Auditor - IT</td>
 <td style="word-break:break-word;">Seattle<br>WA<br>US</td>
 <td align="center"><a href="https://careers-wafd.icims.com/jobs/4860/sr-internal-auditor---it/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>fhcrc</strong></td>
+<td style="word-break:break-word;">Unpaid Research Intern - School Credit Only -...</td>
+<td style="word-break:break-word;">Seattle<br>WA<br>US</td>
+<td align="center"><a href="https://careers-fhcrc.icims.com/jobs/31351/unpaid-research-intern---school-credit-only---temporary/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
@@ -7485,325 +1892,10 @@
 <td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.geaerospa...</strong></td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Mechanical/Aerosp...</td>
-<td style="word-break:break-word;">Grand Rapids<br>Michigan<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030183"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Intern - Electrical Engin...</td>
-<td style="word-break:break-word;">Grand Rapids<br>Michigan<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030173"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Mechanical/Aerosp...</td>
-<td style="word-break:break-word;">Dayton<br>Ohio<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030171"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Intern - Electrical Engin...</td>
-<td style="word-break:break-word;">Dayton<br>Ohio<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030174"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Electrical Engine...</td>
-<td style="word-break:break-word;">Grand Rapids<br>Michigan<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030167"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Intern - Mechanical/Aeros...</td>
-<td style="word-break:break-word;">Grand Rapids<br>Michigan<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030175"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Electrical Engine...</td>
-<td style="word-break:break-word;">Grand Rapids<br>Michigan<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030180"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Mechanical/Aerosp...</td>
-<td style="word-break:break-word;">Grand Rapids<br>Michigan<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030169"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.truist.com</strong></td>
-<td style="word-break:break-word;">Sr Internal Auditor</td>
-<td style="word-break:break-word;">Charlotte<br>North Carolina<br>USA</td>
-<td align="center"><a href="https://careers.truist.com/job/R0114049"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.geaerospa...</strong></td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Mechanical/Aerosp...</td>
-<td style="word-break:break-word;">Dayton<br>Ohio<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030184"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Intern - Mechanical/Aeros...</td>
-<td style="word-break:break-word;">Dayton<br>Ohio<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030177"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Electrical Engine...</td>
-<td style="word-break:break-word;">Dayton<br>Ohio<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030182"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Systems Engineering Co-op - Electrical Engine...</td>
-<td style="word-break:break-word;">Dayton<br>Ohio<br>United States of America</td>
-<td align="center"><a href="https://careers.geaerospace.com/job/R5030168"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN) - New Grad Behavioral H...</td>
-<td style="word-break:break-word;">Hickory<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#342825"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Part Time (30 Hours) Associate Banker, Alabam...</td>
-<td style="word-break:break-word;">Tuscaloosa<br>AL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210756831"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Citi</strong></td>
 <td style="word-break:break-word;">Internal Accounts Product Owner, AVP</td>
 <td style="word-break:break-word;">Tampa<br>FL<br>US</td>
 <td align="center"><a href="https://citi.eightfold.ai/careers/job/859035744176"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">RN Care Coordinator, Internal Medicine, Full ...</td>
-<td style="word-break:break-word;">West Chester<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23220"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15366"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate (RN) - Tele Neuro</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603006305"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Internal Medicine Physician</td>
-<td style="word-break:break-word;">Memphis<br>TN<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603008255"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Lead Medical Assistant - Internal Medicine</td>
-<td style="word-break:break-word;">Missoula<br>MT<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#438327"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ernh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern, Patient Experience - IMC</td>
-<td style="word-break:break-word;">NJ<br>United States</td>
-<td align="center"><a href="https://ernh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20063065"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Civil Engineer</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89066"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Co-Op, Audit Compliance</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23046"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Overhead Transmission Line Design Engineering...</td>
-<td style="word-break:break-word;">Birmingham<br>AL<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88869"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Walkersville<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723829"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cottonwood<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724045"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bisbee<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724079"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">McLean<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724100"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Forest<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724208"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hilo<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724326"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Honolulu<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724337"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Montecito<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724348"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Del Rey Oaks<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#724369"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kenai<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723811"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Moline<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723880"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Tempe<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723904"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Walla Walla<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723921"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofe.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Vice President, Early Careers Program Manager</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#77633"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Maple Valley<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723954"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mohegan Lake<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723998"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eiqg.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Janitorial Cleaner - Main Campus West</td>
-<td style="word-break:break-word;">Springfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eiqg.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#157247"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Janitorial Cleaner - Main Campus East</td>
-<td style="word-break:break-word;">Springfield<br>IL<br>United States</td>
-<td align="center"><a href="https://eiqg.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#157241"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pecos<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723624"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Healdsburg<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723812"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eese.fa.us8.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Electronics Engineer</td>
-<td style="word-break:break-word;">Oak Ridge<br>TN<br>United States</td>
-<td align="center"><a href="https://eese.fa.us8.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#485"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
@@ -7825,62 +1917,6 @@
 <td style="word-break:break-word;">Auditor - Internal Senior</td>
 <td style="word-break:break-word;">Shreveport<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/auditor-internal-senior_shreveport_ve4wqsqi"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Coeur d Alene<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723702"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ogallala<br>NE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723786"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Susanville<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723797"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bloomington<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723636"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kodiak<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723616"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Mountain View<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723613"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wilsonville<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723654"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Everett<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722423"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
@@ -7916,111 +1952,6 @@
 <td style="word-break:break-word;">Entry Level QA Tester - Freshers Welcome</td>
 <td style="word-break:break-word;">Atlanta<br>Georgia<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/B21CA1F34E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwv.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Lobby Houseperson | Fairfield Inn Harrisburg ...</td>
-<td style="word-break:break-word;">Middletown<br>PA<br>United States</td>
-<td align="center"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#236009"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Laundry Attendant | Fairfield Inn Harrisburg ...</td>
-<td style="word-break:break-word;">Middletown<br>PA<br>United States</td>
-<td align="center"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#236008"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Guest Room Attendant | Fairfield Inn Harrisbu...</td>
-<td style="word-break:break-word;">Middletown<br>PA<br>United States</td>
-<td align="center"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#236007"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Longwood University - Pearson Campus Ambassador</td>
-<td style="word-break:break-word;">Farmville<br>VA<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24701"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gainesville<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723452"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hopewell Junction<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722924"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lincroft<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723283"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Burien<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723610"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Del Mar<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723598"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Huntington Beach<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723594"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Crescent City<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723565"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Logan Township<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723299"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hillsborough<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723378"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Belgrade<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723385"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lovelock<br>NV<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723434"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">19d</td>
 </tr>
 <tr>
@@ -8073,13 +2004,6 @@
 <td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>southcoast</strong></td>
-<td style="word-break:break-word;">MRI Technologist - Local/Internal Traveler</td>
-<td style="word-break:break-word;">Fall River<br>MA<br>US</td>
-<td align="center"><a href="https://careers-southcoast.icims.com/jobs/38110/mri-technologist---local-internal-traveler/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>gray</strong></td>
 <td style="word-break:break-word;">IT Services Intern</td>
 <td style="word-break:break-word;">Lexington<br>KY<br>US</td>
@@ -8091,6 +2015,13 @@
 <td style="word-break:break-word;">Interventional Radiology Technologist - Local...</td>
 <td style="word-break:break-word;">New Bedford<br>MA<br>US</td>
 <td align="center"><a href="https://careers-southcoast.icims.com/jobs/38109/interventional-radiology-technologist---local-internal-traveler/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">20d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">MRI Technologist - Local/Internal Traveler</td>
+<td style="word-break:break-word;">Fall River<br>MA<br>US</td>
+<td align="center"><a href="https://careers-southcoast.icims.com/jobs/38110/mri-technologist---local-internal-traveler/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
@@ -8150,34 +2081,6 @@
 <td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.bonsecour...</strong></td>
-<td style="word-break:break-word;">New Grad - Registered Nurse (RN) - Intensive ...</td>
-<td style="word-break:break-word;">Greenville<br>South Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.bonsecours.com/job/R268136"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.bsmhealth...</strong></td>
-<td style="word-break:break-word;">New Grad - Registered Nurse (RN) - Intensive ...</td>
-<td style="word-break:break-word;">Greenville<br>South Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.bsmhealth.org/job/R268136"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Communications Manager, Card Internal Communi...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210733276"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>growpublicschools</strong></td>
-<td style="word-break:break-word;">Early Childhood Education Aide 1st Grade (202...</td>
-<td style="word-break:break-word;">Arvin<br>California<br>United States</td>
-<td align="center"><a href="https://growpublicschools.bamboohr.com/careers/382"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Turner Construction</strong></td>
 <td style="word-break:break-word;">Campus Talent Acquisition Program Specialist</td>
 <td style="word-break:break-word;">Nashville<br>TN<br>US</td>
@@ -8192,304 +2095,10 @@
 <td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Field Technician - Construction M...</td>
-<td style="word-break:break-word;">Jefferson<br>LA<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15065"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15354"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cbha.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern, Finance IT</td>
-<td style="word-break:break-word;">Exton<br>PA<br>United States</td>
-<td align="center"><a href="https://cbha.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7559"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>etud.fa.us8.oracl...</strong></td>
-<td style="word-break:break-word;">Intern Physician Assistant</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://etud.fa.us8.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4999"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elfw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Intern - Retail Pharmacy - Per Diem</td>
-<td style="word-break:break-word;">Johnson City<br>NY<br>United States</td>
-<td align="center"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22767"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant, Internal Medicine, Endocri...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23201"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant III - The Friedman Brain I...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039245"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdjq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Material Planning and Inventory Intern</td>
-<td style="word-break:break-word;">Knoxville<br>TN<br>United States</td>
-<td align="center"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26006476"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Electrical Engineering Intern - Fall 2026</td>
-<td style="word-break:break-word;">Troy<br>NY<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#89061"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ruidoso<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722738"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722891"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Billings<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722950"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Charles<br>LA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722773"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723154"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Yorktown Heights<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722953"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Meridian<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722966"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Bozeman<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722925"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Sidney<br>NE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722936"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Citrus Heights<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722802"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Santa Clarita<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723258"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebez.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Campus Technician | Network Solutions</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5773"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Colorado Springs<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722845"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Missoula<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722965"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Boise<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722986"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Monrovia<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722860"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibmqjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Summer Intern, Communications - Madison, NJ/ NYC</td>
-<td style="word-break:break-word;">Madison<br>NJ<br>United States</td>
-<td align="center"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4644"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Trinidad<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722863"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Rock Springs<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722866"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Salt Lake City<br>UT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723000"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newark<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723027"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Willits<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723052"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Grayslake<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723059"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brewster<br>NY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722904"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Payson<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723103"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Quanah<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723119"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Junction City<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723137"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebqb.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Tax Senior, Customs &amp; International Trade</td>
-<td style="word-break:break-word;">Philadelphia<br>PA<br>United States</td>
-<td align="center"><a href="https://ebqb.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#12693"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Fort Collins<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722946"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Erie<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723226"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Temecula<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722732"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Garden Grove<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#723254"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Livingston<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722872"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Novato<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722844"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>growpublicschools</strong></td>
+<td style="word-break:break-word;">Early Childhood Education Aide 1st Grade (202...</td>
+<td style="word-break:break-word;">Arvin<br>California<br>United States</td>
+<td align="center"><a href="https://growpublicschools.bamboohr.com/careers/382"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
@@ -8675,220 +2284,10 @@
 <td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Warehouse/Internal Logistics Supervisor</td>
-<td style="word-break:break-word;">Senatobia<br>Mississippi<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00036860"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Merchandising Co-op</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#190581"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Product Sales Specialist - Comm...</td>
-<td style="word-break:break-word;">Chicago<br>IL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210758480"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>monarch-quantum</strong></td>
 <td style="word-break:break-word;">Production Operations Simulation and Modeling...</td>
 <td style="word-break:break-word;">San Diego<br>California<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/B8354F1732"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Geotechnical Engineer</td>
-<td style="word-break:break-word;">Birmingham<br>AL<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88945"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Intern</td>
-<td style="word-break:break-word;">Rock Hill<br>SC<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014277"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejov.fa.ca2.oracl...</strong></td>
-<td style="word-break:break-word;">Graduate Engineer / Associate Project Manager</td>
-<td style="word-break:break-word;">PHOENIX<br>AZ<br>United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26458"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Advisor, West Dade Miami International...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_787432"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Per Diem Pharmacy Intern: Mount Sinai Morning...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039097"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Clinical Research Assistant I-Neurosurgery</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039189"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Services Representative, Internal Med...</td>
-<td style="word-break:break-word;">West Chester<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23092"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Per Diem Medication Management Pharmacy Inter...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3039225"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Virginia Tech - Pearson Campus Ambassador</td>
-<td style="word-break:break-word;">Blacksburg<br>VA<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24689"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Intern PRN Rotating</td>
-<td style="word-break:break-word;">Tucson<br>AZ<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2503034109"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>erym.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant (Full-Time) - Internal Medi...</td>
-<td style="word-break:break-word;">SC<br>United States</td>
-<td align="center"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26074"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Advocate Rep - East Cooper Medical</td>
-<td style="word-break:break-word;">Mount Pleasant<br>SC<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603012923"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Fire and Life Safety Engineer in...</td>
-<td style="word-break:break-word;">Columbia<br>MD<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88974"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejof.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Student Worker - Sports Photographer/Videogra...</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20620"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Randolph<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722259"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejof.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Student Worker - Content Creator - Campus Rec...</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20619"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdsn.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Manager, Internal Audit</td>
-<td style="word-break:break-word;">Boston<br>MA<br>United States</td>
-<td align="center"><a href="https://hdsn.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2433"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Borger<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722617"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bel Air<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722505"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Zephyr Cove<br>NV<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722495"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Alamo<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#697230"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Casper<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722491"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Graham<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722453"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Canon City<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722413"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Monument<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722367"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lake Stevens<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722353"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Arlington<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722309"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
@@ -8955,17 +2354,17 @@
 <td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>magnera</strong></td>
-<td style="word-break:break-word;">IT Data Analyst Intern</td>
-<td style="word-break:break-word;">Evansville<br>IN<br>US</td>
-<td align="center"><a href="https://careers-magnera.icims.com/jobs/27241/it-data-analyst-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>culmen</strong></td>
 <td style="word-break:break-word;">International Procurement and Logistics Proje...</td>
 <td style="word-break:break-word;">Alexandria<br>VA<br>US</td>
 <td align="center"><a href="https://careers-culmen.icims.com/jobs/4456/international-procurement-and-logistics-project-coordinator/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">22d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>magnera</strong></td>
+<td style="word-break:break-word;">IT Data Analyst Intern</td>
+<td style="word-break:break-word;">Evansville<br>IN<br>US</td>
+<td align="center"><a href="https://careers-magnera.icims.com/jobs/27241/it-data-analyst-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
@@ -8997,34 +2396,6 @@
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ids-engineering-g...</strong></td>
-<td style="word-break:break-word;">Engineering Intern (Summer 2027)</td>
-<td style="word-break:break-word;">Houston<br>Texas<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/B5CF00B048"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ide-global</strong></td>
-<td style="word-break:break-word;">Total Compensation Benchmarking Intern</td>
-<td style="word-break:break-word;">Denver<br>Colorado<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/89E1FC4B4E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-etbx-saasfapro...</strong></td>
-<td style="word-break:break-word;">Intern - Year Round (Public Key Infrastructure)</td>
-<td style="word-break:break-word;">Vienna<br>VA<br>United States</td>
-<td align="center"><a href="https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=nfcu#30344"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>healthcorpsorg</strong></td>
-<td style="word-break:break-word;">Health Education Internship at Local Middle a...</td>
-<td style="word-break:break-word;">Ardmore<br>Oklahoma<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/CAD3C55960"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>skygig</strong></td>
 <td style="word-break:break-word;">ML Software Engineer Intern</td>
 <td style="word-break:break-word;">San Jose<br>California<br>United States</td>
@@ -9039,178 +2410,24 @@
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eeik.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Hourly Pooled - Social Media Intern, Institut...</td>
-<td style="word-break:break-word;">Laramie<br>WY<br>United States</td>
-<td align="center"><a href="https://eeik.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#261412"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>ids-engineering-g...</strong></td>
+<td style="word-break:break-word;">Engineering Intern (Summer 2027)</td>
+<td style="word-break:break-word;">Houston<br>Texas<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/B5CF00B048"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Advisor - Kiko Milano, West Dade Miami...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_786988"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>ide-global</strong></td>
+<td style="word-break:break-word;">Total Compensation Benchmarking Intern</td>
+<td style="word-break:break-word;">Denver<br>Colorado<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/89E1FC4B4E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Assistant Chief Nursing Officer DMC Midtown C...</td>
-<td style="word-break:break-word;">Detroit<br>MI<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014652"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">On-Call Early Career Archaeological Field Tec...</td>
-<td style="word-break:break-word;">Albuquerque<br>NM<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Early Career Mechanical Engineer - Buildings</td>
-<td style="word-break:break-word;">Milwaukee<br>WI<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88748"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Sales Counter Manager - Kiko Milano, W...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_786968"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehac.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Design Studio Spc/Home Stylist, Pottery Barn,...</td>
-<td style="word-break:break-word;">Tampa<br>FL<br>United States</td>
-<td align="center"><a href="https://ehac.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18929"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">University of North Florida - Pearson Campus ...</td>
-<td style="word-break:break-word;">Jacksonville<br>FL<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24645"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Drexel University - Pearson Campus Ambassador</td>
-<td style="word-break:break-word;">Philadelphia<br>PA<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24646"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">North Carolina Central University - Pearson C...</td>
-<td style="word-break:break-word;">Durham<br>NC<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24648"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egay.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Engineering Intern</td>
-<td style="word-break:break-word;">Wichita<br>KS<br>United States</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#40658"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcal.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Associate Director - Internal Audit</td>
-<td style="word-break:break-word;">Camden<br>NJ<br>United States</td>
-<td align="center"><a href="https://hcal.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2282"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Civil Engineer (Generation)</td>
-<td style="word-break:break-word;">Overland Park<br>KS<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88637"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Early Career Civil Engineering (Overhead Tran...</td>
-<td style="word-break:break-word;">Birmingham<br>AL<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88865"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Advisor - Kiko Milano, West Dade Miami...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_786997"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Marina Del Rey<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722199"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Woodbridge<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721595"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Vista<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722139"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Winslow<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722120"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Aloha<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722080"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Casa Grande<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#722039"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">McKinney<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721775"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Glen Mills<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721497"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chester<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721567"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Broussard<br>LA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721633"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>healthcorpsorg</strong></td>
+<td style="word-break:break-word;">Health Education Internship at Local Middle a...</td>
+<td style="word-break:break-word;">Ardmore<br>Oklahoma<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/CAD3C55960"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
@@ -9312,17 +2529,10 @@
 <td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Assembler 2 (Internal Conversion Only)</td>
-<td style="word-break:break-word;">Senatobia<br>Mississippi<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00037628"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>genesisortho</strong></td>
-<td style="word-break:break-word;">Unpaid Pre-Health Clinical Internship</td>
-<td style="word-break:break-word;">Chicago<br>Illinois<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/140939582B"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>Ducommun</strong></td>
+<td style="word-break:break-word;">Entry Level Cable Assembler A/Inspection- 2nd...</td>
+<td style="word-break:break-word;">Joplin<br>MO<br>US</td>
+<td align="center"><a href="https://ducommun.csod.com/ux/ats/careersite/1/job/5661?c=ducommun"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
@@ -9333,157 +2543,10 @@
 <td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>Ducommun</strong></td>
-<td style="word-break:break-word;">Entry Level Cable Assembler A/Inspection- 2nd...</td>
-<td style="word-break:break-word;">Joplin<br>MO<br>US</td>
-<td align="center"><a href="https://ducommun.csod.com/ux/ats/careersite/1/job/5661?c=ducommun"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-ewlq-saasfapro...</strong></td>
-<td style="word-break:break-word;">Medical Nurse Practitioner- General Internal ...</td>
-<td style="word-break:break-word;">Memphis<br>TN<br>United States</td>
-<td align="center"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8447"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebrf.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Transition Coordinator II - Crestwood Campus</td>
-<td style="word-break:break-word;">Rochester<br>NY<br>United States</td>
-<td align="center"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3083"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egay.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Rotational Field Service Technician</td>
-<td style="word-break:break-word;">Odessa<br>TX<br>United States</td>
-<td align="center"><a href="https://egay.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#42076"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egup.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Global Internal and Transformation Communicat...</td>
-<td style="word-break:break-word;">Westerville<br>OH<br>United States</td>
-<td align="center"><a href="https://egup.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20274504"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15088"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebrf.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse I - Residential, Snell Farm ...</td>
-<td style="word-break:break-word;">Bath<br>NY<br>United States</td>
-<td align="center"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3085"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Roseburg<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720895"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Keizer<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720905"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fort Washington<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720697"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Allendale<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720772"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Chino Valley<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721181"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rockville<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721019"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Falmouth<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720737"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Queen Creek<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720916"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Midland<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721233"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Middletown<br>DE<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720824"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Flagstaff<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721261"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Cheyenne<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721362"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dana Point<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#721393"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Saint Helens<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719175"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Edgewater<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720791"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>genesisortho</strong></td>
+<td style="word-break:break-word;">Unpaid Pre-Health Clinical Internship</td>
+<td style="word-break:break-word;">Chicago<br>Illinois<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/140939582B"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
@@ -9515,34 +2578,6 @@
 <td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse- New Grad (RN), Med/Surg</td>
-<td style="word-break:break-word;">Athens<br>TN<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#312579"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>royal</strong></td>
-<td style="word-break:break-word;">Drafter Intern</td>
-<td style="word-break:break-word;">Baton Rouge<br>Louisiana<br>United States</td>
-<td align="center"><a href="https://royal.bamboohr.com/careers/72"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcwx.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Training Team Intern (Intern Program)</td>
-<td style="word-break:break-word;">Beachwood<br>OH<br>United States</td>
-<td align="center"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_6#14641"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Grad (RN), Med/Surg</td>
-<td style="word-break:break-word;">Athens<br>TN<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#314569"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>University of Ill...</strong></td>
 <td style="word-break:break-word;">Planner Campus Historic Preservation Officer</td>
 <td style="word-break:break-word;">Urbana<br>IL<br>US</td>
@@ -9550,164 +2585,10 @@
 <td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Legal Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36654"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Electrical Engineer</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88617"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Geotechnical Project Coordinator ...</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15016"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Horizontal Transmission Acoustical Technician...</td>
-<td style="word-break:break-word;">York<br>PA<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15032"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edbz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">DoD SkillBridge | Equipment Technician Intern</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25011121"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Structural Engineer (Buildings)</td>
-<td style="word-break:break-word;">Los Angeles<br>CA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88642"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Corporate Development Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36549"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Geotechnical Engineer</td>
-<td style="word-break:break-word;">Anchorage<br>AK<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88626"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Associate Medical Assistant - Internal Medicine</td>
-<td style="word-break:break-word;">Lubbock<br>TX<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#435868"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>erym.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Physician Office - FT - LPN - McLeod Internal...</td>
-<td style="word-break:break-word;">Dillon<br>SC<br>United States</td>
-<td align="center"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Washougal<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720007"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Randolph<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720013"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Whitehouse Station<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719951"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Stockton<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720589"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">2026 Graduate Intern</td>
-<td style="word-break:break-word;">Portland<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719999"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Dover Foxcroft<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720449"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Concord<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720374"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Coronado<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720242"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Gillette<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720463"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lakeport<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720539"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Schaumburg<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720029"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Astoria<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720016"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">2026 Pharmacy Graduate Intern- Washington &amp; A...</td>
-<td style="word-break:break-word;">Tacoma<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#720661"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>royal</strong></td>
+<td style="word-break:break-word;">Drafter Intern</td>
+<td style="word-break:break-word;">Baton Rouge<br>Louisiana<br>United States</td>
+<td align="center"><a href="https://royal.bamboohr.com/careers/72"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
@@ -9753,27 +2634,6 @@
 <td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Duncanville<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719767"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">25d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Long Beach<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719834"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">25d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kalispell<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719754"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">25d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Pony.ai</strong></td>
 <td style="word-break:break-word;">Software Engineer Intern (Generalist)</td>
 <td style="word-break:break-word;">Fremont<br>CA<br>United States</td>
@@ -9799,27 +2659,6 @@
 <td style="word-break:break-word;">Entry Level Recruiter</td>
 <td style="word-break:break-word;">Charlotte<br>North Carolina<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/73325EE2E2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">26d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hollister<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719622"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">26d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Simi Valley<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719644"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">26d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pendleton<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719667"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">26d</td>
 </tr>
 <tr>
@@ -9860,26 +2699,19 @@
 <tr>
 <td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Branch Operations Summer Internship</td>
-<td style="word-break:break-word;">Myrtle Beach<br>SC<br>US</td>
-<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1648/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Branch Operations Summer Internship</td>
-<td style="word-break:break-word;">New Braunfels<br>TX<br>US</td>
-<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1645/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Branch Operations Summer Internship</td>
 <td style="word-break:break-word;">San Antonio<br>TX<br>US</td>
 <td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1643/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;"><strong>indeed</strong></td>
+<td style="word-break:break-word;">Senior Manager, Software Engineering - Intern...</td>
+<td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
+<td align="center"><a href="https://careers-indeed.icims.com/jobs/47107/senior-manager%2c-software-engineering---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">27d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>marinerfinance</strong></td>
 <td style="word-break:break-word;">Branch Operations Summer Internship</td>
 <td style="word-break:break-word;">Bel Air<br>MD<br>US</td>
 <td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1654/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -9895,15 +2727,22 @@
 <tr>
 <td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Branch Operations Summer Internship</td>
-<td style="word-break:break-word;">Winterville<br>NC<br>US</td>
-<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1649/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">New Braunfels<br>TX<br>US</td>
+<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1645/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>indeed</strong></td>
-<td style="word-break:break-word;">Senior Manager, Software Engineering - Intern...</td>
-<td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
-<td align="center"><a href="https://careers-indeed.icims.com/jobs/47107/senior-manager%2c-software-engineering---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Branch Operations Summer Internship</td>
+<td style="word-break:break-word;">Myrtle Beach<br>SC<br>US</td>
+<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1648/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">27d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Branch Operations Summer Internship</td>
+<td style="word-break:break-word;">Winterville<br>NC<br>US</td>
+<td align="center"><a href="https://careers-marinerfinance.icims.com/jobs/1649/branch-operations-summer-internship/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
@@ -9949,27 +2788,6 @@
 <td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.snowflake...</strong></td>
-<td style="word-break:break-word;">Senior Software Engineer - Internal Observabi...</td>
-<td style="word-break:break-word;">Menlo Park<br>California<br>United States</td>
-<td align="center"><a href="https://careers.snowflake.com/job/b94addc9-8584-4f2f-ae1e-d528e197bfd8"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">Warehouse/Internal Logistics Supervisor - 2nd...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00037025"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>iazuqy.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Designated Campus Fire Marshal</td>
-<td style="word-break:break-word;">San Francisco<br>CA<br>United States</td>
-<td align="center"><a href="https://iazuqy.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2635"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>terabase-energy</strong></td>
 <td style="word-break:break-word;">Summer Intern - Mechanical Engineer &amp; IP</td>
 <td style="word-break:break-word;">Davis<br>California<br>United States</td>
@@ -9981,97 +2799,6 @@
 <td style="word-break:break-word;">Investment banking intern / venture capital i...</td>
 <td style="word-break:break-word;">Chicago<br>Illinois<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/C7AC230BC7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit Manager, Vice President - Comm...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210756005"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Lead Medical Assistant - Internal Medicine</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17864"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Welding Engineer</td>
-<td style="word-break:break-word;">Jacksonville<br>FL<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88550"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Senior LVN - Internal Medicine - $3,000 Sign ...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17868"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Medical Assistant - Internal Medicine</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17866"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cva.fa.us1.oracle...</strong></td>
-<td style="word-break:break-word;">EH&amp;S Intern</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://cva.fa.us1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9563"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Post<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719470"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Easton<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719360"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Andrews<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719566"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Warren<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719256"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Lahaina<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">North Bend<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719451"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Bryn Mawr<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719236"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
@@ -10103,17 +2830,17 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>bocusa</strong></td>
-<td style="word-break:break-word;">ADC/ADD Business Applications Intern</td>
-<td style="word-break:break-word;">New York<br>NY<br>US</td>
-<td align="center"><a href="https://careers-bocusa.icims.com/jobs/4350/adc-add-business-applications-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>epeconsulting</strong></td>
 <td style="word-break:break-word;">Power Systems Engineer Intern - Co-Op</td>
 <td style="word-break:break-word;">Austin<br>TX<br>US</td>
 <td align="center"><a href="https://careers-epeconsulting.icims.com/jobs/2156/power-systems-engineer-intern---co-op/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">28d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>bocusa</strong></td>
+<td style="word-break:break-word;">ADC/ADD Business Applications Intern</td>
+<td style="word-break:break-word;">New York<br>NY<br>US</td>
+<td align="center"><a href="https://careers-bocusa.icims.com/jobs/4350/adc-add-business-applications-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
@@ -10145,34 +2872,6 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>icfcjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Sr Internal Auditor</td>
-<td style="word-break:break-word;">Phoenix<br>AZ<br>United States</td>
-<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#113290"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>dane-street-llc</strong></td>
-<td style="word-break:break-word;">Board Certified Internal Medicine Physicians ...</td>
-<td style="word-break:break-word;">Seaford<br>Delaware<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/C62CB2E6D3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Board Certified Internal Medicine Physicians ...</td>
-<td style="word-break:break-word;">Stockton<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/760F06343E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Operations Intern-Supply Chain</td>
-<td style="word-break:break-word;">Portland<br>OR<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#198360"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>lifemdcareers</strong></td>
 <td style="word-break:break-word;">Product Management Intern</td>
 <td style="word-break:break-word;">New York<br>New York<br>United States</td>
@@ -10180,178 +2879,17 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Senior Internal Audit Associate - Model Risk</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210754589"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Senior Financial Analyst-Assoc in Internal Me...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3038592"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elar.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Outpatient Registered Nurse (RN) - Internal M...</td>
-<td style="word-break:break-word;">Fairfax<br>VA<br>United States</td>
-<td align="center"><a href="https://elar.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#681702"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">New Grad RN Residency</td>
-<td style="word-break:break-word;">Rock Hill<br>SC<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603014210"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efuq.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Resort Maintenance Technician I (Entry Level)</td>
-<td style="word-break:break-word;">Ridgedale<br>MO<br>United States</td>
-<td align="center"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20271"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>dane-street-llc</strong></td>
+<td style="word-break:break-word;">Board Certified Internal Medicine Physicians ...</td>
+<td style="word-break:break-word;">Stockton<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/760F06343E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Activities Facilitator (Entry Level)</td>
-<td style="word-break:break-word;">Williamsburg<br>VA<br>United States</td>
-<td align="center"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20325"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant - Internal Medicine</td>
-<td style="word-break:break-word;">Mission Viejo<br>CA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#431246"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eigx.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">SR MANAGER INTERNATIONAL</td>
-<td style="word-break:break-word;">Plano<br>TX<br>United States</td>
-<td align="center"><a href="https://eigx.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#51155"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcjy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">International and Operational Genetic Counselor</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://hcjy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#11538"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Structural Engineer (Renewables)</td>
-<td style="word-break:break-word;">Cottonwood Heights<br>UT<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#80975"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edbz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Manufacturing Maintenance Special...</td>
-<td style="word-break:break-word;">South Portland<br>ME<br>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25009599"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcun.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Engineer Co-Op</td>
-<td style="word-break:break-word;">HOPKINSVILLE<br>KENTUCKY<br>United States</td>
-<td align="center"><a href="https://hcun.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10274"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Kihei<br>HI<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719070"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Doylestown<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719111"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebez.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">IT Audit Senior Associate | Internal Audit | ...</td>
-<td style="word-break:break-word;">Tulsa<br>OK<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5704"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">IT Audit Senior Associate | Internal Audit | ...</td>
-<td style="word-break:break-word;">Oklahoma City<br>OK<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5705"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Plainview<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719004"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Downey<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718966"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Waldorf<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719168"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Coquille<br>OR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719082"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Wheat Ridge<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718928"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brownwood<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718830"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejof.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Student Worker - Audience Research and Data A...</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20541"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecge.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Auditor, Principal</td>
-<td style="word-break:break-word;">Oakland<br>CA<br>United States</td>
-<td align="center"><a href="https://ecge.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20261089"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Inglewood<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#719207"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Board Certified Internal Medicine Physicians ...</td>
+<td style="word-break:break-word;">Seaford<br>Delaware<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/C62CB2E6D3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
@@ -10398,6 +2936,13 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>PlusAI</strong></td>
+<td style="word-break:break-word;">Research Engineer Intern (Mapping &amp; Localizat...</td>
+<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/research-engineer-intern-mapping-localization_santa-clara-ca_7rwf7ove"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">29d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Research Engineer Intern</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/research-engineer-intern_santa-clara-ca_nm7encur"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -10418,31 +2963,10 @@
 <td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Research Engineer Intern (Mapping &amp; Localizat...</td>
-<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/research-engineer-intern-mapping-localization_santa-clara-ca_7rwf7ove"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.abb</strong></td>
-<td style="word-break:break-word;">ELDS Warehouse/Internal Logistics Operator 2n...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00026194"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">ELDS Warehouse Internal Logistics Operator 1s...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00033987"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">ELDS Warehouse/Internal Logistics Operator 1s...</td>
-<td style="word-break:break-word;">Mebane<br>North Carolina<br>United States of America</td>
-<td align="center"><a href="https://careers.abb/job/JR00029167"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>Entravision</strong></td>
+<td style="word-break:break-word;">Sales Assistant Intern</td>
+<td style="word-break:break-word;">Albuquerque<br>NM<br>US</td>
+<td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5048?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
@@ -10457,167 +2981,6 @@
 <td style="word-break:break-word;">WASH Intern</td>
 <td style="word-break:break-word;">Denver<br>Colorado<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/16AA7E0F42"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Planning Intern: CTR Store Replenis...</td>
-<td style="word-break:break-word;">Blue Ash<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#198149"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (RN), Internal Medicine Clinic</td>
-<td style="word-break:break-word;">Hancock<br>MI<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#344321"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Planning Intern: Demand Planning-Su...</td>
-<td style="word-break:break-word;">Blue Ash<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#198147"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Planning Intern:  Fresh Replenishme...</td>
-<td style="word-break:break-word;">Blue Ash<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#198143"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit Manager, Vice President - Cons...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210753607"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Planning Intern: Supply Planning Fr...</td>
-<td style="word-break:break-word;">Blue Ash<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196854"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>Entravision</strong></td>
-<td style="word-break:break-word;">Sales Assistant Intern</td>
-<td style="word-break:break-word;">Albuquerque<br>NM<br>US</td>
-<td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5048?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">AI R&amp;D Engineer Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36941"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">AI R&amp;D Engineering Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36946"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edbz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career: IT Infrastructure - Storage Eng...</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25011067"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Early Career: IT Infrastructure - Network Eng...</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25011069"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>enmv.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Speech Language Intern - District-Wide</td>
-<td style="word-break:break-word;">CO<br>United States</td>
-<td align="center"><a href="https://enmv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1013451"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Administrative Intern, Part Time, First Shift</td>
-<td style="word-break:break-word;">West Chester<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23024"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Whitefish<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718652"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Woodinville<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718571"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Galveston<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718568"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejof.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Student Worker - Athletic Performance Student...</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20526"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Student Worker - Baylor Eats Financial Intern...</td>
-<td style="word-break:break-word;">Waco<br>TX<br>United States</td>
-<td align="center"><a href="https://ejof.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#20530"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Thatcher<br>AZ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718691"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebez.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Business Process Audit Senior Associate | Int...</td>
-<td style="word-break:break-word;">Tulsa<br>OK<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5703"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebcs.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Transportation Planning Intern</td>
-<td style="word-break:break-word;">Irvine<br>CA<br>United States</td>
-<td align="center"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#40012"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Braintree<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718683"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Woodland Park<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718586"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
@@ -10698,13 +3061,6 @@
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>elvespeed</strong></td>
-<td style="word-break:break-word;">Internship: General Application</td>
-<td style="word-break:break-word;">Davis<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/779857CBC3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Turner Construction</strong></td>
 <td style="word-break:break-word;">SB Supply Chain Intern-Fall 2026 (Memphis)</td>
 <td style="word-break:break-word;">Memphis<br>TN<br>US</td>
@@ -10712,192 +3068,10 @@
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">New Graduate Registered Nurse (RN)</td>
-<td style="word-break:break-word;">Framingham<br>MA<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603003989"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Lab Engineer Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36260"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>etud.fa.us8.oracl...</strong></td>
-<td style="word-break:break-word;">Intern Bachelor of Social Work</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://etud.fa.us8.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4959"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Intern Master of Social Work</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://etud.fa.us8.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4957"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Intern Masters in Counseling</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://etud.fa.us8.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4958"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">HR Generalist - East Campus</td>
-<td style="word-break:break-word;">El Paso<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603010903"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">University of California, San Diego -Pearson ...</td>
-<td style="word-break:break-word;">San Diego<br>CA<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24416"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdox.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Summer Intern</td>
-<td style="word-break:break-word;">Lenexa<br>KS<br>United States</td>
-<td align="center"><a href="https://hdox.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#60031"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebrf.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Family Peer Advocate I or II Residential Camp...</td>
-<td style="word-break:break-word;">Auburn<br>NY<br>United States</td>
-<td align="center"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3068"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>etud.fa.us8.oracl...</strong></td>
-<td style="word-break:break-word;">Intern APRN</td>
-<td style="word-break:break-word;">Pensacola<br>FL<br>United States</td>
-<td align="center"><a href="https://etud.fa.us8.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4960"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse New Graduate  (RN) - Telemetry</td>
-<td style="word-break:break-word;">San Antonio<br>TX<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603001431"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eppr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">SB Intern, First Officer</td>
-<td style="word-break:break-word;">Lake Success<br>Nassau<br>United States</td>
-<td align="center"><a href="https://eppr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#189405"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Silicon Photonics Packaging Engineer Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36997"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">NetSuite Customer Success Special Projects In...</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334352"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Mechanical Packaging Engineer Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36995"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Structural Engineer</td>
-<td style="word-break:break-word;">Meridian<br>ID<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88246"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">California State University, Sacramento-Pears...</td>
-<td style="word-break:break-word;">Sacramento<br>CA<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24420"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Brandywine<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718019"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Owings Mills<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718398"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Ipswich<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717997"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Milford<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718186"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Laguna Niguel<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717909"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Saint Helena<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718292"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Oak Ridge<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718372"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Greenwich<br>CT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718380"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Silvis<br>IL<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718095"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Culpeper<br>VA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#718367"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>elvespeed</strong></td>
+<td style="word-break:break-word;">Internship: General Application</td>
+<td style="word-break:break-word;">Davis<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/779857CBC3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
@@ -10915,17 +3089,17 @@
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>plansys</strong></td>
-<td style="word-break:break-word;">Physician - Internal Medicine</td>
-<td style="word-break:break-word;">Las Vegas<br>NV<br>US</td>
-<td align="center"><a href="https://careers-plansys.icims.com/jobs/11626/physician---internal-medicine/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>ql</strong></td>
 <td style="word-break:break-word;">Physician - Internal Medicine</td>
 <td style="word-break:break-word;">Las Vegas<br>NV<br>US</td>
 <td align="center"><a href="https://careers-ql.icims.com/jobs/11626/physician---internal-medicine/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>plansys</strong></td>
+<td style="word-break:break-word;">Physician - Internal Medicine</td>
+<td style="word-break:break-word;">Las Vegas<br>NV<br>US</td>
+<td align="center"><a href="https://careers-plansys.icims.com/jobs/11626/physician---internal-medicine/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -10937,13 +3111,6 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>PlusAI</strong></td>
-<td style="word-break:break-word;">Software Engineer Intern (Runtime, Robotics)</td>
-<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/software-engineer-intern-runtime-robotics_santa-clara-ca_j5wfvtcn"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Robotics Systems Intern (Sensor Platform)</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/robotics-systems-intern-sensor-platform_santa-clara-ca_ib5dwwga"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -10951,9 +3118,9 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Software Engineer Intern (Robotics)</td>
+<td style="word-break:break-word;">Software Engineer Intern (Runtime, Robotics)</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/software-engineer-intern-robotics_santa-clara-ca_4dobdvvu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/software-engineer-intern-runtime-robotics_santa-clara-ca_j5wfvtcn"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -10964,87 +3131,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Software Engineer Intern (Robotics)</td>
+<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/software-engineer-intern-robotics_santa-clara-ca_4dobdvvu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>jobs.virginia.edu</strong></td>
 <td style="word-break:break-word;">Athletic Operations Intern (Staff Wage)</td>
 <td style="word-break:break-word;">Charlottesville<br>Virginia<br>United States of America</td>
 <td align="center"><a href="https://jobs.virginia.edu/job/R0083827"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Continuous Improvement Intern- Supp...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196850"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">2026 Commodities Trading Internship Program</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210752778"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Operations Intern- Supply Chain</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196834"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Human Resources Intern- Supply Chain</td>
-<td style="word-break:break-word;">Aurora<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196845"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Operations/Manufacturing Intern- Su...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196847"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Quality Intern- Supply Chain</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196828"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Supply Chain Intern- Supply Chain</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196855"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Operations/Maintenance Intern- Supp...</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196857"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Fall 2026 Maintenance /Operation Intern- Supp...</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196856"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>University of Nor...</strong></td>
-<td style="word-break:break-word;">Adjunct Hiring Pool - Political Science &amp; Int...</td>
-<td style="word-break:break-word;">Greeley<br>CO<br>US</td>
-<td align="center"><a href="https://unco.csod.com/ux/ats/careersite/1/job/989?c=unco"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 Engineering Intern- Supply Chain</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#196838"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11055,80 +3152,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ejov.fa.ca2.oracl...</strong></td>
-<td style="word-break:break-word;">Graduate Engineer - Water</td>
-<td style="word-break:break-word;">COLUMBIA<br>SC<br>United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23319"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Software Development Coop</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36934"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efds.fa.em5.oracl...</strong></td>
-<td style="word-break:break-word;">Technology Internal Auditor</td>
-<td style="word-break:break-word;">Dearborn<br>MI<br>United States</td>
-<td align="center"><a href="https://efds.fa.em5.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#63890"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Ohio University - Pearson Campus Ambassador</td>
-<td style="word-break:break-word;">Athens<br>OH<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24517"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elfw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">LPN Licensed Practical Nurse - Internal Medic...</td>
-<td style="word-break:break-word;">Vestal<br>NY<br>United States</td>
-<td align="center"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22343"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejhp.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">2027 R&amp;D Product Engineering Co-Op</td>
-<td style="word-break:break-word;">Brecksville<br>OH<br>United States</td>
-<td align="center"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2613523"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Las Cruces<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717726"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egoh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Cook - Multiple Dining Venues</td>
-<td style="word-break:break-word;">Durant<br>OK<br>United States</td>
-<td align="center"><a href="https://egoh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#27402"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Freeport<br>ME<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717734"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Peabody<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717717"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Concord<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717499"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>University of Nor...</strong></td>
+<td style="word-break:break-word;">Adjunct Hiring Pool - Political Science &amp; Int...</td>
+<td style="word-break:break-word;">Greeley<br>CO<br>US</td>
+<td align="center"><a href="https://unco.csod.com/ux/ats/careersite/1/job/989?c=unco"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11153,41 +3180,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Fullerton<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717295"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">La Crescenta<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717381"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newburyport<br>MA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717286"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebqb.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Tax Manager, Customs &amp; International Trade</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://ebqb.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#12579"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sun City<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717345"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>jobs.baesystems.com</strong></td>
 <td style="word-break:break-word;">Entry Level Software Engineer</td>
 <td style="word-break:break-word;">Totowa<br>New Jersey<br>United States</td>
@@ -11203,23 +3195,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Etched</strong></td>
-<td style="word-break:break-word;">Product Development Intern (Intern)</td>
-<td style="word-break:break-word;">San Jose<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/product-development-intern-intern_san-jose_xscqxvqy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Thermo-Mechanical Intern (CFD Simulation)</td>
 <td style="word-break:break-word;">San Jose<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/thermo-mechanical-intern-cfd-simulation_san-jose_f7y4memy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Saddle Brook<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#717109"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Product Development Intern (Intern)</td>
+<td style="word-break:break-word;">San Jose<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/product-development-intern-intern_san-jose_xscqxvqy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11280,16 +3265,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>PlusAI</strong></td>
-<td style="word-break:break-word;">Machine Learning Engineer Intern (Planning)</td>
+<td style="word-break:break-word;">Machine Learning Engineer Intern</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-planning_santa-clara-ca_vlkogzge"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern_santa-clara-ca_65ux4p2k"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Machine Learning Engineer Intern</td>
+<td style="word-break:break-word;">Machine Learning Engineer Intern (Planning)</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern_santa-clara-ca_65ux4p2k"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-planning_santa-clara-ca_vlkogzge"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11329,30 +3314,9 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Turner Construction</strong></td>
-<td style="word-break:break-word;">Intern - Spring 2027 (Detroit)</td>
-<td style="word-break:break-word;">Detroit<br>MI<br>US</td>
-<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20331?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>youngliving</strong></td>
-<td style="word-break:break-word;">Senior Manager, International Product Marketing</td>
-<td style="word-break:break-word;">Lehi<br>Utah<br>United States</td>
-<td align="center"><a href="https://youngliving.bamboohr.com/careers/184"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>pony-dot-ai</strong></td>
-<td style="word-break:break-word;">Software Engineer Intern - Generalist</td>
-<td style="word-break:break-word;">Fremont<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/BA5FFDBC71"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Payments Associate - Commercial...</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210752916"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Intern - Spring 2027 (Cleveland)</td>
+<td style="word-break:break-word;">Cleveland<br>OH<br>US</td>
+<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20329?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11364,20 +3328,6 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Turner Construction</strong></td>
-<td style="word-break:break-word;">Intern - Fall 2026 (Detroit)</td>
-<td style="word-break:break-word;">Detroit<br>MI<br>US</td>
-<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20330?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Intern - Spring 2027 (Cleveland)</td>
-<td style="word-break:break-word;">Cleveland<br>OH<br>US</td>
-<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20329?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Intern - Fall 2026 (Cleveland)</td>
 <td style="word-break:break-word;">Cleveland<br>OH<br>US</td>
 <td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20328?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -11391,87 +3341,31 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Chief Nursing Officer - Abrazo Arrowhead Campus</td>
-<td style="word-break:break-word;">Glendale<br>AZ<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603013185"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Distribution Electrical Designer</td>
-<td style="word-break:break-word;">Foxboro<br>MA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88076"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Early Career Electrical Engineer</td>
-<td style="word-break:break-word;">Foxboro<br>MA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#88077"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Intern - Spring 2027 (Detroit)</td>
+<td style="word-break:break-word;">Detroit<br>MI<br>US</td>
+<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20331?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#15087"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>youngliving</strong></td>
+<td style="word-break:break-word;">Senior Manager, International Product Marketing</td>
+<td style="word-break:break-word;">Lehi<br>Utah<br>United States</td>
+<td align="center"><a href="https://youngliving.bamboohr.com/careers/184"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Pennsville<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716769"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>Turner Construction</strong></td>
+<td style="word-break:break-word;">Intern - Fall 2026 (Detroit)</td>
+<td style="word-break:break-word;">Detroit<br>MI<br>US</td>
+<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20330?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Boothwyn<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716962"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Centreville<br>MD<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716913"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Hereford<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716990"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Littleton<br>NH<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716711"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Poultney<br>VT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716713"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Newtown Square<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716726"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Los Lunas<br>NM<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716742"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>pony-dot-ai</strong></td>
+<td style="word-break:break-word;">Software Engineer Intern - Generalist</td>
+<td style="word-break:break-word;">Fremont<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/BA5FFDBC71"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11497,6 +3391,13 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>PlusAI</strong></td>
+<td style="word-break:break-word;">Machine Learning Engineer Intern (Scenario Si...</td>
+<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-scenario-simulation_santa-clara-ca_rnfdzfbo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Simulation Engineer Intern</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/simulation-engineer-intern_santa-clara-ca_frcfqw2a"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -11507,13 +3408,6 @@
 <td style="word-break:break-word;">Machine Learning Engineer Intern (Scenario Ge...</td>
 <td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-scenario-generation_santa-clara-ca_i7d7bifs"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Machine Learning Engineer Intern (Scenario Si...</td>
-<td style="word-break:break-word;">Santa Clara<br>CA<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/Sl7Enq/jobs/machine-learning-engineer-intern-scenario-simulation_santa-clara-ca_rnfdzfbo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11531,13 +3425,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>odk-media</strong></td>
-<td style="word-break:break-word;">Social Media Content Intern (Unpaid)</td>
-<td style="word-break:break-word;">Irvine<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/4C06CB6D2D"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Entravision</strong></td>
 <td style="word-break:break-word;">Sales Assistant Intern</td>
 <td style="word-break:break-word;">Sacramento<br>CA<br>US</td>
@@ -11552,108 +3439,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Licensed Practical Nurse (LPN) Internal Medic...</td>
-<td style="word-break:break-word;">Somerset<br>KY<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#342894"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eabw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internet DevOps Engineering Lead</td>
-<td style="word-break:break-word;">Mansfield<br>TX<br>United States</td>
-<td align="center"><a href="https://eabw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#30918"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">AI R&amp;D Engineer Coop</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36914"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Mechanical Engineer - Buildings</td>
-<td style="word-break:break-word;">Los Angeles<br>CA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87984"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Geotechnical Engineering Intern - Summer 2026</td>
-<td style="word-break:break-word;">El Paso<br>TX<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87999"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">M&amp;D Customer Solutions Analyst Intern - OVIP</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334388"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elfw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Intern - Retail Pharmacy - Per Diem</td>
-<td style="word-break:break-word;">Corning<br>NY<br>United States</td>
-<td align="center"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22608"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epgr.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Service Assistant-The Smokehouse Coop (Full-T...</td>
-<td style="word-break:break-word;">Cherokee<br>NC<br>United States</td>
-<td align="center"><a href="https://epgr.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7160"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">M&amp;D Operations Planning Intern - OVIP</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334366"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Bridge/Structural Engineering Intern - Transp...</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006049"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egmk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Commercial Excellence &amp; Finance Intern</td>
-<td style="word-break:break-word;">Pittsburgh<br>PA<br>United States</td>
-<td align="center"><a href="https://egmk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4296"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcwp.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Co-Op Student</td>
-<td style="word-break:break-word;">Monroe<br>CT<br>United States</td>
-<td align="center"><a href="https://hcwp.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2012581"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716484"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rancho Cucamonga<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716675"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Renton<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#716582"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>odk-media</strong></td>
+<td style="word-break:break-word;">Social Media Content Intern (Unpaid)</td>
+<td style="word-break:break-word;">Irvine<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/4C06CB6D2D"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11692,13 +3481,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.itw.com</strong></td>
-<td style="word-break:break-word;">Chemist Intern</td>
-<td style="word-break:break-word;">San Luis Obispo<br>California<br>United States of America</td>
-<td align="center"><a href="https://careers.itw.com/job/JR8061"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Tech Ops Engineer Intern  - Fall 2026, AWS Da...</td>
 <td style="word-break:break-word;">Jeffersonville<br>Ohio<br>USA</td>
@@ -11706,31 +3488,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fa-ewlq-saasfapro...</strong></td>
-<td style="word-break:break-word;">Instructor - Internal Medicine (Knoxville, TN)</td>
-<td style="word-break:break-word;">Knoxville<br>TN<br>United States</td>
-<td align="center"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8291"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit, Technology Audit Director, Co...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210751910"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>Turner Construction</strong></td>
-<td style="word-break:break-word;">Intern - Houston</td>
-<td style="word-break:break-word;">Houston<br>TX<br>US</td>
-<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/17580?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Entravision</strong></td>
 <td style="word-break:break-word;">Sales Assistant Intern</td>
-<td style="word-break:break-word;">McAllen<br>TX<br>US</td>
-<td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5035?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Las Vegas<br>NV<br>US</td>
+<td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5039?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11743,8 +3504,15 @@
 <tr>
 <td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Sales Assistant Intern</td>
-<td style="word-break:break-word;">Las Vegas<br>NV<br>US</td>
-<td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5039?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">McAllen<br>TX<br>US</td>
+<td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5035?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>Turner Construction</strong></td>
+<td style="word-break:break-word;">Intern - Houston</td>
+<td style="word-break:break-word;">Houston<br>TX<br>US</td>
+<td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/17580?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11752,62 +3520,6 @@
 <td style="word-break:break-word;">Entry-Level Reliability Test Technician</td>
 <td style="word-break:break-word;">Redmond<br>Washington<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/779C44A840"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Photonic Integrated Circuits Test Coop</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36486"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebrf.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Supervisor - Monroe Campus</td>
-<td style="word-break:break-word;">Rochester<br>NY<br>United States</td>
-<td align="center"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2944"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Service Rep - Internal Medicine (days...</td>
-<td style="word-break:break-word;">Beverly Hills<br>CA<br>United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17806"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">New Grad Registered Nurse (RN) - Telemetry</td>
-<td style="word-break:break-word;">Tucson<br>AZ<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2503030267"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant I- Internal Medicine - Hewl...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3038615"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">SCA Project Manager Intern - OVIP</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334344"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Medical Assistant, Full-Time, First Shift, In...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22868"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Mechanical Engineer - Buildings</td>
-<td style="word-break:break-word;">Riverside<br>CA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87884"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11846,10 +3558,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>eluq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PHARMACY/PHARMCST-INTERN</td>
-<td style="word-break:break-word;">Savannah<br>GA<br>United States</td>
-<td align="center"><a href="https://eluq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#162159"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>thecalendargroup</strong></td>
+<td style="word-break:break-word;">Personal Assistant - (International and Domes...</td>
+<td style="word-break:break-word;">United States</td>
+<td align="center"><a href="https://thecalendargroup.applytojob.com/apply/jobs/details/gf5Bx2flpW"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11860,13 +3572,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>thecalendargroup</strong></td>
-<td style="word-break:break-word;">Personal Assistant - (International and Domes...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://thecalendargroup.applytojob.com/apply/jobs/details/gf5Bx2flpW"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>kellystrayhorn</strong></td>
 <td style="word-break:break-word;">FINANCE &amp; OPERATIONS ASSOCIATE INTERNSHIP AT KST</td>
 <td style="word-break:break-word;">United States</td>
@@ -11874,87 +3579,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Field Technician I - Construction</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14258"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Structural Engineer (Buildings)</td>
-<td style="word-break:break-word;">San Diego<br>CA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87821"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epyz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Respiratory Therapy - Co-Op</td>
-<td style="word-break:break-word;">Wilmington<br>DE<br>United States</td>
-<td align="center"><a href="https://epyz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18962"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Retail Sales Support Specialist - Tommy Hilfi...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_781061"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>erym.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Physician Office Clinical RN - McLeod Interna...</td>
-<td style="word-break:break-word;">Dillon<br>SC<br>United States</td>
-<td align="center"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25813"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Optical Test Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36616"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hctz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Fall 2026 - Electrical Device Characterizatio...</td>
-<td style="word-break:break-word;">San Jose<br>CA<br>United States</td>
-<td align="center"><a href="https://hctz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2505101"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">GME Program Manager, Internal Medicine-Cardio...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22914"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eoje.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">AI Engineer Intern - USA</td>
-<td style="word-break:break-word;">PLANO<br>TX<br>United States</td>
-<td align="center"><a href="https://eoje.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#6315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>indeed</strong></td>
 <td style="word-break:break-word;">Assistant Manager, Payroll - Internal Only</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
 <td align="center"><a href="https://careers-indeed.icims.com/jobs/47063/assistant-manager%2c-payroll---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level-FRONT END MANAGER</td>
-<td style="word-break:break-word;">Kenai<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#715327"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Laurel<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#712251"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -11979,38 +3607,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ebwv.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Line Cook | Fairfield Inn Harrisburg Internat...</td>
-<td style="word-break:break-word;">Middletown<br>PA<br>United States</td>
-<td align="center"><a href="https://ebwv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#235825"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">M&amp;D Operations Analyst Intern - OVIP</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334371"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">McCall<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#715066"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Astranis</strong></td>
 <td style="word-break:break-word;">Electrical Integration Associate (Avionics, F...</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/electrical-integration-associate-avionics-fall-2026_san-francisco_q2tciz6t"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">CEGIU Demo Data Strategy Intern - OVIP</td>
-<td style="word-break:break-word;">Redwood City<br>CA<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334396"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12070,13 +3670,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>persistentsystems</strong></td>
-<td style="word-break:break-word;">Intern - Embedded Software Engineer (Summer 2...</td>
-<td style="word-break:break-word;">New York<br>NY<br>US</td>
-<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2258/intern---embedded-software-engineer-%28summer-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>scsengineers</strong></td>
 <td style="word-break:break-word;">Entry-level Civil or Environmental Engineer -...</td>
 <td style="word-break:break-word;">Tampa<br>FL<br>US</td>
@@ -12088,6 +3681,13 @@
 <td style="word-break:break-word;">Senior FinOps Analyst - Cloud Usage Intellige...</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>US</td>
 <td align="center"><a href="https://careers-indeed.icims.com/jobs/47102/senior-finops-analyst---cloud-usage-intelligence---internal-only/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>persistentsystems</strong></td>
+<td style="word-break:break-word;">Intern - Embedded Software Engineer (Summer 2...</td>
+<td style="word-break:break-word;">New York<br>NY<br>US</td>
+<td align="center"><a href="https://careers-persistentsystems.icims.com/jobs/2258/intern---embedded-software-engineer-%28summer-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12133,13 +3733,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Certified Medical Assistant (CMA) Internal Me...</td>
-<td style="word-break:break-word;">Pasco<br>WA<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334607"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Manager, Applied Science, International Selle...</td>
 <td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
@@ -12148,79 +3741,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>quadric-dot-i-o-inc</strong></td>
-<td style="word-break:break-word;">AI Kernel Engineer Intern - Kernel Optimization</td>
-<td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/6BEF4752B5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">AI Inference Engineer Intern - Model Pruning</td>
 <td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/870833317E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Private Bank- Associate Banker</td>
-<td style="word-break:break-word;">Miami<br>FL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210751205"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">ONA AI Agent Intern (Logistics Focus) - OVIP</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334345"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">OCI Software Engineer Intern - OVIP</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334325"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">OCI Software Engineer Intern - OVIP</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334333"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edbz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Manufacturing Maintenance Special...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25002883"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level - Field Construction Technician</td>
-<td style="word-break:break-word;">Kaukauna<br>WI<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14898"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Homer<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#714416"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Pharmacy Graduate Intern</td>
-<td style="word-break:break-word;">Santa Rosa<br>CA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#714530"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Duvall<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#714461"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">AI Kernel Engineer Intern - Kernel Optimization</td>
+<td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/6BEF4752B5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12406,6 +3936,13 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>covenanthealth</strong></td>
+<td style="word-break:break-word;">Respiratory Therapy Intern, Cardiopulmonary S...</td>
+<td style="word-break:break-word;">Lenoir City<br>TN<br>US</td>
+<td align="center"><a href="https://careers-covenanthealth.icims.com/jobs/74013/resp-therapy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>indeed</strong></td>
 <td style="word-break:break-word;">Director, Client Development - INTERNAL ONLY</td>
 <td style="word-break:break-word;">Scottsdale<br>AZ<br>US</td>
@@ -12420,21 +3957,7 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>covenanthealth</strong></td>
-<td style="word-break:break-word;">Respiratory Therapy Intern, Cardiopulmonary S...</td>
-<td style="word-break:break-word;">Lenoir City<br>TN<br>US</td>
-<td align="center"><a href="https://careers-covenanthealth.icims.com/jobs/74013/resp-therapy-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Etched</strong></td>
-<td style="word-break:break-word;">Chip Simulation Software Intern</td>
-<td style="word-break:break-word;">San Jose<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/chipsim-intern-12-week-internship_san-jose_y3cqp6hz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">GTM Intern</td>
 <td style="word-break:break-word;">San Jose<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/gtm-intern_san-jose_2ea2dqxr"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -12448,6 +3971,13 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Chip Simulation Software Intern</td>
+<td style="word-break:break-word;">San Jose<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/chipsim-intern-12-week-internship_san-jose_y3cqp6hz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>jobs.applied.com</strong></td>
 <td style="word-break:break-word;">Customer Sales and Service Intern</td>
 <td style="word-break:break-word;">Greenville<br>North Carolina<br>United States of America</td>
@@ -12455,94 +3985,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Product Sales Specialist - Comm...</td>
-<td style="word-break:break-word;">San Francisco<br>CA<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210751404"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Entravision</strong></td>
 <td style="word-break:break-word;">Sales Assistant Intern</td>
 <td style="word-break:break-word;">Phoenix<br>AZ<br>US</td>
 <td align="center"><a href="https://entravision.csod.com/ux/ats/careersite/1/job/5030?c=entravision"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient* East Campus Hospi...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#13580"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Intern</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#435099"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecsr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant, Pharmacology</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008330"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eswt.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Physician Services Specialist, Internal Medic...</td>
-<td style="word-break:break-word;">Cincinnati<br>OH<br>United States</td>
-<td align="center"><a href="https://eswt.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22891"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Field Technician - Construction - Entry Level...</td>
-<td style="word-break:break-word;">Tukwila<br>WA<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14889"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Plumbing &amp; Fire Protection Engineering Co-op ...</td>
-<td style="word-break:break-word;">Philadelphia<br>PA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87101"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Mechanical Engineering Co-op - Fall 2026/Wint...</td>
-<td style="word-break:break-word;">Philadelphia<br>PA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87100"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Electrical Engineering Co-op - Fall 2026/Wint...</td>
-<td style="word-break:break-word;">Philadelphia<br>PA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87098"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant III (Dr Gulli&#x27;s Lab) (Non-...</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3038400"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebcs.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Roadway Design Intern</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#41127"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Horsham<br>PA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#714411"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12616,115 +4062,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fa-ewlq-saasfapro...</strong></td>
-<td style="word-break:break-word;">Research Assistant: Institute for a Secure an...</td>
-<td style="word-break:break-word;">Knoxville<br>TN<br>United States</td>
-<td align="center"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8204"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Commercial Banker - Disruptive Commerce &amp; Int...</td>
-<td style="word-break:break-word;">Miami<br>FL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750763"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">DRC Customer Success Intern - OVIP</td>
-<td style="word-break:break-word;">Colorado Springs<br>CO<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334391"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">GDI Information Security Analyst Intern - OVIP</td>
-<td style="word-break:break-word;">Reston<br>VA<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334389"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cva.fa.us1.oracle...</strong></td>
-<td style="word-break:break-word;">Entry-Level Bench Operator</td>
-<td style="word-break:break-word;">Milton<br>VT<br>United States</td>
-<td align="center"><a href="https://cva.fa.us1.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9435"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edqv.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Telecommunications Intern- Sales Engineering</td>
-<td style="word-break:break-word;">Anchorage<br>AK<br>United States</td>
-<td align="center"><a href="https://edqv.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21003512"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwb.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Service Engineer</td>
-<td style="word-break:break-word;">Marlborough<br>MA<br>United States</td>
-<td align="center"><a href="https://ebwb.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#11702"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehzq.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">International Tax Manager - Internal Tax Group</td>
-<td style="word-break:break-word;">Downers Grove<br>IL<br>United States</td>
-<td align="center"><a href="https://ehzq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#115005"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">GDI Business Analyst Intern - OVIP</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334390"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdkk.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Medicine - Primary Care - Valley Int...</td>
-<td style="word-break:break-word;">Tarzana<br>CA<br>United States</td>
-<td align="center"><a href="https://hdkk.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#17660"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdhl.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Transportation Engineering Co-op/Intern (Fall...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1005928"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Compliance Data Scientist Coop</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36308"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejql.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Child Care Assistant Teacher: La Petie Academ...</td>
-<td style="word-break:break-word;">Melbourne<br>FL<br>United States</td>
-<td align="center"><a href="https://ejql.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#214765"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Lead Child Care Teacher: La Petie Academy, De...</td>
-<td style="word-break:break-word;">Melbourne<br>FL<br>United States</td>
-<td align="center"><a href="https://ejql.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#214762"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>aacipl</strong></td>
 <td style="word-break:break-word;">International Operations Lead</td>
 <td style="word-break:break-word;">New York<br>United States</td>
 <td align="center"><a href="https://join.com/companies/aacipl/jobs/16366422-international-operations-lead"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.marsh.com</strong></td>
-<td style="word-break:break-word;">Public Cloud Administrator (Entry Level)</td>
-<td style="word-break:break-word;">Louisville<br>Kentucky<br>United States of America</td>
-<td align="center"><a href="https://careers.marsh.com/job/R_346358"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12735,13 +4076,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fridababy</strong></td>
-<td style="word-break:break-word;">Performance Marketing Manager, Amazon Interna...</td>
-<td style="word-break:break-word;">Miami<br>Florida<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/DA86334907"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>plugandplaytechce...</strong></td>
 <td style="word-break:break-word;">Program &amp; Events Intern (Korean team)</td>
 <td style="word-break:break-word;">Sunnyvale<br>California<br>United States</td>
@@ -12749,115 +4083,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit Manager - Vice President - Ass...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210748471"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Asset Management - Internal Client Advisor In...</td>
-<td style="word-break:break-word;">Chicago<br>IL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210736882"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>elfw.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Intern - Pharmacy - Per Diem</td>
-<td style="word-break:break-word;">Binghamton<br>NY<br>United States</td>
-<td align="center"><a href="https://elfw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#16410"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">OCI Network Development Engineer Intern - OVIP</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334341"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">NAA EPM Solution Engineer Intern - OVIP</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334358"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">NetSuite Customer Success Special Projects In...</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334350"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edel.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Tax Intern</td>
-<td style="word-break:break-word;">Sunnyvale<br>CA<br>United States</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#23026"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eglz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Intern PD</td>
-<td style="word-break:break-word;">Santa Barbara<br>CA<br>United States</td>
-<td align="center"><a href="https://eglz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#13682"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebwh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Beauty Counter Manager - Lancome, West Dade M...</td>
-<td style="word-break:break-word;">Doral<br>FL<br>United States</td>
-<td align="center"><a href="https://ebwh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#REQ_778196"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Patient Navigator-Wound/Ostomy East Campus Ho...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14905"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">OCI Network Development Engineer Intern - OVIP</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334337"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">OH Product Manager Intern - OVIP</td>
-<td style="word-break:break-word;">Kansas City<br>MO<br>United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334348"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern-EHR Business</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14554"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Geotechnical Engineer</td>
-<td style="word-break:break-word;">Charlotte<br>NC<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87357"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eeho.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">M&amp;D Financial Analyst Intern - OVIP</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://eeho.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#334382"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Environmental Planner</td>
-<td style="word-break:break-word;">Saint Louis<br>MO<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#87288"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>fridababy</strong></td>
+<td style="word-break:break-word;">Performance Marketing Manager, Amazon Interna...</td>
+<td style="word-break:break-word;">Miami<br>Florida<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/DA86334907"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12882,6 +4111,13 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>ipconfigure</strong></td>
+<td style="word-break:break-word;">Software Development Internship for Video Sur...</td>
+<td style="word-break:break-word;">Norfolk<br>Virginia<br>United States</td>
+<td align="center"><a href="https://ipconfigure.bamboohr.com/careers/71"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>Ducommun</strong></td>
 <td style="word-break:break-word;">EHS Specialist Intern</td>
 <td style="word-break:break-word;">Gardena<br>CA<br>US</td>
@@ -12893,62 +4129,6 @@
 <td style="word-break:break-word;">Design Verification Intern</td>
 <td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/AAE0675990"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ibnjjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Licensed Practical Nurse (LPN) - Internal Med...</td>
-<td style="word-break:break-word;">Hickory<br>NC<br>United States</td>
-<td align="center"><a href="https://ibnjjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#342348"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ipconfigure</strong></td>
-<td style="word-break:break-word;">Software Development Internship for Video Sur...</td>
-<td style="word-break:break-word;">Norfolk<br>Virginia<br>United States</td>
-<td align="center"><a href="https://ipconfigure.bamboohr.com/careers/71"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Customer Engineering Co-Op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35969"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emcm.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Heavy Equipment Operator</td>
-<td style="word-break:break-word;">Irwin<br>PA<br>United States</td>
-<td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2347315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist - Internal Med</td>
-<td style="word-break:break-word;">West Palm Beach<br>FL<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603011514"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejov.fa.ca2.oracl...</strong></td>
-<td style="word-break:break-word;">Graduate Engineer / Associate Project Manager</td>
-<td style="word-break:break-word;">SANTA ROSA<br>CA<br>United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26404"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">2026 Pharmacy Graduate Intern - Texarkana</td>
-<td style="word-break:break-word;">Texarkana<br>AR<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#712435"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Midland<br>TX<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#712338"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -12966,21 +4146,7 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>hccz.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Grand Canyon University-Pearson Campus Ambass...</td>
-<td style="word-break:break-word;">Phoenix<br>AZ<br>United States</td>
-<td align="center"><a href="https://hccz.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24291"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Graham<br>WA<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#712073"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>Astranis</strong></td>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Electrical Integration Intern (Avionics, Fall...</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/electrical-integration-intern-avionics-fall-2026_san-francisco_3kas7op3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -12991,6 +4157,13 @@
 <td style="word-break:break-word;">AI Researcher Intern</td>
 <td style="word-break:break-word;">United States</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/genscript/jobs/5138842007"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>steeldynamics</strong></td>
+<td style="word-break:break-word;">Entry-Level Production</td>
+<td style="word-break:break-word;">Butler<br>IN<br>US</td>
+<td align="center"><a href="https://careers-steeldynamics.icims.com/jobs/6871/entry-level-production/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13008,108 +4181,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>steeldynamics</strong></td>
-<td style="word-break:break-word;">Entry-Level Production</td>
-<td style="word-break:break-word;">Butler<br>IN<br>US</td>
-<td align="center"><a href="https://careers-steeldynamics.icims.com/jobs/6871/entry-level-production/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Crusoe Energy Sys...</strong></td>
 <td style="word-break:break-word;">Early Careers Recruiter</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/peib86/jobs/early-careers-recruiter_san-francisco_kymonsfu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.wbd.com</strong></td>
-<td style="word-break:break-word;">Senior Product Manager, Growth - International</td>
-<td style="word-break:break-word;">New York<br>New York<br>United States of America</td>
-<td align="center"><a href="https://careers.wbd.com/job/R000105133"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-ewlq-saasfapro...</strong></td>
-<td style="word-break:break-word;">Senior Research Assistant - Center for Digita...</td>
-<td style="word-break:break-word;">Knoxville<br>TN<br>United States</td>
-<td align="center"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8136"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>iazuqy.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">International Program Coordinator</td>
-<td style="word-break:break-word;">San Francisco<br>CA<br>United States</td>
-<td align="center"><a href="https://iazuqy.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1232"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eevd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Intern (Fall)</td>
-<td style="word-break:break-word;">Sacramento<br>CA<br>United States</td>
-<td align="center"><a href="https://eevd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2026733"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Multi Campus Float Pool RN - Emergency Depart...</td>
-<td style="word-break:break-word;">Seattle<br>WA<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#433990"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Hardware Engineering Coop</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36271"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>erym.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Registered Nurse (Full-Time) - McLeod Interna...</td>
-<td style="word-break:break-word;">Dillon<br>SC<br>United States</td>
-<td align="center"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25474"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emcm.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Heavy Equipment Operator Landfill</td>
-<td style="word-break:break-word;">Fairport<br>NY<br>United States</td>
-<td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2347227"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epgr.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Food Runner, The Smokehouse Coop (Full-Time; ...</td>
-<td style="word-break:break-word;">Cherokee<br>NC<br>United States</td>
-<td align="center"><a href="https://epgr.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7076"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejov.fa.ca2.oracl...</strong></td>
-<td style="word-break:break-word;">Graduate Engineer / Associate Project Manager</td>
-<td style="word-break:break-word;">EUREKA<br>CA<br>United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26426"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epgr.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Food Service Associate, The Smokehouse Coop (...</td>
-<td style="word-break:break-word;">Cherokee<br>NC<br>United States</td>
-<td align="center"><a href="https://epgr.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7075"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Denver<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#711119"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Riverside<br>CT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#711222"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13148,13 +4223,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>soda-data-nv</strong></td>
-<td style="word-break:break-word;">Sales Development Representative(SDR) Internship</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://apply.workable.com/j/A7DC324DF0"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>415</strong></td>
 <td style="word-break:break-word;">2027 Spring &amp; Summer Internship Program</td>
 <td style="word-break:break-word;">Canton<br>Ohio<br>United States</td>
@@ -13162,38 +4230,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>soda-data-nv</strong></td>
+<td style="word-break:break-word;">Sales Development Representative(SDR) Internship</td>
+<td style="word-break:break-word;">United States</td>
+<td align="center"><a href="https://apply.workable.com/j/A7DC324DF0"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Language Data Scientist, Alexa International</td>
 <td style="word-break:break-word;">Bellevue<br>Washington<br>USA</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10419959/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehwy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">ASSISTANT MANAGER - CAMPUS STORE</td>
-<td style="word-break:break-word;">Ithaca<br>NY<br>United States</td>
-<td align="center"><a href="https://ehwy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3643"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Seward<br>AK<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#711029"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebez.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Business Process Audit Manager | Internal Aud...</td>
-<td style="word-break:break-word;">Cleveland<br>OH<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5611"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Rock Springs<br>WY<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#710667"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13261,16 +4308,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Software Engineer Intern (BCI Applications)</td>
+<td style="word-break:break-word;">Mechanical Engineering Intern (Robotics)</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern-bci-applications_fremont-ca_6vzqjtlx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/mechanical-engineering-intern-robotics_fremont-ca_jw6jbaxv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Mechanical Engineering Intern (Robotics)</td>
+<td style="word-break:break-word;">Software Engineer Intern (BCI Applications)</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/mechanical-engineering-intern-robotics_fremont-ca_jw6jbaxv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern-bci-applications_fremont-ca_6vzqjtlx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13491,13 +4538,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>Neuralink</strong></td>
-<td style="word-break:break-word;">Software Engineer Intern (Internal Apps)</td>
-<td style="word-break:break-word;">San Francisco<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern_austin_ykn4u6yu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>MongoDB</strong></td>
 <td style="word-break:break-word;">Staff Product Manager (Internal AI)</td>
 <td style="word-break:break-word;">Palo Alto<br>United States</td>
@@ -13506,6 +4546,13 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Neuralink</strong></td>
+<td style="word-break:break-word;">Software Engineer Intern (Internal Apps)</td>
+<td style="word-break:break-word;">San Francisco<br>United States</td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern_austin_ykn4u6yu"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Software Engineer Intern (Robotics)</td>
 <td style="word-break:break-word;">San Francisco<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern_austin_xcceznjn"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -13533,10 +4580,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>flexion-robotics</strong></td>
-<td style="word-break:break-word;">Research Internship - United States</td>
-<td style="word-break:break-word;">San Francisco<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/8FF540773C"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>lra</strong></td>
+<td style="word-break:break-word;">Graphic Design Intern</td>
+<td style="word-break:break-word;">Houston<br>Texas<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/5613159910"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13547,20 +4594,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>lra</strong></td>
-<td style="word-break:break-word;">Graphic Design Intern</td>
-<td style="word-break:break-word;">Houston<br>Texas<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/5613159910"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ekgn.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Product Director, International Products</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://ekgn.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#6142"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">2026 Fall Quantum Applied Science Internship,...</td>
 <td style="word-break:break-word;">Santa Clara<br>California<br>USA</td>
@@ -13568,66 +4601,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fa-ewlq-saasfapro...</strong></td>
-<td style="word-break:break-word;">Senior Campus Landscape Architect - Facilitie...</td>
-<td style="word-break:break-word;">Knoxville<br>TN<br>United States</td>
-<td align="center"><a href="https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#8028"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Relationship Executive - Disruptive Commerce ...</td>
-<td style="word-break:break-word;">Miami<br>FL<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210746800"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Applied Scientist II, Alexa International Team</td>
 <td style="word-break:break-word;">Bellevue<br>Washington<br>USA</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10419081/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>epyz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Student Intern (Casual/PRN)</td>
-<td style="word-break:break-word;">Wilmington<br>DE<br>United States</td>
-<td align="center"><a href="https://epyz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#18448"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebez.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">IT Audit Senior Associate | Internal Audit | ...</td>
-<td style="word-break:break-word;">Cleveland<br>OH<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5579"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacy Student Intern</td>
-<td style="word-break:break-word;">Longmont<br>CO<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#710498"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Billings<br>MT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#710082"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebez.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Business Process Audit Senior Associate | Int...</td>
-<td style="word-break:break-word;">Cleveland<br>OH<br>United States</td>
-<td align="center"><a href="https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#5578"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>epej.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern - ID Rexburg</td>
-<td style="word-break:break-word;">Rexburg<br>ID<br>United States</td>
-<td align="center"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#374927"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>flexion-robotics</strong></td>
+<td style="word-break:break-word;">Research Internship - United States</td>
+<td style="word-break:break-word;">San Francisco<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/8FF540773C"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13646,16 +4630,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Formlabs</strong></td>
-<td style="word-break:break-word;">Engineering Intern (Hardware Reliability, Fal...</td>
+<td style="word-break:break-word;">Mechanical Engineering (Reliability Intern - ...</td>
 <td style="word-break:break-word;">Somerville<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/engineering-intern_merville_brybgvzt"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/mechanical-engineering_merville_hnejgqk7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Mechanical Engineering (Reliability Intern - ...</td>
+<td style="word-break:break-word;">Engineering Intern (Hardware Reliability, Fal...</td>
 <td style="word-break:break-word;">Somerville<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/mechanical-engineering_merville_hnejgqk7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/engineering-intern_merville_brybgvzt"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13688,16 +4672,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Firmware Intern</td>
+<td style="word-break:break-word;">Electrical Platform Intern</td>
 <td style="word-break:break-word;">San Jose<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/firmware-internship_san-jose_k6hyu7rk"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/electrical-platform-internship_san-jose_ahbxvqvp"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Electrical Platform Intern</td>
+<td style="word-break:break-word;">Firmware Intern</td>
 <td style="word-break:break-word;">San Jose<br>United States</td>
-<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/electrical-platform-internship_san-jose_ahbxvqvp"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://www.welcometothejungle.com/en/companies/xoWADh/jobs/firmware-internship_san-jose_k6hyu7rk"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13813,13 +4797,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Private Bank- Investor Associat...</td>
-<td style="word-break:break-word;">New York<br>NY<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210746529"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>quadric-dot-i-o-inc</strong></td>
 <td style="word-break:break-word;">Data Science Intern - Model Optimization</td>
 <td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
@@ -13827,115 +4804,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Customer Engineering Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36103"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14817"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>evac.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Pharmacist Intern</td>
-<td style="word-break:break-word;">Portland<br>OR<br>United States</td>
-<td align="center"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#432789"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">2026 Field Testing Intern</td>
-<td style="word-break:break-word;">York<br>PA<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14824"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edvy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Summer Intern</td>
-<td style="word-break:break-word;">NY<br>United States</td>
-<td align="center"><a href="https://edvy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2003691"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>carollo</strong></td>
 <td style="word-break:break-word;">Entry-Level Wastewater Process Mechanical Eng...</td>
 <td style="word-break:break-word;">Seattle<br>WA<br>US</td>
 <td align="center"><a href="https://careers-carollo.icims.com/jobs/4309/entry-level-wastewater-process-mechanical-engineer/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.adobe.com</strong></td>
-<td style="word-break:break-word;">Internal Product Manager 5</td>
-<td style="word-break:break-word;">San Jose<br>California<br>United States of America</td>
-<td align="center"><a href="https://careers.adobe.com/job/R167876"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebrf.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Environmental Services Worker - Finger Lakes ...</td>
-<td style="word-break:break-word;">Auburn<br>NY<br>United States</td>
-<td align="center"><a href="https://ebrf.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2558"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eohh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Manager of Internal Communications</td>
-<td style="word-break:break-word;">TX<br>United States</td>
-<td align="center"><a href="https://eohh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#424760"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>efuq.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">International Sales Tour Guide (Japanese or K...</td>
-<td style="word-break:break-word;">Honolulu<br>HI<br>United States</td>
-<td align="center"><a href="https://efuq.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#19028"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ehwy.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">PART-TIME CASUAL, CAMPUS STORE CASHIER</td>
-<td style="word-break:break-word;">Ithaca<br>NY<br>United States</td>
-<td align="center"><a href="https://ehwy.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3627"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Field Technician 1 - Construction...</td>
-<td style="word-break:break-word;">York<br>PA<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14753"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hdow.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Intern</td>
-<td style="word-break:break-word;">Los Angeles<br>CA<br>United States</td>
-<td align="center"><a href="https://hdow.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#248388"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Emmett<br>ID<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#708995"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>careers.dhl.com</strong></td>
-<td style="word-break:break-word;">Summer Internship - Project Management</td>
-<td style="word-break:break-word;">Chicago<br>Illinois<br>United States of America</td>
-<td align="center"><a href="https://careers.dhl.com/job/AV-352332"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Summer Internship - Quality Assurance Specialist</td>
-<td style="word-break:break-word;">Indianapolis<br>Indiana<br>United States of America</td>
-<td align="center"><a href="https://careers.dhl.com/job/AV-352330"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -13953,80 +4825,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit Manager, Vice President - Card</td>
-<td style="word-break:break-word;">Wilmington<br>DE<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210744865"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>Turner Construction</strong></td>
 <td style="word-break:break-word;">MK Intern - Marketing (Bay Area)</td>
 <td style="word-break:break-word;">Walnut Creek<br>CA<br>US</td>
 <td align="center"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/20076?c=turnerconstruction"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Senior Internal Audit Associate -Treasury, Ch...</td>
-<td style="word-break:break-word;">Jersey City<br>NJ<br>United States</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210742718"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebxs.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">GIS Intern</td>
-<td style="word-break:break-word;">KS<br>United States</td>
-<td align="center"><a href="https://ebxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#309371"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcal.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Lead Talent Acquisition Specialist, Campus &amp; ...</td>
-<td style="word-break:break-word;">Camden<br>NJ<br>United States</td>
-<td align="center"><a href="https://hcal.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2240"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ecsr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Assistant Director, NYC Academic Internship P...</td>
-<td style="word-break:break-word;">Nashville<br>TN<br>United States</td>
-<td align="center"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10008260"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eohh.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Sr. Internal Communications Specialist</td>
-<td style="word-break:break-word;">Houston<br>TX<br>United States</td>
-<td align="center"><a href="https://eohh.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#424821"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejis.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Internal Medicine - Physician - Westchester, NY</td>
-<td style="word-break:break-word;">Scarsdale<br>NY<br>United States</td>
-<td align="center"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#3037975"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Substation Electrical Engineer</td>
-<td style="word-break:break-word;">Minneapolis<br>MN<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86678"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Summer 2026 Internship - Environmental Asbest...</td>
-<td style="word-break:break-word;">St. Louis<br>MO<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14484"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eodr.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Physician Assistant or Nurse Practitioner - I...</td>
-<td style="word-break:break-word;">Hamtramck<br>MI<br>United States</td>
-<td align="center"><a href="https://eodr.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2603011699"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14065,31 +4867,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>careers.wbd.com</strong></td>
-<td style="word-break:break-word;">Staff Product Designer, Growth - International</td>
-<td style="word-break:break-word;">New York<br>New York<br>United States of America</td>
-<td align="center"><a href="https://careers.wbd.com/job/R000105139"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>jobs.thermofisher...</strong></td>
 <td style="word-break:break-word;">(Sr) Project Manager - Internal Medicine Team...</td>
 <td style="word-break:break-word;">Remote<br>North Carolina<br>United States of America</td>
 <td align="center"><a href="https://jobs.thermofisher.com/job/R-01352066"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>freight-t-a-s-llc</strong></td>
-<td style="word-break:break-word;">Freight Sales International and Domestic</td>
-<td style="word-break:break-word;">Bethesda<br>Maryland<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/891D893CFA"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word;">Network Development Engineer I, Internet Edge...</td>
-<td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10413833/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14100,24 +4881,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Geologist</td>
-<td style="word-break:break-word;">Austin<br>TX<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86613"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">Network Development Engineer I, Internet Edge...</td>
+<td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10413833/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>edel.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">New Grads 2026 (US)</td>
-<td style="word-break:break-word;">Sunnyvale<br>CA<br>United States</td>
-<td align="center"><a href="https://edel.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#22818"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>egln.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Clinical Nurse B-Inpatient East Campus Hospit...</td>
-<td style="word-break:break-word;">Loma Linda<br>CA<br>United States</td>
-<td align="center"><a href="https://egln.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14739"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>freight-t-a-s-llc</strong></td>
+<td style="word-break:break-word;">Freight Sales International and Domestic</td>
+<td style="word-break:break-word;">Bethesda<br>Maryland<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/891D893CFA"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14136,30 +4910,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>bocusa</strong></td>
-<td style="word-break:break-word;">Strategy and Research Department Macro and Ma...</td>
-<td style="word-break:break-word;">New York<br>NY<br>US</td>
-<td align="center"><a href="https://careers-bocusa.icims.com/jobs/3750/strategy-and-research-department-macro-and-market-research-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Internal Audit Department-Sanctions &amp; Complia...</td>
 <td style="word-break:break-word;">New York<br>NY<br>US</td>
 <td align="center"><a href="https://careers-bocusa.icims.com/jobs/4257/internal-audit-department-sanctions-%26-compliance-audit-avp/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>syntiant</strong></td>
-<td style="word-break:break-word;">Model Converter Engineer Intern</td>
-<td style="word-break:break-word;">Irvine<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/84C6D73625"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>quadric-dot-i-o-inc</strong></td>
-<td style="word-break:break-word;">AI Kernel Engineer (New Grad)</td>
-<td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/B8F898E1F5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Strategy and Research Department Macro and Ma...</td>
+<td style="word-break:break-word;">New York<br>NY<br>US</td>
+<td align="center"><a href="https://careers-bocusa.icims.com/jobs/3750/strategy-and-research-department-macro-and-market-research-intern/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14170,7 +4930,14 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;"><strong>syntiant</strong></td>
+<td style="word-break:break-word;">Model Converter Engineer Intern</td>
+<td style="word-break:break-word;">Irvine<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/84C6D73625"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Software Development Engineer Intern, AWS Dat...</td>
 <td style="word-break:break-word;">Seattle<br>Washington<br>USA</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10412530/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -14178,51 +4945,16 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>quadric-dot-i-o-inc</strong></td>
-<td style="word-break:break-word;">Deep Learning Compiler Engineer (New Grad)</td>
+<td style="word-break:break-word;">AI Kernel Engineer (New Grad)</td>
 <td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/43779C9213"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>erym.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Staff Nurse - Medical Surgical - New Graduate</td>
-<td style="word-break:break-word;">Little River<br>SC<br>United States</td>
-<td align="center"><a href="https://erym.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25446"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Electrical Engineer</td>
-<td style="word-break:break-word;">Lakewood<br>CO<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86511"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td align="center"><a href="https://apply.workable.com/j/B8F898E1F5"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Early Career Civil Engineer (Overhead Transmi...</td>
-<td style="word-break:break-word;">Richmond<br>VA<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcun.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Human Resources Intern</td>
-<td style="word-break:break-word;">ELIZABETHTOWN<br>KENTUCKY<br>United States</td>
-<td align="center"><a href="https://hcun.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#10162"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ebcs.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Environmental Scientist/Engineer</td>
-<td style="word-break:break-word;">Charlotte<br>NC<br>United States</td>
-<td align="center"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#40553"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">Sewell<br>NJ<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#707745"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Deep Learning Compiler Engineer (New Grad)</td>
+<td style="word-break:break-word;">Burlingame<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/43779C9213"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14249,15 +4981,15 @@
 <tr>
 <td style="word-break:break-word;"><strong>Applied Materials</strong></td>
 <td style="word-break:break-word;">Corporate Quality Internal Auditor</td>
-<td style="word-break:break-word;">Santa Clara<br>CA<br>US</td>
-<td align="center"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811946"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">Austin<br>TX<br>US</td>
+<td align="center"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811811"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>syntiant</strong></td>
-<td style="word-break:break-word;">Machine Learning Computer Vision Intern</td>
-<td style="word-break:break-word;">Redwood City<br>California<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/EC22EF9B1E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Corporate Quality Internal Auditor</td>
+<td style="word-break:break-word;">Santa Clara<br>CA<br>US</td>
+<td align="center"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811946"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14268,59 +5000,24 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>bpcm</strong></td>
-<td style="word-break:break-word;">Summer Intern, Corporate Communications</td>
-<td style="word-break:break-word;">New York<br>New York<br>United States</td>
-<td align="center"><a href="https://apply.workable.com/j/8E2139AE92"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>syntiant</strong></td>
+<td style="word-break:break-word;">Machine Learning Computer Vision Intern</td>
+<td style="word-break:break-word;">Redwood City<br>California<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/EC22EF9B1E"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;"><strong>bpcm</strong></td>
 <td style="word-break:break-word;">Summer Internship - Influencer &amp; Celebrity Re...</td>
 <td style="word-break:break-word;">West Hollywood<br>California<br>United States</td>
 <td align="center"><a href="https://apply.workable.com/j/2DECF31B27"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>Applied Materials</strong></td>
-<td style="word-break:break-word;">Corporate Quality Internal Auditor</td>
-<td style="word-break:break-word;">Austin<br>TX<br>US</td>
-<td align="center"><a href="https://appliedmaterials.eightfold.ai/careers/job/790315811811"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">2026 Internship - Construction Technician</td>
-<td style="word-break:break-word;">Macomb<br>MI<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14746"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Early Career Environmental Scientist</td>
-<td style="word-break:break-word;">Baltimore<br>MD<br>United States</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#86418"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eimy.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">RN - Inpatient, General Internal Medicine</td>
-<td style="word-break:break-word;">Madison<br>WI<br>United States</td>
-<td align="center"><a href="https://eimy.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#47562"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>cbha.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Auditor II, Internal Audit</td>
-<td style="word-break:break-word;">Exton<br>PA<br>United States</td>
-<td align="center"><a href="https://cbha.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7118"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>fa-evmr-saasfapro...</strong></td>
-<td style="word-break:break-word;">Data Science Co-op</td>
-<td style="word-break:break-word;">United States</td>
-<td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35743"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Summer Intern, Corporate Communications</td>
+<td style="word-break:break-word;">New York<br>New York<br>United States</td>
+<td align="center"><a href="https://apply.workable.com/j/8E2139AE92"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -14350,34 +5047,6 @@
 <td style="word-break:break-word;">Kansas City<br>United States</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/xROXrT/jobs/table-games-dealer-school_kansas-city_7wlkhknv"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>ejov.fa.ca2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry-Level Environmental Technician</td>
-<td style="word-break:break-word;">BORGER<br>TX<br>United States</td>
-<td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26268"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcog.fa.em2.oracl...</strong></td>
-<td style="word-break:break-word;">Entry Level Field Technician I - Construction...</td>
-<td style="word-break:break-word;">Plymouth<br>MI<br>United States</td>
-<td align="center"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14731"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>edbz.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Engineering Technician Intern - Dallas/Tucson</td>
-<td style="word-break:break-word;">Dallas<br>TX<br>United States</td>
-<td align="center"><a href="https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#25010550"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eofd.fa.us6.oracl...</strong></td>
-<td style="word-break:break-word;">Front End Entry Level</td>
-<td style="word-break:break-word;">New Canaan<br>CT<br>United States</td>
-<td align="center"><a href="https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#706590"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2mo</td>
 </tr>
 </tbody>
 </table>
