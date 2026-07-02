@@ -23,27 +23,6 @@
 </thead>
 <tbody>
 <tr>
-<td style="word-break:break-word;"><strong>elxw.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Edinburgh Medical School 300 Archival Researc...</td>
-<td style="word-break:break-word;">United Kingdom</td>
-<td align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14463"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eedu.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Practice Leader - International Business Unit...</td>
-<td style="word-break:break-word;">Ipswich<br>Suffolk<br>United Kingdom</td>
-<td align="center"><a href="https://eedu.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#202602755"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>hcxs.fa.us2.oracl...</strong></td>
-<td style="word-break:break-word;">Intern, Kroll Agency &amp; Trustee Services</td>
-<td style="word-break:break-word;">London<br>United Kingdom</td>
-<td align="center"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21014489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>clearspace</strong></td>
 <td style="word-break:break-word;">Electronics Engineering Intern</td>
 <td style="word-break:break-word;"><details><summary><strong>4 locations</strong></summary>London<br>London<br>City of<br>United Kingdom</details></td>
@@ -62,6 +41,27 @@
 <td style="word-break:break-word;">Senior Vice President, International Payments...</td>
 <td style="word-break:break-word;">Manchester<br>Greater Manchester<br>United Kingdom</td>
 <td align="center"><a href="https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#78151"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>elxw.fa.em3.oracl...</strong></td>
+<td style="word-break:break-word;">Edinburgh Medical School 300 Archival Researc...</td>
+<td style="word-break:break-word;">United Kingdom</td>
+<td align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14463"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>eedu.fa.em3.oracl...</strong></td>
+<td style="word-break:break-word;">Practice Leader - International Business Unit...</td>
+<td style="word-break:break-word;">Ipswich<br>Suffolk<br>United Kingdom</td>
+<td align="center"><a href="https://eedu.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#202602755"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>hcxs.fa.us2.oracl...</strong></td>
+<td style="word-break:break-word;">Intern, Kroll Agency &amp; Trustee Services</td>
+<td style="word-break:break-word;">London<br>United Kingdom</td>
+<td align="center"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21014489"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -104,7 +104,14 @@
 <td style="word-break:break-word;">Software Engineer (International)</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/1TNwEW/jobs/software-engineer-international_london_xshueqrc"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>SSE Academy</strong></td>
+<td style="word-break:break-word;">Internal Sales Engineer</td>
+<td style="word-break:break-word;">Huddersfield<br>WEST YORKSHIRE<br>GB</td>
+<td align="center"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4620?c=sseacademy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>fa-evdq-saasfapro...</strong></td>
@@ -118,13 +125,6 @@
 <td style="word-break:break-word;">Internal Sales Team Leader</td>
 <td style="word-break:break-word;">Huddersfield<br>WEST YORKSHIRE<br>GB</td>
 <td align="center"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4589?c=sseacademy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Internal Sales Engineer</td>
-<td style="word-break:break-word;">Huddersfield<br>WEST YORKSHIRE<br>GB</td>
-<td align="center"><a href="https://sseacademy.csod.com/ux/ats/careersite/1/job/4620?c=sseacademy"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -181,21 +181,28 @@
 <td style="word-break:break-word;">EMEA Communications Intern</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/FRfZvk/jobs/emea-communications-intern_london_qdvb6ngz"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Trustpilot</strong></td>
 <td style="word-break:break-word;">Internal Audit Manager</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/e51Gy8/jobs/internal-audit-manager_london_u6ydx5bn"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>Perplexity AI</strong></td>
 <td style="word-break:break-word;">AI Inference Internship</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/RoCrcC/jobs/ai-inference-internship_london_voktincs"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>rayconglobal</strong></td>
+<td style="word-break:break-word;">Business Intelligence Rotational Associate (2...</td>
+<td style="word-break:break-word;">London<br>United Kingdom</td>
+<td align="center"><a href="https://rayconglobal.applytojob.com/apply/jobs/details/hryKRYTKh9"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>hcjy.fa.us2.oracl...</strong></td>
@@ -219,11 +226,18 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>rayconglobal</strong></td>
-<td style="word-break:break-word;">Business Intelligence Rotational Associate (2...</td>
+<td style="word-break:break-word;"><strong>10pearls</strong></td>
+<td style="word-break:break-word;">Associate Account Executive - Intern</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
-<td align="center"><a href="https://rayconglobal.applytojob.com/apply/jobs/details/hryKRYTKh9"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td align="center"><a href="https://10pearls.applytojob.com/apply/jobs/details/rGxTYj829u"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>ibmqjb.fa.ocs.ora...</strong></td>
+<td style="word-break:break-word;">Consultant International Relocation</td>
+<td style="word-break:break-word;">United Kingdom</td>
+<td align="center"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>ecwz.fa.em3.oracl...</strong></td>
@@ -240,31 +254,17 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>ibmqjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Consultant International Relocation</td>
-<td style="word-break:break-word;">United Kingdom</td>
-<td align="center"><a href="https://ibmqjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4722"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>10pearls</strong></td>
-<td style="word-break:break-word;">Associate Account Executive - Intern</td>
-<td style="word-break:break-word;">London<br>United Kingdom</td>
-<td align="center"><a href="https://10pearls.applytojob.com/apply/jobs/details/rGxTYj829u"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">Sr Capital Planning Manager, International Ca...</td>
+<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10454933/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
 <td style="word-break:break-word;">Internal Audit - Associate/Vice President</td>
 <td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210761558"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word;">Sr Capital Planning Manager, International Ca...</td>
-<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10454933/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -310,20 +310,6 @@
 <td style="white-space:nowrap;">12d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>elxw.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Research Impact Intern CMVM (Employ.ed for PhDs)</td>
-<td style="word-break:break-word;">Edinburgh - Central Area<br>Midlothian<br>United Kingdom</td>
-<td align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14393"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>eoce.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Family Time Practitioner - Internal</td>
-<td style="word-break:break-word;">Lowestoft<br>Suffolk<br>United Kingdom</td>
-<td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24021"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>autocab</strong></td>
 <td style="word-break:break-word;">Senior Service Delivery Technician (Internal ...</td>
 <td style="word-break:break-word;">Manchester<br>Greater Manchester<br>United Kingdom</td>
@@ -338,11 +324,46 @@
 <td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>elxw.fa.em3.oracl...</strong></td>
+<td style="word-break:break-word;">Research Impact Intern CMVM (Employ.ed for PhDs)</td>
+<td style="word-break:break-word;">Edinburgh - Central Area<br>Midlothian<br>United Kingdom</td>
+<td align="center"><a href="https://elxw.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#14393"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>eoce.fa.em3.oracl...</strong></td>
+<td style="word-break:break-word;">Family Time Practitioner - Internal</td>
+<td style="word-break:break-word;">Lowestoft<br>Suffolk<br>United Kingdom</td>
+<td align="center"><a href="https://eoce.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#24021"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>TLC Worldwide</strong></td>
 <td style="word-break:break-word;">Strategic Planning Intern (12 months)</td>
 <td style="word-break:break-word;">London<br>GB</td>
 <td align="center"><a href="https://tlcworldwide.teamtailor.com/jobs/7939675-strategic-planning-intern-12-months"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>capula-investment...</strong></td>
+<td style="word-break:break-word;">Technology Graduate Analyst</td>
+<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/88F2A24444"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">14d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">Network Development Engineer, ADC Networking ...</td>
+<td style="word-break:break-word;">London<br>England<br>GBR</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10452534/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">14d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
+<td style="word-break:break-word;">Software Development Manager, Internet Edge S...</td>
+<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10453316/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
@@ -359,38 +380,17 @@
 <td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>capula-investment...</strong></td>
-<td style="word-break:break-word;">Technology Graduate Analyst</td>
-<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/88F2A24444"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word;">Software Development Manager, Internet Edge S...</td>
-<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10453316/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;">↳</td>
-<td style="word-break:break-word;">Network Development Engineer, ADC Networking ...</td>
-<td style="word-break:break-word;">London<br>England<br>GBR</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10452534/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
+<td style="word-break:break-word;"><strong>icfcjb.fa.ocs.ora...</strong></td>
+<td style="word-break:break-word;">(Entry level) Mechanical Design Engineer</td>
+<td style="word-break:break-word;">Yeovil<br>Somerset<br>United Kingdom</td>
+<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#114563"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
 <td style="word-break:break-word;">International Private Bank, Vice President, E...</td>
 <td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210760020"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>icfcjb.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">(Entry level) Mechanical Design Engineer</td>
-<td style="word-break:break-word;">Yeovil<br>Somerset<br>United Kingdom</td>
-<td align="center"><a href="https://icfcjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#114563"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
@@ -454,7 +454,7 @@
 <td style="word-break:break-word;">Marketing Communications Intern (12-Month Pla...</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/zUpmFq/jobs/marketing-communications-intern-12-month-placement_london_czt3v4og"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
@@ -468,14 +468,7 @@
 <td style="word-break:break-word;">Marketing Coordinator Intern</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/pUEPSz/jobs/marketing-coordinator-intern_london_w5sqwaxe"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>enzj.fa.em3.oracl...</strong></td>
-<td style="word-break:break-word;">Research Assistant/Associate in Micromanufact...</td>
-<td style="word-break:break-word;">Edinburgh<br>Midlothian<br>United Kingdom</td>
-<td align="center"><a href="https://enzj.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4872"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">19d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>storyteq</strong></td>
@@ -485,11 +478,18 @@
 <td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
+<td style="word-break:break-word;"><strong>enzj.fa.em3.oracl...</strong></td>
+<td style="word-break:break-word;">Research Assistant/Associate in Micromanufact...</td>
+<td style="word-break:break-word;">Edinburgh<br>Midlothian<br>United Kingdom</td>
+<td align="center"><a href="https://enzj.fa.em3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#4872"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">20d</td>
+</tr>
+<tr>
 <td style="word-break:break-word;"><strong>Spotlight Sports ...</strong></td>
 <td style="word-break:break-word;">Internal Communications Lead (Transformation,...</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/f8Uvdo/jobs/internal-communications-lead-transformation-6-month-ftc_london_blsbfsnx"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
@@ -541,10 +541,10 @@
 <td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Internal Audit, Vice President - Data Analytics</td>
-<td style="word-break:break-word;">United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210757065"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">Software Development Engineer III, Internet E...</td>
+<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10445091/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
@@ -555,10 +555,10 @@
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word;">Software Development Engineer III, Internet E...</td>
-<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10445091/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word;">Internal Audit, Vice President - Data Analytics</td>
+<td style="word-break:break-word;">United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210757065"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
@@ -590,14 +590,14 @@
 <td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>iahbme.fa.ocs.ora...</strong></td>
-<td style="word-break:break-word;">Head of Internal Communications</td>
-<td style="word-break:break-word;">Hatfield<br>Hertfordshire<br>United Kingdom</td>
-<td align="center"><a href="https://iahbme.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1014"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>fuseenergy</strong></td>
+<td style="word-break:break-word;">Finance Intern - Corporate</td>
+<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/47F6D838FF"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fuseenergy</strong></td>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Finance Intern</td>
 <td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
 <td align="center"><a href="https://apply.workable.com/j/6DB55A57F2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -611,13 +611,6 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fuseenergy</strong></td>
-<td style="word-break:break-word;">Finance Intern - Corporate</td>
-<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/47F6D838FF"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>studygroupuk</strong></td>
 <td style="word-break:break-word;">Director of Campus Operations</td>
 <td style="word-break:break-word;">Leeds<br>West Yorshire<br>United Kingdom</td>
@@ -625,11 +618,11 @@
 <td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Private Bank, Private Banker, U...</td>
-<td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210754917"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="word-break:break-word;"><strong>iahbme.fa.ocs.ora...</strong></td>
+<td style="word-break:break-word;">Head of Internal Communications</td>
+<td style="word-break:break-word;">Hatfield<br>Hertfordshire<br>United Kingdom</td>
+<td align="center"><a href="https://iahbme.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1014"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
@@ -654,6 +647,20 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word;">International Private Bank, Private Banker, U...</td>
+<td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210754917"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">29d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>fuseenergy</strong></td>
+<td style="word-break:break-word;">Growth Intern</td>
+<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
+<td align="center"><a href="https://apply.workable.com/j/27D2CB05B2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">30d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
 <td style="word-break:break-word;">Private Banking Internal Auditor</td>
 <td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -667,24 +674,17 @@
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>fuseenergy</strong></td>
-<td style="word-break:break-word;">Growth Intern</td>
-<td style="word-break:break-word;">London<br>England<br>United Kingdom</td>
-<td align="center"><a href="https://apply.workable.com/j/27D2CB05B2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
+<td style="word-break:break-word;">2026 Program Manager Intern , Prime video</td>
+<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
+<td align="center"><a href="https://account.amazon.jobs/jobs/10435185/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
 <td style="word-break:break-word;">Senior/Lead Machine Learning Scientist (Hands...</td>
 <td style="word-break:break-word;">LONDON<br>United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210693815"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
-<td style="word-break:break-word;">Expressions of Interest - WSP National Intern...</td>
-<td style="word-break:break-word;">Sydney<br>New South Wales<br>Australia</td>
-<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#AUR_6PT3Y"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -695,10 +695,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
-<td style="word-break:break-word;">2026 Program Manager Intern , Prime video</td>
-<td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
-<td align="center"><a href="https://account.amazon.jobs/jobs/10435185/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="word-break:break-word;"><strong>emit.fa.ca3.oracl...</strong></td>
+<td style="word-break:break-word;">Expressions of Interest - WSP National Intern...</td>
+<td style="word-break:break-word;">Sydney<br>New South Wales<br>Australia</td>
+<td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#AUR_6PT3Y"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -716,17 +716,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>don.fa.em2.oracle...</strong></td>
-<td style="word-break:break-word;">EUI Internship</td>
-<td style="word-break:break-word;">United Kingdom</td>
-<td align="center"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9289"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">A/V Coordinator, International, Amazon MGM St...</td>
 <td style="word-break:break-word;">London<br>England<br>GBR</td>
 <td align="center"><a href="https://account.amazon.jobs/jobs/10434171/apply"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>don.fa.em2.oracle...</strong></td>
+<td style="word-break:break-word;">EUI Internship</td>
+<td style="word-break:break-word;">United Kingdom</td>
+<td align="center"><a href="https://don.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#9289"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -828,13 +828,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">International Private Bank, Team Lead, Invest...</td>
-<td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750826"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;">🔥 <strong>Amazon</strong></td>
 <td style="word-break:break-word;">Technical Infrastructure Program Manager, Int...</td>
 <td style="word-break:break-word;">Sydney<br>New South Wales<br>AUS</td>
@@ -843,6 +836,13 @@
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word;">International Private Bank, Team Lead, Invest...</td>
+<td style="word-break:break-word;">LONDON<br>LONDON<br>United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750826"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;">↳</td>
 <td style="word-break:break-word;">Reporting and Delivery Lead - International C...</td>
 <td style="word-break:break-word;">EDINBURGH<br>MIDLOTHIAN<br>United Kingdom</td>
 <td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210750329"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
@@ -982,17 +982,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
-<td style="word-break:break-word;">Private Bank Senior Internal Auditor</td>
-<td style="word-break:break-word;">LONDON<br>United Kingdom</td>
-<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210741377"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><strong>CoStar Group</strong></td>
 <td style="word-break:break-word;">International Employee Relations Consultant, ...</td>
 <td style="word-break:break-word;">London<br>United Kingdom</td>
 <td align="center"><a href="https://costar.eightfold.ai/careers/job/446718420675"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><strong>jpmc.fa.oracleclo...</strong></td>
+<td style="word-break:break-word;">Private Bank Senior Internal Auditor</td>
+<td style="word-break:break-word;">LONDON<br>United Kingdom</td>
+<td align="center"><a href="https://jpmc.fa.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#210741377"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>

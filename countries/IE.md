@@ -104,7 +104,7 @@
 <td style="word-break:break-word;">Graduate Engineer</td>
 <td style="word-break:break-word;">Ireland</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/6ATZ8j/jobs/graduate-engineer_ie_rjuji5za"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><strong>O&#x27;TOOLE TRANSPORT...</strong></td>

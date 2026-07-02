@@ -28,6 +28,22 @@ result = duckdb.sql(f"""
               OR title ILIKE '%REU%'
               OR title ILIKE '%summer research%'
               OR title ILIKE '%undergraduate assistant%'
+                AND company NOT ILIKE 'fa-%'
+                AND company NOT ILIKE '%.fa.%'
+                AND company NOT ILIKE '%saas%'
+                AND company NOT ILIKE 'eluq%'
+
+                AND title NOT ILIKE '%pharmacist%'
+                AND title NOT ILIKE '%pharmacy%'
+                AND title NOT ILIKE '%dental%'
+                AND title NOT ILIKE '%nurse%'
+                AND title NOT ILIKE '%nursing%'
+                AND title NOT ILIKE '%medical intern%'
+                AND title NOT ILIKE '%physician%'
+                AND title NOT ILIKE '%clinical intern%'
+                AND url IS NOT NULL
+                AND TRIM(url) != ''
+                AND location IS NOT NULL
             THEN 'internship'
 
             WHEN title ILIKE '%new grad%'
@@ -42,6 +58,22 @@ result = duckdb.sql(f"""
               OR title ILIKE '%graduate analyst%'
               OR commitment ILIKE '%new grad%'
               OR commitment ILIKE '%entry%'
+                AND company NOT ILIKE 'fa-%'
+                AND company NOT ILIKE '%.fa.%'
+                AND company NOT ILIKE '%saas%'
+                AND company NOT ILIKE 'eluq%'
+
+                AND title NOT ILIKE '%pharmacist%'
+                AND title NOT ILIKE '%pharmacy%'
+                AND title NOT ILIKE '%dental%'
+                AND title NOT ILIKE '%nurse%'
+                AND title NOT ILIKE '%nursing%'
+                AND title NOT ILIKE '%medical intern%'
+                AND title NOT ILIKE '%physician%'
+                AND title NOT ILIKE '%clinical intern%'
+                AND url IS NOT NULL
+                AND TRIM(url) != ''
+                AND location IS NOT NULL
             THEN 'new_grad'
 
             ELSE 'other'
@@ -62,6 +94,7 @@ result = duckdb.sql(f"""
             OR title ILIKE '%coop%'
             OR title ILIKE '%undergraduate research%'
             OR title ILIKE '%undergrad research%'
+            
             OR (
                 title ILIKE '%research assistant%'
                 AND title NOT ILIKE '%postdoc%'
@@ -87,6 +120,8 @@ result = duckdb.sql(f"""
             OR title ILIKE '%graduate analyst%'
             OR commitment ILIKE '%new grad%'
             OR commitment ILIKE '%entry%'
+
+
         )
         -- These filters apply to ALL rows, not just some
         AND CAST(posted_at AS TIMESTAMP) >= CURRENT_DATE - INTERVAL '60 days'
