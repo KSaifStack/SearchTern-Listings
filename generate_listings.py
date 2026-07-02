@@ -85,15 +85,23 @@ result = duckdb.sql(f"""
             OR title ILIKE '%graduate engineer%'
             OR title ILIKE '%graduate developer%'
             OR title ILIKE '%graduate analyst%'
-            AND country_iso NOT IN ('DE', 'AT', 'CH', 'PL', 'NO', 'SE', 'DK', 'NL', 'FR', 'ES', 'IT', 'PT', 'RO', 'HU', 'CZ', 'SK', 'HR', 'BG', 'FI')
             OR commitment ILIKE '%new grad%'
             OR commitment ILIKE '%entry%'
         )
+        -- These filters apply to ALL rows, not just some
         AND CAST(posted_at AS TIMESTAMP) >= CURRENT_DATE - INTERVAL '60 days'
         AND url     IS NOT NULL
         AND title   IS NOT NULL
         AND company IS NOT NULL
         AND title ~ '^[[:ascii:]]+$'
+        AND title NOT ILIKE '%(m/w/d)%'
+        AND title NOT ILIKE '%(m/f/d)%'
+        AND title NOT ILIKE '%(w/m/d)%'
+        AND country_iso NOT IN (
+            'DE', 'AT', 'CH', 'FR', 'PL', 'NO', 'SE', 'DK',
+            'NL', 'IT', 'ES', 'PT', 'RO', 'HU', 'CZ', 'SK',
+            'HR', 'BG', 'FI', 'LU', 'BE', 'MT', 'CY'
+        )
         AND (
             TRIM(department) = ''
             OR department IS NULL
@@ -114,13 +122,12 @@ result = duckdb.sql(f"""
     ORDER BY posted_at DESC
 """).df()
 
-# Drop anything tagged 'other' that slipped through
 result = result[result["job_type"] != "other"]
 
 readme.generate_readme(result, output_dir=".")
 
-# Stats 
-total      = len(result)
+# Stats
+total       = len(result)
 internships = (result["job_type"] == "internship").sum()
 new_grads   = (result["job_type"] == "new_grad").sum()
 remote      = (result["is_remote"].astype(str).str.lower() == "true").sum()

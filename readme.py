@@ -48,8 +48,23 @@ COUNTRY_NAMES = {
     "JP": "🇯🇵 Japan",
     "BR": "🇧🇷 Brazil",
     "MX": "🇲🇽 Mexico",
+    "CH": "🇨🇭 Switzerland",
+    "AT": "🇦🇹 Austria",
+    "BE": "🇧🇪 Belgium",
+    "SE": "🇸🇪 Sweden",
+    "ES": "🇪🇸 Spain",
+    "LU": "🇱🇺 Luxembourg",
+    "IT": "🇮🇹 Italy",
+    "PL": "🇵🇱 Poland",
+    "NO": "🇳🇴 Norway",
+    "DK": "🇩🇰 Denmark",
+    "FI": "🇫🇮 Finland",
+    "MT": "🇲🇹 Malta",
+    "PT": "🇵🇹 Portugal",
+    "CZ": "🇨🇿 Czech Republic",
+    "CY": "🇨🇾 Cyprus",
+    "RO": "🇷🇴 Romania",
 }
-
 
 
 
@@ -130,7 +145,6 @@ def build_table(rows: list[str]) -> str:
     )
 
 def build_country_index(dataframe, total_rows: int) -> str:
-    """Build a country breakdown section with links to country pages."""
     if "country_iso" not in dataframe.columns:
         return ""
 
@@ -145,11 +159,16 @@ def build_country_index(dataframe, total_rows: int) -> str:
 
     rows = []
     for _, row in counts.iterrows():
-        code    = str(row["country_iso"]).strip().upper()
-        count   = int(row["count"])
-        name    = COUNTRY_NAMES.get(code, f"🌐 {code}")
-        pct     = round((count / total_rows) * 100, 1)
-        link    = f"https://github.com/KSaifStack/searchtern-listings/blob/main/countries/{code}.md"
+        code  = str(row["country_iso"]).strip().upper()
+        count = int(row["count"])
+        
+        # Skip unknown and tiny countries (less than 10 listings)
+        if code in ("UNKNOWN", "NAN", "") or count < 10:
+            continue
+
+        name = COUNTRY_NAMES.get(code, f"🌐 {code}")
+        pct  = round((count / total_rows) * 100, 1)
+        link = f"https://github.com/KSaifStack/searchtern-listings/blob/main/countries/{code}.md"
         rows.append(f"| [{name}]({link}) | {count:,} | {pct}% |")
 
     table = (
@@ -425,5 +444,5 @@ def generate_readme(dataframe, output_dir="."):
     print(f"Skipped (blocked)   : {skipped_blocked}")
     print(f"Skipped (inactive)  : {skipped_inactive}")
     print(f"Skipped (foreign)   : {skipped_foreign}")
-    
+
     return files_written
