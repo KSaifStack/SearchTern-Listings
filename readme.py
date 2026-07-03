@@ -400,7 +400,7 @@ def build_header(current_page: int, total_pages: int, total_rows: int,dataframe=
 
 ### The all-in-one internship platform for college students
 
-[![Website](https://img.shields.io/badge/Visit-SearchTern.com-1D9E75?style=for-the-badge)](https://searchtern.com)
+[![Website](https://img.shields.io/badge/Visit-SearchTern.com-1D9E75?style=for-the-badge)](https://searchtern.ksaif.dev/)
 [![Listings](https://img.shields.io/badge/Internships-{total_rows:,}-blue?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
 [![Updated](https://img.shields.io/badge/Updated-{today.replace(" ", "%20")}-orange?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
 
@@ -410,7 +410,7 @@ def build_header(current_page: int, total_pages: int, total_rows: int,dataframe=
 
 > 🎓 **{total_rows:,} internships & new grad roles** updated twice daily from 49 ATS platforms worldwide.
 > Finding an internship has never been harder — students are sending 500–1000+ applications just to land one.
-> SearchTern breaks that cycle. [**Start your search →**](https://searchtern.com)
+> SearchTern breaks that cycle. [**Start your search →**](https://searchtern.ksaif.dev/)
 
 ---
 

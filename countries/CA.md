@@ -1,6 +1,6 @@
 # 🇨🇦 Canada — SearchTern Listings
 
-**233 listings** as of July 02, 2026
+**233 listings** as of July 03, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -27,49 +27,49 @@
 <td style="word-break:break-word;">Software Developer (Co-op)</td>
 <td style="word-break:break-word;">Toronto<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/aVe5Vb/jobs/software-developer-co-op_toronto_2xwapz43"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/aVe5Vb/jobs/business-operations-co-op_burnaby_nleoszya"><strong>CLIO</strong></a></td>
 <td style="word-break:break-word;">Business Operations Co-op</td>
 <td style="word-break:break-word;">Burnaby<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/aVe5Vb/jobs/business-operations-co-op_burnaby_nleoszya"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/wgW68Enioe"><strong>Pioneerexecutives</strong></a></td>
 <td style="word-break:break-word;">Brand Promotions Assistant - Entry-Level</td>
 <td style="word-break:break-word;">Sacramento<br>CA</td>
 <td align="center"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/wgW68Enioe"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/P4rV1gGfK7">↳ <strong>Pioneerexecutives</strong></a></td>
 <td style="word-break:break-word;">Entry-Level Community Outreach Representative</td>
 <td style="word-break:break-word;">Roseville<br>CA</td>
 <td align="center"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/P4rV1gGfK7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/PD0NEZjeoE">↳ <strong>Pioneerexecutives</strong></a></td>
 <td style="word-break:break-word;">Entry-Level Event Assistant | Immediate Hire ...</td>
 <td style="word-break:break-word;">Rancho Cordova<br>CA</td>
 <td align="center"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/PD0NEZjeoE"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/sLaHm0Ds6w">↳ <strong>Pioneerexecutives</strong></a></td>
 <td style="word-break:break-word;">Entry-Level Sales &amp; Marketing Associate | No ...</td>
 <td style="word-break:break-word;">Roseville<br>CA</td>
 <td align="center"><a href="https://pioneerexecutives.applytojob.com/apply/jobs/details/sLaHm0Ds6w"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8612449002"><strong>Sonymusicentertai...</strong></a></td>
 <td style="word-break:break-word;">Intern, IT Support</td>
 <td style="word-break:break-word;">Canada<br>Ontario<br>Toronto</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8612449002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002"><strong>Studiokraftonboard</strong></a></td>
@@ -83,161 +83,161 @@
 <td style="word-break:break-word;">Environmental Engineering Co-op</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>Canada</td>
 <td align="center"><a href="https://ejov.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26364"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://cbha.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#7661">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Intern, Developer Gen AI</td>
 <td style="word-break:break-word;">Mississauga<br>ON<br>Canada</td>
 <td align="center"><a href="https://cbha.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#7661"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ehtc.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#116532">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Senior Manager, Internal Audit - IT &amp; Payments</td>
 <td style="word-break:break-word;">Canada</td>
 <td align="center"><a href="https://ehtc.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#116532"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://paybyphone.bamboohr.com/careers/58"><strong>Paybyphone</strong></a></td>
-<td style="word-break:break-word;">Systems Analyst (Co-op/Intern)</td>
-<td style="word-break:break-word;">Vancouver<br>British Columbia<br>Canada</td>
-<td align="center"><a href="https://paybyphone.bamboohr.com/careers/58"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/175"><strong>PACT</strong></a></td>
-<td style="word-break:break-word;">Environmental Co-op</td>
-<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://pact.bamboohr.com/careers/175"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/176">↳ <strong>PACT</strong></a></td>
-<td style="word-break:break-word;">Finance Co-op</td>
-<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://pact.bamboohr.com/careers/176"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/174">↳ <strong>PACT</strong></a></td>
-<td style="word-break:break-word;">Health &amp; Safety Co-op</td>
-<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://pact.bamboohr.com/careers/174"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/178">↳ <strong>PACT</strong></a></td>
-<td style="word-break:break-word;">Quality Co-op</td>
-<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://pact.bamboohr.com/careers/178"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://ascendclinical.applytojob.com/apply/jobs/details/Qk90gDzq1Y"><strong>Ascendclinical</strong></a></td>
-<td style="word-break:break-word;">Material Handler (Entry Level)</td>
-<td style="word-break:break-word;">Sunnyvale<br>CA</td>
-<td align="center"><a href="https://ascendclinical.applytojob.com/apply/jobs/details/Qk90gDzq1Y"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ndp.bamboohr.com/careers/465"><strong>NDP</strong></a></td>
 <td style="word-break:break-word;">(Internal Applicants Only) Researcher</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://ndp.bamboohr.com/careers/465"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://ascendclinical.applytojob.com/apply/jobs/details/Qk90gDzq1Y"><strong>Ascendclinical</strong></a></td>
+<td style="word-break:break-word;">Material Handler (Entry Level)</td>
+<td style="word-break:break-word;">Sunnyvale<br>CA</td>
+<td align="center"><a href="https://ascendclinical.applytojob.com/apply/jobs/details/Qk90gDzq1Y"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://maverickpayments.applytojob.com/apply/jobs/details/tWpSllz0U8"><strong>Maverickpayments</strong></a></td>
 <td style="word-break:break-word;">Underwriting Intern</td>
 <td style="word-break:break-word;">Calabasas<br>CA</td>
 <td align="center"><a href="https://maverickpayments.applytojob.com/apply/jobs/details/tWpSllz0U8"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://paybyphone.bamboohr.com/careers/58"><strong>Paybyphone</strong></a></td>
+<td style="word-break:break-word;">Systems Analyst (Co-op/Intern)</td>
+<td style="word-break:break-word;">Vancouver<br>British Columbia<br>Canada</td>
+<td align="center"><a href="https://paybyphone.bamboohr.com/careers/58"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/178"><strong>PACT</strong></a></td>
+<td style="word-break:break-word;">Quality Co-op</td>
+<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://pact.bamboohr.com/careers/178"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/174">↳ <strong>PACT</strong></a></td>
+<td style="word-break:break-word;">Health &amp; Safety Co-op</td>
+<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://pact.bamboohr.com/careers/174"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/176">↳ <strong>PACT</strong></a></td>
+<td style="word-break:break-word;">Finance Co-op</td>
+<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://pact.bamboohr.com/careers/176"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/175">↳ <strong>PACT</strong></a></td>
+<td style="word-break:break-word;">Environmental Co-op</td>
+<td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://pact.bamboohr.com/careers/175"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.lever.co/suger/fb6d7568-ab64-43cb-9924-185aeeebc6cf"><strong>Suger</strong></a></td>
 <td style="word-break:break-word;">GTM Intern</td>
 <td style="word-break:break-word;">San Francisco<br>CA</td>
 <td align="center"><a href="https://jobs.lever.co/suger/fb6d7568-ab64-43cb-9924-185aeeebc6cf"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://careers-kinaxis.icims.com/jobs/34991/co-op-intern-cloud-developer%2c-platform-engineering/job?in_iframe=1"><strong>Kinaxis</strong></a></td>
 <td style="word-break:break-word;">Co-op/Intern Cloud Developer, Platform Engine...</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>CA</td>
 <td align="center"><a href="https://careers-kinaxis.icims.com/jobs/34991/co-op-intern-cloud-developer%2c-platform-engineering/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.lever.co/jobgether/c1de73ea-6d83-412e-b69b-510afda20413"><strong>Jobgether</strong></a></td>
 <td style="word-break:break-word;">AI Engineer (Remote, International)</td>
 <td style="word-break:break-word;">Canada</td>
 <td align="center"><a href="https://jobs.lever.co/jobgether/c1de73ea-6d83-412e-b69b-510afda20413"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1006536"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Geotechnical Co-op Student (Fall 2026)</td>
 <td style="word-break:break-word;">Vancouver<br>BC<br>Canada</td>
 <td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006536"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://cybera.bamboohr.com/careers/132"><strong>Cybera</strong></a></td>
 <td style="word-break:break-word;">Internal Cybersecurity Lead</td>
 <td style="word-break:break-word;">Calgary<br>Alberta<br>Canada</td>
 <td align="center"><a href="https://cybera.bamboohr.com/careers/132"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/NYT2LJ/jobs/payroll-specialist_wakefield_btfjnedg"><strong>Arbor Education</strong></a></td>
 <td style="word-break:break-word;">Payroll Specialist</td>
 <td style="word-break:break-word;">Field<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/NYT2LJ/jobs/payroll-specialist_wakefield_btfjnedg"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://iabcbn.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1196"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Client Services Representative, Co-op</td>
 <td style="word-break:break-word;">Burlington<br>ON<br>Canada</td>
 <td align="center"><a href="https://iabcbn.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1196"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1006511">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Civil Engineering Co-op Student - Fall 2026</td>
 <td style="word-break:break-word;">Waterloo<br>ON<br>Canada</td>
 <td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006511"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://trench.csod.com/ux/ats/careersite/1/job/1683?c=trench"><strong>Trench Group</strong></a></td>
 <td style="word-break:break-word;">AI &amp; ML Intern - Electrical Engineer</td>
 <td style="word-break:break-word;">Scarborough<br>Ontario<br>CA</td>
 <td align="center"><a href="https://trench.csod.com/ux/ats/careersite/1/job/1683?c=trench"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#41562"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Transportation Engineering Intern</td>
 <td style="word-break:break-word;">ON<br>Canada</td>
 <td align="center"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#41562"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://huaweicanada.recruitee.com/o/intern-engineer-ai-agent-for-data"><strong>Huawei Technologi...</strong></a></td>
 <td style="word-break:break-word;">Intern Engineer - AI Agent for Data</td>
 <td style="word-break:break-word;">Markham<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://huaweicanada.recruitee.com/o/intern-engineer-ai-agent-for-data"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/bluemoonmetals/jobs/4298913009"><strong>Bluemoonmetals</strong></a></td>
 <td style="word-break:break-word;">Marketing Intern</td>
 <td style="word-break:break-word;">Reporting to Corporate Headquarters in Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/bluemoonmetals/jobs/4298913009"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ats.rippling.com/fluidai-medical-careers/jobs/c87d6d49-edd6-47eb-93f8-6e8a93216b39"><strong>Fluidai Medical</strong></a></td>
@@ -251,209 +251,202 @@
 <td style="word-break:break-word;">Chauffeur-livreur Classe 3</td>
 <td style="word-break:break-word;">Saint-Remi<br>QC<br>Canada</td>
 <td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2348818"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014505">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Intern, Investigations Diligence and Complian...</td>
 <td style="word-break:break-word;">Toronto<br>ONT<br>Canada</td>
 <td align="center"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#21014505"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://armtecdefensetechnologies.applytojob.com/apply/jobs/details/TKwwfIrSv8"><strong>Armtecdefensetech...</strong></a></td>
-<td style="word-break:break-word;">Senior Quality Auditor (Internal Only)</td>
-<td style="word-break:break-word;">Coachella<br>CA</td>
-<td align="center"><a href="https://armtecdefensetechnologies.applytojob.com/apply/jobs/details/TKwwfIrSv8"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ndp.bamboohr.com/careers/464"><strong>NDP</strong></a></td>
 <td style="word-break:break-word;">(Internal Applicants Only) Creative Media Pro...</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://ndp.bamboohr.com/careers/464"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://armtecdefensetechnologies.applytojob.com/apply/jobs/details/TKwwfIrSv8"><strong>Armtecdefensetech...</strong></a></td>
+<td style="word-break:break-word;">Senior Quality Auditor (Internal Only)</td>
+<td style="word-break:break-word;">Coachella<br>CA</td>
+<td align="center"><a href="https://armtecdefensetechnologies.applytojob.com/apply/jobs/details/TKwwfIrSv8"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1006436"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Building Science Intern (Fall 2026)</td>
 <td style="word-break:break-word;">Burnaby<br>BC<br>Canada</td>
 <td align="center"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1006436"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://lambtonkent.bamboohr.com/careers/255"><strong>Lambtonkent</strong></a></td>
 <td style="word-break:break-word;">Internal/ External Housing Case Manager</td>
 <td style="word-break:break-word;">Sarnia<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://lambtonkent.bamboohr.com/careers/255"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000133679349"><strong>Aecom</strong></a></td>
 <td style="word-break:break-word;">Water/Wastewater Construction Engineering Intern</td>
 <td style="word-break:break-word;">Mississauga<br>ON<br>ca</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000133679349"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/later/jobs/8604889002"><strong>Later</strong></a></td>
 <td style="word-break:break-word;">AI Automation Engineer Co-op</td>
 <td style="word-break:break-word;">Vancouver<br>British Columbia<br>Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/later/jobs/8604889002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://careers-capreit.icims.com/jobs/14819/intern%2c-investments-%28fall-2026%29/job?in_iframe=1"><strong>Capreit</strong></a></td>
 <td style="word-break:break-word;">Intern, Investments (Fall 2026)</td>
 <td style="word-break:break-word;">Toronto<br>ON<br>CA</td>
 <td align="center"><a href="https://careers-capreit.icims.com/jobs/14819/intern%2c-investments-%28fall-2026%29/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/aecom2/744000133578029"><strong>Aecom</strong></a></td>
 <td style="word-break:break-word;">Architect/Intern Architect</td>
 <td style="word-break:break-word;">Burnaby<br>BC<br>ca</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000133578029"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/stagiaire-en-environnement_montreal_ARTEL_zx9dQ2l"><strong>Artelia</strong></a></td>
 <td style="word-break:break-word;">Stagiaire en environnement</td>
 <td style="word-break:break-word;">Montreal<br>Quebec<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/stagiaire-en-environnement_montreal_ARTEL_zx9dQ2l"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#77802"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Entry level Substation Engineer</td>
 <td style="word-break:break-word;">Edmonton<br>AB<br>Canada</td>
 <td align="center"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#77802"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://estesenergy.applytojob.com/apply/jobs/details/3C4F6oN2O2"><strong>Estesenergy</strong></a></td>
-<td style="word-break:break-word;">2026 Fall Engineering Intern</td>
-<td style="word-break:break-word;">San Francisco<br>CA</td>
-<td align="center"><a href="https://estesenergy.applytojob.com/apply/jobs/details/3C4F6oN2O2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/vvDhN4ontb"><strong>Grizzlytrek</strong></a></td>
-<td style="word-break:break-word;">Indigenous Operator Internship - Class 3 and 1</td>
-<td style="word-break:break-word;">Red Deer<br>AB<br>Canada</td>
-<td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/vvDhN4ontb"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/rSB3GsJY1z">↳ <strong>Grizzlytrek</strong></a></td>
+<td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/JghNOPhpWZ"><strong>Grizzlytrek</strong></a></td>
 <td style="word-break:break-word;">Class 1 and 3 Indigenous Operator Internship</td>
-<td style="word-break:break-word;">Grand Prairie<br>AB<br>Canada</td>
-<td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/rSB3GsJY1z"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="word-break:break-word;">Calgary<br>AB<br>Canada</td>
+<td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/JghNOPhpWZ"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/hSBfArv4Zo">↳ <strong>Grizzlytrek</strong></a></td>
 <td style="word-break:break-word;">Indigenous Operator Internship - Class 1 and 3</td>
 <td style="word-break:break-word;">Edmonton<br>AB<br>Canada</td>
 <td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/hSBfArv4Zo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/JghNOPhpWZ">↳ <strong>Grizzlytrek</strong></a></td>
-<td style="word-break:break-word;">Class 1 and 3 Indigenous Operator Internship</td>
-<td style="word-break:break-word;">Calgary<br>AB<br>Canada</td>
-<td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/JghNOPhpWZ"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/vvDhN4ontb">↳ <strong>Grizzlytrek</strong></a></td>
+<td style="word-break:break-word;">Indigenous Operator Internship - Class 3 and 1</td>
+<td style="word-break:break-word;">Red Deer<br>AB<br>Canada</td>
+<td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/vvDhN4ontb"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://maacproject.applytojob.com/apply/jobs/details/9ZGIozX0gZ"><strong>Maacproject</strong></a></td>
 <td style="word-break:break-word;">Program Aide (North Campus Early Learning Cen...</td>
 <td style="word-break:break-word;">Vista<br>CA</td>
 <td align="center"><a href="https://maacproject.applytojob.com/apply/jobs/details/9ZGIozX0gZ"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/rSB3GsJY1z"><strong>Grizzlytrek</strong></a></td>
+<td style="word-break:break-word;">Class 1 and 3 Indigenous Operator Internship</td>
+<td style="word-break:break-word;">Grand Prairie<br>AB<br>Canada</td>
+<td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/rSB3GsJY1z"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://estesenergy.applytojob.com/apply/jobs/details/3C4F6oN2O2"><strong>Estesenergy</strong></a></td>
+<td style="word-break:break-word;">2026 Fall Engineering Intern</td>
+<td style="word-break:break-word;">San Francisco<br>CA</td>
+<td align="center"><a href="https://estesenergy.applytojob.com/apply/jobs/details/3C4F6oN2O2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/notable/453ba7d6-c905-4208-b449-d18bc6759df3"><strong>Notable</strong></a></td>
 <td style="word-break:break-word;">Security Engineer Intern</td>
 <td style="word-break:break-word;">San Mateo<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/notable/453ba7d6-c905-4208-b449-d18bc6759df3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://huaweicanada.recruitee.com/o/intern-research-engineer-ai-agent-systems"><strong>Huawei Technologi...</strong></a></td>
 <td style="word-break:break-word;">Intern Research Engineer - AI Agent Systems</td>
 <td style="word-break:break-word;">Markham<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://huaweicanada.recruitee.com/o/intern-research-engineer-ai-agent-systems"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/figureai/jobs/4691070006"><strong>Figureai</strong></a></td>
 <td style="word-break:break-word;">Firmware Intern [Fall 2026]</td>
 <td style="word-break:break-word;">San Jose<br>CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/figureai/jobs/4691070006"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://epyc.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#160628"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Entry Level Sales and Service Route Driver</td>
 <td style="word-break:break-word;">Delta<br>BC<br>Canada</td>
 <td align="center"><a href="https://epyc.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#160628"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#106706">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Assistant QA Inspector (Switches) - Day Shift...</td>
 <td style="word-break:break-word;">Toronto<br>ON<br>Canada</td>
 <td align="center"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#106706"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#10668">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Sales Enablement &amp; Digital Strategy Co-op Stu...</td>
 <td style="word-break:break-word;">Toronto<br>ON<br>Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#10668"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://xtractone.bamboohr.com/careers/214"><strong>Xtractone</strong></a></td>
-<td style="word-break:break-word;">Mechatronics Engineer - Co-op Student</td>
-<td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://xtractone.bamboohr.com/careers/214"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://nanoleaf.bamboohr.com/careers/70"><strong>Nanoleaf</strong></a></td>
 <td style="word-break:break-word;">Graphic Design Intern / Contract Designer</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://nanoleaf.bamboohr.com/careers/70"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://xtractone.bamboohr.com/careers/214"><strong>Xtractone</strong></a></td>
+<td style="word-break:break-word;">Mechatronics Engineer - Co-op Student</td>
+<td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://xtractone.bamboohr.com/careers/214"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://huaweicanada.recruitee.com/o/intern-researcher-ai-3"><strong>Huawei Technologi...</strong></a></td>
 <td style="word-break:break-word;">Intern Researcher - AI</td>
 <td style="word-break:break-word;">Vancouver<br>British Columbia<br>Canada</td>
 <td align="center"><a href="https://huaweicanada.recruitee.com/o/intern-researcher-ai-3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/gdmsi/744000133125725"><strong>Gdmsi</strong></a></td>
 <td style="word-break:break-word;">Co-op Fall 2026 - Software Developer - 8 Months</td>
 <td style="word-break:break-word;">Cole Harbour<br>NS<br>ca</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/gdmsi/744000133125725"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ericsson.eightfold.ai/careers/job/563121774439055"><strong>Ericsson</strong></a></td>
 <td style="word-break:break-word;">Software Developer Intern</td>
 <td style="word-break:break-word;">Toronto<br>ON<br>CA</td>
 <td align="center"><a href="https://ericsson.eightfold.ai/careers/job/563121774439055"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://nwpd.bamboohr.com/careers/167"><strong>NWPD</strong></a></td>
-<td style="word-break:break-word;">INTERNAL ONLY: IHIT AD-HOC</td>
-<td style="word-break:break-word;">New Westminster<br>British Columbia<br>Canada</td>
-<td align="center"><a href="https://nwpd.bamboohr.com/careers/167"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">13d</td>
 </tr>
 <tr>
@@ -461,49 +454,56 @@
 <td style="word-break:break-word;">Social Media/Content Intern</td>
 <td style="word-break:break-word;">Scripps Summit Ct<br>CA</td>
 <td align="center"><a href="https://satechi.applytojob.com/apply/jobs/details/BlzwtgnQMg"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://nwpd.bamboohr.com/careers/167"><strong>NWPD</strong></a></td>
+<td style="word-break:break-word;">INTERNAL ONLY: IHIT AD-HOC</td>
+<td style="word-break:break-word;">New Westminster<br>British Columbia<br>Canada</td>
+<td align="center"><a href="https://nwpd.bamboohr.com/careers/167"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3"><strong>Hadrian Automation</strong></a></td>
 <td style="word-break:break-word;">Fullstack Software Engineer, New Grad</td>
 <td style="word-break:break-word;">Los Angeles<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/hadrian-automation/41472a42-c3c3-40bd-a784-8a3fbab47be3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ericsson.eightfold.ai/careers/job/563121776440662"><strong>Ericsson</strong></a></td>
 <td style="word-break:break-word;">RAN Troubleshooting Automation AI Coop</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>CA</td>
 <td align="center"><a href="https://ericsson.eightfold.ai/careers/job/563121776440662"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://careers-kinaxis.icims.com/jobs/34962/co-op-intern-software-developer%2c-core-algorithms/job?in_iframe=1"><strong>Kinaxis</strong></a></td>
 <td style="word-break:break-word;">Co-op/Intern Software Developer, Core Algorithms</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>CA</td>
 <td align="center"><a href="https://careers-kinaxis.icims.com/jobs/34962/co-op-intern-software-developer%2c-core-algorithms/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
+<td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://techinsights.applytojob.com/apply/jobs/details/RVCXkgZULm"><strong>Techinsights</strong></a></td>
 <td style="word-break:break-word;">Research Scientist - Semiconductor Process Ch...</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>Canada</td>
 <td align="center"><a href="https://techinsights.applytojob.com/apply/jobs/details/RVCXkgZULm"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
+<td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://xtltransportlogistics.applytojob.com/apply/jobs/details/sbCaKQn4Ze"><strong>Xtltransportlogis...</strong></a></td>
 <td style="word-break:break-word;">Chauffeur Classe 1/AZ driver - US from Vaudreuil</td>
 <td style="word-break:break-word;">ottawa<br>ON<br>Canada</td>
 <td align="center"><a href="https://xtltransportlogistics.applytojob.com/apply/jobs/details/sbCaKQn4Ze"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
+<td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/tubi-canada/jobs/8013227"><strong>Tubi Canada</strong></a></td>
 <td style="word-break:break-word;">Staff Software Engineer, Internal Tools</td>
 <td style="word-break:break-word;">Toronto<br>Canada (Hybrid)</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tubi-canada/jobs/8013227"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">14d</td>
+<td style="white-space:nowrap;">15d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ericsson.eightfold.ai/careers/job/563121776468439"><strong>Ericsson</strong></a></td>
@@ -517,161 +517,161 @@
 <td style="word-break:break-word;">Livreur</td>
 <td style="word-break:break-word;">Sainte-Foy<br>QC<br>Canada</td>
 <td align="center"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2615255"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
+<td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://powerplus.applytojob.com/apply/jobs/details/R36CRE1IoU"><strong>Powerplus</strong></a></td>
 <td style="word-break:break-word;">Entry Level Electrical Worker</td>
 <td style="word-break:break-word;">Sunnyvale<br>CA</td>
 <td align="center"><a href="https://powerplus.applytojob.com/apply/jobs/details/R36CRE1IoU"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
+<td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ericsson.eightfold.ai/careers/job/563121775906712"><strong>Ericsson</strong></a></td>
 <td style="word-break:break-word;">System Test Developer Coop</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>CA</td>
 <td align="center"><a href="https://ericsson.eightfold.ai/careers/job/563121775906712"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
+<td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://reliantinternships.breezy.hr/p/b3a63a460d3a-resonate-internship"><strong>Reliant Mission</strong></a></td>
 <td style="word-break:break-word;">Resonate Internship</td>
 <td style="word-break:break-word;">Fremont<br>CA</td>
 <td align="center"><a href="https://reliantinternships.breezy.hr/p/b3a63a460d3a-resonate-internship"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
+<td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ericsson.eightfold.ai/careers/job/563121776069315"><strong>Ericsson</strong></a></td>
 <td style="word-break:break-word;">Product Support CO-OP</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>CA</td>
 <td align="center"><a href="https://ericsson.eightfold.ai/careers/job/563121776069315"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">15d</td>
+<td style="white-space:nowrap;">16d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/lrZsGX/jobs/senior-software-engineer-internal-developer-platform_toronto_iitw3gby"><strong>Zoominfo</strong></a></td>
 <td style="word-break:break-word;">Senior Software Engineer (Internal Developer ...</td>
 <td style="word-break:break-word;">Toronto<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/lrZsGX/jobs/senior-software-engineer-internal-developer-platform_toronto_iitw3gby"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://emcm.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2348884"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Chauffeur-livreur Classe 1 - Swing</td>
 <td style="word-break:break-word;">Saint-Remi<br>QC<br>Canada</td>
 <td align="center"><a href="https://emcm.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#2348884"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/P9pJ5TLdi7"><strong>Hungrypanda</strong></a></td>
-<td style="word-break:break-word;">Marketing Intern (Paid) - Mandarin Speaking</td>
-<td style="word-break:break-word;">Los Angeles<br>CA</td>
-<td align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/P9pJ5TLdi7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/w7Pch93ahO">↳ <strong>Hungrypanda</strong></a></td>
-<td style="word-break:break-word;">Marketing Intern (Paid) - Mandarin Speaking</td>
-<td style="word-break:break-word;">San Francisco<br>CA</td>
-<td align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/w7Pch93ahO"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/cZahOwzMCC"><strong>Beesweetcitrus</strong></a></td>
-<td style="word-break:break-word;">Production Management Intern</td>
-<td style="word-break:break-word;">Fowler<br>CA</td>
-<td align="center"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/cZahOwzMCC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/GfjACs0noH"><strong>Hungrypanda</strong></a></td>
-<td style="word-break:break-word;">Marketing Intern (Paid) - Mandarin Speaking</td>
-<td style="word-break:break-word;">San Jose<br>CA</td>
-<td align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/GfjACs0noH"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="word-break:break-word;"><a href="https://apply.workable.com/j/88DD3AE4E3"><strong>Mealsuite</strong></a></td>
+<td style="word-break:break-word;">Co-Op Student - Data Analytics &amp; AI</td>
+<td style="word-break:break-word;">Cambridge<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://apply.workable.com/j/88DD3AE4E3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://iata.csod.com/ux/ats/careersite/1/job/3608?c=iata"><strong>IATA</strong></a></td>
 <td style="word-break:break-word;">Intern Finance and Collections</td>
 <td style="word-break:break-word;">Montreal<br>Quebec<br>CA</td>
 <td align="center"><a href="https://iata.csod.com/ux/ats/careersite/1/job/3608?c=iata"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://apply.workable.com/j/3DE468D27A"><strong>Mealsuite</strong></a></td>
-<td style="word-break:break-word;">Co-Op Student - Platform Engineering</td>
-<td style="word-break:break-word;">Cambridge<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://apply.workable.com/j/3DE468D27A"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://apply.workable.com/j/88DD3AE4E3">↳ <strong>Mealsuite</strong></a></td>
-<td style="word-break:break-word;">Co-Op Student - Data Analytics &amp; AI</td>
-<td style="word-break:break-word;">Cambridge<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://apply.workable.com/j/88DD3AE4E3"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://apply.workable.com/j/4E451BC0DA">↳ <strong>Mealsuite</strong></a></td>
+<td style="word-break:break-word;"><a href="https://apply.workable.com/j/4E451BC0DA"><strong>Mealsuite</strong></a></td>
 <td style="word-break:break-word;">Co-Op Student - Software Engineer</td>
 <td style="word-break:break-word;">Cambridge<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://apply.workable.com/j/4E451BC0DA"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://apply.workable.com/j/3DE468D27A">↳ <strong>Mealsuite</strong></a></td>
+<td style="word-break:break-word;">Co-Op Student - Platform Engineering</td>
+<td style="word-break:break-word;">Cambridge<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://apply.workable.com/j/3DE468D27A"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/cZahOwzMCC"><strong>Beesweetcitrus</strong></a></td>
+<td style="word-break:break-word;">Production Management Intern</td>
+<td style="word-break:break-word;">Fowler<br>CA</td>
+<td align="center"><a href="https://beesweetcitrus.applytojob.com/apply/jobs/details/cZahOwzMCC"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/w7Pch93ahO"><strong>Hungrypanda</strong></a></td>
+<td style="word-break:break-word;">Marketing Intern (Paid) - Mandarin Speaking</td>
+<td style="word-break:break-word;">San Francisco<br>CA</td>
+<td align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/w7Pch93ahO"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/GfjACs0noH">↳ <strong>Hungrypanda</strong></a></td>
+<td style="word-break:break-word;">Marketing Intern (Paid) - Mandarin Speaking</td>
+<td style="word-break:break-word;">San Jose<br>CA</td>
+<td align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/GfjACs0noH"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/P9pJ5TLdi7">↳ <strong>Hungrypanda</strong></a></td>
+<td style="word-break:break-word;">Marketing Intern (Paid) - Mandarin Speaking</td>
+<td style="word-break:break-word;">Los Angeles<br>CA</td>
+<td align="center"><a href="https://hungrypanda.applytojob.com/apply/jobs/details/P9pJ5TLdi7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://boards.greenhouse.io/spacex/jobs/8589980002?gh_jid=8589980002">🔥 <strong>Spacex</strong></a></td>
 <td style="word-break:break-word;">Internal Mobility Analyst (Recruiting) - Hawt...</td>
 <td style="word-break:break-word;">Hawthorne<br>CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8589980002?gh_jid=8589980002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ats.rippling.com/zymeworks-careers/jobs/ab472ce1-490d-4417-b18b-e53339a06470"><strong>Zymeworks</strong></a></td>
 <td style="word-break:break-word;">Co-op Student, Portfolio Strategy</td>
 <td style="word-break:break-word;">Vancouver<br>Canada</td>
 <td align="center"><a href="https://ats.rippling.com/zymeworks-careers/jobs/ab472ce1-490d-4417-b18b-e53339a06470"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="white-space:nowrap;">17d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://app.careerpuck.com/job-board/lyft/job/8588463002?gh_jid=8588463002">🔥 <strong>LYFT</strong></a></td>
 <td style="word-break:break-word;">Internal Audit Manager</td>
 <td style="word-break:break-word;">San Francisco<br>CA</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8588463002?gh_jid=8588463002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://app.careerpuck.com/job-board/lyft/job/8588609002?gh_jid=8588609002">↳ 🔥 <strong>LYFT</strong></a></td>
 <td style="word-break:break-word;">Internal Audit Manager</td>
 <td style="word-break:break-word;">Toronto<br>Canada</td>
 <td align="center"><a href="https://app.careerpuck.com/job-board/lyft/job/8588609002?gh_jid=8588609002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://pact.bamboohr.com/careers/157"><strong>PACT</strong></a></td>
 <td style="word-break:break-word;">HR Co-op</td>
 <td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://pact.bamboohr.com/careers/157"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://mtm-llc.breezy.hr/p/565167216517-entry-level-sales-representative-base-salary-commission"><strong>Mtm Llc</strong></a></td>
 <td style="word-break:break-word;">Entry Level Sales Representative - Base Salar...</td>
 <td style="word-break:break-word;">Fresno<br>CA</td>
 <td align="center"><a href="https://mtm-llc.breezy.hr/p/565167216517-entry-level-sales-representative-base-salary-commission"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
+<td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678"><strong>Ifm Us</strong></a></td>
 <td style="word-break:break-word;">AI Research Internship - WM</td>
 <td style="word-break:break-word;">Sunnyvale<br>CA</td>
 <td align="center"><a href="https://jobs.lever.co/ifm-us/3eec355c-6dde-4a3e-8cdf-b2a8930d5678"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
+<td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning"><strong>Huawei Technologi...</strong></a></td>
 <td style="word-break:break-word;">Intern Researcher - AI/ML Technology Insight ...</td>
 <td style="word-break:break-word;">Vancouver<br>British Columbia<br>Canada</td>
 <td align="center"><a href="https://huaweicanada.recruitee.com/o/intern-researcher-aiml-technology-insight-and-planning"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
+<td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5162150007"><strong>Tenstorrentuniver...</strong></a></td>
@@ -685,28 +685,28 @@
 <td style="word-break:break-word;">Corporate Communications &amp; Member Services Co-op</td>
 <td style="word-break:break-word;">Victoria<br>CA</td>
 <td align="center"><a href="https://engagedhr.teamtailor.com/jobs/7903809-corporate-communications-member-services-co-op"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">19d</td>
+<td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/jVarSc/jobs/marketing-intern-september-2026-8-months_toronto_ylg6xb5n"><strong>Kepler</strong></a></td>
 <td style="word-break:break-word;">Marketing Intern (September 2026, 8 Months)</td>
 <td style="word-break:break-word;">Toronto<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/jVarSc/jobs/marketing-intern-september-2026-8-months_toronto_ylg6xb5n"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#10435"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Quality Engineer Co-op Student - Toronto - Fa...</td>
 <td style="word-break:break-word;">Toronto<br>ON<br>Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#10435"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.carvana.com/careers/apply?gh_jid=8001897"><strong>Carvana</strong></a></td>
 <td style="word-break:break-word;">Entry-Level Automotive Detailer / Lot Attenda...</td>
 <td style="word-break:break-word;">San Diego<br>CA</td>
 <td align="center"><a href="https://www.carvana.com/careers/apply?gh_jid=8001897"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://eaton.eightfold.ai/careers/job/687237086321"><strong>Eaton</strong></a></td>
@@ -720,161 +720,161 @@
 <td style="word-break:break-word;">Detection Development Intern, Fall 2026</td>
 <td style="word-break:break-word;">Quebec City (Province of Quebec<br>Canada)</td>
 <td align="center"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8588549002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8577229002">↳ <strong>Coveoen</strong></a></td>
 <td style="word-break:break-word;">Detection Development Intern, Fall 2026</td>
 <td style="word-break:break-word;">Montreal (Province of Quebec<br>Canada)</td>
 <td align="center"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8577229002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://arcadis.eightfold.ai/careers/job/563671532173665"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word;">Transportation Engineering Intern</td>
 <td style="word-break:break-word;">ON<br>CA</td>
 <td align="center"><a href="https://arcadis.eightfold.ai/careers/job/563671532173665"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
+<td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://huaweicanada.recruitee.com/o/co-op-researcher-computer-network-for-ai-infrastructure"><strong>Huawei Technologi...</strong></a></td>
 <td style="word-break:break-word;">Co-op Researcher - Computer Network for AI In...</td>
 <td style="word-break:break-word;">Markham<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://huaweicanada.recruitee.com/o/co-op-researcher-computer-network-for-ai-infrastructure"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
+<td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/radiant-industries/a078f0fe-56dd-4add-a8ff-f0dd4fe7ce43"><strong>Radiant Industries</strong></a></td>
 <td style="word-break:break-word;">Build Engineer, Turbomachinery - 2026 New Gra...</td>
 <td style="word-break:break-word;">El Segundo<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/radiant-industries/a078f0fe-56dd-4add-a8ff-f0dd4fe7ce43"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
+<td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/life360/jobs/8586784002"><strong>LIFE</strong></a></td>
 <td style="word-break:break-word;">Lead Decision Scientist (International)</td>
 <td style="word-break:break-word;">Remote<br>US; Remote<br>Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/life360/jobs/8586784002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">21d</td>
+<td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8577117002"><strong>Coveoen</strong></a></td>
 <td style="word-break:break-word;">Full-Stack Development Intern, Fall 2026</td>
 <td style="word-break:break-word;">Montreal (Province of Quebec<br>Canada)</td>
 <td align="center"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8577117002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8585391002">↳ <strong>Coveoen</strong></a></td>
 <td style="word-break:break-word;">Backend Development Intern, Fall 2026</td>
 <td style="word-break:break-word;">Quebec City (Province of Quebec<br>Canada)</td>
 <td align="center"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8585391002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8577188002">↳ <strong>Coveoen</strong></a></td>
 <td style="word-break:break-word;">Backend Development Intern, Fall 2026</td>
 <td style="word-break:break-word;">Montreal (Province of Quebec<br>Canada)</td>
 <td align="center"><a href="https://www.coveo.com/en/company/careers/open-positions?gh_jid=8577188002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#10362"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Application Support Student/Intern - Fall 2026</td>
 <td style="word-break:break-word;">Dartmouth<br>NS<br>Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#10362"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/dyna-robotics/5a431519-ee6b-4cb7-8a3a-422727053a09"><strong>Dyna Robotics</strong></a></td>
 <td style="word-break:break-word;">Research Internship</td>
 <td style="word-break:break-word;">Redwood City<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/dyna-robotics/5a431519-ee6b-4cb7-8a3a-422727053a09"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/foxglove/def61478-8b86-43e5-b27b-be7b76900449"><strong>Foxglove</strong></a></td>
 <td style="word-break:break-word;">Software Engineer, New Grad</td>
 <td style="word-break:break-word;">San Francisco<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/foxglove/def61478-8b86-43e5-b27b-be7b76900449"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5106644007"><strong>Tenstorrentuniver...</strong></a></td>
 <td style="word-break:break-word;">Applied AI Intern, People Operations</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5106644007"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/tribalscale/jobs/4687337006"><strong>Tribalscale</strong></a></td>
 <td style="word-break:break-word;">Agile Software Engineer - Co-op</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/tribalscale/jobs/4687337006"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">22d</td>
+<td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://boards.greenhouse.io/spacex/jobs/8583065002?gh_jid=8583065002">🔥 <strong>Spacex</strong></a></td>
 <td style="word-break:break-word;">New Graduate Engineer, ASIC Design (Starshield)</td>
 <td style="word-break:break-word;">Hawthorne<br>CA</td>
 <td align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8583065002?gh_jid=8583065002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/radiant-industries/2735f07f-0e07-44f8-bf3c-309710e1b6c2"><strong>Radiant Industries</strong></a></td>
 <td style="word-break:break-word;">Thermal Modeling Engineer - 2026 New Graduate</td>
 <td style="word-break:break-word;">El Segundo<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/radiant-industries/2735f07f-0e07-44f8-bf3c-309710e1b6c2"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.zoominfo.com/careers?gh_jid=8568089002"><strong>Zoominfo</strong></a></td>
 <td style="word-break:break-word;">Senior Software Engineer,  Internal Developer...</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://www.zoominfo.com/careers?gh_jid=8568089002"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ats.rippling.com/sugaredandbronzed/jobs/2890ed1f-1d54-4e1c-94de-4d576640f4af"><strong>Sugaredandbronzed</strong></a></td>
 <td style="word-break:break-word;">E-Commerce Fulfillment Internship</td>
 <td style="word-break:break-word;">Santa Monica<br>CA</td>
 <td align="center"><a href="https://ats.rippling.com/sugaredandbronzed/jobs/2890ed1f-1d54-4e1c-94de-4d576640f4af"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://careers-kinaxis.icims.com/jobs/34764/co-op-intern-software-development---c%2b%2b/job?in_iframe=1"><strong>Kinaxis</strong></a></td>
 <td style="word-break:break-word;">Co-op/Intern Software Development - C++</td>
 <td style="word-break:break-word;">Remote<br>UNAVAILABLE<br>CA</td>
 <td align="center"><a href="https://careers-kinaxis.icims.com/jobs/34764/co-op-intern-software-development---c%2b%2b/job?in_iframe=1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
+<td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://elcn.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#112653"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Junior Geotechnical Engineering New Grad</td>
 <td style="word-break:break-word;">Barrie<br>ON<br>Canada</td>
 <td align="center"><a href="https://elcn.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#112653"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
+<td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#10392">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Internal Auditor</td>
 <td style="word-break:break-word;">Saint John<br>NB<br>Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#10392"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
+<td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#10331">↳ <strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">HR Coordinator - New Grad Opportunity</td>
 <td style="word-break:break-word;">Saint John<br>NB<br>Canada</td>
 <td align="center"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=Careers#10331"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">24d</td>
+<td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://hr-performance--results.breezy.hr/p/a5bee34e0fad-modern-sales-co-op-warehouse-associate--bc"><strong>Hr Performance Re...</strong></a></td>
 <td style="word-break:break-word;">Modern Sales Co-op - Warehouse Associate - BC</td>
 <td style="word-break:break-word;">Canada</td>
 <td align="center"><a href="https://hr-performance--results.breezy.hr/p/a5bee34e0fad-modern-sales-co-op-warehouse-associate--bc"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">26d</td>
+<td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://focus-group-panel.breezy.hr/p/f6611013ae12-entry-level-remote-data-entry-work-from-home"><strong>Focusgrouppanel</strong></a></td>
@@ -916,7 +916,7 @@
 <td style="word-break:break-word;">Structural Engineering Intern/co-op</td>
 <td style="word-break:break-word;">Kitchener<br>ON<br>ca</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/aecom2/744000130269299"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">27d</td>
+<td style="white-space:nowrap;">28d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://boards.greenhouse.io/spacex/jobs/8578759002?gh_jid=8578759002">🔥 <strong>Spacex</strong></a></td>
@@ -930,7 +930,7 @@
 <td style="word-break:break-word;">Event Manager Assistant - Internship - Montreal</td>
 <td style="word-break:break-word;">Montreal<br>Quebec<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/9jvT8A/jobs/event-manager-support-i-partnerships-internship_montreal"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
+<td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44"><strong>PEBL</strong></a></td>
@@ -944,63 +944,63 @@
 <td style="word-break:break-word;">Software Engineering Intern</td>
 <td style="word-break:break-word;">Menlo Park<br>CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/billiontoone/jobs/4702398005"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">28d</td>
+<td style="white-space:nowrap;">29d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://vaxart-inc.breezy.hr/p/3d0a510c3ca1-biosample-summer-intern"><strong>Vaxart</strong></a></td>
 <td style="word-break:break-word;">Biosample Summer Intern</td>
 <td style="word-break:break-word;">South San Francisco<br>CA</td>
 <td align="center"><a href="https://vaxart-inc.breezy.hr/p/3d0a510c3ca1-biosample-summer-intern"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/stagiaire-en-infrastructures-urbaines-surveillance_longueuil_ARTEL_bgYqlQN"><strong>Artelia</strong></a></td>
 <td style="word-break:break-word;">Stagiaire en infrastructures urbaines - Surve...</td>
 <td style="word-break:break-word;">Longueuil<br>Quebec<br>Canada</td>
 <td align="center"><a href="https://www.welcometothejungle.com/en/companies/KV3OgQz/jobs/stagiaire-en-infrastructures-urbaines-surveillance_longueuil_ARTEL_bgYqlQN"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612"><strong>PEBL</strong></a></td>
 <td style="word-break:break-word;">Software Engineer Intern, Invoicing &amp; Payments</td>
 <td style="word-break:break-word;">Palo Alto<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://vicpd.bamboohr.com/careers/234"><strong>Vicpd</strong></a></td>
-<td style="word-break:break-word;">Greater Victoria Public Safety Unit (INTERNAL...</td>
-<td style="word-break:break-word;">Victoria<br>British Columbia<br>Canada</td>
-<td align="center"><a href="https://vicpd.bamboohr.com/careers/234"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://carbonengineering.applytojob.com/apply/jobs/details/Jpxn1HqfWN"><strong>Carbonengineering</strong></a></td>
-<td style="word-break:break-word;">Junior Procurement Co-op</td>
-<td style="word-break:break-word;">Squamish<br>BC<br>Canada</td>
-<td align="center"><a href="https://carbonengineering.applytojob.com/apply/jobs/details/Jpxn1HqfWN"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://apply.workable.com/j/E5691D5DD7"><strong>Phasorengineering</strong></a></td>
 <td style="word-break:break-word;">Human Resources COOP - September 2026</td>
 <td style="word-break:break-word;">Calgary<br>Alberta<br>Canada</td>
 <td align="center"><a href="https://apply.workable.com/j/E5691D5DD7"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="white-space:nowrap;">30d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://vicpd.bamboohr.com/careers/234"><strong>Vicpd</strong></a></td>
+<td style="word-break:break-word;">Greater Victoria Public Safety Unit (INTERNAL...</td>
+<td style="word-break:break-word;">Victoria<br>British Columbia<br>Canada</td>
+<td align="center"><a href="https://vicpd.bamboohr.com/careers/234"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">30d</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://carbonengineering.applytojob.com/apply/jobs/details/Jpxn1HqfWN"><strong>Carbonengineering</strong></a></td>
+<td style="word-break:break-word;">Junior Procurement Co-op</td>
+<td style="word-break:break-word;">Squamish<br>BC<br>Canada</td>
+<td align="center"><a href="https://carbonengineering.applytojob.com/apply/jobs/details/Jpxn1HqfWN"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/radiant-industries/6ab08a2a-61f7-4411-bdc6-a08bafe5be21"><strong>Radiant Industries</strong></a></td>
 <td style="word-break:break-word;">Mechanical Engineer, Fluid Systems - 2026 New...</td>
 <td style="word-break:break-word;">El Segundo<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/radiant-industries/6ab08a2a-61f7-4411-bdc6-a08bafe5be21"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system"><strong>Huawei Technologi...</strong></a></td>
 <td style="word-break:break-word;">Intern Engineer - Game Engine System</td>
 <td style="word-break:break-word;">Edmonton<br>Alberta<br>Canada</td>
 <td align="center"><a href="https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">29d</td>
+<td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.ashbyhq.com/nox-metals/6edc2dff-7c4b-44b8-abba-32d5953b8c5f"><strong>Nox Metals</strong></a></td>
@@ -1014,56 +1014,56 @@
 <td style="word-break:break-word;">Software Engineering Intern</td>
 <td style="word-break:break-word;">San Francisco<br>CA</td>
 <td align="center"><a href="https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#36996"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word;">Silicon Photonics Packaging Co-op/Intern</td>
 <td style="word-break:break-word;">Canada</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#36996"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://strategycorpinc.applytojob.com/apply/jobs/details/msnNb0K3vo"><strong>Strategycorpinc</strong></a></td>
-<td style="word-break:break-word;">Internship Application</td>
-<td style="word-break:break-word;">Ottawa & Toronto<br>ON<br>Canada</td>
-<td align="center"><a href="https://strategycorpinc.applytojob.com/apply/jobs/details/msnNb0K3vo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
-<td style="word-break:break-word;"><a href="https://tullochengineering.applytojob.com/apply/jobs/details/zLGI25bJat"><strong>Tullochengineering</strong></a></td>
-<td style="word-break:break-word;">Structural Engineering Intern</td>
-<td style="word-break:break-word;">Huntsville<br>ON<br>Canada</td>
-<td align="center"><a href="https://tullochengineering.applytojob.com/apply/jobs/details/zLGI25bJat"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://apply.workable.com/j/F5CF4A45A0"><strong>Liberty Mutual Ca...</strong></a></td>
 <td style="word-break:break-word;">Underwriting Co-Op Student, Cyber &amp; Tech (Sep...</td>
 <td style="word-break:break-word;">Toronto<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://apply.workable.com/j/F5CF4A45A0"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://strategycorpinc.applytojob.com/apply/jobs/details/msnNb0K3vo"><strong>Strategycorpinc</strong></a></td>
+<td style="word-break:break-word;">Internship Application</td>
+<td style="word-break:break-word;">Ottawa & Toronto<br>ON<br>Canada</td>
+<td align="center"><a href="https://strategycorpinc.applytojob.com/apply/jobs/details/msnNb0K3vo"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://tullochengineering.applytojob.com/apply/jobs/details/zLGI25bJat"><strong>Tullochengineering</strong></a></td>
+<td style="word-break:break-word;">Structural Engineering Intern</td>
+<td style="word-break:break-word;">Huntsville<br>ON<br>Canada</td>
+<td align="center"><a href="https://tullochengineering.applytojob.com/apply/jobs/details/zLGI25bJat"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74"><strong>Genbio</strong></a></td>
 <td style="word-break:break-word;">Software Engineering Intern</td>
 <td style="word-break:break-word;">Palo Alto<br>CA</td>
 <td align="center"><a href="https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://jobs.smartrecruiters.com/gdmsi/744000129541081"><strong>Gdmsi</strong></a></td>
 <td style="word-break:break-word;">Co-op Fall 2026 - Engineering and Project Man...</td>
 <td style="word-break:break-word;">Ottawa<br>ON<br>ca</td>
 <td align="center"><a href="https://jobs.smartrecruiters.com/gdmsi/744000129541081"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://job-boards.greenhouse.io/fulfil/jobs/7759235003"><strong>Fulfil</strong></a></td>
 <td style="word-break:break-word;">Electrical Engineer Intern</td>
 <td style="word-break:break-word;">Mountain View<br>CA</td>
 <td align="center"><a href="https://job-boards.greenhouse.io/fulfil/jobs/7759235003"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2613446"><strong>Oracle Cloud</strong></a></td>
@@ -1115,17 +1115,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://joniandfriends.applytojob.com/apply/jobs/details/PsmBRKSVe1"><strong>Joniandfriends</strong></a></td>
-<td style="word-break:break-word;">Vice President, International Ministries</td>
-<td style="word-break:break-word;">Agoura Hills<br>CA</td>
-<td align="center"><a href="https://joniandfriends.applytojob.com/apply/jobs/details/PsmBRKSVe1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><a href="https://jdrfelectromagengineeringinc.applytojob.com/apply/jobs/details/CqIIJnZSHg"><strong>Jdrfelectromageng...</strong></a></td>
 <td style="word-break:break-word;">R&amp;D Lab Support Co-op</td>
 <td style="word-break:break-word;">Mississauga<br>ON<br>Canada</td>
 <td align="center"><a href="https://jdrfelectromagengineeringinc.applytojob.com/apply/jobs/details/CqIIJnZSHg"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://joniandfriends.applytojob.com/apply/jobs/details/PsmBRKSVe1"><strong>Joniandfriends</strong></a></td>
+<td style="word-break:break-word;">Vice President, International Ministries</td>
+<td style="word-break:break-word;">Agoura Hills<br>CA</td>
+<td align="center"><a href="https://joniandfriends.applytojob.com/apply/jobs/details/PsmBRKSVe1"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -1290,17 +1290,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://dunn.bamboohr.com/careers/133"><strong>DUNN</strong></a></td>
-<td style="word-break:break-word;">Entry Level Sales</td>
-<td style="word-break:break-word;">Nelson<br>British Columbia<br>Canada</td>
-<td align="center"><a href="https://dunn.bamboohr.com/careers/133"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><a href="https://maacproject.applytojob.com/apply/jobs/details/kLTgzbnfFO"><strong>Maacproject</strong></a></td>
 <td style="word-break:break-word;">Human Resources Intern (Chula Vista)</td>
 <td style="word-break:break-word;">Chula Vista<br>CA</td>
 <td align="center"><a href="https://maacproject.applytojob.com/apply/jobs/details/kLTgzbnfFO"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://dunn.bamboohr.com/careers/133"><strong>DUNN</strong></a></td>
+<td style="word-break:break-word;">Entry Level Sales</td>
+<td style="word-break:break-word;">Nelson<br>British Columbia<br>Canada</td>
+<td align="center"><a href="https://dunn.bamboohr.com/careers/133"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -1612,17 +1612,17 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word;"><a href="https://clvgroup.bamboohr.com/careers/185"><strong>Clvgroup</strong></a></td>
-<td style="word-break:break-word;">New Grad Sales Representative</td>
-<td style="word-break:break-word;">Oakville<br>Ontario<br>Canada</td>
-<td align="center"><a href="https://clvgroup.bamboohr.com/careers/185"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word;"><a href="https://apply.workable.com/j/24563FDE3D"><strong>Freight T A S Llc</strong></a></td>
 <td style="word-break:break-word;">Freight Sales - International and Domestic</td>
 <td style="word-break:break-word;">Mississauga<br>Ontario<br>Canada</td>
 <td align="center"><a href="https://apply.workable.com/j/24563FDE3D"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word;"><a href="https://clvgroup.bamboohr.com/careers/185"><strong>Clvgroup</strong></a></td>
+<td style="word-break:break-word;">New Grad Sales Representative</td>
+<td style="word-break:break-word;">Oakville<br>Ontario<br>Canada</td>
+<td align="center"><a href="https://clvgroup.bamboohr.com/careers/185"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -1644,14 +1644,14 @@
 <td style="word-break:break-word;">Test Developer Co-op/Intern</td>
 <td style="word-break:break-word;">Canada</td>
 <td align="center"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#35684"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
+<td style="white-space:nowrap;">2mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word;"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/RHtZOn7Y31"><strong>Grizzlytrek</strong></a></td>
 <td style="word-break:break-word;">Entry-Level Floorhand (New Class 3 License Ho...</td>
 <td style="word-break:break-word;">Grand Prairie<br>AB<br>Canada</td>
 <td align="center"><a href="https://grizzlytrek.applytojob.com/apply/jobs/details/RHtZOn7Y31"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply"></a></td>
-<td style="white-space:nowrap;">1mo</td>
+<td style="white-space:nowrap;">2mo</td>
 </tr>
 </tbody>
 </table>
