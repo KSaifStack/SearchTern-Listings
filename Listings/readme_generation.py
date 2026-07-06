@@ -3,7 +3,7 @@ import json
 import os
 from datetime import datetime, timezone
 
-from readme_rendering import build_header, generate_country_pages
+import readme_rendering
 from readme_utils import (
     APPLY_BUTTON,
     GITHUB_FILE_SIZE_LIMIT,
@@ -63,7 +63,7 @@ def write_listings_json(dataframe, output_dir="."):
 
     print(f"Wrote {export_path} — {len(clean_records):,} listings")
 
-    
+
 
 def generate_readme(dataframe, output_dir="."):
     """
@@ -167,7 +167,7 @@ def generate_readme(dataframe, output_dir="."):
             os.makedirs(pages_dir, exist_ok=True)
 
         nav = build_header(page_num, total_pages, total_rows, dataframe if page_num == 1 else None)
-        content = nav + build_table(page_rows) + f"\n\n{__import__("readme_rendering").build_nav(page_num, total_pages)}\n"
+        content = nav + build_table(page_rows) + f"\n\n{readme_rendering.build_nav(page_num, total_pages)}\n"
 
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(content)
