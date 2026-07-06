@@ -184,7 +184,24 @@ def format_location(location) -> str:
     """Format location — collapse 4+ locations into a dropdown."""
     if not location or str(location) == "nan":
         return "N/A"
-    parts = [html.escape(p.strip()) for p in str(location).split(",") if p.strip()]
+    
+    parts = []
+    for p in str(location).split(","):
+        cleaned = p.strip()
+        if not cleaned:
+            continue
+        if cleaned.upper() == "UNAVAILABLE":
+            cleaned = "N/A"
+        escaped = html.escape(cleaned)
+        if escaped not in parts:
+            parts.append(escaped)
+            
+    if not parts or parts == ["N/A"]:
+        return "N/A"
+        
+    if "N/A" in parts and len(parts) > 1:
+        parts.remove("N/A")
+
     if len(parts) <= 3:
         return "<br>".join(parts)
     joined = "<br>".join(parts)
