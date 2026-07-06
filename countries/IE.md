@@ -39,7 +39,7 @@
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-indeed.icims.com/jobs/47344/principle-people-business-partner-emea--internal-only/job?in_iframe=1"><strong>Indeed</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Principle People Business Partner EMEA- Inter...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>UNAVAILABLE<br>IE</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>IE</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-indeed.icims.com/jobs/47344/principle-people-business-partner-emea--internal-only/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
@@ -88,7 +88,7 @@
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-indeed.icims.com/jobs/47323/legal-operations-analyst%2c-privacy---internal-only/job?in_iframe=1"><strong>Indeed</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Legal Operations Analyst, Privacy - INTERNAL ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>UNAVAILABLE<br>IE</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>IE</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-indeed.icims.com/jobs/47323/legal-operations-analyst%2c-privacy---internal-only/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
@@ -130,7 +130,7 @@
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4284521009"><strong>Fanaticsfbg</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Staff Product Designer, Internal Tools</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>6 locations</strong></summary>Dublin<br>Ireland; Leeds<br>England<br>United Kingdom; London<br>England<br>United Kingdom</details></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Dublin<br>Ireland; Leeds<br>England<br>United Kingdom; London<br>United Kingdom</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/fanaticsfbg/jobs/4284521009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">23d</td>
 </tr>
