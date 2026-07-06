@@ -28,7 +28,7 @@ jobs:
           python -m pip install duckdb pandas pyarrow
 
       - name: Run scraper
-        run: python generate_listings.py
+        run: cd Listings && python generate_listings.py
 
       - name: Commit and push updates
         run: |
