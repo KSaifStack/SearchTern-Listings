@@ -62,6 +62,9 @@ def generate_country_pages(dataframe, output_dir="."):
 
     for code, group in dataframe.groupby("country_iso"):
         code = str(code).strip().upper()
+        if code in ("UNKNOWN", "NAN", ""):
+            continue
+        
         name = COUNTRY_NAMES.get(code, code)
         count = len(group)
         today = datetime.now(timezone.utc).strftime("%B %d, %Y")
