@@ -53,8 +53,8 @@ def write_listings_json(dataframe, output_dir="."):
             pass
 
         record = row.to_dict()
-        record["company"] = truncate(cleaned_company, MAX_COMPANY_LEN)
-        record["role"] = truncate(role, MAX_ROLE_LEN)
+        record["company"] = cleaned_company
+        record["role"] = role
         clean_records.append(record)
 
     export_path = os.path.join(pages_dir, "listings.json")

@@ -32,11 +32,10 @@ def build_country_index(dataframe, total_rows: int) -> str:
     for _, row in counts.iterrows():
         code = str(row["country_iso"]).strip().upper()
         count = int(row["count"])
-
-        if code in ("UNKNOWN", "NAN", "") or count < 10:
+        if code not in COUNTRY_NAMES or count < 10:
             continue
 
-        name = COUNTRY_NAMES.get(code, f"🌐 {code}")
+        name = COUNTRY_NAMES[code]
         pct = round((count / total_rows) * 100, 1)
         link = f"https://github.com/KSaifStack/searchtern-listings/blob/main/countries/{code}.md"
         rows.append(f"| [{name}]({link}) | {count:,} | {pct}% |")
@@ -62,10 +61,10 @@ def generate_country_pages(dataframe, output_dir="."):
 
     for code, group in dataframe.groupby("country_iso"):
         code = str(code).strip().upper()
-        if code in ("UNKNOWN", "NAN", ""):
+        if code not in COUNTRY_NAMES:
             continue
-        
-        name = COUNTRY_NAMES.get(code, code)
+
+        name = COUNTRY_NAMES[code]
         count = len(group)
         today = datetime.now(timezone.utc).strftime("%B %d, %Y")
 
