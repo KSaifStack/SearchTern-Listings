@@ -14,6 +14,7 @@ from readme_utils import (
     SIZE_BUFFER,
     build_table,
     clean_company_name,
+    clean_location,
     days_display,
     format_company,
     format_location,
@@ -55,6 +56,7 @@ def write_listings_json(dataframe, output_dir="."):
         record = row.to_dict()
         record["company"] = cleaned_company
         record["role"] = role
+        record["location"] = clean_location(record.get("location", ""))
         clean_records.append(record)
 
     export_path = os.path.join(pages_dir, "listings.json")

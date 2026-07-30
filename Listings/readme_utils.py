@@ -90,6 +90,34 @@ COUNTRY_NAMES = {
     "RO": "🇷🇴 Romania",
 }
 
+COUNTRY_CODE_TO_NAME = {k: v.split()[-1] for k, v in COUNTRY_NAMES.items()}
+COUNTRY_CODE_TO_NAME.update({
+    "MY": "Malaysia", "VN": "Vietnam", "PH": "Philippines",
+    "CN": "China", "TH": "Thailand", "ID": "Indonesia",
+    "SA": "Saudi Arabia", "AE": "UAE", "EG": "Egypt",
+    "HK": "Hong Kong", "CO": "Colombia", "EC": "Ecuador",
+    "MM": "Myanmar", "RS": "Serbia", "CR": "Costa Rica",
+    "GH": "Ghana", "UA": "Ukraine", "GE": "Georgia",
+    "TW": "Taiwan", "KE": "Kenya", "NG": "Nigeria",
+    "ZA": "South Africa", "CL": "Chile", "PE": "Peru",
+    "AR": "Argentina", "IS": "Iceland", "GR": "Greece",
+    "SI": "Slovenia", "LT": "Lithuania", "LV": "Latvia",
+    "EE": "Estonia", "RU": "Russia", "TR": "Turkey",
+    "IL": "Israel", "PK": "Pakistan", "BD": "Bangladesh",
+    "LK": "Sri Lanka", "NP": "Nepal", "KR": "South Korea",
+})
+
+US_STATES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
+    "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD",
+    "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ",
+    "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC",
+    "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY",
+    "DC", "AS", "GU", "MP", "PR", "VI",
+}
+
+CANADA_PROVINCES = {"AB", "BC", "MB", "NB", "NL", "NS", "NT", "NU", "ON", "PE", "QC", "SK", "YT"}
+
 CANONICAL_DOMAIN_MAP: dict[str, str] = {
     "baesystems": "BAE Systems",
     "marsh": "Marsh",
@@ -180,28 +208,49 @@ def days_display(date_str) -> str:
         return str(date_str)
 
 
+def clean_location(loc: str) -> str:
+    """Remove UNAVAILABLE parts and expand lowercase country codes in location strings."""
+    if not loc or str(loc) == "nan":
+        return "N/A"
+    parts = [p.strip() for p in str(loc).split(",")]
+    parts = [p for p in parts if p]
+    if not parts:
+        return "N/A"
+    if all(p.upper() == "UNAVAILABLE" for p in parts):
+        return "N/A"
+    filtered = [p for p in parts if p.upper() != "UNAVAILABLE"]
+    if not filtered:
+        return "N/A"
+    result = []
+    for i, p in enumerate(filtered):
+        upper = p.upper()
+        is_last = (i == len(filtered) - 1)
+        if len(p) == 2 and p.isalpha():
+            if upper in US_STATES:
+                result.append(upper)
+                continue
+            if upper in CANADA_PROVINCES:
+                result.append(upper)
+                continue
+            if p == p.lower() and upper in COUNTRY_CODE_TO_NAME and is_last:
+                result.append(COUNTRY_CODE_TO_NAME[upper])
+                continue
+            if p == upper and upper in COUNTRY_CODE_TO_NAME and is_last and upper not in US_STATES:
+                result.append(COUNTRY_CODE_TO_NAME[upper])
+                continue
+        result.append(p)
+    return ", ".join(result)
+
+
 def format_location(location) -> str:
     """Format location — collapse 4+ locations into a dropdown."""
-    if not location or str(location) == "nan":
+    loc = clean_location(str(location)) if location and str(location) != "nan" else "N/A"
+    if loc == "N/A":
         return "N/A"
-    
-    parts = []
-    for p in str(location).split(","):
-        cleaned = p.strip()
-        if not cleaned:
-            continue
-        if cleaned.upper() == "UNAVAILABLE":
-            cleaned = "N/A"
-        escaped = html.escape(cleaned)
-        if escaped not in parts:
-            parts.append(escaped)
-            
-    if not parts or parts == ["N/A"]:
+    parts = [html.escape(p.strip()) for p in loc.split(",")]
+    parts = [p for p in parts if p]
+    if not parts:
         return "N/A"
-        
-    if "N/A" in parts and len(parts) > 1:
-        parts.remove("N/A")
-
     if len(parts) <= 3:
         return "<br>".join(parts)
     joined = "<br>".join(parts)
