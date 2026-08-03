@@ -50,7 +50,8 @@ jobs:
                 echo "Push succeeded."
                 exit 0
               fi
-              echo "Push failed (attempt $i/5), retrying in 20s..."
+              echo "Push failed (attempt $i/5), pulling remote changes and retrying in 20s..."
+              git pull --rebase --autostash origin main
               sleep 20
             done
             echo "Push failed after 5 attempts."
