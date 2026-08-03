@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: job-listings
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -41,5 +45,14 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update job listings [skip ci]"
-            git push
+            for i in 1 2 3 4 5; do
+              if git push; then
+                echo "Push succeeded."
+                exit 0
+              fi
+              echo "Push failed (attempt $i/5), retrying in 20s..."
+              sleep 20
+            done
+            echo "Push failed after 5 attempts."
+            exit 1
           fi
