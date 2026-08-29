@@ -24,6 +24,15 @@ BLOCKED_COMPANIES: set[str] = {
     "destinationknot",
     "themcquadeorganiz",
     "globelifeaillisar",
+    "securitycareers aus",
+    "aerotek",
+    "carvana",
+    "gigrichmond",
+    "thesemleragency",
+    "startup aus",
+    "mrappleinternalonly",
+    "stafffinancialgroup",
+    "keenfinity",
 }
 NORMALIZED_BLOCKED_COMPANIES = {name.strip().lower() for name in BLOCKED_COMPANIES}
 

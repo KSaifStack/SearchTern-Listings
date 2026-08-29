@@ -5,6 +5,7 @@ import re
 import requests
 import time as _time
 import duckdb
+import markdown_sources
 import pandas as pd
 import readme_generation
 
@@ -554,6 +555,40 @@ if not ats_df.empty:
     )
     print(f"  ATS probe added: {ats_r} to README, {ats_l} to listings")
 
+# ── Markdown GitHub sources (new coverage, not in external pipeline) ──────────
+pre_md_listings_keys = set(
+    listings_result[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
+)
+md_df, md_source_stats = markdown_sources.fetch_and_parse(infer_country=_infer_country)
+md_r = 0
+md_l = 0
+if not md_df.empty:
+    print(f"  Markdown unique rows: {len(md_df):,}")
+    md_df = _dedup_across(readme_result, md_df)
+    print(f"  After dedup vs existing sources: {len(md_df):,}")
+    md_for_readme = md_df[
+        ~md_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                    'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                    'HR','BG','FI','LU','BE','MT','CY'])
+        & (pd.to_datetime(md_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & md_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    md_for_listings = md_df[
+        pd.to_datetime(md_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+    ].copy()
+    md_r = len(md_for_readme)
+    md_l = len(md_for_listings)
+
+    readme_result = pd.concat([readme_result, md_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = pd.concat([listings_result, md_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  Markdown added: {md_r} to README, {md_l} to listings")
+
 _TECH_KEYWORDS = (
     r"\b(?:swe|sde|mts|it)\b", "software", "developer", "programmer", "coder", "engineer",
     "data", "machine learn", "deep learn", "artificial intellig", " ai ", "ai/", "ml",
@@ -595,11 +630,14 @@ readme_generation.write_listings_json(listings_result, output_dir="..")
 # --- Metrics ---
 r_external = len(fh_for_readme)
 l_external = len(fh_for_listings)
+print("\n--- Markdown source pull counts ---")
+for name, count in md_source_stats:
+    print(f"  {name:<28} {count:>5,} rows")
 print("\n--- README stats ---")
 r_total = len(readme_result)
 r_internships = (readme_result["job_type"] == "internship").sum()
 r_new_grads = (readme_result["job_type"] == "new_grad").sum()
-print(f"Total listings  : {r_total:,}  (+{r_external} freehire+indeed, +{ats_r} ats-probe)")
+print(f"Total listings  : {r_total:,}  (+{r_external} freehire+indeed, +{ats_r} ats-probe, +{md_r} markdown)")
 print(f"  Internships   : {int(r_internships):,}")
 print(f"  New grad      : {int(r_new_grads):,}")
 
@@ -610,8 +648,43 @@ l_new_grads = (listings_result["job_type"] == "new_grad").sum()
 l_remote = (listings_result["is_remote"].astype(str).str.lower() == "true").sum()
 numeric_salary = pd.to_numeric(listings_result["salary_min"], errors='coerce')
 l_paid = (numeric_salary > 0).sum()
-print(f"Total listings  : {l_total:,}  (+{l_external} freehire+indeed, +{ats_l} ats-probe)")
+print(f"Total listings  : {l_total:,}  (+{l_external} freehire+indeed, +{ats_l} ats-probe, +{md_l} markdown)")
 print(f"  Internships   : {int(l_internships):,}")
 print(f"  New grad      : {int(l_new_grads):,}")
 print(f"Remote roles    : {int(l_remote):,}")
 print(f"Paid roles      : {int(l_paid):,}")
+
+print("\n--- Markdown contribution to listings.json ---")
+if not md_df.empty:
+    from readme_utils import clean_company_name, clean_location
+    md_final = md_df.copy()
+
+    md_final["company"] = md_final["company"].map(clean_company_name)
+    md_final["location"] = md_final["location"].map(clean_location)
+    md_final = md_final[md_final["company"].notna() & (md_final["company"] != "")]
+
+    md_final = md_final[
+        (md_final["country_iso"] == "US")
+        | ((md_final["country_iso"] == "") & md_final["location"].str.contains(_us_loc_re, na=False))
+    ]
+    md_final = md_final[
+        md_final["role"].str.lower().str.contains('|'.join(_TECH_KEYWORDS), regex=True, na=False)
+    ]
+    md_final = md_final[
+        pd.to_datetime(md_final["date"], errors='coerce') >= now - pd.Timedelta(days=60)
+    ]
+    md_final = md_final[
+        md_final.apply(
+            lambda r: r["role"].isascii() and r["company"].isascii(), axis=1
+        )
+    ]
+    md_final = md_final[
+        ~md_final["company"].str.lower().str.strip().isin(
+            readme_generation.NORMALIZED_BLOCKED_COMPANIES
+        )
+    ]
+
+    md_keys = set(md_final[["company", "role", "location"]].astype(str).agg("|".join, axis=1))
+    md_new = md_keys - pre_md_listings_keys
+    print(f"  Markdown rows surviving full json filter : {len(md_final):,}")
+    print(f"  Net-new markdown rows in listings.json   : {len(md_new):,}")
