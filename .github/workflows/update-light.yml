@@ -1,9 +1,8 @@
-name: Update job listings
+name: Update listings (light)
 
 on:
   schedule:
-    - cron: '0 6 * * *'
-    - cron: '0 18 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -14,9 +13,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  scrape:
+  light:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -32,15 +30,14 @@ jobs:
           python -m pip install duckdb pandas pyarrow
           python -m pip install requests
 
-
-      - name: Run scraper
-        run: cd Listings && python generate_listings.py
+      - name: Run scraper (no API calls)
+        run: cd Listings && python generate_listings.py --tier light
 
       - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md pages/
+          git add README.md pages/ Listings/cache/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

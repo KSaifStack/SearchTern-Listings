@@ -6,9 +6,9 @@ from datetime import datetime, timedelta, timezone
 import pandas as pd
 import requests
 
-# GitHub README sources to add. None of these overlap with SimplifyJobs
-# Internships/Off-Season, vanshb03, or SearchTern-Listings, so they add
-# genuinely new coverage here.
+# GitHub README sources. The parser dedups on (company, role, location), so
+# any listings that overlap with SimplifyJobs Internships or vanshb03 are
+# dropped automatically while genuinely new coverage is added.
 MARKDOWN_SOURCES = [
     {
         "name": "SimplifyJobs New Grad",
@@ -87,6 +87,27 @@ MARKDOWN_SOURCES = [
         "season": "2027",
         "format": "markdown",
     },
+    {
+        "name": "vanshb03 Summer 2027",
+        "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "vanshb03 Off-Season",
+        "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/OFFSEASON_README.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "LorenzoLaCorte EU Internships 2026",
+        "url": "https://raw.githubusercontent.com/LorenzoLaCorte/european-tech-internships-2026/main/README.md",
+        "type": "internship",
+        "season": "2026",
+        "format": "markdown",
+    },
 ]
 
 _TAG_RE = re.compile(r"<[^>]+>")
@@ -109,6 +130,7 @@ HEADER_ALIASES = {
     "location": "location",
     "locations": "location",
     "application": "link",
+    "application/link": "link",
     "posting": "link",
     "apply": "link",
     "apply link": "link",
@@ -152,7 +174,7 @@ def _extract_link(raw):
         return links[0]
     m = _BARE_URL_RE.search(raw)
     if m:
-        return m.group(1)
+        return m.group(0)
     return ""
 
 
@@ -272,11 +294,12 @@ def _parse_html_source(md):
                 continue
             if len(row) < 2:
                 continue
-            company = _strip_tags(row[colmap["company"]]) if "company" in colmap else ""
-            role = _strip_tags(row[colmap["role"]]) if "role" in colmap else ""
-            location = _clean_location(row[colmap["location"]]) if "location" in colmap else ""
-            link = _extract_link(row[colmap["link"]]) if "link" in colmap else ""
-            date = _parse_date(row[colmap["date"]]) if "date" in colmap else ""
+            n = len(row)
+            company = _strip_tags(row[colmap["company"]]) if "company" in colmap and colmap["company"] < n else ""
+            role = _strip_tags(row[colmap["role"]]) if "role" in colmap and colmap["role"] < n else ""
+            location = _clean_location(row[colmap["location"]]) if "location" in colmap and colmap["location"] < n else ""
+            link = _extract_link(row[colmap["link"]]) if "link" in colmap and colmap["link"] < n else ""
+            date = _parse_date(row[colmap["date"]]) if "date" in colmap and colmap["date"] < n else ""
 
             if company in ("", "↳", "&raquo;") and prev_company:
                 company = prev_company
@@ -306,11 +329,12 @@ def _parse_md_source(md):
 
         prev_company = ""
         for row in rows:
-            company = _strip_tags(row[colmap["company"]]).strip("*").strip() if "company" in colmap else ""
-            role = _strip_tags(row[colmap["role"]]).strip("*").strip() if "role" in colmap else ""
-            location = _clean_location(row[colmap["location"]]) if "location" in colmap else ""
-            link = _extract_link(row[colmap["link"]]) if "link" in colmap else ""
-            date = _parse_date(row[colmap["date"]]) if "date" in colmap else ""
+            n = len(row)
+            company = _strip_tags(row[colmap["company"]]).strip("*").strip() if "company" in colmap and colmap["company"] < n else ""
+            role = _strip_tags(row[colmap["role"]]).strip("*").strip() if "role" in colmap and colmap["role"] < n else ""
+            location = _clean_location(row[colmap["location"]]) if "location" in colmap and colmap["location"] < n else ""
+            link = _extract_link(row[colmap["link"]]) if "link" in colmap and colmap["link"] < n else ""
+            date = _parse_date(row[colmap["date"]]) if "date" in colmap and colmap["date"] < n else ""
 
             if company in ("", "↳") and prev_company:
                 company = prev_company

@@ -1,6 +1,8 @@
+import argparse
 import concurrent.futures
 import csv
 import io
+import os
 import re
 import requests
 import time as _time
@@ -8,6 +10,60 @@ import duckdb
 import markdown_sources
 import pandas as pd
 import readme_generation
+
+TIER_LIGHT = "light"
+TIER_MEDIUM = "medium"
+TIER_HEAVY = "heavy"
+TIER_ALL = "all"
+ALL_TIERS = [TIER_LIGHT, TIER_MEDIUM, TIER_HEAVY]
+
+CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
+
+
+def _parse_tier(value):
+    value = value.lower()
+    if value in ("all", "everything", "full"):
+        return TIER_ALL
+    if value not in ALL_TIERS:
+        raise argparse.ArgumentTypeError(
+            f"tier must be one of {ALL_TIERS} or 'all'"
+        )
+    return value
+
+
+def parse_args(argv=None):
+    parser = argparse.ArgumentParser(description="Generate SearchTern job listings")
+    parser.add_argument(
+        "--tier",
+        type=_parse_tier,
+        default=TIER_ALL,
+        help="Which source tier to refresh: light (no API), medium (freehire), heavy (ATS probe), or all",
+    )
+    return parser.parse_args(argv)
+
+
+def _cache_path(tier):
+    return os.path.join(CACHE_DIR, f"tier_{tier}.parquet")
+
+
+def _load_cached(tier):
+    path = _cache_path(tier)
+    if os.path.exists(path):
+        try:
+            df = pd.read_parquet(path)
+            print(f"  Loaded cached {tier} data: {len(df):,} rows")
+            return df
+        except Exception as e:
+            print(f"  Could not load cached {tier} data ({e}); treating as empty")
+    return pd.DataFrame()
+
+
+def _save_cache(df, tier):
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    df.to_parquet(_cache_path(tier), index=False)
+    print(f"  Cached {tier} data: {len(df):,} rows")
+    return len(df)
+
 
 ALLOWED_ATS = [
     'greenhouse', 'lever', 'ashby', 'workday', 'icims',
@@ -18,6 +74,8 @@ ALLOWED_ATS = [
     'amazon', 'apple', 'tesla', 'google', 'tiktok', 'uber',
     'ycombinator',
     'welcometothejungle', 'jazzhr',
+    'oracle', 'dayforce', 'ukg', 'jobvite', 'builtin',
+    'weworkremotely', 'wellfound', 'remoteok',
 ]
 
 # --- Title exclusions (shared base + per-pipeline extras) ---
@@ -335,6 +393,11 @@ parquet_urls = [
     if ats in manifest["by_ats"]
 ]
 
+now = pd.Timestamp.now('UTC')
+ARGS = parse_args()
+RUN_TIERS = ALL_TIERS if ARGS.tier == TIER_ALL else [ARGS.tier]
+print(f"Running tier(s): {', '.join(RUN_TIERS)}")
+
 # --- README pipeline (pasted code filters) ---
 # Country exclusions, ASCII-only titles, 60-day lookback, narrow patterns
 readme_query = build_job_query(
@@ -354,44 +417,6 @@ listings_query = build_job_query(
 )
 listings_result = duckdb.execute(listings_query, [parquet_urls]).df()
 listings_result = listings_result[listings_result["job_type"] != "other"]
-
-# ── Freehire pipeline ──────────────────────────────────────────────────────────
-# Fetch tech internships + entry-level roles from freehire.me (covers 75+ ATS)
-print("Fetching freehire data...")
-fh_raw = _fetch_freehire(FREEHIRE_INTERN_API)
-fh_raw += _fetch_freehire(FREEHIRE_NEWGRAD_API)
-fh_df = _normalize_freehire(fh_raw)
-fh_df = _classify_freehire(fh_df)
-print(f"  Freehire raw fetched: {len(fh_raw):,}, classified: {len(fh_df):,}")
-
-# Remove jobs already covered by jobhive
-fh_df = _dedup_across(readme_result, fh_df)
-print(f"  After dedup vs jobhive: {len(fh_df):,}")
-
-# Split freehire data — README (with country/ASCII filters), listings (broader)
-now = pd.Timestamp.now('UTC')
-fh_for_readme = fh_df[
-    ~fh_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
-                                 'NL','IT','ES','PT','RO','HU','CZ','SK',
-                                 'HR','BG','FI','LU','BE','MT','CY'])
-    & (pd.to_datetime(fh_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
-    & fh_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
-].copy()
-fh_for_listings = fh_df[
-    pd.to_datetime(fh_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
-].copy()
-
-readme_result = pd.concat([readme_result, fh_for_readme], ignore_index=True)
-readme_result = readme_result.drop_duplicates(
-    subset=["company", "role", "location"], keep="first"
-)
-
-listings_result = pd.concat([listings_result, fh_for_listings], ignore_index=True)
-listings_result = listings_result.drop_duplicates(
-    subset=["company", "role", "location"], keep="first"
-)
-
-
 
 # ── Direct ATS probing (big tech supplement) ──────────────────────────────
 ATS_ENDPOINTS = {
@@ -526,10 +551,63 @@ def _fetch_ats_probe():
     return df
 
 
-print("Fetching ATS probe data...")
-ats_df = _fetch_ats_probe()
-ats_r = 0
-ats_l = 0
+# ── Freehire (medium tier) ────────────────────────────────────────────────────
+# Fetch tech internships + entry-level roles from freehire.me (covers 75+ ATS)
+fh_df = pd.DataFrame()
+if TIER_MEDIUM in RUN_TIERS:
+    print("Fetching freehire data...")
+    fh_raw = _fetch_freehire(FREEHIRE_INTERN_API)
+    fh_raw += _fetch_freehire(FREEHIRE_NEWGRAD_API)
+    fh_df = _normalize_freehire(fh_raw)
+    fh_df = _classify_freehire(fh_df)
+    print(f"  Freehire raw fetched: {len(fh_raw):,}, classified: {len(fh_df):,}")
+    _save_cache(fh_df, TIER_MEDIUM)
+else:
+    fh_df = _load_cached(TIER_MEDIUM)
+print(f"  Freehire working set: {len(fh_df):,} rows")
+
+source_contrib = {TIER_LIGHT: [0, 0], TIER_MEDIUM: [0, 0], TIER_HEAVY: [0, 0]}
+
+# Remove jobs already covered by jobhive
+if not fh_df.empty:
+    fh_df = _dedup_across(readme_result, fh_df)
+    print(f"  After dedup vs jobhive: {len(fh_df):,}")
+
+    # Split freehire data — README (with country/ASCII filters), listings (broader)
+    fh_for_readme = fh_df[
+        ~fh_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                     'HR','BG','FI','LU','BE','MT','CY'])
+        & (pd.to_datetime(fh_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & fh_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    fh_for_listings = fh_df[
+        pd.to_datetime(fh_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+    ].copy()
+    source_contrib[TIER_MEDIUM] = [len(fh_for_readme), len(fh_for_listings)]
+
+    readme_result = pd.concat([readme_result, fh_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = pd.concat([listings_result, fh_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  Freehire added: {source_contrib[TIER_MEDIUM][0]} to README, {source_contrib[TIER_MEDIUM][1]} to listings")
+
+# ── Direct ATS probing (heavy tier) ──────────────────────────────────────────
+ats_df = pd.DataFrame()
+if TIER_HEAVY in RUN_TIERS:
+    print("Fetching ATS probe data...")
+    ats_df = _fetch_ats_probe()
+    if ats_df is None:
+        ats_df = pd.DataFrame()
+    _save_cache(ats_df, TIER_HEAVY)
+else:
+    ats_df = _load_cached(TIER_HEAVY)
+print(f"  ATS probe working set: {len(ats_df):,} rows")
+
 if not ats_df.empty:
     ats_df = _dedup_across(readme_result, ats_df)
     ats_for_readme = ats_df[
@@ -542,8 +620,7 @@ if not ats_df.empty:
     ats_for_listings = ats_df[
         pd.to_datetime(ats_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
     ].copy()
-    ats_r = len(ats_for_readme)
-    ats_l = len(ats_for_listings)
+    source_contrib[TIER_HEAVY] = [len(ats_for_readme), len(ats_for_listings)]
 
     readme_result = pd.concat([readme_result, ats_for_readme], ignore_index=True)
     readme_result = readme_result.drop_duplicates(
@@ -553,17 +630,26 @@ if not ats_df.empty:
     listings_result = listings_result.drop_duplicates(
         subset=["company", "role", "location"], keep="first"
     )
-    print(f"  ATS probe added: {ats_r} to README, {ats_l} to listings")
+    print(f"  ATS probe added: {source_contrib[TIER_HEAVY][0]} to README, {source_contrib[TIER_HEAVY][1]} to listings")
 
-# ── Markdown GitHub sources (new coverage, not in external pipeline) ──────────
+# ── Markdown GitHub sources (light tier, no API calls) ──────────────────────
+md_df = pd.DataFrame()
+md_source_stats = []
+if TIER_LIGHT in RUN_TIERS:
+    md_df, md_source_stats = markdown_sources.fetch_and_parse(infer_country=_infer_country)
+    if md_df is None:
+        md_df = pd.DataFrame()
+    if not md_df.empty:
+        print(f"  Markdown unique rows: {len(md_df):,}")
+    _save_cache(md_df, TIER_LIGHT)
+else:
+    md_df = _load_cached(TIER_LIGHT)
+print(f"  Markdown working set: {len(md_df):,} rows")
+
 pre_md_listings_keys = set(
     listings_result[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
 )
-md_df, md_source_stats = markdown_sources.fetch_and_parse(infer_country=_infer_country)
-md_r = 0
-md_l = 0
 if not md_df.empty:
-    print(f"  Markdown unique rows: {len(md_df):,}")
     md_df = _dedup_across(readme_result, md_df)
     print(f"  After dedup vs existing sources: {len(md_df):,}")
     md_for_readme = md_df[
@@ -576,8 +662,7 @@ if not md_df.empty:
     md_for_listings = md_df[
         pd.to_datetime(md_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
     ].copy()
-    md_r = len(md_for_readme)
-    md_l = len(md_for_listings)
+    source_contrib[TIER_LIGHT] = [len(md_for_readme), len(md_for_listings)]
 
     readme_result = pd.concat([readme_result, md_for_readme], ignore_index=True)
     readme_result = readme_result.drop_duplicates(
@@ -587,7 +672,7 @@ if not md_df.empty:
     listings_result = listings_result.drop_duplicates(
         subset=["company", "role", "location"], keep="first"
     )
-    print(f"  Markdown added: {md_r} to README, {md_l} to listings")
+    print(f"  Markdown added: {source_contrib[TIER_LIGHT][0]} to README, {source_contrib[TIER_LIGHT][1]} to listings")
 
 _TECH_KEYWORDS = (
     r"\b(?:swe|sde|mts|it)\b", "software", "developer", "programmer", "coder", "engineer",
@@ -628,8 +713,8 @@ readme_generation.generate_readme(readme_result, output_dir="..")
 readme_generation.write_listings_json(listings_result, output_dir="..")
 
 # --- Metrics ---
-r_external = len(fh_for_readme)
-l_external = len(fh_for_listings)
+r_md, r_fh, r_ats = (source_contrib[TIER_LIGHT][0], source_contrib[TIER_MEDIUM][0], source_contrib[TIER_HEAVY][0])
+l_md, l_fh, l_ats = (source_contrib[TIER_LIGHT][1], source_contrib[TIER_MEDIUM][1], source_contrib[TIER_HEAVY][1])
 print("\n--- Markdown source pull counts ---")
 for name, count in md_source_stats:
     print(f"  {name:<28} {count:>5,} rows")
@@ -637,7 +722,7 @@ print("\n--- README stats ---")
 r_total = len(readme_result)
 r_internships = (readme_result["job_type"] == "internship").sum()
 r_new_grads = (readme_result["job_type"] == "new_grad").sum()
-print(f"Total listings  : {r_total:,}  (+{r_external} freehire+indeed, +{ats_r} ats-probe, +{md_r} markdown)")
+print(f"Total listings  : {r_total:,}  (+{r_fh} freehire+indeed, +{r_ats} ats-probe, +{r_md} markdown)")
 print(f"  Internships   : {int(r_internships):,}")
 print(f"  New grad      : {int(r_new_grads):,}")
 
@@ -648,7 +733,7 @@ l_new_grads = (listings_result["job_type"] == "new_grad").sum()
 l_remote = (listings_result["is_remote"].astype(str).str.lower() == "true").sum()
 numeric_salary = pd.to_numeric(listings_result["salary_min"], errors='coerce')
 l_paid = (numeric_salary > 0).sum()
-print(f"Total listings  : {l_total:,}  (+{l_external} freehire+indeed, +{ats_l} ats-probe, +{md_l} markdown)")
+print(f"Total listings  : {l_total:,}  (+{l_fh} freehire+indeed, +{l_ats} ats-probe, +{l_md} markdown)")
 print(f"  Internships   : {int(l_internships):,}")
 print(f"  New grad      : {int(l_new_grads):,}")
 print(f"Remote roles    : {int(l_remote):,}")
