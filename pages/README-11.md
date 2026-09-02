@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 11
 
-**Page 11 of 18 — 9,824 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 11 of 19 — 9,976 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-10.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md)
 
@@ -2004,18 +2004,18 @@
 <td style="white-space:nowrap;">7d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4068847?utm_source=freehire.me">↳ <strong>Atlanta Autism Ce...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4068847?utm_source=freehire.me"><strong>Atlanta Autism Ce...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Board Certified Behavior Analyst (BCBA)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AAC -Suwanee</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4068847?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting2.ultipro.com/fab1001fabc/JobBoard/5c68a07b-778f-4cd0-8f0c-292b2e58783a/OpportunityDetail?opportunityId=4f79fa68-01ea-4730-b01b-7acb55acd310&amp;utm_source=freehire.me"><strong>Fabcon Precast</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structural Design Engineering Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Grandville<br>Michigan<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting2.ultipro.com/fab1001fabc/JobBoard/5c68a07b-778f-4cd0-8f0c-292b2e58783a/OpportunityDetail?opportunityId=4f79fa68-01ea-4730-b01b-7acb55acd310&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ats.rippling.com/tombrascareers/jobs/561169cb-0e88-494a-8ea8-34e793295431?utm_source=freehire.me"><strong>Tombras</strong></a></td>
