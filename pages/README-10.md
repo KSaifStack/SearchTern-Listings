@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 10
 
-**Page 10 of 20 — 10,657 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 10 of 20 — 10,838 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-9.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-11.md)
 
@@ -22,6 +22,20 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.adzuna.com/land/ad/5871131297?se=KAycwwup8RGS9tX3gPU9Ng&amp;utm_medium=api&amp;utm_source=freehire.me&amp;v=D75F8848C7C581B792886EBCFB4164BD4B255B9C"><strong>Boston Consulting...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BCG Platinion | AI Tech Consultant, Cybersecu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Grand Central<br>Manhattan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.adzuna.com/land/ad/5871131297?se=KAycwwup8RGS9tX3gPU9Ng&amp;utm_medium=api&amp;utm_source=freehire.me&amp;v=D75F8848C7C581B792886EBCFB4164BD4B255B9C" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88?utm_source=freehire.me"><strong>BREE</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Product (Co-op)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/rivianvw.tech/bc8e38eb-b68c-4234-a06a-99875df7d600?utm_source=freehire.me"><strong>Rivian And Volksw...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Applications, I...</td>
@@ -3618,20 +3632,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Intern (M&amp;E &amp; Impact Analytics)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nairobi<br>Kenya</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kepro.zohorecruit.com/jobs/Careers/794151000002371023?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://itsupportguy.zohorecruit.com.au/jobs/Careers/10920000000272058?utm_source=freehire.me"><strong>It Support Guy</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://itsupportguy.zohorecruit.com.au/jobs/Careers/10920000000272058?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalit.zohorecruit.com/jobs/Careers/855216000000785001?utm_source=freehire.me"><strong>Global It Vision</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Python Developer Intern (6-Month T...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MENA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalit.zohorecruit.com/jobs/Careers/855216000000785001?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 </tbody>
