@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 11
 
-**Page 11 of 20 — 10,988 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 11 of 20 — 11,010 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-10.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md)
 
@@ -1854,14 +1854,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineering INTERN</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States<br>Oregon<br>Hillsboro</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986143?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556981972?utm_source=freehire.me">↳ 🔥 <strong>Microsoft</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineering INTERN</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States<br>Washington<br>Redmond</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556981972?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://varsitybrands.wd503.myworkdayjobs.com/ExternalCareerSite/job/TX---Farmers-Branch/Cloud-Engineer-I_JR114841?utm_source=freehire.me"><strong>Varsitybrands</strong></a></td>
@@ -2358,56 +2358,56 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer, Starship Launch Hardware</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cape Canaveral<br>FL</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/spacex/jobs/8782441002?gh_jid=8782441002&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711104006?utm_source=freehire.me"><strong>Visier Solutions</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Technical Writer Co-op (January to August 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>BC<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711104006?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=f6bf4192-5181-4079-a4aa-e9e77176684e&amp;jobId=9201994193712_1&amp;lang=en_US&amp;utm_source=freehire.me"><strong>River Partners</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=f6bf4192-5181-4079-a4aa-e9e77176684e&amp;jobId=9201994193712_1&amp;lang=en_US&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aa270.taleo.net/careersection/in/jobdetail.ftl?job=827336&amp;lang=en&amp;utm_source=freehire.me"><strong>Texas Workforce C...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance Specialist (McAllen)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States-Texas-Mcallen</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aa270.taleo.net/careersection/in/jobdetail.ftl?job=827336&amp;lang=en&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004?utm_source=freehire.me"><strong>Lunar Energy</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electronics Design Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6179736004?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.ultipro.com/pre1019prsd/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/OpportunityDetail?opportunityId=a49cca50-f1a6-4d9c-9896-e10e5e85ba29&amp;utm_source=freehire.me"><strong>Presidio</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Wireless Network Engineer (Hudson V...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/pre1019prsd/JobBoard/4c05f321-903e-43d5-a4c0-5d9dd55dc34d/OpportunityDetail?opportunityId=a49cca50-f1a6-4d9c-9896-e10e5e85ba29&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556926963?utm_source=freehire.me">🔥 <strong>Microsoft</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - CTJ - Poly</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States<br>Washington<br>Redmond</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556926963?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003?utm_source=freehire.me"><strong>Id</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern 2027 - Software Development Eng...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/8b7c9fca26d4003f25205fa111369368/jobs/29489?utm_source=freehire.me"><strong>Torch</strong></a></td>
@@ -3142,42 +3142,42 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Software Engineer - Vehicle Software</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/parallel/jobs/5220626007?gh_jid=5220626007&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421?utm_source=freehire.me"><strong>North Atlantic In...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Software Engineer Fall 2026</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450421?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017?utm_source=freehire.me">↳ <strong>North Atlantic In...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Full Stack Software Engineer Fall 2026</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819?utm_source=freehire.me"><strong>ZOOX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Contract Student Worker - Autonomy Safety Dat...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986137?utm_source=freehire.me">🔥 <strong>Microsoft</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science: AI Experiences PhD Internship O...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States<br>Washington<br>Redmond</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556986137?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556962158?utm_source=freehire.me">↳ 🔥 <strong>Microsoft</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Penetration Tester: Internship Opportunities</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States<br>Washington<br>Redmond</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556962158?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/coreone/jobs/8770343002?utm_source=freehire.me"><strong>Core One</strong></a></td>
