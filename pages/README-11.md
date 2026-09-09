@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 11
 
-**Page 11 of 20 — 10,756 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 11 of 20 — 10,757 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-10.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md)
 
@@ -22,6 +22,20 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.sap.com/job/Berlin-Working-Student-%28fmd%29-XR-Design-for-Strategic-Innovation-Projects-10557/1428770433/?utm_source=freehire.me">↳ <strong>SAP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Working Student (f/m/d) - XR Design for Strat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.sap.com/job/Berlin-Working-Student-%28fmd%29-XR-Design-for-Strategic-Innovation-Projects-10557/1428770433/?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.sap.com/job/Ra&#x27;anana-Student-DevOps-Engineer-CxP-Commercial-Foundation-Services-4366202/1412195733/?utm_source=freehire.me">↳ <strong>SAP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Student DevOps Engineer- CxP Commercial Found...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.sap.com/job/Ra&#x27;anana-Student-DevOps-Engineer-CxP-Commercial-Foundation-Services-4366202/1412195733/?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.sap.com/job/Sofia-SAP-iXp-Intern-Software-Developer-for-Circular-Economy-Cloud-Applications-1407/1427453233/?utm_source=freehire.me">↳ <strong>SAP</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">SAP iXp Intern - Software Developer for Circu...</td>
@@ -2309,21 +2323,21 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer (React JS) Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Sydney Region</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.adzuna.com.au/details/5870152028?utm_medium=api&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000147557559-intern-data-science?utm_source=freehire.me"><strong>Nielseniq</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data Science</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>CDMX<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/NielsenIQ/744000147557559-intern-data-science?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.adzuna.com.au/details/5870144736?utm_medium=api&amp;utm_source=freehire.me"><strong>Nexus Silicon Tec...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Sydney Region</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.adzuna.com.au/details/5870144736?utm_medium=api&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://corningjobs.corning.com/job/Painted-Post-Data-Analytics-Intern-Summer-2027-NY-14870/1426622100/?utm_source=freehire.me"><strong>Corning</strong></a></td>
@@ -3212,10 +3226,10 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Co-op Winter 2027  DevOps Engineering - 8-16 ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ottawa<br>ON<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/GDMSI/744000147557499-co-op-winter-2027-devops-engineering-8-16-months?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/GDMSI/744000147554134-co-op-winter-2027-software-developer-8-months?utm_source=freehire.me"><strong>General Dynamics Uk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/GDMSI/744000147554134-co-op-winter-2027-software-developer-8-months?utm_source=freehire.me">↳ <strong>General Dynamics Uk</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Co-op Winter 2027 - Software Developer - 8 Mo...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ottawa<br>ON<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/GDMSI/744000147554134-co-op-winter-2027-software-developer-8-months?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -3562,20 +3576,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Packaging Structural Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Brampton<br>Ontario</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Brampton-Ontario/Packaging-Structural-Design-Intern_R15680?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Analyst--Winter-2027--Co-op-Internship----8-months_R260025978?utm_source=freehire.me"><strong>BMO</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Database Analyst, Winter 2027 (Co-op/Internsh...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>CAN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Analyst--Winter-2027--Co-op-Internship----8-months_R260025978?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026089?utm_source=freehire.me">↳ <strong>BMO</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Developer, Winter 2027 ( Co-o...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>CAN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026089?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 </tbody>
