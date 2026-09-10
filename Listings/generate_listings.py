@@ -1,15 +1,20 @@
 import argparse
 import concurrent.futures
 import csv
+import hashlib
 import io
+import json
 import os
+import random
 import re
+import sys
 import requests
 import time as _time
 import duckdb
 import markdown_sources
 import pandas as pd
 import readme_generation
+from readme_utils import http_get
 
 TIER_LIGHT = "light"
 TIER_MEDIUM = "medium"
@@ -18,6 +23,7 @@ TIER_ALL = "all"
 ALL_TIERS = [TIER_LIGHT, TIER_MEDIUM, TIER_HEAVY]
 
 CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
+HASH_FILE = os.path.join(CACHE_DIR, "last_hash.json")
 
 
 def _parse_tier(value):
@@ -38,6 +44,11 @@ def parse_args(argv=None):
         type=_parse_tier,
         default=TIER_ALL,
         help="Which source tier to refresh: light (no API), medium (freehire), heavy (ATS probe), or all",
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Force regeneration even if source data hasn't changed",
     )
     return parser.parse_args(argv)
 
@@ -63,6 +74,25 @@ def _save_cache(df, tier):
     df.to_parquet(_cache_path(tier), index=False)
     print(f"  Cached {tier} data: {len(df):,} rows")
     return len(df)
+
+
+def _compute_data_hash(manifest_sha, md_sources_hash):
+    """Hash of manifest SHA + markdown source content hashes = fingerprint of input data."""
+    raw = f"{manifest_sha}|{md_sources_hash}"
+    return hashlib.sha256(raw.encode()).hexdigest()[:16]
+
+
+def _load_last_hash():
+    if os.path.exists(HASH_FILE):
+        with open(HASH_FILE) as f:
+            return json.load(f).get("hash", "")
+    return ""
+
+
+def _save_last_hash(h):
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    with open(HASH_FILE, "w") as f:
+        json.dump({"hash": h}, f)
 
 
 ALLOWED_ATS = [
@@ -217,6 +247,7 @@ def build_job_query(intern_cond, newgrad_cond, title_exclusions, lookback_days, 
 
 FREEHIRE_INTERN_API = "https://freehire.me/api/v1/jobs/search?employment_type=internship&is_tech=tech"
 FREEHIRE_NEWGRAD_API = "https://freehire.me/api/v1/jobs/search?employment_type=full_time&is_tech=tech&seniority=junior&q=new+grad+OR+entry+level+OR+early+career+OR+campus+OR+rotational"
+FREEHIRE_PAGE_DELAY_SECS = 0.25
 
 _LISTINGS_INTERN_RE = (
     r'\bintern(?:ship)?\b|co-op|coop|undergraduate|undergrad|student'
@@ -298,16 +329,20 @@ def _infer_country(location):
 
 def _fetch_freehire(url):
     sep = "&" if "?" in url else "?"
-    resp = requests.get(f"{url}{sep}limit=1&offset=0", timeout=15)
-    if resp.status_code != 200:
-        print(f"  freehire API error {resp.status_code}")
+    resp = http_get(f"{url}{sep}limit=1&offset=0")
+    if resp is None or resp.status_code != 200:
+        print(
+            f"  freehire API error "
+            f"{resp.status_code if resp is not None else 'unreachable'}"
+        )
         return []
     total = resp.json()["meta"]["total"]
     print(f"  freehire {total} total ...")
 
     def _page(offset):
-        r = requests.get(f"{url}{sep}limit=100&offset={offset}", timeout=15)
-        if r.status_code != 200:
+        _time.sleep(FREEHIRE_PAGE_DELAY_SECS)
+        r = http_get(f"{url}{sep}limit=100&offset={offset}")
+        if r is None or r.status_code != 200:
             return []
         return r.json().get("data", [])
 
@@ -386,12 +421,19 @@ def _dedup_across(df_a, df_b):
     return df_b[~keys_b.isin(keys_a)].copy()
 
 
-manifest = requests.get("https://storage.stapply.ai/jobhive/v1/manifest.json").json()
+print("Fetching jobhive manifest...")
+manifest_resp = http_get("https://storage.stapply.ai/jobhive/v1/manifest.json")
+if manifest_resp is None or manifest_resp.status_code != 200:
+    print("  FATAL: could not fetch jobhive manifest — aborting to avoid wiping listings")
+    sys.exit(1)
+manifest = manifest_resp.json()
 parquet_urls = [
     manifest["by_ats"][ats]["parquet"]
     for ats in ALLOWED_ATS
     if ats in manifest["by_ats"]
 ]
+MANIFEST_HASH = manifest.get("parquet_sha256", manifest.get("sha256", ""))[:16]
+print(f"  Manifest hash: {MANIFEST_HASH} — {len(parquet_urls)} ATS sources")
 
 now = pd.Timestamp.now('UTC')
 ARGS = parse_args()
@@ -434,8 +476,9 @@ def _fetch_company_jobs(company, ats_type, slug):
     if not url:
         return None
     try:
-        resp = requests.get(url.format(slug=slug), timeout=15)
-        if resp.status_code != 200:
+        _time.sleep(random.uniform(0, 0.15))
+        resp = http_get(url.format(slug=slug), timeout=15, retries=2)
+        if resp is None or resp.status_code != 200:
             return None
         return (company, ats_type, resp.json())
     except Exception:
@@ -507,9 +550,12 @@ def _normalize_ats_jobs(company, ats_type, data):
 
 def _fetch_ats_probe():
     print("Fetching ATS-probe company list...")
-    resp = requests.get(ATS_CSV_URL, timeout=15)
-    if resp.status_code != 200:
-        print(f"  ATS CSV download failed: {resp.status_code}")
+    resp = http_get(ATS_CSV_URL, retries=2)
+    if resp is None or resp.status_code != 200:
+        print(
+            f"  ATS CSV download failed: "
+            f"{resp.status_code if resp is not None else 'unreachable'}"
+        )
         return pd.DataFrame()
 
     lines = resp.text.strip().split('\n')
@@ -711,6 +757,19 @@ readme_tech_mask = readme_role_lower.str.contains('|'.join(_TECH_KEYWORDS), rege
 readme_result = readme_result[readme_tech_mask]
 readme_generation.generate_readme(readme_result, output_dir="..")
 readme_generation.write_listings_json(listings_result, output_dir="..")
+
+# --- Output change detection ---
+_listings_path = os.path.join("..", "pages", "listings.json")
+if os.path.exists(_listings_path):
+    with open(_listings_path, "rb") as f:
+        _out_hash = hashlib.md5(f.read()).hexdigest()
+    _prev_hash = _load_last_hash()
+    if _out_hash == _prev_hash and not ARGS.force:
+        print(f"\n--- Output unchanged (hash {_out_hash}) — skipping commit ---")
+        print("NO_CHANGES")
+    else:
+        _save_last_hash(_out_hash)
+        print(f"\n--- Output changed: {_prev_hash} -> {_out_hash} ---")
 
 # --- Metrics ---
 r_md, r_fh, r_ats = (source_contrib[TIER_LIGHT][0], source_contrib[TIER_MEDIUM][0], source_contrib[TIER_HEAVY][0])

@@ -4,7 +4,8 @@ import re
 from datetime import datetime, timedelta, timezone
 
 import pandas as pd
-import requests
+
+from readme_utils import http_get
 
 # GitHub README sources. The parser dedups on (company, role, location), so
 # any listings that overlap with SimplifyJobs Internships or vanshb03 are
@@ -106,6 +107,48 @@ MARKDOWN_SOURCES = [
         "url": "https://raw.githubusercontent.com/LorenzoLaCorte/european-tech-internships-2026/main/README.md",
         "type": "internship",
         "season": "2026",
+        "format": "markdown",
+    },
+    {
+        "name": "SuryaHarikrishnan SWE Track",
+        "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/software-engineering.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "SuryaHarikrishnan DS/AI",
+        "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/data-science-ai-machine-learning.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "summer2026internships",
+        "url": "https://raw.githubusercontent.com/summer2026internships/Summer2026-Internships/main/README.md",
+        "type": "internship",
+        "season": "2026",
+        "format": "markdown",
+    },
+    {
+        "name": "vanshb03 Summer 2026",
+        "url": "https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/dev/README.md",
+        "type": "internship",
+        "season": "2026",
+        "format": "markdown",
+    },
+    {
+        "name": "SimplifyJobs Summer 2027",
+        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "html",
+    },
+    {
+        "name": "negarprh Canada 2027",
+        "url": "https://raw.githubusercontent.com/negarprh/Canadian-Tech-Internships-2027/main/README.md",
+        "type": "internship",
+        "season": "2027",
         "format": "markdown",
     },
 ]
@@ -334,6 +377,8 @@ def _parse_md_source(md):
             role = _strip_tags(row[colmap["role"]]).strip("*").strip() if "role" in colmap and colmap["role"] < n else ""
             location = _clean_location(row[colmap["location"]]) if "location" in colmap and colmap["location"] < n else ""
             link = _extract_link(row[colmap["link"]]) if "link" in colmap and colmap["link"] < n else ""
+            if not link and "company" in colmap and colmap["company"] < n:
+                link = _extract_link(row[colmap["company"]])
             date = _parse_date(row[colmap["date"]]) if "date" in colmap and colmap["date"] < n else ""
 
             if company in ("", "↳") and prev_company:
@@ -370,9 +415,12 @@ def _infer_country(location):
 
 
 def fetch_source(source):
-    resp = requests.get(source["url"], timeout=20)
-    if resp.status_code != 200:
-        print(f"  ✗ {source['name']}: HTTP {resp.status_code} — skipped")
+    resp = http_get(source["url"], timeout=20, retries=3)
+    if resp is None or resp.status_code != 200:
+        print(
+            f"  ✗ {source['name']}: HTTP "
+            f"{resp.status_code if resp is not None else 'unreachable'} — skipped"
+        )
         return [], source
     md = resp.text
     records = (

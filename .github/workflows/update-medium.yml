@@ -2,7 +2,7 @@ name: Update listings (medium)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -31,7 +31,7 @@ jobs:
           python -m pip install requests
 
       - name: Run scraper (freehire API)
-        run: cd Listings && python generate_listings.py --tier medium
+        run: cd Listings && python generate_listings.py --tier medium --force
 
       - name: Commit and push updates
         run: |

@@ -2,7 +2,7 @@ name: Update listings (light)
 
 on:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -31,7 +31,7 @@ jobs:
           python -m pip install requests
 
       - name: Run scraper (no API calls)
-        run: cd Listings && python generate_listings.py --tier light
+        run: cd Listings && python generate_listings.py --tier light --force
 
       - name: Commit and push updates
         run: |

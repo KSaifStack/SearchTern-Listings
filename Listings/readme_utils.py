@@ -1,9 +1,47 @@
 import html
+import random
 import re
+import time
 from datetime import datetime, timezone
+
+import requests
 
 GITHUB_FILE_SIZE_LIMIT = 450_000
 SIZE_BUFFER = 8_000
+
+
+def http_get(url, timeout=30, retries=3, headers=None, stream=False):
+    """GET with exponential backoff + jitter, honoring Retry-After on 429/503.
+
+    Returns the last response, or None if all retries were exhausted.
+    """
+    for attempt in range(retries):
+        try:
+            resp = requests.get(url, timeout=timeout, headers=headers, stream=stream)
+        except requests.RequestException as e:
+            print(f"  Request error {url}: {e}")
+            if attempt + 1 < retries:
+                time.sleep(min(60, (2 ** (attempt + 1)) + random.uniform(0, 1)))
+            continue
+        if resp.status_code == 200:
+            return resp
+        if resp.status_code in (429, 403, 503):
+            wait = min(60, (2 ** attempt) + random.uniform(0, 1))
+            retry_after = resp.headers.get("Retry-After", "")
+            if retry_after.isdigit():
+                if float(retry_after) > 60:
+                    print(
+                        f"  HTTP {resp.status_code} {url}: Retry-After {retry_after}s too long, giving up"
+                    )
+                    return resp
+                wait = max(wait, float(retry_after))
+            print(f"  HTTP {resp.status_code} {url}: backing off {wait:.0f}s")
+            if attempt + 1 < retries:
+                time.sleep(wait)
+            continue
+        print(f"  HTTP {resp.status_code} for {url}")
+        return resp
+    return None
 
 INACTIVE_THRESHOLD_DAYS = 60
 
