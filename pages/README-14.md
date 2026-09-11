@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 14
 
-**Page 14 of 27 — 14,527 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 14 of 28 — 14,706 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-13.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md)
 
@@ -790,21 +790,21 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern Architect</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Grand Rapids<br>MI</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7882675847984a01586a96a318115f&amp;id=8a78839ea06420ea01a068dea3bf4716&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/tandh/18520e88-c3a3-4bba-b489-55f77a99f38e?utm_source=freehire.me"><strong>Thomas Hutton</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>North Carolina</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/tandh/18520e88-c3a3-4bba-b489-55f77a99f38e?utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574&amp;utm_source=freehire.me"><strong>Hudson River Trading</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineer Internship - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=38874c24-8135-4e39-8ee5-283322cb54a0&amp;jobId=9201034202741_1&amp;lang=en_US&amp;utm_source=freehire.me"><strong>38874c24 8135 4e3...</strong></a></td>
@@ -2449,21 +2449,21 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Help Desk Technician I</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://imacorp.com/careers/openings/5228645007?gh_jid=5228645007&amp;utm_source=freehire.me" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.adzuna.com/land/ad/5867890113?se=4vGv0BOp8RGlI_dq_IL75Q&amp;utm_medium=api&amp;utm_source=freehire.me&amp;v=791F9C68AC8BBC343ED8469B3CE1B3FC4FE20076"><strong>L3harris</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Business Analysis Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>Monroe County</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.adzuna.com/land/ad/5867890113?se=4vGv0BOp8RGlI_dq_IL75Q&amp;utm_medium=api&amp;utm_source=freehire.me&amp;v=791F9C68AC8BBC343ED8469B3CE1B3FC4FE20076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.adzuna.com/land/ad/5867890101?se=ZtZyQlSo8RGpTs1Lc1il5g&amp;utm_medium=api&amp;utm_source=freehire.me&amp;v=A43CCAF5D6A914DBB66115D637B4687D61FABF4A">↳ <strong>L3harris</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Application Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Brevard County</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.adzuna.com/land/ad/5867890101?se=ZtZyQlSo8RGpTs1Lc1il5g&amp;utm_medium=api&amp;utm_source=freehire.me&amp;v=A43CCAF5D6A914DBB66115D637B4687D61FABF4A" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.amd.com/careers-home/jobs/90745?utm_source=freehire.me"><strong>Advanced Micro De...</strong></a></td>
