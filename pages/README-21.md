@@ -23,6 +23,13 @@
 </thead>
 <tbody>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-weride-82955de9-485d-4db0-8fd9-1c018489fc8d?s=gh-new-grad-jobs-2027"><strong>Weride</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Application Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-weride-82955de9-485d-4db0-8fd9-1c018489fc8d?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-weride-2f22df18-e019-450e-bcfa-9b1c7b94334f?s=gh-new-grad-jobs-2027">↳ <strong>Weride</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">General Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
