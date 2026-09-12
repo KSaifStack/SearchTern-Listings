@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 21
 
-**Page 21 of 28 — 14,816 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 21 of 28 — 14,860 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-20.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-22.md)
 
@@ -22,6 +22,559 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-make-rain-91bdb036-ae7d-47e4-828b-fb7761665226?s=gh-new-grad-jobs-2027"><strong>Rainmaker</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Infrastructure</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">El Segundo<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-make-rain-91bdb036-ae7d-47e4-828b-fb7761665226?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-qrypt-016e4e80-3ba4-49b3-a3d7-d404db20b65d?s=gh-new-grad-jobs-2027"><strong>Qrypt</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Backend Software Engineer (AI Native)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-qrypt-016e4e80-3ba4-49b3-a3d7-d404db20b65d?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-qrypt-c1ed6b7c-eadd-4476-9abc-b4b1e1272573?s=gh-new-grad-jobs-2027">↳ <strong>Qrypt</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Germantown<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-qrypt-c1ed6b7c-eadd-4476-9abc-b4b1e1272573?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-pingwind-50ed87eb-c3ce-4db3-bf46-2f88b81cc780?s=gh-new-grad-jobs-2027"><strong>Pingwind</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Virginia Beach<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-pingwind-50ed87eb-c3ce-4db3-bf46-2f88b81cc780?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-pivotal-e38dc745-b5cf-4baa-82e0-60a6782a00f7?s=gh-new-grad-jobs-2027"><strong>Pivotal Software</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Software Engineer II</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Palo Alto<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-pivotal-e38dc745-b5cf-4baa-82e0-60a6782a00f7?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-plus-2-083142f4-70ed-40f4-8726-a5f99ea52e36?s=gh-new-grad-jobs-2027"><strong>Plusai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - Data</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-plus-2-083142f4-70ed-40f4-8726-a5f99ea52e36?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-plus-2-35e40aca-9414-4121-b7a0-d3e87fd6101a?s=gh-new-grad-jobs-2027">↳ <strong>Plusai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Runtime</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-plus-2-35e40aca-9414-4121-b7a0-d3e87fd6101a?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-plus-2-1a1fc0e8-0741-4be1-adbb-52aa418eecf2?s=gh-new-grad-jobs-2027">↳ <strong>Plusai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Runtime &amp; C++ Middleware</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-plus-2-1a1fc0e8-0741-4be1-adbb-52aa418eecf2?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-zip-0c1b3417-9ba4-4630-8590-f6b45c40310a?s=gh-new-grad-jobs-2027"><strong>ZIP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Frontend (All Levels)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-zip-0c1b3417-9ba4-4630-8590-f6b45c40310a?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-zip-e7bcd788-ca5f-4e90-9728-0de7b57026a1?s=gh-new-grad-jobs-2027">↳ <strong>ZIP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Backend (All Levels)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-zip-e7bcd788-ca5f-4e90-9728-0de7b57026a1?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-4255e21c-d0f2-4f57-b5db-1f65830d6425?s=gh-new-grad-jobs-2027">🔥 <strong>Palantir</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Web Application Developer - Defense</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>D.C.</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-4255e21c-d0f2-4f57-b5db-1f65830d6425?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-6a82fd06-5754-46c2-8214-9ca4cd89fb9d?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Palantir</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Web Application Developer - Defense</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-6a82fd06-5754-46c2-8214-9ca4cd89fb9d?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-96e4295f-3af7-48e5-a2c8-74622eaf5587?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Palantir</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Web Application Developer - Defense</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Palo Alto<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-96e4295f-3af7-48e5-a2c8-74622eaf5587?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-Vultr-46511947-f059-4771-a4bf-57bf3a78caa4?s=gh-new-grad-jobs-2027"><strong>Vultr</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Platform Engineer, Bare Metal</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-Vultr-46511947-f059-4771-a4bf-57bf3a78caa4?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-Vultr-5fbc4ef6-f1f1-4f49-bb34-52e2d46c7ead?s=gh-new-grad-jobs-2027">↳ <strong>Vultr</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Platform Engineer - Cloud Native</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-Vultr-5fbc4ef6-f1f1-4f49-bb34-52e2d46c7ead?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-Vultr-403c9f22-6392-489a-b216-27a02c3863dc?s=gh-new-grad-jobs-2027">↳ <strong>Vultr</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Core Cloud Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-Vultr-403c9f22-6392-489a-b216-27a02c3863dc?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-persona.ai-7bc07e51-fb3e-4363-bd10-83bb5c933e80?s=gh-new-grad-jobs-2027"><strong>Persona Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Full Stack Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pensacola<br>FL or Houston<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-persona.ai-7bc07e51-fb3e-4363-bd10-83bb5c933e80?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000142219049?s=gh-new-grad-jobs-2027"><strong>Veolia Environnem...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paramus<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000142219049?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-WellmarkInc-744000136511169?s=gh-new-grad-jobs-2027"><strong>Wellmark Inc</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Associate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Des Moines<br>IA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-WellmarkInc-744000136511169?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-SopraSteria1-744000128038708?s=gh-new-grad-jobs-2027"><strong>Sopra Steria</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kinston<br>NC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-SopraSteria1-744000128038708?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-ServiceNow-744000139370964?s=gh-new-grad-jobs-2027">🔥 <strong>Servicenow</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer, Agentic Application</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CALIFORNIA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-ServiceNow-744000139370964?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-ServiceNow-744000138178124?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Servicenow</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer, GAI Search Relevan...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CALIFORNIA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-ServiceNow-744000138178124?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-ServiceNow-744000138174539?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Servicenow</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer, GAI Search Platfor...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CALIFORNIA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-ServiceNow-744000138174539?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-NorthwesternMutual-743999658678749?s=gh-new-grad-jobs-2027"><strong>Northwestern Mutual</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-NorthwesternMutual-743999658678749?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-NBCUniversal3-744000136567229?s=gh-new-grad-jobs-2027"><strong>Nbcuniversal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jr. Data Scientist, Business Analytics &amp; Rese...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Universal City<br>CALIFORNIA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-NBCUniversal3-744000136567229?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990012510467?s=gh-new-grad-jobs-2027"><strong>LLNL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning (ML) Bioengineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livermore<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990012510467?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990012255026?s=gh-new-grad-jobs-2027">↳ <strong>LLNL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning - Postdoctoral Researcher</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livermore<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990012255026?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990012760276?s=gh-new-grad-jobs-2027">↳ <strong>LLNL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livermore<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990012760276?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-Intuitive-744000124012339?s=gh-new-grad-jobs-2027"><strong>Intuitive</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Engineer - Future Forward</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-Intuitive-744000124012339?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-CapTechConsulting-744000135097007?s=gh-new-grad-jobs-2027"><strong>Captech Consulting</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning / Data Science Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Reston<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-CapTechConsulting-744000135097007?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-CapTechConsulting-744000135096703?s=gh-new-grad-jobs-2027">↳ <strong>Captech Consulting</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning / Data Science Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-CapTechConsulting-744000135096703?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-CapTechConsulting-744000115292607?s=gh-new-grad-jobs-2027">↳ <strong>Captech Consulting</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning / Data Science Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-CapTechConsulting-744000115292607?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-SmithsGroup2-744000144326639?s=gh-new-grad-jobs-2027"><strong>Smiths Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Analyst II</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Edgewood<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-SmithsGroup2-744000144326639?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-SmithsGroup2-744000144155169?s=gh-new-grad-jobs-2027">↳ <strong>Smiths Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Analyst I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Edgewood<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-SmithsGroup2-744000144155169?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-Sandisk-744000133420384?s=gh-new-grad-jobs-2027"><strong>Sandisk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Security Engineer - Hardware/Firmware</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-Sandisk-744000133420384?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-RaytheonTechnologies-743999840716434?s=gh-new-grad-jobs-2027"><strong>Raytheon Technolo...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Self-Inspection Subject Matter ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">McKinney<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-RaytheonTechnologies-743999840716434?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990014479536?s=gh-new-grad-jobs-2027"><strong>LLNL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Livermore<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990014479536?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-airwallex-be298e1a-9eed-4845-bc5c-57bf1aaa5589?s=gh-new-grad-jobs-2027"><strong>Airwallex</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-airwallex-be298e1a-9eed-4845-bc5c-57bf1aaa5589?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-clickhouse-11642227-5e2f-493c-8473-865e893d1d84?s=gh-new-grad-jobs-2027"><strong>Clickhouse</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Incident Response Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-clickhouse-11642227-5e2f-493c-8473-865e893d1d84?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-whatnot-b1daf841-b345-469e-8038-b9c39d518156?s=gh-new-grad-jobs-2027"><strong>Whatnot</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer (GRC)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-whatnot-b1daf841-b345-469e-8038-b9c39d518156?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-zoox-8321d00e-9e2b-4947-a37e-fdbad7dcd637?s=gh-new-grad-jobs-2027"><strong>ZOOX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-zoox-8321d00e-9e2b-4947-a37e-fdbad7dcd637?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-waabi-c4559ea4-1912-4d77-a32c-1a32849e86a0?s=gh-new-grad-jobs-2027"><strong>Waabi</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-waabi-c4559ea4-1912-4d77-a32c-1a32849e86a0?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-synergyecp-c3ebb9f8-8cf3-4191-939a-1d1bd2041594?s=gh-new-grad-jobs-2027"><strong>Synergy Ecp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Annapolis Junction<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-synergyecp-c3ebb9f8-8cf3-4191-939a-1d1bd2041594?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-1124402c-2088-40c6-b6aa-b9ef7777519b?s=gh-new-grad-jobs-2027">🔥 <strong>Palantir</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Information Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-1124402c-2088-40c6-b6aa-b9ef7777519b?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-36703f67-6fae-445c-9277-f946121faaa0?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Palantir</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Information Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>D.C.</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-36703f67-6fae-445c-9277-f946121faaa0?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-e2a8360a-710a-4185-b2a9-3b7d9fe590b1?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Palantir</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Information Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-e2a8360a-710a-4185-b2a9-3b7d9fe590b1?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-magnetforensics-0c7c5eb2-f0fc-4327-a038-f56de3fcc218?s=gh-new-grad-jobs-2027"><strong>Magnet Forensics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vulnerability Researcher</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-magnetforensics-0c7c5eb2-f0fc-4327-a038-f56de3fcc218?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-sierra-bbef339c-3365-40df-804b-ece245386b43?s=gh-new-grad-jobs-2027"><strong>Sierra</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-sierra-bbef339c-3365-40df-804b-ece245386b43?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-sentry-dc1e73a4-3cb8-4269-82b5-fdc6495b7e83?s=gh-new-grad-jobs-2027"><strong>Sentry</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Application Security</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-sentry-dc1e73a4-3cb8-4269-82b5-fdc6495b7e83?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-sentry-ac1cb3c4-5408-4912-8591-eea2a84480b7?s=gh-new-grad-jobs-2027">↳ <strong>Sentry</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Detection &amp; Response</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-sentry-ac1cb3c4-5408-4912-8591-eea2a84480b7?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-saronic-127af12f-be14-45d6-9085-fd4b7b347134?s=gh-new-grad-jobs-2027"><strong>Saronic Technologies</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Application Security</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-saronic-127af12f-be14-45d6-9085-fd4b7b347134?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-saronic-724d2a06-77d0-4ed6-bdf8-38adfbbe07c4?s=gh-new-grad-jobs-2027">↳ <strong>Saronic Technologies</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Network Security</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-saronic-724d2a06-77d0-4ed6-bdf8-38adfbbe07c4?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-saronic-a4eb5041-a719-4448-b350-ce7d9ead0b6b?s=gh-new-grad-jobs-2027">↳ <strong>Saronic Technologies</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Cloud Security</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-saronic-a4eb5041-a719-4448-b350-ce7d9ead0b6b?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-ramp-7c26780b-7923-42d5-8111-9825ff996966?s=gh-new-grad-jobs-2027">🔥 <strong>RAMP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Product</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY (</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-ramp-7c26780b-7923-42d5-8111-9825ff996966?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-ramp-95f450a1-0d38-4d58-9aac-9d7e655adc36?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>RAMP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Privacy</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY (</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-ramp-95f450a1-0d38-4d58-9aac-9d7e655adc36?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-ramp-34413f8d-26bf-4bbc-8ade-eb309a0e2245?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>RAMP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Cloud</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY (</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-ramp-34413f8d-26bf-4bbc-8ade-eb309a0e2245?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-replit-1634b879-80c7-4064-be0a-8a4aecc81923?s=gh-new-grad-jobs-2027"><strong>Replit</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Security Engineer (PSIRT - Product Se...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-replit-1634b879-80c7-4064-be0a-8a4aecc81923?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-replit-e2e3345e-251c-49c4-821b-6748d73efaeb?s=gh-new-grad-jobs-2027">↳ <strong>Replit</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer - Vuln Management (Code)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-replit-e2e3345e-251c-49c4-821b-6748d73efaeb?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-replit-4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f?s=gh-new-grad-jobs-2027">↳ <strong>Replit</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer - Vuln Management (Infra)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-replit-4b290489-9ce6-45f9-bbc8-e1baa4bd8b6f?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-openai-89d61ae8-1ce1-4187-9edd-da8029979e41?s=gh-new-grad-jobs-2027">🔥 <strong>Openai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Forward Deployed Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-openai-89d61ae8-1ce1-4187-9edd-da8029979e41?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-openai-66e76c14-bb6e-4e26-a333-744bbe35abbb?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Openai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Researcher, Frontier Cybersecurity Risks</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-openai-66e76c14-bb6e-4e26-a333-744bbe35abbb?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-openai-f84dbb5c-6008-40f1-b388-1434d159d4a4?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Openai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Insider Threat Detection &amp;...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-openai-f84dbb5c-6008-40f1-b388-1434d159d4a4?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-persona-bff2649a-6931-4aa6-a223-022230122671?s=gh-new-grad-jobs-2027"><strong>Persona</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-persona-bff2649a-6931-4aa6-a223-022230122671?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-persona-d2356d47-66a2-48ca-b635-d2bba251b9e6?s=gh-new-grad-jobs-2027">↳ <strong>Persona</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Corporate Security</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-persona-d2356d47-66a2-48ca-b635-d2bba251b9e6?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-persona-afcc4761-d005-4301-9a78-d2570790f88b?s=gh-new-grad-jobs-2027">↳ <strong>Persona</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Enterprise</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-persona-afcc4761-d005-4301-9a78-d2570790f88b?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-plaid-587e83dd-1d1b-4f31-812a-74fc67d67fbe?s=gh-new-grad-jobs-2027"><strong>Plaid</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, GRC</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-plaid-587e83dd-1d1b-4f31-812a-74fc67d67fbe?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-plaid-94752cfc-4a62-48c9-bcc0-e5f7f1905be6?s=gh-new-grad-jobs-2027">↳ <strong>Plaid</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Analyst, Third-Party Ecosystem Risk ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-plaid-94752cfc-4a62-48c9-bcc0-e5f7f1905be6?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-field-ai-d2255c03-51f3-4efe-b27b-d8921e965153?s=gh-new-grad-jobs-2027"><strong>Field Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Infrastructure Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-field-ai-d2255c03-51f3-4efe-b27b-d8921e965153?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-field-ai-9362f647-988e-4cf0-a8de-924dcbf0e5d0?s=gh-new-grad-jobs-2027">↳ <strong>Field Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Product Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-field-ai-9362f647-988e-4cf0-a8de-924dcbf0e5d0?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-AbbVie-3743990014387946?s=gh-new-grad-jobs-2027"><strong>Abbvie</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Splunk / Cribl Engineer - Cybersecurity Engin...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">North Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-AbbVie-3743990014387946?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-northwoodspace-8156dd0b-7115-4089-a3e5-4986d72ab594?s=gh-new-grad-jobs-2027"><strong>Northwood Space</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Corporate IT Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Torrance<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-northwoodspace-8156dd0b-7115-4089-a3e5-4986d72ab594?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-northwoodspace-3f3101bf-b8f3-4a20-9364-90700b869e6a?s=gh-new-grad-jobs-2027">↳ <strong>Northwood Space</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Identity &amp; Endpoint Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Torrance<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-northwoodspace-3f3101bf-b8f3-4a20-9364-90700b869e6a?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-mercor-f6ef82f1-c711-4a19-a9be-6bc04a2b776c?s=gh-new-grad-jobs-2027"><strong>Mercor</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Cloud Infrastructure</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco or NYC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-mercor-f6ef82f1-c711-4a19-a9be-6bc04a2b776c?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-notion-c0fcf37b-e00f-4aae-a2e0-b008f9939a7e?s=gh-new-grad-jobs-2027">🔥 <strong>Notion</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Detection and Response, Sa...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-notion-c0fcf37b-e00f-4aae-a2e0-b008f9939a7e?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-notion-477768e1-37af-49bc-a4de-6564e0a4ec54?s=gh-new-grad-jobs-2027">↳ 🔥 <strong>Notion</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, Corporate Security</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-notion-477768e1-37af-49bc-a4de-6564e0a4ec54?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-modal-8de60620-09bf-4905-910f-a290814a29ee?s=gh-new-grad-jobs-2027"><strong>Modal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Infrastructure Security Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-modal-8de60620-09bf-4905-910f-a290814a29ee?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-AbbVie-3743990014900536?s=gh-new-grad-jobs-2027"><strong>Abbvie</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Business Technology Solutions Intern - C...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">South San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-AbbVie-3743990014900536?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-langchain-7b1e5ff7-4531-4d4a-8379-52a21b6d386d?s=gh-new-grad-jobs-2027"><strong>Langchain</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer - Detection &amp; Response</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-langchain-7b1e5ff7-4531-4d4a-8379-52a21b6d386d?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-leland-bb9e0dca-a9aa-48eb-b09c-936ea70facd3?s=gh-new-grad-jobs-2027"><strong>Leland</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Coach</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-leland-bb9e0dca-a9aa-48eb-b09c-936ea70facd3?s=gh-new-grad-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-lambda-e5453baf-d2ec-43d1-9d3b-8fb3d5cdc9d1?s=gh-new-grad-jobs-2027"><strong>Lambda</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer</td>
@@ -1955,13 +2508,6 @@
 <td style="white-space:nowrap;">30d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-drweng-7991196?s=gh-canada-internships-2027"><strong>DRW</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montreal</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-drweng-7991196?s=gh-canada-internships-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-rocketlab-7990043003?s=gh-canada-internships-2027"><strong>Rocket Lab</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Intern Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto</td>
@@ -2240,13 +2786,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Canada - Waterloo<br>ON</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-flir-flircareers-REQ36054?s=gh-canada-internships-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-drweng-7991171?s=gh-canada-internships-2027"><strong>DRW</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montreal</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-drweng-7991171?s=gh-canada-internships-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507969?s=gh-canada-internships-2027"><strong>Td Bank</strong></a></td>
@@ -3304,538 +3843,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">USA VA Chantilly</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-gdit-external-career-site-RQ226218?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-centerfield-13b90415-27cd-482d-bc9f-6674fb7b4757?s=gh-new-grad-data-science-jobs-2027"><strong>Centerfield</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-centerfield-13b90415-27cd-482d-bc9f-6674fb7b4757?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-torcrobotics-8649374002?s=gh-new-grad-data-science-jobs-2027"><strong>Torc Robotics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, II - Data Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Ann Arbor<br>MI<br>Blacksburg<br>VA</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-torcrobotics-8649374002?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/apple-200681997?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Apple</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer, Apple Ads</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/apple-200681997?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-fanduel-8180103?s=gh-new-grad-data-science-jobs-2027"><strong>Fanduel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-fanduel-8180103?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024459?s=gh-new-grad-data-science-jobs-2027"><strong>Cisco</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer I (Full-Time) - United States</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">RTP North Carolina US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024459?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-travelers-external-R-52261?s=gh-new-grad-data-science-jobs-2027"><strong>The Travelers Com...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer II, GenAI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CT Hartford</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-travelers-external-R-52261?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-travelers-external-R-52342?s=gh-new-grad-data-science-jobs-2027">↳ <strong>The Travelers Com...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer I (Databricks, AWS, Python)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CT - Hartford</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-travelers-external-R-52342?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-comcast-comcast-careers-R442548?s=gh-new-grad-data-science-jobs-2027"><strong>Comcast</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Data Engineer (Databricks, PySpark, AWS)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PA - West Chester</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-comcast-comcast-careers-R442548?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-garnerhealth-6181548004?s=gh-new-grad-data-science-jobs-2027"><strong>Garner Health</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer III</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-garnerhealth-6181548004?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/amazon-b73270ea-31f0-4700-90c2-76322d569837?s=gh-new-grad-data-science-jobs-2027"><strong>Bop Llc</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer II, Shopbop Data</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/amazon-b73270ea-31f0-4700-90c2-76322d569837?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-zoox-dafe2927-74bf-4bef-8df0-cb0874595819?s=gh-new-grad-data-science-jobs-2027"><strong>ZOOX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Contract Student Worker - Autonomy Safety Dat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-zoox-dafe2927-74bf-4bef-8df0-cb0874595819?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-baselayer-5415971008?s=gh-new-grad-data-science-jobs-2027"><strong>Baselayer</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-baselayer-5415971008?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-571744?s=gh-new-grad-data-science-jobs-2027"><strong>Wells Fargo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Information Security Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IRVING<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-wf-wellsfargojobs-R-571744?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-esri-5230512007?s=gh-new-grad-data-science-jobs-2027"><strong>ESRI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Spatial Data Engineer II</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redlands<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-esri-5230512007?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-torcrobotics-8649372002?s=gh-new-grad-data-science-jobs-2027"><strong>Torc Robotics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, I - Data Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Ann Arbor<br>MI<br>Blacksburg<br>VA</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-torcrobotics-8649372002?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR347480?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Salesforce</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer (SMTS/LMTS) - Knowledge Graph &amp; AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">California San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR347480?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-caci-external-331610?s=gh-new-grad-data-science-jobs-2027"><strong>CACI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer/Software Integrator</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-caci-external-331610?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507870?s=gh-new-grad-data-science-jobs-2027"><strong>Td Bank</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer III (US)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mount Laurel<br>New Jersey</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1507870?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/amazon-cc3ccfa4-cc9c-44af-98b7-fbf610b7fad9?s=gh-new-grad-data-science-jobs-2027"><strong>Amazon Kuiper Com...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer II, Amazon Leo</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>VA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/amazon-cc3ccfa4-cc9c-44af-98b7-fbf610b7fad9?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4710646006?s=gh-new-grad-data-science-jobs-2027"><strong>Accenture Federal...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tampa<br>FL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4710646006?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/apple-200679473?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Apple</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AIML Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/apple-200679473?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-guidehouse-external-43972?s=gh-new-grad-data-science-jobs-2027"><strong>Guidehouse</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DC Washington</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-guidehouse-external-43972?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R69947?s=gh-new-grad-data-science-jobs-2027"><strong>Blue Origin</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Customer Data Engineer II - New Glenn</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Greater Seattle Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-blueorigin-blueorigin-R69947?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0016796?s=gh-new-grad-data-science-jobs-2027"><strong>Astreya</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer III</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fremont<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-astreya-life-at-astreya-opportunities-R0016796?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-umd-umcp-JR104853?s=gh-new-grad-data-science-jobs-2027"><strong>University Of Mar...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Software and Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">University of Maryland College Park</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-umd-umcp-JR104853?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2124826?s=gh-new-grad-data-science-jobs-2027"><strong>KBR</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chantilly<br>Virginia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2124826?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-leidos-external-R-00190064?s=gh-new-grad-data-science-jobs-2027"><strong>Leidos</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fort Worth<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-leidos-external-R-00190064?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-databricks-8761732002?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Databricks</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Specialist Solutions Architect - Data Enginee...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-databricks-8761732002?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-jumptrading-8171513?s=gh-new-grad-data-science-jobs-2027"><strong>Jump Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Derived Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago or New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-jumptrading-8171513?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-jumptrading-8171060?s=gh-new-grad-data-science-jobs-2027">↳ <strong>Jump Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York or Chicago</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-jumptrading-8171060?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249219?s=gh-new-grad-data-science-jobs-2027"><strong>Booz Allen Hamilton</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Visualization Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Monterey<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249219?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/oracle-citizens-financial-47809?s=gh-new-grad-data-science-jobs-2027"><strong>Citizens Financia...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Asset Finance Analysis &amp; Reporting Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Johnston<br>RI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/oracle-citizens-financial-47809?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41754?s=gh-new-grad-data-science-jobs-2027"><strong>Keybank</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; Business Intelligence Senior Associate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">4910 Tiedeman Road Brooklyn<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-keybank-external-career-site-R-41754?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-uline-uline-careers-R263825?s=gh-new-grad-data-science-jobs-2027"><strong>Uline</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Solution Analyst - Business Intelligence</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pleasant Prairie<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-uline-uline-careers-R263825?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-cigna-cignacareers-26010949?s=gh-new-grad-data-science-jobs-2027"><strong>Cigna</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Enablement &amp; Reporting Analyst - Evernor...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States Work at Home</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-cigna-cignacareers-26010949?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202680012?s=gh-new-grad-data-science-jobs-2027"><strong>COX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Intelligence Manager - Manheim Clien...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta GA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202680012?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/oracle-oracle-344673?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Oracle</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technical Reporting Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>VA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/oracle-oracle-344673?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1504889?s=gh-new-grad-data-science-jobs-2027"><strong>Td Bank</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Audit Manager II ( Business Intelligence Engi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>North Carolina</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1504889?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4708622006?s=gh-new-grad-data-science-jobs-2027"><strong>Accenture Federal...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Reporting Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quantico<br>VA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-accenturefederalservices-4708622006?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-bah-bah-jobs-R0246885?s=gh-new-grad-data-science-jobs-2027"><strong>Booz Allen Hamilton</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Intelligence Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Huntsville<br>AL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-bah-bah-jobs-R0246885?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-tmobile-external-REQ370252?s=gh-new-grad-data-science-jobs-2027"><strong>T Mobile</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Analyst, Business Intelligence</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bellevue<br>Washington</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-tmobile-external-REQ370252?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-bah-bah-jobs-R0243438?s=gh-new-grad-data-science-jobs-2027"><strong>Booz Allen Hamilton</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Visualization Specialist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Edgewood<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-bah-bah-jobs-R0243438?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/greenhouse-generalmatter-5407436008?s=gh-new-grad-data-science-jobs-2027"><strong>General Matter</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Data Visualization</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/greenhouse-generalmatter-5407436008?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04326?s=gh-new-grad-data-science-jobs-2027"><strong>Regal Rexnord</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Intelligence Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Grafton<br>Wisconsin<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_04326?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990014571757?s=gh-new-grad-data-science-jobs-2027"><strong>LLNL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Heavy-Ion Physics and Scientific Machine Lear...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Livermore<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-llnl-3743990014571757?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-airwallex-1d4b22cd-33cd-44b8-83fe-108d11907f2f?s=gh-new-grad-data-science-jobs-2027"><strong>Airwallex</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-airwallex-1d4b22cd-33cd-44b8-83fe-108d11907f2f?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-deepgram-9a030b32-d671-43e0-a221-4653bb73ba29?s=gh-new-grad-data-science-jobs-2027"><strong>Deepgram</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer, Machine Learning Systems</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">USA Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-deepgram-9a030b32-d671-43e0-a221-4653bb73ba29?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-deepgram-94ae2781-a85f-493a-86c1-ff85a9289355?s=gh-new-grad-data-science-jobs-2027">↳ <strong>Deepgram</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied ML Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">USA Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-deepgram-94ae2781-a85f-493a-86c1-ff85a9289355?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-deepgram-0b7494b3-a91e-4540-9439-5b10a1e5b391?s=gh-new-grad-data-science-jobs-2027">↳ <strong>Deepgram</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded AI Engineer, On-Device Models</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">USA Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-deepgram-0b7494b3-a91e-4540-9439-5b10a1e5b391?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e?s=gh-new-grad-data-science-jobs-2027"><strong>Whatnot</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Infrastructure Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-whatnot-cee7e839-d88d-4782-8e55-82de2e9ad87e?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-zoox-b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562?s=gh-new-grad-data-science-jobs-2027"><strong>ZOOX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Automation Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Foster City<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-zoox-b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-synergyecp-7bd6f392-2041-4f13-b229-a7c885fa4bee?s=gh-new-grad-data-science-jobs-2027"><strong>Synergy Ecp</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Annapolis Junction<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-synergyecp-7bd6f392-2041-4f13-b229-a7c885fa4bee?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-make-rain-6ad53a80-4778-4fe9-aca4-98099e537a95?s=gh-new-grad-data-science-jobs-2027"><strong>Rainmaker</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Researcher</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">El Segundo<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-make-rain-6ad53a80-4778-4fe9-aca4-98099e537a95?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-make-rain-12553367-54eb-4fb8-8268-d52b3f05d86b?s=gh-new-grad-data-science-jobs-2027">↳ <strong>Rainmaker</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rainmaker Fellow, Machine Learning</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">El Segundo<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-make-rain-12553367-54eb-4fb8-8268-d52b3f05d86b?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-palantir-636fc05c-d348-4a06-be51-597cb9e07488?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Palantir</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Forward Deployed AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-palantir-636fc05c-d348-4a06-be51-597cb9e07488?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649?s=gh-new-grad-data-science-jobs-2027"><strong>Gritt Robotics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Software - Perception ML Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">South San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-gritt-0c8c31da-118d-4b83-8228-be58203d5649?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-tessera-labs-eb150714-eeb2-44b4-8a23-c893be972bed?s=gh-new-grad-data-science-jobs-2027"><strong>Tessera Labs</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-tessera-labs-eb150714-eeb2-44b4-8a23-c893be972bed?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-ramp-d204e136-2749-42de-82b4-88a0dd352090?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>RAMP</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY (</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-ramp-d204e136-2749-42de-82b4-88a0dd352090?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-ramp-6a7e382f-240a-4952-b9e5-7fe2b3856bc9?s=gh-new-grad-data-science-jobs-2027">↳ 🔥 <strong>RAMP</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer, Fullstack</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY (</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-ramp-6a7e382f-240a-4952-b9e5-7fe2b3856bc9?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36?s=gh-new-grad-data-science-jobs-2027">🔥 <strong>Openai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer, Agent Enablement</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-openai-c1a28411-266b-487b-8ef3-03efb254fc36?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-openai-b46ffd99-f9f2-440c-ac13-448eb7911ad6?s=gh-new-grad-data-science-jobs-2027">↳ 🔥 <strong>Openai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer, Cyber</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-openai-b46ffd99-f9f2-440c-ac13-448eb7911ad6?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-openai-01091aed-427d-4e10-8cdb-fb500cf55bb9?s=gh-new-grad-data-science-jobs-2027">↳ 🔥 <strong>Openai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer, Enterprise</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-openai-01091aed-427d-4e10-8cdb-fb500cf55bb9?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-ifm-us-5edf0fd9-2f47-4f1f-bf12-a787ebf9934e?s=gh-new-grad-data-science-jobs-2027"><strong>Institute For Fou...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Infrastructure Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-ifm-us-5edf0fd9-2f47-4f1f-bf12-a787ebf9934e?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-poshmark-1bdf7b14-1a68-4c3b-ab64-4a3a2793b937?s=gh-new-grad-data-science-jobs-2027"><strong>Poshmark</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer II, Machine Learning</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">California -</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-poshmark-1bdf7b14-1a68-4c3b-ab64-4a3a2793b937?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-field-ai-1ff2ae13-b4a7-4800-a52e-d1c858924861?s=gh-new-grad-data-science-jobs-2027"><strong>Field Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics AI Engineer, Sensor Calibration</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-field-ai-1ff2ae13-b4a7-4800-a52e-d1c858924861?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/lever-field-ai-28935a89-7c6b-4caf-abe7-b83b8a9958e1?s=gh-new-grad-data-science-jobs-2027">↳ <strong>Field Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Agentic AI/ML Engineer, Multimodal</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/lever-field-ai-28935a89-7c6b-4caf-abe7-b83b8a9958e1?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-mercor-7cee578f-799c-46ad-8951-cb0b724d619a?s=gh-new-grad-data-science-jobs-2027"><strong>Mercor</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Machine Learning</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-mercor-7cee578f-799c-46ad-8951-cb0b724d619a?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-nox-metals-687c6982-2d69-4a9a-b0e1-3e32dcd8ac9e?s=gh-new-grad-data-science-jobs-2027"><strong>Nox Metals</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ML Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Detroit</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-nox-metals-687c6982-2d69-4a9a-b0e1-3e32dcd8ac9e?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/sr-AbbVie-3743990014818146?s=gh-new-grad-data-science-jobs-2027"><strong>Abbvie</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Semantic AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">North Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/sr-AbbVie-3743990014818146?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-langchain-47ad420c-9302-4a4f-a35f-7dd29e1d9d28?s=gh-new-grad-data-science-jobs-2027"><strong>Langchain</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer, Enablement</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-langchain-47ad420c-9302-4a4f-a35f-7dd29e1d9d28?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-leland-203589d3-86b4-4788-b130-eb9ae2399f67?s=gh-new-grad-data-science-jobs-2027"><strong>Leland</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI &amp; ML Engineering Coach</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-leland-203589d3-86b4-4788-b130-eb9ae2399f67?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-mach9-51061973-9726-4e8e-bba4-4bfa9e3ef004?s=gh-new-grad-data-science-jobs-2027"><strong>MACH</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ML Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-mach9-51061973-9726-4e8e-bba4-4bfa9e3ef004?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-kos.ai-8880c17f-958e-4fa6-8542-69a59bbf4d97?s=gh-new-grad-data-science-jobs-2027"><strong>Kos</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Founding AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-kos.ai-8880c17f-958e-4fa6-8542-69a59bbf4d97?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-human-computer-lab-eb62af20-f469-40dc-b0a1-8b7ec59c9225?s=gh-new-grad-data-science-jobs-2027"><strong>Human Computer Lab</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ML Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-human-computer-lab-eb62af20-f469-40dc-b0a1-8b7ec59c9225?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-handshake-b777e140-6ccd-44e6-9709-5a43c4b1ca7a?s=gh-new-grad-data-science-jobs-2027"><strong>Handshake</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer, Enterprise AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-handshake-b777e140-6ccd-44e6-9709-5a43c4b1ca7a?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://zapply.jobs/l/d/ashby-etched-831bfa22-d883-450b-9b10-2a16421525a0?s=gh-new-grad-data-science-jobs-2027"><strong>Etched</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer, Silicon Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://zapply.jobs/l/d/ashby-etched-831bfa22-d883-450b-9b10-2a16421525a0?s=gh-new-grad-data-science-jobs-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
 </tr>
 </tbody>
 </table>
