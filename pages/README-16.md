@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 16
 
-**Page 16 of 28 — 15,106 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 16 of 28 — 14,885 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-17.md)
 
@@ -560,41 +560,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5139668008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"><strong>Akuna Capital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Development &amp; Strategy Intern - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614">↳ <strong>Akuna Capital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Research Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062"><strong>Hudson River Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Algorithm Development - Quant Research &amp; Trad...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom +2</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837">↳ <strong>Hudson River Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Algorithm Development - Quant Research &amp; Trad...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom +2</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.janestreet.com/join-jane-street/position/8631973002"><strong>Jane Street</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Summer Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/position/8631973002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"><strong>Megazone Cloud Us</strong></a></td>
@@ -3075,41 +3040,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"><strong>Akuna Capital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Full Stack Web - S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847">↳ <strong>Akuna Capital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - C++ - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853">↳ <strong>Akuna Capital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Python - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886">↳ <strong>Akuna Capital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - C# .NET Desktop - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"><strong>Hudson River Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Internship - C++ or Pyth...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom +4</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"><strong>Abridge</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
@@ -3787,6 +3717,69 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/vercel/jobs/6181755004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004"><strong>VIAM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008"><strong>Wasabi</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cloud Tech Support Engineer - Co-op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/wasabi/jobs/5418393008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1"><strong>Allegion</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Firmware Engineer - Advanced ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>IN +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Software-Engineering-Intern---DevOps_JR37379">↳ <strong>Allegion</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Software Engineering - DevOps</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel<br>IN +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Software-Engineering-Intern---DevOps_JR37379" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1">↳ <strong>Allegion</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Firmware Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Farmington<br>CT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Software Engineering Intern - Masters - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"><strong>Boeing</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boeing Engineering &amp; Technology Innovation Gr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tukwila<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654"><strong>Cboe Global Markets</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://chrobinson.wd5.myworkdayjobs.com/en-US/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"><strong>C H Robinson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Internship 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Eden Prairie<br>MN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://chrobinson.wd5.myworkdayjobs.com/en-US/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 </tbody>
 </table>
