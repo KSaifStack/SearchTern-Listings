@@ -74,6 +74,69 @@ BLOCKED_COMPANIES: set[str] = {
 }
 NORMALIZED_BLOCKED_COMPANIES = {name.strip().lower() for name in BLOCKED_COMPANIES}
 
+# Third-party job-search portals (not a company ATS) — no stable job page, drop.
+# Matched on the brand label so regional variants (adzuna.com.au, ...) also drop.
+AGGREGATOR_BRANDS = {
+    "adzuna",
+    "whatjobs",
+    "himalayas",
+    "4dayweek",
+    "governmentjobs",
+    "wellfound",
+    "weworkremotely",
+    "comeet",
+    "comparably",
+    "sequoia-connect",
+}
+
+_TRACKING_RE = re.compile(r"[?&](?:utm_\w+|ref)=[^&#]*")
+
+_ORACLE_SEARCH_RE = re.compile(
+    r"^https?://([^/?]+)/\?.*mode=jobs.*?site_number=([^#&]+)#([^#]+)$"
+)
+
+
+def _is_aggregator(link: str) -> bool:
+    try:
+        host = link.split("/")[2].lower()
+    except IndexError:
+        return False
+    labels = host.split(".")
+    return any(label in AGGREGATOR_BRANDS for label in labels)
+
+
+def _rebuild_oracle_job_url(link: str) -> str:
+    """Convert Oracle Cloud search-page links into the direct job URL:
+    /?keyword=&mode=jobs&...&site_number=CX_1#301904  ->  /hcmUI/.../sites/CX_1/job/301904"""
+    m = _ORACLE_SEARCH_RE.match(link)
+    if not m:
+        return link
+    host, site, job_id = m.groups()
+    return f"https://{host}/hcmUI/CandidateExperience/en/sites/{site}/job/{job_id}"
+
+
+def _strip_tracking(link: str) -> str:
+    cleaned = _TRACKING_RE.sub("", link)
+    cleaned = re.sub(r"[?&]$", "", cleaned)
+    return cleaned
+
+
+def clean_link(link) -> str:
+    """Normalize a job URL for display: repair Oracle search-page links,
+    upgrade http->https, drop tracking params, and reject aggregator portals."""
+    if not link:
+        return ""
+    link = str(link).strip()
+    if link.startswith("http://"):
+        link = "https://" + link[len("http://"):]
+    if not link.startswith("https://"):
+        return ""
+    link = _rebuild_oracle_job_url(link)
+    link = _strip_tracking(link)
+    if _is_aggregator(link):
+        return ""
+    return link
+
 
 def is_oracle_cloud_url(company: str) -> bool:
     """Detect Oracle Cloud ATS URLs masquerading as company names."""
@@ -179,6 +242,11 @@ def clean_company_name(company: str) -> str:
     if not company:
         return ""
     name = html.unescape(str(company)).strip()
+    if not name:
+        return ""
+
+    name = re.sub(r"https?://\S+", " ", name, flags=re.IGNORECASE).strip()
+    name = re.split(r"\s+https\s+", name, flags=re.IGNORECASE)[0].strip()
     if not name:
         return ""
 

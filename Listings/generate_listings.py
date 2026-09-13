@@ -11,9 +11,11 @@ import sys
 import requests
 import time as _time
 import duckdb
+import echojobs
 import markdown_sources
 import pandas as pd
 import readme_generation
+import skillexchange
 from readme_utils import http_get
 
 TIER_LIGHT = "light"
@@ -719,6 +721,82 @@ if not md_df.empty:
         subset=["company", "role", "location"], keep="first"
     )
     print(f"  Markdown added: {source_contrib[TIER_LIGHT][0]} to README, {source_contrib[TIER_LIGHT][1]} to listings")
+
+# ── SkillExchange board (light tier supplement) ────────────────────────────
+sx_df = pd.DataFrame()
+if TIER_LIGHT in RUN_TIERS:
+    sx_df, _ = skillexchange.fetch_and_parse(infer_country=_infer_country)
+    if sx_df is None:
+        sx_df = pd.DataFrame()
+    if not sx_df.empty:
+        sx_df = _classify_freehire(sx_df)
+        print(f"  SkillExchange classified: {len(sx_df):,} rows")
+        _save_cache(sx_df, "skill")
+else:
+    sx_df = _load_cached("skill")
+print(f"  SkillExchange working set: {len(sx_df):,} rows")
+
+if not sx_df.empty:
+    sx_df = _dedup_across(readme_result, sx_df)
+    print(f"  SkillExchange after dedup vs existing sources: {len(sx_df):,}")
+    sx_for_readme = sx_df[
+        ~sx_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                    'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                    'HR','BG','FI','LU','BE','MT','CY'])
+        & (pd.to_datetime(sx_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & sx_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    sx_for_listings = sx_df[
+        pd.to_datetime(sx_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+    ].copy()
+
+    readme_result = pd.concat([readme_result, sx_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = pd.concat([listings_result, sx_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  SkillExchange added: {len(sx_for_readme)} to README, {len(sx_for_listings)} to listings")
+
+# ── EchoJobs board (light tier supplement) ───────────────────────────────
+ej_df = pd.DataFrame()
+if TIER_LIGHT in RUN_TIERS:
+    ej_df, _ = echojobs.fetch_and_parse(infer_country=_infer_country)
+    if ej_df is None:
+        ej_df = pd.DataFrame()
+    if not ej_df.empty:
+        ej_df = _classify_freehire(ej_df)
+        print(f"  EchoJobs classified: {len(ej_df):,} rows")
+        _save_cache(ej_df, "echo")
+else:
+    ej_df = _load_cached("echo")
+print(f"  EchoJobs working set: {len(ej_df):,} rows")
+
+if not ej_df.empty:
+    ej_df = _dedup_across(readme_result, ej_df)
+    print(f"  EchoJobs after dedup vs existing sources: {len(ej_df):,}")
+    ej_for_readme = ej_df[
+        ~ej_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                    'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                    'HR','BG','FI','LU','BE','MT','CY'])
+        & (pd.to_datetime(ej_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & ej_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    ej_for_listings = ej_df[
+        pd.to_datetime(ej_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+    ].copy()
+
+    readme_result = pd.concat([readme_result, ej_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = pd.concat([listings_result, ej_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  EchoJobs added: {len(ej_for_readme)} to README, {len(ej_for_listings)} to listings")
 
 _TECH_KEYWORDS = (
     r"\b(?:swe|sde|mts|it)\b", "software", "developer", "programmer", "coder", "engineer",

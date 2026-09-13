@@ -14,6 +14,7 @@ from readme_utils import (
     SIZE_BUFFER,
     build_table,
     clean_company_name,
+    clean_link,
     clean_location,
     days_display,
     format_company,
@@ -25,16 +26,34 @@ from readme_utils import (
 
 
 
+def _json_safe(value):
+    """NaN and NaT compare unequal to themselves; emit them as null so the
+    output is valid JSON instead of the non-standard `NaN`/`NaT` tokens."""
+    if value is None:
+        return None
+    try:
+        if value != value:
+            return None
+    except Exception:
+        pass
+    return value
+
+
 def write_listings_json(dataframe, output_dir="."):
     pages_dir = os.path.join(output_dir, "pages")
     os.makedirs(pages_dir, exist_ok=True)
 
     clean_records = []
+    seen = set()
 
     for _, row in dataframe.iterrows():
         company = str(row["company"]).strip()
         role = str(row["role"]).strip()
         date = str(row["date"]).strip()
+        link = clean_link(row.get("link"))
+
+        if not link.startswith(("http://", "https://")):
+            continue
 
         cleaned_company = clean_company_name(company)
         if not cleaned_company:
@@ -57,11 +76,19 @@ def write_listings_json(dataframe, output_dir="."):
         record["company"] = cleaned_company
         record["role"] = role
         record["location"] = clean_location(record.get("location", ""))
+        if not (record.get("country_iso") or "").strip():
+            record["country_iso"] = "US"
+        record = {k: _json_safe(v) for k, v in record.items()}
+
+        key = (record["company"], record["role"], record["location"])
+        if key in seen:
+            continue
+        seen.add(key)
         clean_records.append(record)
 
     export_path = os.path.join(pages_dir, "listings.json")
     with open(export_path, "w", encoding="utf-8") as f:
-        json.dump(clean_records, f, indent=2, ensure_ascii=False, default=str)
+        json.dump(clean_records, f, indent=2, ensure_ascii=False, default=str, allow_nan=False)
 
     print(f"Wrote {export_path} — {len(clean_records):,} listings")
 
@@ -93,10 +120,14 @@ def generate_readme(dataframe, output_dir="."):
         role = str(row["role"]).strip()
         location = str(row["location"]).strip()
         date = str(row["date"]).strip()
-        link = str(row["link"]).strip()
+        link = clean_link(row.get("link"))
 
         cleaned_company = clean_company_name(company)
         if not cleaned_company:
+            skipped_oracle += 1
+            continue
+
+        if not link:
             skipped_oracle += 1
             continue
 
