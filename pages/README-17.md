@@ -3383,10 +3383,10 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://munichairportusholdingllc.applytojob.com/apply/Fi3oDpdaO3/FM-Software-And-Data-Analyst-Internship"><strong>Munich Airport Nj</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://munichairportusholdingllc.applytojob.com/apply/Fi3oDpdaO3/FM-Software-And-Data-Analyst-Internship"><strong>Munich Airport Nj</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">FM Software and Data Analyst Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Newark<br>NJ</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://munichairportusholdingllc.applytojob.com/apply/Fi3oDpdaO3/FM-Software-And-Data-Analyst-Internship" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://munichairportusholdingllc.applytojob.com/apply/Fi3oDpdaO3/FM-Software-And-Data-Analyst-Internship" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -3845,10 +3845,10 @@
 <td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN"><strong>Nova Tech Enginee...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN"><strong>Nova Tech Enginee...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Co-Op - Located Onsite i...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Willmar<br>MN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>

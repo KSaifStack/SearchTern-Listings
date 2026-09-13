@@ -87,6 +87,7 @@ AGGREGATOR_BRANDS = {
     "comeet",
     "comparably",
     "sequoia-connect",
+    "welcometothejungle",
 }
 
 _TRACKING_RE = re.compile(r"[?&](?:utm_\w+|ref)=[^&#]*")

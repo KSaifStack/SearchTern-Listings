@@ -37,17 +37,17 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebgj.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Pella-Careers#253231"><strong>Pella Windows Doors</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253231"><strong>Pella Windows Doors</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineer Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Medford<br>WI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebgj.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Pella-Careers#253231" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253231" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114136"><strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114136"><strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lancaster<br>PA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114136" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114136" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -58,10 +58,10 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#10008853"><strong>Vanderbilt Univer...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008853"><strong>Vanderbilt Univer...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant - Biological Science (Nord...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nashville<br>TN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ecsr.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#10008853" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ecsr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10008853" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -79,45 +79,45 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114135"><strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114135"><strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lancaster<br>PA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114135" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114135" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114165">↳ <strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114165">↳ <strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Metallurgical Engineer Intern- Davenport Works</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Davenport<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114165" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114165" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114166">↳ <strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114166">↳ <strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineer Intern- Davenport Works</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Davenport<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114166" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114166" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114164">↳ <strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114164">↳ <strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer Intern- Davenport Works</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Davenport<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114164" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114164" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1007581"><strong>Stantec</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007581"><strong>Stantec</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineering Intern - Water (Fall 2...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1007581" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007581" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1007579">↳ <strong>Stantec</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007579">↳ <strong>Stantec</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern - Water (Summer 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Phoenix<br>AZ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1007579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -128,24 +128,24 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15823"><strong>Hcwx Cx 3001</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15823"><strong>Hcwx Cx 3001</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Finance Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15823" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15823" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#36726"><strong>UNDP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36726"><strong>UNDP</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Greater Tumen Initiative (GTI) IT Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Beijing<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://estm.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#36726" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36726" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15830"><strong>Hcwx Cx 3001</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15830"><strong>Hcwx Cx 3001</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern / Co-Op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15830" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15830" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -191,38 +191,38 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hbbq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4803"><strong>American Bureau O...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4803"><strong>American Bureau O...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Finance Summer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hbbq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4803" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4803" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107224"><strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107224"><strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lean Performance Systems (LPS) Assistant - Da...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107224" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107224" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107225">↳ <strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107225">↳ <strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lean Performance Systems (LPS) Assistant - Af...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107225" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107225" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107226">↳ <strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107226">↳ <strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">CAD Design Technologist - Facilities (Co-op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107226" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107226" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107231">↳ <strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107231">↳ <strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Assistant (Co-op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107231" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107231" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -233,157 +233,157 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43787"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43787"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Electrical Engineer APM</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Dublin<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43787" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43787" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15836"><strong>Hcwx Cx 3001</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15836"><strong>Hcwx Cx 3001</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Process Engineering Intern (GB) - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Green Bay<br>WI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15836" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15836" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15838">↳ <strong>Hcwx Cx 3001</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15838">↳ <strong>Hcwx Cx 3001</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">CI Engineering Intern- Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lake Charles<br>LA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#15838" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwx.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/15838" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43959"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43959"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Water Resources Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43959" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43959" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2#2620103"><strong>EJHP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620103"><strong>EJHP</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Management and Sales Intern - Louisville</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Louisville<br>KY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejhp.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2#2620103" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2620103" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iazbqy.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2003979"><strong>Ip Global Career ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iazbqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2003979"><strong>Ip Global Career ...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Production Associate - Entry Level</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Russellville<br>AR<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iazbqy.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2003979" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iazbqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2003979" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egug.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26013623"><strong>EGUG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013623"><strong>EGUG</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campus Graduate Masters Summer Internship Pro...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sunrise<br>FL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egug.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26013623" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013623" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26115343"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115343"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Finance Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Oman</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26115343" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115343" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94364"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94364"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil/Structural Engineering (Substation) Int...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Oradell<br>NJ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94364" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94364" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94862">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94862">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Civil/Geotechnical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Madison<br>WI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94862" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94862" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94843">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94843">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern- Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94843" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94843" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#52115"><strong>EOFH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/52115"><strong>EOFH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AVP - Corporate and SME Finance - Central Ope...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#52115" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/52115" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-epop-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#261880"><strong>Fa Epop Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-epop-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261880"><strong>Fa Epop Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">26-27 Security and Operations: Officer, Campu...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Aurora<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-epop-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#261880" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-epop-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261880" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2437222"><strong>Fa Espx Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437222"><strong>Fa Espx Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Early Career - Electronic Systems Engine...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Wuhan<br>Hubei<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2437222" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437222" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94384"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94384"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Intern (Small Utility)...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tyler<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94360">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94360">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil/Structural Engineering (Substation) Int...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Duluth<br>GA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94360" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94360" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26115088"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115088"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Learning &amp; Development Operations (Ja...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26115088" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26115088" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#53176"><strong>EOFH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/53176"><strong>EOFH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; MIS Executive - Retail MFB - Strategy ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#53176" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/53176" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94825"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94825"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Mechanical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94825" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94825" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94817">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94817">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering (Thermal Generation) I...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mount Laurel<br>NJ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94817" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94817" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94637">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94637">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94637" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94637" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94559">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94559">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineering Intern - Fall 2026</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94559" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94559" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -394,24 +394,24 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94554"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94554"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Electrical Engineer (Distribution)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Maitland<br>FL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94554" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94554" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#14265"><strong>Fa Epmd Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14265"><strong>Fa Epmd Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Accounting Associate - New Graduate Rotation ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Guelph<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#14265" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14265" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26010396"><strong>Emerson Career Site</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396"><strong>Emerson Career Site</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26010396" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -436,17 +436,17 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epuc.fa.ap1.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=cx_4#28843"><strong>Petronas</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_4/job/28843"><strong>Petronas</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern for Chemical Engineering, PETRONAS Che...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sabah<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epuc.fa.ap1.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=cx_4#28843" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_4/job/28843" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epuc.fa.ap1.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=cx_4#28721">↳ <strong>Petronas</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_4/job/28721">↳ <strong>Petronas</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern for Business Administration, PETRONAS ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pahang<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epuc.fa.ap1.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=cx_4#28721" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epuc.fa.ap1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_4/job/28721" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -457,17 +457,17 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdbg.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1765"><strong>Oracle Cloud</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdbg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1765"><strong>Oracle Cloud</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campus Access Specialist - Security</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Glens Falls<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdbg.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1765" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdbg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1765" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#11883"><strong>JDI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11883"><strong>JDI</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Co-op - Winter 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Macon<br>GA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcpd.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Careers#11883" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/11883" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -485,10 +485,10 @@
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#107430"><strong>Weatherford</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107430"><strong>Weatherford</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern -Supplier Quality Analyst &amp; Digital Tr...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#107430" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107430" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
@@ -589,13 +589,7 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/4C1F53EF5D" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stagiaire-technology-transformation-f-h_casablanca"><strong>Deloitte</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Stagiaire Technology &amp; Transformation F/H</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Casablanca<br>Casablanca - Settat<br>Morocco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/xVJGNlA/jobs/stagiaire-technology-transformation-f-h_casablanca" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://arcadis.eightfold.ai/careers/job/563671533009581"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Water Engineer Intern</td>
@@ -891,94 +885,94 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43788"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43788"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Process Engineer APM</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Dublin<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43788" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43788" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#44047">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44047">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Water Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>VA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#44047" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44047" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43809">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43809">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Geotechnical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Glasgow<br>Lanarkshire<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43808">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43808">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Civil Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Warrington<br>Cheshire<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43808" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43808" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43791">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43791">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Instrumentation Engineer APM</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Munster<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43791" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43791" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21100"><strong>Mas Holdings</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21100"><strong>Mas Holdings</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Technical</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sri Lanka</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21100" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21100" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#44049"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44049"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Water Engineering Intern / Co-Op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#44049" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44049" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#44050">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44050">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Water Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Syracuse<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#44050" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44050" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114162"><strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114162"><strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineer Intern- Davenport Works</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Davenport<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43783"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43783"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Mechanical HVAC Engineer APM</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Munster<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43783" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43783" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43731">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43731">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Structural &amp; Bridge Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manchester<br>Greater Manchester<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43731" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43731" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#157279"><strong>Honeywell</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157279"><strong>Honeywell</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 UR Early Career Program-Software Engr I</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Chongqing<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#157279" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157279" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#19407"><strong>Mas Holdings</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19407"><strong>Mas Holdings</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Technical Projects</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sri Lanka</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#19407" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/19407" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -989,10 +983,10 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114713"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114713"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Al Wathba, a Luxury Collection Desert Resort ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Abu Dhabi<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114713" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114713" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -1017,10 +1011,10 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94207"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94207"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Fort Worth<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94207" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94207" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -1045,10 +1039,10 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114707"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114707"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Al Wathba, a Luxury Collection Desert Resort ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Abu Dhabi<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114707" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114707" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -1059,38 +1053,38 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94212"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94212"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Fort Worth<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94212" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94212" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2437353"><strong>Fa Espx Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437353"><strong>Fa Espx Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Finance Digitalization Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Beijing<br>Beijing<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#2437353" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437353" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114710"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114710"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Al Wathba, a Luxury Collection Desert Resort ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Abu Dhabi<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114710" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114710" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114711">↳ <strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114711">↳ <strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Al Wathba, a Luxury Collection Desert Resort ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Abu Dhabi<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26114711" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26114711" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#53146"><strong>EOFH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/53146"><strong>EOFH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manager - Finance and Accounts - Mumbai - Lod...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#53146" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/53146" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -1101,19 +1095,13 @@
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwp.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=cx_2004#2012962"><strong>Coherent Corp Us</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_2004/job/2012962"><strong>Coherent Corp Us</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Physics or Software Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Penang<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwp.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=cx_2004#2012962" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_2004/job/2012962" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/UODyqF/jobs/business-administrator_warwick"><strong>Msx International</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Administrator</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Warwick<br>Rhode Island<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/UODyqF/jobs/business-administrator_warwick" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/rotork1/744000147693248"><strong>Rotork</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Logistics and Administration</td>
@@ -1142,34 +1130,10 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/dominos/744000147652489" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/FRfZvk/jobs/strategic-finance-lead-deals-international_london_f3gcoawd">🔥 <strong>Snowflake</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Strategic Finance Lead (Deals, International)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/FRfZvk/jobs/strategic-finance-lead-deals-international_london_f3gcoawd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern-bci-applications_fremont-ca_6vzqjtlx"><strong>Neuralink</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (BCI Applications)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/TAQjTg/jobs/software-engineer-intern-bci-applications_fremont-ca_6vzqjtlx" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/campus-recruiting-intern-fall-2026_somerville_krigcvqx"><strong>Formlabs</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Recruiting Intern (Fall 2026)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Somerville<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/campus-recruiting-intern-fall-2026_somerville_krigcvqx" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/campus-recruiter_somerville_mfxuosfq">↳ <strong>Formlabs</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Recruiter</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Somerville<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/HW7NHG/jobs/campus-recruiter_somerville_mfxuosfq" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
+
+
+
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5039374"><strong>GE Aerospace</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">GE Aerospace Software Engineering - 12 Month ...</td>
@@ -1254,27 +1218,9 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/circadiahealth/2c51e44f-4303-472f-b65c-7e58f1fb88da" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/29XIvD/jobs/product-design-intern-summer-2027_san-mateo-ca_4pe5msx3">🔥 <strong>Roblox</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Design Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Mateo<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/29XIvD/jobs/product-design-intern-summer-2027_san-mateo-ca_4pe5msx3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/29XIvD/jobs/associate-product-designer-early-career_san-mateo-ca_hrcv25yj">↳ 🔥 <strong>Roblox</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Product Designer (Early Career)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Mateo<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/29XIvD/jobs/associate-product-designer-early-career_san-mateo-ca_hrcv25yj" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/O14yzu/jobs/hardware-support-test-intern_san-francisco_7galhj4i"><strong>Eight Sleep</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Support &amp; Test Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/O14yzu/jobs/hardware-support-test-intern_san-francisco_7galhj4i" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
+
+
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.ycombinator.com/companies/flick/jobs/2fRbygf-growth-engineer-intern"><strong>Flick</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Growth Engineer Intern</td>
@@ -1296,27 +1242,9 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/solidigm/744000147613779" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/PmP0BT/jobs/category-associate-new-grad-business-program_new-york_d65a5tnx"><strong>Whatnot</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Category Associate - New Grad Business Program</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/PmP0BT/jobs/category-associate-new-grad-business-program_new-york_d65a5tnx" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/0dpGPVk/jobs/internship-in-strategy-data-science_shanghai"><strong>Ekimetrics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Strategy &amp; Data Science Internship - Shanghai</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/0dpGPVk/jobs/internship-in-strategy-data-science_shanghai" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/cad-engineer-associate-winter-2027_san-francisco_n72qsadv"><strong>Astranis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CAD Engineer Associate (Winter 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/cad-engineer-associate-winter-2027_san-francisco_n72qsadv" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
+
+
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/solidigm/744000147613769"><strong>Solidigm</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Graduate Software, Firmware &amp; AI Enginee...</td>
@@ -1332,10 +1260,10 @@
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eezy.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#20627"><strong>ATCO</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20627"><strong>ATCO</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">January 2027 Chemical Lab Technology Student ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Calgary<br>AB<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eezy.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#20627" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20627" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
@@ -2108,13 +2036,7 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/inter/jobs/4727402005?gh_jid=4727402005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/graduate-engineer_pasay-city"><strong>SUEZ</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pasay City<br>National Capital Region<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/mWbDC7/jobs/graduate-engineer_pasay-city" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/olsson/jobs/4674853008"><strong>Olsson</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Rail Water Resources Engineer</td>
@@ -2647,27 +2569,9 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/IMSNanofabricationGmbH/744000147374789" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/gsVmzM/jobs/electrical-engineering-intern-winter-2027_mountain-view-ca_pcsajbyk"><strong>Kodiak Robotics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Intern (Winter 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/gsVmzM/jobs/electrical-engineering-intern-winter-2027_mountain-view-ca_pcsajbyk" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/YOZOZ7/jobs/software-engineer-intern_san-mateo-ca_qzsk2w2k"><strong>Ixl Learning</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Mateo<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/YOZOZ7/jobs/software-engineer-intern_san-mateo-ca_qzsk2w2k" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.welcometothejungle.com/en/companies/YOZOZ7/jobs/software-developer-new-grad_toronto_od4l76vw">↳ <strong>Ixl Learning</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer (New Grad)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.welcometothejungle.com/en/companies/YOZOZ7/jobs/software-developer-new-grad_toronto_od4l76vw" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
+
+
+
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ecolab.com/job/R00304542"><strong>Ecolab</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Supply Chain Intern - Engineering and Busines...</td>
@@ -2788,59 +2692,59 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377853"><strong>Church</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377853"><strong>Church</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Accounting &amp; Finance Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377853" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377853" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107214"><strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107214"><strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Desktop Support Analyst (Co-op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107214" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107214" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107215">↳ <strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107215">↳ <strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Systems Administrator (Co-op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107215" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107215" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#376979"><strong>Church</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/376979"><strong>Church</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern - BYU-Pathway Worldwide...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#376979" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/376979" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iapiqy.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#120"><strong>Iapiqy</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iapiqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120"><strong>Iapiqy</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Artificial Intelligence Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">East Boston<br>MA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iapiqy.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#120" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iapiqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377851"><strong>Church</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377851"><strong>Church</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Analyst Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377851" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377851" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#43365"><strong>Fa Eygo Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43365"><strong>Fa Eygo Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>OH<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#43365" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/43365" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1007589"><strong>Stantec</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589"><strong>Stantec</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Digital Practice Co-op/Intern - Infrastructur...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1007589" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -2851,38 +2755,38 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#40117"><strong>Nokia</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117"><strong>Nokia</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Optical Test Automation Co-op/Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#40117" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40117" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ehzq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_4#115851"><strong>EHZQ</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/115851"><strong>EHZQ</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Audit IT Assurance Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ehzq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_4#115851" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/115851" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewqq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=hkbu#26270144"><strong>Fa Ewqq Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewqq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/hkbu/job/26270144"><strong>Fa Ewqq Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Senior Research Assistant / Research Assistan...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewqq-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=hkbu#26270144" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewqq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/hkbu/job/26270144" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#40023"><strong>Nokia</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023"><strong>Nokia</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Optical Test Co-Op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#40023" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40023" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35427"><strong>EKKH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35427"><strong>EKKH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Maintenance Engineer (Multiple Loca...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35427" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35427" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -2893,59 +2797,59 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#174529"><strong>EKAW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174529"><strong>EKAW</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Part Time Security Officer - Entry Level</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Waynesboro<br>VA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#174529" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174529" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#174515">↳ <strong>EKAW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174515">↳ <strong>EKAW</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Security Officer - Part Time</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Verona<br>VA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#174515" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/174515" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#15812"><strong>Hcog Cx 2001</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15812"><strong>Hcog Cx 2001</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Construction Technician - Constru...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Fairfax<br>VA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcog.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#15812" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15812" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#173413"><strong>EKAW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173413"><strong>EKAW</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Security Officer | $250 Hiring Bo...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Walton<br>KY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#173413" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173413" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#173415">↳ <strong>EKAW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173415">↳ <strong>EKAW</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Security Officer | $250 Hiring Bo...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dry Ridge<br>KY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#173415" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/173415" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#171827">↳ <strong>EKAW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171827">↳ <strong>EKAW</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Security Officer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Plainfield<br>IN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#171827" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/171827" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21199"><strong>Mas Holdings</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21199"><strong>Mas Holdings</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Pattern Technology</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sri Lanka</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21199" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egmh.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21199" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egug.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26013162"><strong>EGUG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013162"><strong>EGUG</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campus Undergraduate Full-Time Analyst - 2027...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egug.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26013162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -2956,220 +2860,220 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114157"><strong>HDNN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114157"><strong>HDNN</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Infrastructure Observability Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Davenport<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#114157" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114157" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdox.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#66325"><strong>Quest Diagnostics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66325"><strong>Quest Diagnostics</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Part-Time Talent Acquisition Intern (Remote)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Miramar<br>FL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdox.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#66325" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdox.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66325" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebgj.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Pella-Careers#253444"><strong>Pella Windows Doors</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253444"><strong>Pella Windows Doors</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Business Analyst Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pella<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebgj.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Pella-Careers#253444" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/253444" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#456035"><strong>Providence</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/456035"><strong>Providence</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Research Assistant - Clinical Trials</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://evac.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#456035" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/456035" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107218"><strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107218"><strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Design Support (Co-op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107218" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107218" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35729"><strong>EKKH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35729"><strong>EKKH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Maintenance Engineering Intern - Summer 2027 ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35729" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35729" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35442">↳ <strong>EKKH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35442">↳ <strong>EKKH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Industrial Engineer (Multiple Locat...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35442" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35442" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014738"><strong>Kroll</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014738"><strong>Kroll</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Mergers &amp; Acquisitions</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107217"><strong>S C Minimal Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107217"><strong>S C Minimal Caree...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Assistant - Product...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1001#107217" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107217" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35730"><strong>EKKH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35730"><strong>EKKH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Corporate Supply Chain Intern (Austin MN) - S...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35730" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35730" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35738">↳ <strong>EKKH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738">↳ <strong>EKKH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Food Safety &amp; Quality Intern - Summer 2027 - ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2002#35738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebgj.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Pella-Careers#252712"><strong>Pella Windows Doors</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/252712"><strong>Pella Windows Doors</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intelligent Operations Engineer Co-op - Summe...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pella<br>IA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebgj.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=Pella-Careers#252712" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Pella-Careers/job/252712" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014737"><strong>Kroll</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014737"><strong>Kroll</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Mergers &amp; Acquisitions</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcxs.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#21014737" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/21014737" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43936"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43936"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43936" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43936" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#3040384"><strong>EJIS</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3040384"><strong>EJIS</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant I (Part Time - 20 hours) -...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejis.fa.us6.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#3040384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejis.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3040384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43937"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43937"><strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>IN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43937" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43937" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43954">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43954">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Engineering Intern:</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Novi<br>MI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43954" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43954" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43955">↳ <strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43955">↳ <strong>Arcadis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Syracuse<br>NY<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#43955" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43955" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ehxr.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=City-of-Atlanta-Careers#34127"><strong>City Of Atlanta</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ehxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/City-of-Atlanta-Careers/job/34127"><strong>City Of Atlanta</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern (Fall) - Data, Strategy &amp; Innovation</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ehxr.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=City-of-Atlanta-Careers#34127" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ehxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/City-of-Atlanta-Careers/job/34127" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377855"><strong>Church</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377855"><strong>Church</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Real Estate Analyst Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377855" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377855" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377856">↳ <strong>Church</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377856">↳ <strong>Church</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Construction Project Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#377856" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/377856" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26113225"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26113225"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">University Intern-Hotel Operations</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26113225" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26113225" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94656"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94656"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Co-op Trainee (Industrial Engineering)_(Saudi...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Riyadh<br>Riyadh<br>Saudi Arabia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94656" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94656" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26009676"><strong>Emerson Career Site</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009676"><strong>Emerson Career Site</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sales Development Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26009676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=USF#43391"><strong>Fa Ewkd Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/43391"><strong>Fa Ewkd Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Assistant</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tampa<br>FL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=USF#43391" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/43391" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94657"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94657"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Co-op Trainee (Computer Engineering)_(Saudi N...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Riyadh<br>Riyadh<br>Saudi Arabia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94657" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94657" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94576">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94576">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Electrical Engineer (ESSP)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Freeport<br>ME<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94576" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94576" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94617">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94617" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94393">↳ <strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94393">↳ <strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Oakland<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94393" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94393" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#15757"><strong>Fa Esfc Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15757"><strong>Fa Esfc Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">FT TMLP Clerk Cashier (Watrous Food #351) Wat...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Watrous<br>SK<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#15757" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15757" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4236"><strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4236"><strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-IEC Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4236" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4236" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -3215,129 +3119,129 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26007982"><strong>Emerson Career Site</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007982"><strong>Emerson Career Site</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Marketing Engineering Intern (Summer ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26007982" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007982" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4231"><strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4231"><strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern- Project Controls</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4231" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4231" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4237">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4237">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Fundamentals Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4237" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4237" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4233">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4233">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Information Governance Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4233" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4233" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4229">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4229">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-IT Infrastructure</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4229" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4229" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4228">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4228">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Reliability Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4228" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4228" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4224">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4224">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Accounting</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4224" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4224" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4226">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4226">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern- Petroleum Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4226" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4226" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4227">↳ <strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4227">↳ <strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Asset Integrity Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lakewood<br>CO<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4227" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4227" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26009194"><strong>Emerson Career Site</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009194"><strong>Emerson Career Site</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Round Rock<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#26009194" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009194" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4218"><strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4218"><strong>EPIX</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Procurement Operations</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#4218" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4218" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1058"><strong>Fa Eqcd Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1058"><strong>Fa Eqcd Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Reservoir Engineer Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1058" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1058" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26113479"><strong>EJWL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26113479"><strong>EJWL</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Finance Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Wilayah Persekutuan Kuala Lumpur<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#26113479" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26113479" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1057"><strong>Fa Eqcd Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1057"><strong>Fa Eqcd Saasfaprod</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Drilling Engineer Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_1#1057" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1057" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#42808"><strong>EOFH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/42808"><strong>EOFH</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AVP - Cloud Infrastructure - Information Tech...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_3001#42808" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/42808" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94686"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94686"><strong>EMIT</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Fire and Life Safety Engineering Intern - Sum...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX_2001#94686" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94686" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eezy.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#20625"><strong>ATCO</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20625"><strong>ATCO</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">January 2027 Engineering Co-op - Contract Con...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Calgary<br>AB<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eezy.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#20625" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20625" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CareersAtDowner#735815"><strong>Downer</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CareersAtDowner/job/735815"><strong>Downer</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineering Program 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CareersAtDowner#735815" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CareersAtDowner/job/735815" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -3348,10 +3252,10 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eezy.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#20626"><strong>ATCO</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20626"><strong>ATCO</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">January 2027 Data Analytics Co-op - Customer ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Edmonton<br>AB<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eezy.fa.ca2.oraclecloud.com/?keyword=&amp;mode=jobs&amp;lang=en&amp;site_number=CX#20626" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20626" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>

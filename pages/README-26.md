@@ -310,17 +310,17 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering"><strong>Innovative System...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering"><strong>Innovative System...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern/Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://innovativesystems.applytojob.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering">↳ <strong>Innovative System...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering">↳ <strong>Innovative System...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern/Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">10d</td>
 </tr>
 <tr>
@@ -3243,10 +3243,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern"><strong>Hiebing Http Hieb...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern"><strong>Hiebing Http Hieb...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Agent Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Madison<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>

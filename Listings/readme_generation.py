@@ -55,6 +55,9 @@ def write_listings_json(dataframe, output_dir="."):
         if not link.startswith(("http://", "https://")):
             continue
 
+        row = row.copy()
+        row["link"] = link
+
         cleaned_company = clean_company_name(company)
         if not cleaned_company:
             continue

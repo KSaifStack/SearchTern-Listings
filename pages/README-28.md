@@ -2382,10 +2382,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge"><strong>Intelligenesis Ht...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge"><strong>Intelligenesis Ht...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Applied Data Scientist Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>

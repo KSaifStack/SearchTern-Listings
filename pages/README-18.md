@@ -422,17 +422,17 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://career.innovativesystems.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering"><strong>Innovative Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career.innovativesystems.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering"><strong>Innovative Systems</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern/Co-op-Spring 2027 - Software Engineering</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://career.innovativesystems.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career.innovativesystems.com/apply/wJuSCjOOqx/InternCoopSpring-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://career.innovativesystems.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering">↳ <strong>Innovative Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career.innovativesystems.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering">↳ <strong>Innovative Systems</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern/Co-op- Summer 2027 - Software Engineering</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://career.innovativesystems.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career.innovativesystems.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
@@ -1675,10 +1675,10 @@
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern"><strong>Simis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern"><strong>Simis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Aerospace/Aviation Artificial Intelligence De...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Suffolk<br>VA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
@@ -1703,10 +1703,10 @@
 <td style="white-space:nowrap;">23d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027"><strong>Aerotech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027"><strong>Aerotech</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Internship or Co-op 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aerotech.applytojob.com/apply/OFIYSpO0HW/Software-Engineering-Internship-Or-Coop-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
@@ -1752,10 +1752,10 @@
 <td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative"><strong>Specialisterne</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative"><strong>Specialisterne</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Neurodiversity Hir...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
@@ -1780,10 +1780,10 @@
 <td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship"><strong>Metecs</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship"><strong>Metecs</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Software Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
@@ -1878,10 +1878,10 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern"><strong>Hiebing</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern"><strong>Hiebing</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Agent Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Madison<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
@@ -2788,10 +2788,10 @@
 <td style="white-space:nowrap;">1d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://aleysian.applytojob.com/apply/QxbF7APQki/Salesforce-AI-Implementation-Intern"><strong>Aleysian</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aleysian.applytojob.com/apply/QxbF7APQki/Salesforce-AI-Implementation-Intern"><strong>Aleysian</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Salesforce &amp; AI Implementation Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://aleysian.applytojob.com/apply/QxbF7APQki/Salesforce-AI-Implementation-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aleysian.applytojob.com/apply/QxbF7APQki/Salesforce-AI-Implementation-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -2830,10 +2830,10 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern"><strong>Diligencevault</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern"><strong>Diligencevault</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -2893,10 +2893,10 @@
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://focuskpi.applytojob.com/apply/uxGrqatvGx/Remote-PhD-Data-Science-Intern-Media-Mix-Modeling"><strong>Focuskpi</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://focuskpi.applytojob.com/apply/uxGrqatvGx/Remote-PhD-Data-Science-Intern-Media-Mix-Modeling"><strong>Focuskpi</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote PhD Data Science Intern - Media Mix Mo...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Any<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://focuskpi.applytojob.com/apply/uxGrqatvGx/Remote-PhD-Data-Science-Intern-Media-Mix-Modeling" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://focuskpi.applytojob.com/apply/uxGrqatvGx/Remote-PhD-Data-Science-Intern-Media-Mix-Modeling" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
@@ -3495,10 +3495,10 @@
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="http://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027"><strong>Ragle</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027"><strong>Ragle</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern- Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">North Richland Hills<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="http://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 </tr>
 <tr>
