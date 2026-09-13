@@ -43,7 +43,34 @@ def run_link_checks():
     assert clean_link("https://www.adzuna.com.au/details/5875606216") == ""
     assert clean_link("https://sequoia-connect.com/job-description-details/?i=abc") == ""
     assert clean_link("https://himalayas.app/companies/x/jobs/y?utm_source=freehire.me") == ""
+    assert clean_link("https://remoteok.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673") == ""
+    assert clean_link("https://builtin.com/jobs/1234") == ""
+    assert clean_link("https://www.indeed.com/viewjob?jk=abc123") == ""
     assert clean_link("") == ""
+
+    # zapply.jobs short links all redirect to the generic /jobs/ page, so the
+    # tracking code is decoded back to the canonical ATS job URL
+    assert clean_link(
+        "https://zapply.jobs/l/d/sr-WesternDigital-744000143171017?s=gh-new-grad-jobs-2027"
+    ) == "https://jobs.smartrecruiters.com/WesternDigital/744000143171017"
+    assert clean_link(
+        "https://zapply.jobs/l/d/ashby-gritt-46af6e69-40fc-4e53-940e-a99757137523"
+    ) == "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523"
+    assert clean_link(
+        "https://zapply.jobs/l/d/lever-diversified-automation-827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
+    ) == "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
+    assert clean_link(
+        "https://zapply.jobs/l/d/greenhouse-rocketlab-7987159003"
+    ) == "https://boards.greenhouse.io/rocketlab/jobs/7987159003"
+    # company slugs containing hyphens survive (job id matched from the right)
+    assert clean_link(
+        "https://zapply.jobs/l/d/lever-woven-by-toyota-ba39a024-c4c3-4966-a696-95db0e1dc445"
+    ) == "https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445"
+    # unrecognized zapply kinds have no recoverable URL -> dropped
+    assert clean_link("https://zapply.jobs/l/d/workday-bah-bah-jobs-R0249225") == ""
+    assert clean_link("https://zapply.jobs/l/d/google-94172495052972742") == ""
+    assert clean_link("https://zapply.jobs/l/d/amazon-4ad0d1fe-19dd-414e-812b-4daac6e6335f") == ""
+    assert clean_link("https://zapply.jobs/jobs/") == ""
 
     # company names with a URL glued on get the URL stripped
     assert clean_company_name("Ridgeline https://boards.greenhouse.io/ridgeline/jobs/7990742003") == "Ridgeline"

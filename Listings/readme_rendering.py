@@ -11,6 +11,7 @@ from readme_utils import (
     NORMALIZED_BLOCKED_COMPANIES,
     build_table,
     clean_company_name,
+    clean_link,
     days_display,
     format_company,
     format_location,
@@ -85,8 +86,10 @@ def generate_country_pages(dataframe, output_dir="."):
             role = truncate(str(row["role"]).strip(), MAX_ROLE_LEN)
             location = str(row["location"]).strip()
             date = str(row["date"]).strip()
-            link = str(row["link"]).strip()
+            link = clean_link(str(row["link"]).strip())
 
+            if not link:
+                continue
             if not is_english(role) or not is_english(company):
                 continue
 

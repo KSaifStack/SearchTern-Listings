@@ -88,6 +88,19 @@ AGGREGATOR_BRANDS = {
     "comparably",
     "sequoia-connect",
     "welcometothejungle",
+    "remoteok",
+    "builtin",
+    "dice",
+    "glassdoor",
+    "indeed",
+    "ziprecruiter",
+    "monster",
+    "simplyhired",
+    "levelsfyi",
+    "jooble",
+    "jobrapido",
+    "lensa",
+    "snagajob",
 }
 
 _TRACKING_RE = re.compile(r"[?&](?:utm_\w+|ref)=[^&#]*")
@@ -95,6 +108,46 @@ _TRACKING_RE = re.compile(r"[?&](?:utm_\w+|ref)=[^&#]*")
 _ORACLE_SEARCH_RE = re.compile(
     r"^https?://([^/?]+)/\?.*mode=jobs.*?site_number=([^#&]+)#([^#]+)$"
 )
+
+_ZAPPLY_SHORT_RE = re.compile(r"^https?://zapply\.jobs/l/d/(.+)$", re.IGNORECASE)
+_UUID_RE = re.compile(
+    r"(?<=-)[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+)
+
+
+def _rebuild_zapply_job_url(link: str) -> str:
+    """Decode a zapply.jobs tracker short link back into the real ATS job URL.
+
+    Every `zapply.jobs/l/d/<kind>-<company>-<id>` link redirects to the generic
+    zapply.jobs/jobs/ page (a dead end — not the specific posting), so there is
+    no working link to keep as-is. The short code embeds the ATS type, company
+    slug, and job id; we rebuild the canonical URL for the reliable patterns and
+    return "" for anything else so those listings get dropped.
+    """
+    m = _ZAPPLY_SHORT_RE.match(link)
+    if not m:
+        return ""
+    code = m.group(1).split("?", 1)[0]  # drop tracking query
+    kind, _, payload = code.partition("-")
+    kind = kind.lower()
+    if not payload:
+        return ""
+
+    if kind in ("sr", "greenhouse"):  # numeric req id is the last token
+        company, _, job_id = payload.rpartition("-")
+        if company and job_id.isdigit():
+            if kind == "sr":
+                return f"https://jobs.smartrecruiters.com/{company}/{job_id}"
+            return f"https://boards.greenhouse.io/{company}/jobs/{job_id}"
+    elif kind in ("ashby", "lever"):  # trailing UUID (which itself contains hyphens)
+        m = _UUID_RE.search(payload)
+        if m and m.start() > 0:
+            company = payload[: m.start() - 1]
+            job_id = m.group(0)
+            if kind == "ashby":
+                return f"https://jobs.ashbyhq.com/{company}/{job_id}"
+            return f"https://jobs.lever.co/{company}/{job_id}"
+    return ""
 
 
 def _is_aggregator(link: str) -> bool:
@@ -132,6 +185,12 @@ def clean_link(link) -> str:
         link = "https://" + link[len("http://"):]
     if not link.startswith("https://"):
         return ""
+    try:
+        host = link.split("/")[2].lower()
+    except IndexError:
+        host = ""
+    if "zapply.jobs" in host:
+        return _rebuild_zapply_job_url(link)
     link = _rebuild_oracle_job_url(link)
     link = _strip_tracking(link)
     if _is_aggregator(link):
