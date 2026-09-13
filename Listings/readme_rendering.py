@@ -56,7 +56,7 @@ def generate_country_pages(dataframe, output_dir="."):
     countries_dir = os.path.join(output_dir, "countries")
     os.makedirs(countries_dir, exist_ok=True)
 
-    for old in glob.glob(os.path.join(countries_dir, "*.md")):
+    for old in glob.glob(os.path.join(countries_dir, "*.md"), include_hidden=True):
         os.remove(old)
 
     for code, group in dataframe.groupby("country_iso"):
