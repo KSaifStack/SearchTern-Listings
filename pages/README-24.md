@@ -23,13 +23,6 @@
 </thead>
 <tbody>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665">↳ <strong>Uline</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Financial Data Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>10 locations</strong></summary>Waukegan<br>IL<br>Milwaukee<br>WI<br>Glenview<br>IL<br>Pleasant Prairie<br>WI<br>Kenosha<br>WI</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1"><strong>The Boeing Company</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>61 locations</strong></summary>Ridley Park<br>PA<br>Seattle<br>WA<br>Long Beach<br>CA<br>Mesa<br>AZ<br>Colorado Springs<br>CO<br>Renton<br>WA<br>Dallas<br>TX<br>Fairfax<br>VA<br>Plano<br>TX<br>Chicago<br>IL<br>Seal Beach<br>CA<br>Tukwila<br>WA<br>St Charles<br>MO<br>San Antonio<br>TX<br>Arlington County<br>Arlington<br>VA<br>Everett<br>WA<br>Berkeley<br>MO<br>Auburn<br>WA<br>Oklahoma City<br>OK<br>Kent<br>WA<br>Charleston<br>SC<br>Bellevue<br>WA<br>Herndon<br>VA<br>Atlanta<br>GA<br>Huntsville<br>AL<br>North Charleston<br>SC<br>Huntington Beach<br>CA<br>Hazelwood<br>MO<br>Mukilteo<br>WA<br>El Segundo<br>CA</details></td>
