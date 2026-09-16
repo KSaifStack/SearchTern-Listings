@@ -1,39 +1,156 @@
 {
-  "generated_at": "2026-09-16T08:56:14.334544+00:00",
-  "total": 10881,
+  "generated_at": "2026-09-16T09:10:18.954132+00:00",
+  "total": 11249,
   "per_source": {
     "jobhive": 3800,
-    "SimplifyJobs Off-Season 2027": 1048,
-    "SimplifyJobs Summer 2027": 1032,
-    "SimplifyJobs New Grad": 694,
-    "freehire": 664,
-    "speedyapply SWE New Grad USA": 506,
-    "speedyapply SWE 2027": 389,
-    "speedyapply AI New Grad USA": 335,
-    "zapplyjobs Internships 2027": 328,
-    "SuryaHarikrishnan SWE Track": 326,
-    "speedyapply AI 2027": 319,
-    "zapplyjobs New Grad Data Science 2027": 306,
-    "SuryaHarikrishnan DS/AI": 298,
-    "zapplyjobs New Grad SWE 2027": 282,
-    "zapplyjobs New Grad 2027": 256,
+    "SimplifyJobs Off-Season 2027": 1257,
+    "SimplifyJobs New Grad": 801,
+    "freehire": 663,
+    "SuryaHarikrishnan SWE Track": 653,
+    "SuryaHarikrishnan DS/AI": 619,
+    "speedyapply SWE New Grad USA": 537,
+    "speedyapply SWE 2027": 391,
+    "SimplifyJobs Summer 2027": 383,
+    "speedyapply AI New Grad USA": 357,
+    "zapplyjobs New Grad 2027": 328,
+    "zapplyjobs Internships 2027": 326,
+    "speedyapply AI 2027": 320,
+    "zapplyjobs New Grad SWE 2027": 310,
+    "zapplyjobs New Grad Data Science 2027": 206,
     "zshah101 Summer 2027 US": 161,
     "ats": 49,
     "sndsh404 Summer 2027": 48,
     "speedyapply SWE New Grad Intl": 21,
     "speedyapply SWE 2027 Intern Intl": 10,
-    "speedyapply AI Intern Intl": 4,
     "speedyapply AI New Grad Intl": 4,
+    "speedyapply AI Intern Intl": 4,
     "zapplyjobs Canada 2027": 1
   },
-  "new": 10,
-  "closed": 133,
+  "new": 62,
+  "closed": 619,
   "dead_links": 2,
   "sources_this_run": {
     "jobhive": true,
     "freehire": true,
-    "ats": false,
-    "md": false
+    "ats": true,
+    "md": true
   },
-  "markdown_source_stats": []
+  "markdown_source_stats": [
+    {
+      "name": "speedyapply SWE 2027",
+      "rows": 591
+    },
+    {
+      "name": "speedyapply SWE New Grad USA",
+      "rows": 704
+    },
+    {
+      "name": "speedyapply AI New Grad USA",
+      "rows": 442
+    },
+    {
+      "name": "speedyapply AI 2027",
+      "rows": 468
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "rows": 2393
+    },
+    {
+      "name": "zapplyjobs Internships 2027",
+      "rows": 600
+    },
+    {
+      "name": "zapplyjobs New Grad 2027",
+      "rows": 600
+    },
+    {
+      "name": "zapplyjobs New Grad SWE 2027",
+      "rows": 600
+    },
+    {
+      "name": "zapplyjobs Canada 2027",
+      "rows": 100
+    },
+    {
+      "name": "zapplyjobs New Grad Data Science 2027",
+      "rows": 420
+    },
+    {
+      "name": "sndsh404 Summer 2027",
+      "rows": 124
+    },
+    {
+      "name": "vanshb03 Off-Season",
+      "rows": 206
+    },
+    {
+      "name": "LorenzoLaCorte EU Internships 2026",
+      "rows": 60
+    },
+    {
+      "name": "vanshb03 Summer 2027",
+      "rows": 265
+    },
+    {
+      "name": "SuryaHarikrishnan DS/AI",
+      "rows": 1374
+    },
+    {
+      "name": "negarprh Canada 2027",
+      "rows": 318
+    },
+    {
+      "name": "vanshb03 Summer 2026",
+      "rows": 265
+    },
+    {
+      "name": "summer2026internships",
+      "rows": 100
+    },
+    {
+      "name": "SuryaHarikrishnan SWE Track",
+      "rows": 1196
+    },
+    {
+      "name": "SimplifyJobs Summer 2027",
+      "rows": 1789
+    },
+    {
+      "name": "speedyapply SWE 2027 Intern Intl",
+      "rows": 410
+    },
+    {
+      "name": "speedyapply AI New Grad Intl",
+      "rows": 387
+    },
+    {
+      "name": "aprameyak Summer 2027",
+      "rows": 2971
+    },
+    {
+      "name": "aprameyak Off-Cycle/Co-op",
+      "rows": 548
+    },
+    {
+      "name": "speedyapply SWE New Grad Intl",
+      "rows": 641
+    },
+    {
+      "name": "speedyapply AI Intern Intl",
+      "rows": 436
+    },
+    {
+      "name": "aprameyak New Grad 2027",
+      "rows": 2552
+    },
+    {
+      "name": "SimplifyJobs Off-Season 2027",
+      "rows": 4771
+    },
+    {
+      "name": "zshah101 Summer 2027 US",
+      "rows": 849
+    }
+  ]
 }
