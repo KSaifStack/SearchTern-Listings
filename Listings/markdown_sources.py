@@ -1,6 +1,7 @@
 import concurrent.futures
 import html
 import io
+import json
 import re
 from datetime import datetime, timedelta, timezone
 
@@ -137,6 +138,34 @@ MARKDOWN_SOURCES = [
         "format": "markdown",
     },
     {
+        "name": "SuryaHarikrishnan Hardware",
+        "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/hardware-engineering.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "SuryaHarikrishnan Product",
+        "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/product-management.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "SuryaHarikrishnan Quant",
+        "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/quantitative-finance.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "SuryaHarikrishnan Other 2027",
+        "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/other.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
         "name": "summer2026internships",
         "url": "https://raw.githubusercontent.com/summer2026internships/Summer2026-Internships/main/README.md",
         "type": "internship",
@@ -226,6 +255,55 @@ MARKDOWN_SOURCES = [
         "type": "internship",
         "season": "2027",
         "format": "csv",
+    },
+    {
+        "name": "zshah101 Automated List",
+        "url": "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/README.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "GodlyDonuts keryx Internships",
+        "url": "https://raw.githubusercontent.com/GodlyDonuts/keryx/main/internships/summer-2027.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "GodlyDonuts keryx New Grad",
+        "url": "https://raw.githubusercontent.com/GodlyDonuts/keryx/main/new-grad/2027.md",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "ApplyGuy New Grad",
+        "url": "https://raw.githubusercontent.com/ApplyGuy/2027-New-Grad-Jobs/main/data/new-grad-jobs.json",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "json",
+    },
+    {
+        "name": "vanshb03 New Grad 2027",
+        "url": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/master/README.md",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "cvrve New Grad",
+        "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "lilguy Live Feed",
+        "url": "https://raw.githubusercontent.com/asuramaya/lilguy/master/data/all_postings.json",
+        "type": "internship",
+        "season": "2027",
+        "format": "json",
     },
 ]
 
@@ -462,6 +540,39 @@ def _parse_csv_source(text):
     return records
 
 
+def _parse_json_source(text):
+    if not text:
+        return []
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        return []
+    if isinstance(data, list):
+        jobs = data
+    else:
+        jobs = data.get("jobs") if isinstance(data, dict) else None
+    if not isinstance(jobs, list):
+        return []
+    records = []
+    for j in jobs:
+        company = (j.get("company") or "").strip()
+        role = (j.get("title") or "").strip()
+        location = (j.get("location") or "").strip()
+        link = (j.get("listingUrl") or j.get("url") or "").strip()
+        posted = j.get("posted") or j.get("posted_at") or ""
+        if not company or not role or not location or not link:
+            continue
+        records.append({
+            "company": company,
+            "role": role,
+            "location": location,
+            "date": posted,
+            "link": link,
+            "is_remote": str("remote" in location.lower()).lower(),
+        })
+    return records
+
+
 def _parse_md_source(md):
     records = []
     for header, rows in _parse_md_tables(md):
@@ -531,6 +642,8 @@ def fetch_source(source):
     records = (
         _parse_csv_source(md)
         if source["format"] == "csv"
+        else _parse_json_source(md)
+        if source["format"] == "json"
         else _parse_html_source(md)
         if source["format"] == "html"
         else _parse_md_source(md)

@@ -12,6 +12,7 @@ import requests
 import time as _time
 import duckdb
 import echojobs
+import jobspy_source
 import markdown_sources
 import pandas as pd
 import readme_generation
@@ -877,6 +878,45 @@ if not ej_df.empty:
         subset=["company", "role", "location"], keep="first"
     )
     print(f"  EchoJobs added: {len(ej_for_readme)} to README, {len(ej_for_listings)} to listings")
+
+# ── JobSpy boards (indeed/ziprecruiter/google) ────────────────────────────
+js_df = pd.DataFrame()
+if TIER_LIGHT in RUN_TIERS:
+    js_df, _ = jobspy_source.fetch_and_parse(infer_country=_infer_country)
+    if js_df is None:
+        js_df = pd.DataFrame()
+    if not js_df.empty:
+        js_df = _classify_freehire(js_df)
+        js_df = _stamp(js_df, "jobspy", now)
+        print(f"  JobSpy classified: {len(js_df):,} rows")
+        _save_cache(js_df, "jobspy")
+else:
+    js_df = _load_cached("jobspy")
+print(f"  JobSpy working set: {len(js_df):,} rows")
+
+if not js_df.empty:
+    js_df = _dedup_across(readme_result, js_df)
+    print(f"  JobSpy after dedup vs existing sources: {len(js_df):,}")
+    js_for_readme = js_df[
+        ~js_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                    'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                    'HR','BG','FI','LU','BE','MT','CY'])
+        & (pd.to_datetime(js_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & js_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    js_for_listings = js_df[
+        pd.to_datetime(js_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+    ].copy()
+
+    readme_result = pd.concat([readme_result, js_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = pd.concat([listings_result, js_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  JobSpy added: {len(js_for_readme)} to README, {len(js_for_listings)} to listings")
 
 _us_loc_re = re.compile(r'\b(?:US|USA|U\.S\.A\.|United States|California|Texas|New York|Washington|Seattle|San Francisco|SF|NYC|Austin|Chicago|Boston|Mountain View|Palo Alto|Sunnyvale|Los Angeles|Irvine|San Diego|Santa Clara|Cupertino|Menlo Park|Redmond|Kirkland|Bellevue|Arlington|McLean|Reston|Atlanta|Denver|Portland|Phoenix|Philadelphia|Pittsburgh|Minneapolis|Ann Arbor|Detroit|Miami|Orlando|Tampa|Dallas|Houston|Raleigh|Durham|Charlotte|Nashville|Salt Lake City|St Louis|Kansas City|Columbus|Indianapolis|Milwaukee|Baltimore|Portland)\b', re.IGNORECASE)
 
