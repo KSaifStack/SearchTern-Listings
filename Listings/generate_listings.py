@@ -18,6 +18,9 @@ import readme_generation
 import skillexchange
 from readme_utils import http_get
 
+import classify
+from readme_utils import canonical_url, clean_company_name, clean_location
+
 TIER_LIGHT = "light"
 TIER_MEDIUM = "medium"
 TIER_HEAVY = "heavy"
@@ -26,6 +29,8 @@ ALL_TIERS = [TIER_LIGHT, TIER_MEDIUM, TIER_HEAVY]
 
 CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
 HASH_FILE = os.path.join(CACHE_DIR, "last_hash.json")
+
+_UA = {"User-Agent": "SearchTern-Listings/1.0 (+https://github.com/KSaifStack/SearchTern-Listings)"}
 
 
 def _parse_tier(value):
@@ -115,11 +120,10 @@ BLACKLISTED_COMPANIES = [
     'focusgrouppanel', 'familiehulp',
 ]
 
-COMMON_TITLE_EXCLUSIONS = [
-    'pharmacist', 'pharmacy', 'dental', 'nurse', 'nursing', 'physician',
+COMMON_TITLE_EXCLUSIONS = list(classify.TITLE_EXCLUDE_TERMS) + [
     'medical intern', 'clinical intern', 'internal medicine', 'internal audit',
     'internal only', 'internal security', 'sales associate',
-    'sales representative', 'veterinary', 'pastor', 'teacher',
+    'sales representative',
 ]
 README_ONLY_EXCLUSIONS = ['data entry', 'front end entry', 'international only']
 LISTINGS_ONLY_EXCLUSIONS = ['marketing intern', 'hr intern', 'human resources']
@@ -136,7 +140,7 @@ README_INTERN_COND = """
             commitment ILIKE '%intern%'
             OR regexp_matches(title, '\\bintern\\b', 'i')
             OR title ILIKE '%co-op%'
-            OR title ILIKE '%coop%'
+            OR regexp_matches(title, '(^|[^a-z])coop([^a-z]|$)', 'i')
             OR title ILIKE '%undergraduate research%'
             OR title ILIKE '%undergrad research%'
             OR (
@@ -167,22 +171,14 @@ README_NEWGRAD_COND = """
             OR commitment ILIKE '%entry%'
 """
 
-LISTINGS_INTERN_COND = """
-            commitment ILIKE '%intern%' OR regexp_matches(title, '\\bintern(?:ship)?\\b', 'i') OR title ILIKE '%co-op%'
-            OR title ILIKE '%coop%' OR title ILIKE '%undergraduate%' OR title ILIKE '%undergrad%'
-            OR title ILIKE '%student%' OR title ILIKE '%REU%' OR title ILIKE '%apprentice%'
-            OR title ILIKE '%trainee%' OR title ILIKE '%fellowship%' OR title ILIKE '%praktikum%'
-            OR title ILIKE '%werkstudent%' OR title ILIKE '% stage %'
+LISTINGS_INTERN_COND = f"""
+            commitment ILIKE '%intern%'
+            OR {classify.intern_title_cond()}
             OR commitment ILIKE '%student%'
 """
 
-LISTINGS_NEWGRAD_COND = """
-            title ILIKE '%new grad%' OR title ILIKE '%new graduate%' OR title ILIKE '%newgrad%'
-            OR title ILIKE '%university grad%' OR title ILIKE '%university graduate%'
-            OR title ILIKE '%entry level%' OR title ILIKE '%entry-level%'
-            OR title ILIKE '%early career%' OR title ILIKE '%campus%'
-            OR title ILIKE '%rotational%' OR title ILIKE '%junior%'
-            OR title ILIKE '%fresh grad%'
+LISTINGS_NEWGRAD_COND = f"""
+            {classify.newgrad_title_cond()}
             OR commitment ILIKE '%new grad%'
             OR commitment ILIKE '%entry%'
 """
@@ -251,24 +247,11 @@ FREEHIRE_INTERN_API = "https://freehire.me/api/v1/jobs/search?employment_type=in
 FREEHIRE_NEWGRAD_API = "https://freehire.me/api/v1/jobs/search?employment_type=full_time&is_tech=tech&seniority=junior&q=new+grad+OR+entry+level+OR+early+career+OR+campus+OR+rotational"
 FREEHIRE_PAGE_DELAY_SECS = 0.25
 
-_LISTINGS_INTERN_RE = (
-    r'\bintern(?:ship)?\b|co-op|coop|undergraduate|undergrad|student'
-    r'|reu|apprentice|trainee|fellowship|praktikum|werkstudent'
-    r'|\bstage\b'
-)
-_LISTINGS_NEWGRAD_RE = (
-    r'new[\s-]grad(?:uate)?\b|university[\s-]grad(?:uate)?\b'
-    r'|entry[\s-]level|early\s+career|campus|rotational'
-    r'|junior|fresh\s+grad'
-)
-_TITLE_EXCLUDE_RE = (
-    r'pharmacist|pharmacy|dental|nurse|nursing|physician'
-    r'|medical\s+intern|clinical\s+intern|internal medicine|internal audit'
-    r'|internal\s+only|internal\s+security|sales\s+associate'
-    r'|sales\s+representative|veterinary|pastor|teacher'
-    r'|marketing\s+intern|hr\s+intern|human\s+resources'
-    r'|senior\s+(?!.*(?:intern|co-op|apprentice|trainee))'
-)
+# Shared classifiers (word-bounded) live in classify.py — same rules drive the
+# SQL commit/where clauses above and the pandas filters below.
+_LISTINGS_INTERN_RE = classify.LISTINGS_INTERN_RE
+_LISTINGS_NEWGRAD_RE = classify.LISTINGS_NEWGRAD_RE
+_TITLE_EXCLUDE_RE = classify.TITLE_EXCLUDE_RE
 
 _US_STATES = {
     'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA',
@@ -423,6 +406,40 @@ def _dedup_across(df_a, df_b):
     return df_b[~keys_b.isin(keys_a)].copy()
 
 
+def _stamp(df, source, now):
+    """Attach provenance + observation time so listings.json rows carry them."""
+    df = df.copy()
+    df["source"] = source
+    df["observed_at"] = now.isoformat()
+    return df
+
+
+def _seen_path():
+    return os.path.join(CACHE_DIR, "seen.json")
+
+
+def _load_seen():
+    try:
+        with open(_seen_path()) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_seen(seen):
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    with open(_seen_path(), "w") as f:
+        json.dump(seen, f)
+
+
+def _verify_link(u):
+    """HEAD-check an apply link. Network blips keep the row rather than drop it."""
+    try:
+        r = requests.head(u, timeout=10, allow_redirects=True, headers=_UA)
+        return r.status_code not in (404, 410)
+    except Exception:
+        return True
+
 print("Fetching jobhive manifest...")
 manifest_resp = http_get("https://storage.stapply.ai/jobhive/v1/manifest.json")
 if manifest_resp is None or manifest_resp.status_code != 200:
@@ -461,16 +478,19 @@ listings_query = build_job_query(
 )
 listings_result = duckdb.execute(listings_query, [parquet_urls]).df()
 listings_result = listings_result[listings_result["job_type"] != "other"]
+listings_result = _stamp(listings_result, "jobhive", now)
 
 # ── Direct ATS probing (big tech supplement) ──────────────────────────────
 ATS_ENDPOINTS = {
     'Greenhouse': 'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true&per_page=100',
     'Lever': 'https://api.lever.co/v0/postings/{slug}?mode=json',
-    'Ashby': 'https://api.ashbyhq.com/posting-api/job-board/{slug}',
+    'Ashby': 'https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true',
     'SmartRecruiters': 'https://api.smartrecruiters.com/v1/companies/{slug}/postings',
 }
 
 ATS_CSV_URL = 'https://raw.githubusercontent.com/Kayvan-Zahiri/state-of-ats-2026/main/data/companies.csv'
+ATS_PROBE_STATE_PATH = os.path.join(CACHE_DIR, "ats_probe_state.json")
+ATS_PROBE_COOLDOWN_HOURS = 24
 
 
 def _fetch_company_jobs(company, ats_type, slug):
@@ -491,14 +511,17 @@ def _normalize_ats_jobs(company, ats_type, data):
     rows = []
     if ats_type == 'Greenhouse':
         for j in data.get('jobs', []):
-            loc = j.get('location') or {}
-            loc_str = (loc.get('name') or '').strip()
+            loc_name = ((j.get('location') or {}).get('name') or '').strip()
+            loc_str = loc_name
+            is_remote = 'false'
+            if 'remote' in loc_name.lower():
+                is_remote = 'true'
             rows.append({
                 'company': company, 'role': (j.get('title') or '').strip(),
                 'location': loc_str,
                 'date': j.get('updated_at', ''),
                 'link': j.get('absolute_url', ''),
-                'is_remote': 'false',
+                'is_remote': is_remote,
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
             })
@@ -511,25 +534,37 @@ def _normalize_ats_jobs(company, ats_type, data):
             else:
                 dt = ''
             loc_str = ((cats.get('location') or '')).strip()
+            wtype = j.get('workplaceType')
+            if wtype == 'remote':
+                is_remote = 'true'
+            elif isinstance(wtype, str):
+                is_remote = 'false'
+            else:
+                # ponytail: unknown (missing field) kept distinct from not-remote
+                is_remote = 'unknown'
             rows.append({
                 'company': company, 'role': (j.get('text') or '').strip(),
                 'location': loc_str,
                 'date': dt,
                 'link': j.get('hostedUrl', ''),
-                'is_remote': str(j.get('workplaceType') == 'remote').lower(),
+                'is_remote': is_remote,
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
             })
     elif ats_type == 'Ashby':
         for j in data.get('jobs', []):
             loc_str = (j.get('location') or '').strip()
+            comp = j.get('compensation') or {}
+            salary_min = comp.get('minValue') or comp.get('baseSalary', {}).get('minValue')
+            salary_max = comp.get('maxValue') or comp.get('baseSalary', {}).get('maxValue')
             rows.append({
                 'company': company, 'role': (j.get('title') or '').strip(),
                 'location': loc_str,
                 'date': j.get('publishedAt', ''),
                 'link': j.get('applicationUrl', ''),
                 'is_remote': str(bool(j.get('isRemote'))).lower(),
-                'salary_min': None, 'salary_max': None, 'salary_currency': None,
+                'salary_min': salary_min, 'salary_max': salary_max,
+                'salary_currency': comp.get('currency'),
                 'country_iso': _infer_country(loc_str),
             })
     elif ats_type == 'SmartRecruiters':
@@ -571,18 +606,45 @@ def _fetch_ats_probe():
         if c['ats_system'] in ATS_ENDPOINTS
         and c.get('verified', '').lower() == 'true'
     ]
-    print(f"  {len(probe_list)} companies to probe")
+
+    # Cooldown: skip endpoints probed successfully within the last 24h.
+    probe_state = {}
+    try:
+        with open(ATS_PROBE_STATE_PATH) as f:
+            probe_state = json.load(f)
+    except Exception:
+        pass
+    cutoff = _time.time() - ATS_PROBE_COOLDOWN_HOURS * 3600
+    warm = []
+    for name, ats, slug in probe_list:
+        ts = probe_state.get(f"{ats}|{name}")
+        if ts is None or ts <= cutoff:
+            warm.append((name, ats, slug))
+        else:
+            probe_state.setdefault("_skipped_this_run", 0)
+            probe_state["_skipped_this_run"] += 1
+    if warm:
+        print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped by cooldown")
 
     all_raw = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
         futs = [ex.submit(_fetch_company_jobs, name, ats, slug)
-                for name, ats, slug in probe_list]
+                for name, ats, slug in warm]
         for fut in concurrent.futures.as_completed(futs):
             result = fut.result()
             if result:
                 all_raw.append(result)
 
-    print(f"  Fetched {len(all_raw)}/{len(probe_list)} endpoints successfully")
+    print(f"  Fetched {len(all_raw)}/{len(warm)} endpoints successfully")
+
+    # Record successes for cooldown.
+    for company, ats_type, _ in all_raw:
+        probe_state[f"{ats_type}|{company}"] = _time.time()
+    if "_skipped_this_run" in probe_state:
+        del probe_state["_skipped_this_run"]
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    with open(ATS_PROBE_STATE_PATH, "w") as f:
+        json.dump(probe_state, f)
 
     all_rows = []
     for company, ats_type, data in all_raw:
@@ -608,6 +670,7 @@ if TIER_MEDIUM in RUN_TIERS:
     fh_raw += _fetch_freehire(FREEHIRE_NEWGRAD_API)
     fh_df = _normalize_freehire(fh_raw)
     fh_df = _classify_freehire(fh_df)
+    fh_df = _stamp(fh_df, "freehire", now)
     print(f"  Freehire raw fetched: {len(fh_raw):,}, classified: {len(fh_df):,}")
     _save_cache(fh_df, TIER_MEDIUM)
 else:
@@ -648,9 +711,22 @@ if not fh_df.empty:
 ats_df = pd.DataFrame()
 if TIER_HEAVY in RUN_TIERS:
     print("Fetching ATS probe data...")
-    ats_df = _fetch_ats_probe()
-    if ats_df is None:
-        ats_df = pd.DataFrame()
+    probe_df = _fetch_ats_probe()
+    if probe_df is None:
+        probe_df = pd.DataFrame()
+    if not probe_df.empty:
+        probe_df = _stamp(probe_df, "ats", now)
+    if probe_df.empty:
+        # Cooldown skipped every endpoint this run — fall back to last good
+        # snapshot so the feed is never starved by a cooldown-only cycle.
+        previous = _load_cached(TIER_HEAVY)
+        if not previous.empty:
+            print(f"  Cooldown cycle: reusing {len(previous):,} cached ATS rows")
+            ats_df = previous
+        else:
+            ats_df = probe_df
+    else:
+        ats_df = probe_df
     _save_cache(ats_df, TIER_HEAVY)
 else:
     ats_df = _load_cached(TIER_HEAVY)
@@ -688,6 +764,7 @@ if TIER_LIGHT in RUN_TIERS:
     if md_df is None:
         md_df = pd.DataFrame()
     if not md_df.empty:
+        md_df["observed_at"] = now.isoformat()
         print(f"  Markdown unique rows: {len(md_df):,}")
     _save_cache(md_df, TIER_LIGHT)
 else:
@@ -722,6 +799,7 @@ if not md_df.empty:
     )
     print(f"  Markdown added: {source_contrib[TIER_LIGHT][0]} to README, {source_contrib[TIER_LIGHT][1]} to listings")
 
+TECH_KEYWORDS_RE = classify.TECH_KEYWORDS_RE
 # ── SkillExchange board (light tier supplement) ────────────────────────────
 sx_df = pd.DataFrame()
 if TIER_LIGHT in RUN_TIERS:
@@ -730,6 +808,7 @@ if TIER_LIGHT in RUN_TIERS:
         sx_df = pd.DataFrame()
     if not sx_df.empty:
         sx_df = _classify_freehire(sx_df)
+        sx_df = _stamp(sx_df, "skillexchange", now)
         print(f"  SkillExchange classified: {len(sx_df):,} rows")
         _save_cache(sx_df, "skill")
 else:
@@ -768,6 +847,7 @@ if TIER_LIGHT in RUN_TIERS:
         ej_df = pd.DataFrame()
     if not ej_df.empty:
         ej_df = _classify_freehire(ej_df)
+        ej_df = _stamp(ej_df, "echojobs", now)
         print(f"  EchoJobs classified: {len(ej_df):,} rows")
         _save_cache(ej_df, "echo")
 else:
@@ -798,27 +878,10 @@ if not ej_df.empty:
     )
     print(f"  EchoJobs added: {len(ej_for_readme)} to README, {len(ej_for_listings)} to listings")
 
-_TECH_KEYWORDS = (
-    r"\b(?:swe|sde|mts|it)\b", "software", "developer", "programmer", "coder", "engineer",
-    "data", "machine learn", "deep learn", "artificial intellig", " ai ", "ai/", "ml",
-    "nlp", "computer vision", "cloud", "devops", "sre", "site reliabil", "cybersecur",
-    "security", "full stack", "fullstack", "full-stack", "backend", "back-end",
-    "frontend", "front end", "front-end", "web", "mobile", "ios", "android", "qa",
-    "quality assur", "test", "sdet", "systems", "network", "sysadmin", "infrastructure",
-    "platform", "hardware", "firmware", "embedded", "fpga", "asic", "chip", "database",
-    "dba", "ux", "ui", "design", "product", "quant", "computer science", "linux",
-    "unix", "robotics", "compiler", "distributed", "game", "blockchain", "web3",
-    "cryptograph", "hpc", "scientific comput", "technical", "technology",
-    "research", "electrical", "electronics", "controls", "signal", "telecom",
-    "architect", "devrel", "automation", "applied scien", "analyst",
-    "business", "finance", "consulting", "accounting", "logistics",
-    "operations",
-)
-
 _us_loc_re = re.compile(r'\b(?:US|USA|U\.S\.A\.|United States|California|Texas|New York|Washington|Seattle|San Francisco|SF|NYC|Austin|Chicago|Boston|Mountain View|Palo Alto|Sunnyvale|Los Angeles|Irvine|San Diego|Santa Clara|Cupertino|Menlo Park|Redmond|Kirkland|Bellevue|Arlington|McLean|Reston|Atlanta|Denver|Portland|Phoenix|Philadelphia|Pittsburgh|Minneapolis|Ann Arbor|Detroit|Miami|Orlando|Tampa|Dallas|Houston|Raleigh|Durham|Charlotte|Nashville|Salt Lake City|St Louis|Kansas City|Columbus|Indianapolis|Milwaukee|Baltimore|Portland)\b', re.IGNORECASE)
 
 role_lower = listings_result["role"].str.lower()
-tech_mask = role_lower.str.contains('|'.join(_TECH_KEYWORDS), regex=True, na=False)
+tech_mask = role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
 listings_result = listings_result[tech_mask]
 
 # Listings.json: USA only
@@ -829,9 +892,142 @@ listings_result = listings_result[
 ]
 listings_result = listings_result[listings_result["location"].notna() & (listings_result["location"] != "")]
 
+# Cross-source URL-canonical dedup (same posting from two sources collapses).
+if not listings_result.empty and "link" in listings_result.columns:
+    _canon = listings_result["link"].map(canonical_url)
+    _no_canon = _canon == ""
+    _with_canon = listings_result[~_no_canon].copy()
+    _with_canon["_canon"] = _canon[~_no_canon]
+    _with_canon = _with_canon.drop_duplicates(subset="_canon", keep="first").drop(columns="_canon")
+    listings_result = pd.concat(
+        [listings_result[_no_canon], _with_canon], ignore_index=True
+    )
+
+# ── Feed digest + closure tracking (B) ─────────────────────────────────────
+# Diff this run's rows against cache/seen.json. Sources re-fetched this run
+# vote on closures; cached-only sources are left alone (their rows may just
+# be outside the run's lookback window).
+def _row_source(row):
+    src = str(row.get("source") or "").strip()
+    return src if src in ("jobhive", "freehire", "ats") else "md"
+
+
+def _seen_bucket(src):
+    return src if src in ("jobhive", "freehire", "ats") else "md"
+
+
+buckets_fresh = {
+    "jobhive": True,
+    "freehire": TIER_MEDIUM in RUN_TIERS,
+    "ats": TIER_HEAVY in RUN_TIERS,
+    "md": TIER_LIGHT in RUN_TIERS,
+}
+
+final = listings_result.copy()
+current_by_key = {}
+for idx, row in final.iterrows():
+    key = "|".join([
+        _seen_bucket(_row_source(row)),
+        clean_company_name(str(row["company"])),
+        str(row["role"]).strip(),
+        str(row.get("location", "")).strip(),
+    ])
+    current_by_key[key] = row
+
+seen = _load_seen()
+cutoff = (now - pd.Timedelta(days=120)).isoformat()
+seen = {k: v for k, v in seen.items() if v.get("last", "") >= cutoff}
+
+current_keys = set(current_by_key)
+is_new = current_keys - set(seen)
+print(f"  Feed: {len(current_keys):,} rows, {len(is_new):,} new, {len(seen):,} known")
+
+# Dead-link check on new postings (capped per run; blips keep the row).
+new_links = []
+for k in is_new:
+    row = current_by_key[k]
+    link = str(row.get("link") or "")
+    if link.startswith(("http://", "https://")):
+        new_links.append((k, link))
+
+dead_keys = set()
+checked = new_links[:200]
+if checked:
+    print(f"  Verifying {len(checked)} new posting links...")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:
+        futs = {ex.submit(_verify_link, link): k for k, link in checked}
+        for fut in concurrent.futures.as_completed(futs):
+            if not fut.result():
+                dead_keys.add(futs[fut])
+
+closed = []
+for k, meta in seen.items():
+    bucket = _seen_bucket(k.split("|", 1)[0])
+    if buckets_fresh.get(bucket, False) and k not in current_keys:
+        closed.append({
+            "key": k,
+            "first_seen": meta.get("first", ""),
+            "last_seen": meta.get("last", ""),
+        })
+
+# Drop dead new postings from the feed, then persist seen state.
+if dead_keys:
+    drop_idx = [current_by_key[k].name for k in dead_keys]
+    listings_result = listings_result.drop(drop_idx)
+    for k in dead_keys:
+        current_by_key.pop(k, None)
+    is_new = is_new - dead_keys
+
+obs = now.isoformat()
+for k, row in current_by_key.items():
+    prior = seen.get(k, {})
+    seen[k] = {"first": prior.get("first", obs), "last": obs}
+_save_seen(seen)
+
+root_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+digest_dir = os.path.join(root_dir, "digests")
+os.makedirs(digest_dir, exist_ok=True)
+today = now.strftime("%Y-%m-%d")
+
+new_rows = [
+    {
+        "company": current_by_key[k]["company"],
+        "role": current_by_key[k]["role"],
+        "location": current_by_key[k].get("location", ""),
+        "link": current_by_key[k].get("link", ""),
+        "source": current_by_key[k].get("source", ""),
+        "observed_at": obs,
+    }
+    for k in sorted(is_new)
+]
+with open(os.path.join(digest_dir, f"new-{today}.json"), "w") as f:
+    json.dump(new_rows, f, indent=2, ensure_ascii=False)
+with open(os.path.join(digest_dir, f"closed-{today}.json"), "w") as f:
+    json.dump(closed, f, indent=2, ensure_ascii=False)
+
+per_source = (
+    listings_result["source"].value_counts().to_dict()
+    if not listings_result.empty and "source" in listings_result.columns
+    else {}
+)
+run_meta = {
+    "generated_at": obs,
+    "total": len(listings_result),
+    "per_source": {str(k): int(v) for k, v in per_source.items()},
+    "new": len(new_rows),
+    "closed": len(closed),
+    "dead_links": len(dead_keys),
+    "sources_this_run": buckets_fresh,
+    "markdown_source_stats": [{"name": n, "rows": c} for n, c in md_source_stats],
+}
+os.makedirs(os.path.join(root_dir, "pages"), exist_ok=True)
+with open(os.path.join(root_dir, "pages", "run_meta.json"), "w") as f:
+    json.dump(run_meta, f, indent=2, ensure_ascii=False)
+print(f"  Digest: {len(new_rows)} new, {len(closed)} closed, {len(dead_keys)} dead links")
+
 # --- Output Pipelines ---
 readme_role_lower = readme_result["role"].str.lower()
-readme_tech_mask = readme_role_lower.str.contains('|'.join(_TECH_KEYWORDS), regex=True, na=False)
+readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
 readme_result = readme_result[readme_tech_mask]
 readme_generation.generate_readme(readme_result, output_dir="..")
 readme_generation.write_listings_json(listings_result, output_dir="..")
@@ -878,7 +1074,6 @@ print(f"Paid roles      : {int(l_paid):,}")
 
 print("\n--- Markdown contribution to listings.json ---")
 if not md_df.empty:
-    from readme_utils import clean_company_name, clean_location
     md_final = md_df.copy()
 
     md_final["company"] = md_final["company"].map(clean_company_name)
@@ -890,7 +1085,7 @@ if not md_df.empty:
         | ((md_final["country_iso"] == "") & md_final["location"].str.contains(_us_loc_re, na=False))
     ]
     md_final = md_final[
-        md_final["role"].str.lower().str.contains('|'.join(_TECH_KEYWORDS), regex=True, na=False)
+        md_final["role"].str.lower().str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
     ]
     md_final = md_final[
         pd.to_datetime(md_final["date"], errors='coerce') >= now - pd.Timedelta(days=60)

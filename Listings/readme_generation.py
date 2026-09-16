@@ -1,5 +1,6 @@
 import glob
 import json
+import math
 import os
 from datetime import datetime, timezone
 
@@ -76,6 +77,11 @@ def write_listings_json(dataframe, output_dir="."):
             pass
 
         record = row.to_dict()
+        # Keep JSON strict: NaN/Inf → null, or strict parsers (browser
+        # fetch().json()) hard-fail on the whole feed.
+        for k, v in record.items():
+            if isinstance(v, float) and not math.isfinite(v):
+                record[k] = None
         record["company"] = cleaned_company
         record["role"] = role
         record["location"] = clean_location(record.get("location", ""))

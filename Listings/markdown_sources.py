@@ -7,6 +7,18 @@ import pandas as pd
 
 from readme_utils import http_get
 
+
+def _alt_urls(url):
+    """Season-adjacent fallbacks: if the 2027 repo 404s, try 2028 and 2026."""
+    urls = [url]
+    m = re.search(r"20\d\d", url)
+    if m:
+        y = int(m.group(0))
+        for ny in (y + 1, y - 1):
+            if ny >= 2023:
+                urls.append(url.replace(str(y), str(ny), 1))
+    return urls
+
 # GitHub README sources. The parser dedups on (company, role, location), so
 # any listings that overlap with SimplifyJobs Internships or vanshb03 are
 # dropped automatically while genuinely new coverage is added.
@@ -415,17 +427,25 @@ def _infer_country(location):
 
 
 def fetch_source(source):
-    resp = http_get(source["url"], timeout=20, retries=3)
-    if resp is None or resp.status_code != 200:
+    md = None
+    used_url = source["url"]
+    for url in _alt_urls(source["url"]):
+        resp = http_get(url, timeout=20, retries=3)
+        if resp is not None and resp.status_code == 200:
+            md = resp.text
+            used_url = url
+            break
+    if md is None:
         print(
-            f"  ✗ {source['name']}: HTTP "
+            f"  ✗ {source['name']}: "
             f"{resp.status_code if resp is not None else 'unreachable'} — skipped"
         )
         return [], source
-    md = resp.text
     records = (
         _parse_html_source(md) if source["format"] == "html" else _parse_md_source(md)
     )
+    if used_url != source["url"]:
+        print(f"  ⇄ {source['name']}: season fallback → {used_url}")
     print(f"  ✓ {source['name']}: parsed {len(records):,} rows")
     return records, source
 

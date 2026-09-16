@@ -1,0 +1,114 @@
+{
+  "generated_at": "2026-09-16T02:16:00.363879+00:00",
+  "total": 9794,
+  "per_source": {
+    "jobhive": 3818,
+    "SimplifyJobs New Grad": 802,
+    "freehire": 664,
+    "SuryaHarikrishnan SWE Track": 651,
+    "SuryaHarikrishnan DS/AI": 619,
+    "speedyapply SWE New Grad USA": 537,
+    "speedyapply SWE 2027": 391,
+    "SimplifyJobs Summer 2027": 389,
+    "speedyapply AI New Grad USA": 357,
+    "zapplyjobs Internships 2027": 323,
+    "speedyapply AI 2027": 320,
+    "zapplyjobs New Grad 2027": 307,
+    "zapplyjobs New Grad SWE 2027": 268,
+    "zapplyjobs New Grad Data Science 2027": 251,
+    "ats": 49,
+    "sndsh404 Summer 2027": 47,
+    "zapplyjobs Canada 2027": 1
+  },
+  "new": 53,
+  "closed": 259,
+  "dead_links": 3,
+  "sources_this_run": {
+    "jobhive": true,
+    "freehire": true,
+    "ats": true,
+    "md": true
+  },
+  "markdown_source_stats": [
+    {
+      "name": "speedyapply SWE 2027",
+      "rows": 591
+    },
+    {
+      "name": "speedyapply AI New Grad USA",
+      "rows": 442
+    },
+    {
+      "name": "speedyapply AI 2027",
+      "rows": 468
+    },
+    {
+      "name": "speedyapply SWE New Grad USA",
+      "rows": 704
+    },
+    {
+      "name": "zapplyjobs Internships 2027",
+      "rows": 600
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "rows": 2392
+    },
+    {
+      "name": "zapplyjobs New Grad 2027",
+      "rows": 600
+    },
+    {
+      "name": "zapplyjobs New Grad Data Science 2027",
+      "rows": 420
+    },
+    {
+      "name": "zapplyjobs New Grad SWE 2027",
+      "rows": 600
+    },
+    {
+      "name": "sndsh404 Summer 2027",
+      "rows": 124
+    },
+    {
+      "name": "zapplyjobs Canada 2027",
+      "rows": 106
+    },
+    {
+      "name": "vanshb03 Off-Season",
+      "rows": 206
+    },
+    {
+      "name": "vanshb03 Summer 2027",
+      "rows": 265
+    },
+    {
+      "name": "LorenzoLaCorte EU Internships 2026",
+      "rows": 60
+    },
+    {
+      "name": "summer2026internships",
+      "rows": 100
+    },
+    {
+      "name": "SuryaHarikrishnan SWE Track",
+      "rows": 1196
+    },
+    {
+      "name": "SuryaHarikrishnan DS/AI",
+      "rows": 1374
+    },
+    {
+      "name": "vanshb03 Summer 2026",
+      "rows": 265
+    },
+    {
+      "name": "negarprh Canada 2027",
+      "rows": 318
+    },
+    {
+      "name": "SimplifyJobs Summer 2027",
+      "rows": 1816
+    }
+  ]
+}

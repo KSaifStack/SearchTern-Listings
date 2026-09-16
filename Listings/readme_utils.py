@@ -2,6 +2,7 @@ import html
 import random
 import re
 import time
+import urllib.parse
 from datetime import datetime, timezone
 
 import requests
@@ -71,6 +72,20 @@ BLOCKED_COMPANIES: set[str] = {
     "mrappleinternalonly",
     "stafffinancialgroup",
     "keenfinity",
+    # Retail / food / quick-service chains — not tech employers. Normalized
+    # (clean_company_name) forms, so exact-string blocking matches.
+    "mcdonalds", "mcdonald s", "kfc", "pizza hut", "taco bell",
+    "burger king", "wendy s", "subway", "chipotle", "panda express",
+    "dunkin donuts", "starbucks", "dutch bros", "domino s", "papa johns",
+    "jimmy johns", "target", "walmart", "wal mart", "costco",
+    "kroger", "safeway", "albertsons", "whole foods", "trader joe s",
+    "home depot", "lowe s", "best buy", "macy s", "nordstrom",
+    "old navy", "petco", "petsmart",
+    # Hospital / health systems — clinical roles, not internships.
+    "kaiser permanente", "providence health", "hca healthcare",
+    "adventhealth", "commonspirit", "johns hopkins", "ascension",
+    # Parcel / freight logistics.
+    "dhl", "fedex", "ups",
 }
 NORMALIZED_BLOCKED_COMPANIES = {name.strip().lower() for name in BLOCKED_COMPANIES}
 
@@ -212,6 +227,20 @@ def is_careers_portal_url(company: str) -> bool:
     """Detect careers portal URLs masquerading as company names."""
     normalized = company.strip().lower()
     return "careers." in normalized and re.search(r"\.\w{2,}(?:\.\w{2,})?$", normalized) is not None
+
+
+def canonical_url(u):
+    """Host+path key for cross-source dedup (drops query/fragment/trailing slash)."""
+    try:
+        p = urllib.parse.urlsplit(str(u).strip())
+        if p.scheme not in ("http", "https") or not p.netloc:
+            return ""
+        host = p.netloc.lower()
+        if host.startswith("www."):
+            host = host[4:]
+        return host + p.path.rstrip("/")
+    except Exception:
+        return ""
 
 
 FAANG_PLUS: set[str] = {
