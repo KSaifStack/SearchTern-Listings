@@ -1,5 +1,6 @@
 import concurrent.futures
 import html
+import io
 import re
 from datetime import datetime, timedelta, timezone
 
@@ -162,6 +163,69 @@ MARKDOWN_SOURCES = [
         "type": "internship",
         "season": "2027",
         "format": "markdown",
+    },
+    {
+        "name": "speedyapply SWE 2027 Intern Intl",
+        "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/INTERN_INTL.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "speedyapply SWE New Grad Intl",
+        "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_INTL.md",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "speedyapply AI Intern Intl",
+        "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/INTERN_INTL.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "speedyapply AI New Grad Intl",
+        "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/NEW_GRAD_INTL.md",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "aprameyak Summer 2027",
+        "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/SUMMER.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "aprameyak Off-Cycle/Co-op",
+        "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/OFFCYCLE.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "aprameyak New Grad 2027",
+        "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/NEWGRAD.md",
+        "type": "newgrad",
+        "season": "2027",
+        "format": "markdown",
+    },
+    {
+        "name": "SimplifyJobs Off-Season 2027",
+        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
+        "type": "internship",
+        "season": "2027",
+        "format": "html",
+    },
+    {
+        "name": "zshah101 Summer 2027 US",
+        "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
+        "type": "internship",
+        "season": "2027",
+        "format": "csv",
     },
 ]
 
@@ -375,6 +439,29 @@ def _parse_html_source(md):
     return records
 
 
+def _parse_csv_source(text):
+    if not text:
+        return []
+    df = pd.read_csv(io.StringIO(text), dtype=str).fillna("")
+    need = {"company", "title", "location", "url"}
+    if not need.issubset(df.columns):
+        return []
+    records = []
+    for r in df.to_dict("records"):
+        if not r["company"] or not r["title"] or not r["location"] or not r["url"]:
+            continue
+        remote = str(r.get("remote", "")).strip().lower() == "remote"
+        records.append({
+            "company": r["company"],
+            "role": r["title"],
+            "location": r["location"],
+            "date": r.get("posted_at", ""),
+            "link": r["url"],
+            "is_remote": str(remote).lower(),
+        })
+    return records
+
+
 def _parse_md_source(md):
     records = []
     for header, rows in _parse_md_tables(md):
@@ -442,7 +529,11 @@ def fetch_source(source):
         )
         return [], source
     records = (
-        _parse_html_source(md) if source["format"] == "html" else _parse_md_source(md)
+        _parse_csv_source(md)
+        if source["format"] == "csv"
+        else _parse_html_source(md)
+        if source["format"] == "html"
+        else _parse_md_source(md)
     )
     if used_url != source["url"]:
         print(f"  ⇄ {source['name']}: season fallback → {used_url}")

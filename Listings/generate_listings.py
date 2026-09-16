@@ -689,11 +689,11 @@ if not fh_df.empty:
         ~fh_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                      'NL','IT','ES','PT','RO','HU','CZ','SK',
                                      'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(fh_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & (pd.to_datetime(fh_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
         & fh_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     fh_for_listings = fh_df[
-        pd.to_datetime(fh_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+        pd.to_datetime(fh_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
     ].copy()
     source_contrib[TIER_MEDIUM] = [len(fh_for_readme), len(fh_for_listings)]
 
@@ -738,11 +738,11 @@ if not ats_df.empty:
         ~ats_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                      'NL','IT','ES','PT','RO','HU','CZ','SK',
                                      'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(ats_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & (pd.to_datetime(ats_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
         & ats_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     ats_for_listings = ats_df[
-        pd.to_datetime(ats_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+        pd.to_datetime(ats_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
     ].copy()
     source_contrib[TIER_HEAVY] = [len(ats_for_readme), len(ats_for_listings)]
 
@@ -781,11 +781,11 @@ if not md_df.empty:
         ~md_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(md_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & (pd.to_datetime(md_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
         & md_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     md_for_listings = md_df[
-        pd.to_datetime(md_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+        pd.to_datetime(md_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
     ].copy()
     source_contrib[TIER_LIGHT] = [len(md_for_readme), len(md_for_listings)]
 
@@ -822,11 +822,11 @@ if not sx_df.empty:
         ~sx_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(sx_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & (pd.to_datetime(sx_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
         & sx_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     sx_for_listings = sx_df[
-        pd.to_datetime(sx_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+        pd.to_datetime(sx_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
     ].copy()
 
     readme_result = pd.concat([readme_result, sx_for_readme], ignore_index=True)
@@ -861,11 +861,11 @@ if not ej_df.empty:
         ~ej_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(ej_df["date"], errors='coerce') >= now - pd.Timedelta(days=60))
+        & (pd.to_datetime(ej_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
         & ej_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     ej_for_listings = ej_df[
-        pd.to_datetime(ej_df["date"], errors='coerce') >= now - pd.Timedelta(days=90)
+        pd.to_datetime(ej_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
     ].copy()
 
     readme_result = pd.concat([readme_result, ej_for_readme], ignore_index=True)
@@ -1088,7 +1088,7 @@ if not md_df.empty:
         md_final["role"].str.lower().str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
     ]
     md_final = md_final[
-        pd.to_datetime(md_final["date"], errors='coerce') >= now - pd.Timedelta(days=60)
+        pd.to_datetime(md_final["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60)
     ]
     md_final = md_final[
         md_final.apply(
