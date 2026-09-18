@@ -11,6 +11,13 @@ import sys
 import requests
 import time as _time
 import duckdb
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 import echojobs
 import jobspy_source
 import markdown_sources
@@ -114,6 +121,20 @@ ALLOWED_ATS = [
     'welcometothejungle', 'jazzhr',
     'oracle', 'dayforce', 'ukg', 'jobvite', 'builtin',
     'weworkremotely', 'wellfound', 'remoteok',
+    # Hidden-in-ATS buckets jobhive ships but we never pulled (scanned all 22
+    # non-ALLOWED ATS, 2026-09-18, counted via the README query: 60d/ascii/
+    # non-EU). Added those above taleo's 11-row bar:
+    #   taleo 17 | darwinbox 78 | paycom 101 | paylocity 29 | keka 16 (IN
+    #   internships: Toddle/Signzy) | moka 18 (CN/HK/TW: osl/trip/klook) |
+    #   beisen 13 (single company CICC, HK/SG project interns).
+    # Skipped: jobbankca 13 (keyword noise: 'campus maintenance manager',
+    #   'rotational moulding operator'), eures 4 (HR medical-residency 'REU'
+    #   matches), getonbrd 3 (ES LatAm), arbetsformedlingen/bundesagentur/
+    #   jobsch/gupy/herp/hrmos/join_com/programathor/pageup/softgarden/wanted/
+    #   meta/bytedance/mercor/manfred/beisen_legacy 0 (empty or no campus
+    #   roles) — left off to skip dead parquet downloads on every run.
+    'taleo', 'darwinbox', 'paycom', 'paylocity',
+    'keka', 'moka', 'beisen',
 ]
 
 # --- Title exclusions (shared base + per-pipeline extras) ---
@@ -429,7 +450,7 @@ def _load_seen():
 
 def _save_seen(seen):
     os.makedirs(CACHE_DIR, exist_ok=True)
-    with open(_seen_path(), "w") as f:
+    with open(_seen_path(), "w", encoding="utf-8") as f:
         json.dump(seen, f)
 
 
@@ -493,17 +514,110 @@ ATS_CSV_URL = 'https://raw.githubusercontent.com/Kayvan-Zahiri/state-of-ats-2026
 ATS_PROBE_STATE_PATH = os.path.join(CACHE_DIR, "ats_probe_state.json")
 ATS_PROBE_COOLDOWN_HOURS = 24
 
+# Boards jobhive doesn't scrape; verified by hand.
+# Workday slug is the CXS base path: {host}/wday/cxs/{tenant}/{site}
+EXTRA_BOARDS = [
+    ("Ally", "Workday", "ally.wd1.myworkdayjobs.com/wday/cxs/ally/Ally"),
+]
+
+
+# Workday publishes no site-name registry: {tenant}.wdN hosts hide the CXS site
+# name in robots.txt Disallow paths. Strip the first segment per line, fall back
+# to the tenant/subdomain and its capitalization.
+_WD_HOST_RE = re.compile(r'^([^.]+)\.wd\d+\.myworkdayjobs\.com$')
+
+
+def _discover_workday_sites(host, tenant):
+    # Discovery is a hint, not a contract: fail fast, never back off. A DNS blip
+    # on one host must not stretch a serial 50-host pass into minutes.
+    candidates = []
+    try:
+        resp = requests.get(f"https://{host}/robots.txt", headers=_UA, timeout=8)
+        if resp.status_code == 200:
+            for line in resp.text.splitlines():
+                m = re.match(r'\s*Disallow:\s*/([A-Za-z0-9_.-]+)/', line)
+                if m and m.group(1) != 'refreshFacet':
+                    candidates.append(m.group(1))
+    except Exception:
+        pass
+    candidates += [tenant, tenant.capitalize()]
+    working = []
+    for site in dict.fromkeys(candidates):
+        if not site:
+            continue
+        try:
+            resp = requests.post(
+                f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
+                json={"appliedFacets": {}, "limit": 5, "offset": 0, "searchText": ""},
+                headers={**_UA, "Content-Type": "application/json"},
+                timeout=8,
+            )
+            if resp.status_code == 200:
+                working.append(f"{host}/wday/cxs/{tenant}/{site}")
+        except Exception:
+            pass
+    return working
+
+
+def _abs_posted_on(label, now=None):
+    """Workday reports relative ages ('Posted 3 days ago'). Convert to ISO."""
+    now = now or pd.Timestamp.now('UTC')
+    if not label:
+        return str(now)
+    try:
+        pd.Timestamp(label)
+        return label
+    except Exception:
+        pass
+    label = label.lower()
+    if 'today' in label:
+        return str(now)
+    if 'yesterday' in label:
+        return str(now - pd.Timedelta(days=1))
+    m = re.search(r'(\d+) (day|week)s? ago', label)
+    if m:
+        n = int(m.group(1))
+        unit = pd.Timedelta(days=7) if m.group(2) == 'week' else pd.Timedelta(days=1)
+        return str(now - n * unit)
+    return str(now)
+
 
 def _fetch_company_jobs(company, ats_type, slug):
     url = ATS_ENDPOINTS.get(ats_type)
+    if url is None and ats_type == 'Workday':
+        url = 'https://{slug}/jobs'
     if not url:
         return None
     try:
         _time.sleep(random.uniform(0, 0.15))
-        resp = http_get(url.format(slug=slug), timeout=15, retries=2)
-        if resp is None or resp.status_code != 200:
-            return None
-        return (company, ats_type, resp.json())
+        if ats_type == 'Workday':
+            host = slug.split('/')[0]
+            data = {'jobPostings': []}
+            offset = 0
+            while len(data['jobPostings']) < 100:
+                # ponytail: limit=20 (some tenants 400 on larger pages); 100-job cap = max 5 pages
+                resp = requests.post(
+                    url.format(slug=slug),
+                    json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": ""},
+                    headers={**_UA, "Content-Type": "application/json"},
+                    timeout=15,
+                )
+                if resp is None or resp.status_code != 200:
+                    break
+                page = resp.json().get('jobPostings') or []
+                data['jobPostings'].extend(page)
+                if len(page) < 20:
+                    break
+                offset += 20
+            for jp in data['jobPostings']:
+                p = jp.get('externalPath') or ''
+                jp['externalPath'] = f"https://{host}{p}" if p else ''
+        else:
+            resp = http_get(url.format(slug=slug), timeout=15, retries=2)
+            if resp is None or resp.status_code != 200:
+                return None
+            data = resp.json()
+        return (company, ats_type, data)
     except Exception:
         return None
 
@@ -583,6 +697,18 @@ def _normalize_ats_jobs(company, ats_type, data):
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
             })
+    elif ats_type == 'Workday':
+        for j in data.get('jobPostings', []):
+            loc_str = (j.get('locationsText') or '').strip()
+            rows.append({
+                'company': company, 'role': (j.get('title') or '').strip(),
+                'location': loc_str,
+                'date': _abs_posted_on(j.get('postedOn'), now),
+                'link': j.get('externalPath', ''),
+                'is_remote': str('remote' in loc_str.lower()),
+                'salary_min': None, 'salary_max': None, 'salary_currency': None,
+                'country_iso': _infer_country(loc_str),
+            })
     return rows
 
 
@@ -607,14 +733,41 @@ def _fetch_ats_probe():
         if c['ats_system'] in ATS_ENDPOINTS
         and c.get('verified', '').lower() == 'true'
     ]
+    probe_list += EXTRA_BOARDS
 
-    # Cooldown: skip endpoints probed successfully within the last 24h.
+    # Cooldown + discovery caches live in one state file, so load before building
+    # the probe list (Workday discovery reads/writes it below).
     probe_state = {}
     try:
         with open(ATS_PROBE_STATE_PATH) as f:
             probe_state = json.load(f)
     except Exception:
         pass
+
+    # Workday CXS discovery: verified Workday tenants on the {tenant}.wdN shape
+    # whose site name isn't in the CSV get their sites probed from robots.txt
+    # (+ tenant fallback) and cached in probe_state, so discovery runs once per
+    # cooldown window instead of every fetch. Each working site becomes its own
+    # probe entry (tenants like Verizon publish several distinct career sites).
+    wd_cutoff = _time.time() - ATS_PROBE_COOLDOWN_HOURS * 3600
+    for c in [x for x in companies if x['ats_system'] == 'Workday'
+              and x.get('verified', '').lower() == 'true']:
+        host = (c.get('apply_host') or '').strip().lower()
+        m = _WD_HOST_RE.match(host)
+        if not m:
+            # ponytail: non-{tenant}.wdN hosts (careers.walmart.com, ...site.com)
+            # aren't addressable without per-tenant data — add a manual EXTRA_BOARD
+            continue
+        tenant = m.group(1)
+        key = f"WorkdaySlugs|{c['name']}"
+        cached = probe_state.get(key)
+        if not (isinstance(cached, dict) and cached.get('slugs')
+                and cached.get('at', 0) > wd_cutoff):
+            probe_state[key] = {'at': _time.time(), 'slugs': _discover_workday_sites(host, tenant)}
+        for slug in probe_state.get(key, {}).get('slugs', []):
+            probe_list.append((c['name'], 'Workday', slug))
+
+    # Cooldown: skip endpoints probed successfully within the last 24h.
     cutoff = _time.time() - ATS_PROBE_COOLDOWN_HOURS * 3600
     warm = []
     for name, ats, slug in probe_list:
@@ -644,7 +797,7 @@ def _fetch_ats_probe():
     if "_skipped_this_run" in probe_state:
         del probe_state["_skipped_this_run"]
     os.makedirs(CACHE_DIR, exist_ok=True)
-    with open(ATS_PROBE_STATE_PATH, "w") as f:
+    with open(ATS_PROBE_STATE_PATH, "w", encoding="utf-8") as f:
         json.dump(probe_state, f)
 
     all_rows = []
@@ -1040,9 +1193,9 @@ new_rows = [
     }
     for k in sorted(is_new)
 ]
-with open(os.path.join(digest_dir, f"new-{today}.json"), "w") as f:
+with open(os.path.join(digest_dir, f"new-{today}.json"), "w", encoding="utf-8") as f:
     json.dump(new_rows, f, indent=2, ensure_ascii=False)
-with open(os.path.join(digest_dir, f"closed-{today}.json"), "w") as f:
+with open(os.path.join(digest_dir, f"closed-{today}.json"), "w", encoding="utf-8") as f:
     json.dump(closed, f, indent=2, ensure_ascii=False)
 
 per_source = (
@@ -1061,7 +1214,7 @@ run_meta = {
     "markdown_source_stats": [{"name": n, "rows": c} for n, c in md_source_stats],
 }
 os.makedirs(os.path.join(root_dir, "pages"), exist_ok=True)
-with open(os.path.join(root_dir, "pages", "run_meta.json"), "w") as f:
+with open(os.path.join(root_dir, "pages", "run_meta.json"), "w", encoding="utf-8") as f:
     json.dump(run_meta, f, indent=2, ensure_ascii=False)
 print(f"  Digest: {len(new_rows)} new, {len(closed)} closed, {len(dead_keys)} dead links")
 

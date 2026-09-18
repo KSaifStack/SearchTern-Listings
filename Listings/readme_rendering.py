@@ -164,7 +164,7 @@ def build_header(current_page: int, total_pages: int, total_rows: int, dataframe
 
 ---
 
-> 🎓 **{total_rows:,} internships & new grad roles** updated twice daily from 49 ATS platforms worldwide.
+> 🎓 **{total_rows:,} internships & new grad roles** refreshed every 4 hours from 45 ATS platforms and community job boards worldwide.
 > Finding an internship has never been harder — students are sending 500–1000+ applications just to land one.
 > SearchTern breaks that cycle. [**Start your search →**](https://searchtern.ksaif.dev/)
 
@@ -174,14 +174,22 @@ def build_header(current_page: int, total_pages: int, total_rows: int, dataframe
 
 ---
 
-### 📊 Data powered by jobhive
+### 🛠️ How it works
 
-This dataset is pulled and filtered from [**jobhive**](https://github.com/stapply-ai/ats-scrapers) —
-an open-source project by [Stapply](https://data.stapply.ai) that scrapes job listings directly
-from ATS platforms (Greenhouse, Lever, Ashby, Workday and 45 more) where companies actually post.
-No LinkedIn reposts. No duplicates. One source of truth.
+SearchTern merges three feeds into one deduplicated list:
 
-> If you find jobhive useful, consider ⭐ starring their repo: [stapply-ai/ats-scrapers](https://github.com/stapply-ai/ats-scrapers)
+1. **ATS scrapers** — [**jobhive**](https://github.com/stapply-ai/ats-scrapers) by [Stapply](https://data.stapply.ai)
+   pulls roles straight from 45 ATS platforms (Greenhouse, Lever, Ashby, Workday & 41 more) where
+   companies actually post. No LinkedIn reposts. No duplicates.
+2. **Board probes** — our own scraper hits big-tech boards jobhive misses (Workday CXS sites,
+   SmartRecruiters, and a handful of direct Greenhouse/Lever/Ashby boards).
+3. **Community feeds** — Simplify / speedyapply / zapply internship lists, the lilguy live feed,
+   SkillExchange, EchoJobs, plus Indeed, ZipRecruiter & Google results via JobSpy.
+
+Every row is filtered to internships & new-grad roles, deduplicated, and pruned to the last 60 days.
+The light tier refreshes hourly; the full run every 4 hours.
+
+> jobhive does the heavy lifting — if you find it useful, ⭐ [stapply-ai/ats-scrapers](https://github.com/stapply-ai/ats-scrapers)
 
 ---
 
