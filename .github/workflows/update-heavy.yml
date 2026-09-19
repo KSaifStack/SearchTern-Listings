@@ -48,7 +48,7 @@ jobs:
                 exit 0
               fi
               echo "Push failed (attempt $i/5), pulling remote changes and retrying in 20s..."
-              git pull --rebase --autostash origin main
+              git pull --rebase --autostash -X theirs origin main
               sleep 20
             done
             echo "Push failed after 5 attempts."
