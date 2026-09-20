@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T18:34:02.140855+00:00",
-  "total": 13352,
+  "generated_at": "2026-09-20T18:37:28.285367+00:00",
+  "total": 13185,
   "per_source": {
     "jobhive": 4267,
     "SimplifyJobs Off-Season 2027": 1105,
@@ -33,14 +33,14 @@
     "speedyapply AI Intern Intl": 3,
     "zapplyjobs Canada 2027": 1
   },
-  "new": 13,
-  "closed": 3816,
-  "dead_links": 5,
+  "new": 2,
+  "closed": 727,
+  "dead_links": 6,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
+    "freehire": false,
     "ats": true,
-    "md": true
+    "md": false
   },
   "markdown_source_stats": [
     {
