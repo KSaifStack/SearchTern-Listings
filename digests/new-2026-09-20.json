@@ -1,106 +1,26 @@
 [
   {
-    "company": "Albertsons Companies",
-    "role": "Front End Entry Level",
-    "location": "Del Rey Oaks, CA, United States",
-    "link": "https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#768642",
-    "source": "jobhive",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "Stantec",
-    "role": "Engineering Intern - Energy & Resources (Summer 2027)",
-    "location": "Irvine, CA, United States",
-    "link": "https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1007785",
-    "source": "jobhive",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "Abbott",
-    "role": "BI Developer (SQL)",
-    "location": "United States - Texas - Irving",
-    "link": "https://zapply.jobs/l/d/workday-abbott-abbottcareers-31157948?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "Abbott",
-    "role": "Business Systems Analyst",
-    "location": "United States > Madison : 650...",
-    "link": "https://zapply.jobs/l/d/workday-abbott-abbottcareers-31161746?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "DXC Technology",
-    "role": "Analyst 1 Software Engineering",
-    "location": "Connecticut",
-    "link": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586934",
-    "source": "GodlyDonuts keryx New Grad",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "GE Vernova",
-    "role": "2nd shift Lead Test Engineer",
-    "location": "Greenville",
-    "link": "https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5052737?s=gh-new-grad-jobs-2027",
+    "company": "CACI",
+    "role": "Product Management Transformation Specialist",
+    "location": "Washington, DC, US",
+    "link": "https://zapply.jobs/l/d/workday-caci-external-332368?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
+    "observed_at": "2026-09-20T22:16:51.547418+00:00"
   },
   {
-    "company": "GE Vernova",
-    "role": "GE Vernova Combustion Mechanical Engineer",
-    "location": "Greenville",
-    "link": "https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5053078?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
+    "company": "Disney",
+    "role": "Disney Live Entertainment Lighting Design Intern, Spring 2027",
+    "location": "Anaheim, CA, USA",
+    "link": "https://zapply.jobs/l/d/workday-disney-disneycareer-10159167?s=gh-internships-2027",
+    "source": "zapplyjobs Internships 2027",
+    "observed_at": "2026-09-20T22:16:51.547418+00:00"
   },
   {
-    "company": "General Motors",
-    "role": "Entry Level Software Engineer",
-    "location": "Milford, MI, Warren, MI",
-    "link": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202618501",
-    "source": "GodlyDonuts keryx New Grad",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "Kittelson & Associates, Inc.",
-    "role": "Transportation Engineering and Planning Intern (Summer 2027)",
-    "location": "Boston, MA, United States",
-    "link": "https://www.kittelson.com/careers/transportation-engineering-and-planning-intern-summer-2027/",
-    "source": "GodlyDonuts keryx Internships",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "role": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
-    "location": "Livermore, CA, us",
-    "link": "https://jobs.smartrecruiters.com/LLNL/3743990015408206",
-    "source": "GodlyDonuts keryx Internships",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "POI Content Product Manager Graduate (TikTok Local Services) - 2027 Start",
-    "location": "San Jose, CA, United States",
-    "link": "https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af?utm_campaign=Product%20Management&utm_source=1103",
-    "source": "GodlyDonuts keryx New Grad",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Recommendation Architecture AI/ML Infrastructure Engineer Intern (Data-Arch-TikTok Live) - 2027 Summer",
-    "location": "San Jose, CA, United States",
-    "link": "https://jobright.ai/jobs/info/6a75b46f7b3417772ade4eee?utm_campaign=1079&utm_source=git",
-    "source": "GodlyDonuts keryx Internships",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
-  },
-  {
-    "company": "Valency",
-    "role": "Software Engineer - Full-stack",
-    "location": "Berkeley, CA",
-    "link": "https://jobs.ashbyhq.com/valency/2bcd9b30-d76b-40ee-afc7-43302ce18fff/application?embed=true",
-    "source": "GodlyDonuts keryx New Grad",
-    "observed_at": "2026-09-20T18:34:02.140855+00:00"
+    "company": "Disney",
+    "role": "Software Engineer",
+    "location": "Orlando, FL, USA",
+    "link": "https://zapply.jobs/l/d/workday-disney-disneycareer-10157986?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-20T22:16:51.547418+00:00"
   }
 ]
