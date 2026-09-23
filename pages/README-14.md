@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 14
 
-**Page 14 of 34 — 18,055 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 14 of 35 — 18,599 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-13.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md)
 
@@ -22,13 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=196160&amp;lang=en"><strong>HDR</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Co-op (Winter 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Canada-Ontario-Toronto</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=196160&amp;lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdr.taleo.net/careersection/ex/jobdetail.ftl?job=196209&amp;lang=en">↳ <strong>HDR</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Design Co-op (Winter 2027)</td>
@@ -231,6 +224,209 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Amsterdam</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/drweng/jobs/8020364" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/hottopic/3730223a-8e6e-4d28-a2f4-24481cc92f96"><strong>Hottopic</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BoxLunch HQ - City of Industry<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/hottopic/3730223a-8e6e-4d28-a2f4-24481cc92f96" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000146554588-junior-marketing-designer-advertising-and-promotions-crown-publishing-group-hybrid-"><strong>Bertelsmann</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Marketing Designer, Advertising and Pr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York (NY)<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000146554588-junior-marketing-designer-advertising-and-promotions-crown-publishing-group-hybrid-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">22d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Socotec/744000141326319-junior-software-engineer-"><strong>Socotec</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Socotec/744000141326319-junior-software-engineer-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/jobsultant-solutions/job/QY6XRRV5"><strong>Jobsultant Solutions</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Analyst - Remote</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Albany<br>New York<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/jobsultant-solutions/job/QY6XRRV5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/angenex/job/L38V6W38"><strong>Angenex</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jersey City<br>New Jersey<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/angenex/job/L38V6W38" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/anderscpasadvisors/jobs/5245852007"><strong>Anders</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/anderscpasadvisors/jobs/5245852007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4980635101"><strong>Financial Times</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Multimedia Designer (Events)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4980635101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/94797953"><strong>Howden Insurance ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/94797953" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.magairports.com/job/Manchester-Airport-Junior-Graphic-Designer/1439971833/"><strong>Manchester Airpor...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.magairports.com/job/Manchester-Airport-Junior-Graphic-Designer/1439971833/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://secure3.entertimeonline.com/ta/pe20450.careers?ShowJob=839107526"><strong>Tyr Tactical</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Product Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Peoria<br>AZ<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://secure3.entertimeonline.com/ta/pe20450.careers?ShowJob=839107526" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/44208"><strong>NOV</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Sales Engineer (m/f/d)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atyrau<br>Kazakhstan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/44208" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14338"><strong>Linamar</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst, Junior</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Guelph<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14338" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/MountfitchetGroup/744000150165049-junior-business-analyst"><strong>Mountfitchetgroup</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Business Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Surbiton<br>England<br>Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/MountfitchetGroup/744000150165049-junior-business-analyst" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/artefact/jobs/8686928002"><strong>Artefact</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Jakarta<br>Jakarta<br>Indonesia; Kuala Lumpur<br>Kuala Lumpur<br>Malaysia</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/artefact/jobs/8686928002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://beforest.zohorecruit.in/jobs/Careers/175912000002786098"><strong>Beforest</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Designer (Remote)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beforest.zohorecruit.in/jobs/Careers/175912000002786098" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Junior-Golang-Developer-with-React_R0158546"><strong>Ncr Voyix</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Golang Developer with React</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CHENNAI<br>IND</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Junior-Golang-Developer-with-React_R0158546" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.co.nz/job/94656726"><strong>Positive People</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Full Stack Software Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ellerslie<br>Auckland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.co.nz/job/94656726" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/maverick-associates/job/L4RVV775"><strong>Maverick Associates</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior/Graduate Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>England<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/maverick-associates/job/L4RVV775" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://touchsupport.applytojob.com/apply/zjlRXlPjUh/Junior-IT-Support-Specialist"><strong>Touch Support</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Specialist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Astana<br>Astana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://touchsupport.applytojob.com/apply/zjlRXlPjUh/Junior-IT-Support-Specialist" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/promise-studios/c5c9bdf6-2d91-43a4-bc07-25f8f5acae26"><strong>Promise Studios</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer (Junior)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/promise-studios/c5c9bdf6-2d91-43a4-bc07-25f8f5acae26" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/arsenault/job/QX9WW643"><strong>Arsenault</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Support Analyst/ Programmer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Calgary<br>AB<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/arsenault/job/QX9WW643" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cni.wd503.myworkdayjobs.com/CNI/job/Norman-OK/Junior-Security-Analyst_R9489"><strong>CNI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Security Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Norman<br>OK</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cni.wd503.myworkdayjobs.com/CNI/job/Norman-OK/Junior-Security-Analyst_R9489" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43893"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Bridge Design Coordinator</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/TTP1/744000149038758-summer-internship-software-engineering-consultant-2027"><strong>TTP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Internship - Software Engineering Cons...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourn<br>England<br>Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/TTP1/744000149038758-summer-internship-software-engineering-consultant-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Propulsion-Control-System-Junior-Designer-for-SA-Program--m-f-_JR10421232"><strong>Airbus</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Propulsion Control System Junior Designer for...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Toulouse Area</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Propulsion-Control-System-Junior-Designer-for-SA-Program--m-f-_JR10421232" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/flowlife/76322e7c-fcf9-4aa7-bbaf-a8fcbb210067"><strong>FLOW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Interior Designer &quot;Tamheer&quot;</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Riyadh<br>Saudi Arabia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/flowlife/76322e7c-fcf9-4aa7-bbaf-a8fcbb210067" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/94443261"><strong>Trust Recruit</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer (Junior/ OS/ Network Syst...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kampong Ubi<br>Central Region</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/94443261" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/94439742"><strong>Trust Recruit</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kampong Ubi<br>Central Region</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/94439742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">17d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/dash0/7f958525-0b88-4a2a-b8ad-1fef292dd78b"><strong>DASH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Administrator, EMEA</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">EMEA - Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/dash0/7f958525-0b88-4a2a-b8ad-1fef292dd78b" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/bloxd/1c9d0167-b9b4-4aaa-af4f-8eccd89bf8a3"><strong>Bloxd</strong></a></td>
@@ -450,214 +646,11 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/hottopic/3730223a-8e6e-4d28-a2f4-24481cc92f96"><strong>Hottopic</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">BoxLunch HQ - City of Industry<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/hottopic/3730223a-8e6e-4d28-a2f4-24481cc92f96" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000146554588-junior-marketing-designer-advertising-and-promotions-crown-publishing-group-hybrid-"><strong>Bertelsmann</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Marketing Designer, Advertising and Pr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York (NY)<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000146554588-junior-marketing-designer-advertising-and-promotions-crown-publishing-group-hybrid-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Socotec/744000141326319-junior-software-engineer-"><strong>Socotec</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Socotec/744000141326319-junior-software-engineer-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/jobsultant-solutions/job/QY6XRRV5"><strong>Jobsultant Solutions</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Analyst - Remote</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Albany<br>New York<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/jobsultant-solutions/job/QY6XRRV5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/angenex/job/L38V6W38"><strong>Angenex</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote Junior Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jersey City<br>New Jersey<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/angenex/job/L38V6W38" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/anderscpasadvisors/jobs/5245852007"><strong>Anders</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/anderscpasadvisors/jobs/5245852007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4980635101"><strong>Financial Times</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Multimedia Designer (Events)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/financialtimes33/jobs/4980635101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/94797953"><strong>Howden Insurance ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/94797953" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.magairports.com/job/Manchester-Airport-Junior-Graphic-Designer/1439971833/"><strong>Manchester Airpor...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.magairports.com/job/Manchester-Airport-Junior-Graphic-Designer/1439971833/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://secure3.entertimeonline.com/ta/pe20450.careers?ShowJob=839107526"><strong>Tyr Tactical</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Product Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Peoria<br>AZ<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://secure3.entertimeonline.com/ta/pe20450.careers?ShowJob=839107526" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/44208"><strong>NOV</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Sales Engineer (m/f/d)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Atyrau<br>Kazakhstan</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/44208" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14338"><strong>Linamar</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst, Junior</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guelph<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14338" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/MountfitchetGroup/744000150165049-junior-business-analyst"><strong>Mountfitchetgroup</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Business Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Surbiton<br>England<br>Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/MountfitchetGroup/744000150165049-junior-business-analyst" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/artefact/jobs/8686928002"><strong>Artefact</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Jakarta<br>Jakarta<br>Indonesia; Kuala Lumpur<br>Kuala Lumpur<br>Malaysia</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/artefact/jobs/8686928002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://beforest.zohorecruit.in/jobs/Careers/175912000002786098"><strong>Beforest</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Designer (Remote)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beforest.zohorecruit.in/jobs/Careers/175912000002786098" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Junior-Golang-Developer-with-React_R0158546"><strong>Ncr Voyix</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Golang Developer with React</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CHENNAI<br>IND</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Junior-Golang-Developer-with-React_R0158546" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.co.nz/job/94656726"><strong>Positive People</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Full Stack Software Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ellerslie<br>Auckland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.co.nz/job/94656726" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/maverick-associates/job/L4RVV775"><strong>Maverick Associates</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior/Graduate Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>England<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/maverick-associates/job/L4RVV775" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://touchsupport.applytojob.com/apply/zjlRXlPjUh/Junior-IT-Support-Specialist"><strong>Touch Support</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Specialist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Astana<br>Astana</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://touchsupport.applytojob.com/apply/zjlRXlPjUh/Junior-IT-Support-Specialist" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/promise-studios/c5c9bdf6-2d91-43a4-bc07-25f8f5acae26"><strong>Promise Studios</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer (Junior)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/promise-studios/c5c9bdf6-2d91-43a4-bc07-25f8f5acae26" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/arsenault/job/QX9WW643"><strong>Arsenault</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Support Analyst/ Programmer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Calgary<br>AB<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/arsenault/job/QX9WW643" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cni.wd503.myworkdayjobs.com/CNI/job/Norman-OK/Junior-Security-Analyst_R9489"><strong>CNI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Security Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Norman<br>OK</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cni.wd503.myworkdayjobs.com/CNI/job/Norman-OK/Junior-Security-Analyst_R9489" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43893"><strong>Arcadis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Bridge Design Coordinator</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/43893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/TTP1/744000149038758-summer-internship-software-engineering-consultant-2027"><strong>TTP</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Internship - Software Engineering Cons...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourn<br>England<br>Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/TTP1/744000149038758-summer-internship-software-engineering-consultant-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Propulsion-Control-System-Junior-Designer-for-SA-Program--m-f-_JR10421232"><strong>Airbus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Propulsion Control System Junior Designer for...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Toulouse Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Propulsion-Control-System-Junior-Designer-for-SA-Program--m-f-_JR10421232" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/flowlife/76322e7c-fcf9-4aa7-bbaf-a8fcbb210067"><strong>FLOW</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Interior Designer &quot;Tamheer&quot;</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Riyadh<br>Saudi Arabia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/flowlife/76322e7c-fcf9-4aa7-bbaf-a8fcbb210067" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/94443261"><strong>Trust Recruit</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer (Junior/ OS/ Network Syst...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kampong Ubi<br>Central Region</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/94443261" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/94439742"><strong>Trust Recruit</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kampong Ubi<br>Central Region</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/94439742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/dash0/7f958525-0b88-4a2a-b8ad-1fef292dd78b"><strong>DASH</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Administrator, EMEA</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">EMEA - Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/dash0/7f958525-0b88-4a2a-b8ad-1fef292dd78b" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/94384504"><strong>Pulse Mining Systems</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT ADMINISTRATOR | ENTRY LEVEL</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Newcastle<br>Newcastle<br>Maitland &amp; Hunter NSW</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/94384504" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
+<td style="white-space:nowrap;">20d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393"><strong>Netholabs</strong></a></td>
@@ -3884,6 +3877,13 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Systems Engineering Intern - Spring &#x27;27</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Woburn<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/smartflower-solar-llc/j/240CCDA520/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-steeldynamics.icims.com/jobs/8017/software-development-internship/job"><strong>Steel Dynamics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>MS</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-steeldynamics.icims.com/jobs/8017/software-development-internship/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">14d</td>
 </tr>
 </tbody>
