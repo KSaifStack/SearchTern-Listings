@@ -24,6 +24,12 @@ import markdown_sources
 import pandas as pd
 import readme_generation
 import skillexchange
+<<<<<<< HEAD
+=======
+import startupjobs
+from html import unescape
+from html.parser import HTMLParser
+>>>>>>> b1c9508 (feat: store job descriptions for every listing)
 from readme_utils import http_get
 
 import classify
@@ -39,6 +45,34 @@ CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
 HASH_FILE = os.path.join(CACHE_DIR, "last_hash.json")
 
 _UA = {"User-Agent": "SearchTern-Listings/1.0 (+https://github.com/KSaifStack/SearchTern-Listings)"}
+
+
+class _TextExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self._buf = []
+
+    def handle_data(self, data):
+        self._buf.append(data)
+
+
+def _strip_html(value):
+    if value is None:
+        return None
+    if isinstance(value, bytes):
+        value = value.decode("utf-8", errors="ignore")
+    value = unescape(str(value))
+    if "<" not in value:
+        value = re.sub(r"\s+", " ", value).strip()
+        return value or None
+    p = _TextExtractor()
+    try:
+        p.feed(value)
+    except Exception:
+        pass
+    text = unescape("".join(p._buf))
+    text = re.sub(r"\s+", " ", text).strip()
+    return text or None
 
 
 def _parse_tier(value):
@@ -229,6 +263,7 @@ def build_job_query(intern_cond, newgrad_cond, title_exclusions, lookback_days, 
         salary_max,
         salary_currency,
         country_iso,
+        description,
         CASE
             WHEN ({intern_cond}){title_exclusions}
             AND url IS NOT NULL
@@ -500,6 +535,10 @@ listings_query = build_job_query(
 )
 listings_result = duckdb.execute(listings_query, [parquet_urls]).df()
 listings_result = listings_result[listings_result["job_type"] != "other"]
+if "description" in listings_result.columns:
+    listings_result["description"] = listings_result["description"].map(
+        lambda v: _strip_html(v) if v is not None and str(v).strip() else None
+    )
 listings_result = _stamp(listings_result, "jobhive", now)
 
 # ── Direct ATS probing (big tech supplement) ──────────────────────────────
@@ -582,6 +621,16 @@ def _abs_posted_on(label, now=None):
     return str(now)
 
 
+def _smartrecruiters_desc(job):
+    sections = (job.get('jobAd') or {}).get('sections') or {}
+    if isinstance(sections, list):
+        for s in sections:
+            if str(s.get('name') or '').lower() in ('jobdescription', 'description'):
+                return s.get('text') or ''
+    desc = sections.get('jobDescription') or sections.get('description') or {}
+    return desc.get('text') if isinstance(desc, dict) else ''
+
+
 def _fetch_company_jobs(company, ats_type, slug):
     url = ATS_ENDPOINTS.get(ats_type)
     if url is None and ats_type == 'Workday':
@@ -639,6 +688,7 @@ def _normalize_ats_jobs(company, ats_type, data):
                 'is_remote': is_remote,
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
+                'description': _strip_html(j.get('content') or ''),
             })
     elif ats_type == 'Lever':
         for j in data if isinstance(data, list) else []:
@@ -665,6 +715,7 @@ def _normalize_ats_jobs(company, ats_type, data):
                 'is_remote': is_remote,
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
+                'description': _strip_html(j.get('descriptionPlain') or j.get('description') or ''),
             })
     elif ats_type == 'Ashby':
         for j in data.get('jobs', []):
@@ -681,6 +732,7 @@ def _normalize_ats_jobs(company, ats_type, data):
                 'salary_min': salary_min, 'salary_max': salary_max,
                 'salary_currency': comp.get('currency'),
                 'country_iso': _infer_country(loc_str),
+                'description': _strip_html(j.get('descriptionPlain') or j.get('descriptionHtml') or ''),
             })
     elif ats_type == 'SmartRecruiters':
         for j in data.get('content', []):
@@ -696,6 +748,7 @@ def _normalize_ats_jobs(company, ats_type, data):
                 'is_remote': str(bool(loc.get('remote'))).lower(),
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
+                'description': _strip_html(_smartrecruiters_desc(j)),
             })
     elif ats_type == 'Workday':
         for j in data.get('jobPostings', []):
@@ -1219,6 +1272,27 @@ with open(os.path.join(root_dir, "pages", "run_meta.json"), "w", encoding="utf-8
 print(f"  Digest: {len(new_rows)} new, {len(closed)} closed, {len(dead_keys)} dead links")
 
 # --- Output Pipelines ---
+if not ats_df.empty and "description" in ats_df.columns and not listings_result.empty:
+    desc_by_role = {}
+    for _, r in ats_df.iterrows():
+        d = _strip_html(r.get("description"))
+        if d and str(d).strip():
+            key = (str(r["company"]).strip().lower(), str(r["role"]).strip().lower())
+            desc_by_role.setdefault(key, d)
+
+    def _fill_desc(row):
+        cur = row.get("description")
+        cur = _strip_html(cur)
+        if cur and str(cur).strip():
+            return cur
+        return desc_by_role.get(
+            (str(row["company"]).strip().lower(), str(row["role"]).strip().lower())
+        )
+
+    listings_result["description"] = listings_result.apply(_fill_desc, axis=1)
+    n_with_desc = listings_result["description"].notna().sum()
+    print(f"  Description coverage: {n_with_desc:,}/{len(listings_result):,} rows")
+
 readme_role_lower = readme_result["role"].str.lower()
 readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
 readme_result = readme_result[readme_tech_mask]

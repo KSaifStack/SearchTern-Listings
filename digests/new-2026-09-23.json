@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< HEAD
     "company": "aoncology",
     "role": "Junior Web Developer",
     "location": "United States",
@@ -478,5 +479,229 @@
     "link": "https://zapply.jobs/l/d/greenhouse-xai-5246016007?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
     "observed_at": "2026-09-23T09:15:10.194627+00:00"
+=======
+    "company": "Venura.ai",
+    "role": "Software Engineer Intern",
+    "location": "San Francisco Bay Area",
+    "link": "https://wellfound.com/jobs/4609996-software-engineer-clone?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Amazon",
+    "role": "Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
+    "location": "Cleburne, Texas, USA",
+    "link": "https://account.amazon.jobs/jobs/10532282/apply",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer Intern/Co-Op, ROBOTICS -  2027",
+    "location": "Nashville, Tennessee, USA",
+    "link": "https://account.amazon.jobs/jobs/10529525/apply",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Applied Intuition",
+    "role": "Mechanical Engineer (New Grad)",
+    "location": "Sunnyvale, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/SATFpf/jobs/mechanical-engineer-new-grad_sunnyvale_4vvqbamw",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Astranis",
+    "role": "Finance Systems Associate (Winter 2027)",
+    "location": "San Francisco, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/X6n5ME/jobs/finance-systems-associate-winter-2027_san-francisco_wil5thlk",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Careers at Myers and Stauffer",
+    "role": "Analyst Intern - Indianapolis, IN (Summer 2027)",
+    "location": "Indianapolis, IN, United States",
+    "link": "https://ebez.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_4#6306",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Domino Data Lab",
+    "role": "Software Engineer (Intern, Campus Recruiting 2027)",
+    "location": "New York, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/KLILQn/jobs/software-engineer-intern-campus-recruiting-2027_new-york_2g4ryf64",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Domino Data Lab",
+    "role": "Software Engineer (New Grad, 2027)",
+    "location": "New York, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/KLILQn/jobs/software-engineer-new-grad-2027_new-york_ededhz5o",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Ekaw",
+    "role": "Entry Level Security Officer - Part Time",
+    "location": "Verona, VA, United States",
+    "link": "https://ekaw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX#174515",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Emerson Career Site",
+    "role": "Process Automation Engineer Intern",
+    "location": "Houston, TX, United States",
+    "link": "https://hdjq.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26009266",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Fa Evwo Saasfaprod1 (CX_5)",
+    "role": "Geological Engineering Summer Intern -2027",
+    "location": "Butte, MT, United States",
+    "link": "https://fa-evwo-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_5#230843",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Fa Exvu Saasfaprod1 (CX_1)",
+    "role": "Intern - Business Systems Analyst",
+    "location": "Arlington, TX, United States",
+    "link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#260815",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Gecko Robotics",
+    "role": "AI/Machine Learning Engineering Intern",
+    "location": "New York, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/hkawKY/jobs/ai-machine-learning-engineering-intern_new-york_kp6e5nou",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Hctz",
+    "role": "Summer 2027 - Thin Films, Implant & Diffusion Process Engineering Intern",
+    "location": "Hopewell Junction, NY, United States",
+    "link": "https://hctz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1001#2506637",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Handshake",
+    "role": "Staff Product Designer (Student Experience)",
+    "location": "United States",
+    "link": "https://www.welcometothejungle.com/en/companies/rJbVPm/jobs/staff-product-designer_us_tpupzo3s",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Radiant Nuclear",
+    "role": "Software Engineer (2027 New Graduate)",
+    "location": "El Segundo, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/nOVTvm/jobs/software-engineer-2027-new-graduate_el-segundo_vdh4nofh",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Saronic",
+    "role": "Forward Deployed Engineer Internship (Summer 2027)",
+    "location": "Austin, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/mhHbjz/jobs/forward-deployed-engineer-internship-summer-2027_austin_iuuyptph",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Saronic",
+    "role": "Software Engineer Intern (Summer 2027 Internship)",
+    "location": "Austin, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/mhHbjz/jobs/software-engineer-intern-summer-2027-internship_austin_rvezyjas",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "SentinelOne",
+    "role": "Staff Endpoint Software Engineer (Prompt (Python & OS Internals))",
+    "location": "New-York, United States",
+    "link": "https://www.welcometothejungle.com/en/companies/ogflB0/jobs/staff-endpoint-software-engineer-prompt-python-os-internals_new-york_j6nadm4w",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "SPX FLOW",
+    "role": "Advanced Manufacturing Engineer Co-op",
+    "location": "Rochester, New York, AMER, United States",
+    "link": "https://career8.successfactors.com/sfcareer/jobreqcareer?jobId=66980&company=spxflowP",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "Stantec",
+    "role": "Civil/Geotechnical Engineering Intern - Water (Summer 2027)",
+    "location": "Nashville, TN, United States",
+    "link": "https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1007943",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "twelvenyc",
+    "role": "Production Intern",
+    "location": "Brooklyn, New York, United States",
+    "link": "https://twelvenyc.bamboohr.com/careers/175",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "understandingwar",
+    "role": "Geospatial Intelligence and National Security Technologies Internship Spring 2027",
+    "location": "Washington, District of Columbia, United States",
+    "link": "https://understandingwar.bamboohr.com/careers/242",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "understandingwar",
+    "role": "Multimedia & Video Production Internship Spring 2027",
+    "location": "Washington, District of Columbia, United States",
+    "link": "https://understandingwar.bamboohr.com/careers/249",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "understandingwar",
+    "role": "Russia Occupation Research Internship Spring 2027",
+    "location": "Washington, District of Columbia, United States",
+    "link": "https://understandingwar.bamboohr.com/careers/246",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "whitneymuseumofamericanart",
+    "role": "[Spring 2027] Exhibition Design Internship",
+    "location": "New York City, NY",
+    "link": "https://whitneymuseumofamericanart.applytojob.com/apply/jobs/details/3brKE2b9uu",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "whitneymuseumofamericanart",
+    "role": "[Spring 2027] Research Resources - Library and Archives Internship",
+    "location": "New York, NY",
+    "link": "https://whitneymuseumofamericanart.applytojob.com/apply/jobs/details/0AQ9bnKPzR",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+  },
+  {
+    "company": "whitneymuseumofamericanart",
+    "role": "[Spring 2027] Technology Services Intern",
+    "location": "New York, NY",
+    "link": "https://whitneymuseumofamericanart.applytojob.com/apply/jobs/details/bmo1YjEORp",
+    "source": "jobhive",
+    "observed_at": "2026-09-23T14:51:07.689914+00:00"
+>>>>>>> b1c9508 (feat: store job descriptions for every listing)
   }
 ]
