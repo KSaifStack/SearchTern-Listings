@@ -59,16 +59,17 @@ def _strip_html(value):
         value = value.decode("utf-8", errors="ignore")
     value = unescape(str(value))
     if "<" not in value:
-        value = re.sub(r"\s+", " ", value).strip()
-        return value or None
-    p = _TextExtractor()
-    try:
-        p.feed(value)
-    except Exception:
-        pass
-    text = unescape("".join(p._buf))
-    text = re.sub(r"\s+", " ", text).strip()
-    return text or None
+        text = re.sub(r"\s+", " ", value).strip()
+    else:
+        p = _TextExtractor()
+        try:
+            p.feed(value)
+        except Exception:
+            pass
+        text = re.sub(r"\s+", " ", unescape("".join(p._buf))).strip()
+    if not text or text.lower() in ("nan", "n/a", "na", "none", "null", "<>"):
+        return None
+    return text
 
 
 def _parse_tier(value):
@@ -1265,6 +1266,44 @@ run_meta = {
 os.makedirs(os.path.join(root_dir, "pages"), exist_ok=True)
 with open(os.path.join(root_dir, "pages", "run_meta.json"), "w", encoding="utf-8") as f:
     json.dump(run_meta, f, indent=2, ensure_ascii=False)
+
+# Sources manifest — every source the pipeline pulls from, with current row
+# counts. Served to the SearchTern web app for its "Data Sources" panel.
+API_SOURCES = [
+    {"name": "Jobhive (ATS)", "url": "https://storage.stapply.ai/jobhive/v1/manifest.json", "type": "internship/newgrad", "count_key": "jobhive"},
+    {"name": "freehire.me", "url": "https://freehire.me", "type": "internship/newgrad", "count_key": "freehire"},
+    {"name": "EchoJobs", "url": "https://echojobs.io", "type": "internship/tech", "count_key": "echojobs"},
+    {"name": "Jobspy (Indeed)", "url": "https://github.com/zanellia/jobspy", "type": "internship", "count_key": "jobspy"},
+    {"name": "ATS career-page probe", "url": "", "type": "internship/newgrad", "count_key": "ats"},
+]
+sources_out = [
+    {
+        "name": s["name"],
+        "url": s["url"],
+        "type": s["type"],
+        "season": s.get("season", ""),
+        "count": int(per_source.get(s["name"], 0)),
+    }
+    for s in markdown_sources.MARKDOWN_SOURCES
+] + [
+    {
+        "name": s["name"],
+        "url": s["url"],
+        "type": s["type"],
+        "season": "",
+        "count": int(per_source.get(s["count_key"], 0)),
+    }
+    for s in API_SOURCES
+]
+sources_out.sort(key=lambda s: s["count"], reverse=True)
+sources_manifest = {
+    "generated_at": obs,
+    "count": len(sources_out),
+    "sources": sources_out,
+}
+with open(os.path.join(root_dir, "pages", "sources.json"), "w", encoding="utf-8") as f:
+    json.dump(sources_manifest, f, indent=2, ensure_ascii=False)
+print(f"  Sources manifest: {len(sources_out)} sources")
 print(f"  Digest: {len(new_rows)} new, {len(closed)} closed, {len(dead_keys)} dead links")
 
 # --- Output Pipelines ---
@@ -1288,6 +1327,37 @@ if not ats_df.empty and "description" in ats_df.columns and not listings_result.
     listings_result["description"] = listings_result.apply(_fill_desc, axis=1)
     n_with_desc = listings_result["description"].notna().sum()
     print(f"  Description coverage: {n_with_desc:,}/{len(listings_result):,} rows")
+
+# Rows with no scraped description get a synthesized one so the feed and
+# Google-for-Jobs JSON-LD always carry substantive text.
+_TYPE_LABEL = {
+    "internship": "Internship",
+    "new_grad": "New grad",
+    "newgrad": "New grad",
+    "full_time": "Full-time",
+    "entry_level": "Early-career",
+}
+
+
+def _synthesize_desc(row):
+    label = _TYPE_LABEL.get(str(row.get("job_type") or "").lower(), "Position")
+    loc = str(row.get("location") or "").strip() or "United States (Remote)"
+    remote = " Remote-eligible." if "remote" in loc.lower() else ""
+    return (
+        f"{label} opening: {row['role']} at {row['company']}. "
+        f"Based in {loc}.{remote} "
+        f"Apply directly through {row['company']}'s careers site."
+    )
+
+
+if "description" in listings_result.columns:
+    empty = listings_result["description"].isna() | (
+        listings_result["description"].astype(str).str.strip() == ""
+    )
+    listings_result.loc[empty, "description"] = listings_result.loc[empty].apply(_synthesize_desc, axis=1)
+    print(
+        f"  Description after synthesize: {listings_result['description'].notna().sum():,}/{len(listings_result):,} rows"
+    )
 
 readme_role_lower = readme_result["role"].str.lower()
 readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
