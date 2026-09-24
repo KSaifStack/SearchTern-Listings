@@ -24,12 +24,8 @@ import markdown_sources
 import pandas as pd
 import readme_generation
 import skillexchange
-<<<<<<< HEAD
-=======
-import startupjobs
 from html import unescape
 from html.parser import HTMLParser
->>>>>>> b1c9508 (feat: store job descriptions for every listing)
 from readme_utils import http_get
 
 import classify
