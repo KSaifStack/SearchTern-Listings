@@ -1,210 +1,1402 @@
 [
   {
-    "company": "Egug",
-    "role": "Campus Graduate Masters Full-Time Senior Analyst - 2027 Data & Analytics, Enterprise Technology Services- Charlotte, NC",
-    "location": "Charlotte, NC, United States",
-    "link": "https://egug.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#26013683",
+    "company": "Bluestaq",
+    "role": "Software Engineering Residency Program",
+    "location": "Colorado Springs",
+    "link": "https://job-boards.greenhouse.io/bluestaq/jobs/4420189009?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Cisco Systems, Inc.",
+    "role": "Software Engineer Full Stack / Backend II (Intern) - United States",
+    "location": "San Jose, United States",
+    "link": "https://www.whatjobs.com/pub_api__cpl__3092668736__7065?geoID=2658&utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "F5 Networks",
+    "role": "Technical Program Manager 1 - Former Intern",
+    "location": "San Jose, Santa Clara County",
+    "link": "https://www.adzuna.com/details/5898305318?utm_medium=api&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "itD Tech",
+    "role": "Data Engineer-6336",
+    "location": "San Jose",
+    "link": "https://job-boards.greenhouse.io/itd/jobs/4420690009?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Lodestar",
+    "role": "Software Engineer I: Payload Engineer",
+    "location": "Los Angeles, US",
+    "link": "https://job-boards.eu.greenhouse.io/lodestarspace/jobs/4987198101?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "BNY External Career Site",
+    "role": "2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY",
+    "location": "New York, NY, United States",
+    "link": "https://eofe.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#81253",
     "source": "jobhive",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Ekaw",
-    "role": "Campus Security Manager",
-    "location": "South Bend, IN, United States",
-    "link": "https://ekaw.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX#175157",
-    "source": "jobhive",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "🔥 AMD",
+    "role": "AI Model Optimization & Software Engineer Intern/Co-op 🎓",
+    "location": "Austin, TX",
+    "link": "https://careers.amd.com/jobs/92526?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Altera",
-    "role": "Physical Design Engineer",
-    "location": "San Jose, California, United States",
-    "link": "https://zapply.jobs/l/d/workday-altera-altera-R02760?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "🔥 AMD",
+    "role": "AI Model Optimization & Software Engineer Intern/Co-op 🎓",
+    "location": "San Jose, CA, Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/92522?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Analog Devices",
-    "role": "Packaging Engineer",
-    "location": "US, CA, San Jose, Rio Robles",
-    "link": "https://zapply.jobs/l/d/workday-analogdevices-external-R265554?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "🔥 AMD",
+    "role": "AI Research Infrastructure – Reinforcement Learning Post-Training Intern 🎓",
+    "location": "Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/90950?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Baxter International",
-    "role": "Production Associate (6:00am - 6:30pm)",
-    "location": "Round Lake, Illinois",
-    "link": "https://zapply.jobs/l/d/workday-baxter-baxter-JR-210603?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "🔥 AMD",
+    "role": "AI Research Intern - Reinforcement Learning and LLM Post-Training 🎓",
+    "location": "Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/91013?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Becton Dickinson",
-    "role": "Quality Engineer – Quality ERP Integration (SAP Quality Module)",
-    "location": "USA MD - Sparks",
-    "link": "https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-550757?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "🔥 AMD",
+    "role": "AI Systems & GPU Performance Engineer Intern 🎓",
+    "location": "San Jose, CA, Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/92354?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Becton Dickinson",
-    "role": "The Quality Systems Specialist II – SAP Quality Data Management",
-    "location": "USA MD - Sparks",
-    "link": "https://zapply.jobs/l/d/workday-bdx-external-career-site-usa-R-550900?s=gh-new-grad-software-engineering-jobs-2027",
+    "company": "🔥 AMD",
+    "role": "Data Analyst Intern/Co-op 🎓",
+    "location": "Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA",
+    "link": "https://careers.amd.com/jobs/91183?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "AMD",
+    "role": "GPU Stack Unified Build & release platform Engineer",
+    "location": "San Jose, CA, United States",
+    "link": "https://zapply.jobs/l/d/amd-92639?s=gh-new-grad-software-engineering-jobs-2027",
     "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 AMD",
+    "role": "Generative AI and Reinforcement Learning Research Intern 🎓",
+    "location": "Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/90910?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 AMD",
+    "role": "HPC and Sovereign AI Center of Excellence Intern/Co-op 🎓",
+    "location": "Austin, TX",
+    "link": "https://careers.amd.com/jobs/92691?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 AMD",
+    "role": "ML Systems Research Engineering Intern 🎓",
+    "location": "Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/90993?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 AMD",
+    "role": "Machine Learning Intern/Co-op - Artificial Intelligence 🎓",
+    "location": "Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA",
+    "link": "https://careers.amd.com/jobs/91181?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 AMD",
+    "role": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence 🎓",
+    "location": "San Jose, CA, Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/91177?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 AMD",
+    "role": "Machine Learning System Engineering Intern/Co-op 🎓",
+    "location": "San Jose, CA, Santa Clara, CA",
+    "link": "https://careers.amd.com/jobs/92342?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Adobe",
+    "role": "Data Scientist, Adobe.com",
+    "location": "San Francisco",
+    "link": "https://zapply.jobs/l/d/workday-adobe-external-experienced-R171757?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "American Express",
+    "role": "Data Analytics Intern - Enterprise Technology Services 🎓",
+    "location": "Charlotte, NC",
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "American Express",
+    "role": "Data Analytics Intern - US Consumer Services 🎓",
+    "location": "NYC",
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "American Express",
+    "role": "Data Management Intern - Global Merchant & Network Services 🎓",
+    "location": "Phoenix, AZ",
+    "link": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "American Heart Association",
+    "role": "Data Science Intern - Machine Learning & AI 🎓",
+    "location": "Dallas, TX",
+    "link": "https://careers-heart.icims.com/jobs/18243/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Amgen",
+    "role": "Machine Learning Engineer Intern 🎓",
+    "location": "Remote in USA",
+    "link": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Ancestry",
+    "role": "Applied AI Science Co-op - Embedding models - Personalization 🎓",
+    "location": "Remote in USA",
+    "link": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Atlassian",
+    "role": "Machine Learning Intern 🎓",
+    "location": "Seattle, WA, SF",
+    "link": "https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Atoms",
+    "role": "Technical Recruiter - AI/ML",
+    "location": "San Francisco, CA",
+    "link": "https://zapply.jobs/l/d/greenhouse-atoms-8828049002?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Biogen",
+    "role": "Data Science & AI Co-op - Portfolio Data & Digital Innovation 🎓",
+    "location": "Remote in USA",
+    "link": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "BioSpace",
+    "role": "2027 Spring Co-op mRNA Drug Substance Process Characterization Data Analytics and Visualization,",
+    "location": "Waltham, MA, United States",
+    "link": "https://jobright.ai/jobs/info/6ab5f9ed634ec6aa7c0d1b41?utm_campaign=Data%20Analysis&utm_source=1103",
+    "source": "GodlyDonuts keryx New Grad",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
     "company": "Boeing",
-    "role": "Hydraulic Systems Engineer (Associate, Experienced, or Lead)",
-    "location": "USA - Oklahoma City, OK",
-    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525261?s=gh-new-grad-jobs-2027",
+    "role": "Aerodynamics Engineer (Aero-Stability & Control Analyst)",
+    "location": "USA - Berkeley, MO",
+    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026520784?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
     "company": "Boeing",
-    "role": "Radiation Environmental Test Engineer (Mid-Level or Senior)",
-    "location": "USA - Ogden, UT",
-    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026521783?s=gh-new-grad-jobs-2027",
+    "role": "Applied Mathematician Intern - Engineering & Technology Innovation 🎓",
+    "location": "North Charleston, SC",
+    "link": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Boeing",
+    "role": "Associate Manufacturing Engineer",
+    "location": "USA - Berkeley, MO",
+    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026524203?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Boeing",
+    "role": "Experienced Electro-Optical Infrared Design, Assembly, Integration, and Test Engineer",
+    "location": "Huntington Beach, CA",
+    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523715?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Boeing",
+    "role": "Manufacturing Research & Development Engineer (Associate)",
+    "location": "USA - Berkeley, MO",
+    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523956?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "role": "Financial Management Analyst",
+    "location": "Washington, DC",
+    "link": "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0250346?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Bowman Consulting",
+    "role": "Civil Engineering Intern - Summer 2027",
+    "location": "Tempe, AZ, United States",
+    "link": "https://jobright.ai/jobs/info/6ab61a61c6fe0dec811a444f?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Brightstar.AI",
+    "role": "Applied AI Engineer Intern - Advancing Agent Quality 🎓",
+    "location": "Miami, FL",
+    "link": "https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Brown & Brown Insurance",
+    "role": "Direct Bill Analyst",
+    "location": "Daytona Beach, FL, USA",
+    "link": "https://zapply.jobs/l/d/workday-bbinsurance-careers-R26_0000003358?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "AI Perception Intern - Pico 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7665457718334425349/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "AI/LLM Network Research Intern - High Speed Network - PhD 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7669969771686775045/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "AI/LLM Network Research Intern - High Speed Network 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7670281454740818181/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7675478684795881781/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Machine Learning Engineer Intern - E-Commerce Risk Control - PhD 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7675477254269765941/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7670855041951795509/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Intern - AI Compute Efficiency & Scheduling 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7668804309487749429/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Intern - AI Compute Efficiency & Scheduling 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7668802153418475829/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Intern - Frontier AI Systems 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7679894132806650165/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Scientist Intern - AI Infra Compute 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7667379221434796341/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Scientist Intern - Distributed NoSQL Database Systems 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7668371456348326149/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Scientist Intern - Multi-modal Agentic Databases 🎓",
+    "location": "San Jose, CA",
+    "link": "https://jobs.bytedance.com/en/position/7667380487805995269/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Scientist Intern - Multi-modal Agentic Databases 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7667380184615127301/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Scientist Intern - Multimedia Streaming 🎓",
+    "location": "San Diego, CA",
+    "link": "https://jobs.bytedance.com/en/position/7670354800621603125/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Research Scientist Intern 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7667379218929780997/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 ByteDance",
+    "role": "Self-Built Engineer Intern - CDN Platform 🎓",
+    "location": "Seattle, WA",
+    "link": "https://jobs.bytedance.com/en/position/7673608499872827701/detail?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "CACI",
+    "role": "Air Defense Electronic Warfare Analyst (Intermiediate)",
+    "location": "Aberdeen Proving Ground, MD, US",
+    "link": "https://zapply.jobs/l/d/workday-caci-external-327303?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "CACI",
+    "role": "Full Stack Software Developer/Engineer",
+    "location": "Sterling VA US",
+    "link": "https://zapply.jobs/l/d/workday-caci-external-327927?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "CACI",
+    "role": "Journeyman Cybersecurity Engineer",
+    "location": "Ashburn, VA, US",
+    "link": "https://zapply.jobs/l/d/workday-caci-external-332454?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
     "company": "Capital One",
-    "role": "Mobile Engineer 4",
-    "location": "Wilmington, DE",
-    "link": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001659?s=gh-new-grad-jobs-2027",
+    "role": "Applied Research Intern 🎓",
+    "location": "San Jose, CA, McLean, VA, NYC",
+    "link": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Capital One",
+    "role": "Full-stack Engineer 4 (Manager, IC - Node.js, TypeScript, AWS)",
+    "location": "McLean, VA",
+    "link": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001666?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Capital One",
+    "role": "Integration Engineer 3 - Application Control",
+    "location": "Plano, TX",
+    "link": "https://zapply.jobs/l/d/workday-capitalone-capital-one-R1001938?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "CaptiveAire Systems",
+    "role": "Technical Inside Sales Engineer",
+    "location": "Gahanna, OH",
+    "link": "https://zapply.jobs/l/d/greenhouse-captiveaire-8843431002?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "CaptiveAire Systems",
+    "role": "Technical Inside Sales Engineer",
+    "location": "Tampa, FL",
+    "link": "https://zapply.jobs/l/d/greenhouse-captiveaire-8843419002?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
     "company": "Caterpillar",
-    "role": "Manufacturing Engineer - CNC Programmer",
-    "location": "East Peoria, Illinois",
-    "link": "https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000392185?s=gh-new-grad-jobs-2027",
+    "role": "Robotics Engineer",
+    "location": "Irving, Texas",
+    "link": "https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000387369?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Cigna",
-    "role": "Pharmacy Production Clerk - Accredo - Onsite",
-    "location": "Orlando, FL",
-    "link": "https://zapply.jobs/l/d/workday-cigna-cignacareers-26010090?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "Centific",
+    "role": "Robotics Intern 🎓",
+    "location": "Redmond, WA, East Palo Alto, CA",
+    "link": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Robotics-Interns_JR107983-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Cisco",
-    "role": "AI Operations Engineer",
-    "location": "RTP, North Carolina, US",
-    "link": "https://zapply.jobs/l/d/workday-cisco-cisco-careers-2021485?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "Citizens Financial Group",
+    "role": "Data Analyst Intern - Multiple Teams 🎓",
+    "location": "Boston, MA, Johnston, RI, Columbus, OH",
+    "link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Danaher",
-    "role": "Quality Systems Training Specialist",
-    "location": "Austin, Texas, United States",
-    "link": "https://zapply.jobs/l/d/workday-danaher-danaherjobs-R1315156?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "company": "Citizens Financial Group",
+    "role": "Data Management Intern - Enterprise Data and Analytics 🎓",
+    "location": "Boston, MA, Johnston, RI, Columbus, OH",
+    "link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Etched",
-    "role": "MTS - Agent Research",
-    "location": "San Jose",
-    "link": "https://zapply.jobs/l/d/ashby-etched-37340964-10d7-4cfc-995d-f41f3819ccc2?s=gh-new-grad-software-engineering-jobs-2027",
+    "company": "Citizens Financial Group",
+    "role": "Data Science Intern - Multiple Teams 🎓",
+    "location": "Boston, MA, Johnston, RI, Columbus, OH",
+    "link": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Crane Co.",
+    "role": "Sales Engineer (Midwest)",
+    "location": "Marion, North Carolina",
+    "link": "https://zapply.jobs/l/d/workday-cranecompany-careers-JR102631?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "CVS Health",
+    "role": "Data Scientist Intern - Grad Conversion 🎓",
+    "location": "Hartford, CT, NYC, Woonsocket, RI, Wellesley, MA",
+    "link": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Data-Scientist---Grad-Intern-Conversion_R1052976?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Dell Technologies",
+    "role": "Global Marketing AI & Data Intern 🎓",
+    "location": "Round Rock, TX",
+    "link": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299054?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Dimensional Fund Advisors",
+    "role": "Global Client Group Intern - Data and Tools - Undergraduate and Master's 🎓",
+    "location": "Austin, TX",
+    "link": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Global-Client-Group---Data-and-Tools--Undergraduate---Master-s-_2026-9003?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Dimensional Fund Advisors",
+    "role": "Investment Engineering Intern - Undergraduate & Master's 🎓",
+    "location": "Austin, TX, Charlotte, NC",
+    "link": "https://dimensional.wd5.myworkdayjobs.com/dfa_careers/job/Austin/Internship-in-Investment-Engineering--Undergraduate---Master-s-_2026-9025?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Emerson Electric",
+    "role": "AI Engineering Co-Op",
+    "location": "Marshalltown, IA, United States",
+    "link": "https://zapply.jobs/l/d/oracle-emerson-electric-26007510?s=gh-new-grad-data-science-jobs-2027",
+    "source": "zapplyjobs New Grad Data Science 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Equifax",
+    "role": "Data Analytics Intern 🎓",
+    "location": "Alpharetta, GA",
+    "link": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data-Analytics-Intern_J00178975-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Fidelity Investments",
+    "role": "Advanced Data Analytics and Insights Co-op 🎓",
+    "location": "Boston, MA",
+    "link": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Advanced-Data-Analytics-and-Insights_2135232?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Fidelity Investments",
+    "role": "Machine Learning Co-op - Graph Technology Team 🎓",
+    "location": "Boston, MA",
+    "link": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Co-op--Machine-Learning_2135237?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Flagship Pioneering",
+    "role": "Agentic AI Co-op 🎓",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "General Motors",
+    "role": "Global Customer Research Intern 🎓",
+    "location": "Washington, DC, Warren, MI",
+    "link": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Genesis Molecular AI",
+    "role": "Machine Learning Research Intern - PhD 🎓",
+    "location": "California, NYC",
+    "link": "https://jobs.ashbyhq.com/genesis-molecular-ai/5b62eacf-e930-4bc8-8fc7-30c213c02127/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Google",
+    "role": "Data Scientist Intern - Product 🎓",
+    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Ann Arbor, MI, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Google",
+    "role": "Research Intern - PhD 🎓",
+    "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+    "link": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Gordon Food Service",
+    "role": "Material Master Data Intern 🎓",
+    "location": "Wyoming, MI",
+    "link": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Material-Master-Data-Internship_R-57186?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Gordon Food Service",
+    "role": "Vendor & Customer Master Data Intern - Master Data 🎓",
+    "location": "Wyoming, MI",
+    "link": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Vendor---Customer-Master-Data-Internship_R-57341?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "GrayMatter Robotics",
+    "role": "AI Research Intern - Foundation Models 🎓",
+    "location": "LA, Carson, CA",
+    "link": "https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Gritt",
+    "role": "Robotics Planning & Controls Intern 🎓",
+    "location": "South SF",
+    "link": "https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Guidehouse",
+    "role": "Financial Analyst",
+    "location": "DC, Washington",
+    "link": "https://zapply.jobs/l/d/workday-guidehouse-external-44393?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "HDR",
+    "role": "BIM Engineering Intern (Summer 2027)",
+    "location": "Omaha, NE, United States",
+    "link": "https://jobright.ai/jobs/info/6ab619b9d85922de20ce4526?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "HDR",
+    "role": "Data Science Intern (Summer 2027)",
+    "location": "Omaha, NE, United States",
+    "link": "https://jobright.ai/jobs/info/6ab619ffb3db59402d0ffe85?utm_campaign=1066&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "HDR",
+    "role": "Geotechnical Engineering Intern (Summer 2027)",
+    "location": "Glen Allen, VA, United States",
+    "link": "https://jobright.ai/jobs/info/6ab61754634ec6aa7c0d21b1?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "HD Supply",
+    "role": "Artificial Intelligence and Data Science Intern - Artificial Intelligence & Data Science 🎓",
+    "location": "Atlanta, GA",
+    "link": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Intel",
+    "role": "Operations Research Engineering Analytics Intern 🎓",
+    "location": "Phoenix, AZ",
+    "link": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Operations-Research--Engineering-Analytics-Graduate-Intern_JR0286502?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Intuit",
+    "role": "AI Research Intern 🎓",
+    "location": "Mountain View, CA",
+    "link": "https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "role": "Commercial Data Science & AI Co-op 🎓",
+    "location": "Raritan, NJ",
+    "link": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099258?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "KBR",
+    "role": "Communications Satellite (COMSAT) Technical Analysis Engineer / Analyst",
+    "location": "Beavercreek Township, Ohio",
+    "link": "https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2129149?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "KLA",
+    "role": "Algorithm Engineering Intern 🎓",
+    "location": "Milpitas, CA",
+    "link": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Kitware",
+    "role": "AI Research Intern 🎓",
+    "location": "Clifton Park, NY",
+    "link": "https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75/apply?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "KLA Corporation",
+    "role": "Algorithm Engineering Intern 🎓",
+    "location": "Milpitas, CA",
+    "link": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Knight Piesold USA",
+    "role": "Mechanical Engineer Internship - Summer 2027",
+    "location": "Denver, CO, United States",
+    "link": "https://jobright.ai/jobs/info/6ab6016b634ec6aa7c0d1d7c?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Lennox International",
+    "role": "AI Engineering Intern - Summer 2027 🎓",
+    "location": "Richardson, TX",
+    "link": "https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Lowe's",
+    "role": "Software Engineer - ML",
+    "location": "Lowe's Charlotte Technology Hub...",
+    "link": "https://zapply.jobs/l/d/workday-lowes-lws-external-cs-JR-02585888?s=gh-new-grad-software-engineering-jobs-2027",
     "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "GlobalFoundries",
-    "role": "Testsite Engineer, Quantum",
-    "location": "Essex Junction",
-    "link": "https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2605433?s=gh-new-grad-jobs-2027",
+    "company": "Marvell",
+    "role": "Ph.D. Intern - AI/ML & Design Automation 🎓",
+    "location": "Morrisville, NC, Austin, TX, Irvine, CA, Santa Clara, CA, Westlake Village, CA, Boise, ID, Burlington, VT, Chandler, AZ, Westborough, MA",
+    "link": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/PhD-Intern---AI-ML---Design-Automation_2604412?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Micron Technology",
+    "role": "AI Systems and Infrastructure Engineering Intern 🎓",
+    "location": "Austin, TX",
+    "link": "https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Micron Technology",
+    "role": "Yield Enhancement Intern - Data Analysis 🎓",
+    "location": "Boise, ID",
+    "link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Yield-Enhancement--Data-Analysis_JR109076?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Cloud Solution Architecture - Copilot & Agents",
+    "location": "United States",
+    "link": "https://zapply.jobs/l/d/microsoft-200057413?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "JLL",
-    "role": "Automation Engineer",
-    "location": "Kenosha, WI",
-    "link": "https://zapply.jobs/l/d/workday-jll-jllcareers-REQ506208?s=gh-new-grad-software-engineering-jobs-2027",
+    "company": "Modal",
+    "role": "Machine Learning Research Intern 🎓",
+    "location": "SF, NYC",
+    "link": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Navy Federal",
+    "role": "Business Intelligence Analyst Intern 🎓",
+    "location": "Winchester, VA, Virginia Beach, VA, Pensacola, FL, Jacksonville, FL, Vienna, VA",
+    "link": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Navy Federal",
+    "role": "Data Scientist Intern 🎓",
+    "location": "Vienna, VA",
+    "link": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Navy Federal",
+    "role": "Data Scientist Intern 🎓",
+    "location": "Winchester, VA, Pensacola, FL, Vienna, VA",
+    "link": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Navy Federal",
+    "role": "Summer Associate Internship - Fraud Data Governance 🎓",
+    "location": "Vienna, VA",
+    "link": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Netflix",
+    "role": "Machine Learning Scientist Intern - AI 🎓",
+    "location": "Los Gatos, CA",
+    "link": "https://explore.jobs.netflix.net/careers/job/790317916733?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Northrop Grumman",
+    "role": "2027 Associate Propulsion Engineer - Palm Beach Gardens FL",
+    "location": "United States-Florida-Palm...",
+    "link": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253058?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "NTT DATA AIVista",
+    "role": "AI Scientist Intern 🎓",
+    "location": "Palo Alto, CA, SF",
+    "link": "https://jobs.ashbyhq.com/ntt-data-aivista/75f9f312-1cf9-4141-b352-60cb2fac8fe9/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 NVIDIA",
+    "role": "PhD Research Intern - Quantum Simulation and AI 🎓",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 NVIDIA",
+    "role": "PhD Research Intern 🎓",
+    "location": "Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 NVIDIA",
+    "role": "Research Intern - Robotics 🎓",
+    "location": "Seattle, WA, Santa Clara, CA",
+    "link": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "NXP Semiconductors",
+    "role": "Embedded Machine Learning & Radar Processing Intern - Summer 2027 🎓",
+    "location": "San Jose, CA",
+    "link": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/San-Jose-Holger-Way/Embedded-Machine-Learning---Radar-Processing-Intern---Summer-2027_R-10065534?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "ONE Finance",
+    "role": "AI Research Intern 🎓",
+    "location": "United States",
+    "link": "https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Oracle",
+    "role": "NA Data Platform/OCI Sales Representative, Higher ED - Mid Atlantic",
+    "location": "United States",
+    "link": "https://zapply.jobs/l/d/oracle-oracle-344903?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Palantir",
+    "role": "Software Engineer – Query Engines",
+    "location": "New York, NY",
+    "link": "https://zapply.jobs/l/d/lever-palantir-a576c5ef-2a51-4522-9c98-bca5ac2abbb3?s=gh-new-grad-software-engineering-jobs-2027",
     "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Morgan Stanley",
-    "role": "Wealth Management, OCIO Defined Contribution Retirement - Analyst/Associate",
-    "location": "New York, New York, United...",
-    "link": "https://zapply.jobs/l/d/workday-ms-external-PT-JR044754?s=gh-new-grad-jobs-2027",
+    "company": "Perpay",
+    "role": "Data Engineering Intern 🎓",
+    "location": "Philadelphia, PA",
+    "link": "https://job-boards.greenhouse.io/perpay/jobs/4076965007?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Perpay",
+    "role": "Data Science Intern 🎓",
+    "location": "Philadelphia, PA",
+    "link": "https://job-boards.greenhouse.io/perpay/jobs/4076978007?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Persona AI",
+    "role": "Machine Learning Intern - Manipulation 🎓",
+    "location": "Houston, TX",
+    "link": "https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Philips",
+    "role": "Data Scientist Co-op 🎓",
+    "location": "Plymouth, MN",
+    "link": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Procter & Gamble",
+    "role": "Data Science and Machine Learning PhD Intern 🎓",
+    "location": "Mason, OH",
+    "link": "https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Data-Science-and-Machine-Learning_R000158138?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Procter & Gamble",
+    "role": "Data Scientist Intern 🎓",
+    "location": "Cincinnati, OH",
+    "link": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Prolific",
+    "role": "Business Analyst ( Product Operations Specialist) ( 3 Month Contract)",
+    "location": "New York",
+    "link": "https://zapply.jobs/l/d/greenhouse-prolific-4987389101?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Peraton",
-    "role": "Junior Level Systems Engineer",
-    "location": "Chantilly, VA, US",
-    "link": "https://www.indeed.com/viewjob?jk=4110f54efa8e45f0",
+    "company": "Qualcomm",
+    "role": "Computer Vision Engineer",
+    "location": "San Diego, CA",
+    "link": "https://zapply.jobs/l/d/qualcomm-3097144?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Q2",
+    "role": "Data Science Intern",
+    "location": "Austin, TX",
+    "link": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Q2",
+    "role": "Machine Learning Intern",
+    "location": "Austin, TX",
+    "link": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Rivian",
+    "role": "Supply Chain Data, AI and Business Intelligence Co-op Intern 🎓",
+    "location": "Normal, IL",
+    "link": "https://careers.rivian.com/jobs/33800?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Sanofi",
+    "role": "Machine Learning AI Co-op - Quantitative Pharmacology 🎓",
+    "location": "Cambridge, MA",
+    "link": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/XMLNAME-2027-Spring-Co-op-Machine-Learning-AI--Cambridge--MA_R2864862?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Scrap Labs",
+    "role": "Mechanical Engineering Intern, Machine Design (Summer 2027)",
+    "location": "Boulder, CO, United States",
+    "link": "https://jobright.ai/jobs/info/6ab60a36d85922de20ce42bb?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Shure",
+    "role": "Applied Research Science Intern 🎓",
+    "location": "Niles, IL",
+    "link": "https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Shure",
+    "role": "Audio Applied Research Science Intern 🎓",
+    "location": "Niles, IL",
+    "link": "https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Smith+Nephew",
+    "role": "Intern AI Center of Excellence Data Science",
+    "location": "US - Pittsburgh, PA",
+    "link": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
+    "source": "zshah101 Summer 2027 US",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Smith+Nephew",
+    "role": "Intern Robotics Software Engineering",
+    "location": "US - Pittsburgh, PA",
+    "link": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482",
+    "source": "zshah101 Summer 2027 US",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "[Snowflake](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true)",
+    "role": "Software Engineer Intern",
+    "location": "Menlo Park, CA, Bellevue, WA",
+    "link": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true",
+    "source": "SuryaHarikrishnan SWE Track",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Stantec",
+    "role": "Entry Level Geologist/Environmental Scientist/Environmental Engineer",
+    "location": "Alpharetta, GA, US",
+    "link": "https://www.indeed.com/viewjob?jk=bce5014c9fb7b022",
     "source": "jobspy",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "PNC Financial Services",
-    "role": "Treasury /Funds Transfer Analyst",
-    "location": "Home Location CA CAH01",
-    "link": "https://zapply.jobs/l/d/workday-pnc-external-R229618?s=gh-new-grad-jobs-2027",
+    "company": "State Farm",
+    "role": "Data Science Intern - Magnet Program - Online MS Analytics 🎓",
+    "location": "Athens, GA",
+    "link": "https://jobs.statefarm.com/jobs/46057?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "State Farm",
+    "role": "Data Science Intern - Magnet Program 🎓",
+    "location": "Tempe, AZ",
+    "link": "https://jobs.statefarm.com/jobs/46353?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "State Street",
+    "role": "Software Engineering & Development",
+    "location": "Boston, Massachusetts",
+    "link": "https://zapply.jobs/l/d/workday-statestreet-global-R-798579?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Stripe",
+    "role": "Partner Solutions Engineer, Operational Excellence",
+    "location": "NYC",
+    "link": "https://zapply.jobs/l/d/greenhouse-stripe-8227563?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Salesforce",
-    "role": "Value Acceleration Engineer LMTS",
-    "location": "California San Francisco",
-    "link": "https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360491?s=gh-new-grad-jobs-2027",
+    "company": "Textron",
+    "role": "2027 Summer Intern - Aerospace Engineering – Fort Worth",
+    "location": "Fort Worth, TX, United States",
+    "link": "https://jobright.ai/jobs/info/6ab6207bc6fe0dec811a44b2?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Textron",
+    "role": "2027 Summer Intern - Electrical Engineering – Fort Worth",
+    "location": "Fort Worth, TX, United States",
+    "link": "https://jobright.ai/jobs/info/6ab6207a4873fd3fd852ccd0?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Textron",
+    "role": "2027 Summer Intern - Production Engineering - Amarillo TX",
+    "location": "Amarillo, TX, United States",
+    "link": "https://jobright.ai/jobs/info/6ab62079b3db59402d0ffef8?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Textron",
+    "role": "2027 Summer Intern - Software/Computer Science Engineering - Fort Worth",
+    "location": "Fort Worth, TX, United States",
+    "link": "https://jobright.ai/jobs/info/6ab6207ab3db59402d0ffefb?utm_campaign=1079&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "The Aerospace Corporation",
+    "role": "Machine Learning Engineering Intern 🎓",
+    "location": "Colorado Springs, CO, El Segundo, CA",
+    "link": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Data Science Intern - Summer 2027 🎓",
+    "location": "Chicago, IL, Charlotte, NC, Hartford, CT",
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Data-Science-Intern---Summer-2027_R2627114?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "The Hartford",
+    "role": "Tech & Data Program Summer 2027 - Software Engineer Intern (Charlotte)",
+    "location": "Charlotte, NC",
+    "link": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
+    "source": "zshah101 Summer 2027 US",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "The Home Depot",
+    "role": "Data Science Intern 🎓",
+    "location": "Atlanta, GA",
+    "link": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---PhD-Data-Science_Req191948?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Thorlabs",
+    "role": "Manufacturing Engineer I",
+    "location": "Newton, New Jersey",
+    "link": "https://zapply.jobs/l/d/workable-thorlabs-5BE1222DDB?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Salesforce",
-    "role": "Value Acceleration Engineer SMTS",
-    "location": "California San Francisco",
-    "link": "https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR360492?s=gh-new-grad-jobs-2027",
+    "company": "TikTok",
+    "role": "Data Science Intern (TikTok Product) - 2027 Summer",
+    "location": "San Jose, CA, United States",
+    "link": "https://jobright.ai/jobs/info/6a7284f8ee751e0c793493e5?utm_campaign=1047&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 TikTok",
+    "role": "Research Engineer Intern - Monetization Technology - Business Integrity 🎓",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7668204394458466565?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Toyota Research Institute",
+    "role": "Human-Centered AI Research Intern - Causal Reasoning Models 🎓",
+    "location": "Los Altos, CA",
+    "link": "https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Toyota Research Institute",
+    "role": "Robotics Research Intern - Post-Training 🎓",
+    "location": "Los Altos, CA",
+    "link": "https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0/apply?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "TWG Global",
+    "role": "Data Science Intern - SOLT 🎓",
+    "location": "Santa Monica, CA",
+    "link": "https://apply.workable.com/twgai/j/263B34D737/apply?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "United Airlines",
+    "role": "Intern - Resource Planning - Industrial Engineering (Summer 2027)",
+    "location": "Chicago, IL, United States",
+    "link": "https://jobright.ai/jobs/info/6ab61f16634ec6aa7c0d2253?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "United Airlines",
+    "role": "Intern Ops Data Product & Anlytcs (Summer 2027)",
+    "location": "Chicago, IL, United States",
+    "link": "https://jobright.ai/jobs/info/6ab61f13634ec6aa7c0d2252?utm_campaign=1066&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "University of Texas at Austin",
+    "role": "Clinical Research Coordinator",
+    "location": "AUSTIN, TX",
+    "link": "https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049039?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Silicon Engineering",
-    "location": "Irvine, CA",
-    "link": "https://boards.greenhouse.io/spacex/jobs/8706884002?gh_jid=8706884002",
-    "source": "GodlyDonuts keryx New Grad",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
-  },
-  {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Silicon Engineering",
-    "location": "Palo Alto, CA",
-    "link": "https://boards.greenhouse.io/spacex/jobs/8703552002?gh_jid=8703552002",
-    "source": "GodlyDonuts keryx New Grad",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
-  },
-  {
-    "company": "SpaceX",
-    "role": "Site Reliability Engineer, Kubernetes Platform (Top Secret Clearance)",
-    "location": "Hawthorne, CA",
-    "link": "https://zapply.jobs/l/d/greenhouse-spacex-8843951002?s=gh-new-grad-jobs-2027",
+    "company": "University of Texas at Austin",
+    "role": "Data Analyst II",
+    "location": "UT MAIN",
+    "link": "https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049037?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   },
   {
-    "company": "Visa",
-    "role": "Pricing Analyst",
+    "company": "University of Texas at Austin",
+    "role": "Procurement and Events Coordinator, Wireless Networking and Communications Group in Cockrell...",
+    "location": "UT MAIN",
+    "link": "https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049025?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "University of Texas at Austin",
+    "role": "Research Engineering/ Scientist Associate III",
+    "location": "AUSTIN, TX",
+    "link": "https://zapply.jobs/l/d/workday-utaustin-utstaff-R_00049047?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Visa",
+    "role": "Research Scientist Intern - Quantum 🎓",
     "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/workday-visa-visa-REF087854W?s=gh-new-grad-jobs-2027",
+    "link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Quantum_REF088578W-2?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Visa",
+    "role": "Staff Research Scientist Intern - Agentic AI 🎓",
+    "location": "Austin, TX",
+    "link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "🔥 Visa",
+    "role": "Staff Research Scientist Intern - Foundational AI 🎓",
+    "location": "Foster City, CA",
+    "link": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Staff-Research-Scientist--Intern---PhD-Foundational-AI_REF088579W-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Valero",
+    "role": "Chemical Engineering Intern (Summer 2027) – U.S. Refining Locations",
+    "location": "Wilmington, CA, United States",
+    "link": "https://jobright.ai/jobs/info/6ab600bdd85922de20ce4079?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Valero",
+    "role": "Mechanical Engineering Intern (Summer 2027) – U.S. Refining Locations",
+    "location": "Wilmington, CA, United States",
+    "link": "https://jobright.ai/jobs/info/6ab600b6d85922de20ce4074?utm_campaign=1048&utm_source=git",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Veolia Environnement SA",
+    "role": "Commissioning Field Service Engineer",
+    "location": "Minnetonka, MN",
+    "link": "https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151840695?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-09-25T04:07:36.053476+00:00"
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Veolia Environnement SA",
+    "role": "Electrical & Instrumentation Engineer",
+    "location": "Bellevue, WA",
+    "link": "https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151837651?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Veolia Environnement SA",
+    "role": "Field Service Engineer",
+    "location": "Bellevue, WA",
+    "link": "https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151834274?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Veolia Environnement SA",
+    "role": "I&C Project Engineer",
+    "location": "Cary, NC",
+    "link": "https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151832884?s=gh-new-grad-software-engineering-jobs-2027",
+    "source": "zapplyjobs New Grad SWE 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "Vertiv",
+    "role": "Service Technology Research Intern - Summer 2027 🎓",
+    "location": "Westerville, OH",
+    "link": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "X Development",
+    "role": "PhD Resident - Earth Scientist AI Resident - Early Stage Project 🎓",
+    "location": "Mountain View, CA",
+    "link": "https://x.company/careers/8784053002?gh_jid=8784053002&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
+  },
+  {
+    "company": "ZS",
+    "role": "Advanced Data Science Associate Intern - University Students 🎓",
+    "location": "South SF, Chicago, IL, Princeton, NJ, Bellevue, WA",
+    "link": "https://jobs.zs.com/jobs/63368?icims=1&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-09-25T13:24:46.957101+00:00"
   }
 ]
