@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-25T13:24:46.957101+00:00",
-  "total": 13943,
+  "generated_at": "2026-09-25T13:29:27.881033+00:00",
+  "total": 13731,
   "per_source": {
-    "jobhive": 4540,
-    "SimplifyJobs Off-Season 2027": 1245,
-    "SimplifyJobs New Grad": 858,
-    "SuryaHarikrishnan SWE Track": 748,
-    "GodlyDonuts keryx Internships": 664,
-    "freehire": 594,
-    "speedyapply SWE New Grad USA": 531,
-    "SimplifyJobs Summer 2027": 495,
+    "jobhive": 4539,
+    "SimplifyJobs Off-Season 2027": 959,
+    "SuryaHarikrishnan SWE Track": 752,
+    "SuryaHarikrishnan DS/AI": 741,
+    "SimplifyJobs New Grad": 676,
+    "GodlyDonuts keryx Internships": 671,
+    "freehire": 589,
+    "speedyapply SWE New Grad USA": 529,
     "speedyapply SWE 2027": 459,
     "SuryaHarikrishnan Hardware": 456,
     "zapplyjobs New Grad SWE 2027": 387,
@@ -34,14 +34,14 @@
     "zapplyjobs Canada 2027": 2,
     "jobspy": 1
   },
-  "new": 175,
-  "closed": 3265,
-  "dead_links": 5,
+  "new": 2,
+  "closed": 324,
+  "dead_links": 6,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
+    "freehire": false,
     "ats": true,
-    "md": true
+    "md": false
   },
   "markdown_source_stats": [
     {

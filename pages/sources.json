@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:24:46.957101+00:00",
+  "generated_at": "2026-09-25T13:29:27.881033+00:00",
   "count": 45,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 4540
+      "count": 4539
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
