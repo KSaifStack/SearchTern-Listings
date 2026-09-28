@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 17
 
-**Page 17 of 36 — 19,271 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 17 of 36 — 19,161 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-16.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-18.md)
 
@@ -22,888 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/aevexaerospace/jobs/5415815008"><strong>Aevex Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Engineering Co-op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tampa<br>Florida<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/aevexaerospace/jobs/5415815008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6"><strong>Reflect Orbital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hawthorne<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/graphcore/jobs/8841920002"><strong>Graphcore</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>Texas<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/graphcore/jobs/8841920002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151387389"><strong>Smiths Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">603 Hendee Street<br>Springfield<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/SmithsGroup2/744000151387389" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a"><strong>Hermeus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Build Reliability Engineering Intern - Spring...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/hermeus/ee3a4109-b6e7-4ed5-8981-a483b3936e5a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc"><strong>Shield Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 - Mechanical Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>Washington</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000150768179"><strong>Re Spec Inc</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Student Engineering Intern - Water/Wastewater</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Denver<br>CO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000150768179" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000150764620">↳ <strong>Re Spec Inc</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Student Engineering Intern - Water/Wastewater</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Colorado Springs<br>CO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/RESPECInc/744000150764620" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/rocketlab/jobs/8000958003"><strong>Rocket Lab</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Thermal Engineering Intern Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Long Beach<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/rocketlab/jobs/8000958003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/rocketlab/jobs/8000951003">↳ <strong>Rocket Lab</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Thermal Engineering Intern Spring 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Long Beach<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/rocketlab/jobs/8000951003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820"><strong>Field Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Research Internship, Humanoid Manipu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba">↳ <strong>Field Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Research Internship, Humanoid Manipu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/ginkgobioworks/jobs/5249264007"><strong>Ginkgo Bioworks</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Automation Scientist Intern, RAC Operations</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>Massachusetts</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/ginkgobioworks/jobs/5249264007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/astranis/jobs/4704778006"><strong>Astranis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Harness Design Engineer Intern (Winter 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/astranis/jobs/4704778006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/astranis/jobs/4704779006">↳ <strong>Astranis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Harness Design Engineer Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/astranis/jobs/4704779006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/oneapp/ae9fcbfc-424f-4d17-9712-3ea3126e1063"><strong>One Finance</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/oneapp/ae9fcbfc-424f-4d17-9712-3ea3126e1063" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/togetherai/jobs/5238468007"><strong>Together Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern, Frontier Agents (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/togetherai/jobs/5238468007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/togetherai/jobs/5238467007">↳ <strong>Together Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern, Frontier Agents (Winter 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/togetherai/jobs/5238467007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/togetherai/jobs/5238411007">↳ <strong>Together Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Systems Research Engineer Intern - GPU Progra...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/togetherai/jobs/5238411007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/upstart/jobs/8213476"><strong>Upstart</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/upstart/jobs/8213476" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/epicgames/jobs/6193647004"><strong>Epic Games</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Game Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>North Carolina<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/epicgames/jobs/6193647004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/eulerity/jobs/4714367006"><strong>Eulerity</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technical Product Marketing Intern - AI &amp; Aut...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/eulerity/jobs/4714367006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/kitware/db050983-7500-4b6d-96f5-19b75d5d7515"><strong>Kitware</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Physics-Based Modeling Research Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carrboro<br>North Carolina</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/kitware/db050983-7500-4b6d-96f5-19b75d5d7515" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/waymo/jobs/8198582">🔥 <strong>Waymo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern, MBA, Salesforce Product O...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>California<br>United...</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/waymo/jobs/8198582" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd"><strong>Base Power</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/base-power/5edd4bd5-ed18-4bb6-bad4-ab67d95f00bd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/epicgames/jobs/6148799004"><strong>Epic Games</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Level Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>North Carolina<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/epicgames/jobs/6148799004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3"><strong>Rigetti</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern: Scalable Fabrication of Supe...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Berkeley<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/boxinc/jobs/8226667"><strong>BOX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cloud &amp; AI Finance Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redwood City<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/boxinc/jobs/8226667" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/queracomputinginc/jobs/5435902008"><strong>Quera Computing</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Scientific Software and Compilation</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/queracomputinginc/jobs/5435902008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/queracomputinginc/jobs/5435901008">↳ <strong>Quera Computing</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Quantum Applications Research</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/queracomputinginc/jobs/5435901008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/queracomputinginc/jobs/5435899008">↳ <strong>Quera Computing</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship - Quantum Error Correction Research</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/queracomputinginc/jobs/5435899008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/astranis/jobs/4704826006"><strong>Astranis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Integration Intern - Avionics (Win...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/astranis/jobs/4704826006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/astranis/jobs/4704795006">↳ <strong>Astranis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Integration Associate - Avionics (...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/astranis/jobs/4704795006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948629"><strong>Veolia Environnem...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research &amp; Development Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Plainfield<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948629" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948159">↳ <strong>Veolia Environnem...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cost Accounting Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Minnetonka<br>MN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151948159" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/waymo/jobs/8227411">🔥 <strong>Waymo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern, MS/PhD, Perception, Machi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/waymo/jobs/8227411" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004">🔥 <strong>Figma</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern - 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004">🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PhD Research Intern - Quantum Simulation and ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004">🔥 <strong>Figma</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PhD Intern - Data Science - 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556868271">🔥 <strong>Microsoft</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Science: PhD Microsoft AI Internship ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556868271" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928">↳ 🔥 <strong>Microsoft</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science: PhD Internship Opportunities - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393556982928" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7686283601340369205">🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7686283601340369205" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004">🔥 <strong>Figma</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406">🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Fundamental Generative AI -...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025">↳ 🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PhD Research Intern - Generative AI for Physi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406">🔥 <strong>Google</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Research Intern - PhD - Summ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA +30</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/89965613241246406" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830">↳ 🔥 <strong>Google</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Data Scientist Intern - PhD - Summer...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA +30</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/134577198026629830" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171">🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PhD Research Intern - Autonomous Systems and ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">14d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002">🔥 <strong>LYFT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002">↳ 🔥 <strong>LYFT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - Algorithms - Summer 202...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002">↳ 🔥 <strong>LYFT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - Algorithms - Summer 202...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322"><strong>Rivian</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineering Intern - AI &amp; Analytics - Ja...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Palo Alto<br>CA +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7681783406632782085">🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern - Data Platfrom TikTok B...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7681783406632782085" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519">🔥 <strong>Adobe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Intern - Machine Learning Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +4</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">27d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://netflix.wd108.myworkdayjobs.com/en-US/netflix/job/Los-Gatos/Machine-Learning-AI-Infrastructure-Engineering-Intern--AI-Platform--PhD--Winter-2027_JR42220">🔥 <strong>Netflix</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning/AI Infrastructure Engineerin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Gatos<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://netflix.wd108.myworkdayjobs.com/en-US/netflix/job/Los-Gatos/Machine-Learning-AI-Infrastructure-Engineering-Intern--AI-Platform--PhD--Winter-2027_JR42220" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://netflix.wd108.myworkdayjobs.com/en-US/netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-PhD-Intern--Winter-2027_JR42217">↳ 🔥 <strong>Netflix</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning/AI Scientist PhD Intern - Wi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Gatos<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://netflix.wd108.myworkdayjobs.com/en-US/netflix/job/Los-Gatos/Machine-Learning-AI-Scientist-PhD-Intern--Winter-2027_JR42217" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7676650607912601861">🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7676650607912601861" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7676652813409552645">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7676652813409552645" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7676250516494436661">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern - E-commerce - 2027 Summer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7676250516494436661" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.metacareers.com/jobs/1796691991338568">🔥 <strong>META</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Intern - Optical System De...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.metacareers.com/jobs/1796691991338568" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7675847556668295429">🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7675847556668295429" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7675845333947812149">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7675845333947812149" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491">🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">NVIDIA 2027 Internships: Deep Learning Comput...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning-Computer-Architecture_JR2023491" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1">↳ 🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">NVIDIA 2027 Internships: Deep Learning</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7675080308216154373">🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Project Intern - Advertisement T...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7675080308216154373" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7674029136531015941">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7674029136531015941" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7674032146438162693">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern - Data Platform Global L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7674032146438162693" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7673226686054107445">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - Advertisement Team - 20...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7673226686054107445" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7672920375646488885">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7672920375646488885" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7672671220798818613">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Infra Engineer Intern - Recommendation &amp; L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7672671220798818613" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7671232204182276405">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern - Monetization Data - 20...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7671232204182276405" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7670875283026053381">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning MLOps Intern - Global SRE - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7670875283026053381" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7670876223732762933">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Recommendation Architecture AI/ML Infrastruct...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7670876223732762933" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7670285031018432773">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">LLM Post-training Engineer Intern - Research ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7670285031018432773" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7670247810111768837">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - E-Commerce...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7670247810111768837" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7670287013157095733">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist Intern - VOD Data - 2027 Summer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7670287013157095733" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7670120579999385861">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Infrastructure Engineer Intern - Algorithm...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7670120579999385861" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669683639101884725">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - TikTok Product - 2027 S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669683639101884725" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669682935444900149">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - TikTok Integrity and Sa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669682935444900149" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669711968043092229">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Commerce A...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669711968043092229" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669709472078170373">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - App Ads an...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669709472078170373" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669707492914727221">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Lead Ads -...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669707492914727221" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669702702763018501">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Commercial...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669702702763018501" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669700822370945333">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - TikTok LIVE - 2027 Summer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669700822370945333" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669700361976809733">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Ads Signal...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669700361976809733" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669698648817305909">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Search Ads...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669698648817305909" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669693205558561077">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">General Hire Machine Learning Engineer Intern...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669693205558561077" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7669693163422845237">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">General Hire Machine Learning Engineer Intern...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7669693163422845237" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668881813744191749">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ML Infra Engineer Intern - Ads Infra - 2027 S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668881813744191749" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668383643375257909">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - TikTok-Dat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668383643375257909" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668379675467761925">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - TikTok-Dat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668379675467761925" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668654528822954245">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Brand Ads ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668654528822954245" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668533140146817333">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineering Project Intern - Ads Targeti...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668533140146817333" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668415591670417717">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Data-Globa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668415591670417717" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668396597746862341">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - Data-Globa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668396597746862341" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668381860191734021">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - TikTok-Dat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668381860191734021" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668204438271969589">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Intern - Monetization Tech...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668204438271969589" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668183035989281029">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Generative AI Researcher Intern - Intelligent...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668183035989281029" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668202600147552517">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Intern - Monetization Tech...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668202600147552517" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667857406611343621">🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Engineering Intern - Design System &amp; A...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667857406611343621" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667935738840090933">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Intern - TikTok-Neural Gra...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667935738840090933" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667935738190465285">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern - TikTok-Client Arch- 2027...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667935738190465285" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667935568626043141">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer Intern - Agentic Systems &amp; ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667935568626043141" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667934792727906565">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer Intern - Agentic Systems &amp; ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667934792727906565" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667934169444485429">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Scientist Intern - TikTok-Lo...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667934169444485429" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667933770625599749">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Scientist Intern - TikTok - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667933770625599749" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7667690418804902149">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Intern - TikTok-Dat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7667690418804902149" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414"><strong>Hudson River Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist Intern - 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/"><strong>Citadel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Researcher - Post-Doctoral Inter...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX +2</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.citadel.com/careers/details/quantitative-researcher-post-doctoral-intern-us/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/"><strong>Citadel Securities</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Researcher - Post-Doctoral Inter...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.citadelsecurities.com/careers/details/quantitative-researcher-post-doctoral-intern-us/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172074"><strong>Schonfeld</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 PhD Quantitative Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172074" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076">↳ <strong>Schonfeld</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 PhD Quantitative Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8172076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171692"><strong>Schonfeld</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Data Science Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171692" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">23d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"><strong>Citadel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sector Data Scientist - 2027 Intern - US</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fox.wd1.myworkdayjobs.com/en-US/domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950"><strong>FOX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Spring 2027 FOX News Media Internship Program...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fox.wd1.myworkdayjobs.com/en-US/domestic/job/New-York-New-York-USA/Spring-2027-FOX-News-Media-Internship-Program---Data-Analytics---New-York_R50033950" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.pathai.com/careers/8843495002?gh_jid=8843495002"><strong>Pathai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Intern/Co-op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Boston<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.pathai.com/careers/8843495002?gh_jid=8843495002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science_REQ24211"><strong>Biogen</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op - Data Science</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science_REQ24211" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209">↳ <strong>Biogen</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op - Data Science &amp; AI Innovation</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024"><strong>Brightstar</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer Intern - Advancing Agent ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/brightstar-ai/a72ffc7e-38ba-4d7c-8d08-cac6b9974024" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-erac.icims.com/jobs/567651/intern---data-engineer-%28efm-it%29/job"><strong>Enterprise</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data Engineer - EFM IT</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-erac.icims.com/jobs/567651/intern---data-engineer-%28efm-it%29/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341"><strong>Johnson Johnson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Co-op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Danvers<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Danvers-Massachusetts-United-States-of-America/Data-Science-Co-op_R-100341" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3"><strong>Kitware</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Computer Vision Co-Op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clifton Park<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"><strong>Klaviyo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312"><strong>MSD</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Future Talent Program - Data Science - I...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pennsylvania<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Resultant/744000151474719-data-analytics-consultant-intern-summer-2027-hybrid-in-indianapolis-?oga=true"><strong>Resultant</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; Analytics Consultant Intern - Summer 2...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>IN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Resultant/744000151474719-data-analytics-consultant-intern-summer-2027-hybrid-in-indianapolis-?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Resultant/744000151474767-data-analytics-consultant-intern-summer-2027-hybrid-in-chicago-?oga=true">↳ <strong>Resultant</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; Analytics Consultant Intern - Summer 2...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Resultant/744000151474767-data-analytics-consultant-intern-summer-2027-hybrid-in-chicago-?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sig.icims.com/jobs/11555/machine-learning-engineering-internship/job"><strong>Susquehanna Inter...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineering Internship</td>
@@ -1189,6 +307,13 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Intern: Data Science</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Wilmington<br>NC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/live_oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/live_oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634">↳ <strong>Live Oak Bank</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Intern: Data Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wilmington<br>NC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/live_oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
@@ -3327,13 +2452,6 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"><strong>Modal</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ML Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085">🔥 <strong>Adobe</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 University Graduate - Machine Learning E...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +4</td>
@@ -3801,6 +2919,832 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668550561096665397" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668390999147776309">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - Data-Glo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668390999147776309" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668389759463393589">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - Data-Glo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668389759463393589" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668376903708281141">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - TikTok-D...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668376903708281141" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668384123840514309">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - TikTok-D...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668384123840514309" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668700671828707589">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning MLOps Engineer Graduate - ML...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668700671828707589" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668698260232702261">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - Brand Ad...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668698260232702261" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668693662561634613">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ML Infra Engineer Graduate - Ads Infra - 2027...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668693662561634613" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668681119759616309">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Graduate - Ads Creative - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668681119759616309" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668675484492597557">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - Monetiza...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668675484492597557" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668669015051405573">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Graduate - Ads Creative - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668669015051405573" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668663594419374341">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer Graduate - Brand Ad...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668663594419374341" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668206857737455877">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Multimodal Generative AI Research Scientist -...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668206857737455877" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668207217544677685">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">World Model Research Scientist - Intelligent ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668207217544677685" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7668206301950642437">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist - Generative AI Graduate -...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7668206301950642437" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002"><strong>Optiver</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Quantitative Researcher - PhD - 2027...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.optiver.com/join-us/jobs/8451764002/?gh_jid=8451764002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006"><strong>Applovin</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ML Data Infrastructure Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Palo Alto<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/702f22c3-49a3-405e-8760-f0936953e0c6"><strong>Iambic Therapeutics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist I / II - High Throughput C...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/iambic-therapeutics/702f22c3-49a3-405e-8760-f0936953e0c6" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Data-Scientist_2641332-1"><strong>KLA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>CA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Data-Scientist_2641332-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/tubitv/jobs/8232190"><strong>TUBI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/tubitv/jobs/8232190" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://amat.wd1.myworkdayjobs.com/en-US/external/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist New College Grad- Bachelor&#x27;s/M...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://amat.wd1.myworkdayjobs.com/en-US/external/job/AustinTX/Data-Scientist-New-College-Grad--Bachelor-s-Master-s--Austin--TX-_R2627684" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/apptronik/jobs/6206626004?gh_jid=6206626004"><strong>Apptronik</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IROS 2026 - Robotics &amp; AI Talent</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/apptronik/jobs/6206626004?gh_jid=6206626004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/lateral-us/job/Chicago/Quantitative-Engineer_26035240-3"><strong>Bank Of America</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/lateral-us/job/Chicago/Quantitative-Engineer_26035240-3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-citynational.icims.com/jobs/6175/it-audit-%26-data-analyst/job"><strong>City National Ban...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Audit &amp; Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Coral Gables<br>FL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-citynational.icims.com/jobs/6175/it-audit-%26-data-analyst/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015624166-data-engineer-1042-data-enablement-datasf-office-of-city-administrator?oga=true"><strong>City Of San Franc...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer - 1042 - Data Enablement - Data...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990015624166-data-engineer-1042-data-enablement-datasf-office-of-city-administrator?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Data-Scientist_R0075782-1"><strong>Huntington Bank</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Data-Scientist_R0075782-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kenect.breezy.hr/p/aa47c9879f1d-junior-data-engineer"><strong>Kenect</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pleasant Grove<br>UT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kenect.breezy.hr/p/aa47c9879f1d-junior-data-engineer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003"><strong>Klaviyo</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-cadmusgroup.icims.com/jobs/3242/energy-data-analyst/job"><strong>The Cadmus Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Energy Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boulder<br>CO +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-cadmusgroup.icims.com/jobs/3242/energy-data-analyst/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-cadmusgroup.icims.com/jobs/3241/junior-energy-data-analyst/job">↳ <strong>The Cadmus Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Energy Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-cadmusgroup.icims.com/jobs/3241/junior-energy-data-analyst/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uw.wd5.myworkdayjobs.com/en-US/uwhires/job/Seattle-WA/Research-Scientist-Engineer-1---Department-of-Medicine--Division-of-Pulmonary-Critical-Care-and-Sleep-Medicine--Temporary-_REQ-0000137342"><strong>University Of Was...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist/Engineer 1 - Department of...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uw.wd5.myworkdayjobs.com/en-US/uwhires/job/Seattle-WA/Research-Scientist-Engineer-1---Department-of-Medicine--Division-of-Pulmonary-Critical-Care-and-Sleep-Medicine--Temporary-_REQ-0000137342" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/High-Throughput-Biology-Research-Scientist_REQ-30257"><strong>Vertex</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">High Throughput Biology Research Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/High-Throughput-Biology-Research-Scientist_REQ-30257" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1"><strong>Vistra</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Data-Scientist_40016531-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://connect.wd1.myworkdayjobs.com/en-US/ztsystemscareers/job/Secaucus-NJ/Business-Intelligence-Data-Analyst_R-105413"><strong>Zt Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Intelligence Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Secaucus<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://connect.wd1.myworkdayjobs.com/en-US/ztsystemscareers/job/Secaucus-NJ/Business-Intelligence-Data-Analyst_R-105413" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.aqr.com/jobs?gh_jid=8224708&amp;gh_jid=8224708"><strong>AQR</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 PhD Summer Associate - Machine Learning ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Greenwich<br>CT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.aqr.com/jobs?gh_jid=8224708&amp;gh_jid=8224708" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5"><strong>Arizent</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; AI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/arizent/5f246f2b-8cd1-41ec-916c-9ed37a6b07a5" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Data-Scientist_R0250173"><strong>Booz Allen</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Data-Scientist_R0250173" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1"><strong>ERG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Occupational Safety and Health Da...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fairfax<br>VA +3</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/erg/26fdd838-c4ba-4538-825c-c16b36d18fe1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-ftidefense.icims.com/jobs/7083/associate-data-scientist/job"><strong>Frontier Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Norfolk<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-ftidefense.icims.com/jobs/7083/associate-data-scientist/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ing.wd3.myworkdayjobs.com/en-US/jvsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426"><strong>ING</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Waco<br>TX +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ing.wd3.myworkdayjobs.com/en-US/jvsgblcor/job/ACT-Amsterdam---Acanthus/Junior-Data-Scientist_REQ-10120426" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://learfield.wd5.myworkdayjobs.com/en-US/learfield/job/Morgantown-WV/Data-Analyst---West-Virginia-University_R101313"><strong>Learfield</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - West Virginia University</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Morgantown<br>WV</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://learfield.wd5.myworkdayjobs.com/en-US/learfield/job/Morgantown-WV/Data-Analyst---West-Virginia-University_R101313" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pra.wd1.myworkdayjobs.com/en-US/pra_careers/job/Norfolk-VA/Reporting-Data-Analyst_22092"><strong>Pra Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Reporting Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Norfolk<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pra.wd1.myworkdayjobs.com/en-US/pra_careers/job/Norfolk-VA/Reporting-Data-Analyst_22092" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tamus.wd1.myworkdayjobs.com/en-US/pvamu_external/job/Prairie-View-TX/Graduate-Assistant-Non-Teaching---Institutional-Research-and-Integrated-Data-Analytics_R-097449"><strong>Prairie View A M ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Assistant Non-Teaching - Institution...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Prairie View<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tamus.wd1.myworkdayjobs.com/en-US/pvamu_external/job/Prairie-View-TX/Graduate-Assistant-Non-Teaching---Institutional-Research-and-Integrated-Data-Analytics_R-097449" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002934003"><strong>Rhombus</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer - Secret/Top Secret - Washingto...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/rhombuspower/jobs/8002934003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://smithnephew.wd5.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/R-D-Engineer---Data-Science_R90815"><strong>Smith Nephew</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Engineer - Data Science</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://smithnephew.wd5.myworkdayjobs.com/en-US/external/job/Pittsburgh-PA/R-D-Engineer---Data-Science_R90815" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Rockville-MD/Clinical-Research-Scientist_RC91319"><strong>Americanredcross</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rockville<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://americanredcross.wd1.myworkdayjobs.com/en-US/american_red_cross_careers/job/Rockville-MD/Clinical-Research-Scientist_RC91319" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bloomberg.wd1.myworkdayjobs.com/en-US/bloombergindustrygroup_external_career_site/job/Arlington-VA---1801-S-Bell-INDG/Web-Application-Architect-1--Machine-Learning_143978"><strong>Bloomberg Industr...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Web Application Architect 1- Machine Learning</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bloomberg.wd1.myworkdayjobs.com/en-US/bloombergindustrygroup_external_career_site/job/Arlington-VA---1801-S-Bell-INDG/Web-Application-Architect-1--Machine-Learning_143978" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Autonomy-Engineer_R0000395840"><strong>Caterpillar</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Autonomy Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Autonomy-Engineer_R0000395840" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.cfd-research.com/jobs?gh_jid=4411856009"><strong>Cfd Research</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Computer Vision Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dayton<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.cfd-research.com/jobs?gh_jid=4411856009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Quantitative-Financial-Analyst-I_R12355"><strong>Clearwater Analytics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Financial Analyst I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boise<br>ID</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Boise/Quantitative-Financial-Analyst-I_R12355" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://staff-emory.icims.com/jobs/173531/associate-academic-research-scientist---school-of-medicine%2c-biochemistry/job"><strong>Emory University</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Academic Research Scientist - Schoo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://staff-emory.icims.com/jobs/173531/associate-academic-research-scientist---school-of-medicine%2c-biochemistry/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.exiger.com/careers/6202657004?gh_jid=6202657004"><strong>Exiger</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Product Builder</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">McLean<br>VA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.exiger.com/careers/6202657004?gh_jid=6202657004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---GA-Atlanta/AI-and-Data-Consultant---Public-Sector_44605"><strong>Guidehouse</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI and Data Consultant - Public Sector</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---GA-Atlanta/AI-and-Data-Consultant---Public-Sector_44605" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Data-Scientist-Data-Analyst_44615">↳ <strong>Guidehouse</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist/Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">McLean<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-McLean/Data-Scientist-Data-Analyst_44615" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Financial-Analyst--AI-Optimization_JR-0094847-1"><strong>Kion Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst- AI Optimization</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Grand Rapids<br>MI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Financial-Analyst--AI-Optimization_JR-0094847-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://maersk.wd3.myworkdayjobs.com/en-US/maersk_careers/job/United-States-of-America-California-Stockton95206/Data-Analyst---Shift-A-Sunday-Wednesday-5-00am-3-30pm_R194481"><strong>Maersk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - Shift A Sunday-Wednesday 5:00a...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">California<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://maersk.wd3.myworkdayjobs.com/en-US/maersk_careers/job/United-States-of-America-California-Stockton95206/Data-Analyst---Shift-A-Sunday-Wednesday-5-00am-3-30pm_R194481" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tti.wd1.myworkdayjobs.com/en-US/milwaukee/job/Milwaukee-WI/Machine-Learning-Engineer-II---Operations_R77843"><strong>Milwaukee Tool</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer II - Operations</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>WI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tti.wd1.myworkdayjobs.com/en-US/milwaukee/job/Milwaukee-WI/Machine-Learning-Engineer-II---Operations_R77843" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---DC-Washington/Data-Scientist-I_R186422"><strong>Parsons</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---DC-Washington/Data-Scientist-I_R186422" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Stem-Cell-Research-Scientist_REQ-29934"><strong>Vertex</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stem Cell Research Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Stem-Cell-Research-Scientist_REQ-29934" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Data-Scientist--Junior_R0248402"><strong>Booz Allen</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Junior</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">McLean<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Data-Scientist--Junior_R0248402" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Secure-AI-Engineer_R0245884">↳ <strong>Booz Allen</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Secure AI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Secure-AI-Engineer_R0245884" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00178092"><strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Generative AI Engineer / QA Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA---Atlanta---One-Atlantic-Center/Generative-AI-Engineer_J00178092" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Data-Analyst-I_RP1038819"><strong>F</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Data-Analyst-I_RP1038819" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096"><strong>Groundswell</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Applied AI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Virginia<br>USA +47</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Associate-Applied-AI-Engineer_JR101096" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Applied-AI-Engineer_JR101095">↳ <strong>Groundswell</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Virginia<br>USA +47</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://groundswell.wd12.myworkdayjobs.com/en-US/groundswell/job/Remote---Virginia/Applied-AI-Engineer_JR101095" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Quantitative-Risk-Modeling-Analyst_R0075924"><strong>Huntington Bank</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Risk Modeling Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>OH +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://huntington.wd12.myworkdayjobs.com/en-US/hnbcareers/job/Columbus-OH/Quantitative-Risk-Modeling-Analyst_R0075924" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/jobgether/b47dd03c-c50c-4c7d-846c-403673932fa6"><strong>Jobgether</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/jobgether/b47dd03c-c50c-4c7d-846c-403673932fa6" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101"><strong>Man Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Quant - MBS</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Massachusetts<br>USA +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/mangroup/jobs/4960828101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Data-Analyst_R-26-20070-1"><strong>MOOG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Buffalo<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Data-Analyst_R-26-20070-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://worldpay.wd5.myworkdayjobs.com/en-US/worldpay_external_careers_site/job/CINCINNATI-OHIO/Business-Data-Analyst-I---Predictive-Modeling--Statistics--Finance---Strategic-Planning_JR0609752"><strong>Worldpay</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Data Analyst I - Predictive Modeling...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://worldpay.wd5.myworkdayjobs.com/en-US/worldpay_external_careers_site/job/CINCINNATI-OHIO/Business-Data-Analyst-I---Predictive-Modeling--Statistics--Finance---Strategic-Planning_JR0609752" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189760"><strong>DRW</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - Exploration</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/drweng/jobs/8189760" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/agiloft/86522290-d4a5-4f5a-8ffd-ac4654405dd8"><strong>Agiloft</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Ops Engineer GTM</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/agiloft/86522290-d4a5-4f5a-8ffd-ac4654405dd8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/lateral-us/job/Atlanta/Data-Scientist-I_26034307"><strong>Bank Of America</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ghr.wd1.myworkdayjobs.com/en-US/lateral-us/job/Atlanta/Data-Scientist-I_26034307" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Junior-Data-Scientist_44662"><strong>Guidehouse</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>VA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Arlington/Junior-Data-Scientist_44662" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881"><strong>Hewlett Packard E...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI and Machine Learning Engineer I Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1211881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Folsom-CA/New-College-Grad---Memory-System-Architect--HBM-Generative-AI_JR111840"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New College Grad - Memory System Architect - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Folsom<br>CA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Folsom-CA/New-College-Grad---Memory-System-Architect--HBM-Generative-AI_JR111840" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/TX-Dallas/Managed-Services---Data--Analytics---AI---Associate_760034WD"><strong>PWC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Finance Data - Analytics &amp; AI - Associate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/TX-Dallas/Managed-Services---Data--Analytics---AI---Associate_760034WD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-skanska.icims.com/jobs/9292/data-analytics-engineer/job"><strong>Skanska</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>NC +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-skanska.icims.com/jobs/9292/data-analytics-engineer/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19042464"><strong>Transunion</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Financial Services Consulting</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Chicago-Illinois/Data-Scientist--Financial-Services-Consulting_19042464" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uw.wd5.myworkdayjobs.com/en-US/uwhires/job/Seattle-WA/Research-Scientist-Engineer-Assistant---Department-of-Global-Health--Temporary-_REQ-0000137205"><strong>University Of Was...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist/Engineer Assistant - Depar...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uw.wd5.myworkdayjobs.com/en-US/uwhires/job/Seattle-WA/Research-Scientist-Engineer-Assistant---Department-of-Global-Health--Temporary-_REQ-0000137205" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://usghostadventures.applytojob.com/apply/DZGw2IIxky/AI-Automation-Implementation-Specialist"><strong>Us Ghost Adventures</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI &amp; Automation Implementation Specialist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chattanooga<br>TN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://usghostadventures.applytojob.com/apply/DZGw2IIxky/AI-Automation-Implementation-Specialist" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Chicago-Illinois/Data-Scientist-I--Cat-Digital_R0000394255"><strong>Caterpillar</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist I - Cat Digital</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Chicago-Illinois/Data-Scientist-I--Cat-Digital_R0000394255" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-jaxsheriff.icims.com/jobs/1687/data-engineer-i/job"><strong>Jacksonville Sher...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DATA ENGINEER I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>FL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-jaxsheriff.icims.com/jobs/1687/data-engineer-i/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Phoenix-AZ/AI-Transformation-Associate---Per-Diem---Seeking-college-students-or-new-grads-_2633522-1"><strong>Labcorp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Transformation Assistant - Per Diem - Seek...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Phoenix<br>AZ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/Phoenix-AZ/AI-Transformation-Associate---Per-Diem---Seeking-college-students-or-new-grads-_2633522-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Richardson-TX/New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New College Grad - AI Infrastructure &amp; HBM Ar...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richardson<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Richardson-TX/New-College-Grad---AI-Infrastructure---HBM-Architecture-Engineer_JR109578" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-peraton.icims.com/jobs/170925/junior-data-engineer---active-secret/job"><strong>Peraton</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer / Active Secret</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Beltsville<br>MD +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-peraton.icims.com/jobs/170925/junior-data-engineer---active-secret/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://signetjewelers.wd1.myworkdayjobs.com/en-US/signetcorporatecareers/job/Support-Center---Akron-OH/Data-Analyst--Central-Merchandise-Operations_REQ_81709"><strong>Signet Jewelers</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Analyst - Central Merchandise ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Akron<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://signetjewelers.wd1.myworkdayjobs.com/en-US/signetcorporatecareers/job/Support-Center---Akron-OH/Data-Analyst--Central-Merchandise-Operations_REQ_81709" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8209423&amp;gh_jid=8209423"><strong>Squarepoint Capital</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Researcher - Discretionary Oil</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.squarepoint-capital.com/open-opportunities?id=8209423&amp;gh_jid=8209423" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Associate-SAP-Data-Analyst_10335045"><strong>Toyota</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate SAP Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Plano<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://toyota.wd503.myworkdayjobs.com/en-US/tmna/job/Plano-Texas/Associate-SAP-Data-Analyst_10335045" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/weekday-1/j/C971497E8D/"><strong>Weekday</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist Talent Network</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/weekday-1/j/C971497E8D/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560"><strong>Booz Allen</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Junior</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stafford<br>VA +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Stafford-VA/Data-Scientist--Junior_R0249560" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job"><strong>Emory University</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst- School of Medicine - BMI</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://staff-emory.icims.com/jobs/172914/data-analyst--school-of-medicine%2c-bmi/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---MD-Bethesda/Data-Scientist_44617"><strong>Guidehouse</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bethesda<br>MD +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---MD-Bethesda/Data-Scientist_44617" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vhr-osvhr.wd1.myworkdayjobs.com/en-US/osv_external_career_site/job/US-Remote/Tax-Data-Analytics-Supervisor_REQ-2026-295"><strong>Onesource Virtual</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tax Data Analytics Supervisor</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vhr-osvhr.wd1.myworkdayjobs.com/en-US/osv_external_career_site/job/US-Remote/Tax-Data-Analytics-Supervisor_REQ-2026-295" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://internal-vtgdefense.icims.com/jobs/9560/data-scientist-i/job"><strong>VTG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chantilly<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://internal-vtgdefense.icims.com/jobs/9560/data-scientist-i/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987"><strong>Wgu Western Gover...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wgu.wd5.myworkdayjobs.com/en-US/external/job/Salt-Lake-City-UT/Associate-Data-Engineer_JR-025987" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/alloy/985c832a-40f7-434d-9a24-d3aec381a48e"><strong>Alloy</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/alloy/985c832a-40f7-434d-9a24-d3aec381a48e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bcbsma.wd5.myworkdayjobs.com/en-US/bcbsma/job/Boston/AI-Engineer_R08915"><strong>Blue Cross Blue S...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bcbsma.wd5.myworkdayjobs.com/en-US/bcbsma/job/Boston/AI-Engineer_R08915" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.eu.lever.co/cirrus/39e72f1c-e12b-4395-8f42-7e23b4928e98"><strong>Cirrus Logic</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Applications Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.eu.lever.co/cirrus/39e72f1c-e12b-4395-8f42-7e23b4928e98" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&amp;jobId=587169"><strong>Goodwill Central ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Merchandise Pricer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Round Rock<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=cf5674db-9e68-440d-9919-4e047e6a1415&amp;jobId=587169" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/AI-Workflow-Specialist-Graduate_1211885"><strong>Hewlett Packard E...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Workflow Specialist Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/San-Jose-California-United-States-of-America/AI-Workflow-Specialist-Graduate_1211885" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695"><strong>Lexisnexis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aspire Tech Graduate Data Scientist I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Raleigh<br>NC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://relx.wd3.myworkdayjobs.com/en-US/lexisnexislegal/job/Raleigh-NC/Aspire-Tech-Graduate-Data-Scientist-I_R118695" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4392245009"><strong>Lila Sciences</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ML Scientist I/II - AI for Protein Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4392245009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4396760009">↳ <strong>Lila Sciences</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Scientist I / II - Protein D...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4396760009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042">🔥 <strong>Paypal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Payments Risk Management &amp; D...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881">↳ 🔥 <strong>Paypal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043">↳ 🔥 <strong>Paypal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Payments Risk Management &amp; D...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer-Analyst_R-0000187859"><strong>Rbc Royal Bank Of...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Capital Markets - Quantitative Technolog...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jersey City<br>NJ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/Jersey-City-New-Jersey-United-States-of-America/XMLNAME-2027-Capital-Markets--Quantitative-Technology-Services-Summer-Analyst_R-0000187859" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468-1">↳ <strong>Rbc Royal Bank Of...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Capital Markets - Global Markets Quantit...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rbc.wd3.myworkdayjobs.com/en-US/rbcearlytalent1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Global-Markets-Quantitative-Trading-Summer-Analyst_R-0000183468-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Collegeville-Pennsylvania-USA/Associate-Research-Scientist--Bioassay_R-01368034"><strong>Thermo Fisher Sci...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Research Scientist - Bioassay</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Collegeville<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Collegeville-Pennsylvania-USA/Associate-Research-Scientist--Bioassay_R-01368034" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Collegeville-Pennsylvania-USA/FSP-Associate-Research-Scientist_R-01368026">↳ <strong>Thermo Fisher Sci...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FSP-Associate Research Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Collegeville<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Collegeville-Pennsylvania-USA/FSP-Associate-Research-Scientist_R-01368026" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bowheadcareers-uicalaska.icims.com/jobs/26146/junior-data-engineer/job"><strong>Bowhead</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stafford<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bowheadcareers-uicalaska.icims.com/jobs/26146/junior-data-engineer/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Norfolk/Junior-Data-Scientist_44340"><strong>Guidehouse</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Norfolk<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://guidehouse.wd1.myworkdayjobs.com/en-US/external/job/US---VA-Norfolk/Junior-Data-Scientist_44340" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/jerry.ai/ef73c464-30b3-45b9-ac2c-23749561d685"><strong>Jerry</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY +3</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/jerry.ai/ef73c464-30b3-45b9-ac2c-23749561d685" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4405032009"><strong>Oneimaging</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Engineer - Georgia Tech Only</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4405032009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475"><strong>Hewlett Packard E...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI and Machine Learning Engineering Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Durham<br>NC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Durham-North-Carolina-United-States-of-America/AI-and-Machine-Learning-Engineering-Graduate_1213475" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004"><strong>Garner Health</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Applied Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York City<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4404708009"><strong>Oneimaging</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Engineer - UF Only</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/oneimaging/jobs/4404708009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/uasi/jobs/5419779008"><strong>UASI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Healthcare Reporting and Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Cincinnati<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/uasi/jobs/5419779008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
 </tr>
 </tbody>
 </table>
