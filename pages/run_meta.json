@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T16:35:24.648223+00:00",
-  "total": 13769,
+  "generated_at": "2026-09-28T16:40:41.512130+00:00",
+  "total": 13678,
   "per_source": {
     "jobhive": 4623,
     "SimplifyJobs Off-Season 2027": 983,
@@ -34,14 +34,14 @@
     "zapplyjobs Canada 2027": 2,
     "jobspy": 1
   },
-  "new": 55,
-  "closed": 5540,
+  "new": 2,
+  "closed": 658,
   "dead_links": 3,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
+    "freehire": false,
     "ats": true,
-    "md": true
+    "md": false
   },
   "markdown_source_stats": [
     {
