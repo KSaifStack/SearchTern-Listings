@@ -32,8 +32,13 @@ jobs:
           python -m pip install python-jobspy
           python -m pip install protego requests-cache
 
+      # --ecr crawls ~6.4k ECR URLs (~30min). Only this 4-hourly run pays that
+      # cost and refreshes Listings/cache/tier_ecr.parquet; the hourly light and
+      # 2/4-hourly medium+heavy runs reuse that cache via _load_cached('ecr'),
+      # because the ECR merge is unconditional and they would otherwise drop
+      # these rows from pages/listings.json when they rewrite it.
       - name: Run scraper (all tiers)
-        run: cd Listings && python generate_listings.py --tier all
+        run: cd Listings && python generate_listings.py --tier all --ecr
 
       - name: Commit and push updates
         run: |
