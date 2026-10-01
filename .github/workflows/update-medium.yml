@@ -29,6 +29,7 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install duckdb pandas pyarrow
           python -m pip install requests
+          python -m pip install protego requests-cache
 
       - name: Run scraper (freehire API)
         run: cd Listings && python generate_listings.py --tier medium --force

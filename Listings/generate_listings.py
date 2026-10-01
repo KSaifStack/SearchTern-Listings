@@ -24,6 +24,9 @@ import markdown_sources
 import pandas as pd
 import readme_generation
 import skillexchange
+import sitemap_sources
+import ecr_source
+import runway_source
 from html import unescape
 from html.parser import HTMLParser
 from readme_utils import http_get
@@ -96,6 +99,51 @@ def parse_args(argv=None):
         action="store_true",
         help="Force regeneration even if source data hasn't changed",
     )
+    parser.add_argument(
+        "--sitemap",
+        action="store_true",
+        help="Also crawl career sitemaps for ATS vendors with no public API (light tier, opt-in)",
+    )
+    parser.add_argument(
+        "--ecr",
+        action="store_true",
+        help="Also include Early Career Radar postings (light tier, opt-in)",
+    )
+    parser.add_argument(
+        "--ecr-limit",
+        type=int,
+        default=0,
+        help="Cap Early Career Radar page fetches; 0 (default) means the whole sitemap",
+    )
+    parser.add_argument(
+        "--runway",
+        action="store_true",
+        help="Also include Runway Explore postings (light tier, opt-in, shard-limited)",
+    )
+    parser.add_argument(
+        "--runway-shards",
+        type=str,
+        default=runway_source.DEFAULT_SHARDS,
+        help=f"Runway sitemap shards 0-10 to crawl; default {runway_source.DEFAULT_SHARDS} (~100k URLs)",
+    )
+    parser.add_argument(
+        "--runway-limit",
+        type=int,
+        default=0,
+        help="Cap Runway page fetches; 0 (default) means every URL in the selected shards",
+    )
+    parser.add_argument(
+        "--sitemap-hosts",
+        type=str,
+        default="",
+        help="Comma-separated company=host pairs for --sitemap; defaults to the bundled registry",
+    )
+    parser.add_argument(
+        "--sitemap-max-per-host",
+        type=int,
+        default=15,
+        help="Max job pages fetched per host under --sitemap (default 15)",
+    )
     return parser.parse_args(argv)
 
 
@@ -120,6 +168,22 @@ def _save_cache(df, tier):
     df.to_parquet(_cache_path(tier), index=False)
     print(f"  Cached {tier} data: {len(df):,} rows")
     return len(df)
+
+
+def _to_dt(series):
+    """Parse a date column element-by-element.
+
+    Sources emit mixed formats (ISO date, ISO datetime, "Posted Aug 5",
+    Unix epoch). pandas>=2 infers one format from the first value and
+    coerces every other shape to NaT, which silently drops whole sources
+    from the recency filters — so ask for per-element inference.
+    """
+    if pd.api.types.is_datetime64_any_dtype(series):
+        return series
+    try:
+        return pd.to_datetime(series, format="mixed", errors="coerce", utc=True)
+    except (ValueError, TypeError):  # pandas < 2.0 has no "mixed"
+        return pd.to_datetime(series, errors="coerce", utc=True)
 
 
 def _compute_data_hash(manifest_sha, md_sources_hash):
@@ -487,10 +551,31 @@ def _save_seen(seen):
 
 
 def _verify_link(u):
-    """HEAD-check an apply link. Network blips keep the row rather than drop it."""
+    """Confirm an apply link still resolves. Network blips keep the row.
+
+    HEAD is tried first because it is cheap, but several ATS hosts (GM among
+    them) answer 404 to HEAD on URLs that serve 200 on GET, so a 404/410/405
+    falls back to a ranged GET before the row is called dead.
+    """
+    def _dead(code):
+        return code in (404, 410)
+
     try:
         r = requests.head(u, timeout=10, allow_redirects=True, headers=_UA)
-        return r.status_code not in (404, 410)
+        if not _dead(r.status_code):
+            return True
+    except Exception:
+        return True
+
+    try:
+        r = requests.get(
+            u,
+            timeout=15,
+            allow_redirects=True,
+            headers={**_UA, "Range": "bytes=0-2047"},
+            stream=True,
+        )
+        return not _dead(r.status_code)
     except Exception:
         return True
 
@@ -537,6 +622,188 @@ if "description" in listings_result.columns:
         lambda v: _strip_html(v) if v is not None and str(v).strip() else None
     )
 listings_result = _stamp(listings_result, "jobhive", now)
+
+# ── Sitemap discovery (opt-in) ────────────────────────────────────────────
+# Vendors that gate search behind a JS-only SPA still publish a career
+# sitemap for crawlers, and those pages carry JSON-LD JobPosting. This is the
+# only extraction path for the unsupported pools (SuccessFactors, iCIMS,
+# Taleo) where no public API exists.
+sitemap_df = pd.DataFrame()
+sitemap_hosts_used = []
+if ARGS.sitemap and TIER_LIGHT in RUN_TIERS:
+    if ARGS.sitemap_hosts:
+        pairs = []
+        for chunk in ARGS.sitemap_hosts.split(","):
+            if "=" in chunk:
+                comp, _, host = chunk.partition("=")
+                pairs.append((comp.strip(), host.strip()))
+        host_source = "--sitemap-hosts"
+    else:
+        pairs = sitemap_sources.default_hosts()
+        host_source = "bundled registry"
+    print(f"\nFetching career sitemaps for {len(pairs):,} hosts ({host_source})...")
+    sitemap_df, sm_failed = sitemap_sources.harvest(
+        pairs, max_fetches_per_host=ARGS.sitemap_max_per_host
+    )
+    if not sitemap_df.empty:
+        sitemap_df["company"] = sitemap_df["company"].map(clean_company_name)
+        sitemap_df["role"] = sitemap_df["role"].astype(str).str.strip()
+        sitemap_df = sitemap_df[
+            (sitemap_df["company"].notna())
+            & (sitemap_df["company"] != "")
+            & (sitemap_df["role"] != "")
+        ]
+        sitemap_df = sitemap_df[
+            sitemap_df.apply(
+                lambda r: r["role"].isascii() and r["company"].isascii(), axis=1
+            )
+        ]
+        sitemap_df = sitemap_df[
+            sitemap_df["role"].str.lower().str.contains(
+                classify.TECH_KEYWORDS_RE, regex=True, na=False
+            )
+        ]
+        sitemap_df = sitemap_df[
+            ~sitemap_df["company"].str.lower().str.strip().isin(
+                readme_generation.NORMALIZED_BLOCKED_COMPANIES
+            )
+        ]
+        if "country_iso" in sitemap_df.columns:
+            sitemap_df["country_iso"] = sitemap_df["country_iso"].fillna("")
+            sitemap_df["country_iso"] = sitemap_df.apply(
+                lambda r: r["country_iso"]
+                or _infer_country(str(r.get("location") or "")),
+                axis=1,
+            )
+        sitemap_df["location"] = sitemap_df["location"].map(
+            lambda v: clean_location(str(v or ""))
+        )
+        # Fallback rows carry no date/location; they would otherwise pass every
+        # freshness check and crowd out dated JSON-LD rows on the same job.
+        sitemap_df = sitemap_df[
+            sitemap_df["date"].astype(str).str.strip() != ""
+        ]
+        sitemap_df = _stamp(sitemap_df, "sitemap", now)
+        sitemap_hosts_used = sorted({u.split("/")[2] for u in sitemap_df["link"]})
+        print(
+            f"  Sitemap rows: {len(sitemap_df):,} from {len(sitemap_hosts_used):,} hosts"
+        )
+        if sm_failed:
+            print(f"  Sitemap hosts that errored: {len(sm_failed)}")
+    _save_cache(sitemap_df, "sitemap")
+else:
+    sitemap_df = _load_cached("sitemap")
+    if ARGS.sitemap:
+        print("  --sitemap needs --tier light (or all); skipped")
+
+# ── Early Career Radar (aggregator mirrors, opt-in) ───────────────────────
+# Its own robots.txt permits / and its sitemap enumerates every posting, each
+# with JobPosting JSON-LD. Rows arrive already filtered for geography by
+# ecr_source._country_backstop, which matters here: ~43% of their pages omit
+# addressCountry, so the usual ISO check would wave them through.
+if ARGS.ecr and ARGS.tier in (TIER_LIGHT, TIER_ALL):
+    print("Fetching Early Career Radar...")
+    ecr_raw = ecr_source.harvest(
+        ecr_source.fetch_sitemap(),
+        limit=ARGS.ecr_limit or None,
+    )
+    ecr_df = ecr_raw.copy()
+    if not ecr_df.empty:
+        ecr_df["company"] = ecr_df["company"].map(clean_company_name)
+        ecr_df = ecr_df[
+            (ecr_df["company"].notna())
+            & (ecr_df["company"] != "")
+            & (ecr_df["role"].astype(str).str.strip() != "")
+        ]
+        ecr_df = ecr_df[
+            ecr_df.apply(
+                lambda r: r["role"].isascii() and str(r["company"]).isascii(), axis=1
+            )
+        ]
+        ecr_df = ecr_df[
+            ecr_df["role"]
+            .str.lower()
+            .str.contains(classify.TECH_KEYWORDS_RE, regex=True, na=False)
+        ]
+        ecr_df = ecr_df[
+            ~ecr_df["company"]
+            .str.lower()
+            .str.strip()
+            .isin(readme_generation.NORMALIZED_BLOCKED_COMPANIES)
+        ]
+        ecr_df["location"] = ecr_df["location"].map(
+            lambda v: clean_location(str(v or ""))
+        )
+        ecr_df = ecr_df[ecr_df["date"].astype(str).str.strip() != ""]
+        ecr_df = _stamp(ecr_df, "ecr", now)
+        print(f"  ECR rows: {len(ecr_df):,}")
+    _save_cache(ecr_df, "ecr")
+else:
+    ecr_df = _load_cached("ecr")
+    if ARGS.ecr:
+        print("  --ecr needs --tier light (or all); skipped")
+
+# ── Runway Explore (aggregator, shard-limited, opt-in) ───────────────────
+# Largest early-career-adjacent source found: 11 sitemap shards, ~510k URLs.
+# Content mix is broad (hourly roles included), so the tech/date/freshness
+# filters below are load-bearing here rather than cosmetic. Shard-limited by
+# default because a full crawl is ~35h at 0.25s/page.
+if ARGS.runway and ARGS.tier in (TIER_LIGHT, TIER_ALL):
+    print("Fetching Runway Explore...")
+    runway_shards = runway_source._parse_shards(ARGS.runway_shards)
+    runway_raw = runway_source.harvest(
+        runway_source.fetch_shard_urls(runway_shards),
+        limit=ARGS.runway_limit or None,
+    )
+    runway_df = runway_raw.copy()
+    if not runway_df.empty:
+        runway_df["company"] = runway_df["company"].map(clean_company_name)
+        runway_df = runway_df[
+            (runway_df["company"].notna())
+            & (runway_df["company"] != "")
+            & (runway_df["role"].astype(str).str.strip() != "")
+        ]
+        runway_df = runway_df[
+            runway_df.apply(
+                lambda r: str(r["role"]).isascii() and str(r["company"]).isascii(),
+                axis=1,
+            )
+        ]
+        runway_df = runway_df[
+            runway_df["role"]
+            .str.lower()
+            .str.contains(classify.TECH_KEYWORDS_RE, regex=True, na=False)
+        ]
+        # Then the stricter Runway-local gate. classify's shared regex includes
+        # bare tokens (qa/it/ai/ml/data) that are fine on an engineering ATS
+        # feed but leak "General Production" / "Grind" on a general job board.
+        runway_df = runway_df[
+            runway_df["role"].str.contains(runway_source.TECH_STRICT_RE, na=False)
+        ]
+        runway_df = runway_df[
+            ~runway_df["company"]
+            .str.lower()
+            .str.strip()
+            .isin(readme_generation.NORMALIZED_BLOCKED_COMPANIES)
+        ]
+        if "country_iso" in runway_df.columns:
+            runway_df["country_iso"] = runway_df["country_iso"].fillna("")
+            runway_df["country_iso"] = runway_df.apply(
+                lambda r: r["country_iso"]
+                or _infer_country(str(r.get("location") or "")),
+                axis=1,
+            )
+        runway_df["location"] = runway_df["location"].map(
+            lambda v: clean_location(str(v or ""))
+        )
+        runway_df = runway_df[runway_df["date"].astype(str).str.strip() != ""]
+        runway_df = _stamp(runway_df, "runway", now)
+        print(f"  Runway rows: {len(runway_df):,}")
+    _save_cache(runway_df, "runway")
+else:
+    runway_df = _load_cached("runway")
+    if ARGS.runway:
+        print("  --runway needs --tier light (or all); skipped")
 
 # ── Direct ATS probing (big tech supplement) ──────────────────────────────
 ATS_ENDPOINTS = {
@@ -893,11 +1160,11 @@ if not fh_df.empty:
         ~fh_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                      'NL','IT','ES','PT','RO','HU','CZ','SK',
                                      'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(fh_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & (_to_dt(fh_df["date"]) >= now - pd.Timedelta(days=60))
         & fh_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     fh_for_listings = fh_df[
-        pd.to_datetime(fh_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+        _to_dt(fh_df["date"]) >= now - pd.Timedelta(days=90)
     ].copy()
     source_contrib[TIER_MEDIUM] = [len(fh_for_readme), len(fh_for_listings)]
 
@@ -942,11 +1209,11 @@ if not ats_df.empty:
         ~ats_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                      'NL','IT','ES','PT','RO','HU','CZ','SK',
                                      'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(ats_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & (_to_dt(ats_df["date"]) >= now - pd.Timedelta(days=60))
         & ats_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     ats_for_listings = ats_df[
-        pd.to_datetime(ats_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+        _to_dt(ats_df["date"]) >= now - pd.Timedelta(days=90)
     ].copy()
     source_contrib[TIER_HEAVY] = [len(ats_for_readme), len(ats_for_listings)]
 
@@ -985,11 +1252,11 @@ if not md_df.empty:
         ~md_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(md_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & (_to_dt(md_df["date"]) >= now - pd.Timedelta(days=60))
         & md_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     md_for_listings = md_df[
-        pd.to_datetime(md_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+        _to_dt(md_df["date"]) >= now - pd.Timedelta(days=90)
     ].copy()
     source_contrib[TIER_LIGHT] = [len(md_for_readme), len(md_for_listings)]
 
@@ -1004,6 +1271,17 @@ if not md_df.empty:
     print(f"  Markdown added: {source_contrib[TIER_LIGHT][0]} to README, {source_contrib[TIER_LIGHT][1]} to listings")
 
 TECH_KEYWORDS_RE = classify.TECH_KEYWORDS_RE
+
+
+def _sitemap_tech_mask(frame):
+    """Tech-keyword filter, resolved lazily.
+
+    Kept as a named helper so the sitemap stage reads clearly; classify owns
+    the regex, and it is loaded by the time this runs.
+    """
+    return frame["role"].str.lower().str.contains(
+        classify.TECH_KEYWORDS_RE, regex=True, na=False
+    )
 # ── SkillExchange board (light tier supplement) ────────────────────────────
 sx_df = pd.DataFrame()
 if TIER_LIGHT in RUN_TIERS:
@@ -1026,11 +1304,11 @@ if not sx_df.empty:
         ~sx_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(sx_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & (_to_dt(sx_df["date"]) >= now - pd.Timedelta(days=60))
         & sx_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     sx_for_listings = sx_df[
-        pd.to_datetime(sx_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+        _to_dt(sx_df["date"]) >= now - pd.Timedelta(days=90)
     ].copy()
 
     readme_result = pd.concat([readme_result, sx_for_readme], ignore_index=True)
@@ -1058,6 +1336,46 @@ else:
     ej_df = _load_cached("echo")
 print(f"  EchoJobs working set: {len(ej_df):,} rows")
 
+# ── Merge opt-in supplementary rows into listings.json ────────────────────
+def _merge_supplementary(label, frame):
+    """Dedupe a supplementary frame against listings and append what survives.
+
+    Shared by the sitemap and Early Career Radar stages: both are opt-in feeds
+    that run after the main markdown tier, so they merge last and get the same
+    freshness, geography, and cross-source dedupe treatment.
+    """
+    global listings_result
+    if frame is None or frame.empty:
+        return
+    frame = _dedup_across(listings_result, frame)
+    print(f"  {label} after dedup vs listings: {len(frame):,}")
+    keep = frame.copy()
+    if "date" in keep.columns:
+        keep = keep[_to_dt(keep["date"]) >= now - pd.Timedelta(days=60)]
+    if "description" not in keep.columns:
+        keep["description"] = None
+    keep = keep[
+        keep["country_iso"].isin(["US", ""]) | keep["country_iso"].isna()
+    ]
+    existing = set(
+        listings_result[["company", "role", "location"]]
+        .astype(str)
+        .agg("|".join, axis=1)
+    )
+    net_new = set(
+        keep[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
+    ) - existing
+    listings_result = pd.concat([listings_result, keep], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  {label} added: {len(keep):,} rows ({len(net_new):,} net-new) to listings")
+
+
+_merge_supplementary("Sitemap", sitemap_df)
+_merge_supplementary("ECR", ecr_df)
+_merge_supplementary("Runway", runway_df)
+
 if not ej_df.empty:
     ej_df = _dedup_across(readme_result, ej_df)
     print(f"  EchoJobs after dedup vs existing sources: {len(ej_df):,}")
@@ -1065,11 +1383,11 @@ if not ej_df.empty:
         ~ej_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(ej_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & (_to_dt(ej_df["date"]) >= now - pd.Timedelta(days=60))
         & ej_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     ej_for_listings = ej_df[
-        pd.to_datetime(ej_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+        _to_dt(ej_df["date"]) >= now - pd.Timedelta(days=90)
     ].copy()
 
     readme_result = pd.concat([readme_result, ej_for_readme], ignore_index=True)
@@ -1104,11 +1422,11 @@ if not js_df.empty:
         ~js_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
                                     'HR','BG','FI','LU','BE','MT','CY'])
-        & (pd.to_datetime(js_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60))
+        & (_to_dt(js_df["date"]) >= now - pd.Timedelta(days=60))
         & js_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
     ].copy()
     js_for_listings = js_df[
-        pd.to_datetime(js_df["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=90)
+        _to_dt(js_df["date"]) >= now - pd.Timedelta(days=90)
     ].copy()
 
     readme_result = pd.concat([readme_result, js_for_readme], ignore_index=True)
@@ -1421,7 +1739,7 @@ if not md_df.empty:
         md_final["role"].str.lower().str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
     ]
     md_final = md_final[
-        pd.to_datetime(md_final["date"], errors='coerce', utc=True) >= now - pd.Timedelta(days=60)
+        _to_dt(md_final["date"]) >= now - pd.Timedelta(days=60)
     ]
     md_final = md_final[
         md_final.apply(
