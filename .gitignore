@@ -1,6 +1,11 @@
 .env
 __pycache__/
 *.db
+*.sqlite
 *.parquet
 *.csv
 !Listings/cache/*.parquet
+
+# Raw sitemap fetch cache (requests-cache sqlite + response .body dumps).
+# Hundreds of MB, regenerated every run; never commit it (breaks GitHub's 100 MB limit).
+Listings/cache/sitemap/
