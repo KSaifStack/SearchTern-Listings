@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:21:24.810807+00:00",
+  "generated_at": "2026-10-06T17:36:22.283078+00:00",
   "count": 45,
   "sources": [
     {
@@ -14,14 +14,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 1074
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 899
+      "count": 866
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -38,11 +31,18 @@
       "count": 727
     },
     {
+      "name": "SimplifyJobs New Grad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 707
+    },
+    {
       "name": "speedyapply SWE New Grad USA",
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 551
+      "count": 550
     },
     {
       "name": "SuryaHarikrishnan Hardware",
@@ -56,21 +56,21 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 483
+      "count": 482
     },
     {
       "name": "speedyapply SWE 2027",
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 478
+      "count": 480
     },
     {
       "name": "SimplifyJobs Summer 2027",
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 469
+      "count": 467
     },
     {
       "name": "lilguy Live Feed",
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 396
+      "count": 395
     },
     {
       "name": "SuryaHarikrishnan SWE Track",
@@ -112,7 +112,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 310
+      "count": 312
     },
     {
       "name": "zshah101 Summer 2027 US",
@@ -126,7 +126,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 230
+      "count": 227
     },
     {
       "name": "zapplyjobs New Grad Data Science 2027",
@@ -162,6 +162,13 @@
       "type": "internship",
       "season": "2027",
       "count": 101
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io",
+      "type": "internship/tech",
+      "season": "",
+      "count": 64
     },
     {
       "name": "sndsh404 Summer 2027",
@@ -308,13 +315,6 @@
       "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 0
-    },
-    {
-      "name": "EchoJobs",
-      "url": "https://echojobs.io",
-      "type": "internship/tech",
-      "season": "",
       "count": 0
     }
   ]
