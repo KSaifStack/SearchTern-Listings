@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 16
 
-**Page 16 of 36 — 19,648 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 16 of 37 — 19,862 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-17.md)
 
@@ -22,27 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01876241">↳ <strong>Collins Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Project Engineering Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-OH-TROY-101 ~ 101 Waco St ~ WACO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01876241" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621">↳ <strong>Collins Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-Op Systems Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1">↳ <strong>Collins Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-FL-LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://blueorigin.wd5.myworkdayjobs.com/job/Space-Coast-FL/Sr-Vehicle-Systems-Engineer---New-Glenn-Stage-2_R61659-1"><strong>Blue Origin</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sr Vehicle Systems Engineer - New Glenn Stage 2</td>
@@ -3649,32 +3628,53 @@
 <td style="white-space:nowrap;">1mo</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002">🔥 <strong>LYFT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PhD Machine Learning Software Engineer Intern...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557022524">🔥 <strong>Microsoft</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science - Global Marketing Engines and E...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557022524" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698">🔥 <strong>Nvidia</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist - Fundamental Generative A...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Data-Scientist--Level-3_Q426DSA3">🔥 <strong>SNAP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Level 3</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA +5</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://snapchat.wd1.myworkdayjobs.com/en-US/snap/job/Los-Angeles-California/Data-Scientist--Level-3_Q426DSA3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002">🔥 <strong>LYFT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Algorithms</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/jobs/10571374/apply">🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer - Embedded Syst...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.amazon.jobs/jobs/10571374/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140389">🔥 <strong>Pinterest</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Master&#x27;s University Grad Data Scientist - USA</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +3</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140389" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/jobs/10571004/apply">↳ 🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern - Mobile...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.amazon.jobs/jobs/10571004/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140219">↳ 🔥 <strong>Pinterest</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Master&#x27;s University Grad Machine Learning Eng...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +3</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140219" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161">🔥 <strong>Microsoft</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineering Internship - 6-month Pro...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">California<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557023161" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140363">↳ 🔥 <strong>Pinterest</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PhD University Grad Machine Learning Engineer...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA +2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8140363" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
 </tr>
 </tbody>
 </table>

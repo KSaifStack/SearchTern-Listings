@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 14
 
-**Page 14 of 36 — 19,648 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 14 of 37 — 19,862 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-13.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md)
 
@@ -22,27 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job.rohde-schwarz.com/job/Stuttgart-Working-Student-AI-Agents-for-Software-Engineering-%28mfd%29-70499/1435136833/"><strong>Rohde Schwarz</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Working Student AI Agents for Software Engine...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job.rohde-schwarz.com/job/Stuttgart-Working-Student-AI-Agents-for-Software-Engineering-%28mfd%29-70499/1435136833/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://join.cnh.com/job/Oak-Brook-Software-Test-Engineer-Intern-IL-60521/1367740155/"><strong>Cnh Industrial</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Test Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.cnh.com/job/Oak-Brook-Software-Test-Engineer-Intern-IL-60521/1367740155/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://join.cnh.com/job/TEMPE-AI-Engineer-Intern-AZ-85280/1367734855/">↳ <strong>Cnh Industrial</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.cnh.com/job/TEMPE-AI-Engineer-Intern-AZ-85280/1367734855/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://join.cnh.com/job/New-Holland-Soil-&amp;-Crop-Modeling-Engineering-Intern-Combine-Surrogate-Model-from-CFD-Using-Machine-Learning-PA/1367736555/">↳ <strong>Cnh Industrial</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Soil &amp; Crop Modeling Engineering Intern -  Co...</td>
@@ -3947,6 +3926,34 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Corporate IT Assistant</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/9bbc12d712b4cd65a60bd85ea378ac70" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://upike.bamboohr.com/careers/569"><strong>Upike</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">WS - Spring Term INTERNSHIP - Appalachian Cen...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pikeville<br>Kentucky<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://upike.bamboohr.com/careers/569" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://upike.bamboohr.com/careers/571">↳ <strong>Upike</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">WS - Spring Term INTERNSHIP - IT Help Desk As...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pikeville<br>Kentucky<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://upike.bamboohr.com/careers/571" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/84B10DB922"><strong>Mindex</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Co-Op - On-site</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>New York<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/84B10DB922" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://amida.isolvedhire.com/jobs/1876171"><strong>Amida Technology ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://amida.isolvedhire.com/jobs/1876171" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 </tr>
 </tbody>

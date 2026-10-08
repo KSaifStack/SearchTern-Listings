@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 15
 
-**Page 15 of 36 — 19,648 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 15 of 37 — 19,862 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-16.md)
 
@@ -22,34 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://upike.bamboohr.com/careers/569"><strong>Upike</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">WS - Spring Term INTERNSHIP - Appalachian Cen...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pikeville<br>Kentucky<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://upike.bamboohr.com/careers/569" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://upike.bamboohr.com/careers/571">↳ <strong>Upike</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">WS - Spring Term INTERNSHIP - IT Help Desk As...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pikeville<br>Kentucky<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://upike.bamboohr.com/careers/571" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/84B10DB922"><strong>Mindex</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Co-Op - On-site</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>New York<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/84B10DB922" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://amida.isolvedhire.com/jobs/1876171"><strong>Amida Technology ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://amida.isolvedhire.com/jobs/1876171" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/6254527FB8"><strong>Raydar</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Designer</td>
@@ -3926,6 +3898,27 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern (Summer 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">US-FL-LARGO-382SS ~ 7887 Bryan Dairy Rd. ~ BLDG 100</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Industrial-Engineering-Intern--Summer-2027-_01879919" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01876241">↳ <strong>Collins Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Project Engineering Intern (Summer 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-OH-TROY-101 ~ 101 Waco St ~ WACO</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-OH-TROY-101--101-Waco-St--WACO/Project-Engineering-Intern--Summer-2027-_01876241" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621">↳ <strong>Collins Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-Op Systems Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Co-Op-Systems-Engineering_01879621" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1">↳ <strong>Collins Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern (Summer 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-FL-LARGO-382SR ~ 7887 Bryan Dairy Rd ~ BLDG 600</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 </tr>
 </tbody>

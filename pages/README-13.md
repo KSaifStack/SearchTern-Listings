@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 13
 
-**Page 13 of 36 — 19,648 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 13 of 37 — 19,862 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md)
 
@@ -22,27 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007"><strong>Verkada</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Software Engineering Intern 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Mateo<br>CA United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/verkada/jobs/5211595007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ats.rippling.com/aptnexus/jobs/d3d28d77-4314-42cc-bec7-50f34fa2341b"><strong>Aptnexus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Compliance Analyst I</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/aptnexus/jobs/d3d28d77-4314-42cc-bec7-50f34fa2341b" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://point.com/hiring?gh_jid=8829278002"><strong>Point Digital Fin...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://point.com/hiring?gh_jid=8829278002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002">🔥 <strong>Spacex</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Software Engineer, Data Center Engin...</td>
@@ -384,14 +363,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">[Backend, Onsite] Software Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Onsite</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/enterpret/jobs/7847134003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/scopely/jobs/5440761008?gh_jid=5440761008"><strong>Scopely</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Technical Artist</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IN - Bangalore<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/scopely/jobs/5440761008?gh_jid=5440761008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.dayforcehcm.com/en-US/yss/candidateportal/jobs/4268"><strong>York Space Systems</strong></a></td>
@@ -3982,6 +3961,27 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer - Software Engineering Intern - C...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.leonardodrs.com/job/Cypress-2027-Summer-Software-Engineering-Intern-Cypress-CA-CA-90630/1427796600/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job.rohde-schwarz.com/job/Stuttgart-Working-Student-AI-Agents-for-Software-Engineering-%28mfd%29-70499/1435136833/"><strong>Rohde Schwarz</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Working Student AI Agents for Software Engine...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job.rohde-schwarz.com/job/Stuttgart-Working-Student-AI-Agents-for-Software-Engineering-%28mfd%29-70499/1435136833/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://join.cnh.com/job/Oak-Brook-Software-Test-Engineer-Intern-IL-60521/1367740155/"><strong>Cnh Industrial</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Test Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.cnh.com/job/Oak-Brook-Software-Test-Engineer-Intern-IL-60521/1367740155/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://join.cnh.com/job/TEMPE-AI-Engineer-Intern-AZ-85280/1367734855/">↳ <strong>Cnh Industrial</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://join.cnh.com/job/TEMPE-AI-Engineer-Intern-AZ-85280/1367734855/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 </tr>
 </tbody>
