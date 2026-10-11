@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T04:50:50.094138+00:00",
+  "generated_at": "2026-10-11T08:01:16.693576+00:00",
   "count": 45,
   "sources": [
     {
@@ -14,14 +14,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 1110
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 876
+      "count": 897
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -43,6 +36,13 @@
       "type": "internship",
       "season": "2027",
       "count": 740
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 694
     },
     {
       "name": "speedyapply SWE New Grad USA",
@@ -77,14 +77,14 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 415
+      "count": 410
     },
     {
       "name": "lilguy Live Feed",
       "url": "https://raw.githubusercontent.com/asuramaya/lilguy/master/data/all_postings.json",
       "type": "internship",
       "season": "2027",
-      "count": 405
+      "count": 404
     },
     {
       "name": "speedyapply AI New Grad USA",
@@ -98,7 +98,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 383
+      "count": 380
     },
     {
       "name": "zshah101 Summer 2027 US",
@@ -162,6 +162,13 @@
       "type": "internship",
       "season": "2027",
       "count": 101
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io",
+      "type": "internship/tech",
+      "season": "",
+      "count": 63
     },
     {
       "name": "SuryaHarikrishnan Quant",
@@ -308,13 +315,6 @@
       "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 0
-    },
-    {
-      "name": "EchoJobs",
-      "url": "https://echojobs.io",
-      "type": "internship/tech",
-      "season": "",
       "count": 0
     }
   ]
