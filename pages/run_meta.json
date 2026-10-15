@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T09:00:25.625153+00:00",
-  "total": 18580,
+  "generated_at": "2026-10-15T09:57:25.788110+00:00",
+  "total": 18131,
   "per_source": {
     "jobhive": 4892,
     "ecr": 3295,
@@ -36,14 +36,14 @@
     "zapplyjobs Canada 2027": 2,
     "jobspy": 1
   },
-  "new": 39,
-  "closed": 25700,
+  "new": 0,
+  "closed": 2748,
   "dead_links": 30,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
+    "freehire": false,
     "ats": true,
-    "md": true
+    "md": false
   },
   "markdown_source_stats": [
     {
