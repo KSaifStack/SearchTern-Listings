@@ -103,6 +103,16 @@ def write_listings_json(dataframe, output_dir="."):
 
     print(f"Wrote {export_path} — {len(clean_records):,} listings")
 
+    # The deployed backend scrapes pages/searchtern.json (not listings.json),
+    # so keep it an identical copy in the same run instead of syncing by hand
+    # (a manual sync once shipped an uncategorized copy and broke the app's
+    # role-category filter).
+    mirrored_path = os.path.join(pages_dir, "searchtern.json")
+    with open(mirrored_path, "w", encoding="utf-8") as f:
+        json.dump(clean_records, f, indent=2, ensure_ascii=False, default=str, allow_nan=False)
+
+    print(f"Wrote {mirrored_path} — {len(clean_records):,} listings")
+
     
 
 def generate_readme(dataframe, output_dir="."):
