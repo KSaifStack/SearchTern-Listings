@@ -47,6 +47,18 @@ def _to_rows(df):
     return rows
 
 
+_SITE_SEARCHES = [
+    # (site_name, search_term, hours_old, results_wanted)
+    ("linkedin", "software engineer internship", 168, 250),
+    ("linkedin", "new grad software engineer", 168, 250),
+    ("linkedin", "data science machine learning intern", 168, 200),
+    ("linkedin", "finance business analyst internship", 168, 200),
+    ("indeed", "software engineer internship OR new grad OR entry level", 72, 200),
+    ("zip_recruiter", "software engineer internship OR new grad OR entry level", 72, 200),
+    ("google", "software engineer internship OR new grad jobs near United States since yesterday", 72, 200),
+]
+
+
 def fetch_and_parse(infer_country=None):
     # ponytail: CI hits these boards from a datacenter IP — Expect the boards to 429/block
     # the runner after a few runs. The reliable path is running this module locally from a
@@ -58,26 +70,49 @@ def fetch_and_parse(infer_country=None):
         print("  x JobSpy: lib not installed (pip install python-jobspy) — skipped")
         return pd.DataFrame(), []
 
-    df = jobspy.scrape_jobs(
-        site_name=["indeed", "zip_recruiter", "google"],
-        search_term="software engineer internship OR new grad OR entry level",
-        google_search_term="software engineer internship OR new grad jobs near United States since yesterday",
-        results_wanted=200,
-        hours_old=72,
-        country_indeed="USA",
-    )
-    if df is None or df.empty:
+    frames = []
+    stats = []
+    for site, term, hours, wanted in _SITE_SEARCHES:
+        kwargs = dict(
+            site_name=[site],
+            search_term=term,
+            results_wanted=wanted,
+            hours_old=hours,
+            verbose=0,
+        )
+        if site == "indeed":
+            kwargs["country_indeed"] = "USA"
+        if site == "google":
+            kwargs["google_search_term"] = term + " jobs near United States since yesterday"
+        if site == "linkedin":
+            # JobSpy follows LinkedIn guest-job-view links; descriptions stay off by
+            # default (one extra request per job) — titles/companies/locations still land.
+            kwargs["linkedin_fetch_description"] = False
+        try:
+            df = jobspy.scrape_jobs(**kwargs)
+        except Exception as e:
+            print(f"  x JobSpy {site}: {type(e).__name__}: {e}")
+            continue
+        if df is None or df.empty:
+            print(f"  x JobSpy {site}: no rows returned")
+            continue
+        frames.append(df)
+        stats.append((f"jobspy ({site})", len(df)))
+        print(f"  ✓ JobSpy {site}: {len(df):,} rows")
+
+    if not frames:
         print("  x JobSpy: no rows returned")
         return pd.DataFrame(), []
 
+    df = pd.concat(frames, ignore_index=True)
     rows = _to_rows(df)
     out = pd.DataFrame(rows)
     if not out.empty:
         out = out.drop_duplicates(subset=["company", "role", "location"], keep="first")
         if infer_country:
             out["country_iso"] = out["location"].map(infer_country)
-    print(f"  ✓ JobSpy: {len(out):,} rows from {len(df):,} scraped")
-    return out, [("jobspy (indeed/zip/glassdoor google)", len(out))]
+    print(f"  ✓ JobSpy total: {len(out):,} rows from {len(df):,} scraped")
+    return out, stats
 
 
 if __name__ == "__main__":
