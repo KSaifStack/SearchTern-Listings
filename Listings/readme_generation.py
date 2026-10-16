@@ -41,10 +41,8 @@ def _json_safe(value):
     return value
 
 
-def write_listings_json(dataframe, output_dir="."):
-    pages_dir = os.path.join(output_dir, "pages")
-    os.makedirs(pages_dir, exist_ok=True)
-
+def _build_json_records(dataframe):
+    """Apply the shared final filters and return the JSON-ready records."""
     clean_records = []
     seen = set()
 
@@ -97,6 +95,15 @@ def write_listings_json(dataframe, output_dir="."):
         seen.add(key)
         clean_records.append(record)
 
+    return clean_records
+
+
+def write_listings_json(dataframe, output_dir=".", mirror_dataframe=None):
+    pages_dir = os.path.join(output_dir, "pages")
+    os.makedirs(pages_dir, exist_ok=True)
+
+    clean_records = _build_json_records(dataframe)
+
     export_path = os.path.join(pages_dir, "listings.json")
     with open(export_path, "w", encoding="utf-8") as f:
         json.dump(clean_records, f, indent=2, ensure_ascii=False, default=str, allow_nan=False)
@@ -104,14 +111,18 @@ def write_listings_json(dataframe, output_dir="."):
     print(f"Wrote {export_path} — {len(clean_records):,} listings")
 
     # The deployed backend scrapes pages/searchtern.json (not listings.json),
-    # so keep it an identical copy in the same run instead of syncing by hand
-    # (a manual sync once shipped an uncategorized copy and broke the app's
-    # role-category filter).
+    # so write it in the same run instead of syncing by hand (a manual sync
+    # once shipped an uncategorized copy and broke the app's role-category
+    # filter). When a `mirror_dataframe` is supplied, searchtern.json is the
+    # broader feed — every role type, not just the CS/tech subset.
+    mirror_records = (
+        clean_records if mirror_dataframe is None else _build_json_records(mirror_dataframe)
+    )
     mirrored_path = os.path.join(pages_dir, "searchtern.json")
     with open(mirrored_path, "w", encoding="utf-8") as f:
-        json.dump(clean_records, f, indent=2, ensure_ascii=False, default=str, allow_nan=False)
+        json.dump(mirror_records, f, indent=2, ensure_ascii=False, default=str, allow_nan=False)
 
-    print(f"Wrote {mirrored_path} — {len(clean_records):,} listings")
+    print(f"Wrote {mirrored_path} — {len(mirror_records):,} listings")
 
     
 

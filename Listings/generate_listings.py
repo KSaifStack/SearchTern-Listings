@@ -1441,28 +1441,33 @@ if not js_df.empty:
 
 _us_loc_re = re.compile(r'\b(?:US|USA|U\.S\.A\.|United States|California|Texas|New York|Washington|Seattle|San Francisco|SF|NYC|Austin|Chicago|Boston|Mountain View|Palo Alto|Sunnyvale|Los Angeles|Irvine|San Diego|Santa Clara|Cupertino|Menlo Park|Redmond|Kirkland|Bellevue|Arlington|McLean|Reston|Atlanta|Denver|Portland|Phoenix|Philadelphia|Pittsburgh|Minneapolis|Ann Arbor|Detroit|Miami|Orlando|Tampa|Dallas|Houston|Raleigh|Durham|Charlotte|Nashville|Salt Lake City|St Louis|Kansas City|Columbus|Indianapolis|Milwaukee|Baltimore|Portland)\b', re.IGNORECASE)
 
+def _feed_scope_filter(df):
+    """USA-only + non-empty-location + URL-canonical dedup, shared by the
+    listings.json (CS/tech subset) and searchtern.json (every role type) feeds."""
+    df = df.fillna({"country_iso": ""})
+    df = df[
+        (df["country_iso"] == "US")
+        | ((df["country_iso"] == "") & df["location"].str.contains(_us_loc_re, na=False))
+    ]
+    df = df[df["location"].notna() & (df["location"] != "")]
+    # Cross-source URL-canonical dedup (same posting from two sources collapses).
+    if not df.empty and "link" in df.columns:
+        _canon = df["link"].map(canonical_url)
+        _no_canon = _canon == ""
+        _with_canon = df[~_no_canon].copy()
+        _with_canon["_canon"] = _canon[~_no_canon]
+        _with_canon = _with_canon.drop_duplicates(subset="_canon", keep="first").drop(columns="_canon")
+        df = pd.concat([df[_no_canon], _with_canon], ignore_index=True)
+    return df
+
+
 role_lower = listings_result["role"].str.lower()
 tech_mask = role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
-listings_result = listings_result[tech_mask]
 
-# Listings.json: USA only
-listings_result = listings_result.fillna({"country_iso": ""})
-listings_result = listings_result[
-    (listings_result["country_iso"] == "US")
-    | ((listings_result["country_iso"] == "") & listings_result["location"].str.contains(_us_loc_re, na=False))
-]
-listings_result = listings_result[listings_result["location"].notna() & (listings_result["location"] != "")]
-
-# Cross-source URL-canonical dedup (same posting from two sources collapses).
-if not listings_result.empty and "link" in listings_result.columns:
-    _canon = listings_result["link"].map(canonical_url)
-    _no_canon = _canon == ""
-    _with_canon = listings_result[~_no_canon].copy()
-    _with_canon["_canon"] = _canon[~_no_canon]
-    _with_canon = _with_canon.drop_duplicates(subset="_canon", keep="first").drop(columns="_canon")
-    listings_result = pd.concat(
-        [listings_result[_no_canon], _with_canon], ignore_index=True
-    )
+# searchtern.json (the feed the app scrapes) keeps every role type; listings.json
+# is the CS/tech subset. Both share the same USA/location/dedup scope.
+searchtern_result = _feed_scope_filter(listings_result)
+listings_result = _feed_scope_filter(listings_result[tech_mask])
 
 # ── Feed digest + closure tracking (B) ─────────────────────────────────────
 # Diff this run's rows against cache/seen.json. Sources re-fetched this run
@@ -1681,7 +1686,9 @@ readme_role_lower = readme_result["role"].str.lower()
 readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
 readme_result = readme_result[readme_tech_mask]
 readme_generation.generate_readme(readme_result, output_dir="..")
-readme_generation.write_listings_json(listings_result, output_dir="..")
+readme_generation.write_listings_json(
+    listings_result, output_dir="..", mirror_dataframe=searchtern_result
+)
 
 # --- Output change detection ---
 _listings_path = os.path.join("..", "pages", "listings.json")
