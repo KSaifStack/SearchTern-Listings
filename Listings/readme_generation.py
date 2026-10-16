@@ -4,6 +4,7 @@ import math
 import os
 from datetime import datetime, timezone
 
+from classify import role_category
 from readme_rendering import build_header, generate_country_pages
 from readme_utils import (
     APPLY_BUTTON,
@@ -84,6 +85,7 @@ def write_listings_json(dataframe, output_dir="."):
                 record[k] = None
         record["company"] = cleaned_company
         record["role"] = role
+        record["category"] = role_category(role)
         record["location"] = clean_location(record.get("location", ""))
         if not (record.get("country_iso") or "").strip():
             record["country_iso"] = "US"

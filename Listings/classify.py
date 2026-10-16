@@ -120,3 +120,60 @@ def newgrad_title_cond(column="title"):
 def titles_tech_cond(column="title"):
     """SQL cond matching a title like the tech-keyword regex."""
     return _regexp(column, TECH_KEYWORDS_RE)
+
+
+# ---------------------------------------------------------------------------
+# Role category (shared by the frontend "role" filter via listings.json)
+# ---------------------------------------------------------------------------
+# Order matters: the first category whose keyword appears in the lowercased
+# role wins, so the more specific buckets are listed before the generic ones.
+ROLE_CATEGORIES = {
+    "Software Engineering": (
+        "software engineer", "swe", "backend", "frontend", "fullstack",
+        "full-stack", "engineer", "developer", "web dev", "api", "platform",
+    ),
+    "Data/ML/AI": (
+        "data engineer", "data scientist", "machine learning", "ai",
+        "ml engineer", "research scientist", "nlp", "computer vision",
+        "deep learning", "llm",
+    ),
+    "Cybersecurity": (
+        "security", "cybersecurity", "cyber", "security engineer", "infosec",
+        "appsec", "threat", "penetration",
+    ),
+    "Product/Design": (
+        "product", "pm", "product manager", "design", "ui", "ux",
+        "product designer",
+    ),
+    "Hardware/Embedded": (
+        "hardware", "embedded", "firmware", "electrical", "mechanical",
+        "chip", "asic", "fpga", "robotics",
+    ),
+    "DevOps/SRE": (
+        "devops", "sre", "infrastructure", "cloud", "kubernetes", "k8s",
+        "terraform", "ci/cd",
+    ),
+    "Finance/Quant": (
+        "quant", "trader", "trading", "finance", "risk", "actuarial",
+        "quantitative",
+    ),
+    "Business/Analytics": (
+        "analyst", "business analyst", "data analyst", "product analyst",
+        "strategy", "bi",
+    ),
+    "Other": (),
+}
+
+
+def role_category(role):
+    """Bucket a role title into one of ROLE_CATEGORIES.
+
+    Mirrors the classifier used by the frontend's "role category" filter.
+    """
+    text = (role or "").lower()
+    for name, keywords in ROLE_CATEGORIES.items():
+        if name == "Other":
+            continue
+        if any(kw in text for kw in keywords):
+            return name
+    return "Other"
