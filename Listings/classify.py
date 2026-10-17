@@ -123,57 +123,174 @@ def titles_tech_cond(column="title"):
 
 
 # ---------------------------------------------------------------------------
-# Role category (shared by the frontend "role" filter via listings.json)
+# Role category (drives the app's "role category" filter via searchtern.json)
 # ---------------------------------------------------------------------------
-# Order matters: the first category whose keyword appears in the lowercased
-# role wins, so the more specific buckets are listed before the generic ones.
+# One ordered taxonomy: the first category with a keyword that matches the
+# lower-cased role title wins. Order is most-specific → most-generic so, e.g.,
+# "Data Engineer" lands in Data/ML/AI before Software Engineering's generic
+# "engineer", and "Sales Engineer" lands in Sales before SE.
+#
+# Matching is word-aware: short tokens (<=3 chars: pm, ui, ai, ml, bi, it, hr,
+# qa, swe, sre, ...) match whole words only; longer keywords match at a word
+# start (so "engineer" catches "engineering"/"engineers"). This avoids the
+# earlier substring bugs where "pm" matched "develo[pm]ent" and "api" matched
+# "c[api]tal".
 ROLE_CATEGORIES = {
-    "Software Engineering": (
-        "software engineer", "swe", "backend", "frontend", "fullstack",
-        "full-stack", "engineer", "developer", "web dev", "api", "platform",
-    ),
     "Data/ML/AI": (
-        "data engineer", "data scientist", "machine learning", "ai",
-        "ml engineer", "research scientist", "nlp", "computer vision",
-        "deep learning", "llm",
+        "data scientist", "data science", "data engineer", "data analytics",
+        "data analyst", "machine learning", "ml engineer", "ml",
+        "artificial intelligence", "ai", "deep learning", "nlp",
+        "natural language", "computer vision", "data mining", "big data",
+        "business intelligence", "bi", "llm", "generative", "genai",
+        "analytics engineer", "data annotation", "data", "analytics",
     ),
     "Cybersecurity": (
-        "security", "cybersecurity", "cyber", "security engineer", "infosec",
-        "appsec", "threat", "penetration",
-    ),
-    "Product/Design": (
-        "product", "pm", "product manager", "design", "ui", "ux",
-        "product designer",
-    ),
-    "Hardware/Embedded": (
-        "hardware", "embedded", "firmware", "electrical", "mechanical",
-        "chip", "asic", "fpga", "robotics",
-    ),
-    "DevOps/SRE": (
-        "devops", "sre", "infrastructure", "cloud", "kubernetes", "k8s",
-        "terraform", "ci/cd",
+        "cybersecurity", "cyber", "security", "infosec",
+        "information security", "penetration", "pentest", "appsec", "threat",
+        "vulnerability", "malware", "red team", "blue team", "soc analyst",
     ),
     "Finance/Quant": (
-        "quant", "trader", "trading", "finance", "risk", "actuarial",
-        "quantitative",
+        "quant", "quantitative", "trader", "trading", "finance", "financial",
+        "investment", "private equity", "venture", "hedge fund", "risk",
+        "actuarial", "banking", "fp&a", "underwriting", "insurance",
+        "valuation", "portfolio", "credit", "wealth",
+    ),
+    "Accounting": (
+        "accounting", "accountant", "audit", "tax", "bookkeep",
+        "accounts payable", "accounts receivable", "payroll", "treasury",
+        "controller", "cpa",
+    ),
+    "Legal/Compliance": (
+        "legal", "law", "compliance", "paralegal", "attorney", "counsel",
+        "regulatory", "contract", "patent", "intellectual property",
+        "presuit", "pre-suit", "public affairs", "policy", "advocacy",
+    ),
+    "Healthcare/Clinical": (
+        "clinical", "medical", "nurse", "nursing", "physician", "patient",
+        "pharmacy", "pharmac", "dental", "hospital", "health", "therapist",
+        "therapy", "physician assistant", "medical assistant", "patholog",
+        "radiolog", "speech language", "dietitian", "phlebotom",
+        "physical therapy", "veterinar", "cna", "bna",
+    ),
+    "Hardware/Embedded": (
+        "hardware", "embedded", "firmware", "electrical", "electronics",
+        "mechanical", "mechatronics", "chip", "asic", "fpga", "pcb",
+        "robotics", "semiconductor", "controls engineer", "signal",
+        "aerospace", "automotive engineer", "mechatronic", "metallurg",
+        "materials", "optics", "chemical engineer", "biomedical",
+        "industrial engineer", "process engineer",
+    ),
+    "Construction/Trades": (
+        "construction", "civil", "structural", "electrician", "plumber",
+        "welding", "welder", "carpenter", "hvac", "mechanic", "maintenance",
+        "superintendent", "installer", "machinist", "cnc", "fabrication",
+        "surveyor", "architect", "landscape", "laborer", "diesel",
+        "automotive", "nd t", "ndt", "arborist", "sprinkler", "fitter",
+        "pipefitter", "inspector", "boilermaker", "gis", "survey",
+        "estimating", "inspection", "commissioning", "building", "envelope",
+        "fire alarm", "arboricult", "plumb", "site development",
+    ),
+    "DevOps/SRE": (
+        "devops", "sre", "site reliability", "platform engineer",
+        "infrastructure", "cloud engineer", "kubernetes", "k8s", "terraform",
+        "ci/cd", "sysadmin", "systems administrator", "network engineer",
+        "network administrator", "cloud", "aws", "azure", "sdet",
+        "networking", "network", "wireless", "service desk", "help desk",
+        "it support", "desktop support",
+    ),
+    "Product/Design": (
+        "product manager", "product management", "product owner",
+        "product analyst", "product intern", "product design",
+        "product designer", "product", "ux", "ui", "user experience",
+        "user interface", "interaction design", "industrial design",
+        "graphic design", "visual design", "brand design", "design", "pm",
+    ),
+    "Human Resources": (
+        "human resources", "hr", "recruiting", "recruiter", "talent",
+        "people operations", "benefits", "compensation",
+    ),
+    "Sales/Business Dev": (
+        "sales", "account executive", "account manager",
+        "business development", "bdr", "sdr", "partnership",
+        "brand ambassador", "account representative", "territory",
+        "customer success",
+    ),
+    "Marketing/Comms": (
+        "marketing", "brand", "seo", "sem", "content", "social media",
+        "communications", "public relations", "pr", "growth",
+        "advertising", "copywriter", "demand generation", "gtm",
+        "go-to-market",
+    ),
+    "Customer/Retail": (
+        "customer service", "customer experience", "customer support",
+        "customer care", "call center", "reservation", "booking", "hotel",
+        "hospitality", "retail", "cashier", "store associate",
+        "guest services", "barista", "front desk", "store manager",
+        "branch manager", "management trainee", "manager trainee", "teller",
+    ),
+    "Education": (
+        "teacher", "tutor", "education", "instructor", "teaching",
+        "professor", "academic", "curriculum", "resident advisor",
+        "student success", "student assistant", "student supervision",
+        "coach",
+    ),
+    "Research/Science": (
+        "research", "researcher", "scientist", "laboratory", "lab", "biolog",
+        "chemistry", "chemist", "physics", "physicist", "geolog",
+        "environmental", "postdoc", "biochem", "neuroscience",
+        "sustainability", "toxicolog", "sensory", "crop", "agri", "soil",
+        "horticult",
+    ),
+    "Operations/Supply": (
+        "operations", "ops", "supply chain", "logistics", "procurement",
+        "warehouse", "fulfillment", "inventory", "production", "manufactur",
+        "quality", "plant", "distribution", "sourcing", "demand planning",
+        "buyer", "safety", "transportation", "driver", "cdl", "scheduler",
+        "scheduling", "dispatch", "fleet", "planning", "facilit", "ehs",
+        "environmental health",
     ),
     "Business/Analytics": (
-        "analyst", "business analyst", "data analyst", "product analyst",
-        "strategy", "bi",
+        "business analyst", "business analytics", "analyst", "strategy",
+        "consulting", "consultant", "business", "management",
+        "project manage", "program manage",
+    ),
+    "Software Engineering": (
+        "software engineer", "software develop", "swe", "sde", "backend",
+        "back-end", "frontend", "front-end", "fullstack", "full-stack",
+        "full stack", "web develop", "developer", "programmer", "engineer",
+        "engineering", "ios", "android", "mobile develop", "coder",
+        "computer science", "it", "technology", "technical", "qa",
+        "quality assurance", "software", "application develop",
     ),
     "Other": (),
 }
 
+_ROLE_PATTERN_CACHE = {}
+
+
+def _role_keyword_re(keyword):
+    """Compile a role keyword to a word-aware regex.
+
+    Short tokens are matched whole-word; longer keywords match at a word start
+    so plurals/variants still hit ("engineer" → "engineering").
+    """
+    pattern = _ROLE_PATTERN_CACHE.get(keyword)
+    if pattern is None:
+        escaped = re.escape(keyword)
+        if len(keyword) <= 3 and " " not in keyword:
+            body = r"\b" + escaped + r"\b"
+        else:
+            body = r"\b" + escaped
+        pattern = re.compile(body)
+        _ROLE_PATTERN_CACHE[keyword] = pattern
+    return pattern
+
 
 def role_category(role):
-    """Bucket a role title into one of ROLE_CATEGORIES.
-
-    Mirrors the classifier used by the frontend's "role category" filter.
-    """
+    """Bucket a role title into one of ROLE_CATEGORIES (or "Other")."""
     text = (role or "").lower()
     for name, keywords in ROLE_CATEGORIES.items():
-        if name == "Other":
-            continue
-        if any(kw in text for kw in keywords):
-            return name
+        for keyword in keywords:
+            if _role_keyword_re(keyword).search(text):
+                return name
     return "Other"
