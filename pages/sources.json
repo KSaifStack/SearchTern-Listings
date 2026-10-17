@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:59:40.561334+00:00",
+  "generated_at": "2026-10-17T23:01:43.995091+00:00",
   "count": 45,
   "sources": [
     {
@@ -45,13 +45,6 @@
       "count": 711
     },
     {
-      "name": "SuryaHarikrishnan Hardware",
-      "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/hardware-engineering.md",
-      "type": "internship",
-      "season": "2027",
-      "count": 572
-    },
-    {
       "name": "SimplifyJobs New Grad",
       "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "type": "newgrad",
@@ -63,7 +56,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/hardware-engineering.md",
       "type": "internship",
       "season": "2027",
-      "count": 573
+      "count": 572
     },
     {
       "name": "speedyapply SWE 2027",
@@ -77,7 +70,14 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 517
+      "count": 518
+    },
+    {
+      "name": "Jobspy (Indeed)",
+      "url": "https://github.com/zanellia/jobspy",
+      "type": "internship",
+      "season": "",
+      "count": 454
     },
     {
       "name": "speedyapply AI New Grad USA",
@@ -112,7 +112,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 336
+      "count": 338
     },
     {
       "name": "zapplyjobs New Grad 2027",
@@ -143,25 +143,25 @@
       "count": 164
     },
     {
+      "name": "SuryaHarikrishnan Other 2027",
+      "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/other.md",
+      "type": "internship",
+      "season": "2027",
+      "count": 161
+    },
+    {
       "name": "ApplyGuy New Grad",
       "url": "https://raw.githubusercontent.com/ApplyGuy/2027-New-Grad-Jobs/main/data/new-grad-jobs.json",
       "type": "newgrad",
       "season": "2027",
-      "count": 141
+      "count": 138
     },
     {
       "name": "zapplyjobs New Grad Data Science 2027",
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 140
-    },
-    {
-      "name": "Jobspy (Indeed)",
-      "url": "https://github.com/zanellia/jobspy",
-      "type": "internship",
-      "season": "",
-      "count": 134
+      "count": 137
     },
     {
       "name": "SimplifyJobs Summer 2027",
@@ -176,6 +176,13 @@
       "type": "internship/tech",
       "season": "",
       "count": 65
+    },
+    {
+      "name": "SuryaHarikrishnan Quant",
+      "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/quantitative-finance.md",
+      "type": "internship",
+      "season": "2027",
+      "count": 38
     },
     {
       "name": "speedyapply SWE New Grad Intl",
