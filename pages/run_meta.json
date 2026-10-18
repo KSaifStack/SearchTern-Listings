@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T22:18:17.041236+00:00",
-  "total": 19028,
+  "generated_at": "2026-10-18T23:20:54.311064+00:00",
+  "total": 18405,
   "per_source": {
     "jobhive": 4968,
     "ecr": 3158,
@@ -35,14 +35,14 @@
     "speedyapply AI Intern Intl": 3,
     "zapplyjobs Canada 2027": 2
   },
-  "new": 16,
-  "closed": 28107,
+  "new": 0,
+  "closed": 3245,
   "dead_links": 11,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
+    "freehire": false,
     "ats": true,
-    "md": true
+    "md": false
   },
   "markdown_source_stats": [
     {
