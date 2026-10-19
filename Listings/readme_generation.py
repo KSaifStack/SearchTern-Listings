@@ -126,6 +126,39 @@ def write_listings_json(dataframe, output_dir=".", mirror_dataframe=None):
 
     
 
+def write_priority_json(dataframe, output_dir="."):
+    """Write the small, high-frequency "fast lane" feed.
+
+    Only the curated priority boards' recent postings live here, so a workflow
+    can refresh it every few minutes without committing the 38MB searchtern.json.
+    Output is sorted and stripped of volatile fields (observed_at, which is
+    restamped every run) so the file only changes when a posting actually does —
+    otherwise the fast-lane workflow would commit churn on every cycle.
+    """
+    pages_dir = os.path.join(output_dir, "pages")
+    os.makedirs(pages_dir, exist_ok=True)
+
+    if dataframe is None or dataframe.empty:
+        records = []
+    else:
+        records = _build_json_records(dataframe)
+    for record in records:
+        record.pop("observed_at", None)
+
+    records.sort(key=lambda r: (
+        str(r.get("company", "")).lower(),
+        str(r.get("role", "")).lower(),
+        str(r.get("location", "")).lower(),
+        str(r.get("link", "")),
+    ))
+
+    path = os.path.join(pages_dir, "priority.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(records, f, indent=2, ensure_ascii=False, default=str, allow_nan=False)
+
+    print(f"Wrote {path} — {len(records):,} priority listings")
+
+
 def generate_readme(dataframe, output_dir="."):
     """
     Writes job listings into README files split by GitHub's render limit.

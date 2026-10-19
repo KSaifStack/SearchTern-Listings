@@ -132,7 +132,40 @@ def run_checks():
     print("  test_listings_json: all checks passed")
 
 
+def run_priority_checks():
+    rows = []
+    for i, (company, role) in enumerate([
+        ("Zebra", "Software Engineer Intern"),
+        ("Acme", "Data Science Intern"),
+        ("Acme", "Software Engineer Intern"),
+    ]):
+        rows.append({
+            "company": company, "role": role,
+            "location": "Remote", "date": "2026-09-01T00:00:00+00:00",
+            "link": f"https://example.com/{i}", "is_remote": "true",
+            "salary_min": None, "salary_max": None, "salary_currency": None,
+            "country_iso": "US", "job_type": "internship",
+            "employment_type": None, "seniority": None, "source": "priority",
+            "observed_at": "2026-10-18T10:00:00+00:00",
+        })
+    df = pd.DataFrame(rows)
+
+    with tempfile.TemporaryDirectory() as tmp:
+        readme_generation.write_priority_json(df, output_dir=tmp)
+        path = os.path.join(tmp, "pages", "priority.json")
+        records = json.loads(open(path, encoding="utf-8").read())
+
+    assert len(records) == 3, f"expected 3 records, got {len(records)}"
+    assert all("observed_at" not in r for r in records), "observed_at must be stripped"
+    assert all(r.get("category") for r in records), "category must be present"
+    order = [(r["company"], r["role"]) for r in records]
+    assert order == sorted(order, key=lambda k: (k[0].lower(), k[1].lower())), \
+        f"records must be sorted for stable output: {order}"
+    print("  test_listings_json: priority feed checks passed")
+
+
 if __name__ == "__main__":
     run_link_checks()
     run_checks()
+    run_priority_checks()
     sys.exit(0)

@@ -19,9 +19,11 @@ except Exception:
     pass
 
 import echojobs
+import discover_boards
 import jobspy_source
 import markdown_sources
 import pandas as pd
+import priority_boards
 import readme_generation
 import skillexchange
 import sitemap_sources
@@ -37,8 +39,9 @@ from readme_utils import canonical_url, clean_company_name, clean_location
 TIER_LIGHT = "light"
 TIER_MEDIUM = "medium"
 TIER_HEAVY = "heavy"
+TIER_PRIORITY = "priority"
 TIER_ALL = "all"
-ALL_TIERS = [TIER_LIGHT, TIER_MEDIUM, TIER_HEAVY]
+ALL_TIERS = [TIER_LIGHT, TIER_MEDIUM, TIER_HEAVY, TIER_PRIORITY]
 
 CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
 HASH_FILE = os.path.join(CACHE_DIR, "last_hash.json")
@@ -92,7 +95,7 @@ def parse_args(argv=None):
         "--tier",
         type=_parse_tier,
         default=TIER_ALL,
-        help="Which source tier to refresh: light (no API), medium (freehire), heavy (ATS probe), or all",
+        help="Which source tier to refresh: light (no API), medium (freehire), heavy (ATS probe), priority (hot-company fast lane), or all",
     )
     parser.add_argument(
         "--force",
@@ -1084,7 +1087,11 @@ def _fetch_ats_probe():
         for slug in probe_state.get(key, {}).get('slugs', []):
             probe_list.append((c['name'], 'Workday', slug))
 
-    # Cooldown: skip endpoints probed successfully within the last 24h.
+    merged = discover_boards.merge_into_probe(probe_list)
+    if len(merged) > len(probe_list):
+        print(f"  +{len(merged) - len(probe_list)} boards discovered from past feeds")
+    probe_list = merged
+
     cutoff = _time.time() - ATS_PROBE_COOLDOWN_HOURS * 3600
     warm = []
     for name, ats, slug in probe_list:
@@ -1132,6 +1139,38 @@ def _fetch_ats_probe():
     return df
 
 
+# ── Direct ATS probing, priority fast lane ───────────────────────────────────
+# A curated set of hot companies (see priority_boards.py) is polled on every
+# run, bypassing the heavy tier's 24h cooldown so their newest postings hit the
+# feed within minutes. The list is intentionally small and verified by hand.
+def _fetch_priority_probe():
+    boards = priority_boards.boards()
+    print(f"Fetching {len(boards)} priority ATS boards (cooldown-exempt)...")
+    all_raw = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=12) as ex:
+        futs = [ex.submit(_fetch_company_jobs, name, ats, slug)
+                for name, ats, slug in boards]
+        for fut in concurrent.futures.as_completed(futs):
+            result = fut.result()
+            if result:
+                all_raw.append(result)
+
+    print(f"  Fetched {len(all_raw)}/{len(boards)} priority endpoints successfully")
+
+    all_rows = []
+    for company, ats_type, data in all_raw:
+        all_rows.extend(_normalize_ats_jobs(company, ats_type, data))
+
+    print(f"  Total raw priority jobs: {len(all_rows):,}")
+    if not all_rows:
+        return pd.DataFrame()
+
+    df = pd.DataFrame(all_rows)
+    df = _classify_freehire(df)
+    print(f"  After classification: {len(df):,}")
+    return df
+
+
 # ── Freehire (medium tier) ────────────────────────────────────────────────────
 # Fetch tech internships + entry-level roles from freehire.me (covers 75+ ATS)
 fh_df = pd.DataFrame()
@@ -1148,7 +1187,7 @@ else:
     fh_df = _load_cached(TIER_MEDIUM)
 print(f"  Freehire working set: {len(fh_df):,} rows")
 
-source_contrib = {TIER_LIGHT: [0, 0], TIER_MEDIUM: [0, 0], TIER_HEAVY: [0, 0]}
+source_contrib = {TIER_LIGHT: [0, 0], TIER_MEDIUM: [0, 0], TIER_HEAVY: [0, 0], TIER_PRIORITY: [0, 0]}
 
 # Remove jobs already covered by jobhive
 if not fh_df.empty:
@@ -1226,6 +1265,62 @@ if not ats_df.empty:
         subset=["company", "role", "location"], keep="first"
     )
     print(f"  ATS probe added: {source_contrib[TIER_HEAVY][0]} to README, {source_contrib[TIER_HEAVY][1]} to listings")
+
+# ── Direct ATS probing (priority fast lane) ──────────────────────────────────
+# Runs on every priority cycle (or as part of --tier all) with no cooldown, so
+# the refreshed rows are always the newest; the parquet cache lets a
+# priority-only run reuse the (unchanged) heavy/medium rows.
+priority_df = pd.DataFrame()
+if TIER_PRIORITY in RUN_TIERS:
+    print("Fetching priority ATS data...")
+    pri_probe_df = _fetch_priority_probe()
+    if pri_probe_df is None:
+        pri_probe_df = pd.DataFrame()
+    if not pri_probe_df.empty:
+        pri_probe_df = _stamp(pri_probe_df, "priority", now)
+    if pri_probe_df.empty:
+        previous = _load_cached(TIER_PRIORITY)
+        if not previous.empty:
+            print(f"  Priority fetch empty: reusing {len(previous):,} cached priority rows")
+            priority_df = previous
+        else:
+            priority_df = pri_probe_df
+    else:
+        priority_df = pri_probe_df
+    _save_cache(priority_df, TIER_PRIORITY)
+else:
+    priority_df = _load_cached(TIER_PRIORITY)
+print(f"  Priority working set: {len(priority_df):,} rows")
+
+if not priority_df.empty:
+    pri_for_readme = priority_df[
+        ~priority_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                          'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                          'HR','BG','FI','LU','BE','MT','CY'])
+        & (_to_dt(priority_df["date"]) >= now - pd.Timedelta(days=60))
+        & priority_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    pri_for_listings = priority_df[
+        _to_dt(priority_df["date"]) >= now - pd.Timedelta(days=90)
+    ].copy()
+    source_contrib[TIER_PRIORITY] = [len(pri_for_readme), len(pri_for_listings)]
+
+    # Priority rows are the freshest copies (polled with no cooldown), so they
+    # must win over a staler cached ATS/probe copy of the same posting. Drop the
+    # base row a priority row supersedes before appending, rather than dropping
+    # the priority row (which is what the other tiers do — they run after and
+    # only add genuinely new companies).
+    readme_result = _dedup_across(pri_for_readme, readme_result)
+    readme_result = pd.concat([readme_result, pri_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = _dedup_across(pri_for_listings, listings_result)
+    listings_result = pd.concat([listings_result, pri_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  Priority added: {source_contrib[TIER_PRIORITY][0]} to README, {source_contrib[TIER_PRIORITY][1]} to listings")
 
 # ── Markdown GitHub sources (light tier, no API calls) ──────────────────────
 md_df = pd.DataFrame()
@@ -1475,17 +1570,18 @@ listings_result = _feed_scope_filter(listings_result[tech_mask])
 # be outside the run's lookback window).
 def _row_source(row):
     src = str(row.get("source") or "").strip()
-    return src if src in ("jobhive", "freehire", "ats") else "md"
+    return src if src in ("jobhive", "freehire", "ats", "priority") else "md"
 
 
 def _seen_bucket(src):
-    return src if src in ("jobhive", "freehire", "ats") else "md"
+    return src if src in ("jobhive", "freehire", "ats", "priority") else "md"
 
 
 buckets_fresh = {
     "jobhive": True,
     "freehire": TIER_MEDIUM in RUN_TIERS,
     "ats": TIER_HEAVY in RUN_TIERS,
+    "priority": TIER_PRIORITY in RUN_TIERS,
     "md": TIER_LIGHT in RUN_TIERS,
 }
 
@@ -1598,6 +1694,7 @@ API_SOURCES = [
     {"name": "EchoJobs", "url": "https://echojobs.io", "type": "internship/tech", "count_key": "echojobs"},
     {"name": "Jobspy (Indeed)", "url": "https://github.com/zanellia/jobspy", "type": "internship", "count_key": "jobspy"},
     {"name": "ATS career-page probe", "url": "", "type": "internship/newgrad", "count_key": "ats"},
+    {"name": "Priority ATS (hot companies)", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/priority_boards.py", "type": "all roles, refreshed every 15 min", "count_key": "priority"},
 ]
 sources_out = [
     {
@@ -1690,6 +1787,17 @@ readme_generation.write_listings_json(
     listings_result, output_dir="..", mirror_dataframe=searchtern_result
 )
 
+_d_new, _d_total = discover_boards.update_state(searchtern_result)
+if _d_new:
+    print(f"  Board discovery: +{_d_new} new employer ATS boards ({_d_total} tracked)")
+
+# Small high-frequency "fast lane" feed: recent postings from the curated
+# priority boards only, so a frequent workflow can refresh it without
+# committing the multi-MB main feeds.
+if not priority_df.empty:
+    _pri_window = _to_dt(priority_df["date"]) >= now - pd.Timedelta(days=7)
+    readme_generation.write_priority_json(priority_df[_pri_window], output_dir="..")
+
 # --- Output change detection ---
 _listings_path = os.path.join("..", "pages", "listings.json")
 if os.path.exists(_listings_path):
@@ -1706,6 +1814,7 @@ if os.path.exists(_listings_path):
 # --- Metrics ---
 r_md, r_fh, r_ats = (source_contrib[TIER_LIGHT][0], source_contrib[TIER_MEDIUM][0], source_contrib[TIER_HEAVY][0])
 l_md, l_fh, l_ats = (source_contrib[TIER_LIGHT][1], source_contrib[TIER_MEDIUM][1], source_contrib[TIER_HEAVY][1])
+r_pri, l_pri = source_contrib[TIER_PRIORITY][0], source_contrib[TIER_PRIORITY][1]
 print("\n--- Markdown source pull counts ---")
 for name, count in md_source_stats:
     print(f"  {name:<28} {count:>5,} rows")
@@ -1713,7 +1822,7 @@ print("\n--- README stats ---")
 r_total = len(readme_result)
 r_internships = (readme_result["job_type"] == "internship").sum()
 r_new_grads = (readme_result["job_type"] == "new_grad").sum()
-print(f"Total listings  : {r_total:,}  (+{r_fh} freehire+indeed, +{r_ats} ats-probe, +{r_md} markdown)")
+print(f"Total listings  : {r_total:,}  (+{r_fh} freehire+indeed, +{r_ats} ats-probe, +{r_pri} priority, +{r_md} markdown)")
 print(f"  Internships   : {int(r_internships):,}")
 print(f"  New grad      : {int(r_new_grads):,}")
 
@@ -1724,7 +1833,7 @@ l_new_grads = (listings_result["job_type"] == "new_grad").sum()
 l_remote = (listings_result["is_remote"].astype(str).str.lower() == "true").sum()
 numeric_salary = pd.to_numeric(listings_result["salary_min"], errors='coerce')
 l_paid = (numeric_salary > 0).sum()
-print(f"Total listings  : {l_total:,}  (+{l_fh} freehire+indeed, +{l_ats} ats-probe, +{l_md} markdown)")
+print(f"Total listings  : {l_total:,}  (+{l_fh} freehire+indeed, +{l_ats} ats-probe, +{l_pri} priority, +{l_md} markdown)")
 print(f"  Internships   : {int(l_internships):,}")
 print(f"  New grad      : {int(l_new_grads):,}")
 print(f"Remote roles    : {int(l_remote):,}")
