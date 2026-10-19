@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 15
 
-**Page 15 of 43 — 23,050 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 15 of 42 — 22,906 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-16.md)
 
@@ -1896,7 +1896,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Cyber Security Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ottawa<br>Ontario<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.ca/jat5000jat/JobBoard/df50e66e-c710-4410-afdb-88066904e063/OpportunityDetail?opportunityId=233b39e3-fdb4-4573-b178-bb0b87d653dd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/vargasandrews/job/7X577R9X"><strong>Vargasandrews</strong></a></td>
@@ -2393,7 +2393,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer - Ops &amp; Infrastructure S...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Parnell<br>Auckland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.co.nz/job/95008558" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ph.jobstreet.com/job/94993336"><strong>Bounty Fresh Food...</strong></a></td>
@@ -2498,7 +2498,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Analyst, Global Meeting Services ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>Philippines</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://startup.jobs/junior-data-analyst-global-meeting-services-americas-stoxx-10445077" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
+<td style="white-space:nowrap;">2d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95328297"><strong>Lea Sports Centre...</strong></a></td>
@@ -2512,14 +2512,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote (United States | Canada)</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e">↳ <strong>1password</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Security Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote (United States | Canada)</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://th.jobsdb.com/job/95292294"><strong>Elabram</strong></a></td>
@@ -2561,7 +2561,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Integration Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Christchurch Central<br>Canterbury</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.co.nz/job/95272423" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://business-umbrella.zohorecruit.com/jobs/Careers/590137000012164038"><strong>Business Umbrella</strong></a></td>
@@ -3310,7 +3310,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Intern (Summer 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Chicago</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/apexcompanies/jobs/5435361008"><strong>Apex Companies</strong></a></td>
