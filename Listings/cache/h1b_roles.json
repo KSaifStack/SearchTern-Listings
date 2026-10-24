@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-24T22:18:29Z",
+ "built_at": "2026-10-24T22:23:30Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -369,6 +369,112 @@
    "label": "AllianceAnimalHealth",
    "titles": []
   },
+  "alliancebernstein": {
+   "fetched_at": "2026-10-24T22:23:08Z",
+   "label": "Alliancebernstein",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "PORTFOLIO ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "VP SENIOR DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "VP TECHNICAL LEAD DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": ".NET DEVELOPER TECH LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 151149,
+     "title": "AO .NET WEB DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "AO ASSOCIATE, PRIVATE CREDIT INVESTORS FINANCIAL REPORTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "AO DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 121736,
+     "title": "AO PRODUCTION SUPPORT LEAD SENIOR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 146141,
+     "title": "AO QUANTITATIVE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "ASSISTANT VICE PRESIDENT INVESTMENT STRATEGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 109065,
+     "title": "AVP GLOBAL ANALYTICS QUANTITATIVE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "AVP MICROSTRATEGY DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 121700,
+     "title": "AVP POWER BI DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 179088,
+     "title": "AVP QUANTITATIVE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "AVP QUANTITATIVE RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128740,
+     "title": "AVP SENIOR DATABASE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 139450,
+     "title": "AVP SENIOR DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144778,
+     "title": "AVP SENIOR SALESFORCE SOFTWARE ENGINEER &AMP; TECHNOLOGY LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "FIXED INCOME ASSOCIATE PORTFOLIO MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108000,
+     "title": "FUND ADMINISTRATION ANALYST"
+    }
+   ]
+  },
   "alphabeinsightinc": {
    "fetched_at": "2026-10-24T20:11:12Z",
    "label": "alphabeinsightinc",
@@ -484,6 +590,73 @@
    "fetched_at": "2026-10-24T20:11:15Z",
    "label": "\ud83d\udd25 AMD",
    "titles": []
+  },
+  "amentum": {
+   "fetched_at": "2026-10-24T22:23:09Z",
+   "label": "Amentum",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "DATA CURATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 87589,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 106698,
+     "title": "ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SOFTWARE PROGRAMMER"
+    }
+   ]
+  },
+  "ameren https ameren wd1 myworkdayjobs com external job st louis mo gis co op real estate 033670 1": {
+   "fetched_at": "2026-10-24T22:23:10Z",
+   "label": "[Ameren](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/GIS-Co-op--Real-Estate-_033670-1)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 216770,
+     "title": "LEAD TECHNICAL ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 150500,
+     "title": "LEAD BUSINESS ANALYST ORACLE CLOUD"
+    },
+    {
+     "count": 1,
+     "median_salary": 152700,
+     "title": "LEAD BUSINESS INTELLIGENCE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175500,
+     "title": "LEAD ENTERPRISE GEOSPATIAL ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 161700,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 138200,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130200,
+     "title": "SENIOR TECHNICAL ARCHITECT"
+    }
+   ]
   },
   "american express": {
    "fetched_at": "2026-10-24T20:11:16Z",
@@ -708,7 +881,7 @@
    "titles": []
   },
   "analog devices": {
-   "fetched_at": "2026-10-24T22:18:11Z",
+   "fetched_at": "2026-10-24T22:23:11Z",
    "label": "Analog Devices",
    "titles": [
     {
@@ -814,7 +987,7 @@
    ]
   },
   "anduril": {
-   "fetched_at": "2026-10-24T22:18:12Z",
+   "fetched_at": "2026-10-24T22:23:12Z",
    "label": "Anduril",
    "titles": [
     {
@@ -824,39 +997,28 @@
     }
    ]
   },
-  "anduril industries": {
-   "fetched_at": "2026-10-24T22:18:13Z",
-   "label": "Anduril Industries",
-   "titles": [
-    {
-     "count": 1,
-     "median_salary": 143000,
-     "title": "TEST ENGINEER MECHATRONICS SYSTEMS ENGINEER"
-    }
-   ]
-  },
   "andurilindustries": {
-   "fetched_at": "2026-10-24T22:18:14Z",
+   "fetched_at": "2026-10-24T22:23:13Z",
    "label": "andurilindustries",
    "titles": []
   },
   "aogarciaagency": {
-   "fetched_at": "2026-10-24T22:18:15Z",
+   "fetched_at": "2026-10-24T22:23:14Z",
    "label": "aogarciaagency",
    "titles": []
   },
   "aoglobelifebrittmarieyarian": {
-   "fetched_at": "2026-10-24T22:18:15Z",
+   "fetched_at": "2026-10-24T22:23:16Z",
    "label": "aoglobelifebrittmarieyarian",
    "titles": []
   },
   "aoglobelifesholaadebayo": {
-   "fetched_at": "2026-10-24T22:18:16Z",
+   "fetched_at": "2026-10-24T22:23:17Z",
    "label": "aoglobelifesholaadebayo",
    "titles": []
   },
   "apple": {
-   "fetched_at": "2026-10-24T22:18:18Z",
+   "fetched_at": "2026-10-24T22:23:18Z",
    "label": "Apple",
    "titles": [
     {
@@ -962,7 +1124,7 @@
    ]
   },
   "applied materials": {
-   "fetched_at": "2026-10-24T22:18:19Z",
+   "fetched_at": "2026-10-24T22:23:19Z",
    "label": "Applied Materials",
    "titles": [
     {
@@ -1068,7 +1230,7 @@
    ]
   },
   "aptiv": {
-   "fetched_at": "2026-10-24T22:18:20Z",
+   "fetched_at": "2026-10-24T22:23:20Z",
    "label": "Aptiv",
    "titles": [
     {
@@ -1174,7 +1336,7 @@
    ]
   },
   "arcadis": {
-   "fetched_at": "2026-10-24T22:18:20Z",
+   "fetched_at": "2026-10-24T22:23:21Z",
    "label": "Arcadis",
    "titles": [
     {
@@ -1280,7 +1442,7 @@
    ]
   },
   "astera labs early career north america 2027": {
-   "fetched_at": "2026-10-24T22:18:21Z",
+   "fetched_at": "2026-10-24T22:23:23Z",
    "label": "Astera Labs Early Career - North America 2027",
    "titles": [
     {
@@ -1386,17 +1548,17 @@
    ]
   },
   "astranis": {
-   "fetched_at": "2026-10-24T22:18:22Z",
+   "fetched_at": "2026-10-24T22:23:24Z",
    "label": "Astranis",
    "titles": []
   },
   "au small finance bank": {
-   "fetched_at": "2026-10-24T22:18:24Z",
+   "fetched_at": "2026-10-24T22:23:26Z",
    "label": "AU Small Finance Bank",
    "titles": []
   },
   "aumovio": {
-   "fetched_at": "2026-10-24T22:18:24Z",
+   "fetched_at": "2026-10-24T22:23:26Z",
    "label": "aumovio",
    "titles": [
     {
@@ -1406,160 +1568,114 @@
     }
    ]
   },
-  "bank of montreal": {
-   "fetched_at": "2026-10-24T22:18:25Z",
-   "label": "Bank of Montreal",
+  "auto owners insurance": {
+   "fetched_at": "2026-10-24T22:23:28Z",
+   "label": "Auto Owners Insurance",
    "titles": [
     {
-     "count": 1,
-     "median_salary": 176571,
-     "title": "CM DIRECTOR-IC CORPORATE BANKING II"
+     "count": 25,
+     "median_salary": 149800,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
     },
     {
-     "count": 1,
-     "median_salary": 179088,
-     "title": "DIRECTOR, CORPORATE BANKING"
-    },
-    {
-     "count": 1,
-     "median_salary": 188178,
-     "title": "SENIOR MANAGER-PM MARKET RISK OVERSIGHT &AMP; GOVERNANCE I"
-    },
-    {
-     "count": 1,
-     "median_salary": 189511,
-     "title": "SENIOR MANAGER-PM TECHNOLOGY OPERATIONS"
-    },
-    {
-     "count": 1,
-     "median_salary": 97586,
-     "title": "SPECIALIST II-IC DEVELOPMENT"
-    },
-    {
-     "count": 1,
-     "median_salary": 116146,
-     "title": "SPECIALIST III-IC DEVELOPMENT"
-    },
-    {
-     "count": 1,
-     "median_salary": 152794,
-     "title": "SPECIALIST III-IC MARKET RISK OVERSIGHT &AMP; GOVERNANCE I"
-    },
-    {
-     "count": 1,
-     "median_salary": 88063,
-     "title": "SPECIALIST-IC DEVELOPMENT"
-    }
-   ]
-  },
-  "barclays": {
-   "fetched_at": "2026-10-24T22:18:26Z",
-   "label": "Barclays",
-   "titles": [
-    {
-     "count": 28,
-     "median_salary": 124000,
-     "title": "SOFTWARE ENGINEER"
+     "count": 23,
+     "median_salary": 142800,
+     "title": "SENIOR SOFTWARE ENGINEER"
     },
     {
      "count": 20,
-     "median_salary": 220000,
-     "title": "VICE PRESIDENT - GLOBAL MARKETS"
+     "median_salary": 142446,
+     "title": "SOFTWARE ENGINEER"
     },
     {
-     "count": 19,
-     "median_salary": 155000,
-     "title": "FULL STACK DEVELOPER"
+     "count": 14,
+     "median_salary": 117291,
+     "title": "DATA SCIENTIST"
     },
     {
-     "count": 15,
-     "median_salary": 137500,
-     "title": "DEVELOPER"
-    },
-    {
-     "count": 12,
-     "median_salary": 124270,
-     "title": "DATA ENGINEER"
-    },
-    {
-     "count": 12,
-     "median_salary": 160850,
-     "title": "SOFTWARE ENGINEER - AVP"
-    },
-    {
-     "count": 11,
-     "median_salary": 113850,
-     "title": "SOFTWARE ENGINEER - BA4"
-    },
-    {
-     "count": 10,
-     "median_salary": 168930,
-     "title": "AVP, SOFTWARE ENGINEER"
-    },
-    {
-     "count": 10,
-     "median_salary": 121125,
-     "title": "INFRASTRUCTURE ENGINEER"
-    },
-    {
-     "count": 9,
-     "median_salary": 157477,
-     "title": "AVP, SENIOR JAVA DEVELOPER"
-    },
-    {
-     "count": 9,
-     "median_salary": 133000,
-     "title": "JAVA DEVELOPER"
-    },
-    {
-     "count": 8,
-     "median_salary": 140000,
-     "title": "BUSINESS ANALYST"
+     "count": 14,
+     "median_salary": 117500,
+     "title": "SYSTEMS ENGINEER"
     },
     {
      "count": 7,
-     "median_salary": 110000,
-     "title": "TECHNOLOGY ANALYST"
+     "median_salary": 85000,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 88234,
+     "title": "CONTROLS ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 159044,
+     "title": "MANAGER, SOFTWARE DEVELOPMENT"
     },
     {
      "count": 6,
-     "median_salary": 182622,
-     "title": "APPLICATION DEVELOPER"
+     "median_salary": 152240,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 180596,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 139750,
+     "title": "SR. SYSTEMS ENGINEER"
     },
     {
      "count": 5,
-     "median_salary": 122000,
-     "title": "BACKEND SOFTWARE DEVELOPER"
+     "median_salary": 130000,
+     "title": "DATA ENGINEER"
     },
     {
      "count": 5,
-     "median_salary": 194000,
-     "title": "SENIOR DEVELOPER"
+     "median_salary": 158000,
+     "title": "IT MANAGER"
+    },
+    {
+     "count": 5,
+     "median_salary": 83803,
+     "title": "PROJECT ENGINEER"
     },
     {
      "count": 4,
-     "median_salary": 149500,
-     "title": "ASSISTANT VICE PRESIDENT"
+     "median_salary": 100505,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
     },
     {
      "count": 4,
-     "median_salary": 160000,
-     "title": "ASSISTANT VP - GLOBAL MARKETS"
+     "median_salary": 117500,
+     "title": "ENGINEERING MANAGER"
     },
     {
      "count": 4,
-     "median_salary": 155300,
-     "title": "AVP, FULL STACK DEVELOPER"
+     "median_salary": 165963,
+     "title": "PRINCIPAL SOFTWARE DEVELOPMENT ENGINEER"
     },
     {
      "count": 4,
-     "median_salary": 147262,
-     "title": "AVP, SENIOR APP SUPPORT SPECIALIST"
+     "median_salary": 158204,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 199192,
+     "title": "SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 130655,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
     }
    ]
   },
   "base power": {
-   "fetched_at": "2026-10-24T22:18:27Z",
+   "fetched_at": "2026-10-24T22:23:29Z",
    "label": "base-power",
    "titles": [
     {
@@ -1590,119 +1706,13 @@
    ]
   },
   "bayada": {
-   "fetched_at": "2026-10-24T22:18:27Z",
+   "fetched_at": "2026-10-24T22:23:30Z",
    "label": "bayada",
    "titles": [
     {
      "count": 1,
      "median_salary": 159500,
      "title": "SUPERVISOR, TECHNICAL LEAD, SOFTWARE ENGINEER"
-    }
-   ]
-  },
-  "bayer": {
-   "fetched_at": "2026-10-24T22:18:28Z",
-   "label": "Bayer",
-   "titles": [
-    {
-     "count": 6,
-     "median_salary": 139749,
-     "title": "DATA SCIENTIST"
-    },
-    {
-     "count": 6,
-     "median_salary": 135673,
-     "title": "SENIOR SOFTWARE ENGINEER"
-    },
-    {
-     "count": 5,
-     "median_salary": 143651,
-     "title": "STAFF DATA ENGINEER"
-    },
-    {
-     "count": 4,
-     "median_salary": 143954,
-     "title": "SENIOR DATA ENGINEER"
-    },
-    {
-     "count": 3,
-     "median_salary": 113652,
-     "title": "ASSOCIATE DATA SCIENTIST"
-    },
-    {
-     "count": 3,
-     "median_salary": 157124,
-     "title": "SENIOR DATA SCIENTIST"
-    },
-    {
-     "count": 3,
-     "median_salary": 128048,
-     "title": "SENIOR ESTIMATOR"
-    },
-    {
-     "count": 3,
-     "median_salary": 119266,
-     "title": "SR. AUTOMATION ENGINEER"
-    },
-    {
-     "count": 3,
-     "median_salary": 139968,
-     "title": "SR. DATA ENGINEER"
-    },
-    {
-     "count": 3,
-     "median_salary": 136379,
-     "title": "SR. SOFTWARE ENGINEER"
-    },
-    {
-     "count": 3,
-     "median_salary": 157361,
-     "title": "STAFF SOFTWARE ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 132707,
-     "title": "DEVOPS ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 118000,
-     "title": "HYBRID FIELD AGRONOMIST II"
-    },
-    {
-     "count": 2,
-     "median_salary": 164622,
-     "title": "LEAD DATA ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 224000,
-     "title": "LEAD MEDICAL SCIENCE LIAISON"
-    },
-    {
-     "count": 2,
-     "median_salary": 190261,
-     "title": "MANAGER DATA STRATEGY MANAGEMENT COE"
-    },
-    {
-     "count": 2,
-     "median_salary": 160000,
-     "title": "MEDICAL AFFAIRS DATA ANALYST"
-    },
-    {
-     "count": 2,
-     "median_salary": 166807,
-     "title": "PROCESS &AMP; DATA MANAGER"
-    },
-    {
-     "count": 2,
-     "median_salary": 102128,
-     "title": "PROCESS ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 91000,
-     "title": "QA SPECIALIST"
     }
    ]
   }
