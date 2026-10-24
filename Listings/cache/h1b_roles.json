@@ -1,18 +1,18 @@
 {
- "built_at": "2026-10-24T20:07:55Z",
+ "built_at": "2026-10-24T20:11:19Z",
  "companies": {
   "1password": {
-   "fetched_at": "2026-10-24T20:07:34Z",
+   "fetched_at": "2026-10-24T20:11:00Z",
    "label": "1Password",
    "titles": []
   },
   "abb": {
-   "fetched_at": "2026-10-24T20:07:35Z",
+   "fetched_at": "2026-10-24T20:11:01Z",
    "label": "ABB",
    "titles": []
   },
   "abbvie": {
-   "fetched_at": "2026-10-24T20:07:36Z",
+   "fetched_at": "2026-10-24T20:11:02Z",
    "label": "AbbVie",
    "titles": [
     {
@@ -118,22 +118,22 @@
    ]
   },
   "accorhotel": {
-   "fetched_at": "2026-10-24T20:07:37Z",
+   "fetched_at": "2026-10-24T20:11:03Z",
    "label": "AccorHotel",
    "titles": []
   },
   "acluinternships": {
-   "fetched_at": "2026-10-24T20:07:38Z",
+   "fetched_at": "2026-10-24T20:11:04Z",
    "label": "acluinternships",
    "titles": []
   },
   "actalentservices": {
-   "fetched_at": "2026-10-24T20:07:39Z",
+   "fetched_at": "2026-10-24T20:11:05Z",
    "label": "actalentservices",
    "titles": []
   },
   "adobe": {
-   "fetched_at": "2026-10-24T20:07:40Z",
+   "fetched_at": "2026-10-24T20:11:06Z",
    "label": "Adobe",
    "titles": [
     {
@@ -239,22 +239,22 @@
    ]
   },
   "aecom2": {
-   "fetched_at": "2026-10-24T20:07:41Z",
+   "fetched_at": "2026-10-24T20:11:07Z",
    "label": "aecom2",
    "titles": []
   },
   "aerotek": {
-   "fetched_at": "2026-10-24T20:07:42Z",
+   "fetched_at": "2026-10-24T20:11:08Z",
    "label": "aerotek",
    "titles": []
   },
   "aerovironment": {
-   "fetched_at": "2026-10-24T20:07:43Z",
+   "fetched_at": "2026-10-24T20:11:09Z",
    "label": "AeroVironment",
    "titles": []
   },
   "affirm": {
-   "fetched_at": "2026-10-24T20:07:44Z",
+   "fetched_at": "2026-10-24T20:11:09Z",
    "label": "Affirm",
    "titles": [
     {
@@ -360,22 +360,22 @@
    ]
   },
   "aisle and abroad": {
-   "fetched_at": "2026-10-24T20:07:45Z",
+   "fetched_at": "2026-10-24T20:11:11Z",
    "label": "aisle_and_abroad",
    "titles": []
   },
   "allianceanimalhealth": {
-   "fetched_at": "2026-10-24T20:07:46Z",
+   "fetched_at": "2026-10-24T20:11:12Z",
    "label": "AllianceAnimalHealth",
    "titles": []
   },
   "alphabeinsightinc": {
-   "fetched_at": "2026-10-24T20:07:47Z",
+   "fetched_at": "2026-10-24T20:11:12Z",
    "label": "alphabeinsightinc",
    "titles": []
   },
   "amazon": {
-   "fetched_at": "2026-10-24T20:07:50Z",
+   "fetched_at": "2026-10-24T20:11:14Z",
    "label": "Amazon",
    "titles": [
     {
@@ -481,12 +481,12 @@
    ]
   },
   "amd": {
-   "fetched_at": "2026-10-24T20:07:51Z",
+   "fetched_at": "2026-10-24T20:11:15Z",
    "label": "\ud83d\udd25 AMD",
    "titles": []
   },
   "american express": {
-   "fetched_at": "2026-10-24T20:07:52Z",
+   "fetched_at": "2026-10-24T20:11:16Z",
    "label": "American Express",
    "titles": [
     {
@@ -592,12 +592,12 @@
    ]
   },
   "americanincomelifeaokevinblomquist": {
-   "fetched_at": "2026-10-24T20:07:53Z",
+   "fetched_at": "2026-10-24T20:11:17Z",
    "label": "americanincomelifeaokevinblomquist",
    "titles": []
   },
   "amgen": {
-   "fetched_at": "2026-10-24T20:07:54Z",
+   "fetched_at": "2026-10-24T20:11:17Z",
    "label": "Amgen",
    "titles": [
     {
@@ -703,7 +703,7 @@
    ]
   },
   "amtengineering": {
-   "fetched_at": "2026-10-24T20:07:55Z",
+   "fetched_at": "2026-10-24T20:11:18Z",
    "label": "amtengineering",
    "titles": []
   }
