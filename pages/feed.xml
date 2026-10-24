@@ -5,14 +5,21 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 20:11:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 22:18:58 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Software Engineer Intern at Amazon</title>
       <link>https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa</link>
       <guid isPermaLink="true">https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa</guid>
-      <pubDate>Sat, 24 Oct 2026 19:31:10 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 22:09:32 +0000</pubDate>
       <description>Redmond, WA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Pipefitter at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8906240002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8906240002</guid>
+      <pubDate>Sat, 24 Oct 2026 20:09:32 +0000</pubDate>
+      <description>Starbase, TX | Construction/Trades | new_grad</description>
     </item>
     <item>
       <title>Internship in Technology - Software Engineer at Dimensional Fund Advisors</title>
@@ -519,13 +526,6 @@
       <description>Long Beach, CA | Hardware/Embedded | internship</description>
     </item>
     <item>
-      <title>NDT Technician at Anduril</title>
-      <link>https://boards.greenhouse.io/andurilindustries/jobs/5272426007</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/andurilindustries/jobs/5272426007</guid>
-      <pubDate>Sat, 24 Oct 2026 07:31:10 +0000</pubDate>
-      <description>McHenry, Mississippi, United States | Construction/Trades | new_grad</description>
-    </item>
-    <item>
       <title>Cloud Software Engineering Internship at Idemia Leader In Biometrics And Cryptography</title>
       <link>https://echojobs.io/job/idemia-leader-in-biometrics-and-cryptography-cloud-software-engineering-internship-7q21u</link>
       <guid isPermaLink="true">https://echojobs.io/job/idemia-leader-in-biometrics-and-cryptography-cloud-software-engineering-internship-7q21u</guid>
@@ -533,17 +533,24 @@
       <description>Reston, VA, States | DevOps/SRE | internship</description>
     </item>
     <item>
+      <title>NDT Technician at Anduril</title>
+      <link>https://boards.greenhouse.io/andurilindustries/jobs/5272426007</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/andurilindustries/jobs/5272426007</guid>
+      <pubDate>Sat, 24 Oct 2026 07:09:32 +0000</pubDate>
+      <description>McHenry, Mississippi, United States | Construction/Trades | new_grad</description>
+    </item>
+    <item>
       <title>Incident Manager, Safeguards at Anthropic</title>
       <link>https://boards.greenhouse.io/anthropic/jobs/5462881008</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/anthropic/jobs/5462881008</guid>
-      <pubDate>Sat, 24 Oct 2026 05:31:10 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 05:09:32 +0000</pubDate>
       <description>San Francisco, CA New York... | Other | new_grad</description>
     </item>
     <item>
       <title>Materials Manager (R6373) at Shield Ai</title>
       <link>https://jobs.lever.co/shieldai/c7d0a9c1-e283-4e10-8a51-6aee31498eff</link>
       <guid isPermaLink="true">https://jobs.lever.co/shieldai/c7d0a9c1-e283-4e10-8a51-6aee31498eff</guid>
-      <pubDate>Sat, 24 Oct 2026 02:31:10 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 02:09:32 +0000</pubDate>
       <description>Dallas, Texas | Hardware/Embedded | new_grad</description>
     </item>
     <item>
@@ -554,18 +561,18 @@
       <description>Trenton, US-OH, United States | Finance/Quant | internship</description>
     </item>
     <item>
-      <title>Non-Alc Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39737</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39737</guid>
-      <pubDate>Sat, 24 Oct 2026 00:42:26 +0000</pubDate>
-      <description>Sacramento, US-CA, United States | Other | internship</description>
-    </item>
-    <item>
       <title>Customer Supply Excellence Intern at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/39788</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/39788</guid>
       <pubDate>Sat, 24 Oct 2026 00:42:26 +0000</pubDate>
       <description>Milwaukee, US-WI, United States | Other | internship</description>
+    </item>
+    <item>
+      <title>Non-Alc Intern at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/39737</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39737</guid>
+      <pubDate>Sat, 24 Oct 2026 00:42:26 +0000</pubDate>
+      <description>Sacramento, US-CA, United States | Other | internship</description>
     </item>
     <item>
       <title>Brewery Operations Intern - Brewing at Molsoncoors</title>
@@ -624,18 +631,18 @@
       <description>Atlanta, US-GA, United States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Brewery Operations Intern - Brewery/Warehouse at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39784</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39784</guid>
-      <pubDate>Sat, 24 Oct 2026 00:42:25 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
       <title>Non-Alc Intern at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/39750</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/39750</guid>
       <pubDate>Sat, 24 Oct 2026 00:42:25 +0000</pubDate>
       <description>Plano, US-TX, United States | Other | internship</description>
+    </item>
+    <item>
+      <title>Brewery Operations Intern - Brewery/Warehouse at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/39784</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39784</guid>
+      <pubDate>Sat, 24 Oct 2026 00:42:25 +0000</pubDate>
+      <description>Milwaukee, US-WI, United States | Operations/Supply | internship</description>
     </item>
     <item>
       <title>Field Sales Intern - Great Lakes at Molsoncoors</title>
@@ -673,18 +680,18 @@
       <description>Burley, US-ID, United States | Research/Science | internship</description>
     </item>
     <item>
-      <title>Field Sales Intern - National Accounts at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40128</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40128</guid>
-      <pubDate>Sat, 24 Oct 2026 00:42:25 +0000</pubDate>
-      <description>Bentonville, US-AR, United States | Sales/Business Dev | internship</description>
-    </item>
-    <item>
       <title>Brewery Operation Intern - Quality at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/39756</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/39756</guid>
       <pubDate>Sat, 24 Oct 2026 00:42:25 +0000</pubDate>
       <description>Shenandoah, US-VA, United States | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Field Sales Intern - National Accounts at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/40128</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40128</guid>
+      <pubDate>Sat, 24 Oct 2026 00:42:25 +0000</pubDate>
+      <description>Bentonville, US-AR, United States | Sales/Business Dev | internship</description>
     </item>
     <item>
       <title>Brewery Operations Intern - Tech Services at Molsoncoors</title>
@@ -778,32 +785,32 @@
       <description>San Francisco, CA, USA | Data/ML/AI | internship</description>
     </item>
     <item>
-      <title>Developer Productivity Intern \[Winter 2027\] at Figure Ai</title>
-      <link>https://boards.greenhouse.io/figureai/jobs/4724521006</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/figureai/jobs/4724521006</guid>
-      <pubDate>Sat, 24 Oct 2026 00:31:10 +0000</pubDate>
-      <description>San Jose, CA | Product/Design | internship</description>
+      <title>Account Development Representative Intern - Phoenix at Samsara</title>
+      <link>https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784</link>
+      <guid isPermaLink="true">https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784</guid>
+      <pubDate>Fri, 23 Oct 2026 20:28:02 -0400</pubDate>
+      <description>Phoenix, Arizona, United States | Other | internship</description>
     </item>
     <item>
       <title>Procurement Operations Specialist at Openai</title>
       <link>https://jobs.ashbyhq.com/openai/c9832989-edc1-4f2f-8a79-8fa29f5623e2</link>
       <guid isPermaLink="true">https://jobs.ashbyhq.com/openai/c9832989-edc1-4f2f-8a79-8fa29f5623e2</guid>
-      <pubDate>Sat, 24 Oct 2026 00:31:10 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 00:09:32 +0000</pubDate>
       <description>San Francisco | Operations/Supply | new_grad</description>
     </item>
     <item>
       <title>Recruiting Coordinator at Muon Space</title>
       <link>https://boards.greenhouse.io/muonspace/jobs/5274545007</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/muonspace/jobs/5274545007</guid>
-      <pubDate>Sat, 24 Oct 2026 00:31:10 +0000</pubDate>
+      <pubDate>Sat, 24 Oct 2026 00:09:32 +0000</pubDate>
       <description>San Jose, CA | Human Resources | new_grad</description>
     </item>
     <item>
-      <title>Account Development Representative Intern - Phoenix at Samsara</title>
-      <link>https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784</link>
-      <guid isPermaLink="true">https://www.samsara.com/company/careers/roles/8319784?gh_jid=8319784</guid>
-      <pubDate>Fri, 23 Oct 2026 20:28:02 -0400</pubDate>
-      <description>Phoenix, Arizona, United States | Other | internship</description>
+      <title>Developer Productivity Intern \[Winter 2027\] at Figure Ai</title>
+      <link>https://boards.greenhouse.io/figureai/jobs/4724521006</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/figureai/jobs/4724521006</guid>
+      <pubDate>Sat, 24 Oct 2026 00:09:31 +0000</pubDate>
+      <description>San Jose, CA | Product/Design | internship</description>
     </item>
     <item>
       <title>Front End Entry Level at Albertsons Companies</title>
@@ -874,6 +881,13 @@
       <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4457019748</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>South San Francisco, CA, USA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Software Engineer Intern, Backend (Summer 2027 - SF) at LYFT</title>
+      <link>https://www.linkedin.com/jobs/view/4466352454</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4466352454</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>San Francisco County, CA, USA | Software Engineering | internship</description>
     </item>
     <item>
       <title>Software Engineer Intern (Distributed NoSQL Database Systems) - 2027 Summer at Bytedance</title>
@@ -1121,6 +1135,13 @@
       <description>Atlanta, GA, USA | Software Engineering | new_grad</description>
     </item>
     <item>
+      <title>Junior Software Developer at Lulius Innovation</title>
+      <link>https://www.linkedin.com/jobs/view/4482659518</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4482659518</guid>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Nevada, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
       <title>Entry-Level Software Engineer at Boeing</title>
       <link>https://www.linkedin.com/jobs/view/4481050469</link>
       <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4481050469</guid>
@@ -1133,13 +1154,6 @@
       <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4463497424</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>Huntington Beach, CA, USA | Software Engineering | new_grad</description>
-    </item>
-    <item>
-      <title>Entry-Level Application Developer at Rg T Solutions</title>
-      <link>https://www.linkedin.com/jobs/view/4482649572</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4482649572</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Tampa, FL, USA | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Software Engineer, New Grad - Production Infrastructure at Palantir Technologies</title>
@@ -1392,20 +1406,6 @@
       <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483166949</guid>
       <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
       <description>New York, NY, USA | Business/Analytics | internship</description>
-    </item>
-    <item>
-      <title>Business Analyst Intern - Atlanta, GA at Carmax</title>
-      <link>https://www.linkedin.com/jobs/view/4479604396</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4479604396</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Kennesaw, GA, USA | Business/Analytics | internship</description>
-    </item>
-    <item>
-      <title>Credit Analyst Intern- Summer at Servisfirst Bank</title>
-      <link>https://www.linkedin.com/jobs/view/4475029181</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4475029181</guid>
-      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Huntsville, AL, USA | Finance/Quant | internship</description>
     </item>
   </channel>
 </rss>
