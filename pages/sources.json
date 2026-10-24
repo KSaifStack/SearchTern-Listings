@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:06:07.121673+00:00",
+  "generated_at": "2026-10-24T17:54:40.912777+00:00",
   "count": 46,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 1076
+      "count": 1452
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -22,6 +22,13 @@
       "type": "internship",
       "season": "2027",
       "count": 972
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 917
     },
     {
       "name": "freehire.me",
@@ -45,18 +52,11 @@
       "count": 718
     },
     {
-      "name": "SimplifyJobs New Grad",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 709
-    },
-    {
       "name": "speedyapply SWE New Grad USA",
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 656
+      "count": 658
     },
     {
       "name": "SuryaHarikrishnan Hardware",
@@ -70,14 +70,14 @@
       "url": "https://github.com/zanellia/jobspy",
       "type": "internship",
       "season": "",
-      "count": 572
+      "count": 571
     },
     {
       "name": "speedyapply SWE 2027",
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 512
+      "count": 511
     },
     {
       "name": "speedyapply AI 2027",
@@ -98,7 +98,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 398
+      "count": 382
     },
     {
       "name": "ATS career-page probe",
@@ -112,7 +112,7 @@
       "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
       "type": "internship",
       "season": "2027",
-      "count": 334
+      "count": 337
     },
     {
       "name": "zapplyjobs Internships 2027",
@@ -126,7 +126,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 248
+      "count": 214
     },
     {
       "name": "SuryaHarikrishnan Other 2027",
@@ -134,6 +134,13 @@
       "type": "internship",
       "season": "2027",
       "count": 197
+    },
+    {
+      "name": "zapplyjobs New Grad Data Science 2027",
+      "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 188
     },
     {
       "name": "GodlyDonuts keryx New Grad",
@@ -154,14 +161,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 169
-    },
-    {
-      "name": "zapplyjobs New Grad Data Science 2027",
-      "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 155
+      "count": 171
     },
     {
       "name": "ApplyGuy New Grad",
@@ -176,13 +176,6 @@
       "type": "internship",
       "season": "2027",
       "count": 71
-    },
-    {
-      "name": "EchoJobs",
-      "url": "https://echojobs.io",
-      "type": "internship/tech",
-      "season": "",
-      "count": 64
     },
     {
       "name": "SuryaHarikrishnan Quant",
@@ -322,6 +315,13 @@
       "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
+      "count": 0
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io",
+      "type": "internship/tech",
+      "season": "",
       "count": 0
     }
   ]
