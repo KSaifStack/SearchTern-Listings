@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:37:20.160192+00:00",
+  "generated_at": "2026-10-24T17:06:07.121673+00:00",
   "count": 46,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 1393
+      "count": 1076
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -22,13 +22,6 @@
       "type": "internship",
       "season": "2027",
       "count": 972
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 903
     },
     {
       "name": "freehire.me",
@@ -50,6 +43,13 @@
       "type": "internship",
       "season": "2027",
       "count": 718
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 709
     },
     {
       "name": "speedyapply SWE New Grad USA",
@@ -154,14 +154,14 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 172
+      "count": 169
     },
     {
       "name": "zapplyjobs New Grad Data Science 2027",
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 156
+      "count": 155
     },
     {
       "name": "ApplyGuy New Grad",
@@ -176,6 +176,13 @@
       "type": "internship",
       "season": "2027",
       "count": 71
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io",
+      "type": "internship/tech",
+      "season": "",
+      "count": 64
     },
     {
       "name": "SuryaHarikrishnan Quant",
@@ -315,13 +322,6 @@
       "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 0
-    },
-    {
-      "name": "EchoJobs",
-      "url": "https://echojobs.io",
-      "type": "internship/tech",
-      "season": "",
       "count": 0
     }
   ]
