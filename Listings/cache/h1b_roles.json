@@ -1,0 +1,711 @@
+{
+ "built_at": "2026-10-24T20:07:55Z",
+ "companies": {
+  "1password": {
+   "fetched_at": "2026-10-24T20:07:34Z",
+   "label": "1Password",
+   "titles": []
+  },
+  "abb": {
+   "fetched_at": "2026-10-24T20:07:35Z",
+   "label": "ABB",
+   "titles": []
+  },
+  "abbvie": {
+   "fetched_at": "2026-10-24T20:07:36Z",
+   "label": "AbbVie",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 155000,
+     "title": "SENIOR SCIENTIST II"
+    },
+    {
+     "count": 7,
+     "median_salary": 135000,
+     "title": "SENIOR STATISTICIAN"
+    },
+    {
+     "count": 6,
+     "median_salary": 150000,
+     "title": "MANAGER, STATISTICS"
+    },
+    {
+     "count": 6,
+     "median_salary": 105000,
+     "title": "SCIENTIST I"
+    },
+    {
+     "count": 5,
+     "median_salary": 143000,
+     "title": "ASSOCIATE BUSINESS SYSTEMS CONSULTANT"
+    },
+    {
+     "count": 4,
+     "median_salary": 169000,
+     "title": "PRINCIPAL RESEARCH SCIENTIST I"
+    },
+    {
+     "count": 4,
+     "median_salary": 115000,
+     "title": "SENIOR ANALYST, BUSINESS SYSTEMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 190000,
+     "title": "ASSOCIATE DIRECTOR, STATISTICS"
+    },
+    {
+     "count": 3,
+     "median_salary": 163000,
+     "title": "BUSINESS SYSTEMS CONSULTANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 149350,
+     "title": "PHARMACOMETRICIAN"
+    },
+    {
+     "count": 3,
+     "median_salary": 160261,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 143360,
+     "title": "SENIOR ENGINEER, TECHNOLOGY I"
+    },
+    {
+     "count": 3,
+     "median_salary": 124201,
+     "title": "SENIOR SCIENTIST I, CHEMISTRY"
+    },
+    {
+     "count": 3,
+     "median_salary": 156785,
+     "title": "SENIOR SCIENTIST, II"
+    },
+    {
+     "count": 2,
+     "median_salary": 284000,
+     "title": "ASSOCIATE DIRECTOR, INTERNATIONAL COMPETITIVE INTELLIGENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 150957,
+     "title": "ASSOCIATE SERVICE CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 96447,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 216241,
+     "title": "DIRECTOR, BTS"
+    },
+    {
+     "count": 2,
+     "median_salary": 230000,
+     "title": "DIRECTOR, ESG STRATEGY &AMP; INTELLIGENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 122000,
+     "title": "ENGINEER, TECHNOLOGY II"
+    }
+   ]
+  },
+  "accorhotel": {
+   "fetched_at": "2026-10-24T20:07:37Z",
+   "label": "AccorHotel",
+   "titles": []
+  },
+  "acluinternships": {
+   "fetched_at": "2026-10-24T20:07:38Z",
+   "label": "acluinternships",
+   "titles": []
+  },
+  "actalentservices": {
+   "fetched_at": "2026-10-24T20:07:39Z",
+   "label": "actalentservices",
+   "titles": []
+  },
+  "adobe": {
+   "fetched_at": "2026-10-24T20:07:40Z",
+   "label": "Adobe",
+   "titles": [
+    {
+     "count": 500,
+     "median_salary": 178000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 108,
+     "median_salary": 194000,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 81,
+     "median_salary": 184000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 68,
+     "median_salary": 200852,
+     "title": "RESEARCH SCIENTIST ENGINEER"
+    },
+    {
+     "count": 48,
+     "median_salary": 165500,
+     "title": "DATA SCIENCE ENGINEER"
+    },
+    {
+     "count": 31,
+     "median_salary": 241000,
+     "title": "MGR, SOFTWARE DEVELOPMENT"
+    },
+    {
+     "count": 28,
+     "median_salary": 155000,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 28,
+     "median_salary": 126500,
+     "title": "TECHNICAL SUPPORT ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 165000,
+     "title": "PROFESSIONAL SERVICES CONSULTANT"
+    },
+    {
+     "count": 25,
+     "median_salary": 168480,
+     "title": "USER EXPERIENCE DESIGNER"
+    },
+    {
+     "count": 18,
+     "median_salary": 179750,
+     "title": "ENGINEERING PROGRAM MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 180000,
+     "title": "PRODUCT MARKETING SPECIALIST MGR"
+    },
+    {
+     "count": 15,
+     "median_salary": 152250,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 175000,
+     "title": "MULTI-SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 10,
+     "median_salary": 188312,
+     "title": "SOLUTIONS CONSULTANT"
+    },
+    {
+     "count": 9,
+     "median_salary": 115000,
+     "title": "TECHNICAL ACCOUNT MANAGER"
+    },
+    {
+     "count": 8,
+     "median_salary": 151000,
+     "title": "SALES OPERATIONS ANALYST"
+    },
+    {
+     "count": 8,
+     "median_salary": 167500,
+     "title": "SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 200000,
+     "title": "MACHINE LEARNING ENGINEER 4"
+    },
+    {
+     "count": 7,
+     "median_salary": 189000,
+     "title": "PRODUCT SECURITY ENGINEER"
+    }
+   ]
+  },
+  "aecom2": {
+   "fetched_at": "2026-10-24T20:07:41Z",
+   "label": "aecom2",
+   "titles": []
+  },
+  "aerotek": {
+   "fetched_at": "2026-10-24T20:07:42Z",
+   "label": "aerotek",
+   "titles": []
+  },
+  "aerovironment": {
+   "fetched_at": "2026-10-24T20:07:43Z",
+   "label": "AeroVironment",
+   "titles": []
+  },
+  "affirm": {
+   "fetched_at": "2026-10-24T20:07:44Z",
+   "label": "Affirm",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 130250,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 160000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 8,
+     "median_salary": 225000,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 140000,
+     "title": "ANALYST II, FULL STACK"
+    },
+    {
+     "count": 5,
+     "median_salary": 190000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 205000,
+     "title": "ANALYTICS MANAGER, FULL STACK"
+    },
+    {
+     "count": 3,
+     "median_salary": 225000,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 130250,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 3,
+     "median_salary": 225000,
+     "title": "STAFF PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "ANALYTICS LEAD, CREDIT FULL STACK"
+    },
+    {
+     "count": 2,
+     "median_salary": 170000,
+     "title": "ANALYTICS LEAD, FULL STACK"
+    },
+    {
+     "count": 2,
+     "median_salary": 260000,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132000,
+     "title": "QUANTITATIVE ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 205000,
+     "title": "SENIOR MANAGER ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ANALYST I, FRAUD FULL STACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 124000,
+     "title": "ANALYST II, FRAUD FULL STACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "ANALYST II, STRATEGIC INSIGHTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 124000,
+     "title": "ANALYST, FRAUD FULL STACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "ANALYST, FULL STACK"
+    }
+   ]
+  },
+  "aisle and abroad": {
+   "fetched_at": "2026-10-24T20:07:45Z",
+   "label": "aisle_and_abroad",
+   "titles": []
+  },
+  "allianceanimalhealth": {
+   "fetched_at": "2026-10-24T20:07:46Z",
+   "label": "AllianceAnimalHealth",
+   "titles": []
+  },
+  "alphabeinsightinc": {
+   "fetched_at": "2026-10-24T20:07:47Z",
+   "label": "alphabeinsightinc",
+   "titles": []
+  },
+  "amazon": {
+   "fetched_at": "2026-10-24T20:07:50Z",
+   "label": "Amazon",
+   "titles": [
+    {
+     "count": 2374,
+     "median_salary": 165200,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER II"
+    },
+    {
+     "count": 2034,
+     "median_salary": 170000,
+     "title": "SOFTWARE DEV ENGINEER II"
+    },
+    {
+     "count": 1713,
+     "median_salary": 129000,
+     "title": "SOFTWARE DEV ENGINEER I"
+    },
+    {
+     "count": 1290,
+     "median_salary": 129000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER I"
+    },
+    {
+     "count": 632,
+     "median_salary": 209129,
+     "title": "SOFTWARE DEV ENGINEER III"
+    },
+    {
+     "count": 618,
+     "median_salary": 175000,
+     "title": "APPLIED SCIENTIST II"
+    },
+    {
+     "count": 570,
+     "median_salary": 196600,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER III"
+    },
+    {
+     "count": 471,
+     "median_salary": 125200,
+     "title": "BUSINESS INTELLIGENCE ENGINEER II"
+    },
+    {
+     "count": 407,
+     "median_salary": 201686,
+     "title": "MANAGER III, SOFTWARE DEVELOPMENT"
+    },
+    {
+     "count": 380,
+     "median_salary": 150500,
+     "title": "DATA ENGINEER II"
+    },
+    {
+     "count": 374,
+     "median_salary": 171000,
+     "title": "TECHNICAL PROGRAM MANAGER III"
+    },
+    {
+     "count": 264,
+     "median_salary": 148150,
+     "title": "PRODUCT MANAGER III"
+    },
+    {
+     "count": 251,
+     "median_salary": 138875,
+     "title": "PROGRAM MANAGER III"
+    },
+    {
+     "count": 235,
+     "median_salary": 182300,
+     "title": "SOLUTIONS ARCHITECT III"
+    },
+    {
+     "count": 233,
+     "median_salary": 216300,
+     "title": "MANAGER III, SOFTWARE DEV"
+    },
+    {
+     "count": 229,
+     "median_salary": 165000,
+     "title": "PRODUCT MANAGER III - TECHNICAL"
+    },
+    {
+     "count": 215,
+     "median_salary": 150000,
+     "title": "SYSTEM DEVELOPMENT ENGINEER II"
+    },
+    {
+     "count": 209,
+     "median_salary": 201094,
+     "title": "APPLIED SCIENTIST III"
+    },
+    {
+     "count": 204,
+     "median_salary": 142800,
+     "title": "TECHNICAL PROGRAM MANAGER II"
+    },
+    {
+     "count": 192,
+     "median_salary": 102482,
+     "title": "PROGRAM MANAGER II"
+    }
+   ]
+  },
+  "amd": {
+   "fetched_at": "2026-10-24T20:07:51Z",
+   "label": "\ud83d\udd25 AMD",
+   "titles": []
+  },
+  "american express": {
+   "fetched_at": "2026-10-24T20:07:52Z",
+   "label": "American Express",
+   "titles": [
+    {
+     "count": 72,
+     "median_salary": 131975,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 55,
+     "median_salary": 156800,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 35,
+     "median_salary": 131997,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 30,
+     "median_salary": 161305,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 196524,
+     "title": "SENIOR ENGINEERING MANAGER"
+    },
+    {
+     "count": 13,
+     "median_salary": 135300,
+     "title": "MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 10,
+     "median_salary": 135275,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 124720,
+     "title": "MANAGER, RISK MANAGEMENT"
+    },
+    {
+     "count": 10,
+     "median_salary": 149940,
+     "title": "SENIOR MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 10,
+     "median_salary": 158962,
+     "title": "SENIOR MANAGER, DIGITAL PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 10,
+     "median_salary": 153000,
+     "title": "SENIOR MANAGER, RISK MANAGEMENT"
+    },
+    {
+     "count": 9,
+     "median_salary": 165000,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 205326,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 8,
+     "median_salary": 145789,
+     "title": "SENIOR QUALITY ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 162795,
+     "title": "SENIOR INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 105600,
+     "title": "SENIOR ASSOCIATE, DIGITAL PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 5,
+     "median_salary": 183660,
+     "title": "DIRECTOR, RISK MANAGEMENT"
+    },
+    {
+     "count": 5,
+     "median_salary": 212390,
+     "title": "ENGINEERING DIRECTOR"
+    },
+    {
+     "count": 5,
+     "median_salary": 128544,
+     "title": "MANAGER, DATA ANALYTICS"
+    },
+    {
+     "count": 5,
+     "median_salary": 129792,
+     "title": "MANAGER, FINANCE"
+    }
+   ]
+  },
+  "americanincomelifeaokevinblomquist": {
+   "fetched_at": "2026-10-24T20:07:53Z",
+   "label": "americanincomelifeaokevinblomquist",
+   "titles": []
+  },
+  "amgen": {
+   "fetched_at": "2026-10-24T20:07:54Z",
+   "label": "Amgen",
+   "titles": [
+    {
+     "count": 16,
+     "median_salary": 136007,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 16,
+     "median_salary": 146172,
+     "title": "SPECIALIST SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 101355,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 132410,
+     "title": "PROCESS DEVELOPMENT SR SCIENTIST"
+    },
+    {
+     "count": 9,
+     "median_salary": 135749,
+     "title": "PROCESS DEVELOPMENT SENIOR SCIENTIST"
+    },
+    {
+     "count": 9,
+     "median_salary": 137863,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 119140,
+     "title": "PROCESS DEVELOPMENT SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 121133,
+     "title": "SPECIALIST IS BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 8,
+     "median_salary": 124680,
+     "title": "SUPPLY CHAIN MANAGER"
+    },
+    {
+     "count": 7,
+     "median_salary": 124710,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 133127,
+     "title": "SPECIALIST IS ARCHITECT"
+    },
+    {
+     "count": 6,
+     "median_salary": 132893,
+     "title": "PROCESS DEVELOPMENT SR. SCIENTIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 149875,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 138497,
+     "title": "SPECIALIST IS BUS SYS ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 155409,
+     "title": "SPECIALIST SAP ARCHITECT"
+    },
+    {
+     "count": 5,
+     "median_salary": 95500,
+     "title": "SPECIALTY REPRESENTATIVE"
+    },
+    {
+     "count": 5,
+     "median_salary": 145000,
+     "title": "SR. SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 127514,
+     "title": "COMMERCIAL ANALYTICS MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 109515,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 109919,
+     "title": "DATA SCIENTIST"
+    }
+   ]
+  },
+  "amtengineering": {
+   "fetched_at": "2026-10-24T20:07:55Z",
+   "label": "amtengineering",
+   "titles": []
+  }
+ }
+}
