@@ -37,8 +37,11 @@ import sitemap_sources as S
 SITE = "https://earlycareerradar.com"
 HOST = "earlycareerradar.com"
 SITEMAP_URL = f"{SITE}/sitemap.xml"
+LISTING_URL = f"{SITE}/summer-internships"
 
 JOB_PATH_RE = re.compile(r"/(?:new-grad/)?jobs/job_[a-f0-9]{6,}$")
+NEWGRAD_TITLE_RE = re.compile(r"new[\s-]?grad|newly graduated|graduate student", re.I)
+_FLIGHT_RE = re.compile(r'self\.__next_f\.push\(\[1,(".*?")\]\)', re.S)
 
 # sitemap_sources._polite_get already serializes per host through its own lock
 # and sleeps PER_HOST_DELAY_SECS before each request, so an outer throttle or a
@@ -170,6 +173,101 @@ def fetch_sitemap() -> list[str]:
 
 def _row_is_newgrad(url: str) -> bool:
     return "/new-grad/jobs/" in url
+
+
+def _listing_jobs(html: str) -> list[dict]:
+    """Job records embedded in the listing page's RSC flight payload."""
+    chunks = []
+    for raw in _FLIGHT_RE.findall(html or ""):
+        try:
+            chunks.append(json.loads(raw))
+        except ValueError:
+            continue
+    blob = "".join(chunks)
+    marker = blob.find('"initialJobs":')
+    if marker < 0:
+        return []
+    start = blob.find("[", marker)
+    if start < 0:
+        return []
+    try:
+        jobs, _end = json.JSONDecoder().raw_decode(blob[start:])
+    except ValueError:
+        return []
+    return jobs if isinstance(jobs, list) else []
+
+
+def _listing_row(job: dict) -> dict | None:
+    """One payload record as a JOB_COLUMNS row, or None when it is not US."""
+    company = str(job.get("company") or "").strip()
+    role = str(job.get("title") or "").strip()
+    if not company or not role:
+        return None
+
+    countries = [str(c).strip().lower() for c in (job.get("placeCountries") or [])]
+    if countries and "united states" not in countries:
+        return None
+
+    apply_url = str(job.get("applyUrl") or "").strip()
+    link = apply_url if apply_url.startswith("http") else f"{SITE}/jobs/{job.get('id', '')}"
+    mode = str(job.get("mode") or "").strip().lower()
+    row = {
+        "company": company,
+        "role": role,
+        "location": str(job.get("location") or "").strip(),
+        "date": str(job.get("postedAt") or "")[:10],
+        "link": link,
+        "is_remote": "true" if mode == "remote" else "false",
+        "salary_min": None,
+        "salary_max": None,
+        "salary_currency": None,
+        "country_iso": "US" if "united states" in countries else "",
+        "employment_type": None,
+        "seniority": None,
+        "source": "ecr",
+        "tier_hint": "new-grad" if NEWGRAD_TITLE_RE.search(role) else "internship",
+        "direct_apply": "true" if apply_url.startswith("http") else "false",
+    }
+    if not row["country_iso"]:
+        ok, _why = _country_backstop(row)
+        if not ok:
+            return None
+    return row
+
+
+def harvest_listing(limit: int | None = None, verbose: bool = True) -> pd.DataFrame:
+    """Whole catalogue from the listing page, which embeds every job record.
+
+    One request replaces the sitemap crawl over ~7k job pages, and each row
+    links to the employer's own posting instead of the aggregator's copy.
+    """
+    html = S._polite_get(LISTING_URL, HOST, timeout=60)
+    if not html:
+        if verbose:
+            print("ECR: listing page unavailable", flush=True)
+        return pd.DataFrame(columns=S.JOB_COLUMNS + ["source", "tier_hint", "direct_apply"])
+
+    jobs = _listing_jobs(html)
+    rows = []
+    for job in jobs:
+        if not isinstance(job, dict) or job.get("closed"):
+            continue
+        row = _listing_row(job)
+        if row is not None:
+            rows.append(row)
+    if limit:
+        rows = rows[:limit]
+
+    cols = S.JOB_COLUMNS + ["source", "tier_hint", "direct_apply"]
+    frame = pd.DataFrame(rows) if rows else pd.DataFrame(columns=cols)
+    for col in cols:
+        if col not in frame.columns:
+            frame[col] = None
+    if verbose:
+        direct = sum(1 for r in rows if r["direct_apply"] == "true")
+        print(f"ECR: {len(jobs)} embedded -> {len(rows)} US rows "
+              f"({direct} linking straight to the employer)", flush=True)
+    return frame
 
 
 def harvest(

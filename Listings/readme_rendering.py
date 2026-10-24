@@ -18,6 +18,7 @@ from readme_utils import (
     is_english,
     normalize_company,
     truncate,
+    visa_cell,
 )
 
 
@@ -105,6 +106,7 @@ def generate_country_pages(dataframe, output_dir="."):
                 f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
                 f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{__import__("html").escape(link, quote=True)}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
                 f'<td style="white-space:nowrap;">{age}</td>\n'
+                f'<td style="text-align:center; white-space:nowrap;">{visa_cell(row)}</td>\n'
                 "</tr>"
             )
 
@@ -188,6 +190,18 @@ SearchTern merges three feeds into one deduplicated list:
 
 Every row is filtered to internships & new-grad roles, deduplicated, and pruned to the last 60 days.
 The light tier refreshes hourly; the full run every 4 hours.
+
+The **H-1B** column comes from federal filing data: `role` means the company filed H-1B
+labor-condition applications for this job title, `company` means it sponsors H-1B but not for
+this exact title, and blank means no signal. Full employer and job-title data lives in
+[pages/h1b.json](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/h1b.json).
+
+**Machine-readable feeds:** [full feed](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/searchtern.json) ·
+[15-minute fast lane](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/priority.json) ·
+[H-1B sponsorship data](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/h1b.json) ·
+[RSS (newest 200)](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml).
+Agents can query the same data through the bundled MCP server (`Listings/searchtern_mcp.py`:
+`search_jobs`, `recent_jobs`, `company_jobs`, `stats`).
 
 > jobhive does the heavy lifting — if you find it useful, ⭐ [stapply-ai/ats-scrapers](https://github.com/stapply-ai/ats-scrapers)
 

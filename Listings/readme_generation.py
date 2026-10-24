@@ -1,8 +1,10 @@
 import glob
+import html
 import json
 import math
 import os
 from datetime import datetime, timezone
+from email.utils import format_datetime
 
 from classify import role_category
 from readme_rendering import build_header, generate_country_pages
@@ -24,6 +26,7 @@ from readme_utils import (
     is_english,
     normalize_company,
     truncate,
+    visa_cell,
 )
 
 
@@ -159,6 +162,72 @@ def write_priority_json(dataframe, output_dir="."):
     print(f"Wrote {path} — {len(records):,} priority listings")
 
 
+def _feed_time(record):
+    try:
+        value = datetime.fromisoformat(str(record.get("date", "")).replace("Z", "+00:00"))
+        if value.tzinfo is None:
+            value = value.replace(tzinfo=timezone.utc)
+        return value
+    except ValueError:
+        return datetime.now(timezone.utc)
+
+
+def write_feed_xml(dataframe, output_dir=".", limit=200):
+    """Write a newest-first RSS 2.0 feed of the live listings.
+
+    Feed readers and importer tools (IFTTT, Zapier, Discord bots) can subscribe
+    here instead of polling the multi-MB JSON, and each item links straight to
+    the application URL. Rows without a date are stamped with the run time so
+    the feed never contains silent gaps.
+    """
+    pages_dir = os.path.join(output_dir, "pages")
+    os.makedirs(pages_dir, exist_ok=True)
+
+    if dataframe is None or dataframe.empty:
+        records = []
+    else:
+        records = _build_json_records(dataframe)
+    records.sort(key=_feed_time, reverse=True)
+    records = records[:limit]
+
+    items = []
+    for record in records:
+        title = f"{record['role']} at {record['company']}"
+        bits = [b for b in (record.get("location"), record.get("category"),
+                            record.get("job_type")) if b]
+        items.append(
+            "    <item>\n"
+            f"      <title>{html.escape(title)}</title>\n"
+            f"      <link>{html.escape(record['link'])}</link>\n"
+            f"      <guid isPermaLink=\"true\">{html.escape(record['link'])}</guid>\n"
+            f"      <pubDate>{format_datetime(_feed_time(record))}</pubDate>\n"
+            f"      <description>{html.escape(' | '.join(str(b) for b in bits))}</description>\n"
+            "    </item>"
+        )
+
+    body = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        "  <channel>\n"
+        "    <title>SearchTern — new internships and new-grad roles</title>\n"
+        "    <link>https://searchtern.net</link>\n"
+        "    <description>Fresh software engineering internships and entry-level roles, "
+        "posting by posting.</description>\n"
+        "    <language>en-us</language>\n"
+        f"    <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>\n"
+        '    <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>\n'
+        + "\n".join(items) + ("\n" if items else "")
+        + "  </channel>\n"
+        "</rss>\n"
+    )
+
+    path = os.path.join(pages_dir, "feed.xml")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(body)
+
+    print(f"Wrote {path} — {len(records):,} feed items")
+
+
 def generate_readme(dataframe, output_dir="."):
     """
     Writes job listings into README files split by GitHub's render limit.
@@ -228,6 +297,7 @@ def generate_readme(dataframe, output_dir="."):
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
             f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{__import__("html").escape(link, quote=True)}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
             f'<td style="white-space:nowrap;">{age}</td>\n'
+            f'<td style="text-align:center; white-space:nowrap;">{visa_cell(row)}</td>\n'
             "</tr>"
         )
 

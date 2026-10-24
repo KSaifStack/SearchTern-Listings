@@ -7,6 +7,8 @@ import json
 import os
 import sys
 import tempfile
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 
 import pandas as pd
 
@@ -164,8 +166,47 @@ def run_priority_checks():
     print("  test_listings_json: priority feed checks passed")
 
 
+def run_feed_checks():
+    rows = [
+        {"company": "Acme & Co", "role": "Software Engineer Intern",
+         "location": "New York, NY", "date": "2026-10-18T00:00:00+00:00",
+         "link": "https://example.com/a?x=1&y=2", "is_remote": "false",
+         "salary_min": None, "salary_max": None, "salary_currency": None,
+         "country_iso": "US", "job_type": "internship",
+         "employment_type": None, "seniority": None, "source": "priority"},
+        {"company": "Globex", "role": "Backend Engineer",
+         "location": "Remote", "date": "2026-10-19T00:00:00+00:00",
+         "link": "https://example.com/b", "is_remote": "true",
+         "salary_min": None, "salary_max": None, "salary_currency": None,
+         "country_iso": "US", "job_type": "new_grad",
+         "employment_type": None, "seniority": None, "source": "ats"},
+    ]
+    df = pd.DataFrame(rows)
+
+    with tempfile.TemporaryDirectory() as tmp:
+        readme_generation.write_feed_xml(df, output_dir=tmp)
+        path = os.path.join(tmp, "pages", "feed.xml")
+        root = ET.parse(path).getroot()
+
+    assert root.tag == "rss", root.tag
+    assert root.get("version") == "2.0", root.get("version")
+    channel = root.find("channel")
+    assert channel is not None, "missing channel"
+    assert channel.findtext("title"), "channel title required"
+    items = channel.findall("item")
+    assert len(items) == 2, f"expected 2 items, got {len(items)}"
+    assert "Globex" in items[0].findtext("title"), "newest item must come first"
+    links = [item.findtext("link") for item in items]
+    assert "https://example.com/a?x=1&y=2" in links, links
+    for item in items:
+        assert item.findtext("guid") == item.findtext("link"), "guid must match link"
+        assert parsedate_to_datetime(item.findtext("pubDate")).tzinfo is not None
+    print("  test_listings_json: feed checks passed")
+
+
 if __name__ == "__main__":
     run_link_checks()
     run_checks()
     run_priority_checks()
+    run_feed_checks()
     sys.exit(0)

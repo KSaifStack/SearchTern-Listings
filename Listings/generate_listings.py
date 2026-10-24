@@ -10,6 +10,7 @@ import re
 import sys
 import requests
 import time as _time
+import xml.etree.ElementTree as ET
 import duckdb
 
 try:
@@ -20,6 +21,8 @@ except Exception:
 
 import echojobs
 import discover_boards
+import breadth_sources
+import h1b_enrich
 import jobspy_source
 import markdown_sources
 import pandas as pd
@@ -110,7 +113,7 @@ def parse_args(argv=None):
     parser.add_argument(
         "--ecr",
         action="store_true",
-        help="Also include Early Career Radar postings (light tier, opt-in)",
+        help="Include Early Career Radar postings in the light tier (the medium tier always includes them)",
     )
     parser.add_argument(
         "--ecr-limit",
@@ -699,17 +702,22 @@ else:
     if ARGS.sitemap:
         print("  --sitemap needs --tier light (or all); skipped")
 
-# ── Early Career Radar (aggregator mirrors, opt-in) ───────────────────────
-# Its own robots.txt permits / and its sitemap enumerates every posting, each
-# with JobPosting JSON-LD. Rows arrive already filtered for geography by
-# ecr_source._country_backstop, which matters here: ~43% of their pages omit
-# addressCountry, so the usual ISO check would wave them through.
-if ARGS.ecr and ARGS.tier in (TIER_LIGHT, TIER_ALL):
+# ── Early Career Radar (aggregator, one request) ──────────────────────────
+# Their listing page embeds every record in the RSC flight payload, so one
+# fetch replaces a crawl over ~7k job pages, and each row can link to the
+# employer's own posting instead of the aggregator's copy. Rows arrive already
+# filtered for geography by ecr_source._country_backstop, which matters here:
+# ~43% of their pages omit addressCountry, so the usual ISO check would wave
+# them through.
+if ARGS.ecr or TIER_MEDIUM in RUN_TIERS:
     print("Fetching Early Career Radar...")
-    ecr_raw = ecr_source.harvest(
-        ecr_source.fetch_sitemap(),
-        limit=ARGS.ecr_limit or None,
-    )
+    ecr_raw = ecr_source.harvest_listing(limit=ARGS.ecr_limit or None)
+    if ecr_raw.empty:
+        print("  listing page yielded nothing; falling back to the sitemap crawl")
+        ecr_raw = ecr_source.harvest(
+            ecr_source.fetch_sitemap(),
+            limit=ARGS.ecr_limit or None,
+        )
     ecr_df = ecr_raw.copy()
     if not ecr_df.empty:
         ecr_df["company"] = ecr_df["company"].map(clean_company_name)
@@ -744,7 +752,7 @@ if ARGS.ecr and ARGS.tier in (TIER_LIGHT, TIER_ALL):
 else:
     ecr_df = _load_cached("ecr")
     if ARGS.ecr:
-        print("  --ecr needs --tier light (or all); skipped")
+        print("  --ecr needs --tier light, medium or all; skipped")
 
 # ── Runway Explore (aggregator, shard-limited, opt-in) ───────────────────
 # Largest early-career-adjacent source found: 11 sitemap shards, ~510k URLs.
@@ -814,6 +822,13 @@ ATS_ENDPOINTS = {
     'Lever': 'https://api.lever.co/v0/postings/{slug}?mode=json',
     'Ashby': 'https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true',
     'SmartRecruiters': 'https://api.smartrecruiters.com/v1/companies/{slug}/postings',
+    'Workable': 'https://apply.workable.com/api/v1/widget/accounts/{slug}?details=true',
+    'Rippling': 'https://api.rippling.com/platform/api/ats/v1/board/{slug}/jobs',
+    'Pinpoint': 'https://{slug}.pinpointhq.com/postings.json',
+    'Recruitee': 'https://{slug}.recruitee.com/api/offers/',
+    'Teamtailor': 'https://{slug}.teamtailor.com/jobs.rss',
+    'Breezy': 'https://{slug}.breezy.hr/json',
+    'Personio': 'https://{slug}.jobs.personio.com/xml',
 }
 
 ATS_CSV_URL = 'https://raw.githubusercontent.com/Kayvan-Zahiri/state-of-ats-2026/main/data/companies.csv'
@@ -824,6 +839,8 @@ ATS_PROBE_COOLDOWN_HOURS = 24
 # Workday slug is the CXS base path: {host}/wday/cxs/{tenant}/{site}
 EXTRA_BOARDS = [
     ("Ally", "Workday", "ally.wd1.myworkdayjobs.com/wday/cxs/ally/Ally"),
+    ("Open (Personio)", "Personio", "open"),
+    ("Personio", "Personio", "personio"),
 ]
 
 
@@ -932,7 +949,13 @@ def _fetch_company_jobs(company, ats_type, slug):
             resp = http_get(url.format(slug=slug), timeout=15, retries=2)
             if resp is None or resp.status_code != 200:
                 return None
-            data = resp.json()
+            # Teamtailor serves RSS XML and Personio serves XML, not JSON.
+            if ats_type == 'Teamtailor':
+                data = resp.text
+            elif ats_type == 'Personio':
+                data = {'xml': resp.text, 'slug': slug}
+            else:
+                data = resp.json()
         return (company, ats_type, data)
     except Exception:
         return None
@@ -1029,6 +1052,148 @@ def _normalize_ats_jobs(company, ats_type, data):
                 'salary_min': None, 'salary_max': None, 'salary_currency': None,
                 'country_iso': _infer_country(loc_str),
             })
+    elif ats_type == 'Workable':
+        for j in data.get('jobs', []):
+            locs = j.get('locations') or []
+            first = locs[0] if locs else {}
+            loc_str = ', '.join(filter(None, [
+                j.get('city') or first.get('city'),
+                j.get('state') or first.get('region'),
+                j.get('country') or first.get('country'),
+            ])).strip()
+            rows.append({
+                'company': company, 'role': (j.get('title') or '').strip(),
+                'location': loc_str,
+                'date': j.get('published_on', ''),
+                'link': j.get('url', ''),
+                'is_remote': str(bool(j.get('telecommuting'))).lower(),
+                'salary_min': None, 'salary_max': None, 'salary_currency': None,
+                'country_iso': _infer_country(loc_str),
+            })
+    elif ats_type == 'Rippling':
+        for j in data if isinstance(data, list) else []:
+            loc_str = ((j.get('workLocation') or {}).get('label') or '').strip()
+            rows.append({
+                'company': company, 'role': (j.get('name') or '').strip(),
+                'location': loc_str,
+                'date': str(now),
+                'link': j.get('url', ''),
+                'is_remote': str('remote' in loc_str.lower()),
+                'salary_min': None, 'salary_max': None, 'salary_currency': None,
+                'country_iso': _infer_country(loc_str),
+            })
+    elif ats_type == 'Pinpoint':
+        for j in data.get('data', []):
+            loc_str = ((j.get('location') or {}).get('name') or '').strip()
+            visible = bool(j.get('compensation_visible'))
+            rows.append({
+                'company': company, 'role': (j.get('title') or '').strip(),
+                'location': loc_str,
+                'date': str(now),
+                'link': j.get('url', ''),
+                'is_remote': str((j.get('workplace_type') or '').lower() == 'remote'),
+                'salary_min': j.get('compensation_minimum') if visible else None,
+                'salary_max': j.get('compensation_maximum') if visible else None,
+                'salary_currency': j.get('compensation_currency') if visible else None,
+                'country_iso': _infer_country(loc_str),
+            })
+    elif ats_type == 'Recruitee':
+        for j in data.get('offers', []):
+            loc_str = (j.get('location') or '').strip()
+            sal = j.get('salary') or {}
+            rows.append({
+                'company': company, 'role': (j.get('title') or '').strip(),
+                'location': loc_str,
+                'date': j.get('published_at') or j.get('created_at') or '',
+                'link': j.get('careers_url') or j.get('careers_apply_url', ''),
+                'is_remote': str(bool(j.get('remote'))).lower(),
+                'salary_min': sal.get('min'), 'salary_max': sal.get('max'),
+                'salary_currency': sal.get('currency'),
+                'country_iso': _infer_country(loc_str),
+            })
+    elif ats_type == 'Teamtailor':
+        rows.extend(_normalize_teamtailor(company, data))
+    elif ats_type == 'Personio':
+        rows.extend(_normalize_personio(company, data.get('slug', ''), data.get('xml', '')))
+    elif ats_type == 'Breezy':
+        for j in data if isinstance(data, list) else []:
+            loc = j.get('location') or {}
+            loc_str = (loc.get('name') or '').strip() or \
+                ((loc.get('country') or {}).get('name') or '').strip()
+            rows.append({
+                'company': company, 'role': (j.get('name') or '').strip(),
+                'location': loc_str,
+                'date': j.get('published_date', ''),
+                'link': j.get('url', ''),
+                'is_remote': str(bool(loc.get('is_remote'))).lower(),
+                'salary_min': None, 'salary_max': None, 'salary_currency': None,
+                'country_iso': _infer_country(loc_str),
+            })
+    return rows
+
+
+_TT_NS = {'tt': 'https://teamtailor.com/locations'}
+
+
+def _normalize_teamtailor(company, xml_text):
+    rows = []
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError:
+        return rows
+    for item in root.iter('item'):
+        loc_el = item.find('tt:locations/tt:location', _TT_NS)
+        loc_str = ''
+        if loc_el is not None:
+            loc_str = (loc_el.findtext('tt:name', default='', namespaces=_TT_NS) or '').strip()
+            if not loc_str:
+                loc_str = ', '.join(filter(None, [
+                    loc_el.findtext('tt:city', default='', namespaces=_TT_NS),
+                    loc_el.findtext('tt:country', default='', namespaces=_TT_NS),
+                ])).strip()
+        pub = (item.findtext('pubDate') or '').strip()
+        try:
+            date = str(pd.Timestamp(pub)) if pub else ''
+        except Exception:
+            date = pub
+        rows.append({
+            'company': company, 'role': (item.findtext('title') or '').strip(),
+            'location': loc_str,
+            'date': date,
+            'link': (item.findtext('link') or '').strip(),
+            'is_remote': str((item.findtext('remoteStatus') or '').strip().lower() == 'remote'),
+            'salary_min': None, 'salary_max': None, 'salary_currency': None,
+            'country_iso': _infer_country(loc_str),
+        })
+    return rows
+
+
+def _normalize_personio(company, slug, xml_text):
+    rows = []
+    try:
+        root = ET.fromstring(xml_text)
+    except ET.ParseError:
+        return rows
+    for pos in root.findall('position'):
+        office = (pos.findtext('office') or '').strip()
+        created = (pos.findtext('createdAt') or '').strip()
+        try:
+            date = str(pd.Timestamp(created)) if created else str(now)
+        except Exception:
+            date = str(now)
+        job_id = (pos.findtext('id') or '').strip()
+        link = (pos.findtext('careersUrl') or '').strip() or (
+            f"https://{slug}.jobs.personio.com/job/{job_id}" if job_id else ''
+        )
+        rows.append({
+            'company': company, 'role': (pos.findtext('name') or '').strip(),
+            'location': office,
+            'date': date,
+            'link': link,
+            'is_remote': str('remote' in office.lower()),
+            'salary_min': None, 'salary_max': None, 'salary_currency': None,
+            'country_iso': _infer_country(office),
+        })
     return rows
 
 
@@ -1216,6 +1381,45 @@ if not fh_df.empty:
         subset=["company", "role", "location"], keep="first"
     )
     print(f"  Freehire added: {source_contrib[TIER_MEDIUM][0]} to README, {source_contrib[TIER_MEDIUM][1]} to listings")
+
+# ── Breadth feeds (medium tier) ──────────────────────────────────────────────
+# Remote-first aggregators broaden coverage beyond freehire's company set.
+breadth_df = pd.DataFrame()
+if TIER_MEDIUM in RUN_TIERS:
+    print("Fetching breadth feeds...")
+    breadth_df, _ = breadth_sources.fetch_and_parse(infer_country=_infer_country)
+    breadth_df = _classify_freehire(breadth_df)
+    breadth_df = _stamp(breadth_df, "breadth", now)
+    print(f"  Breadth classified: {len(breadth_df):,}")
+    _save_cache(breadth_df, "breadth")
+else:
+    breadth_df = _load_cached("breadth")
+print(f"  Breadth working set: {len(breadth_df):,} rows")
+
+if not breadth_df.empty:
+    breadth_df = _dedup_across(readme_result, breadth_df)
+    b_for_readme = breadth_df[
+        ~breadth_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                         'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                         'HR','BG','FI','LU','BE','MT','CY'])
+        & (_to_dt(breadth_df["date"]) >= now - pd.Timedelta(days=60))
+        & breadth_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    b_for_listings = breadth_df[
+        _to_dt(breadth_df["date"]) >= now - pd.Timedelta(days=90)
+    ].copy()
+    source_contrib[TIER_MEDIUM][0] += len(b_for_readme)
+    source_contrib[TIER_MEDIUM][1] += len(b_for_listings)
+
+    readme_result = pd.concat([readme_result, b_for_readme], ignore_index=True)
+    readme_result = readme_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    listings_result = pd.concat([listings_result, b_for_listings], ignore_index=True)
+    listings_result = listings_result.drop_duplicates(
+        subset=["company", "role", "location"], keep="first"
+    )
+    print(f"  Breadth added: {len(b_for_readme)} to README, {len(b_for_listings)} to listings")
 
 # ── Direct ATS probing (heavy tier) ──────────────────────────────────────────
 ats_df = pd.DataFrame()
@@ -1564,22 +1768,57 @@ tech_mask = role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
 searchtern_result = _feed_scope_filter(listings_result)
 listings_result = _feed_scope_filter(listings_result[tech_mask])
 
+# ── H-1B sponsor enrichment (Tier C) ────────────────────────────────────────
+# visa_sponsor column sourced from USCIS employer data; "" means no signal
+# rather than "does not sponsor". Runs regardless of --tier (one cached
+# map is shared by every tier) and degrades to the last good cache if USCIS is
+# unreachable, so a missing column never blocks a run.
+try:
+    _h1b_approvals = h1b_enrich.load_approvals()
+except Exception as _e:
+    print(f"  H-1B enrichment skipped: {_e}")
+    _h1b_approvals = {}
+
+_h1b_roles = {}
+try:
+    _role_targets = (readme_result["company"].astype(str).value_counts()
+                     .head(h1b_enrich.ROLE_MAX_COMPANIES).index.tolist())
+    _h1b_roles = h1b_enrich.load_roles(_role_targets)
+except Exception as _e:
+    print(f"  H-1B role data skipped: {_e}")
+
+if _h1b_approvals:
+    readme_result = h1b_enrich.add_visa_column(readme_result, _h1b_approvals)
+    searchtern_result = h1b_enrich.add_visa_column(searchtern_result, _h1b_approvals)
+    listings_result = h1b_enrich.add_visa_column(listings_result, _h1b_approvals)
+    if _h1b_roles:
+        readme_result = h1b_enrich.add_role_columns(readme_result, _h1b_roles)
+        searchtern_result = h1b_enrich.add_role_columns(searchtern_result, _h1b_roles)
+        listings_result = h1b_enrich.add_role_columns(listings_result, _h1b_roles)
+
+try:
+    h1b_enrich.write_h1b_json(_h1b_approvals, _h1b_roles, output_dir="..")
+except Exception as _e:
+    print(f"  h1b.json skipped: {_e}")
+
 # ── Feed digest + closure tracking (B) ─────────────────────────────────────
 # Diff this run's rows against cache/seen.json. Sources re-fetched this run
 # vote on closures; cached-only sources are left alone (their rows may just
 # be outside the run's lookback window).
 def _row_source(row):
     src = str(row.get("source") or "").strip()
-    return src if src in ("jobhive", "freehire", "ats", "priority") else "md"
+    return src if src in ("jobhive", "freehire", "breadth", "ecr", "ats", "priority") else "md"
 
 
 def _seen_bucket(src):
-    return src if src in ("jobhive", "freehire", "ats", "priority") else "md"
+    return src if src in ("jobhive", "freehire", "breadth", "ecr", "ats", "priority") else "md"
 
 
 buckets_fresh = {
     "jobhive": True,
     "freehire": TIER_MEDIUM in RUN_TIERS,
+    "breadth": TIER_MEDIUM in RUN_TIERS,
+    "ecr": TIER_MEDIUM in RUN_TIERS,
     "ats": TIER_HEAVY in RUN_TIERS,
     "priority": TIER_PRIORITY in RUN_TIERS,
     "md": TIER_LIGHT in RUN_TIERS,
@@ -1691,6 +1930,8 @@ with open(os.path.join(root_dir, "pages", "run_meta.json"), "w", encoding="utf-8
 API_SOURCES = [
     {"name": "Jobhive (ATS)", "url": "https://storage.stapply.ai/jobhive/v1/manifest.json", "type": "internship/newgrad", "count_key": "jobhive"},
     {"name": "freehire.me", "url": "https://freehire.me", "type": "internship/newgrad", "count_key": "freehire"},
+    {"name": "Breadth feeds", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py", "type": "internship/newgrad", "count_key": "breadth"},
+    {"name": "Early Career Radar", "url": "https://earlycareerradar.com/summer-internships", "type": "internship/newgrad", "count_key": "ecr"},
     {"name": "EchoJobs", "url": "https://echojobs.io", "type": "internship/tech", "count_key": "echojobs"},
     {"name": "Jobspy (Indeed)", "url": "https://github.com/zanellia/jobspy", "type": "internship", "count_key": "jobspy"},
     {"name": "ATS career-page probe", "url": "", "type": "internship/newgrad", "count_key": "ats"},
@@ -1797,6 +2038,8 @@ if _d_new:
 if not priority_df.empty:
     _pri_window = _to_dt(priority_df["date"]) >= now - pd.Timedelta(days=7)
     readme_generation.write_priority_json(priority_df[_pri_window], output_dir="..")
+
+readme_generation.write_feed_xml(searchtern_result, output_dir="..")
 
 # --- Output change detection ---
 _listings_path = os.path.join("..", "pages", "listings.json")

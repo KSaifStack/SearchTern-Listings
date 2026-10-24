@@ -461,6 +461,14 @@ def format_location(location) -> str:
     return f"<details><summary><strong>{len(parts)} locations</strong></summary>{joined}</details>"
 
 
+def visa_cell(row) -> str:
+    if str(row.get("visa_role") or "").strip():
+        return "role"
+    if str(row.get("visa_sponsor") or "").strip() == "true":
+        return "company"
+    return ""
+
+
 def format_company(company: str, prev_company: str, age: str, prev_age: str, link: str | None = None) -> str:
     """Return company HTML. Wraps in anchor when a job URL is provided."""
     escaped = html.escape(company)
@@ -486,16 +494,18 @@ def build_table(rows: list[str]) -> str:
         '<table style="width:100%; table-layout:fixed; border-collapse:collapse;">\n'
         '<colgroup>\n'
         '<col style="width:14%">\n'
-        '<col style="width:46%">\n'
-        '<col style="width:24%">\n'
+        '<col style="width:42%">\n'
+        '<col style="width:22%">\n'
         '<col style="width:8%">\n'
         '<col style="width:8%">\n'
+        '<col style="width:6%">\n'
         '</colgroup>\n<thead>\n<tr>\n'
         '<th style="text-align:left; white-space:normal;">Company</th>\n'
         '<th style="text-align:left; white-space:normal;">Role</th>\n'
         '<th style="text-align:left; white-space:normal;">Location</th>\n'
         '<th style="text-align:center; white-space:normal;">Application</th>\n'
         '<th style="text-align:center; white-space:normal;">Age</th>\n'
+        '<th style="text-align:center; white-space:normal;">H-1B</th>\n'
         "</tr>\n</thead>\n<tbody>\n"
         + "\n".join(rows)
         + "\n</tbody>\n</table>"

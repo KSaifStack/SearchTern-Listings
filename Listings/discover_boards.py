@@ -15,7 +15,11 @@ _CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
 _STATE_PATH = os.path.join(_CACHE_DIR, "discovered_boards.json")
 
 # Must match what _fetch_company_jobs can probe: ATS_ENDPOINTS keys plus Workday.
-PROBEABLE = {"Greenhouse", "Lever", "Ashby", "SmartRecruiters", "Workday"}
+PROBEABLE = {
+    "Greenhouse", "Lever", "Ashby", "SmartRecruiters", "Workday",
+    "Workable", "Rippling", "Pinpoint", "Recruitee", "Teamtailor", "Breezy",
+    "Personio",
+}
 
 MAX_DISCOVERED = 2000
 
@@ -26,8 +30,17 @@ _GREENHOUSE_HOSTS = {
     "boards.eu.greenhouse.io",
 }
 _LEVER_HOSTS = {"jobs.lever.co", "jobs.eu.lever.co"}
+_WORKABLE_HOSTS = {"apply.workable.com", "jobs.workable.com", "workable.com"}
+_RIPPLING_HOST = "ats.rippling.com"
+_SUBDOMAIN_VENUES = (
+    (".pinpointhq.com", "Pinpoint"),
+    (".recruitee.com", "Recruitee"),
+    (".teamtailor.com", "Teamtailor"),
+    (".breezy.hr", "Breezy"),
+)
 _WORKDAY_HOST_RE = re.compile(r"^(?P<tenant>[a-z0-9-]+)\.wd\d+\.myworkdayjobs\.com$")
 _WORKDAY_LOCALE_RE = re.compile(r"^[a-z]{2}-[a-z]{2}$")
+_PERSONIO_HOST_RE = re.compile(r"^(?P<slug>[a-z0-9-]+)\.jobs\.personio\.(?:com|de)$")
 # Path segments that are never a board slug (embed widgets, apply paths, ...).
 _NON_SLUG = {"jobs", "job", "embed", "j", "apply", "application", "cxs", "wday"}
 
@@ -66,6 +79,24 @@ def parse_link(link):
         if parts:
             return ("SmartRecruiters", parts[0].lower())
         return None
+    if host in _WORKABLE_HOSTS:
+        if parts and parts[0].lower() not in _NON_SLUG:
+            return ("Workable", parts[0].lower())
+        return None
+    if host == _RIPPLING_HOST:
+        if parts and parts[0].lower() not in _NON_SLUG:
+            return ("Rippling", parts[0].lower())
+        return None
+    for suffix, ats in _SUBDOMAIN_VENUES:
+        if host.endswith(suffix):
+            slug = host[: -len(suffix)]
+            if slug and slug != "www":
+                return (ats, slug.lower())
+            return None
+
+    personio = _PERSONIO_HOST_RE.match(host)
+    if personio:
+        return ("Personio", personio.group("slug"))
 
     wd = _WORKDAY_HOST_RE.match(host)
     if wd and parts:
