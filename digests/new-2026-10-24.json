@@ -1,826 +1,98 @@
 [
   {
-    "company": "Fa Eqcd Saasfaprod1",
-    "role": "Drilling & Completions Engineer Intern - Summer 2027",
-    "location": "Dallas, TX, United States",
-    "link": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1057",
+    "company": "Hyannis Port Research",
+    "role": "Applications Engineering Intern - Summer 2027",
+    "location": "Needham, MA",
+    "link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/8016173003",
+    "source": "ats",
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
+  },
+  {
+    "company": "Hyannis Port Research",
+    "role": "FPGA Engineering Intern - Summer 2027",
+    "location": "Needham, MA",
+    "link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003",
+    "source": "ats",
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
+  },
+  {
+    "company": "Hyannis Port Research",
+    "role": "Software Engineering Intern - Summer 2027",
+    "location": "Needham, MA",
+    "link": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+    "source": "ats",
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
+  },
+  {
+    "company": "Honeywell",
+    "role": "Chemistry Lab Process Engineering Intern - Bachelor's",
+    "location": "Shreveport, LA, United States",
+    "link": "https://ibqbjb.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#161021",
     "source": "jobhive",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "Amazon Science",
-    "role": "2027 Frontier AI & Robotics Internship (Undergraduate) - United States, Frontier AI & Robotics, Frontier AI & Robotics",
+    "company": "Affirm",
+    "role": "Software Engineer (Machine Learning) Intern (Summer 2027)",
     "location": "San Francisco, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4481043354",
+    "link": "https://www.linkedin.com/jobs/view/4473833047",
     "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "Amazon",
-    "role": "2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4455933052",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "company": "American Heart Association",
+    "role": "Data Science Intern - Machine Learning & AI 🎓",
+    "location": "Dallas, TX",
+    "link": "",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "Amazon",
-    "role": "2027 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4472188057",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "2027 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
-    "location": "Boston, MA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4472184147",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "2027 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4472181356",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, Amazon Leo, Early Career - 2026",
-    "location": "Redmond, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483117886",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Arlington, VA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474727724",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Austin, TX, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474745093",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Bellevue, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474740321",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Nashville, TN, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474740318",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "North Reading, MA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474729717",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474728686",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Westboro, WI, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474724892",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Amazon",
-    "role": "Software Development Engineer, ROBOTICS, Early Career - 2027",
-    "location": "Westborough, MA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474728685",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "BioSpace",
-    "role": "Grad Intern  Software Engineer  Technology, AI & Data (Summer 2027)",
-    "location": "Washington, DC, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483311306",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Booz Allen Hamilton",
-    "role": "University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL",
-    "location": "Fort Walton Beach, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474325756",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Machine Learning Engineer Intern (E-Commerce Risk Control)- 2027 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475051699",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Start (PhD)",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475064105",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Network Software Development Engineer Intern(Network Observation) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475052579",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Software Development Engineer Intern (Network Automation) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475064143",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Software Engineer Intern (AML-Engine-Orchestration) - 2027 Start",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475053608",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Software Engineer Intern (Relational Database) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475058410",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Software Engineer Intern (Traffic Infrastructure) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475045940",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ByteDance",
-    "role": "Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475066037",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Cboe Global Markets",
-    "role": "Operational Resilience & Technical Content Intern",
-    "location": "Kansas City, MO, States",
-    "link": "https://earlycareerradar.com/jobs/job_3909061330880c19",
-    "source": "ecr",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Conduent",
-    "role": "Java Developer (Entry Level)",
-    "location": "Atlanta, GA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4447003226",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Copart",
-    "role": "Software Engineering Intern",
-    "location": "Dallas, TX, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483127672",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Costa Farms",
-    "role": "2027 Summer Internship - Analyst",
-    "location": "Miami, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4463916656",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "DV Trading LLC",
-    "role": "Quantitative Research Intern - Summer 2027 (DV Equities)",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4464889669",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "DV Trading LLC",
-    "role": "Software Developer Intern - Summer 2027 (DV Equities)",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4464888656",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Emerson Electric",
-    "role": "Product Manager",
-    "location": "Marshalltown, IA, United States",
-    "link": "https://zapply.jobs/l/d/oracle-emerson-electric-26012178?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "[Figure AI](https://job-boards.greenhouse.io/figureai/jobs/4724521006)",
-    "role": "Developer Productivity Intern",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Garmin",
-    "role": "Software Engineering Intern",
-    "location": "Tulsa, OK, USA",
-    "link": "https://www.linkedin.com/jobs/view/4466056080",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "[HCSC](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513)",
-    "role": "Security Data Classification Intern",
-    "location": "Richardson, TX",
-    "link": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Security-Data-Classification-Intern_R0059513",
-    "source": "SuryaHarikrishnan DS/AI",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Harvey",
-    "role": "Software Engineer, New Grad (2027)",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473819499",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Harvey",
-    "role": "Software Engineering Intern (Summer 2027)",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473385051",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "IBM",
-    "role": "Entry Level Software Developer 2027",
-    "location": "Poughkeepsie, AR, USA",
-    "link": "https://www.linkedin.com/jobs/view/4453495056",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ICE",
-    "role": "Summer Internship Program 2027 - Index Analyst Intern",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483166949",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ICE",
-    "role": "Summer Internship Program 2027 - Software Developer Intern",
-    "location": "Jacksonville, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483189109",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ICE",
-    "role": "Summer Internship Program 2027 - Software Engineering Intern, Java",
-    "location": "Jacksonville, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483173474",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ICE",
-    "role": "Summer Internship Program 2027 - Software Engineering Intern",
-    "location": "Jacksonville, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483178360",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ICE",
-    "role": "Summer Internship Program 2027 - Software Engineering Intern",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483172497",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Ibotta",
+    "company": "Direct Supply",
     "role": "Software Engineer Intern",
-    "location": "Denver, CO, USA",
-    "link": "https://www.linkedin.com/jobs/view/4466450020",
+    "location": "Milwaukee, WI, USA",
+    "link": "https://www.linkedin.com/jobs/view/4466394769",
     "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "Intuit",
-    "role": "Summer 2027: Intelligent Automation Business Systems Analyst Intern",
-    "location": "San Diego, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4482858452",
+    "company": "Lyft",
+    "role": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+    "location": "San Francisco County, CA, USA",
+    "link": "https://www.linkedin.com/jobs/view/4466354432",
     "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "JPMorgan Chase",
-    "role": "Global Clearing Product Control – Associate",
-    "location": "Brooklyn, NY, United States",
-    "link": "https://zapply.jobs/l/d/oracle-jpmorgan-chase-210801005?s=gh-new-grad-jobs-2027",
+    "company": "Leidos",
+    "role": "Junior Radio Frequency (RF) Engineer/Spectrum Engineer",
+    "location": "Washington, DC",
+    "link": "https://zapply.jobs/l/d/workday-leidos-external-R-00195328?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "Lam Research",
-    "role": "2027 Engineering Intern - AI/ML & Tool Innovation (SABRE Electroplating) - Masters/PhD (6 months)",
-    "location": "Tualatin, OR, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473801209",
+    "company": "Lennox International",
+    "role": "Full-Stack Software Engineering Intern 🎓",
+    "location": "Richardson, TX",
+    "link": "",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
+  },
+  {
+    "company": "Motorola Solutions",
+    "role": "2027 Software Engineering Summer Internship",
+    "location": "Plantation, FL, USA",
+    "link": "https://www.linkedin.com/jobs/view/4466378196",
     "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   },
   {
-    "company": "Liberty Mutual Insurance",
-    "role": "Solaria Labs Data Science Co-op (January - June 2027)",
-    "location": "Boston, MA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4466408457",
+    "company": "Motorola Solutions",
+    "role": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
+    "location": "Plantation, FL, USA",
+    "link": "https://www.linkedin.com/jobs/view/4466378203",
     "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Lockheed Martin",
-    "role": "Software Engineer (Combat Systems DevSecOps) - Early Career",
-    "location": "Mount Laurel, NJ, USA",
-    "link": "https://www.linkedin.com/jobs/view/4480657605",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Lockheed Martin",
-    "role": "Software Engineer (Ground Systems) - Intern",
-    "location": "Fort Worth, TX, USA",
-    "link": "https://www.linkedin.com/jobs/view/4480660483",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Lockheed Martin",
-    "role": "Software Engineer - Intern",
-    "location": "Marietta, GA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4480646901",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Lockheed Martin",
-    "role": "Software Engineer Asc - Early Career",
-    "location": "Marietta, GA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4480665255",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Meta",
-    "role": "Research Scientist Intern, AI-Driven Neural Interfaces (PhD)",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4479479728",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Meta",
-    "role": "Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4478999596",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Meta",
-    "role": "Research Scientist Intern, Multimodal Behavioral AI (PhD)",
-    "location": "Redmond, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4479494029",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Meta",
-    "role": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
-    "location": "Redmond, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4481038939",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Mach Industries",
-    "role": "May 2027 New Graduate Engineer, Software",
-    "location": "Huntington Beach, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4463497424",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Mass. Electric Construction Co.",
-    "role": "Mass Electric Industrial - Finance Analyst Intern",
-    "location": "Mount Pleasant, WI, USA",
-    "link": "https://www.linkedin.com/jobs/view/4463187814",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Merck",
-    "role": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
-    "location": "Cambridge, MA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483127613",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Microsoft",
-    "role": "Research Intern - Algorithms Group: Generative Modeling",
-    "location": "Redmond, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4481581107",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Microsoft",
-    "role": "Software Engineering Intern",
-    "location": "Tulsa, OK, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483315950",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "MongoDB",
-    "role": "2027 - Software Engineering Intern, AMER",
-    "location": "Austin, CO, USA",
-    "link": "https://www.linkedin.com/jobs/view/4483125447",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Northwestern Memorial Hospital",
-    "role": "Finance-Business Process Automation Undergraduate Intern Program - Summer 2027",
-    "location": "Chicago, IL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4482637994",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Omnidya",
-    "role": "Business Operations & Analyst Intern",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4481375844",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, Internship - Infrastructure",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434137561",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, Internship",
-    "location": "Denver, CO, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434132945",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, New Grad - Infrastructure",
-    "location": "Palo Alto, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434149314",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, New Grad - Production Infrastructure",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434145450",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, New Grad - Production Infrastructure",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434155092",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, New Grad - Production Infrastructure",
-    "location": "Washington, DC, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434144432",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, New Grad",
-    "location": "Denver, CO, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434136634",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, New Grad",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4434138603",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Regeneron",
-    "role": "2027 Co-op Data Science & Computational Biology (Research)",
-    "location": "Tarrytown, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473351594",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Regeneron",
-    "role": "2027 Co-op Data Science & Digital Innovation (Preclinical Manufacturing & Research IT)",
-    "location": "Tarrytown, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473358304",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Rubrik",
-    "role": "Product Growth Intern - MBA",
-    "location": "Palo Alto, CA, States",
-    "link": "https://earlycareerradar.com/jobs/job_461158b97a99e27d",
-    "source": "ecr",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ServisFirst Bank",
-    "role": "Credit Analyst Intern- Summer",
-    "location": "Birmingham, AL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4465846600",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "ServisFirst Bank",
-    "role": "Credit Analyst Intern- Summer",
-    "location": "Huntsville, AL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4475029181",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Societe Generale",
-    "role": "Internship - Banks Coverage Analyst",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474342299",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "SpaceX",
-    "role": "New Graduate Engineer, Software (Application Software)",
-    "location": "Hawthorne, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4456373787",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Stripe",
-    "role": "PhD Data Scientist, Intern",
-    "location": "New York, USA",
-    "link": "https://www.linkedin.com/jobs/view/4474515659",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Sun Life",
-    "role": "Data Science Intern",
-    "location": "5 locations Milwaukee, WI · Kansas City, MO · Hartford, CT · Portland, ME · Wellesley, MA · Wellesley Hills, MA · Wellesley Hills, Massachusetts, States",
-    "link": "https://earlycareerradar.com/jobs/job_5db298ad939bbebf",
-    "source": "ecr",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Superior Construction",
-    "role": "Financial Analyst Intern",
-    "location": "Jacksonville, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4481691533",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Tanium",
-    "role": "Software Engineering Intern – Summer 2027",
-    "location": "Emeryville, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4464804078",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "The Mosaic Company",
-    "role": "Artificial Intelligence Co-Op/Intern - Spring 2027",
-    "location": "Greater Tampa Bay Area",
-    "link": "https://www.linkedin.com/jobs/view/4456040552",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Summer 2027 Data Science Intern",
-    "location": "Washington, DC, USA",
-    "link": "https://www.linkedin.com/jobs/view/4464913312",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok USDS Joint Venture",
-    "role": "Machine Learning Engineer Intern (E-Commerce) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473728767",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok USDS Joint Venture",
-    "role": "Machine Learning Engineer Intern (Recommendations and Search) - 2027 Summer",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4473101196",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok USDS Joint Venture",
-    "role": "Machine Learning Engineer Intern (Risk & Integrity) - 2027 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4472991448",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "(General Hire) Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4447689267",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Applied Scientist Intern (Recommendation AI Lab) - 2026 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4436529600",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (Commerce Ads) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4448292129",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (E-Commerce Recommendation Foundation) - 2027 Start (PhD）",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4452362870",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (E-Commerce Recommendation Foundation) - 2027 Start (PhD）",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4452371793",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM/Agent) - 2027 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4455640098",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM/Agent) - 2027 Start (PhD)",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4455634169",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (Search Ads) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4448273934",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Engineer Intern (TikTok-Data-Search-Visual Search) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4447692203",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Machine Learning Scientist Intern (TikTok-Recommendation) - 2027 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4447690241",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Research Scientist Intern– E-commerce Recommendation(LLM Applications) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4402363751",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Research Scientist Intern– E-commerce Recommendation(LLM Applications) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
-    "location": "Seattle, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4402356749",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "TikTok",
-    "role": "Software Engineer Intern (Recommendation Architecture, Feeds Infrastructure) - 2027 Summer",
-    "location": "San Jose, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4455493912",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Waymo",
-    "role": "2027 Summer Intern, PhD, Planner Machine Learning",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4471952719",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
-  },
-  {
-    "company": "Waymo",
-    "role": "2027 Summer Intern, PhD, Research, Behavior Post-training",
-    "location": "San Francisco, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4480289135",
-    "source": "jobspy",
-    "observed_at": "2026-10-24T15:37:20.160192+00:00"
+    "observed_at": "2026-10-24T18:39:39.446408+00:00"
   }
 ]
