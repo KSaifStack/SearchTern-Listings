@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 18
 
-**Page 18 of 41 — 22,314 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 18 of 41 — 22,369 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-17.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-19.md)
 
@@ -22,160 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/e73e9177-1be1-4a33-b389-cc771aca28c1"><strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Transportation Engineer - Decembe...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>Maryland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/e73e9177-1be1-4a33-b389-cc771aca28c1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/21bcf3d0-93b9-4b60-a96b-540b69d83f34"><strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Transportation Engineer - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charleston<br>WV</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/21bcf3d0-93b9-4b60-a96b-540b69d83f34" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/3378287b-9ef9-46ed-b59f-0f2754277566">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Transportation Engineer - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>Virginia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/3378287b-9ef9-46ed-b59f-0f2754277566" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/694244fd-26d0-48d6-9cef-07f0f55f2024">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Transportation Engineer - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/694244fd-26d0-48d6-9cef-07f0f55f2024" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/69be69f5-785b-4a97-ab16-7be3ae8e971c">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Transportation Engineer - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>Maryland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/69be69f5-785b-4a97-ab16-7be3ae8e971c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/043f322f-ce63-44e1-af6c-c555c4eeaf52"><strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Water Resources Engineer - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rockville<br>Maryland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/043f322f-ce63-44e1-af6c-c555c4eeaf52" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/3376a3b7-848a-4ae1-9ef6-3eca95143ad7">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Water Resources Engineer - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>Maryland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/3376a3b7-848a-4ae1-9ef6-3eca95143ad7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">29d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/2ade5216-ef05-428f-b717-d7b1a92b4785"><strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanicsburg<br>Pennsylvania</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/2ade5216-ef05-428f-b717-d7b1a92b4785" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/30b54897-bf01-4f2b-83c0-4587a5f0ff0b">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/30b54897-bf01-4f2b-83c0-4587a5f0ff0b" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/3cf68be4-f1dc-4a61-a88b-a6d719f43cf4">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>Pennsylvania</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/3cf68be4-f1dc-4a61-a88b-a6d719f43cf4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/faa2ae09-3c20-41cd-9d18-ee654b59bd84">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charleston<br>SC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/faa2ae09-3c20-41cd-9d18-ee654b59bd84" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/123bab54-aee7-4157-90f2-ed5f181eb4d3">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charleston<br>SC</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/123bab54-aee7-4157-90f2-ed5f181eb4d3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/3dc0b0cb-5ca7-4c30-9449-48b490d7f201">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/3dc0b0cb-5ca7-4c30-9449-48b490d7f201" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/7d5a84c2-36f1-4075-9250-1f0041c829bc">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Parkersburg<br>West Virginia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/7d5a84c2-36f1-4075-9250-1f0041c829bc" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/a421d9fb-74b0-4fa4-a0e5-1be184cef877">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>Pennsylvania</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/a421d9fb-74b0-4fa4-a0e5-1be184cef877" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/d31f9b99-d307-4737-be56-168fada33c6a">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Herndon<br>Virginia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/d31f9b99-d307-4737-be56-168fada33c6a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/amtengineering/d42f9083-91c5-4a3a-8a55-3a834f495736">↳ <strong>Amt Engineering</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Engineer Intern - May 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>Virginia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/amtengineering/d42f9083-91c5-4a3a-8a55-3a834f495736" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/allegiantair/637e4751-89ff-4935-a6a0-e913b7452031"><strong>Allegiant</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Financial Analyst (Spring 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/allegiantair/637e4751-89ff-4935-a6a0-e913b7452031" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/allegiantair/fd433f06-813b-4254-b549-5c69f4b5af10">↳ <strong>Allegiant</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Financial Analyst (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/allegiantair/fd433f06-813b-4254-b549-5c69f4b5af10" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215"><strong>Brooks Running</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Run Performance Graduate Internship, Run Rese...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US<br>Washington<br>Seattle</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">21d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/datalabusa/4bc04d86-bef3-40c8-a410-b0d0c41a683d"><strong>Datalab Usa</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Programmer Analyst - (entry-level data analys...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Germantown<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/datalabusa/4bc04d86-bef3-40c8-a410-b0d0c41a683d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/dadavidson/d70340d4-fe76-4de5-b0da-d9094c5a388a"><strong>Dadavidson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Wealth Management Research Internship Pr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/dadavidson/d70340d4-fe76-4de5-b0da-d9094c5a388a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/ecosystem/baa99d90-3d06-4618-a921-fe1d7221dfd8"><strong>Ecosystem</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Construction Project Engineer</td>
@@ -237,14 +83,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Research, Humanoid Manipulation Inte...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
+<td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820">↳ <strong>Field Ai</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Research, Humanoid Manipulation Inte...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
+<td style="white-space:nowrap;">27d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e"><strong>Field Ai</strong></a></td>
@@ -517,7 +363,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Automation Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lehi<br>UT<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7"><strong>Pattern</strong></a></td>
@@ -685,7 +531,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">RF Hardware Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Peachtree Corners<br>GA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/solopulseco/28672f78-6d59-4674-8e35-ee784d5c34be" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
+<td style="white-space:nowrap;">19d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef"><strong>Solopulse</strong></a></td>
@@ -716,11 +562,11 @@
 <td style="white-space:nowrap;">25d</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56">↳ <strong>Shopback</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56"><strong>Shopback</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Mobile</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ho Chi Minh<br>Vietnam</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/shopback-2/f3876c50-8b06-4342-af17-7cf393176a56" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
+<td style="white-space:nowrap;">26d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/shieldai/a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a"><strong>Shield Ai</strong></a></td>
@@ -804,7 +650,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Field Engineer Apprentice</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">8921 W Thomas Rd<br>Phoenix<br>AZ 85037</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/simonmed/35262ca1-e991-4bbe-985a-b7c13e833556" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/steerbridge/a49cfd8c-c7ec-4378-9233-412eb16dd96a"><strong>Steerbridge</strong></a></td>
@@ -818,7 +664,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior NLP Data Scientist</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vienna<br>VA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/steerbridge/16c834c5-5462-46dd-bd83-da94dc2f0101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/thinkingbox/0728fb9c-8d59-49bf-8553-accb00621b36"><strong>Thinkingbox</strong></a></td>
@@ -972,14 +818,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineering Internship - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tampa<br>FL</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/walkerconsultants/26d288d8-5ad5-4798-8821-8b557c6ad128" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/walkerconsultants/72f3688d-5711-446e-9dda-cf513a550151"><strong>Walker Consultants</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineering Internship - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Rockville<br>MD</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/walkerconsultants/72f3688d-5711-446e-9dda-cf513a550151" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">21d</td>
+<td style="white-space:nowrap;">22d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/walkerconsultants/d5e81817-73c6-4055-a3f8-dfb9bbe119b8"><strong>Walker Consultants</strong></a></td>
@@ -1007,7 +853,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer (AI Engineering)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vladivostok</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/xsolla/d370a7d6-0923-441a-8af3-f5526d3d061c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/xsolla/db1bd372-e92d-4c29-a4fc-f5be2a28c033"><strong>Xsolla</strong></a></td>
@@ -3759,6 +3605,153 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">USA - Georgia - Alpharetta - 30005</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178469" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">16d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675"><strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer - Rotational Develo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA - Missouri - St. Louis - Lackland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer---Rotational-Development-Program_J00178675" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674">↳ <strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA - Missouri - St. Louis - Lackland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784">↳ <strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USIS Technology Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA - Georgia - Alpharetta - 30005</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081">↳ <strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; Analytics Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA - Georgia - Alpharetta - 30005</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170962">↳ <strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rotational Technology Associate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA - Georgia - Alpharetta - 30005</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170962" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964">↳ <strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">USA - Georgia - Alpharetta - 30005</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://equifax.wd5.myworkdayjobs.com/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586">↳ <strong>Equifax</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Trainee -Data Operations Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IND-Bangalore-Equifax Credit Information Services</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://equifax.wd5.myworkdayjobs.com/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/GBR---HAM---FARNBOROUGH/Junior-Software-Developer_51591502"><strong>Dxc Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GBR - HAM - FARNBOROUGH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/GBR---HAM---FARNBOROUGH/Junior-Software-Developer_51591502" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/GBR---BER---READING/Junior-Application-Support-Engineer_51592208">↳ <strong>Dxc Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Application Support Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GBR - BER - READING</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/GBR---BER---READING/Junior-Application-Support-Engineer_51592208" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/BGR---SOFIA/Junior-Security-Analyst_51590233">↳ <strong>Dxc Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Security Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BGR - SOFIA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/BGR---SOFIA/Junior-Security-Analyst_51590233" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/MYS---PETALING-JAYA/IT-Intern_51590868"><strong>Dxc Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MYS - PETALING JAYA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dxctechnology.wd1.myworkdayjobs.com/job/MYS---PETALING-JAYA/IT-Intern_51590868" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Cybersecurity-Intern_R6590"><strong>Emc Insurance</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Iowa</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Cybersecurity-Intern_R6590" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Cybersecurity-Intern_R6590"><strong>EMC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Iowa</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Cybersecurity-Intern_R6590" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Intern---Software-Engineering_R6557-1"><strong>EMC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Iowa</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Intern---Software-Engineering_R6557-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Intern--Claims--Data-_R6552-1">↳ <strong>EMC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern- Claims (Data)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Iowa</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emcins.wd5.myworkdayjobs.com/job/Iowa/Intern--Claims--Data-_R6552-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebi.wd5.myworkdayjobs.com/job/St-Charles-MO/Research---Development-Intern_REQ107708"><strong>Ensign Bickford I...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research &amp; Development Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">St. Charles<br>MO</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebi.wd5.myworkdayjobs.com/job/St-Charles-MO/Research---Development-Intern_REQ107708" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Aurora-MO/Engineering-Intern_REQ107706">↳ <strong>Ensign Bickford I...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Aurora<br>MO</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Aurora-MO/Engineering-Intern_REQ107706" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1">↳ <strong>Ensign Bickford I...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Development Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Simsbury<br>CT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT/Development-Engineer-Intern_REQ107694-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT---EBAD/Production-Planner-Intern_REQ107698-1">↳ <strong>Ensign Bickford I...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Production Planner Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Simsbury<br>CT - EBAD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT---EBAD/Production-Planner-Intern_REQ107698-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT/Product-Engineer-Intern_REQ107697-1">↳ <strong>Ensign Bickford I...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Simsbury<br>CT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT/Product-Engineer-Intern_REQ107697-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696">↳ <strong>Ensign Bickford I...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Electronics Manufacturing Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Simsbury<br>CT</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebi.wd5.myworkdayjobs.com/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
 </tr>
 </tbody>
 </table>

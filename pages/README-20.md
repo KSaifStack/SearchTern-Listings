@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 20
 
-**Page 20 of 41 — 22,314 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 20 of 41 — 22,369 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-19.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-21.md)
 
@@ -22,146 +22,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Information-Technology-Intern---Spring-2027_JR-007800">↳ <strong>Republic Airways</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Information Technology Intern - Spring 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel Headquarters</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Information-Technology-Intern---Spring-2027_JR-007800" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Industrial-Engineering-Intern---Summer-2027_JR-007649-1"><strong>Republic Airways</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel Headquarters</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Industrial-Engineering-Intern---Summer-2027_JR-007649-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Industrial-Engineering-Intern---Spring-2027_JR-007648">↳ <strong>Republic Airways</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern - Spring 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel Headquarters</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Industrial-Engineering-Intern---Spring-2027_JR-007648" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628">↳ <strong>Republic Airways</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel Headquarters</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Aviation-Engineering-Intern---Summer-2027_JR-007643">↳ <strong>Republic Airways</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aviation Engineering Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel Headquarters</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Aviation-Engineering-Intern---Summer-2027_JR-007643" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Information-Technology-Intern_JR-007501">↳ <strong>Republic Airways</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Information Technology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Carmel Headquarters</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rjet.wd108.myworkdayjobs.com/job/Carmel-Headquarters/Information-Technology-Intern_JR-007501" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://relx.wd3.myworkdayjobs.com/job/Dayton-OH/Financial-Analyst-Rotational-Program_R119866-1"><strong>RELX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst Rotational Program</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dayton<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://relx.wd3.myworkdayjobs.com/job/Dayton-OH/Financial-Analyst-Rotational-Program_R119866-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Development-Planning-Engineering-Intern_83951-1"><strong>Repsol</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Development Planning Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Development-Planning-Engineering-Intern_83951-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Development-Engineering-Intern_83948-1">↳ <strong>Repsol</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Development Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Development-Engineering-Intern_83948-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Production-Allocation-Engineering-Intern_83947-1">↳ <strong>Repsol</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Allocation Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Production-Allocation-Engineering-Intern_83947-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Reservoir-Engineering-Intern_83945-1">↳ <strong>Repsol</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Reservoir Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Reservoir-Engineering-Intern_83945-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Production-Engineering-Intern_83944">↳ <strong>Repsol</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Production-Engineering-Intern_83944" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Maintenance-Engineering-Intern_83938-1">↳ <strong>Repsol</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Maintenance Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://repsol.wd3.myworkdayjobs.com/job/Houston/Maintenance-Engineering-Intern_83938-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-1"><strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Technical Sales &amp; Consulting (USA)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">27 Locations</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Milwaukee-Wisconsin-United-States/Intern--Technical-Sales---Consulting--USA-_R26-5962-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320"><strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Electrical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2 Locations</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Eden-Prairie-Minnesota-United-States/Intern--Electrical-Engineer_R26-8320" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321-2">↳ <strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Firmware Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2 Locations</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Mequon-Wisconsin-United-States/Firmware-Engineer-Intern_R26-8321-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922">↳ <strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Firmware Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>Wisconsin<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Milwaukee-Wisconsin-United-States/Intern--Firmware-Engineering_R26-7922" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-1"><strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Embedded Controls Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Orlando<br>Florida<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706"><strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op, Electrical Engineer (June - Dec 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chelmsford<br>Massachusetts<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Chelmsford-Massachusetts-United-States/Co-op--Electrical-Engineer--June---Dec-2027-_R26-7706" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553">↳ <strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Test Engineering (Milwaukee, WI)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>Wisconsin<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Milwaukee-Wisconsin-United-States/Intern--Test-Engineering--Milwaukee--WI-_R26-7553" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/job/Mayfield-Heights-Ohio-United-States/Co-op--Hardware-Development-Engineer--June---Dec-2027-_R26-6891">↳ <strong>Rockwell Automation</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Co-op, Hardware Development Engineer (June - ...</td>
@@ -1889,7 +1749,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/foundenergy/jobs/4719227006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
+<td style="white-space:nowrap;">18d</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://premierinc.wd1.myworkdayjobs.com/job/Charlotte-NC/Data-Science-Intern_R0008481"><strong>Premier</strong></a></td>
@@ -3703,6 +3563,146 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Kissimmee<br>FL<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://disney.wd5.myworkdayjobs.com/job/Kissimmee-FL-USA/Disney-Consumer-Products-3D-Modeler-Intern--Spring-2027_10160429" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://disney.wd5.myworkdayjobs.com/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631">↳ <strong>Disney</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">WPVI- TV (6abc) Technology Intern, Spring 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Philadelphia<br>PA<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://disney.wd5.myworkdayjobs.com/job/Philadelphia-PA-USA/WPVI--TV--6abc--Technology-Intern--Spring-2027_10158631" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://disney.wd5.myworkdayjobs.com/job/Washington-DC-USA/ABC-News-This-Week-Production-Intern--Spring-2027_10158532-2"><strong>Disney</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ABC News This Week Production Intern, Spring ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>DC<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://disney.wd5.myworkdayjobs.com/job/Washington-DC-USA/ABC-News-This-Week-Production-Intern--Spring-2027_10158532-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://disney.wd5.myworkdayjobs.com/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Industrial-Design-Intern--Spring-2027_10162688"><strong>Disney</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Disney Live Entertainment Industrial Design I...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kissimmee<br>FL<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://disney.wd5.myworkdayjobs.com/job/Kissimmee-FL-USA/Disney-Live-Entertainment-Industrial-Design-Intern--Spring-2027_10162688" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://disney.wd5.myworkdayjobs.com/job/Mumbai-India/Lighting-Technical-Director--Junior---Mid--Fixed-Term-Contract-_10160547"><strong>Disney</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lighting Technical Director (Junior &amp; Mid- Fi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://disney.wd5.myworkdayjobs.com/job/Mumbai-India/Lighting-Technical-Director--Junior---Mid--Fixed-Term-Contract-_10160547" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/anderscpasadvisors/jobs/5245852007"><strong>Anders</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/anderscpasadvisors/jobs/5245852007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8036080003"><strong>TPG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Y Analytics, Climate Impact, Spring Research ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8036080003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003">↳ <strong>TPG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Y Analytics, Data Analytics and Reporting, Sp...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003">↳ <strong>TPG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Y Analytics, Health and Social Impact, Spring...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8036092003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8036208003">↳ <strong>TPG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Y Analytics, Responsible Investing, Summer Re...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/tpgcareers/jobs/8036208003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hq.wd12.myworkdayjobs.com/job/Saint-Paul-MN-Campus/Engineering-Internship---Summer-2027_R-010892"><strong>Securian Financia...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Internship - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Saint Paul<br>MN Campus</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hq.wd12.myworkdayjobs.com/job/Saint-Paul-MN-Campus/Engineering-Internship---Summer-2027_R-010892" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Junior-Infrastructure-Service-Delivery-Lead_R00343731"><strong>Accenture</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Infrastructure Service Delivery Lead</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Junior-Infrastructure-Service-Delivery-Lead_R00343731" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144"><strong>Dfw International...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Undergraduate Internship - Environmental...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DFW Intl. Airport Board</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Environmental-Technical-Projects_JR102144" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1">↳ <strong>Dfw International...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Undergraduate Internship - Geospatial Data</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DFW Intl. Airport Board</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/DFW-Intl-Airport-Board/XMLNAME-2027-Undergraduate-Internship---Geospatial-Data_JR102119-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/Airport-Headquarters/XMLNAME-2027-Undergraduate-Internship---Infrastructure-Engineering_JR102112">↳ <strong>Dfw International...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Undergraduate Internship - Infrastructur...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Airport Headquarters</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/Airport-Headquarters/XMLNAME-2027-Undergraduate-Internship---Infrastructure-Engineering_JR102112" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/Airport-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship--Technology-Project-Management_JR102111-1">↳ <strong>Dfw International...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Undergraduate Summer Internship- Technol...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Airport Headquarters</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dfwairport.wd5.myworkdayjobs.com/job/Airport-Headquarters/XMLNAME-2027-Undergraduate-Summer-Internship--Technology-Project-Management_JR102111-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cmegroup.wd1.myworkdayjobs.com/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865"><strong>Cme Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Analyst - Placement year internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Belfast - Millennium House</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cmegroup.wd1.myworkdayjobs.com/job/Belfast---Millennium-House/AI-Analyst---Placement-year-internship_34865" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">22d</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cmegroup.wd1.myworkdayjobs.com/job/Chicago---20-S-Wacker/Year-Long-Technology-Internship--Summer-2027-Spring-2028-_34831"><strong>Cme Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Year-Long Technology Internship (Summer 2027-...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago - 20 S. Wacker</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cmegroup.wd1.myworkdayjobs.com/job/Chicago---20-S-Wacker/Year-Long-Technology-Internship--Summer-2027-Spring-2028-_34831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jm.wd103.myworkdayjobs.com/job/Richmond-IN/Engineering-Intern_R26_1443"><strong>Johns Manville</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richmond IN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jm.wd103.myworkdayjobs.com/job/Richmond-IN/Engineering-Intern_R26_1443" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jm.wd103.myworkdayjobs.com/job/Spartanburg-SC/Engineering-Intern_R26_1871">↳ <strong>Johns Manville</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Spartanburg SC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jm.wd103.myworkdayjobs.com/job/Spartanburg-SC/Engineering-Intern_R26_1871" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jm.wd103.myworkdayjobs.com/job/Richland-MS/Engineering-Intern_R26_1873">↳ <strong>Johns Manville</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richland MS</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jm.wd103.myworkdayjobs.com/job/Richland-MS/Engineering-Intern_R26_1873" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
 </tr>
 </tbody>
 </table>
