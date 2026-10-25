@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T22:36:36Z",
+ "built_at": "2026-10-25T22:41:38Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2520,7 +2520,7 @@
    ]
   },
   "astera labs": {
-   "fetched_at": "2026-10-25T22:36:14Z",
+   "fetched_at": "2026-10-25T22:41:17Z",
    "label": "Astera Labs",
    "titles": [
     {
@@ -3294,7 +3294,7 @@
    ]
   },
   "barclays": {
-   "fetched_at": "2026-10-25T22:36:15Z",
+   "fetched_at": "2026-10-25T22:41:18Z",
    "label": "Barclays",
    "titles": [
     {
@@ -7425,7 +7425,7 @@
    "titles": []
   },
   "eqt": {
-   "fetched_at": "2026-10-25T22:36:16Z",
+   "fetched_at": "2026-10-25T22:41:19Z",
    "label": "Eqt Corporation",
    "titles": []
   },
@@ -7718,7 +7718,7 @@
    ]
   },
   "expedia": {
-   "fetched_at": "2026-10-25T22:36:16Z",
+   "fetched_at": "2026-10-25T22:41:20Z",
    "label": "Expedia Group",
    "titles": [
     {
@@ -10535,7 +10535,7 @@
    ]
   },
   "j m smucker": {
-   "fetched_at": "2026-10-25T22:36:17Z",
+   "fetched_at": "2026-10-25T22:41:21Z",
    "label": "J M Smucker",
    "titles": []
   },
@@ -11176,7 +11176,7 @@
    "titles": []
   },
   "kla corporation https kla wd1 myworkdayjobs com ur job milpitas ca engineering intern 2642277": {
-   "fetched_at": "2026-10-25T22:36:18Z",
+   "fetched_at": "2026-10-25T22:41:22Z",
    "label": "[KLA Corporation](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277)",
    "titles": []
   },
@@ -14320,7 +14320,7 @@
    ]
   },
   "prologis https prologis wd5 myworkdayjobs com prologis external careers job denver colorado ai product management intern r6840": {
-   "fetched_at": "2026-10-25T22:36:19Z",
+   "fetched_at": "2026-10-25T22:41:23Z",
    "label": "[Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840)",
    "titles": [
     {
@@ -16497,7 +16497,7 @@
    "titles": []
   },
   "tc energy https tcenergy wd3 myworkdayjobs com career site tc job charleston west virginia intern measurement services jr 10976": {
-   "fetched_at": "2026-10-25T22:36:20Z",
+   "fetched_at": "2026-10-25T22:41:25Z",
    "label": "[TC Energy](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976)",
    "titles": []
   },
@@ -17157,114 +17157,8 @@
     }
    ]
   },
-  "true anomaly": {
-   "fetched_at": "2026-10-25T22:36:22Z",
-   "label": "True Anomaly",
-   "titles": [
-    {
-     "count": 3,
-     "median_salary": 100000,
-     "title": "ASSOCIATE"
-    },
-    {
-     "count": 3,
-     "median_salary": 75000,
-     "title": "CIVIL ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 57080,
-     "title": "BIOPRODUCTS RESEARCH COORDINATOR"
-    },
-    {
-     "count": 2,
-     "median_salary": 39140,
-     "title": "ELECTRICAL TECHNICIAN"
-    },
-    {
-     "count": 2,
-     "median_salary": 175000,
-     "title": "MANAGER, ENGINEERING"
-    },
-    {
-     "count": 2,
-     "median_salary": 146432,
-     "title": "PROJECT MANAGER"
-    },
-    {
-     "count": 2,
-     "median_salary": 162500,
-     "title": "SENIOR ASSOCIATE"
-    },
-    {
-     "count": 2,
-     "median_salary": 140000,
-     "title": "SENIOR SOFTWARE ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 189000,
-     "title": "SOFTWARE ENGINEER 4"
-    },
-    {
-     "count": 2,
-     "median_salary": 150000,
-     "title": "SR. SOFTWARE ENGINEER"
-    },
-    {
-     "count": 2,
-     "median_salary": 133125,
-     "title": "TECHNICAL PRODUCT OWNER"
-    },
-    {
-     "count": 2,
-     "median_salary": 215000,
-     "title": "VICE PRESIDENT, M&AMP;A &AMP; FINANCE"
-    },
-    {
-     "count": 1,
-     "median_salary": 76414,
-     "title": "ANALYST"
-    },
-    {
-     "count": 1,
-     "median_salary": 221000,
-     "title": "ASSOCIATE DENTIST"
-    },
-    {
-     "count": 1,
-     "median_salary": 75000,
-     "title": "BUSINESS ADMINISTRATION &AMP; ADVISORY ASSOCIATE"
-    },
-    {
-     "count": 1,
-     "median_salary": 110000,
-     "title": "BUSINESS MANAGEMENT SUPERVISOR"
-    },
-    {
-     "count": 1,
-     "median_salary": 90000,
-     "title": "DATA ANALYST"
-    },
-    {
-     "count": 1,
-     "median_salary": 87308,
-     "title": "DATA ANALYST AND MODEL BUILDER"
-    },
-    {
-     "count": 1,
-     "median_salary": 156000,
-     "title": "DATA ENGINEER 3"
-    },
-    {
-     "count": 1,
-     "median_salary": 177000,
-     "title": "DATA WAREHOUSE ENGINEER 4"
-    }
-   ]
-  },
   "turner construction": {
-   "fetched_at": "2026-10-25T22:36:23Z",
+   "fetched_at": "2026-10-25T22:41:26Z",
    "label": "Turner Construction",
    "titles": [
     {
@@ -17370,7 +17264,7 @@
    ]
   },
   "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job ut main campus video and analytics intern baseball r 00047706": {
-   "fetched_at": "2026-10-25T22:36:29Z",
+   "fetched_at": "2026-10-25T22:41:28Z",
    "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706)",
    "titles": [
     {
@@ -17476,17 +17370,17 @@
    ]
   },
   "us erac": {
-   "fetched_at": "2026-10-25T22:36:30Z",
+   "fetched_at": "2026-10-25T22:41:29Z",
    "label": "us-erac",
    "titles": []
   },
   "varda space": {
-   "fetched_at": "2026-10-25T22:36:31Z",
+   "fetched_at": "2026-10-25T22:41:31Z",
    "label": "Varda Space",
    "titles": []
   },
   "veeam software": {
-   "fetched_at": "2026-10-25T22:36:32Z",
+   "fetched_at": "2026-10-25T22:41:31Z",
    "label": "Veeam Software",
    "titles": [
     {
@@ -17502,22 +17396,22 @@
    ]
   },
   "veeamsoftware": {
-   "fetched_at": "2026-10-25T22:36:32Z",
+   "fetched_at": "2026-10-25T22:41:32Z",
    "label": "veeamsoftware",
    "titles": []
   },
   "veepee": {
-   "fetched_at": "2026-10-25T22:36:33Z",
+   "fetched_at": "2026-10-25T22:41:33Z",
    "label": "veepee",
    "titles": []
   },
   "veoliaenvironnementsa": {
-   "fetched_at": "2026-10-25T22:36:34Z",
+   "fetched_at": "2026-10-25T22:41:34Z",
    "label": "VeoliaEnvironnementSA",
    "titles": []
   },
   "vertex pharmaceuticals https vrtx wd501 myworkdayjobs com vertex careers job boston ma vertex spring co op 2027 biologics msat req 30504 1": {
-   "fetched_at": "2026-10-25T22:36:35Z",
+   "fetched_at": "2026-10-25T22:41:35Z",
    "label": "[Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Biologics-MSAT_REQ-30504-1)",
    "titles": [
     {
@@ -17623,7 +17517,7 @@
    ]
   },
   "vertiv": {
-   "fetched_at": "2026-10-25T22:36:36Z",
+   "fetched_at": "2026-10-25T22:41:36Z",
    "label": "Vertiv",
    "titles": [
     {
@@ -17685,6 +17579,138 @@
      "count": 1,
      "median_salary": 115000,
      "title": "SUPERVISOR, MECHANICAL ENGINEERING"
+    }
+   ]
+  },
+  "vinci construction": {
+   "fetched_at": "2026-10-25T22:41:36Z",
+   "label": "VINCI Construction",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "BIM SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "BIM COORDINATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "FIELD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "UTILITY PROJECT MANAGER"
+    }
+   ]
+  },
+  "visa": {
+   "fetched_at": "2026-10-25T22:41:37Z",
+   "label": "VISA",
+   "titles": [
+    {
+     "count": 117,
+     "median_salary": 141751,
+     "title": "STAFF SW ENGINEER"
+    },
+    {
+     "count": 66,
+     "median_salary": 159619,
+     "title": "SOFTWARE ENGINEER - SR. CONSULTANT LEVEL"
+    },
+    {
+     "count": 60,
+     "median_salary": 116955,
+     "title": "SR. SW ENGINEER"
+    },
+    {
+     "count": 51,
+     "median_salary": 176400,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 35,
+     "median_salary": 108826,
+     "title": "SR. SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 26,
+     "median_salary": 155709,
+     "title": "STAFF DATA ENGINEER"
+    },
+    {
+     "count": 23,
+     "median_salary": 134368,
+     "title": "STAFF SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 116500,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 21,
+     "median_salary": 98738,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 19,
+     "median_salary": 117021,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 155709,
+     "title": "SR. MANAGER"
+    },
+    {
+     "count": 18,
+     "median_salary": 150407,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 173100,
+     "title": "LEAD SW ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 200000,
+     "title": "SR. DIRECTOR"
+    },
+    {
+     "count": 16,
+     "median_salary": 169020,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 132300,
+     "title": "MANAGER"
+    },
+    {
+     "count": 14,
+     "median_salary": 142550,
+     "title": "SR. CYBERSECURITY ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 129400,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 96034,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 155764,
+     "title": "SR. DATA SCIENTIST"
     }
    ]
   }
