@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T09:13:49Z",
+ "built_at": "2026-10-25T09:18:18Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -916,7 +916,7 @@
    ]
   },
   "ameren https ameren wd1 myworkdayjobs com external job st louis mo digital co op 033841 1": {
-   "fetched_at": "2026-10-25T09:13:31Z",
+   "fetched_at": "2026-10-25T09:17:56Z",
    "label": "[Ameren](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1)",
    "titles": [
     {
@@ -2004,7 +2004,7 @@
    ]
   },
   "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4731412005": {
-   "fetched_at": "2026-10-25T09:13:32Z",
+   "fetched_at": "2026-10-25T09:17:57Z",
    "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731412005)",
    "titles": [
     {
@@ -4303,7 +4303,7 @@
    ]
   },
   "clearwater analytics": {
-   "fetched_at": "2026-10-25T09:13:33Z",
+   "fetched_at": "2026-10-25T09:17:58Z",
    "label": "Clearwater Analytics",
    "titles": [
     {
@@ -5356,7 +5356,7 @@
    "titles": []
   },
   "epic games": {
-   "fetched_at": "2026-10-25T09:13:36Z",
+   "fetched_at": "2026-10-25T09:17:59Z",
    "label": "Epic Games",
    "titles": [
     {
@@ -5734,12 +5734,12 @@
    "titles": []
   },
   "fhlbank chicago https fhlbc wd1 myworkdayjobs com search job chicago summer internship application development r2600441": {
-   "fetched_at": "2026-10-25T09:13:37Z",
+   "fetched_at": "2026-10-25T09:18:00Z",
    "label": "[FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Application-Development_R2600441)",
    "titles": []
   },
   "fidelity investments": {
-   "fetched_at": "2026-10-25T09:13:38Z",
+   "fetched_at": "2026-10-25T09:18:01Z",
    "label": "Fidelity Investments",
    "titles": [
     {
@@ -5830,7 +5830,7 @@
    ]
   },
   "flagship pioneering https job boards greenhouse io fspco op012325 jobs 8796996002": {
-   "fetched_at": "2026-10-25T09:13:39Z",
+   "fetched_at": "2026-10-25T09:18:02Z",
    "label": "[Flagship Pioneering](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002)",
    "titles": [
     {
@@ -6014,7 +6014,7 @@
    "titles": []
   },
   "garmin": {
-   "fetched_at": "2026-10-25T09:13:41Z",
+   "fetched_at": "2026-10-25T09:18:03Z",
    "label": "Garmin",
    "titles": [
     {
@@ -6119,18 +6119,18 @@
     }
    ]
   },
+  "gdit": {
+   "fetched_at": "2026-10-25T09:18:04Z",
+   "label": "GDIT",
+   "titles": []
+  },
   "gdms": {
-   "fetched_at": "2026-10-25T09:13:42Z",
+   "fetched_at": "2026-10-25T09:18:05Z",
    "label": "gdms",
    "titles": []
   },
-  "ge aerospace": {
-   "fetched_at": "2026-10-25T09:13:43Z",
-   "label": "GE Aerospace",
-   "titles": []
-  },
   "ge vernova": {
-   "fetched_at": "2026-10-25T09:13:44Z",
+   "fetched_at": "2026-10-25T09:18:06Z",
    "label": "GE Vernova",
    "titles": [
     {
@@ -6236,7 +6236,7 @@
    ]
   },
   "general dynamics mission systems": {
-   "fetched_at": "2026-10-25T09:13:46Z",
+   "fetched_at": "2026-10-25T09:18:08Z",
    "label": "General Dynamics Mission Systems",
    "titles": [
     {
@@ -6342,7 +6342,7 @@
    ]
   },
   "general motors": {
-   "fetched_at": "2026-10-25T09:13:47Z",
+   "fetched_at": "2026-10-25T09:18:09Z",
    "label": "General Motors",
    "titles": [
     {
@@ -6448,9 +6448,358 @@
    ]
   },
   "globalcampus pepsico": {
-   "fetched_at": "2026-10-25T09:13:48Z",
+   "fetched_at": "2026-10-25T09:18:10Z",
    "label": "globalcampus-pepsico",
    "titles": []
+  },
+  "globalcareers pepsico": {
+   "fetched_at": "2026-10-25T09:18:12Z",
+   "label": "globalcareers-pepsico",
+   "titles": []
+  },
+  "globalfoundries": {
+   "fetched_at": "2026-10-25T09:18:12Z",
+   "label": "GlobalFoundries",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 97198,
+     "title": "SR ENGINEER INTEGRATION ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 95722,
+     "title": "SR ENGINEER PROCESS ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 123562,
+     "title": "MTS TECHNOLOGY DEVELOPMENT"
+    },
+    {
+     "count": 4,
+     "median_salary": 111765,
+     "title": "PRINCIPAL ENG EQUIPMENT ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 155709,
+     "title": "SR LEAD IT BUSINESS ANALYSIS"
+    },
+    {
+     "count": 3,
+     "median_salary": 143362,
+     "title": "LEAD IT BUSINESS ANALYSIS"
+    },
+    {
+     "count": 3,
+     "median_salary": 138798,
+     "title": "MANAGER PROCESS ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 117250,
+     "title": "PRINCIPAL ENG INTEGRATION ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 109335,
+     "title": "PRINCIPAL ENG PROCESS ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 115877,
+     "title": "PRINCIPAL ENG TEST ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 117603,
+     "title": "PRINCIPAL ENG YIELD ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 163550,
+     "title": "SR LEAD ENTERPRISE APP ARCHITECTURE"
+    },
+    {
+     "count": 3,
+     "median_salary": 156998,
+     "title": "SR LEAD ENTERPRISE APP DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 74173,
+     "title": "ENGINEER PROCESS ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 114115,
+     "title": "MTS DEVICE MODELING &AMP; CHARACTERIZATION"
+    },
+    {
+     "count": 2,
+     "median_salary": 118845,
+     "title": "MTS MFG SYSTEMS ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 143748,
+     "title": "PMTS PROCESS ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 104260,
+     "title": "PRINCIPAL ENG DEVICE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 116760,
+     "title": "PRINCIPAL ENG TECHNOLOGY DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 96900,
+     "title": "PRODUCT MARKETING MANAGER"
+    }
+   ]
+  },
+  "google": {
+   "fetched_at": "2026-10-25T09:18:14Z",
+   "label": "Google",
+   "titles": [
+    {
+     "count": 4982,
+     "median_salary": 186000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 192,
+     "median_salary": 196250,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 180,
+     "median_salary": 193850,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 180,
+     "median_salary": 190000,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 165,
+     "median_salary": 176000,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 147,
+     "median_salary": 179000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 89,
+     "median_salary": 172000,
+     "title": "UX DESIGNER"
+    },
+    {
+     "count": 82,
+     "median_salary": 162000,
+     "title": "CUSTOMER ENGINEER"
+    },
+    {
+     "count": 75,
+     "median_salary": 158000,
+     "title": "SOLUTIONS CONSULTANT"
+    },
+    {
+     "count": 61,
+     "median_salary": 220000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 58,
+     "median_salary": 171500,
+     "title": "TECHNICAL SOLUTIONS CONSULTANT"
+    },
+    {
+     "count": 57,
+     "median_salary": 187000,
+     "title": "SILICON GENERALIST"
+    },
+    {
+     "count": 45,
+     "median_salary": 200000,
+     "title": "RESEARCH ENGINEER"
+    },
+    {
+     "count": 44,
+     "median_salary": 267450,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 43,
+     "median_salary": 135000,
+     "title": "ACCOUNT MANAGER"
+    },
+    {
+     "count": 42,
+     "median_salary": 161000,
+     "title": "SILICON DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 41,
+     "median_salary": 168000,
+     "title": "CUSTOMER SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 40,
+     "median_salary": 154000,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 40,
+     "median_salary": 174918,
+     "title": "UX RESEARCHER"
+    },
+    {
+     "count": 37,
+     "median_salary": 175000,
+     "title": "HARDWARE ENGINEER"
+    }
+   ]
+  },
+  "grab": {
+   "fetched_at": "2026-10-25T09:18:15Z",
+   "label": "grab",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "DIRECTOR, PUBLISHER PARTNERSHIPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 106000,
+     "title": "INFRASTRUCTURE DEV OPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 238680,
+     "title": "LEAD SOFTWARE ENGINEER, BACKEND FOR IDENTITY"
+    }
+   ]
+  },
+  "graphcore": {
+   "fetched_at": "2026-10-25T09:18:16Z",
+   "label": "Graphcore",
+   "titles": []
+  },
+  "guardian life https guardianlife wd5 myworkdayjobs com guardian life careers job new york xmlname 2027 guardian summer intern digital technology application development r000110209": {
+   "fetched_at": "2026-10-25T09:18:17Z",
+   "label": "[Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209)",
+   "titles": [
+    {
+     "count": 51,
+     "median_salary": 60000,
+     "title": "MEDICAL TECHNOLOGIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 68000,
+     "title": "CHEMIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 94000,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 79186,
+     "title": "SYSTEMS ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "COMMERCIAL HELICOPTER PILOT"
+    },
+    {
+     "count": 2,
+     "median_salary": 105000,
+     "title": "DATA BUSINESS PARTNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102274,
+     "title": "HEAD OF PRODUCT DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 144456,
+     "title": "INTERNATIONAL URBAN SEARCH &AMP; RESCUE USAR PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 63300,
+     "title": "MANUFACTURING CHEMIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 95000,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 80600,
+     "title": "PRODUCT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 82098,
+     "title": "PRODUCTION SUPERVISOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "SYSTEMS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "DIRECTOR, SALES AND MARKETING- SUPPLY CHAIN"
+    },
+    {
+     "count": 1,
+     "median_salary": 65250,
+     "title": "ENVIRONMENTAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 94000,
+     "title": "FORMULATION CHEMIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 136656,
+     "title": "IT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 60850,
+     "title": "PHARMACOVIGILANCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 63300,
+     "title": "PRODUCTION CHEMIST"
+    }
+   ]
   }
  }
 }
