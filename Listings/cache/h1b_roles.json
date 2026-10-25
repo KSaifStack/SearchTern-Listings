@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T18:06:19Z",
+ "built_at": "2026-10-25T18:39:28Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6462,6 +6462,11 @@
     }
    ]
   },
+  "emc": {
+   "fetched_at": "2026-10-25T18:39:11Z",
+   "label": "EMC",
+   "titles": []
+  },
   "emc insurance": {
    "fetched_at": "2026-10-25T18:06:03Z",
    "label": "EMC Insurance",
@@ -12402,6 +12407,1180 @@
      "count": 1,
      "median_salary": 98800,
      "title": "SR. RESEARCHER BATTERY"
+    }
+   ]
+  },
+  "nissan global": {
+   "fetched_at": "2026-10-25T18:39:13Z",
+   "label": "Nissan Global",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 120723,
+     "title": "NGP MANAGER - TECHNOLOGY, PLANNING AND RESEARCH"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "AUTOMOTIVE EXTERIOR DESIGNER 2"
+    },
+    {
+     "count": 1,
+     "median_salary": 72800,
+     "title": "BATTERY MATERIALS AND RECYCLING RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 72342,
+     "title": "ENGINEER 4 ECL"
+    },
+    {
+     "count": 1,
+     "median_salary": 94910,
+     "title": "FIXED OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 91728,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114899,
+     "title": "INTERIOR PROJECT LEAD DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 139880,
+     "title": "IS SUPPLY CHAIN MANAGEMENT BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 126755,
+     "title": "MANAGER - BUSINESS PARTNERSHIPS AND ACQUISITION STRATEGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 141086,
+     "title": "MANAGER-ELECTRICAL DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 57845,
+     "title": "NGP MANAGER - DIGITAL MARKETING &AMP; MOBILE DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 114067,
+     "title": "NGP MANAGER - INFINITI MARKETING"
+    },
+    {
+     "count": 1,
+     "median_salary": 119496,
+     "title": "RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 165424,
+     "title": "RESEARCHER: AUTONOMOUS VEHICLE PERCEPTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 110198,
+     "title": "SENIOR AUTOMOTIVE INTERIOR DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 177140,
+     "title": "SENIOR PROGRAM MANAGER SENIOR MANAGER PMO OPD"
+    },
+    {
+     "count": 1,
+     "median_salary": 123344,
+     "title": "SR. ANALYST, AFTERSALES BUSINESS INTELLIGENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 144664,
+     "title": "SR. RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128690,
+     "title": "SR. RESEARCHER - AUTONOMOUS VEHICLE PERCEPTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 98800,
+     "title": "SR. RESEARCHER BATTERY"
+    }
+   ]
+  },
+  "nokia": {
+   "fetched_at": "2026-10-25T18:39:13Z",
+   "label": "Nokia",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 158679,
+     "title": "SOFTWARE QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 147422,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 135000,
+     "title": "PERFORMANCE AND OPTIMIZATION EXPERT"
+    },
+    {
+     "count": 4,
+     "median_salary": 133414,
+     "title": "SENIOR TEST ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 195341,
+     "title": "SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 167070,
+     "title": "SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 254179,
+     "title": "SR. SOFTWARE QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 157581,
+     "title": "TECHNICAL ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 106050,
+     "title": "BACKEND SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 162400,
+     "title": "BELL LABS WEB3 RESEARCHER"
+    },
+    {
+     "count": 3,
+     "median_salary": 150872,
+     "title": "CUSTOMER ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 126402,
+     "title": "NAM RBC CUSTOMER ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 115000,
+     "title": "SENIOR NPI SUPPORT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 199534,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 117255,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 139911,
+     "title": "SOLUTION ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 150555,
+     "title": "4LS NPI SENIOR SUPPORT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135628,
+     "title": "AI RESEARCH SOLUTIONS DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 206138,
+     "title": "APPLIED R&AMP;D ENGINEER 5 - SW"
+    },
+    {
+     "count": 2,
+     "median_salary": 129845,
+     "title": "CUSTOMER CARE LEAD"
+    }
+   ]
+  },
+  "northrop grumman": {
+   "fetched_at": "2026-10-25T18:39:15Z",
+   "label": "Northrop Grumman",
+   "titles": []
+  },
+  "novelis": {
+   "fetched_at": "2026-10-25T18:39:15Z",
+   "label": "novelis",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 147230,
+     "title": "SR SAP DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 92500,
+     "title": "CONTINUOUS IMPROVEMENT SPECIALIST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 166000,
+     "title": "LEAD MACHINE LEARNING OPS DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "OPERATIONAL EXCELLENCE LEADER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "ASSOCIATE EMRA LEADER"
+    },
+    {
+     "count": 1,
+     "median_salary": 121000,
+     "title": "AUTOMATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "CAE STRUCTURAL ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 158000,
+     "title": "CONTINUOUS IMPROVEMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135240,
+     "title": "LEAD TECHNICAL SERVICE REPRESENTATIVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "LEAD, MANUFACTURING DIGITAL SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 137610,
+     "title": "LEADER SCIENTIST, TRIBOLOGY, R&AMP;D SURFACE SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 137680,
+     "title": "MATERIALS SCIENTIST LEAD UNDER R&AMP;D AUTO"
+    },
+    {
+     "count": 1,
+     "median_salary": 109050,
+     "title": "MECHANICAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 96500,
+     "title": "OPERATIONS EXCELLENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 141990,
+     "title": "R&AMP;D PROCESS ENGINEER LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 138000,
+     "title": "RECYCLING STRATEGY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "SENIOR ACCOUNTING TRANSFORMATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 231690,
+     "title": "SENIOR DIRECTOR, GLOBAL PROCUREMENT EXCELLENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 131620,
+     "title": "SENIOR METALLURGY ENGINEER, R&AMP;D"
+    }
+   ]
+  },
+  "nrdc": {
+   "fetched_at": "2026-10-25T18:39:16Z",
+   "label": "nrdc",
+   "titles": []
+  },
+  "nvidia": {
+   "fetched_at": "2026-10-25T18:39:17Z",
+   "label": "NVIDIA",
+   "titles": [
+    {
+     "count": 427,
+     "median_salary": 187253,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 177,
+     "median_salary": 178006,
+     "title": "HARDWARE ENGINEER, ELECTRONICS"
+    },
+    {
+     "count": 154,
+     "median_salary": 184000,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 99,
+     "median_salary": 184000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 88,
+     "median_salary": 184000,
+     "title": "ENGINEER SENIOR SYSTEMS SOFTWARE"
+    },
+    {
+     "count": 58,
+     "median_salary": 199917,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 46,
+     "median_salary": 178006,
+     "title": "VERIFICATION ENGINEER"
+    },
+    {
+     "count": 45,
+     "median_salary": 196679,
+     "title": "ENGINEER SENIOR ASIC"
+    },
+    {
+     "count": 43,
+     "median_salary": 204901,
+     "title": "ASIC ENGINEER"
+    },
+    {
+     "count": 40,
+     "median_salary": 191356,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 35,
+     "median_salary": 168000,
+     "title": "ENGINEER SENIOR VERIFICATION"
+    },
+    {
+     "count": 30,
+     "median_salary": 175240,
+     "title": "SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 26,
+     "median_salary": 186472,
+     "title": "ARCHITECT SENIOR"
+    },
+    {
+     "count": 25,
+     "median_salary": 224000,
+     "title": "MANAGER SYSTEMS SOFTWARE"
+    },
+    {
+     "count": 18,
+     "median_salary": 196000,
+     "title": "CAD ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 173003,
+     "title": "PHYSICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 168198,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 15,
+     "median_salary": 143383,
+     "title": "ENGINEER SYSTEMS SOFTWARE"
+    },
+    {
+     "count": 15,
+     "median_salary": 166504,
+     "title": "TEST ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 216091,
+     "title": "MIXED SIGNAL DESIGN ENGINEER"
+    }
+   ]
+  },
+  "occ": {
+   "fetched_at": "2026-10-25T18:39:18Z",
+   "label": "OCC",
+   "titles": []
+  },
+  "olsson": {
+   "fetched_at": "2026-10-25T18:39:19Z",
+   "label": "Olsson",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 84650,
+     "title": "ASSOCIATE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 172500,
+     "title": "COMMISSIONING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100250,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 71000,
+     "title": "ASSISTANT ENGINEER"
+    }
+   ]
+  },
+  "oshkosh": {
+   "fetched_at": "2026-10-25T18:39:20Z",
+   "label": "Oshkosh",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 195736,
+     "title": "SYSTEMS ENGINEER LEAD"
+    }
+   ]
+  },
+  "philips": {
+   "fetched_at": "2026-10-25T18:39:20Z",
+   "label": "Philips",
+   "titles": [
+    {
+     "count": 19,
+     "median_salary": 122970,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 143374,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 120994,
+     "title": "SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 91395,
+     "title": "SUPPLY CHAIN MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 98977,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 251576,
+     "title": "SENIOR DIRECTOR OF PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 135408,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131581,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88088,
+     "title": "ASSOCIATE TOXICOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 93434,
+     "title": "BUSINESS EXCELLENCE ANALYST, HOSPITAL AND PATIENT MONITORING"
+    },
+    {
+     "count": 1,
+     "median_salary": 95846,
+     "title": "CLINICAL CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 136573,
+     "title": "CLINICAL DEVELOPMENT SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95909,
+     "title": "COMMERCIAL PROCESS INNOVATION &AMP; CAPABILITY EXPERT"
+    },
+    {
+     "count": 1,
+     "median_salary": 81224,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 159572,
+     "title": "DATA PLATFORM MANAGER, COMMERCIAL IT"
+    },
+    {
+     "count": 1,
+     "median_salary": 125819,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 190320,
+     "title": "DIRECTOR QUALITY MANAGEMENT SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 78520,
+     "title": "ELECTRICAL TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80496,
+     "title": "ENVIRONMENTAL, HEALTH AND SAFETY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 113214,
+     "title": "HARDWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "pilotcompany": {
+   "fetched_at": "2026-10-25T18:39:21Z",
+   "label": "pilotcompany",
+   "titles": []
+  },
+  "pinterest": {
+   "fetched_at": "2026-10-25T18:39:22Z",
+   "label": "Pinterest",
+   "titles": [
+    {
+     "count": 59,
+     "median_salary": 163862,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 57,
+     "median_salary": 148699,
+     "title": "MACHINE LEARNING ENGINEER II"
+    },
+    {
+     "count": 49,
+     "median_salary": 180128,
+     "title": "SR. MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 46,
+     "median_salary": 172931,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 148699,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 15,
+     "median_salary": 152610,
+     "title": "SR. DATA SCIENTIST"
+    },
+    {
+     "count": 11,
+     "median_salary": 134860,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 8,
+     "median_salary": 199534,
+     "title": "STAFF MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 148699,
+     "title": "MACHINE LEARNING ENGINEER I"
+    },
+    {
+     "count": 7,
+     "median_salary": 217568,
+     "title": "MANAGER II, ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 163862,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 219170,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 148699,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 136843,
+     "title": "MANAGER II, DATA SCIENCE"
+    },
+    {
+     "count": 5,
+     "median_salary": 199534,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 232616,
+     "title": "MANAGER II, MACHINE LEARNING ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 166962,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 174533,
+     "title": "STAFF PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 96034,
+     "title": "FINANCIAL ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 102482,
+     "title": "INSIGHTS SOLUTIONS LEAD"
+    }
+   ]
+  },
+  "q2": {
+   "fetched_at": "2026-10-25T18:39:23Z",
+   "label": "Q2",
+   "titles": []
+  },
+  "qorvo": {
+   "fetched_at": "2026-10-25T18:39:24Z",
+   "label": "Qorvo",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 128422,
+     "title": "SR. DESIGN ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 103253,
+     "title": "PRODUCT DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 107000,
+     "title": "SR. PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 116144,
+     "title": "SR. RFIC DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 92000,
+     "title": "DESIGN APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104117,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102500,
+     "title": "POWER MANAGEMENT DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102483,
+     "title": "RFIC DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130675,
+     "title": "SR DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 121592,
+     "title": "SR. RF DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "AI MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102500,
+     "title": "APPLICATIONS AND SYSTEMS ENGINEER - WIFI"
+    },
+    {
+     "count": 1,
+     "median_salary": 98325,
+     "title": "DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIGITAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIGITAL IC DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 111866,
+     "title": "DIGITAL VERIFICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "ESD DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "GAAS TECHNOLOGY DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 156624,
+     "title": "HMI SYSTEM DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 159785,
+     "title": "MANAGER, CUSTOMER SUCCESS US"
+    }
+   ]
+  },
+  "qualcomm": {
+   "fetched_at": "2026-10-25T18:39:25Z",
+   "label": "Qualcomm",
+   "titles": [
+    {
+     "count": 117,
+     "median_salary": 126880,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 90,
+     "median_salary": 119434,
+     "title": "SENIOR ASICS ENGINEER"
+    },
+    {
+     "count": 81,
+     "median_salary": 119434,
+     "title": "ASICS ENGINEER"
+    },
+    {
+     "count": 73,
+     "median_salary": 112321,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 54,
+     "median_salary": 128898,
+     "title": "SENIOR CPU ENGINEER"
+    },
+    {
+     "count": 53,
+     "median_salary": 143187,
+     "title": "STAFF ASICS ENGINEER"
+    },
+    {
+     "count": 52,
+     "median_salary": 152027,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 49,
+     "median_salary": 119434,
+     "title": "GPU ENGINEER"
+    },
+    {
+     "count": 46,
+     "median_salary": 133600,
+     "title": "SENIOR GPU ENGINEER"
+    },
+    {
+     "count": 43,
+     "median_salary": 126880,
+     "title": "SENIOR CELLULAR SYSTEM TEST ENGINEER"
+    },
+    {
+     "count": 43,
+     "median_salary": 178006,
+     "title": "STAFF CPU ENGINEER"
+    },
+    {
+     "count": 37,
+     "median_salary": 125495,
+     "title": "CPU ENGINEER"
+    },
+    {
+     "count": 37,
+     "median_salary": 140800,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 36,
+     "median_salary": 179000,
+     "title": "SENIOR STAFF CPU ENGINEER"
+    },
+    {
+     "count": 36,
+     "median_salary": 178451,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 33,
+     "median_salary": 128000,
+     "title": "SENIOR MODEM TECHNOLOGIES ENGINEER"
+    },
+    {
+     "count": 31,
+     "median_salary": 122500,
+     "title": "SENIOR CAMERA ENGINEER"
+    },
+    {
+     "count": 30,
+     "median_salary": 119434,
+     "title": "CAMERA ENGINEER"
+    },
+    {
+     "count": 29,
+     "median_salary": 166941,
+     "title": "SENIOR STAFF ASICS ENGINEER"
+    },
+    {
+     "count": 28,
+     "median_salary": 126880,
+     "title": "MACHINE LEARNING ENGINEER"
+    }
+   ]
+  },
+  "republic airways": {
+   "fetched_at": "2026-10-25T18:39:25Z",
+   "label": "Republic Airways",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "HRIS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 83242,
+     "title": "HUMAN FACTORS ENGINEER FOR MAINTENANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 127878,
+     "title": "SR. IT ROBOTICS PROCESS AUTOMATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "SYSTEMS INTEGRATION DEVELOPER"
+    }
+   ]
+  },
+  "rivian": {
+   "fetched_at": "2026-10-25T18:39:26Z",
+   "label": "Rivian",
+   "titles": [
+    {
+     "count": 27,
+     "median_salary": 106193,
+     "title": "SR. PROCESS ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 124940,
+     "title": "SR. AUTOMATION CONTROLS ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 225000,
+     "title": "SR. SOFTWARE ENGINEER, PERCEPTION, AUTONOMY"
+    },
+    {
+     "count": 7,
+     "median_salary": 162619,
+     "title": "STAFF MECHANICAL ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 110838,
+     "title": "AUTOMATION CONTROLS ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 129219,
+     "title": "SR. ENGINEER, MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 105292,
+     "title": "SR. MATERIAL FLOW ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 177500,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 162167,
+     "title": "STAFF MECHANICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 150000,
+     "title": "LEAD ENGINEER SUPPLIER DEVELOPMENT"
+    },
+    {
+     "count": 5,
+     "median_salary": 171000,
+     "title": "LEAD PURCHASING MANAGER"
+    },
+    {
+     "count": 5,
+     "median_salary": 149099,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 134000,
+     "title": "SR. MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 147500,
+     "title": "EMBEDDED SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 148769,
+     "title": "SENIOR ANALYTICS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 100035,
+     "title": "SENIOR ENGINEER SUPPLIER DEVELOPMENT"
+    },
+    {
+     "count": 4,
+     "median_salary": 171541,
+     "title": "SR. EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 155030,
+     "title": "SR. POWER ELECTRONICS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 153665,
+     "title": "STAFF FIELD QUALITY &AMP; RELIABILITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 179793,
+     "title": "STAFF NVH ENGINEER"
+    }
+   ]
+  },
+  "roblox": {
+   "fetched_at": "2026-10-25T18:39:27Z",
+   "label": "Roblox",
+   "titles": [
+    {
+     "count": 82,
+     "median_salary": 255200,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 327625,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 178600,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 274000,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 11,
+     "median_salary": 273070,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 326905,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 316535,
+     "title": "SENIOR SECURITY SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 230060,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 375590,
+     "title": "PRINCIPAL PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 198580,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 3,
+     "median_salary": 372940,
+     "title": "SENIOR ENGINEERING MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 281690,
+     "title": "SENIOR PRODUCT DESIGNER"
+    },
+    {
+     "count": 3,
+     "median_salary": 273070,
+     "title": "SENIOR SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 357630,
+     "title": "PRINCIPAL DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 151020,
+     "title": "QA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 243755,
+     "title": "SENIOR APPLICATION SECURITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 283780,
+     "title": "SENIOR BACKEND ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 251375,
+     "title": "SENIOR MACHINE LEARNING ENGINEER, MARKETPLACE"
+    },
+    {
+     "count": 2,
+     "median_salary": 243540,
+     "title": "SENIOR NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 168815,
+     "title": "SENIOR NETWORK OPERATIONS ENGINEER"
+    }
+   ]
+  },
+  "rocket lab": {
+   "fetched_at": "2026-10-25T18:39:28Z",
+   "label": "Rocket Lab",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 152523,
+     "title": "MANAGER, MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 173400,
+     "title": "SENIOR GNC ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 120810,
+     "title": "SENIOR INTEGRATION &AMP; TEST ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 173400,
+     "title": "SOLUTIONS ARCHITECT"
     }
    ]
   }
