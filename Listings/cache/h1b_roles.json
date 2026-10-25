@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T00:48:44Z",
+ "built_at": "2026-10-25T02:20:32Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2199,6 +2199,77 @@
     }
    ]
   },
+  "booz allen hamilton": {
+   "fetched_at": "2026-10-25T02:20:11Z",
+   "label": "Booz Allen Hamilton",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 162000,
+     "title": "BUSINESS ANALYST IT"
+    },
+    {
+     "count": 2,
+     "median_salary": 152900,
+     "title": "LEAD TECHNOLOGIST - APPLICATIONS DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146224,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "BIOINFORMATICS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 200857,
+     "title": "CLOUD COMPUTING APPLICATION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 201565,
+     "title": "DATA ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 192194,
+     "title": "LEAD ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 176000,
+     "title": "LEAD SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125628,
+     "title": "SOFTWARE DEVELOPER - CONTENT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 122277,
+     "title": "SOFTWARE ENGINEER - FULL STACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 174820,
+     "title": "SOLUTIONS ARCHITECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97850,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180250,
+     "title": "USER SUPPORT AND OPERATIONS SPECIALIST"
+    }
+   ]
+  },
   "bosch": {
    "fetched_at": "2026-10-25T00:48:33Z",
    "label": "Bosch",
@@ -2645,6 +2716,583 @@
      "count": 1,
      "median_salary": 100000,
      "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers cisco com": {
+   "fetched_at": "2026-10-25T02:20:12Z",
+   "label": "careers.cisco.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers dhl com": {
+   "fetched_at": "2026-10-25T02:20:13Z",
+   "label": "careers.dhl.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers foxrehab org": {
+   "fetched_at": "2026-10-25T02:20:14Z",
+   "label": "careers.foxrehab.org",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers geaerospace com": {
+   "fetched_at": "2026-10-25T02:20:15Z",
+   "label": "careers.geaerospace.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers hpe com": {
+   "fetched_at": "2026-10-25T02:20:18Z",
+   "label": "careers.hpe.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers icf com": {
+   "fetched_at": "2026-10-25T02:20:19Z",
+   "label": "careers.icf.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers itw com": {
+   "fetched_at": "2026-10-25T02:20:20Z",
+   "label": "careers.itw.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers labcorp com": {
+   "fetched_at": "2026-10-25T02:20:21Z",
+   "label": "careers.labcorp.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers landolakesinc com": {
+   "fetched_at": "2026-10-25T02:20:22Z",
+   "label": "careers.landolakesinc.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers marsh com": {
+   "fetched_at": "2026-10-25T02:20:23Z",
+   "label": "careers.marsh.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers molsoncoors com": {
+   "fetched_at": "2026-10-25T02:20:24Z",
+   "label": "careers.molsoncoors.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers roche com": {
+   "fetched_at": "2026-10-25T02:20:25Z",
+   "label": "careers.roche.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers2 quanta": {
+   "fetched_at": "2026-10-25T02:20:27Z",
+   "label": "careers2-quanta",
+   "titles": []
+  },
+  "carousellgroup": {
+   "fetched_at": "2026-10-25T02:20:28Z",
+   "label": "carousellgroup",
+   "titles": []
+  },
+  "carvana": {
+   "fetched_at": "2026-10-25T02:20:28Z",
+   "label": "carvana",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 177950,
+     "title": "MANAGER, ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 156000,
+     "title": "SENIOR ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 73757,
+     "title": "ANALYST, TALENT ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "CLOUD APP. INTEGRATION SPECIALIST, BUSINESS APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 172500,
+     "title": "MANAGER, BUSINESS APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 95481,
+     "title": "SENIOR ACCOUNTANT, FINANCIAL REPORTING"
+    },
+    {
+     "count": 2,
+     "median_salary": 82445,
+     "title": "SENIOR ANALYST, FULFILLMENT STRATEGY &AMP; ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 123621,
+     "title": "SENIOR DATA ENGINEER, PRODUCT ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 72000,
+     "title": "ANALYST, COMMUNICATION PLATFORM"
+    },
+    {
+     "count": 1,
+     "median_salary": 92700,
+     "title": "ANALYST, DEMAND AND RETENTION, MARKETPLACE"
+    },
+    {
+     "count": 1,
+     "median_salary": 92700,
+     "title": "ANALYST, DEMAND AND RETENTION, MARKETPLACES"
+    },
+    {
+     "count": 1,
+     "median_salary": 60000,
+     "title": "ANALYST, FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 64000,
+     "title": "ANALYST, INSPECTION CENTER, STRATEGIC PLANNING AND ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 73757,
+     "title": "ANALYST, RETAIL SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 69202,
+     "title": "ANALYST, SAFE AND SECURE"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "ANALYST, STRATEGY AND ANALYTICS, MARKETPLACES"
+    },
+    {
+     "count": 1,
+     "median_salary": 80038,
+     "title": "ASSOCIATE PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "ENGINEER I"
+    }
+   ]
+  },
+  "cesiumastro": {
+   "fetched_at": "2026-10-25T02:20:29Z",
+   "label": "CesiumAstro",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 187782,
+     "title": "PRINCIPAL GNC ENGINEER I"
+    }
+   ]
+  },
+  "charter manufacturing": {
+   "fetched_at": "2026-10-25T02:20:30Z",
+   "label": "Charter Manufacturing",
+   "titles": [
+    {
+     "count": 78,
+     "median_salary": 112174,
+     "title": "SOFTWARE ENGINEER IV"
+    },
+    {
+     "count": 48,
+     "median_salary": 141180,
+     "title": "PRINCIPAL ENGINEER I"
+    },
+    {
+     "count": 45,
+     "median_salary": 118706,
+     "title": "SOFTWARE ENGINEER V"
+    },
+    {
+     "count": 36,
+     "median_salary": 133973,
+     "title": "SOFTWARE ENGINEER VI"
+    },
+    {
+     "count": 25,
+     "median_salary": 114691,
+     "title": "NETWORK ENGINEER IV"
+    },
+    {
+     "count": 23,
+     "median_salary": 117021,
+     "title": "SYSTEMS ENGINEER IV"
+    },
+    {
+     "count": 22,
+     "median_salary": 161158,
+     "title": "PRINCIPAL ENGINEER II"
+    },
+    {
+     "count": 20,
+     "median_salary": 111142,
+     "title": "NETWORK ENGINEER III"
+    },
+    {
+     "count": 15,
+     "median_salary": 110033,
+     "title": "BI ETL DEVELOPER II"
+    },
+    {
+     "count": 13,
+     "median_salary": 140046,
+     "title": "SOFTWARE ENGINEER VII"
+    },
+    {
+     "count": 13,
+     "median_salary": 96346,
+     "title": "SYSTEMS ENGINEER II"
+    },
+    {
+     "count": 12,
+     "median_salary": 130686,
+     "title": "LEAD TEST ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 105027,
+     "title": "SR TEST ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 90397,
+     "title": "SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 10,
+     "median_salary": 152734,
+     "title": "PRINCIPAL ARCHITECT I"
+    },
+    {
+     "count": 9,
+     "median_salary": 126506,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 140046,
+     "title": "PRINCIPAL ARCHITECT II"
+    },
+    {
+     "count": 9,
+     "median_salary": 161886,
+     "title": "PRINCIPAL SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 9,
+     "median_salary": 111142,
+     "title": "SYSTEMS ENGINEER III"
+    },
+    {
+     "count": 8,
+     "median_salary": 104447,
+     "title": "DEVOPS ENGINEER"
+    }
+   ]
+  },
+  "cibc": {
+   "fetched_at": "2026-10-25T02:20:31Z",
+   "label": "CIBC",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 400000,
+     "title": "MANAGING DIRECTOR, TREASURY TRADING, GLOBAL MARKETS"
+    },
+    {
+     "count": 2,
+     "median_salary": 105255,
+     "title": "ALM RISK ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 76000,
+     "title": "ANALYST, PWM US OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "AUDIT MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 145995,
+     "title": "CONSULTANT, INFORMATION SECURITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 96235,
+     "title": "DATA GOVERNANCE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 143000,
+     "title": "DIRECTOR, LIQUIDITY RISK MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 146617,
+     "title": "MANAGER, DATA OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 158793,
+     "title": "MANAGING DIRECTOR, SR. PORTFOLIO MANAGER, MID-CORPORATE BANK"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "MARKET RISK MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85000,
+     "title": "RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 185265,
+     "title": "RISK DATA AND TRANSFORMATION LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 105000,
+     "title": "SOFTWARE ENGINEER II - POWER PLATFORM"
+    },
+    {
+     "count": 2,
+     "median_salary": 111100,
+     "title": "SR. ANALYST, PROCESS AUTOMATION"
+    },
+    {
+     "count": 2,
+     "median_salary": 79827,
+     "title": "SR. FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 122483,
+     "title": "SR. MANAGER, INFORMATION SECURITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ANALYST I, GLOBAL INVESTMENT BANKING"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "ANALYST II, CORPORATE BANKING"
+    }
+   ]
+  },
+  "ciena": {
+   "fetched_at": "2026-10-25T02:20:32Z",
+   "label": "Ciena",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 144200,
+     "title": "CONSULTANT, SYSTEMS SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 160696,
+     "title": "LEAD, IT APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 202554,
+     "title": "MANAGER, IT APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 111312,
+     "title": "ROUTING IP SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 82500,
+     "title": "STAFF ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 201000,
+     "title": "ASIC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 54579,
+     "title": "CIENA HEALTH EDUCATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 242692,
+     "title": "DIRECTOR, IT APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "DIRECTOR, ROUTING IP SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "ENGINEERING TECHNICAL SUPPORT ENGINEER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 157500,
+     "title": "LEAD , IT APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "LEAD B2B INTEGRATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 164800,
+     "title": "LEAD, ENTERPRISE INTEGRATION, API AND AUTOMATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 144603,
+     "title": "LEAD, FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175708,
+     "title": "LEADER, ENTERPRISE DATA MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "MANAGER, SERVICE RELIABILITY ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "PROFESSIONAL SERVICES INVENTORY SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 150481,
+     "title": "RESIDENT ENGINEER 4 TECHNICAL SUPPORT"
+    },
+    {
+     "count": 1,
+     "median_salary": 148526,
+     "title": "RESIDENT ENGINEER 4, TECHNICAL"
     }
    ]
   }
