@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-24T22:23:30Z",
+ "built_at": "2026-10-25T00:48:44Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -997,6 +997,17 @@
     }
    ]
   },
+  "anduril industries": {
+   "fetched_at": "2026-10-25T00:48:27Z",
+   "label": "Anduril Industries",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 143000,
+     "title": "TEST ENGINEER MECHATRONICS SYSTEMS ENGINEER"
+    }
+   ]
+  },
   "andurilindustries": {
    "fetched_at": "2026-10-24T22:23:13Z",
    "label": "andurilindustries",
@@ -1674,6 +1685,52 @@
     }
    ]
   },
+  "bank of montreal": {
+   "fetched_at": "2026-10-25T00:48:28Z",
+   "label": "Bank of Montreal",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 176571,
+     "title": "CM DIRECTOR-IC CORPORATE BANKING II"
+    },
+    {
+     "count": 1,
+     "median_salary": 179088,
+     "title": "DIRECTOR, CORPORATE BANKING"
+    },
+    {
+     "count": 1,
+     "median_salary": 188178,
+     "title": "SENIOR MANAGER-PM MARKET RISK OVERSIGHT &AMP; GOVERNANCE I"
+    },
+    {
+     "count": 1,
+     "median_salary": 189511,
+     "title": "SENIOR MANAGER-PM TECHNOLOGY OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 97586,
+     "title": "SPECIALIST II-IC DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 116146,
+     "title": "SPECIALIST III-IC DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 152794,
+     "title": "SPECIALIST III-IC MARKET RISK OVERSIGHT &AMP; GOVERNANCE I"
+    },
+    {
+     "count": 1,
+     "median_salary": 88063,
+     "title": "SPECIALIST-IC DEVELOPMENT"
+    }
+   ]
+  },
   "base power": {
    "fetched_at": "2026-10-24T22:23:29Z",
    "label": "base-power",
@@ -1713,6 +1770,881 @@
      "count": 1,
      "median_salary": 159500,
      "title": "SUPERVISOR, TECHNICAL LEAD, SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "bayer": {
+   "fetched_at": "2026-10-25T00:48:29Z",
+   "label": "Bayer",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 139749,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 135673,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 143651,
+     "title": "STAFF DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 143954,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 113652,
+     "title": "ASSOCIATE DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 157124,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 128048,
+     "title": "SENIOR ESTIMATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 119266,
+     "title": "SR. AUTOMATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 139968,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 136379,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 157361,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132707,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 118000,
+     "title": "HYBRID FIELD AGRONOMIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 164622,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 224000,
+     "title": "LEAD MEDICAL SCIENCE LIAISON"
+    },
+    {
+     "count": 2,
+     "median_salary": 190261,
+     "title": "MANAGER DATA STRATEGY MANAGEMENT COE"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "MEDICAL AFFAIRS DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 166807,
+     "title": "PROCESS &AMP; DATA MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102128,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 91000,
+     "title": "QA SPECIALIST"
+    }
+   ]
+  },
+  "berkley": {
+   "fetched_at": "2026-10-25T00:48:29Z",
+   "label": "berkley",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 81910,
+     "title": "PRODUCT MANAGEMENT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 84094,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152110,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 109928,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "ASSOCIATE DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 173763,
+     "title": "AVP, TECHNOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 107000,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147784,
+     "title": "DIRECTOR, PRODUCT VERTICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 89482,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115939,
+     "title": "GROUP PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 149175,
+     "title": "IT SECURITY ANALYST, TIER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 109886,
+     "title": "IT SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128960,
+     "title": "LEAD STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 162053,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 116200,
+     "title": "SENIOR BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128469,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 148221,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER TEAM LEAD"
+    }
+   ]
+  },
+  "blue cross blue shield of michigan": {
+   "fetched_at": "2026-10-25T00:48:30Z",
+   "label": "Blue Cross Blue Shield of Michigan",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 132350,
+     "title": "APPLICATION DEVELOPER TECHNICAL LEAD"
+    },
+    {
+     "count": 6,
+     "median_salary": 130613,
+     "title": "TECHNOLOGY CONSULTANT I"
+    },
+    {
+     "count": 5,
+     "median_salary": 114691,
+     "title": "APPLICATION DEVELOPER III"
+    },
+    {
+     "count": 4,
+     "median_salary": 115814,
+     "title": "SYSTEMS ADMINISTRATOR III"
+    },
+    {
+     "count": 3,
+     "median_salary": 131602,
+     "title": "ACTUARY MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 132350,
+     "title": "APPLICATION DEV TECHNICAL LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 97032,
+     "title": "APPLICATION DEVELOPER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 104181,
+     "title": "BUSINESS APPLICATION DEVELOPER SR."
+    },
+    {
+     "count": 3,
+     "median_salary": 115814,
+     "title": "IT DELIVERY MANAGER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 116626,
+     "title": "TECHNOLOGY CONSULTANT II"
+    },
+    {
+     "count": 2,
+     "median_salary": 138486,
+     "title": "APPLICATION DEV. TECHNICAL LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 95624,
+     "title": "BUSINESS APPLICATION DEV ADV"
+    },
+    {
+     "count": 2,
+     "median_salary": 111325,
+     "title": "BUSINESS APPLICATION DEVELOPER SENIOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 99902,
+     "title": "EPIDEMIOLOGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 121784,
+     "title": "IT ANALYST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 122221,
+     "title": "IT DELIVERY LEAD II"
+    },
+    {
+     "count": 2,
+     "median_salary": 143416,
+     "title": "IT DELIVERY MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 112046,
+     "title": "SYSTEMS ANALYST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 122345,
+     "title": "SYSTEMS ANALYST TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 93974,
+     "title": "ANALYTICS ENGINEER I"
+    }
+   ]
+  },
+  "blue origin": {
+   "fetched_at": "2026-10-25T00:48:31Z",
+   "label": "Blue Origin",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 225337,
+     "title": "ENTERPRISE COUNSEL, COMMERCIAL LAUNCH AND INTERNATIONAL"
+    }
+   ]
+  },
+  "boeing": {
+   "fetched_at": "2026-10-25T00:48:31Z",
+   "label": "Boeing",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 152709,
+     "title": "COMPUTING ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SENIOR ARTIFICIAL INTELLIGENCE AI PRODUCT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 124930,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 116376,
+     "title": "PROGRAMMER ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 128794,
+     "title": "QUALITY ASSURANCE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117021,
+     "title": "SOFTWARE APPLICATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 161886,
+     "title": "SOFTWARE APPLICATION DEVELOPER - PRODUCT"
+    }
+   ]
+  },
+  "booz allen": {
+   "fetched_at": "2026-10-25T00:48:32Z",
+   "label": "Booz Allen",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 162000,
+     "title": "BUSINESS ANALYST IT"
+    },
+    {
+     "count": 2,
+     "median_salary": 152900,
+     "title": "LEAD TECHNOLOGIST - APPLICATIONS DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146224,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "BIOINFORMATICS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 200857,
+     "title": "CLOUD COMPUTING APPLICATION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 201565,
+     "title": "DATA ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 192194,
+     "title": "LEAD ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 176000,
+     "title": "LEAD SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125628,
+     "title": "SOFTWARE DEVELOPER - CONTENT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 122277,
+     "title": "SOFTWARE ENGINEER - FULL STACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 174820,
+     "title": "SOLUTIONS ARCHITECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97850,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180250,
+     "title": "USER SUPPORT AND OPERATIONS SPECIALIST"
+    }
+   ]
+  },
+  "bosch": {
+   "fetched_at": "2026-10-25T00:48:33Z",
+   "label": "Bosch",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 129105,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97808,
+     "title": "CONTROL SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87550,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "MECHANICAL DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100650,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95285,
+     "title": "PROJECT MANAGER EMERGENCY SERVICES"
+    },
+    {
+     "count": 1,
+     "median_salary": 144435,
+     "title": "SALES PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 146471,
+     "title": "SENIOR RESEARCH AND DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170358,
+     "title": "SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105352,
+     "title": "SR. ELECTRIFIED SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SR. SOFTWARE ENGINEER- IOT"
+    }
+   ]
+  },
+  "boschgroup": {
+   "fetched_at": "2026-10-25T00:48:34Z",
+   "label": "BoschGroup",
+   "titles": []
+  },
+  "boston scientific": {
+   "fetched_at": "2026-10-25T00:48:34Z",
+   "label": "Boston Scientific",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 141720,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 146248,
+     "title": "PRINCIPAL SYSTEMS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 114650,
+     "title": "ASSOCIATE SUPPLIER ENGINEERING MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 141455,
+     "title": "PRINCIPAL QUALITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 116043,
+     "title": "SENIOR ANALYST - HEMA"
+    },
+    {
+     "count": 3,
+     "median_salary": 131082,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 178131,
+     "title": "IT ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 87787,
+     "title": "MANUFACTURING ENGINEER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 141898,
+     "title": "PRINCIPAL CYBERSECURITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 127026,
+     "title": "PRINCIPAL DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 156552,
+     "title": "PRINCIPAL REGULATORY AFFAIRS SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 128045,
+     "title": "PRINCIPAL RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "QUALITY ENGINEER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "REGIONAL MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 114952,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 155168,
+     "title": "SENIOR PRODUCT MANAGER, IT DIGITAL SALES ENABLEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 128393,
+     "title": "SENIOR R&AMP;D ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 126589,
+     "title": "SENIOR SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 124061,
+     "title": "SENIOR SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "SENIOR SYSTEMS TEST ENGINEER"
+    }
+   ]
+  },
+  "bytedance": {
+   "fetched_at": "2026-10-25T00:48:35Z",
+   "label": "ByteDance",
+   "titles": [
+    {
+     "count": 115,
+     "median_salary": 187741,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 51,
+     "median_salary": 240000,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 40,
+     "median_salary": 208000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 29,
+     "median_salary": 300000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 28,
+     "median_salary": 162500,
+     "title": "BACKEND SOFTWARE ENGINEER"
+    },
+    {
+     "count": 28,
+     "median_salary": 175652,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 16,
+     "median_salary": 174304,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 210222,
+     "title": "MARKETING MANAGER"
+    },
+    {
+     "count": 11,
+     "median_salary": 144000,
+     "title": "FRONTEND SOFTWARE ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 280000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 200000,
+     "title": "PRODUCT MARKETING MANAGER"
+    },
+    {
+     "count": 9,
+     "median_salary": 123040,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST"
+    },
+    {
+     "count": 8,
+     "median_salary": 240550,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 8,
+     "median_salary": 415001,
+     "title": "PRODUCT MANAGER LEAD"
+    },
+    {
+     "count": 8,
+     "median_salary": 126940,
+     "title": "TALENT ACQUISITION PARTNER"
+    },
+    {
+     "count": 7,
+     "median_salary": 312000,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 116888,
+     "title": "TEST ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 145153,
+     "title": "SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 137000,
+     "title": "CLIENT SOLUTIONS MANAGER"
+    },
+    {
+     "count": 5,
+     "median_salary": 107453,
+     "title": "OPERATIONS ANALYST SPECIALIST"
+    }
+   ]
+  },
+  "c h robinson https chrobinson wd5 myworkdayjobs com chrobinson job eden prairie mn united states of america security internship 2027 r49322": {
+   "fetched_at": "2026-10-25T00:48:37Z",
+   "label": "[C.H. Robinson](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322)",
+   "titles": []
+  },
+  "caci": {
+   "fetched_at": "2026-10-25T00:48:37Z",
+   "label": "CACI",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 126090,
+     "title": "SOFTWARE DEVELOPER T2"
+    }
+   ]
+  },
+  "cannondesign": {
+   "fetched_at": "2026-10-25T00:48:38Z",
+   "label": "cannondesign",
+   "titles": []
+  },
+  "capital one": {
+   "fetched_at": "2026-10-25T00:48:39Z",
+   "label": "Capital One",
+   "titles": [
+    {
+     "count": 148,
+     "median_salary": 109000,
+     "title": "SENIOR DATA ANALYST"
+    },
+    {
+     "count": 100,
+     "median_salary": 110739,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 97,
+     "median_salary": 204900,
+     "title": "SENIOR MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 85,
+     "median_salary": 166858,
+     "title": "BUSINESS MANAGER"
+    },
+    {
+     "count": 81,
+     "median_salary": 173763,
+     "title": "SENIOR LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 80,
+     "median_salary": 115900,
+     "title": "PRINCIPAL DATA ANALYST"
+    },
+    {
+     "count": 66,
+     "median_salary": 173763,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 66,
+     "median_salary": 139453,
+     "title": "PRINCIPAL ASSOCIATE, DATA SCIENCE"
+    },
+    {
+     "count": 46,
+     "median_salary": 110739,
+     "title": "SENIOR ASSOCIATE, DATA SCIENCE"
+    },
+    {
+     "count": 30,
+     "median_salary": 150197,
+     "title": "DATA ANALYSIS MANAGER"
+    },
+    {
+     "count": 24,
+     "median_salary": 166858,
+     "title": "MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 21,
+     "median_salary": 149781,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 173763,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 19,
+     "median_salary": 166858,
+     "title": "SENIOR BUSINESS MANAGER"
+    },
+    {
+     "count": 17,
+     "median_salary": 153650,
+     "title": "SENIOR DATA ANALYSIS MANAGER"
+    },
+    {
+     "count": 16,
+     "median_salary": 176872,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 15,
+     "median_salary": 239900,
+     "title": "DISTINGUISHED ENGINEER"
+    },
+    {
+     "count": 15,
+     "median_salary": 170373,
+     "title": "MANAGER, QUANTITATIVE ANALYSIS"
+    },
+    {
+     "count": 15,
+     "median_salary": 124100,
+     "title": "PRINCIPAL ASSOCIATE, QUANTITATIVE ANALYSIS"
+    },
+    {
+     "count": 11,
+     "median_salary": 133100,
+     "title": "MANAGER, PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers abb": {
+   "fetched_at": "2026-10-25T00:48:40Z",
+   "label": "careers.abb",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers allianz com": {
+   "fetched_at": "2026-10-25T00:48:41Z",
+   "label": "careers.allianz.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers bcg com": {
+   "fetched_at": "2026-10-25T00:48:43Z",
+   "label": "careers.bcg.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers cencora com": {
+   "fetched_at": "2026-10-25T00:48:44Z",
+   "label": "careers.cencora.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
     }
    ]
   }
