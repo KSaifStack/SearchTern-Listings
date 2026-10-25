@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T18:39:28Z",
+ "built_at": "2026-10-25T18:57:18Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -1119,6 +1119,112 @@
     }
    ]
   },
+  "american bankers association https aba wd1 myworkdayjobs com aba job us dc main office intern banking policy and economic research r625": {
+   "fetched_at": "2026-10-25T18:57:02Z",
+   "label": "[American Bankers Association](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625)",
+   "titles": [
+    {
+     "count": 100,
+     "median_salary": 109672,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 78,
+     "median_salary": 130000,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 70,
+     "median_salary": 154600,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 64,
+     "median_salary": 105997,
+     "title": "SR. DEVELOPER, IT APPLICATIONS"
+    },
+    {
+     "count": 44,
+     "median_salary": 156900,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 35,
+     "median_salary": 97100,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 24,
+     "median_salary": 144514,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 105998,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 112923,
+     "title": "SR. ENGINEER, IT SOFTWARE"
+    },
+    {
+     "count": 16,
+     "median_salary": 196524,
+     "title": "SENIOR ENGINEERING MANAGER"
+    },
+    {
+     "count": 14,
+     "median_salary": 105997,
+     "title": "DEVELOPER, IT APPLICATIONS"
+    },
+    {
+     "count": 14,
+     "median_salary": 112923,
+     "title": "ENGINEER SR. ENGINEER, IT SOFTWARE"
+    },
+    {
+     "count": 13,
+     "median_salary": 135300,
+     "title": "MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 13,
+     "median_salary": 111072,
+     "title": "SR. DATA ENGINEER, IT ANALYTICS"
+    },
+    {
+     "count": 13,
+     "median_salary": 128899,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 81328,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 12,
+     "median_salary": 108534,
+     "title": "ENGINEER, IT SOFTWARE"
+    },
+    {
+     "count": 11,
+     "median_salary": 105997,
+     "title": "DEVELOPER SR. DEVELOPER, IT APPLICATIONS"
+    },
+    {
+     "count": 11,
+     "median_salary": 134347,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 124720,
+     "title": "MANAGER, RISK MANAGEMENT"
+    }
+   ]
+  },
   "american express": {
    "fetched_at": "2026-10-24T20:11:16Z",
    "label": "American Express",
@@ -2233,6 +2339,77 @@
      "count": 2,
      "median_salary": 120005,
      "title": "PROJECT CONTROLS ENGINEER"
+    }
+   ]
+  },
+  "arch capital": {
+   "fetched_at": "2026-10-25T18:57:02Z",
+   "label": "Arch Capital Group",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100100,
+     "title": "ANALYST, IT GOVERNANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 212000,
+     "title": "AVP, STRATEGIC ANALYTICS SERVICES"
+    },
+    {
+     "count": 1,
+     "median_salary": 131893,
+     "title": "BUSINESS SYSTEMS ANALYST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 172500,
+     "title": "DIRECTOR, END USER ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 172500,
+     "title": "DIRECTOR, END USER SUPPORT"
+    },
+    {
+     "count": 1,
+     "median_salary": 193000,
+     "title": "DIRECTOR, STRATEGIC ANALYTICS SERVICES"
+    },
+    {
+     "count": 1,
+     "median_salary": 178500,
+     "title": "MANAGER, DATA ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 110739,
+     "title": "SENIOR DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 164200,
+     "title": "SENIOR DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 123660,
+     "title": "UNQORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 261248,
+     "title": "VP, HEAD OF DATA VISUALIZATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 193000,
+     "title": "VP, PROCESS EXCELLENCE LEAD"
     }
    ]
   },
@@ -5078,6 +5255,112 @@
     }
    ]
   },
+  "ciena https ciena wd5 myworkdayjobs com careers job new york thw client co op january 2026 r031672": {
+   "fetched_at": "2026-10-25T18:57:03Z",
+   "label": "[Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 144200,
+     "title": "CONSULTANT, SYSTEMS SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 160696,
+     "title": "LEAD, IT APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 202554,
+     "title": "MANAGER, IT APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 111312,
+     "title": "ROUTING IP SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 82500,
+     "title": "STAFF ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 201000,
+     "title": "ASIC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 54579,
+     "title": "CIENA HEALTH EDUCATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 242692,
+     "title": "DIRECTOR, IT APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "DIRECTOR, ROUTING IP SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "ENGINEERING TECHNICAL SUPPORT ENGINEER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 157500,
+     "title": "LEAD , IT APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "LEAD B2B INTEGRATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 164800,
+     "title": "LEAD, ENTERPRISE INTEGRATION, API AND AUTOMATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 144603,
+     "title": "LEAD, FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175708,
+     "title": "LEADER, ENTERPRISE DATA MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "MANAGER, SERVICE RELIABILITY ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "PROFESSIONAL SERVICES INVENTORY SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 150481,
+     "title": "RESIDENT ENGINEER 4 TECHNICAL SUPPORT"
+    },
+    {
+     "count": 1,
+     "median_salary": 148526,
+     "title": "RESIDENT ENGINEER 4, TECHNICAL"
+    }
+   ]
+  },
   "cisco": {
    "fetched_at": "2026-10-25T04:07:07Z",
    "label": "Cisco",
@@ -5183,6 +5466,11 @@
      "title": "CUSTOMER DELIVERY ENGINEERING TECHNICAL LEADER"
     }
    ]
+  },
+  "cityofnewyork": {
+   "fetched_at": "2026-10-25T18:57:04Z",
+   "label": "CityOfNewYork",
+   "titles": []
   },
   "clean harbors external career site": {
    "fetched_at": "2026-10-25T04:07:08Z",
@@ -5490,6 +5778,42 @@
      "count": 1,
      "median_salary": 53518,
      "title": "INTERIOR DESIGNER"
+    }
+   ]
+  },
+  "colorado mesa university": {
+   "fetched_at": "2026-10-25T18:57:05Z",
+   "label": "Colorado Mesa University",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 38200,
+     "title": "ASSISTANT PROFESSOR OF ENVIRONMENTAL SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 35590,
+     "title": "ASSISTANT PROFESSOR OF HOSPITALITY MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 46283,
+     "title": "ASSISTANT PROFESSOR OF MARKETING"
+    },
+    {
+     "count": 1,
+     "median_salary": 56977,
+     "title": "ASSISTANT PROFESSOR OF OPERATIONS MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 45180,
+     "title": "ASSISTANT PROFESSOR OF PSYCHOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 47300,
+     "title": "ASSISTANT PROFESSOR OF SPORT MANAGEMENT"
     }
    ]
   },
@@ -7363,6 +7687,67 @@
     }
    ]
   },
+  "flagship pioneering https job boards greenhouse io fspco op012325 jobs 8783960002": {
+   "fetched_at": "2026-10-25T18:57:06Z",
+   "label": "[Flagship Pioneering](https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 107500,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "ASSOCIATE DIRECTOR, PORTFOLIO ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "ASSOCIATE DIRECTOR, STRATEGIC ANALYTICS AND OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 116000,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 116000,
+     "title": "OCCUPATIONAL THERAPIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "RESEARCH ASSOCIATE II"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "SENIOR RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "SENIOR SCIENTIST 1, STEM CELL BIOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SENIOR SCIENTIST, TRANSLATIONAL SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 105600,
+     "title": "US SALES LEAD"
+    }
+   ]
+  },
   "flagship pioneering https job boards greenhouse io fspco op012325 jobs 8796996002": {
    "fetched_at": "2026-10-25T09:18:02Z",
    "label": "[Flagship Pioneering](https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002)",
@@ -8340,6 +8725,57 @@
     }
    ]
   },
+  "graco": {
+   "fetched_at": "2026-10-25T18:57:07Z",
+   "label": "Graco",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 140041,
+     "title": "PRINCIPAL TECHNICAL PRODUCT MANAGER - ORACLE FINANCIALS"
+    },
+    {
+     "count": 1,
+     "median_salary": 138070,
+     "title": "MECHANICAL ENGINEER III - PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 138070,
+     "title": "MECHANICAL ENGINEER III \u2013 PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 138070,
+     "title": "MECHANICAL ENGINEER III \u201c PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "PRODUCT SAFETY AND COMPLIANCE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 61800,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106579,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125798,
+     "title": "SENIOR SOFTWARE ENGINEER - DEVOPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 106579,
+     "title": "SENIOR SOFTWARE ENGINEER - INTEGRATIONS"
+    }
+   ]
+  },
   "graphcore": {
    "fetched_at": "2026-10-25T09:18:16Z",
    "label": "Graphcore",
@@ -8348,6 +8784,112 @@
   "guardian life https guardianlife wd5 myworkdayjobs com guardian life careers job new york xmlname 2027 guardian summer intern digital technology application development r000110209": {
    "fetched_at": "2026-10-25T09:18:17Z",
    "label": "[Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209)",
+   "titles": [
+    {
+     "count": 51,
+     "median_salary": 60000,
+     "title": "MEDICAL TECHNOLOGIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 68000,
+     "title": "CHEMIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 94000,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 79186,
+     "title": "SYSTEMS ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "COMMERCIAL HELICOPTER PILOT"
+    },
+    {
+     "count": 2,
+     "median_salary": 105000,
+     "title": "DATA BUSINESS PARTNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102274,
+     "title": "HEAD OF PRODUCT DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 144456,
+     "title": "INTERNATIONAL URBAN SEARCH &AMP; RESCUE USAR PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 63300,
+     "title": "MANUFACTURING CHEMIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 95000,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 80600,
+     "title": "PRODUCT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 82098,
+     "title": "PRODUCTION SUPERVISOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "SYSTEMS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "DIRECTOR, SALES AND MARKETING- SUPPLY CHAIN"
+    },
+    {
+     "count": 1,
+     "median_salary": 65250,
+     "title": "ENVIRONMENTAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 94000,
+     "title": "FORMULATION CHEMIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 136656,
+     "title": "IT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 60850,
+     "title": "PHARMACOVIGILANCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 63300,
+     "title": "PRODUCTION CHEMIST"
+    }
+   ]
+  },
+  "guardian life https guardianlife wd5 myworkdayjobs com guardian life careers job new york xmlname 2027 guardian summer intern digital technology data engineering r000110202": {
+   "fetched_at": "2026-10-25T18:57:08Z",
+   "label": "[Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202)",
    "titles": [
     {
      "count": 51,
@@ -8676,6 +9218,11 @@
   "hermeus": {
    "fetched_at": "2026-10-25T10:28:15Z",
    "label": "Hermeus",
+   "titles": []
+  },
+  "hermeus https jobs lever co hermeus 445db430 6f81 41cf 847a 56a947afb936 apply": {
+   "fetched_at": "2026-10-25T18:57:09Z",
+   "label": "[Hermeus](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply)",
    "titles": []
   },
   "hewlett packard enterprise": {
@@ -11834,6 +12381,22 @@
     }
    ]
   },
+  "national information solutions cooperative": {
+   "fetched_at": "2026-10-25T18:57:10Z",
+   "label": "National Information Solutions Cooperative",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 91835,
+     "title": "SOFTWARE DEVELOPER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 83470,
+     "title": "SOFTWARE DEVELOPER"
+    }
+   ]
+  },
   "national information solutions cooperative nisc": {
    "fetched_at": "2026-10-25T14:47:32Z",
    "label": "National Information Solutions Cooperative (NISC)",
@@ -12232,6 +12795,42 @@
    "fetched_at": "2026-10-25T18:06:17Z",
    "label": "nbcuniversal3",
    "titles": []
+  },
+  "nelnet": {
+   "fetched_at": "2026-10-25T18:57:10Z",
+   "label": "Nelnet",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 116000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 65000,
+     "title": "DATA ANALYST I"
+    },
+    {
+     "count": 3,
+     "median_salary": 100000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "IT BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "MANAGER - IT"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "SOFTWARE ENGINEER"
+    }
+   ]
   },
   "neuralink": {
    "fetched_at": "2026-10-25T18:06:18Z",
@@ -12886,6 +13485,108 @@
     }
    ]
   },
+  "pella windows doors": {
+   "fetched_at": "2026-10-25T18:57:11Z",
+   "label": "Pella Windows & Doors",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 80642,
+     "title": "ASSOCIATE DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 72633,
+     "title": "OB CLINICAL RESOURCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104998,
+     "title": "ASSOCIATE CATEGORY MERCHANDISING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104978,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115294,
+     "title": "FINANCE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 137179,
+     "title": "LEADER, IT TEAM \u2013 FINANCE IT"
+    },
+    {
+     "count": 1,
+     "median_salary": 106184,
+     "title": "MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118893,
+     "title": "MANAGER, FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 89856,
+     "title": "MARKET RESEARCH SENIOR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 59700,
+     "title": "MEDICAL TECHNOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 130017,
+     "title": "ORACLE TECHNICAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 103056,
+     "title": "ORACLE TECHNICAL ANALYST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 133640,
+     "title": "SENIOR ORACLE DBA ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 125288,
+     "title": "SENIOR TECHNICAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 103056,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 112674,
+     "title": "SR. ANALYTICS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 123053,
+     "title": "TECHNICAL ANALYST \u2013 EPM II"
+    }
+   ]
+  },
+  "peraton": {
+   "fetched_at": "2026-10-25T18:57:12Z",
+   "label": "Peraton",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 111297,
+     "title": "TECHNICAL PROJECT MANAGEMENT, LEAD ASSOCIATE"
+    }
+   ]
+  },
   "philips": {
    "fetched_at": "2026-10-25T18:39:20Z",
    "label": "Philips",
@@ -13320,6 +14021,112 @@
     }
    ]
   },
+  "quanta": {
+   "fetched_at": "2026-10-25T18:57:13Z",
+   "label": "quanta",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 139041,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "ADVISOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 93000,
+     "title": "MANUFACTURING QUALITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 106454,
+     "title": "SOFTWARE QUALITY ASSURANCE ENGINEER ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 60014,
+     "title": "ACCOUNTANT, MANAGEMENT REPORTING"
+    },
+    {
+     "count": 2,
+     "median_salary": 96000,
+     "title": "BUSINESS QUALITY LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 124859,
+     "title": "ENGINEER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 104166,
+     "title": "ETL DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 118000,
+     "title": "OPERATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 88379,
+     "title": "OPERATIONS RESEARCH ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 182548,
+     "title": "PRINCIPAL ADVISOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 88000,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 120000,
+     "title": "PRODUCT AND MARKETING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 83200,
+     "title": "PROJECT MANAGEMENT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 123995,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 123786,
+     "title": "SENIOR RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 82500,
+     "title": "TEST ENGINEER 2"
+    },
+    {
+     "count": 2,
+     "median_salary": 133000,
+     "title": "TEST ENGINEER MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 113286,
+     "title": "TRANSMISSION ENGINEER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 108012,
+     "title": "TRANSMISSION PLANNING ENGINEER"
+    }
+   ]
+  },
   "republic airways": {
    "fetched_at": "2026-10-25T18:39:25Z",
    "label": "Republic Airways",
@@ -13452,6 +14259,117 @@
     }
    ]
   },
+  "rivian and volkswagen group technologies": {
+   "fetched_at": "2026-10-25T18:57:14Z",
+   "label": "Rivian and Volkswagen Group Technologies",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 200000,
+     "title": "SR. ANDROID DEVELOPER, INFOTAINMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "INTEGRATION ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "SR. AI SYSTEMS AND APPLICATIONS VALIDATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 141000,
+     "title": "SR. ELECTRICAL HARDWARE ENGINEERING PROGRAM SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 187000,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "SR. TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145400,
+     "title": "AUDIO DSP ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "AUTOMATION ENGINEER, VEHICLE ACCESS"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "ELECTRONIC DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "EMBEDDED SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "FUNCTIONAL SAFETY ENGINEER, ADAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 141000,
+     "title": "PRODUCT MANAGER, UX, UI SYSTEMS AND FRAMEWORKS"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "SENIOR ANALYTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 183600,
+     "title": "SENIOR AUDIO DSP ENGINEER, INFOTAINMENT PLATFORM"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "SENIOR EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SOFTWARE ENGINEER II, TELEMATICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "SOFTWARE ENGINEER, INFOTAINMENT SYSTEM AND PERFORMANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 180765,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "SR. ELECTRONIC DESIGN ENGINEER, INFOTAINMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 161020,
+     "title": "SR. EMC DESIGN ENGINEER"
+    }
+   ]
+  },
+  "rivianvw tech": {
+   "fetched_at": "2026-10-25T18:57:15Z",
+   "label": "rivianvw.tech",
+   "titles": []
+  },
   "roblox": {
    "fetched_at": "2026-10-25T18:39:27Z",
    "label": "Roblox",
@@ -13581,6 +14499,159 @@
      "count": 1,
      "median_salary": 173400,
      "title": "SOLUTIONS ARCHITECT"
+    }
+   ]
+  },
+  "rocketlab": {
+   "fetched_at": "2026-10-25T18:57:16Z",
+   "label": "rocketlab",
+   "titles": []
+  },
+  "rockwell automation": {
+   "fetched_at": "2026-10-25T18:57:16Z",
+   "label": "Rockwell Automation",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 156000,
+     "title": "TECHNICAL MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 123600,
+     "title": "ADVANCED ANALYTICS RESEARCH SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 92880,
+     "title": "MES L1 SUPPORT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 114400,
+     "title": "MULESOFT TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 152573,
+     "title": "OEM ACCOUNT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 143471,
+     "title": "PROJECT ENGINEER, EMBEDDED SOFTWARE"
+    },
+    {
+     "count": 2,
+     "median_salary": 140699,
+     "title": "PROJECT ENGINEER, SECURITY TEST"
+    },
+    {
+     "count": 2,
+     "median_salary": 129271,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 128794,
+     "title": "SOFTWARE PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 138500,
+     "title": "SOFTWARE SYSTEMS TEST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130720,
+     "title": "SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 101355,
+     "title": "TECH CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 145600,
+     "title": "TECHNICAL DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 88587,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 166400,
+     "title": "GLOBAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 162750,
+     "title": "IT TECHNICAL LEADER - DELIVER SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 161148,
+     "title": "LEAD ENGINEER, GLOBAL REVENUE MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 132374,
+     "title": "MES SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 123302,
+     "title": "MES TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 127308,
+     "title": "PRODUCT MANAGER"
+    }
+   ]
+  },
+  "rovisys": {
+   "fetched_at": "2026-10-25T18:57:17Z",
+   "label": "rovisys",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 79560,
+     "title": "SYSTEMS ENGINEER 1 INDUSTRIAL ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "SYSTEMS ENGINEER 1 MECHATRONICS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 86769,
+     "title": "SYSTEMS ENGINEER 1 SOFTWARE ENGINEERING"
+    }
+   ]
+  },
+  "rovisys building technologies": {
+   "fetched_at": "2026-10-25T18:57:18Z",
+   "label": "RoviSys Building Technologies",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 79560,
+     "title": "SYSTEMS ENGINEER 1 INDUSTRIAL ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "SYSTEMS ENGINEER 1 MECHATRONICS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 86769,
+     "title": "SYSTEMS ENGINEER 1 SOFTWARE ENGINEERING"
     }
    ]
   }

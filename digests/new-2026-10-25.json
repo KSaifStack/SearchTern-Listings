@@ -1,258 +1,58 @@
 [
   {
-    "company": "Figure",
-    "role": "Deployment Engineering Intern",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "company": "EdgeQ Technologies Private Limited",
+    "role": "Junior Data Engineer",
+    "location": "United States",
+    "link": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/junior-data-engineer?utm_source=api",
+    "source": "breadth",
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   },
   {
-    "company": "Figure",
-    "role": "Developer Productivity Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Figure",
-    "role": "Electrical Engineering Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4676467006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Figure",
-    "role": "Embedded Software Engineering Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4722086006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Figure",
-    "role": "Firmware Engineering Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4601309006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Figure",
-    "role": "Hardware Reliability Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Figure",
-    "role": "Mechanical Engineer Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4303098006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Figure",
-    "role": "Validation Engineering Intern [Winter 2027]",
-    "location": "San Jose, CA",
-    "link": "https://job-boards.greenhouse.io/figureai/jobs/4606072006",
-    "source": "ats",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "American Family Insurance Group",
-    "role": "AI Platform Engineering Intern (Hybrid)",
-    "location": "WI Madison · Madison, WI",
-    "link": "https://amfam.wd1.myworkdayjobs.com/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462",
+    "company": "Draper",
+    "role": "Operations Engineering Intern (Summer 2027)",
+    "location": "Cambridge, MA",
+    "link": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037",
     "source": "ecr",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   },
   {
-    "company": "Costar Group",
-    "role": "Security Engineer Intern - Richmond, VA",
-    "location": "Richmond, VA · US-VA Richmond",
-    "link": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726",
+    "company": "KLA",
+    "role": "AI/ML Software Engineer - Intern",
+    "location": "Ann Arbor, MI",
+    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
     "source": "ecr",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   },
   {
-    "company": "Pentair",
-    "role": "IT & Cybersecurity Leadership Development Internship Program",
-    "location": "Golden Valley, MN",
-    "link": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700",
+    "company": "KLA",
+    "role": "Software Engineer Intern - AI",
+    "location": "Ann Arbor, MI",
+    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
     "source": "ecr",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   },
   {
-    "company": "RTX",
-    "role": "Software Engineering Intern  (Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · Cedar Rapids, IA",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineering-Intern---Summer-2027-_01884375",
+    "company": "KLA",
+    "role": "Software Engineering Intern",
+    "location": "Ann Arbor, MI",
+    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
     "source": "ecr",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   },
   {
-    "company": "Stantec",
-    "role": "ICT Designer-New Graduate 2027",
-    "location": "Chicago, IL, United States",
-    "link": "https://hdhl.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#1008306",
-    "source": "jobhive",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Ankura",
-    "role": "Associate - Forensic Data & Analytics",
-    "location": "Chicago, IL +2",
-    "link": "https://ankura.wd5.myworkdayjobs.com/en-US/ankura/job/Chicago-IL/Associate--Forensic-Data---Analytics_R104901",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Applied Underwriters",
-    "role": "AI Engineer - Application Development",
-    "location": "New York City, NY",
-    "link": "https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Applied Underwriters",
-    "role": "AI Engineer - Data Science",
-    "location": "New York City, NY",
-    "link": "https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Applied Underwriters",
-    "role": "AI Engineer - Infrustructure",
-    "location": "New York City, NY",
-    "link": "https://jobs.lever.co/auw/515a3498-4257-4e68-91ff-cf82e854f12d",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "BeyondTrust",
-    "role": "Associate Data Engineer",
-    "location": "Remote - USA",
-    "link": "https://job-boards.greenhouse.io/beyondtrust/jobs/8300876",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "DraftKings",
-    "role": "Data Science Engineer - December 2026 Grads",
-    "location": "Boston, MA",
-    "link": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Data-Science-Engineer--December-2026-and-May-2027-Grads-_JR14959",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Extra Space Storage",
-    "role": "SEO & AI Search Specialist",
-    "location": "Salt Lake City, UT",
-    "link": "https://extraspace.wd5.myworkdayjobs.com/en-US/ess_external/job/Salt-Lake-City-UT-United-States/SEO---AI-Search-Specialist_R-82568-1",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Fuel Cycle",
-    "role": "Associate AI Engineer",
-    "location": "Los Angeles, CA",
-    "link": "https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "IQVIA",
-    "role": "Associate AI Engineer",
-    "location": "Athens, Greece",
-    "link": "https://iqvia.wd1.myworkdayjobs.com/en-US/iqvia/job/Athens-Greece/Associate-AI-Engineer_R1573507",
-    "source": "speedyapply AI New Grad Intl",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "KeyBank",
-    "role": "Quant Analytics Associate",
-    "location": "Cleveland, OH",
-    "link": "https://keybank.wd5.myworkdayjobs.com/en-US/external_career_site/job/Cleveland-OH/Quant-Analytics-Associate_R-42718",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Lightcast",
-    "role": "Associate Applied ML Scientist - 1087",
-    "location": "Moscow, ID",
-    "link": "https://jobs.lever.co/economicmodeling/ac72eba1-48f4-46e5-b0c6-93b6780b2618",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Magna",
-    "role": "Junior AI Engineer",
-    "location": "Troy, MI",
-    "link": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Troy-Michigan-US/Junior-AI-Enigneer_R00266828-1",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Microsoft",
-    "role": "Data Scientist - Product Analytics - XBOX Growth",
-    "location": "Redmond, WA +1",
-    "link": "https://apply.careers.microsoft.com/careers/job/1970393556988108",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Northrop Grumman",
-    "role": "U107 Sensors & Systems Technician - 3rd Shift",
-    "location": "United States-Maryland-Baltimore",
-    "link": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255701?s=gh-new-grad-jobs-2027",
+    "company": "ABB",
+    "role": "Discovery Information Systems Track - 2027",
+    "location": "USA, NC, Cary",
+    "link": "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050513?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   },
   {
-    "company": "Northrop Grumman",
-    "role": "U107 Sensors & Systems Technician -1st Shift",
-    "location": "United States-Maryland-Baltimore",
-    "link": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10255698?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Pinterest",
-    "role": "University Grad Software Engineer 2027 (USA)",
-    "location": "USA",
-    "link": "https://www.linkedin.com/jobs/view/4474360588",
+    "company": "Unissant",
+    "role": "Entry Level Full Stack Software Developer",
+    "location": "Ashburn, VA, USA",
+    "link": "https://www.linkedin.com/jobs/view/4481406238",
     "source": "jobspy",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "RSM",
-    "role": "AI Machine Learning Engineer",
-    "location": "Chicago, IL +6",
-    "link": "https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/AI-Machine-Learning-Engineer_JR122103",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "State Street",
-    "role": "AI and Trading Analytics Researcher - Officer - Onsite",
-    "location": "Cambridge, MA +1",
-    "link": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Cambridge-Massachusetts/AI-and-Trading-Analytics-Researcher--Officer--Onsite_R-800239",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
-  },
-  {
-    "company": "Xcel Energy",
-    "role": "Associate Data Scientist - Workforce Analytics",
-    "location": "Minneapolis, MN +2",
-    "link": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/external/job/Minneapolis-MN-55401/Associate-Data-Scientist---Workforce-Analytics_JR116164-1",
-    "source": "speedyapply AI New Grad USA",
-    "observed_at": "2026-10-25T15:47:54.118906+00:00"
+    "observed_at": "2026-10-25T18:48:32.120581+00:00"
   }
 ]
