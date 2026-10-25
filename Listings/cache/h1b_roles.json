@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T22:41:38Z",
+ "built_at": "2026-10-25T23:03:13Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -17157,6 +17157,112 @@
     }
    ]
   },
+  "true anomaly": {
+   "fetched_at": "2026-10-25T23:03:02Z",
+   "label": "True Anomaly",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 100000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 75000,
+     "title": "CIVIL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 57080,
+     "title": "BIOPRODUCTS RESEARCH COORDINATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 39140,
+     "title": "ELECTRICAL TECHNICIAN"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "MANAGER, ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 146432,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 162500,
+     "title": "SENIOR ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 189000,
+     "title": "SOFTWARE ENGINEER 4"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133125,
+     "title": "TECHNICAL PRODUCT OWNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 215000,
+     "title": "VICE PRESIDENT, M&AMP;A &AMP; FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 76414,
+     "title": "ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 221000,
+     "title": "ASSOCIATE DENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "BUSINESS ADMINISTRATION &AMP; ADVISORY ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "BUSINESS MANAGEMENT SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 87308,
+     "title": "DATA ANALYST AND MODEL BUILDER"
+    },
+    {
+     "count": 1,
+     "median_salary": 156000,
+     "title": "DATA ENGINEER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 177000,
+     "title": "DATA WAREHOUSE ENGINEER 4"
+    }
+   ]
+  },
   "turner construction": {
    "fetched_at": "2026-10-25T22:41:26Z",
    "label": "Turner Construction",
@@ -17711,6 +17817,274 @@
      "count": 12,
      "median_salary": 155764,
      "title": "SR. DATA SCIENTIST"
+    }
+   ]
+  },
+  "wadetrim": {
+   "fetched_at": "2026-10-25T23:03:03Z",
+   "label": "wadetrim",
+   "titles": []
+  },
+  "waymo": {
+   "fetched_at": "2026-10-25T23:03:04Z",
+   "label": "Waymo",
+   "titles": [
+    {
+     "count": 147,
+     "median_salary": 200000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 214000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 279000,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 189000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 197500,
+     "title": "SYSTEMS TEST ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 240000,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 245000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 230000,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 232500,
+     "title": "BUSINESS DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 286000,
+     "title": "HARDWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 205000,
+     "title": "MACHINE LEARNING ENGINEER, MAPPING"
+    },
+    {
+     "count": 2,
+     "median_salary": 207500,
+     "title": "PRODUCT DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 235500,
+     "title": "SILICON ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "SOFTWARE ENGINEER, PERCEPTION SCALABILITY SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 1100000,
+     "title": "SOFTWARE ENGINEER, ROUTER"
+    },
+    {
+     "count": 2,
+     "median_salary": 337000,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 177500,
+     "title": "STRATEGIC &AMP; COMMERCIAL FINANCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "BEHAVIORAL SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 186000,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    }
+   ]
+  },
+  "wsfs bank": {
+   "fetched_at": "2026-10-25T23:03:06Z",
+   "label": "Wsfs Bank",
+   "titles": []
+  },
+  "wsp": {
+   "fetched_at": "2026-10-25T23:03:07Z",
+   "label": "WSP",
+   "titles": []
+  },
+  "wsp in the u s": {
+   "fetched_at": "2026-10-25T23:03:09Z",
+   "label": "WSP in the U.S.",
+   "titles": []
+  },
+  "www careers philips com": {
+   "fetched_at": "2026-10-25T23:03:10Z",
+   "label": "www.careers.philips.com",
+   "titles": []
+  },
+  "zipline": {
+   "fetched_at": "2026-10-25T23:03:11Z",
+   "label": "Zipline",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 165000,
+     "title": "SUPPLIER INDUSTRIALIZATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "BATTERY MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145943,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 151500,
+     "title": "GLOBAL SUPPLY MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 142927,
+     "title": "PERCEPTION SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "PRODUCT SECURITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 168439,
+     "title": "SENIOR MECHANICAL TEST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145125,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "ANALYTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "APPLICATION SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100194,
+     "title": "AUTONOMY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "CHANGE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 123000,
+     "title": "CONTROLS &AMP; DYNAMICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "DIMENSIONAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155605,
+     "title": "EMBEDDED SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "FULL STACK SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "HEAD OF POWERTRAIN"
+    },
+    {
+     "count": 1,
+     "median_salary": 225000,
+     "title": "LINUX DISTRIBUTION ENGINEER - EMBEDDED SOFTWARE"
+    }
+   ]
+  },
+  "zurn elkay water solutions": {
+   "fetched_at": "2026-10-25T23:03:13Z",
+   "label": "Zurn Elkay Water Solutions",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 69180,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99029,
+     "title": "BUSINESS SYSTEM ANALYST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 58200,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 54000,
+     "title": "MARKETING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 49760,
+     "title": "OPERATIONS RESEARCH ANALYST"
     }
    ]
   }
