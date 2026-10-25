@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T04:07:20Z",
+ "built_at": "2026-10-25T05:38:12Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4220,6 +4220,360 @@
   "dlrgroup": {
    "fetched_at": "2026-10-25T04:07:20Z",
    "label": "dlrgroup",
+   "titles": []
+  },
+  "dominos": {
+   "fetched_at": "2026-10-25T05:37:53Z",
+   "label": "dominos",
+   "titles": []
+  },
+  "doordash": {
+   "fetched_at": "2026-10-25T05:37:54Z",
+   "label": "DoorDash",
+   "titles": []
+  },
+  "dv trading": {
+   "fetched_at": "2026-10-25T05:37:56Z",
+   "label": "DV Trading",
+   "titles": []
+  },
+  "ebfr": {
+   "fetched_at": "2026-10-25T05:37:57Z",
+   "label": "Ebfr",
+   "titles": []
+  },
+  "ebqb": {
+   "fetched_at": "2026-10-25T05:37:58Z",
+   "label": "Ebqb",
+   "titles": []
+  },
+  "ebxs": {
+   "fetched_at": "2026-10-25T05:37:59Z",
+   "label": "Ebxs",
+   "titles": []
+  },
+  "edbz": {
+   "fetched_at": "2026-10-25T05:37:59Z",
+   "label": "Edbz",
+   "titles": []
+  },
+  "eedu": {
+   "fetched_at": "2026-10-25T05:38:00Z",
+   "label": "Eedu",
+   "titles": []
+  },
+  "efet": {
+   "fetched_at": "2026-10-25T05:38:01Z",
+   "label": "Efet",
+   "titles": []
+  },
+  "egup": {
+   "fetched_at": "2026-10-25T05:38:02Z",
+   "label": "Egup",
+   "titles": []
+  },
+  "ejhp": {
+   "fetched_at": "2026-10-25T05:38:03Z",
+   "label": "Ejhp",
+   "titles": []
+  },
+  "ejov": {
+   "fetched_at": "2026-10-25T05:38:04Z",
+   "label": "Ejov",
+   "titles": []
+  },
+  "ejwl": {
+   "fetched_at": "2026-10-25T05:38:05Z",
+   "label": "Ejwl",
+   "titles": []
+  },
+  "ekaw": {
+   "fetched_at": "2026-10-25T05:38:06Z",
+   "label": "Ekaw",
+   "titles": []
+  },
+  "electronic arts": {
+   "fetched_at": "2026-10-25T05:38:07Z",
+   "label": "Electronic Arts",
+   "titles": [
+    {
+     "count": 24,
+     "median_salary": 173411,
+     "title": "SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 21,
+     "median_salary": 148000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 6,
+     "median_salary": 203582,
+     "title": "SENIOR SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 4,
+     "median_salary": 140827,
+     "title": "DATA SCIENTIST I"
+    },
+    {
+     "count": 3,
+     "median_salary": 162562,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 3,
+     "median_salary": 117998,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 3,
+     "median_salary": 132560,
+     "title": "SOFTWARE ENGINEER II - SECURITY"
+    },
+    {
+     "count": 3,
+     "median_salary": 184477,
+     "title": "SR SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 81355,
+     "title": "ASSOCIATE CONCEPT ARTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 117900,
+     "title": "DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150733,
+     "title": "DEVOPS ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 214240,
+     "title": "LEAD SOCIAL BEHAVIORAL SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 219400,
+     "title": "PRINCIPAL PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 142821,
+     "title": "PROGRAM MANAGER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 194919,
+     "title": "SENIOR MANAGER ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 136488,
+     "title": "SR. NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 117867,
+     "title": "TECHNICAL ARTIST 2"
+    },
+    {
+     "count": 1,
+     "median_salary": 199725,
+     "title": "ADVANCED ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 145951,
+     "title": "ADVANCED ANALYST, STRATEGIC GROWTH PLANNING DEMAND PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90251,
+     "title": "ANIMATOR"
+    }
+   ]
+  },
+  "eluq": {
+   "fetched_at": "2026-10-25T05:38:08Z",
+   "label": "Eluq",
+   "titles": []
+  },
+  "emerson career site": {
+   "fetched_at": "2026-10-25T05:38:09Z",
+   "label": "Emerson Career Site",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 87403,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 140886,
+     "title": "ADVANCED TECHNICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146300,
+     "title": "DIRECTOR GLOBAL FINANCIAL PLANNING AND ANALYSIS"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "GLOBAL CATEGORY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144658,
+     "title": "ASSOCIATE DIRECTOR, BUSINESS INTELLIGENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 149500,
+     "title": "BUSINESS DEVELOPMENT MANAGER - SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "DIGITAL MARKETING TECHNOLOGY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 163100,
+     "title": "DIRECTOR IT SERVICE DELIVERY NORTH AMERICA"
+    },
+    {
+     "count": 1,
+     "median_salary": 162800,
+     "title": "DIRECTOR, UPSTREAM OIL &AMP; GAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "INFORMATION TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 163500,
+     "title": "MANAGER, PROFIT &AMP; GROWTH PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 76736,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147046,
+     "title": "PRINCIPAL ENGINEER, IDENTITY AND ACCESS MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 73066,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 78891,
+     "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95848,
+     "title": "SENIOR DATABASE SYSTEM ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95123,
+     "title": "SENIOR PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SR. STRATEGIC OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "STRATEGIC OPERATIONS ANALYST"
+    }
+   ]
+  },
+  "emerson electric": {
+   "fetched_at": "2026-10-25T05:38:10Z",
+   "label": "Emerson Electric",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "GLOBAL CATEGORY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 163100,
+     "title": "DIRECTOR IT SERVICE DELIVERY NORTH AMERICA"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "INFORMATION TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 163500,
+     "title": "MANAGER, PROFIT &AMP; GROWTH PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 147046,
+     "title": "PRINCIPAL ENGINEER, IDENTITY AND ACCESS MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 78891,
+     "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SR. STRATEGIC OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "STRATEGIC OPERATIONS ANALYST"
+    }
+   ]
+  },
+  "emit": {
+   "fetched_at": "2026-10-25T05:38:10Z",
+   "label": "Emit",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "enapply danone": {
+   "fetched_at": "2026-10-25T05:38:12Z",
+   "label": "enapply-danone",
    "titles": []
   }
  }
