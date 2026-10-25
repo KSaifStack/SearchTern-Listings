@@ -1,58 +1,50 @@
 [
   {
-    "company": "EdgeQ Technologies Private Limited",
-    "role": "Junior Data Engineer",
-    "location": "United States",
-    "link": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/junior-data-engineer?utm_source=api",
-    "source": "breadth",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
+    "company": "Ford",
+    "role": "Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV",
+    "location": "Palo Alto, CA, United States",
+    "link": "https://jobs.ford.com/careers/job/563568454013062?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-25T22:23:00.325452+00:00"
   },
   {
-    "company": "Draper",
-    "role": "Operations Engineering Intern (Summer 2027)",
-    "location": "Cambridge, MA",
-    "link": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037",
-    "source": "ecr",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
+    "company": "ConnectPrep",
+    "role": "Data Analyst Internship",
+    "location": "Washington, District of Columbia, United States (Remote)",
+    "link": "https://apply.workable.com/connectprep/j/1AF4F8C65F/",
+    "source": "zshah101 Summer 2027 US",
+    "observed_at": "2026-10-25T22:23:00.325452+00:00"
   },
   {
-    "company": "KLA",
-    "role": "AI/ML Software Engineer - Intern",
-    "location": "Ann Arbor, MI",
-    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
-    "source": "ecr",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
+    "company": "FightCamp",
+    "role": "Developer Productivity Intern - Winter 2027",
+    "location": "San Jose, CA",
+    "link": "https://job-boards.greenhouse.io/figureai/jobs/4724521006",
+    "source": "speedyapply SWE 2027",
+    "observed_at": "2026-10-25T22:23:00.325452+00:00"
   },
   {
-    "company": "KLA",
-    "role": "Software Engineer Intern - AI",
-    "location": "Ann Arbor, MI",
-    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
-    "source": "ecr",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
-  },
-  {
-    "company": "KLA",
-    "role": "Software Engineering Intern",
-    "location": "Ann Arbor, MI",
-    "link": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
-    "source": "ecr",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
-  },
-  {
-    "company": "ABB",
-    "role": "Discovery Information Systems Track - 2027",
-    "location": "USA, NC, Cary",
-    "link": "https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050513?s=gh-new-grad-jobs-2027",
+    "company": "Guidehouse",
+    "role": "IT Cybersecurity Compliance Technical Associate- Campus 2027",
+    "location": "VA McLean",
+    "link": "https://zapply.jobs/l/d/workday-guidehouse-external-45899?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
+    "observed_at": "2026-10-25T22:23:00.325452+00:00"
   },
   {
-    "company": "Unissant",
-    "role": "Entry Level Full Stack Software Developer",
-    "location": "Ashburn, VA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4481406238",
-    "source": "jobspy",
-    "observed_at": "2026-10-25T18:48:32.120581+00:00"
+    "company": "Intapp",
+    "role": "Client Technology Strategist (CTS)",
+    "location": "NY New York",
+    "link": "https://zapply.jobs/l/d/workday-intapp-intapp-R2025421?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-10-25T22:23:00.325452+00:00"
+  },
+  {
+    "company": "National Information Solutions Cooperative",
+    "role": "Intern - Application Analyst - Financials Software",
+    "location": "Mandan, ND",
+    "link": "https://job-boards.greenhouse.io/nisc/jobs/8301304",
+    "source": "speedyapply SWE 2027",
+    "observed_at": "2026-10-25T22:23:00.325452+00:00"
   }
 ]

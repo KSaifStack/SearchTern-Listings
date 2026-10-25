@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T22:12:27Z",
+ "built_at": "2026-10-25T22:36:36Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2519,6 +2519,112 @@
     }
    ]
   },
+  "astera labs": {
+   "fetched_at": "2026-10-25T22:36:14Z",
+   "label": "Astera Labs",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 216091,
+     "title": "PRINCIPAL FIRMWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 131019,
+     "title": "SENIOR SYSTEM VALIDATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 217630,
+     "title": "TECH LEAD DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165422,
+     "title": "TECH LEAD FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190450,
+     "title": "PRINCIPAL PRODUCT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 145406,
+     "title": "SENIOR PHYSICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 216091,
+     "title": "SENIOR PRINCIPAL PRODUCT APPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146307,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 132101,
+     "title": "BUSINESS OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 156624,
+     "title": "DIGITAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 223538,
+     "title": "DIRECTOR OF SUPPLY CHAIN OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117645,
+     "title": "HARDWARE PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "MACHINE LEARNING SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "MISSION DESIGN ENGINEER"
+    }
+   ]
+  },
   "astera labs early career north america 2027": {
    "fetched_at": "2026-10-24T22:23:23Z",
    "label": "Astera Labs Early Career - North America 2027",
@@ -3184,6 +3290,112 @@
      "count": 1,
      "median_salary": 88063,
      "title": "SPECIALIST-IC DEVELOPMENT"
+    }
+   ]
+  },
+  "barclays": {
+   "fetched_at": "2026-10-25T22:36:15Z",
+   "label": "Barclays",
+   "titles": [
+    {
+     "count": 28,
+     "median_salary": 124000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 20,
+     "median_salary": 220000,
+     "title": "VICE PRESIDENT - GLOBAL MARKETS"
+    },
+    {
+     "count": 19,
+     "median_salary": 155000,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 15,
+     "median_salary": 137500,
+     "title": "DEVELOPER"
+    },
+    {
+     "count": 12,
+     "median_salary": 124270,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 160850,
+     "title": "SOFTWARE ENGINEER - AVP"
+    },
+    {
+     "count": 11,
+     "median_salary": 113850,
+     "title": "SOFTWARE ENGINEER - BA4"
+    },
+    {
+     "count": 10,
+     "median_salary": 168930,
+     "title": "AVP, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 121125,
+     "title": "INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 157477,
+     "title": "AVP, SENIOR JAVA DEVELOPER"
+    },
+    {
+     "count": 9,
+     "median_salary": 133000,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 8,
+     "median_salary": 140000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 110000,
+     "title": "TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 182622,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 122000,
+     "title": "BACKEND SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 194000,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 149500,
+     "title": "ASSISTANT VICE PRESIDENT"
+    },
+    {
+     "count": 4,
+     "median_salary": 160000,
+     "title": "ASSISTANT VP - GLOBAL MARKETS"
+    },
+    {
+     "count": 4,
+     "median_salary": 155300,
+     "title": "AVP, FULL STACK DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 147262,
+     "title": "AVP, SENIOR APP SUPPORT SPECIALIST"
     }
    ]
   },
@@ -7212,6 +7424,11 @@
    "label": "eqbank",
    "titles": []
   },
+  "eqt": {
+   "fetched_at": "2026-10-25T22:36:16Z",
+   "label": "Eqt Corporation",
+   "titles": []
+  },
   "eqtcorporation": {
    "fetched_at": "2026-10-25T08:51:15Z",
    "label": "eqtcorporation",
@@ -7497,6 +7714,112 @@
      "count": 1,
      "median_salary": 105997,
      "title": "SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "expedia": {
+   "fetched_at": "2026-10-25T22:36:16Z",
+   "label": "Expedia Group",
+   "titles": [
+    {
+     "count": 183,
+     "median_salary": 137259,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 42,
+     "median_salary": 137259,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 41,
+     "median_salary": 190486,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 24,
+     "median_salary": 118414,
+     "title": "DATA SCIENTIST, ANALYTICS"
+    },
+    {
+     "count": 23,
+     "median_salary": 200045,
+     "title": "SENIOR MANAGER, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 18,
+     "median_salary": 138070,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 137259,
+     "title": "MOBILE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 118414,
+     "title": "MACHINE LEARNING SCIENTIST"
+    },
+    {
+     "count": 14,
+     "median_salary": 173083,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 155650,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 190486,
+     "title": "PRINCIPAL SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 167024,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 5,
+     "median_salary": 146084,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 190247,
+     "title": "SENIOR MACHINE LEARNING SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 185841,
+     "title": "SENIOR MANAGER, DATA ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 185037,
+     "title": "SENIOR MANAGER, DATA SCIENCE - ANALYTICS"
+    },
+    {
+     "count": 4,
+     "median_salary": 151204,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 251576,
+     "title": "DIRECTOR, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 197273,
+     "title": "SENIOR MOBILE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 108826,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER II"
     }
    ]
   },
@@ -10211,6 +10534,11 @@
     }
    ]
   },
+  "j m smucker": {
+   "fetched_at": "2026-10-25T22:36:17Z",
+   "label": "J M Smucker",
+   "titles": []
+  },
   "jobs ascension org": {
    "fetched_at": "2026-10-25T10:28:33Z",
    "label": "jobs.ascension.org",
@@ -10845,6 +11173,11 @@
   "kla": {
    "fetched_at": "2026-10-25T14:02:29Z",
    "label": "KLA",
+   "titles": []
+  },
+  "kla corporation https kla wd1 myworkdayjobs com ur job milpitas ca engineering intern 2642277": {
+   "fetched_at": "2026-10-25T22:36:18Z",
+   "label": "[KLA Corporation](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277)",
    "titles": []
   },
   "kpffconsultingengineers": {
@@ -13986,6 +14319,57 @@
     }
    ]
   },
+  "prologis https prologis wd5 myworkdayjobs com prologis external careers job denver colorado ai product management intern r6840": {
+   "fetched_at": "2026-10-25T22:36:19Z",
+   "label": "[Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 142100,
+     "title": "OPERATIONS CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 142646,
+     "title": "CONSTRUCTION PROJECT MANAGER, ENERGY AND MOBILITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 142000,
+     "title": "DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 219440,
+     "title": "DIRECTOR, ORIGINATION - AMERICAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 82243,
+     "title": "FINANCIAL OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "INVESTOR RELATIONS ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 95347,
+     "title": "LEAD, ADVANCED ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "TECHNICAL LEAD, LEASING DOC GEN &AMP; ADMIN"
+    }
+   ]
+  },
   "q2": {
    "fetched_at": "2026-10-25T18:39:23Z",
    "label": "Q2",
@@ -16112,6 +16496,11 @@
    "label": "SyngentaGroup",
    "titles": []
   },
+  "tc energy https tcenergy wd3 myworkdayjobs com career site tc job charleston west virginia intern measurement services jr 10976": {
+   "fetched_at": "2026-10-25T22:36:20Z",
+   "label": "[TC Energy](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976)",
+   "titles": []
+  },
   "td bank": {
    "fetched_at": "2026-10-25T22:12:19Z",
    "label": "TD Bank",
@@ -16546,6 +16935,11 @@
    "label": "The Federal Reserve System",
    "titles": []
   },
+  "the walt disney": {
+   "fetched_at": "2026-10-25T22:36:22Z",
+   "label": "The Walt Disney Company",
+   "titles": []
+  },
   "tiktok": {
    "fetched_at": "2026-10-25T22:12:24Z",
    "label": "TikTok",
@@ -16760,6 +17154,537 @@
      "count": 1,
      "median_salary": 239000,
      "title": "STAFF CLOUD ENGINEER"
+    }
+   ]
+  },
+  "true anomaly": {
+   "fetched_at": "2026-10-25T22:36:22Z",
+   "label": "True Anomaly",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 100000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 75000,
+     "title": "CIVIL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 57080,
+     "title": "BIOPRODUCTS RESEARCH COORDINATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 39140,
+     "title": "ELECTRICAL TECHNICIAN"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "MANAGER, ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 146432,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 162500,
+     "title": "SENIOR ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 189000,
+     "title": "SOFTWARE ENGINEER 4"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133125,
+     "title": "TECHNICAL PRODUCT OWNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 215000,
+     "title": "VICE PRESIDENT, M&AMP;A &AMP; FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 76414,
+     "title": "ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 221000,
+     "title": "ASSOCIATE DENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "BUSINESS ADMINISTRATION &AMP; ADVISORY ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "BUSINESS MANAGEMENT SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 87308,
+     "title": "DATA ANALYST AND MODEL BUILDER"
+    },
+    {
+     "count": 1,
+     "median_salary": 156000,
+     "title": "DATA ENGINEER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 177000,
+     "title": "DATA WAREHOUSE ENGINEER 4"
+    }
+   ]
+  },
+  "turner construction": {
+   "fetched_at": "2026-10-25T22:36:23Z",
+   "label": "Turner Construction",
+   "titles": [
+    {
+     "count": 11,
+     "median_salary": 79750,
+     "title": "ASSISTANT ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 121893,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 107422,
+     "title": "CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 91050,
+     "title": "ESTIMATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 99282,
+     "title": "CIVIL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 106405,
+     "title": "MEP ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 80000,
+     "title": "VDC ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 116897,
+     "title": "VDC PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 74774,
+     "title": "FIELD ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 70785,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "PROJECT ENVIRONMENTAL, HEALTH &AMP; SAFETY MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 86500,
+     "title": "TECHNICAL MANAGER- TTS"
+    },
+    {
+     "count": 2,
+     "median_salary": 79203,
+     "title": "VIRTUAL DESIGN AND CONSTRUCTION VDC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 74000,
+     "title": "ASSISTANT MEP ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98059,
+     "title": "COST ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80311,
+     "title": "ENGINEERING ASSISTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 97244,
+     "title": "PROGRAM SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "PROJECT PRECONSTRUCTION MANAGER COST MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 84234,
+     "title": "PROJECT SAFETY PROFESSIONAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 300265,
+     "title": "SR. DIRECTOR, BUSINESS INTELLIGENCE &AMP; ANALYTICS HQ"
+    }
+   ]
+  },
+  "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job ut main campus video and analytics intern baseball r 00047706": {
+   "fetched_at": "2026-10-25T22:36:29Z",
+   "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706)",
+   "titles": [
+    {
+     "count": 1748,
+     "median_salary": 115000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 371,
+     "median_salary": 74425,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 214,
+     "median_salary": 62116,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 214,
+     "median_salary": 63000,
+     "title": "POSTDOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 190,
+     "median_salary": 84000,
+     "title": "ASSISTANT PROJECT SCIENTIST"
+    },
+    {
+     "count": 175,
+     "median_salary": 216000,
+     "title": "CLINICAL ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 164,
+     "median_salary": 63120,
+     "title": "POSTDOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 127,
+     "median_salary": 62652,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 126,
+     "median_salary": 68182,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 121,
+     "median_salary": 73368,
+     "title": "LECTURER"
+    },
+    {
+     "count": 117,
+     "median_salary": 68869,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 115,
+     "median_salary": 79706,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 110,
+     "median_salary": 139914,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 90,
+     "median_salary": 87620,
+     "title": "GLIDE TEAM REGISTERED NURSE 2 INPATIENT"
+    },
+    {
+     "count": 84,
+     "median_salary": 77030,
+     "title": "POSTDOCTORAL SCHOLAR EMPLOYEE"
+    },
+    {
+     "count": 77,
+     "median_salary": 68964,
+     "title": "INSTRUCTOR"
+    },
+    {
+     "count": 69,
+     "median_salary": 80700,
+     "title": "ASSOCIATE SPECIALIST"
+    },
+    {
+     "count": 67,
+     "median_salary": 88303,
+     "title": "ASSISTANT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 66,
+     "median_salary": 75727,
+     "title": "POSTDOCTORAL SCHOLAR-EMPLOYEE"
+    },
+    {
+     "count": 59,
+     "median_salary": 68141,
+     "title": "MEDICAL RESIDENT"
+    }
+   ]
+  },
+  "us erac": {
+   "fetched_at": "2026-10-25T22:36:30Z",
+   "label": "us-erac",
+   "titles": []
+  },
+  "varda space": {
+   "fetched_at": "2026-10-25T22:36:31Z",
+   "label": "Varda Space",
+   "titles": []
+  },
+  "veeam software": {
+   "fetched_at": "2026-10-25T22:36:32Z",
+   "label": "Veeam Software",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "R&AMP;D DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175617,
+     "title": "SENIOR STRATEGIC PROGRAM MANAGER"
+    }
+   ]
+  },
+  "veeamsoftware": {
+   "fetched_at": "2026-10-25T22:36:32Z",
+   "label": "veeamsoftware",
+   "titles": []
+  },
+  "veepee": {
+   "fetched_at": "2026-10-25T22:36:33Z",
+   "label": "veepee",
+   "titles": []
+  },
+  "veoliaenvironnementsa": {
+   "fetched_at": "2026-10-25T22:36:34Z",
+   "label": "VeoliaEnvironnementSA",
+   "titles": []
+  },
+  "vertex pharmaceuticals https vrtx wd501 myworkdayjobs com vertex careers job boston ma vertex spring co op 2027 biologics msat req 30504 1": {
+   "fetched_at": "2026-10-25T22:36:35Z",
+   "label": "[Vertex Pharmaceuticals](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Vertex-Spring-Co-Op-2027--Biologics-MSAT_REQ-30504-1)",
+   "titles": [
+    {
+     "count": 35,
+     "median_salary": 272000,
+     "title": "SOLUTION ARCHITECT"
+    },
+    {
+     "count": 18,
+     "median_salary": 258000,
+     "title": "SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 13,
+     "median_salary": 93420,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 10,
+     "median_salary": 182500,
+     "title": "SENIOR SOFTWARE ASSOCIATE"
+    },
+    {
+     "count": 6,
+     "median_salary": 160189,
+     "title": "BUSINESS ENGAGEMENT &AMP; TECHNOLOGY PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 250000,
+     "title": "TECHINICAL LEAD TECH LEAD"
+    },
+    {
+     "count": 5,
+     "median_salary": 162633,
+     "title": "BUSINESS ENGAGEMENT &AMP; TECHNOLOGY SENIOR PRINCIPAL ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 130050,
+     "title": "SENIOR STATISTICAL PROGRAMMER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 150740,
+     "title": "BUSINESS ENGAGEMENT &AMP; TECHNOLOGY PRINCIPAL ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 113750,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 144925,
+     "title": "PRINCIPAL BIOSTATISTICIAN"
+    },
+    {
+     "count": 4,
+     "median_salary": 147129,
+     "title": "PROMPT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 105331,
+     "title": "ANALYTICAL DEVELOPMENT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 134971,
+     "title": "COMPUTATIONAL GENOMICS SENIOR RESEARCH SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 177341,
+     "title": "DATA ENGINEERING SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 168130,
+     "title": "HEALTH ECONOMICS &AMP; OUTCOMES RESEARCH ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 144000,
+     "title": "HEALTH ECONOMICS &AMP; OUTCOMES RESEARCH SENIOR MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 129251,
+     "title": "MEDICINAL CHEMISTRY SENIOR RESEARCH SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 146501,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 3,
+     "median_salary": 161803,
+     "title": "QUALITY ANALYTICS SENIOR MANAGER"
+    }
+   ]
+  },
+  "vertiv": {
+   "fetched_at": "2026-10-25T22:36:36Z",
+   "label": "Vertiv",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 109000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "DIRECTOR OF ORACLE ERP APPLICATIONS - AMERICAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "NPDI PROCUREMENT LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "PMO SUPERVISOR, GLOBAL RISK OVERSIGHT"
+    },
+    {
+     "count": 1,
+     "median_salary": 85509,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "PRODUCT MANAGER, DC POWER ENGINEERING- AMERICAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97573,
+     "title": "SOLUTIONS MECHANICAL ENGINEER LIQUID COOLING"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SR. NDPI ENGINEER - LIQUID COOLING"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SUPERVISOR, MECHANICAL ENGINEERING"
     }
    ]
   }
