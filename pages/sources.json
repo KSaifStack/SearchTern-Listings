@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:28:42.268402+00:00",
+  "generated_at": "2026-10-25T08:49:37.393733+00:00",
   "count": 48,
   "sources": [
     {
@@ -14,7 +14,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 1421
+      "count": 1100
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -22,13 +22,6 @@
       "type": "internship",
       "season": "2027",
       "count": 1059
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 894
     },
     {
       "name": "freehire.me",
@@ -43,6 +36,13 @@
       "type": "internship",
       "season": "2027",
       "count": 708
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 699
     },
     {
       "name": "speedyapply SWE New Grad USA",
@@ -63,7 +63,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 626
+      "count": 635
     },
     {
       "name": "Jobspy (Indeed)",
@@ -154,7 +154,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 186
+      "count": 183
     },
     {
       "name": "GodlyDonuts keryx New Grad",
@@ -182,7 +182,14 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 137
+      "count": 136
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io",
+      "type": "internship/tech",
+      "season": "",
+      "count": 65
     },
     {
       "name": "speedyapply SWE New Grad Intl",
@@ -231,7 +238,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3
+      "count": 4
     },
     {
       "name": "zapplyjobs Canada 2027",
@@ -329,13 +336,6 @@
       "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 0
-    },
-    {
-      "name": "EchoJobs",
-      "url": "https://echojobs.io",
-      "type": "internship/tech",
-      "season": "",
       "count": 0
     }
   ]

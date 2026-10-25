@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T05:38:12Z",
+ "built_at": "2026-10-25T08:51:30Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4065,6 +4065,112 @@
     }
    ]
   },
+  "costar": {
+   "fetched_at": "2026-10-25T08:51:10Z",
+   "label": "CoStar Group",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 168300,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 180000,
+     "title": "SENIOR DEVOPS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 137020,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 214141,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 172536,
+     "title": "SENIOR MOBILE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100180,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 190688,
+     "title": "LEAD DATABASE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 116480,
+     "title": "SENIOR DATA OPERATIONS SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 147700,
+     "title": "SENIOR FUNCTIONAL ORACLE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "SENIOR WORKDAY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 154930,
+     "title": "TECHNICAL LEAD DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113500,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "DATABASE ADMINISTRATOR I"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "MOBILE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 128500,
+     "title": "SENIOR AUTOMATION AND RELEASE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 176752,
+     "title": "SENIOR DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 106080,
+     "title": "SENIOR FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "SENIOR TECHNICAL ERP ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 223709,
+     "title": "SENIOR TECHNICAL MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 133900,
+     "title": "SOFTWARE ENGINEER II"
+    }
+   ]
+  },
   "cox": {
    "fetched_at": "2026-10-25T04:07:11Z",
    "label": "Cox",
@@ -4574,6 +4680,325 @@
   "enapply danone": {
    "fetched_at": "2026-10-25T05:38:12Z",
    "label": "enapply-danone",
+   "titles": []
+  },
+  "enfra": {
+   "fetched_at": "2026-10-25T08:51:11Z",
+   "label": "enfra",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 73923,
+     "title": "FINANCIAL ANALYST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 90750,
+     "title": "PROJECT MANAGER I - DESIGN"
+    }
+   ]
+  },
+  "eofh": {
+   "fetched_at": "2026-10-25T08:51:12Z",
+   "label": "Eofh",
+   "titles": []
+  },
+  "epix": {
+   "fetched_at": "2026-10-25T08:51:13Z",
+   "label": "Epix",
+   "titles": []
+  },
+  "eqbank": {
+   "fetched_at": "2026-10-25T08:51:14Z",
+   "label": "eqbank",
+   "titles": []
+  },
+  "eqtcorporation": {
+   "fetched_at": "2026-10-25T08:51:15Z",
+   "label": "eqtcorporation",
+   "titles": []
+  },
+  "ericsson": {
+   "fetched_at": "2026-10-25T08:51:15Z",
+   "label": "Ericsson",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 154710,
+     "title": "SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 6,
+     "median_salary": 113714,
+     "title": "ENGINEER - SVCS SFTWR"
+    },
+    {
+     "count": 4,
+     "median_salary": 118400,
+     "title": "DEVELOPER BASEBAND SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 108595,
+     "title": "ENGINEER - SVCS RF"
+    },
+    {
+     "count": 4,
+     "median_salary": 126547,
+     "title": "ENGINEER SERVICES RF"
+    },
+    {
+     "count": 3,
+     "median_salary": 111948,
+     "title": "BUSINESS ANALYTICS SPECIALIST DATA ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 132000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 131963,
+     "title": "DEVELOPER ASIC DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 134181,
+     "title": "MS DELIVERY MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 115200,
+     "title": "RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 124939,
+     "title": "APPLICATIONS DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 183113,
+     "title": "DATA SCIENTIST SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 116800,
+     "title": "DEVELOPER ASIC SOC VERIFICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 126881,
+     "title": "DEVELOPER CAD ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 167918,
+     "title": "DEVELOPER CLOUD DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 127800,
+     "title": "DEVELOPER SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 151000,
+     "title": "DEVELOPER SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140600,
+     "title": "E2E SERVICE EXPERT"
+    },
+    {
+     "count": 2,
+     "median_salary": 111852,
+     "title": "ENGINEER - SERVICES RF"
+    },
+    {
+     "count": 2,
+     "median_salary": 109658,
+     "title": "ENGINEER IV INTEGRATION ENGINEER"
+    }
+   ]
+  },
+  "espn": {
+   "fetched_at": "2026-10-25T08:51:16Z",
+   "label": "ESPN",
+   "titles": []
+  },
+  "eurofins": {
+   "fetched_at": "2026-10-25T08:51:17Z",
+   "label": "eurofins",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 40000,
+     "title": "BIOCHEMIST I"
+    },
+    {
+     "count": 4,
+     "median_salary": 50177,
+     "title": "CELL CULTURE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 50000,
+     "title": "SCIENTIST II"
+    },
+    {
+     "count": 3,
+     "median_salary": 54517,
+     "title": "ANALYTICAL SCIENTIST - SCIENTIST II"
+    },
+    {
+     "count": 3,
+     "median_salary": 60000,
+     "title": "ANALYTICAL SEPARATIONS SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 60000,
+     "title": "MOLECULAR TECHNOLOGIST LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 52395,
+     "title": "QUALITY ASSURANCE SPECIALIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 80000,
+     "title": "QUALITY CONTROL SCIENTIST GROUP LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 55300,
+     "title": "SCIENTIST II ANALYTICAL"
+    },
+    {
+     "count": 3,
+     "median_salary": 109658,
+     "title": "SCIENTIST, SIMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 77170,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 49620,
+     "title": "BIOCHEMIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 50000,
+     "title": "BIOPHYSICAL ANALYTICAL SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "BUSINESS UNIT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 60000,
+     "title": "DATA ANALYST LABORATORY OPERATIONS SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 61750,
+     "title": "DOWNSTREAM PROCESS DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 69500,
+     "title": "GRA PRINCIPAL SCIENTIST GROUP LEADER"
+    },
+    {
+     "count": 2,
+     "median_salary": 75000,
+     "title": "IT BUSINESS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 82620,
+     "title": "MATERIALS ANALYST, DUAL BEAM"
+    },
+    {
+     "count": 2,
+     "median_salary": 92164,
+     "title": "PRODUCT SAFETY ENGINEER"
+    }
+   ]
+  },
+  "externalhourly highgate": {
+   "fetched_at": "2026-10-25T08:51:18Z",
+   "label": "externalhourly-highgate",
+   "titles": []
+  },
+  "fa elxu saasfaprod1 cx 1001": {
+   "fetched_at": "2026-10-25T08:51:20Z",
+   "label": "Fa Elxu Saasfaprod1 (CX_1001)",
+   "titles": []
+  },
+  "fa esfc saasfaprod1": {
+   "fetched_at": "2026-10-25T08:51:21Z",
+   "label": "Fa Esfc Saasfaprod1",
+   "titles": []
+  },
+  "fa espx saasfaprod1": {
+   "fetched_at": "2026-10-25T08:51:22Z",
+   "label": "Fa Espx Saasfaprod1",
+   "titles": []
+  },
+  "fa euyk saasfaprod1": {
+   "fetched_at": "2026-10-25T08:51:24Z",
+   "label": "Fa Euyk Saasfaprod1",
+   "titles": []
+  },
+  "fa ewqq saasfaprod1": {
+   "fetched_at": "2026-10-25T08:51:25Z",
+   "label": "Fa Ewqq Saasfaprod1",
+   "titles": []
+  },
+  "fa exvu saasfaprod1 cx 1": {
+   "fetched_at": "2026-10-25T08:51:26Z",
+   "label": "Fa Exvu Saasfaprod1 (CX_1)",
+   "titles": []
+  },
+  "fehrandpeers": {
+   "fetched_at": "2026-10-25T08:51:27Z",
+   "label": "fehrandpeers",
+   "titles": []
+  },
+  "flyzipline": {
+   "fetched_at": "2026-10-25T08:51:28Z",
+   "label": "flyzipline",
+   "titles": []
+  },
+  "follett": {
+   "fetched_at": "2026-10-25T08:51:29Z",
+   "label": "follett",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 153613,
+     "title": "SENIOR MANAGER, TECHNOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 102898,
+     "title": "SOFTWARE DEVELOPER"
+    }
+   ]
+  },
+  "gannettfleming": {
+   "fetched_at": "2026-10-25T08:51:30Z",
+   "label": "gannettfleming",
    "titles": []
   }
  }
