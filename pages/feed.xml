@@ -5,8 +5,15 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:07:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Data Analyst- School of Medicine - BMI at Emory University</title>
+      <link>https://staff-emory.icims.com/jobs/175153/data-analyst--school-of-medicine%2c-bmi/job</link>
+      <guid isPermaLink="true">https://staff-emory.icims.com/jobs/175153/data-analyst--school-of-medicine%2c-bmi/job</guid>
+      <pubDate>Sun, 25 Oct 2026 17:58:06 +0000</pubDate>
+      <description>Atlanta, GA | Data/ML/AI | new_grad</description>
+    </item>
     <item>
       <title>Test Engineering Intern Spring 2027 at Rocket Lab</title>
       <link>https://job-boards.greenhouse.io/rocketlab/jobs/8003533003</link>
@@ -1399,13 +1406,6 @@
       <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Accounting_R2600439</guid>
       <pubDate>Sun, 25 Oct 2026 16:03:51 +0000</pubDate>
       <description>Chicago | Accounting | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Enterprise Risk Management at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Enterprise-Risk-Management_R2600437</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Enterprise-Risk-Management_R2600437</guid>
-      <pubDate>Sun, 25 Oct 2026 16:03:51 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
     </item>
   </channel>
 </rss>
