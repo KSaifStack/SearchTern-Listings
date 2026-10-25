@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T18:57:18Z",
+ "built_at": "2026-10-25T19:01:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -1120,7 +1120,7 @@
    ]
   },
   "american bankers association https aba wd1 myworkdayjobs com aba job us dc main office intern banking policy and economic research r625": {
-   "fetched_at": "2026-10-25T18:57:02Z",
+   "fetched_at": "2026-10-25T19:01:27Z",
    "label": "[American Bankers Association](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625)",
    "titles": [
     {
@@ -2343,7 +2343,7 @@
    ]
   },
   "arch capital": {
-   "fetched_at": "2026-10-25T18:57:02Z",
+   "fetched_at": "2026-10-25T19:01:28Z",
    "label": "Arch Capital Group",
    "titles": [
     {
@@ -5256,7 +5256,7 @@
    ]
   },
   "ciena https ciena wd5 myworkdayjobs com careers job new york thw client co op january 2026 r031672": {
-   "fetched_at": "2026-10-25T18:57:03Z",
+   "fetched_at": "2026-10-25T19:01:29Z",
    "label": "[Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672)",
    "titles": [
     {
@@ -5468,7 +5468,7 @@
    ]
   },
   "cityofnewyork": {
-   "fetched_at": "2026-10-25T18:57:04Z",
+   "fetched_at": "2026-10-25T19:01:30Z",
    "label": "CityOfNewYork",
    "titles": []
   },
@@ -5782,7 +5782,7 @@
    ]
   },
   "colorado mesa university": {
-   "fetched_at": "2026-10-25T18:57:05Z",
+   "fetched_at": "2026-10-25T19:01:31Z",
    "label": "Colorado Mesa University",
    "titles": [
     {
@@ -7688,7 +7688,7 @@
    ]
   },
   "flagship pioneering https job boards greenhouse io fspco op012325 jobs 8783960002": {
-   "fetched_at": "2026-10-25T18:57:06Z",
+   "fetched_at": "2026-10-25T19:01:32Z",
    "label": "[Flagship Pioneering](https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002)",
    "titles": [
     {
@@ -8726,7 +8726,7 @@
    ]
   },
   "graco": {
-   "fetched_at": "2026-10-25T18:57:07Z",
+   "fetched_at": "2026-10-25T19:01:33Z",
    "label": "Graco",
    "titles": [
     {
@@ -8888,7 +8888,7 @@
    ]
   },
   "guardian life https guardianlife wd5 myworkdayjobs com guardian life careers job new york xmlname 2027 guardian summer intern digital technology data engineering r000110202": {
-   "fetched_at": "2026-10-25T18:57:08Z",
+   "fetched_at": "2026-10-25T19:01:34Z",
    "label": "[Guardian Life](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202)",
    "titles": [
     {
@@ -9221,7 +9221,7 @@
    "titles": []
   },
   "hermeus https jobs lever co hermeus 445db430 6f81 41cf 847a 56a947afb936 apply": {
-   "fetched_at": "2026-10-25T18:57:09Z",
+   "fetched_at": "2026-10-25T19:01:36Z",
    "label": "[Hermeus](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply)",
    "titles": []
   },
@@ -12382,7 +12382,7 @@
    ]
   },
   "national information solutions cooperative": {
-   "fetched_at": "2026-10-25T18:57:10Z",
+   "fetched_at": "2026-10-25T19:01:37Z",
    "label": "National Information Solutions Cooperative",
    "titles": [
     {
@@ -12797,7 +12797,7 @@
    "titles": []
   },
   "nelnet": {
-   "fetched_at": "2026-10-25T18:57:10Z",
+   "fetched_at": "2026-10-25T19:01:37Z",
    "label": "Nelnet",
    "titles": [
     {
@@ -13485,8 +13485,84 @@
     }
    ]
   },
+  "palantir technologies": {
+   "fetched_at": "2026-10-25T19:01:38Z",
+   "label": "Palantir Technologies",
+   "titles": [
+    {
+     "count": 37,
+     "median_salary": 143000,
+     "title": "DEPLOYMENT STRATEGIST"
+    },
+    {
+     "count": 37,
+     "median_salary": 155000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 153000,
+     "title": "FORWARD DEPLOYED ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 135000,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 230000,
+     "title": "MACHINE LEARNING RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "FORWARD DEPLOYED AI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "FP&AMP;A ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 220000,
+     "title": "FRONTEND SOFTWARE ENGINEER - IDENTITY AND ACCESS MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 240000,
+     "title": "HEAD OF FINANCIAL AUDIT"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "INTERNATIONAL ACCOUNTING &AMP; REPORTING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "P CL ENGINEER - DELTA"
+    },
+    {
+     "count": 1,
+     "median_salary": 107987,
+     "title": "PRODUCT RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 136000,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    }
+   ]
+  },
   "pella windows doors": {
-   "fetched_at": "2026-10-25T18:57:11Z",
+   "fetched_at": "2026-10-25T19:01:39Z",
    "label": "Pella Windows & Doors",
    "titles": [
     {
@@ -13577,8 +13653,8 @@
    ]
   },
   "peraton": {
-   "fetched_at": "2026-10-25T18:57:12Z",
-   "label": "Peraton",
+   "fetched_at": "2026-10-25T19:01:40Z",
+   "label": "peraton",
    "titles": [
     {
      "count": 1,
@@ -14022,7 +14098,7 @@
    ]
   },
   "quanta": {
-   "fetched_at": "2026-10-25T18:57:13Z",
+   "fetched_at": "2026-10-25T19:01:41Z",
    "label": "quanta",
    "titles": [
     {
@@ -14124,6 +14200,112 @@
      "count": 2,
      "median_salary": 108012,
      "title": "TRANSMISSION PLANNING ENGINEER"
+    }
+   ]
+  },
+  "red hat": {
+   "fetched_at": "2026-10-25T19:01:42Z",
+   "label": "Red Hat",
+   "titles": [
+    {
+     "count": 21,
+     "median_salary": 153868,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 109262,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 191873,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 93233,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 131000,
+     "title": "SENIOR SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 91650,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 162400,
+     "title": "PRINCIPAL PRODUCT MANAGER - TECHNICAL"
+    },
+    {
+     "count": 3,
+     "median_salary": 126469,
+     "title": "SENIOR PROGRAM MANAGER - TECHNICAL"
+    },
+    {
+     "count": 3,
+     "median_salary": 109262,
+     "title": "SENIOR SOFTWARE APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 136055,
+     "title": "APPLICATION PLATFORM SPECIALIST SOLUTION ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 186882,
+     "title": "PRINCIPAL DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 222500,
+     "title": "PRINCIPAL PRODUCT MANAGER - OPENSHIFT"
+    },
+    {
+     "count": 2,
+     "median_salary": 203500,
+     "title": "PRINCIPAL SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102200,
+     "title": "SENIOR BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 136888,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 272738,
+     "title": "SENIOR PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150402,
+     "title": "SENIOR PRODUCT MANAGER - TECHNICAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 126618,
+     "title": "SENIOR SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104250,
+     "title": "SOFTWARE ENGINEER - MACHINE LEARNING OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 109500,
+     "title": "SOFTWARE QUALITY ENGINEER"
     }
    ]
   },
@@ -14260,7 +14442,7 @@
    ]
   },
   "rivian and volkswagen group technologies": {
-   "fetched_at": "2026-10-25T18:57:14Z",
+   "fetched_at": "2026-10-25T19:01:43Z",
    "label": "Rivian and Volkswagen Group Technologies",
    "titles": [
     {
@@ -14366,7 +14548,7 @@
    ]
   },
   "rivianvw tech": {
-   "fetched_at": "2026-10-25T18:57:15Z",
+   "fetched_at": "2026-10-25T19:01:44Z",
    "label": "rivianvw.tech",
    "titles": []
   },
@@ -14503,12 +14685,12 @@
    ]
   },
   "rocketlab": {
-   "fetched_at": "2026-10-25T18:57:16Z",
+   "fetched_at": "2026-10-25T19:01:45Z",
    "label": "rocketlab",
    "titles": []
   },
   "rockwell automation": {
-   "fetched_at": "2026-10-25T18:57:16Z",
+   "fetched_at": "2026-10-25T19:01:46Z",
    "label": "Rockwell Automation",
    "titles": [
     {
@@ -14610,48 +14792,6 @@
      "count": 1,
      "median_salary": 127308,
      "title": "PRODUCT MANAGER"
-    }
-   ]
-  },
-  "rovisys": {
-   "fetched_at": "2026-10-25T18:57:17Z",
-   "label": "rovisys",
-   "titles": [
-    {
-     "count": 1,
-     "median_salary": 79560,
-     "title": "SYSTEMS ENGINEER 1 INDUSTRIAL ENGINEERING"
-    },
-    {
-     "count": 1,
-     "median_salary": 78000,
-     "title": "SYSTEMS ENGINEER 1 MECHATRONICS ENGINEERING"
-    },
-    {
-     "count": 1,
-     "median_salary": 86769,
-     "title": "SYSTEMS ENGINEER 1 SOFTWARE ENGINEERING"
-    }
-   ]
-  },
-  "rovisys building technologies": {
-   "fetched_at": "2026-10-25T18:57:18Z",
-   "label": "RoviSys Building Technologies",
-   "titles": [
-    {
-     "count": 1,
-     "median_salary": 79560,
-     "title": "SYSTEMS ENGINEER 1 INDUSTRIAL ENGINEERING"
-    },
-    {
-     "count": 1,
-     "median_salary": 78000,
-     "title": "SYSTEMS ENGINEER 1 MECHATRONICS ENGINEERING"
-    },
-    {
-     "count": 1,
-     "median_salary": 86769,
-     "title": "SYSTEMS ENGINEER 1 SOFTWARE ENGINEERING"
     }
    ]
   }
