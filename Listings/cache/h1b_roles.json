@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T22:05:06Z",
+ "built_at": "2026-10-26T23:46:15Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15316,6 +15316,11 @@
      "title": "ASSISTANT ENGINEER"
     }
    ]
+  },
+  "onsemi": {
+   "fetched_at": "2026-10-26T23:46:15Z",
+   "label": "onsemi",
+   "titles": []
   },
   "oshkosh": {
    "fetched_at": "2026-10-25T18:39:20Z",
