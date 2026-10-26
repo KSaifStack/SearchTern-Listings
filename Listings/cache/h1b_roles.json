@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T11:48:37Z",
+ "built_at": "2026-10-26T15:03:53Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4813,6 +4813,17 @@
     }
    ]
   },
+  "careers gehealthcare com": {
+   "fetched_at": "2026-10-26T15:03:47Z",
+   "label": "careers.gehealthcare.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "careers hpe com": {
    "fetched_at": "2026-10-25T02:20:18Z",
    "label": "careers.hpe.com",
@@ -7637,6 +7648,82 @@
     }
    ]
   },
+  "emma sleep": {
+   "fetched_at": "2026-10-26T15:03:48Z",
+   "label": "emma-sleep",
+   "titles": [
+    {
+     "count": 8,
+     "median_salary": 112923,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 62450,
+     "title": "INTERIOR DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 61320,
+     "title": "BIBLE THEOLOGY FACULTY"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "CHIEF PRODUCT OFFICER"
+    },
+    {
+     "count": 2,
+     "median_salary": 75920,
+     "title": "LICENSED INDEPENDENT CLINICAL SOCIAL WORKER"
+    },
+    {
+     "count": 1,
+     "median_salary": 57000,
+     "title": "ASSISTANT PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 109845,
+     "title": "MS DYNAMICS DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80371,
+     "title": "ORACLE FUSION REPORTING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 91960,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 86611,
+     "title": "QA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92331,
+     "title": "SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 76045,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "VICE PRESIDENT FOR GLOBAL MARKETING"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "VICE PRESIDENT OF GLOBAL MARKETING"
+    }
+   ]
+  },
   "enapply danone": {
    "fetched_at": "2026-10-25T05:38:12Z",
    "label": "enapply-danone",
@@ -8198,6 +8285,11 @@
    "label": "Fa Espx Saasfaprod1",
    "titles": []
   },
+  "fa eups saasfaprod1": {
+   "fetched_at": "2026-10-26T15:03:49Z",
+   "label": "Fa Eups Saasfaprod1",
+   "titles": []
+  },
   "fa euyk saasfaprod1": {
    "fetched_at": "2026-10-25T08:51:24Z",
    "label": "Fa Euyk Saasfaprod1",
@@ -8708,6 +8800,27 @@
      "count": 2,
      "median_salary": 90000,
      "title": "COASTAL CIVIL ENGINEER"
+    }
+   ]
+  },
+  "framatome": {
+   "fetched_at": "2026-10-26T15:03:50Z",
+   "label": "framatome",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 92144,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 92144,
+     "title": "ENGINEER III FLUENCE &AMP; RADIOLOGICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92144,
+     "title": "THERMAL-MECHANICAL ENGINEER - ENGINEER II"
     }
    ]
   },
@@ -13296,6 +13409,11 @@
     }
    ]
   },
+  "militaryjobs mci": {
+   "fetched_at": "2026-10-26T15:03:51Z",
+   "label": "militaryjobs-mci",
+   "titles": []
+  },
   "mineralstech": {
    "fetched_at": "2026-10-25T14:47:27Z",
    "label": "mineralstech",
@@ -17218,6 +17336,57 @@
    "label": "simpsongumpertzheger",
    "titles": []
   },
+  "singlestore": {
+   "fetched_at": "2026-10-26T15:03:52Z",
+   "label": "SingleStore",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "BUSINESS APPLICATION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "DIRECTOR OF PRODUCT DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "LEAD VALUE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "SENIOR PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "SENIOR SOLUTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "STAFF PRODUCT MANAGER"
+    }
+   ]
+  },
   "skanska": {
    "fetched_at": "2026-10-25T20:25:10Z",
    "label": "skanska",
@@ -18836,6 +19005,112 @@
      "count": 1,
      "median_salary": 239000,
      "title": "STAFF CLOUD ENGINEER"
+    }
+   ]
+  },
+  "trimble": {
+   "fetched_at": "2026-10-26T15:03:53Z",
+   "label": "Trimble",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 116309,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 110753,
+     "title": "DIGITAL DESIGN CONSULTANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 104466,
+     "title": "RESIDENT CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 107350,
+     "title": "DEDICATED ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 93889,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 108150,
+     "title": "WORKDAY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 133300,
+     "title": "APPLIED FORENSIC EXPERT"
+    },
+    {
+     "count": 1,
+     "median_salary": 121304,
+     "title": "BI REPORT DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "COMPUTER VISION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "CONTROL SYSTEM ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "CONTROL SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 116000,
+     "title": "CORPORATE QUALITY PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 93000,
+     "title": "DEDICATED CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 79872,
+     "title": "GNSS CORRECTIONS SUPPORT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 154685,
+     "title": "HARDWARE DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 150734,
+     "title": "INFORMATION SYSTEMS APPLICATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 157243,
+     "title": "IOT ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 143443,
+     "title": "MANAGER - TECHNICAL SOLUTIONS DELIVERY"
+    },
+    {
+     "count": 1,
+     "median_salary": 133764,
+     "title": "MANAGER, FINANCE BUSINESS SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 115919,
+     "title": "MOBILE MAPPING PRODUCT MANAGER"
     }
    ]
   },
