@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T21:00:37Z",
+ "built_at": "2026-10-26T22:05:06Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5809,6 +5809,112 @@
      "count": 12,
      "median_salary": 139300,
      "title": "CUSTOMER DELIVERY ENGINEERING TECHNICAL LEADER"
+    }
+   ]
+  },
+  "citi": {
+   "fetched_at": "2026-10-26T22:05:06Z",
+   "label": "Citi",
+   "titles": [
+    {
+     "count": 158,
+     "median_salary": 155627,
+     "title": "APPLICATIONS DEVELOPMENT TECH LEAD ANALYST"
+    },
+    {
+     "count": 84,
+     "median_salary": 145642,
+     "title": "APPLICATIONS DEVELOPMENT SENIOR PROGRAMMER ANALYST"
+    },
+    {
+     "count": 59,
+     "median_salary": 158000,
+     "title": "APPLICATIONS DEVELOPMENT TECHNICAL LEAD ANALYST"
+    },
+    {
+     "count": 58,
+     "median_salary": 166600,
+     "title": "DIGITAL SOFTWARE ENGINEER LEAD ANALYST"
+    },
+    {
+     "count": 50,
+     "median_salary": 100400,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 40,
+     "median_salary": 164014,
+     "title": "APPLICATIONS DEVELOPMENT SENIOR MANAGER"
+    },
+    {
+     "count": 36,
+     "median_salary": 156260,
+     "title": "ENGINEERING LEAD ANALYST"
+    },
+    {
+     "count": 35,
+     "median_salary": 105300,
+     "title": "TECHNICAL SPECIALIST"
+    },
+    {
+     "count": 34,
+     "median_salary": 149950,
+     "title": "MODEL ANALYSIS VALIDATION OFFICER"
+    },
+    {
+     "count": 34,
+     "median_salary": 200000,
+     "title": "QUANTITATIVE ANALYST"
+    },
+    {
+     "count": 33,
+     "median_salary": 160000,
+     "title": "APPLICATIONS DEVELOPMENT TECHNOLOGY LEAD ANALYST"
+    },
+    {
+     "count": 30,
+     "median_salary": 155499,
+     "title": "IT BUSINESS LEAD ANALYST"
+    },
+    {
+     "count": 29,
+     "median_salary": 155000,
+     "title": "DATA ANALYTICS LEAD ANALYST"
+    },
+    {
+     "count": 26,
+     "median_salary": 115364,
+     "title": "MODEL ANALYSIS VALIDATION SENIOR ANALYST"
+    },
+    {
+     "count": 24,
+     "median_salary": 156352,
+     "title": "APPLICATIONS SUPPORT TECH LEAD ANALYST"
+    },
+    {
+     "count": 23,
+     "median_salary": 202812,
+     "title": "APPLICATIONS DEVELOPMENT GROUP MANAGER"
+    },
+    {
+     "count": 22,
+     "median_salary": 128612,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 151757,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 249954,
+     "title": "TRADER"
+    },
+    {
+     "count": 18,
+     "median_salary": 161550,
+     "title": "BUSINESS ANALYTICS LEAD ANALYST"
     }
    ]
   },
