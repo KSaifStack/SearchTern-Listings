@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T17:51:08Z",
+ "built_at": "2026-10-26T18:40:34Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -10102,6 +10102,112 @@
     }
    ]
   },
+  "guidehouse": {
+   "fetched_at": "2026-10-26T18:40:09Z",
+   "label": "Guidehouse",
+   "titles": [
+    {
+     "count": 13,
+     "median_salary": 124442,
+     "title": "SENIOR CONSULTANT"
+    },
+    {
+     "count": 9,
+     "median_salary": 131308,
+     "title": "MANAGING CONSULTANT"
+    },
+    {
+     "count": 4,
+     "median_salary": 98128,
+     "title": "TECHNICAL SENIOR ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 138037,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 93701,
+     "title": "JAVA SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 65000,
+     "title": "RESEARCH ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 94900,
+     "title": "SUSTAINABILITY SENIOR CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 155532,
+     "title": "TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 75800,
+     "title": "AI INTERDISCIPLINARY SCIENTIFIC RESEARCH DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 147469,
+     "title": "APPLICATION SECURITY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 162560,
+     "title": "ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 107000,
+     "title": "AWS HCL TERRAFORM DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 76220,
+     "title": "BIOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 90125,
+     "title": "BIOMEDICAL INFORMATICS DATA SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80800,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 107000,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "CONSULTANT II"
+    },
+    {
+     "count": 1,
+     "median_salary": 98374,
+     "title": "DEVOPS ADOPTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 131560,
+     "title": "DEVOPS SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 196936,
+     "title": "DIRECTOR BUSINESS INTELLIGENCE"
+    }
+   ]
+  },
   "hcrb": {
    "fetched_at": "2026-10-25T10:28:12Z",
    "label": "Hcrb",
@@ -10430,9 +10536,136 @@
     }
    ]
   },
+  "highmark health": {
+   "fetched_at": "2026-10-26T18:40:09Z",
+   "label": "Highmark Health",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 142592,
+     "title": "SENIOR IDENTITY ACCESS MANAGEMENT SECURITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 152639,
+     "title": "PROGRAM DELIVERY LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 134188,
+     "title": "APPLICATION DEVELOPMENT CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 91638,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 118832,
+     "title": "SENIOR APPLICATION DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 143621,
+     "title": "SENIOR DIGITAL PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145818,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104925,
+     "title": "BIG DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87908,
+     "title": "CLIENT PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132472,
+     "title": "DATA ARCHITECT \u201c ANALYTICS &AMP; BIG DATA"
+    },
+    {
+     "count": 1,
+     "median_salary": 221091,
+     "title": "DIRECTOR, ANALYTIC ENABLEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 141000,
+     "title": "HEALTH PLAN CATEGORY PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128253,
+     "title": "IDENTITY ACCESS MANAGEMENT SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127200,
+     "title": "IDENTITY ACCESS MANAGEMENT SECURITY PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87908,
+     "title": "IT PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 171159,
+     "title": "LEAD ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 113516,
+     "title": "LEAD BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115253,
+     "title": "LEAD DECISION SUPPORT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 120429,
+     "title": "MANAGER, BUDGET AND ANALYSIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "MANAGER, PRODUCT AND TECHNOLOGY SOLUTIONS"
+    }
+   ]
+  },
   "hilb": {
    "fetched_at": "2026-10-26T04:10:25Z",
    "label": "Hilb Group",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 60000,
+     "title": "MARRIAGE &AMP; FAMILY THERAPIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "BUSINESS DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "PERFORMANCE MARKETING MANAGER"
+    }
+   ]
+  },
+  "hilb group https hilbgroup wd5 myworkdayjobs com hg careers job hunt valley md benefits analytics intern jr100866": {
+   "fetched_at": "2026-10-26T18:40:11Z",
+   "label": "[Hilb Group](https://hilbgroup.wd5.myworkdayjobs.com/HG-Careers/job/Hunt-Valley-MD/Benefits-Analytics-Intern_JR100866)",
    "titles": [
     {
      "count": 3,
@@ -11879,6 +12112,11 @@
   "kla https kla wd1 myworkdayjobs com ur job milpitas ca algorithm engineering intern ai computer vision software engineering 2641392 1": {
    "fetched_at": "2026-10-26T04:10:26Z",
    "label": "[KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1)",
+   "titles": []
+  },
+  "kla https kla wd1 myworkdayjobs com ur job milpitas ca software engineering intern c unix 2641325": {
+   "fetched_at": "2026-10-26T18:40:12Z",
+   "label": "[KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325)",
    "titles": []
   },
   "kohl s": {
@@ -16793,9 +17031,201 @@
    "label": "RTX",
    "titles": []
   },
+  "ryan": {
+   "fetched_at": "2026-10-26T18:40:13Z",
+   "label": "Ryan",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 93150,
+     "title": "CATASTROPHE RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 111450,
+     "title": "PRECONSTRUCTION MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 87090,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 96270,
+     "title": "SENIOR PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 54600,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 70300,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "BUSINESS INTELLIGENCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 87580,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "DATA ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "FAMILY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "INTERNIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "PROJECT MANAGER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "SENIOR ACTUARIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "SENIOR VDC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "VDC ENGINEER"
+    }
+   ]
+  },
   "ryan https ryan wd1 myworkdayjobs com ryancareers job plano summer 2027 intern software engineering r0020843 1": {
    "fetched_at": "2026-10-26T10:07:04Z",
    "label": "[Ryan](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 93150,
+     "title": "CATASTROPHE RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 111450,
+     "title": "PRECONSTRUCTION MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 87090,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 96270,
+     "title": "SENIOR PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 54600,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 70300,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "BUSINESS INTELLIGENCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 87580,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "DATA ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "FAMILY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "INTERNIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "PROJECT MANAGER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "SENIOR ACTUARIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "SENIOR VDC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "VDC ENGINEER"
+    }
+   ]
+  },
+  "ryan https ryan wd1 myworkdayjobs com students graduates job plano summer 2027 intern software development r0020822": {
+   "fetched_at": "2026-10-26T18:40:15Z",
+   "label": "[Ryan](https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822)",
    "titles": [
     {
      "count": 2,
@@ -16893,6 +17323,37 @@
    "fetched_at": "2026-10-25T20:24:57Z",
    "label": "S&C Minimal Career Site",
    "titles": []
+  },
+  "safelite": {
+   "fetched_at": "2026-10-26T18:40:16Z",
+   "label": "Safelite",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 170000,
+     "title": "MANAGER SOFTWARE ENGINEERING - SUPPLY CHAIN"
+    },
+    {
+     "count": 2,
+     "median_salary": 93631,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140026,
+     "title": "PLATFORM ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 93184,
+     "title": "QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 122000,
+     "title": "SR. SOFTWARE ENGINEER"
+    }
+   ]
   },
   "salesforce": {
    "fetched_at": "2026-10-25T20:24:58Z",
@@ -17275,6 +17736,112 @@
      "count": 1,
      "median_salary": 70484,
      "title": "STRATEGIC ACCOUNTING ANALYST"
+    }
+   ]
+  },
+  "sharkninja": {
+   "fetched_at": "2026-10-26T18:40:16Z",
+   "label": "SharkNinja",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 108091,
+     "title": "ASSOCIATE MARKET INSIGHTS &AMP; COMMUNICATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85000,
+     "title": "PRODUCT DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104782,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER TESTING II"
+    },
+    {
+     "count": 1,
+     "median_salary": 79684,
+     "title": "APPLICATION SUPPORT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "COMMERCIAL PRICING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "CONSUMER INSIGHTS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "DIRECTOR, INTEGRATED MARKETING COMMUNICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 113214,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "INDUSTRIAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 103211,
+     "title": "LEAD TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 152000,
+     "title": "NATIONAL ACCOUNT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "PRODUCT SAFETY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "PROGRAM COORDINATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 137597,
+     "title": "QUALITY ASSURANCE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 71488,
+     "title": "SENIOR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "SENIOR CONSUMER INSIGHTS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SENIOR FINANCIAL ANALYST"
     }
    ]
   },
@@ -17882,6 +18449,112 @@
     }
    ]
   },
+  "stand together https jobs lever co standtogether c87ec9fd f427 40d1 848d 13cea614dffa apply": {
+   "fetched_at": "2026-10-26T18:40:18Z",
+   "label": "[Stand Together](https://jobs.lever.co/standtogether/c87ec9fd-f427-40d1-848d-13cea614dffa/apply)",
+   "titles": [
+    {
+     "count": 16,
+     "median_salary": 84500,
+     "title": "SENIOR ASSOCIATE"
+    },
+    {
+     "count": 14,
+     "median_salary": 92000,
+     "title": "FUND CONTROLLER"
+    },
+    {
+     "count": 13,
+     "median_salary": 120000,
+     "title": "ENGAGEMENT MANAGER"
+    },
+    {
+     "count": 13,
+     "median_salary": 125427,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 153848,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 72000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 5,
+     "median_salary": 110739,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 80000,
+     "title": "ANALYTICS ADMINISTRATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 191333,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 146500,
+     "title": "CLIENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131600,
+     "title": "CREDIT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 153351,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 77667,
+     "title": "DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "DIRECTOR, FOREIGN POLICY"
+    },
+    {
+     "count": 2,
+     "median_salary": 123600,
+     "title": "ECONOMIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 178954,
+     "title": "LEAD, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 123660,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 206099,
+     "title": "SENIOR CREDIT MANAGER, CORPORATE RISK"
+    },
+    {
+     "count": 2,
+     "median_salary": 168439,
+     "title": "SOFTWARE ENGINEER IV"
+    }
+   ]
+  },
   "stand together https jobs lever co standtogether e4dd1d3c 79a0 435d 87b3 eac542b4c2b5 apply": {
    "fetched_at": "2026-10-26T10:07:05Z",
    "label": "[Stand Together](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply)",
@@ -18372,6 +19045,117 @@
     }
    ]
   },
+  "studsinc": {
+   "fetched_at": "2026-10-26T18:40:19Z",
+   "label": "studsinc",
+   "titles": []
+  },
+  "symbotic": {
+   "fetched_at": "2026-10-26T18:40:20Z",
+   "label": "Symbotic",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 175565,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 123000,
+     "title": "ADVANCED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 172747,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 99999,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132960,
+     "title": "ADVANCED ROBOTICS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 149614,
+     "title": "PRINCIPAL TEST AUTOMATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130582,
+     "title": "SENIOR QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 168205,
+     "title": "SENIOR ROBOTICS CONTROLS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 164641,
+     "title": "SENIOR ROBOTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 156998,
+     "title": "ADVANCED DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ADVANCED EMBEDDED CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "ADVANCED INDUSTRIAL CONTROLS SQA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 159823,
+     "title": "ADVANCED MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115920,
+     "title": "ADVANCED ROBOTICS TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "ADVANCED SYSTEM AUTOMATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "ANALYST, ECO ECR"
+    },
+    {
+     "count": 1,
+     "median_salary": 265000,
+     "title": "DIRECTOR, ROBOTIC SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 113214,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99999,
+     "title": "EMBEDDED CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 96000,
+     "title": "FIRMWARE ENGINEER"
+    }
+   ]
+  },
   "synapxe": {
    "fetched_at": "2026-10-25T22:12:17Z",
    "label": "Synapxe",
@@ -18380,6 +19164,11 @@
   "syngentagroup": {
    "fetched_at": "2026-10-25T22:12:18Z",
    "label": "SyngentaGroup",
+   "titles": []
+  },
+  "syska hennessy": {
+   "fetched_at": "2026-10-26T18:40:22Z",
+   "label": "Syska Hennessy Group",
    "titles": []
   },
   "tc energy": {
@@ -18531,6 +19320,112 @@
      "count": 1,
      "median_salary": 61600,
      "title": "WEB DEVELOPER"
+    }
+   ]
+  },
+  "tencent": {
+   "fetched_at": "2026-10-26T18:40:23Z",
+   "label": "Tencent",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 190000,
+     "title": "SENIOR RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85500,
+     "title": "ASSOCIATE ENVIRONMENT ARTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 193658,
+     "title": "SENIOR GRAPHICS RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 165570,
+     "title": "SR. OPERATION AND DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "BENEFITS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132888,
+     "title": "BRAND COMMERCIAL MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144000,
+     "title": "GAMEPLAY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98504,
+     "title": "GLOBAL RECRUITING ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "HUNYUAN AIGC ALGORITHM RESEARCHER WORLD MODEL FOUNDATION DI"
+    },
+    {
+     "count": 1,
+     "median_salary": 210080,
+     "title": "KA TECHNICAL ACCOUNT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "LEAD GAMEPLAY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "LEVEL DESIGNER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 199000,
+     "title": "MANAGER, NA TECHNOLOGY SERVICE TEAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "MEDIA SERVICES ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 146976,
+     "title": "OPERATION AND DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108000,
+     "title": "PAYROLL AND BENEFIT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 192636,
+     "title": "SENIOR ANIMATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "SENIOR CONCEPT ARTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 229372,
+     "title": "SENIOR ENTERPRISE APPS SOLUTION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 145284,
+     "title": "SENIOR GAME DESIGNER"
     }
    ]
   },
@@ -18857,6 +19752,11 @@
     }
    ]
   },
+  "the aerospace": {
+   "fetched_at": "2026-10-26T18:40:24Z",
+   "label": "The Aerospace Corporation",
+   "titles": []
+  },
   "the federal reserve system": {
    "fetched_at": "2026-10-25T22:12:23Z",
    "label": "The Federal Reserve System",
@@ -19152,6 +20052,112 @@
      "count": 1,
      "median_salary": 239000,
      "title": "STAFF CLOUD ENGINEER"
+    }
+   ]
+  },
+  "toyota": {
+   "fetched_at": "2026-10-26T18:40:25Z",
+   "label": "Toyota",
+   "titles": [
+    {
+     "count": 39,
+     "median_salary": 153809,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 186075,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 94020,
+     "title": "FIRMWARE ENGINEER II"
+    },
+    {
+     "count": 8,
+     "median_salary": 110416,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 120000,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 200000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 86466,
+     "title": "APPLICATIONS ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 140768,
+     "title": "AUTOMATED DRIVING SYSTEMS ADS SENIOR DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 94020,
+     "title": "AUTOMATION SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 133575,
+     "title": "DATA ENGINEER, SENIOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 187603,
+     "title": "GENERAL MANAGER INDUSTRIAL PRODUCTION MANAGERS"
+    },
+    {
+     "count": 3,
+     "median_salary": 141778,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 231276,
+     "title": "SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 220000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 73000,
+     "title": "DIGITAL QA ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 174200,
+     "title": "DOMAIN QUALITY LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 100950,
+     "title": "ELECTRICAL ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 107120,
+     "title": "ENGINEER - POWERTRAIN"
+    },
+    {
+     "count": 2,
+     "median_salary": 146486,
+     "title": "GLOBAL ANALYTICS SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 75930,
+     "title": "IT BUSINESS ANALYST"
     }
    ]
   },
@@ -19473,6 +20479,123 @@
     }
    ]
   },
+  "univera healthcare": {
+   "fetched_at": "2026-10-26T18:40:27Z",
+   "label": "Univera Healthcare",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 65866,
+     "title": "SENIOR MARKETING OPERATION ANALYST"
+    }
+   ]
+  },
+  "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job pickle research campus student technician r 00048194": {
+   "fetched_at": "2026-10-26T18:40:30Z",
+   "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194)",
+   "titles": [
+    {
+     "count": 1748,
+     "median_salary": 115000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 371,
+     "median_salary": 74425,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 214,
+     "median_salary": 62116,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 214,
+     "median_salary": 63000,
+     "title": "POSTDOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 190,
+     "median_salary": 84000,
+     "title": "ASSISTANT PROJECT SCIENTIST"
+    },
+    {
+     "count": 175,
+     "median_salary": 216000,
+     "title": "CLINICAL ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 164,
+     "median_salary": 63120,
+     "title": "POSTDOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 127,
+     "median_salary": 62652,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 126,
+     "median_salary": 68182,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 121,
+     "median_salary": 73368,
+     "title": "LECTURER"
+    },
+    {
+     "count": 117,
+     "median_salary": 68869,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 115,
+     "median_salary": 79706,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 110,
+     "median_salary": 139914,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 90,
+     "median_salary": 87620,
+     "title": "GLIDE TEAM REGISTERED NURSE 2 INPATIENT"
+    },
+    {
+     "count": 84,
+     "median_salary": 77030,
+     "title": "POSTDOCTORAL SCHOLAR EMPLOYEE"
+    },
+    {
+     "count": 77,
+     "median_salary": 68964,
+     "title": "INSTRUCTOR"
+    },
+    {
+     "count": 69,
+     "median_salary": 80700,
+     "title": "ASSOCIATE SPECIALIST"
+    },
+    {
+     "count": 67,
+     "median_salary": 88303,
+     "title": "ASSISTANT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 66,
+     "median_salary": 75727,
+     "title": "POSTDOCTORAL SCHOLAR-EMPLOYEE"
+    },
+    {
+     "count": 59,
+     "median_salary": 68141,
+     "title": "MEDICAL RESIDENT"
+    }
+   ]
+  },
   "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job ut main campus video and analytics intern baseball r 00047706": {
    "fetched_at": "2026-10-25T22:41:28Z",
    "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Video-and-Analytics-Intern--Baseball_R_00047706)",
@@ -19584,9 +20707,120 @@
    "label": "us-erac",
    "titles": []
   },
+  "valeo": {
+   "fetched_at": "2026-10-26T18:40:30Z",
+   "label": "Valeo",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 127500,
+     "title": "PRODUCT TECHNICAL LEADER"
+    },
+    {
+     "count": 3,
+     "median_salary": 132350,
+     "title": "SOFTWARE ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 119025,
+     "title": "SYSTEM ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 103409,
+     "title": "APU QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 178070,
+     "title": "DAR SOFTWARE ENGINEER III MACHINE LEARNING"
+    },
+    {
+     "count": 2,
+     "median_salary": 131581,
+     "title": "GROUP RESIDENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 105359,
+     "title": "PRODUCT TECHNICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145600,
+     "title": "R&AMP;D TEAM LEADER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140543,
+     "title": "SOFTWARE TEAM LEADER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135699,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 134500,
+     "title": "APPLICATION RESIDENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 77000,
+     "title": "ASSEMBLY CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88800,
+     "title": "ASSEMBLY PROCESS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 103663,
+     "title": "CAD SYSTEM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 195000,
+     "title": "CHIEF ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128750,
+     "title": "CYBERSECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114691,
+     "title": "CYBERSECURITY SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 169454,
+     "title": "DAR SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 133557,
+     "title": "ELECTRONIC DESIGN LEADER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138060,
+     "title": "FUNCTIONAL SAFETY ENGINEER"
+    }
+   ]
+  },
   "varda space": {
    "fetched_at": "2026-10-25T22:41:31Z",
    "label": "Varda Space",
+   "titles": []
+  },
+  "varda space industries": {
+   "fetched_at": "2026-10-26T18:40:32Z",
+   "label": "Varda Space Industries",
    "titles": []
   },
   "veeam software": {
@@ -19821,6 +21055,112 @@
   "visa": {
    "fetched_at": "2026-10-25T22:41:37Z",
    "label": "VISA",
+   "titles": [
+    {
+     "count": 117,
+     "median_salary": 141751,
+     "title": "STAFF SW ENGINEER"
+    },
+    {
+     "count": 66,
+     "median_salary": 159619,
+     "title": "SOFTWARE ENGINEER - SR. CONSULTANT LEVEL"
+    },
+    {
+     "count": 60,
+     "median_salary": 116955,
+     "title": "SR. SW ENGINEER"
+    },
+    {
+     "count": 51,
+     "median_salary": 176400,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 35,
+     "median_salary": 108826,
+     "title": "SR. SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 26,
+     "median_salary": 155709,
+     "title": "STAFF DATA ENGINEER"
+    },
+    {
+     "count": 23,
+     "median_salary": 134368,
+     "title": "STAFF SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 116500,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 21,
+     "median_salary": 98738,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 19,
+     "median_salary": 117021,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 155709,
+     "title": "SR. MANAGER"
+    },
+    {
+     "count": 18,
+     "median_salary": 150407,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 173100,
+     "title": "LEAD SW ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 200000,
+     "title": "SR. DIRECTOR"
+    },
+    {
+     "count": 16,
+     "median_salary": 169020,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 132300,
+     "title": "MANAGER"
+    },
+    {
+     "count": 14,
+     "median_salary": 142550,
+     "title": "SR. CYBERSECURITY ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 129400,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 96034,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 155764,
+     "title": "SR. DATA SCIENTIST"
+    }
+   ]
+  },
+  "visa https visa wd5 myworkdayjobs com visa early careers job us austin tx staff research scientist intern phd agentic ai ref088582w": {
+   "fetched_at": "2026-10-26T18:40:34Z",
+   "label": "[Visa](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Staff-Research-Scientist--Intern---PhD-Agentic-AI_REF088582W)",
    "titles": [
     {
      "count": 117,
