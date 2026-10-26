@@ -5,8 +5,15 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 00:59:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:21:05 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Vision System Engineer I at Hl Ga Battery Company</title>
+      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9200706937994_2&amp;cid=70bcd91d-e103-4245-a915-69080cc2b76c&amp;jobId=9201838777219_1&amp;lang=en_US</link>
+      <guid isPermaLink="true">https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=9200706937994_2&amp;cid=70bcd91d-e103-4245-a915-69080cc2b76c&amp;jobId=9201838777219_1&amp;lang=en_US</guid>
+      <pubDate>Mon, 26 Oct 2026 01:07:40 +0000</pubDate>
+      <description>Savannah, Ellabell, GA, States | Software Engineering | internship</description>
+    </item>
     <item>
       <title>Data Analyst- School of Medicine - BMI at Emory University</title>
       <link>https://staff-emory.icims.com/jobs/175153/data-analyst--school-of-medicine%2c-bmi/job</link>
@@ -48,6 +55,20 @@
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157682429</guid>
       <pubDate>Sun, 25 Oct 2026 23:50:48 +0000</pubDate>
       <description>Boise, ID | Operations/Supply | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer (Austin) at Aa270 Taleo Net Ex</title>
+      <link>https://aa270.taleo.net/careersection/ex/jobdetail.ftl?job=827245&amp;lang=en</link>
+      <guid isPermaLink="true">https://aa270.taleo.net/careersection/ex/jobdetail.ftl?job=827245&amp;lang=en</guid>
+      <pubDate>Sun, 25 Oct 2026 23:09:27 +0000</pubDate>
+      <description>United States-Texas-Austin | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 at Skydio</title>
+      <link>https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f</guid>
+      <pubDate>Sun, 25 Oct 2026 23:03:11 +0000</pubDate>
+      <description>San Mateo, California, United States | Data/ML/AI | internship</description>
     </item>
     <item>
       <title>University Recruiter at Mach Industries</title>
@@ -1385,27 +1406,6 @@
       <guid isPermaLink="true">https://www.careers-page.com/remoteonline/job/LRYW7X8X</guid>
       <pubDate>Sun, 25 Oct 2026 21:42:34 +0000</pubDate>
       <description>Cincinnati, Ohio, United States | Data/ML/AI | new_grad</description>
-    </item>
-    <item>
-      <title>JUNIOR Data Analyst at Job On Remote Online Usa</title>
-      <link>https://www.careers-page.com/remoteonline/job/QW395R7W</link>
-      <guid isPermaLink="true">https://www.careers-page.com/remoteonline/job/QW395R7W</guid>
-      <pubDate>Sun, 25 Oct 2026 21:42:33 +0000</pubDate>
-      <description>Philadelphia, Pennsylvania, United States | Data/ML/AI | new_grad</description>
-    </item>
-    <item>
-      <title>Entry-Level Data Scientist at Isalys Group</title>
-      <link>https://www.careers-page.com/isalys-group/job/L3VVX66W</link>
-      <guid isPermaLink="true">https://www.careers-page.com/isalys-group/job/L3VVX66W</guid>
-      <pubDate>Sun, 25 Oct 2026 21:40:27 +0000</pubDate>
-      <description>Memphis, Tennessee, United States | Data/ML/AI | new_grad</description>
-    </item>
-    <item>
-      <title>Entry-level Cybersecurity Associate - BUiLT at Nukudo</title>
-      <link>https://www.careers-page.com/nukudo/job/V66376V8</link>
-      <guid isPermaLink="true">https://www.careers-page.com/nukudo/job/V66376V8</guid>
-      <pubDate>Sun, 25 Oct 2026 21:35:34 +0000</pubDate>
-      <description>Dallas, Texas, United States | Cybersecurity | new_grad</description>
     </item>
   </channel>
 </rss>
