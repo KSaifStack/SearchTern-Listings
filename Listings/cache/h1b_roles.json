@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T04:10:42Z",
+ "built_at": "2026-10-26T10:07:06Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4365,6 +4365,112 @@
     }
    ]
   },
+  "bristol myers squibb": {
+   "fetched_at": "2026-10-26T10:06:58Z",
+   "label": "Bristol Myers Squibb",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 136262,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 16,
+     "median_salary": 160726,
+     "title": "SENIOR MANAGER, BIOSTATISTICS"
+    },
+    {
+     "count": 7,
+     "median_salary": 148526,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 155952,
+     "title": "SENIOR MANAGER, STATISTICAL PROGRAMMING"
+    },
+    {
+     "count": 6,
+     "median_salary": 139121,
+     "title": "MANAGER, STATISTICAL PROGRAMMING"
+    },
+    {
+     "count": 6,
+     "median_salary": 151326,
+     "title": "SENIOR MANAGER, CLINICAL DATA MANAGEMENT"
+    },
+    {
+     "count": 4,
+     "median_salary": 135394,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 187554,
+     "title": "ASSOCIATE DIRECTOR, PATIENT SAFETY SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 144282,
+     "title": "RESEARCH INVESTIGATOR, CLINICAL PHARMACOLOGY AND PHARMACOMET"
+    },
+    {
+     "count": 2,
+     "median_salary": 182212,
+     "title": "ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 182313,
+     "title": "ASSOCIATE DIRECTOR - US PREDICTIVE CUSTOMER ENGAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 228753,
+     "title": "ASSOCIATE SCIENTIFIC DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "DENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 242500,
+     "title": "INTERNAL MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 2,
+     "median_salary": 111395,
+     "title": "MANAGER, IT BUSINESS ANALYST, GLOBAL BIOMETRICS &AMP; DATA SCIEN"
+    },
+    {
+     "count": 2,
+     "median_salary": 120900,
+     "title": "SCIENTIST - BIOLOGICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 162500,
+     "title": "SENIOR MANAGER - STATISTICAL PROGRAMMING"
+    },
+    {
+     "count": 2,
+     "median_salary": 148034,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131703,
+     "title": "SENIOR SPECIALIST, VALIDATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155000,
+     "title": "SR. MANAGER, PRINCIPAL DATA ENGINEER"
+    }
+   ]
+  },
   "bytedance": {
    "fetched_at": "2026-10-25T00:48:35Z",
    "label": "ByteDance",
@@ -4479,6 +4585,11 @@
   "c h robinson https chrobinson wd5 myworkdayjobs com chrobinson job eden prairie mn united states of america security internship 2027 r49322": {
    "fetched_at": "2026-10-25T00:48:37Z",
    "label": "[C.H. Robinson](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322)",
+   "titles": []
+  },
+  "c h robinson https chrobinson wd5 myworkdayjobs com chrobinson job eden prairie mn united states of america software engineering internship 2027 r49323": {
+   "fetched_at": "2026-10-26T10:06:59Z",
+   "label": "[C.H. Robinson](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323)",
    "titles": []
   },
   "caci": {
@@ -4606,6 +4717,17 @@
   "careers abb": {
    "fetched_at": "2026-10-25T00:48:40Z",
    "label": "careers.abb",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers adobe com": {
+   "fetched_at": "2026-10-26T10:07:00Z",
+   "label": "careers.adobe.com",
    "titles": [
     {
      "count": 1,
@@ -6576,6 +6698,112 @@
      "count": 2,
      "median_salary": 218295,
      "title": "ENGINEERING MANAGER"
+    }
+   ]
+  },
+  "deloitte": {
+   "fetched_at": "2026-10-26T10:07:01Z",
+   "label": "Deloitte",
+   "titles": [
+    {
+     "count": 891,
+     "median_salary": 165547,
+     "title": "MANAGER"
+    },
+    {
+     "count": 713,
+     "median_salary": 125000,
+     "title": "SENIOR CONSULTANT"
+    },
+    {
+     "count": 491,
+     "median_salary": 125000,
+     "title": "PROJECT DELIVERY SPECIALIST"
+    },
+    {
+     "count": 436,
+     "median_salary": 126600,
+     "title": "SENIOR SOLUTION SPECIALIST"
+    },
+    {
+     "count": 373,
+     "median_salary": 180000,
+     "title": "SPECIALIST MASTER"
+    },
+    {
+     "count": 337,
+     "median_salary": 71136,
+     "title": "TAX CONSULTANT"
+    },
+    {
+     "count": 317,
+     "median_salary": 103100,
+     "title": "SOLUTION SPECIALIST"
+    },
+    {
+     "count": 301,
+     "median_salary": 94973,
+     "title": "TAX SENIOR"
+    },
+    {
+     "count": 299,
+     "median_salary": 213075,
+     "title": "SENIOR MANAGER"
+    },
+    {
+     "count": 188,
+     "median_salary": 91676,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 161,
+     "median_salary": 150000,
+     "title": "PROJECT DELIVERY MANAGER"
+    },
+    {
+     "count": 152,
+     "median_salary": 142000,
+     "title": "TAX MANAGER"
+    },
+    {
+     "count": 143,
+     "median_salary": 74000,
+     "title": "AUDIT &AMP; ASSURANCE ASSISTANT"
+    },
+    {
+     "count": 135,
+     "median_salary": 145900,
+     "title": "SOLUTION MANAGER"
+    },
+    {
+     "count": 129,
+     "median_salary": 145400,
+     "title": "SOLUTION ARCHITECT"
+    },
+    {
+     "count": 122,
+     "median_salary": 211100,
+     "title": "SPECIALIST LEADER"
+    },
+    {
+     "count": 121,
+     "median_salary": 160500,
+     "title": "SPECIALIST SENIOR"
+    },
+    {
+     "count": 119,
+     "median_salary": 85862,
+     "title": "AUDIT &AMP; ASSURANCE SENIOR"
+    },
+    {
+     "count": 112,
+     "median_salary": 128900,
+     "title": "AUDIT &AMP; ASSURANCE MANAGER"
+    },
+    {
+     "count": 111,
+     "median_salary": 84240,
+     "title": "AUDIT &AMP; ASSURANCE IN-CHARGE"
     }
    ]
   },
@@ -9750,6 +9978,16 @@
    "label": "Hcrb",
    "titles": []
   },
+  "hctz": {
+   "fetched_at": "2026-10-26T10:07:02Z",
+   "label": "Hctz",
+   "titles": []
+  },
+  "hdjm": {
+   "fetched_at": "2026-10-26T10:07:03Z",
+   "label": "Hdjm",
+   "titles": []
+  },
   "hdnn": {
    "fetched_at": "2026-10-25T10:28:13Z",
    "label": "Hdnn",
@@ -9858,6 +10096,92 @@
      "count": 1,
      "median_salary": 124630,
      "title": "SR. MANAGER FINANCE"
+    }
+   ]
+  },
+  "herm s": {
+   "fetched_at": "2026-10-26T10:07:04Z",
+   "label": "Herm\u00e8s",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 105008,
+     "title": "MICROSOFT DYNAMICS CONSULTANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 94931,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104114,
+     "title": "SALESFORCE CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 108047,
+     "title": "SALESFORCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 48000,
+     "title": "ADMINISTRATIVE ASSISTANT TO CEO"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "AXWAY B2BI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92914,
+     "title": "CAMPAIGN ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 93309,
+     "title": "COMPUTER NETWORK ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 109262,
+     "title": "DHSR IT ENTERPRISE .NET DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 40000,
+     "title": "GREENHOUSE HORTICULTURE TECHNICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 81162,
+     "title": "LINUX SYSTEM ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 120286,
+     "title": "SAP SECURITY AND GRC CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 99240,
+     "title": "SAP-BASIS CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 95493,
+     "title": "SOFTWARE .NET FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82306,
+     "title": "SOLUTION ARCHITECT"
     }
    ]
   },
@@ -16224,6 +16548,102 @@
    "label": "RTX",
    "titles": []
   },
+  "ryan https ryan wd1 myworkdayjobs com ryancareers job plano summer 2027 intern software engineering r0020843 1": {
+   "fetched_at": "2026-10-26T10:07:04Z",
+   "label": "[Ryan](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 93150,
+     "title": "CATASTROPHE RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 111450,
+     "title": "PRECONSTRUCTION MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 87090,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 96270,
+     "title": "SENIOR PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 54600,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 70300,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "BUSINESS INTELLIGENCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 87580,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "DATA ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "FAMILY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "INTERNIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 104000,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "PROJECT MANAGER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "SENIOR ACTUARIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "SENIOR VDC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "VDC ENGINEER"
+    }
+   ]
+  },
   "s c minimal career site": {
    "fetched_at": "2026-10-25T20:24:57Z",
    "label": "S&C Minimal Career Site",
@@ -17063,6 +17483,112 @@
   "stand together https jobs lever co standtogether 2d8f9d0f 9218 4936 8f39 dfb729db830b apply": {
    "fetched_at": "2026-10-26T04:10:39Z",
    "label": "[Stand Together](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply)",
+   "titles": [
+    {
+     "count": 16,
+     "median_salary": 84500,
+     "title": "SENIOR ASSOCIATE"
+    },
+    {
+     "count": 14,
+     "median_salary": 92000,
+     "title": "FUND CONTROLLER"
+    },
+    {
+     "count": 13,
+     "median_salary": 120000,
+     "title": "ENGAGEMENT MANAGER"
+    },
+    {
+     "count": 13,
+     "median_salary": 125427,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 153848,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 72000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 5,
+     "median_salary": 110739,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 80000,
+     "title": "ANALYTICS ADMINISTRATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 191333,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 146500,
+     "title": "CLIENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131600,
+     "title": "CREDIT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 153351,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 77667,
+     "title": "DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "DIRECTOR, FOREIGN POLICY"
+    },
+    {
+     "count": 2,
+     "median_salary": 123600,
+     "title": "ECONOMIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 178954,
+     "title": "LEAD, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 123660,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 206099,
+     "title": "SENIOR CREDIT MANAGER, CORPORATE RISK"
+    },
+    {
+     "count": 2,
+     "median_salary": 168439,
+     "title": "SOFTWARE ENGINEER IV"
+    }
+   ]
+  },
+  "stand together https jobs lever co standtogether e4dd1d3c 79a0 435d 87b3 eac542b4c2b5 apply": {
+   "fetched_at": "2026-10-26T10:07:05Z",
+   "label": "[Stand Together](https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply)",
    "titles": [
     {
      "count": 16,
@@ -19191,6 +19717,112 @@
    "fetched_at": "2026-10-25T23:03:10Z",
    "label": "www.careers.philips.com",
    "titles": []
+  },
+  "zebra technologies": {
+   "fetched_at": "2026-10-26T10:07:06Z",
+   "label": "Zebra Technologies",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 97757,
+     "title": "SOFTWARE ENGINEER.SENIOR"
+    },
+    {
+     "count": 9,
+     "median_salary": 125632,
+     "title": "SOFTWARE ENGINEER.ADVANCED"
+    },
+    {
+     "count": 4,
+     "median_salary": 149969,
+     "title": "MANAGER SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 152131,
+     "title": "SENIOR MANAGER SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 150280,
+     "title": "SOFTWARE ENGINEER.PRINCIPAL"
+    },
+    {
+     "count": 3,
+     "median_salary": 135000,
+     "title": "SYSTEMS ENGINEER ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 129022,
+     "title": "CLOUD ENGINEER ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 146442,
+     "title": "MANAGER DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 132434,
+     "title": "MANAGER, INFORMATION SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 164600,
+     "title": "PRODUCT MANAGER PRINCIPAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 134936,
+     "title": "ROBOTICS ENGINEER.ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 146151,
+     "title": "SENIOR MANAGER PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 150287,
+     "title": "SOFTWARE ENGINEER ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 137195,
+     "title": "SOFTWARE ENGINEER PRINCIPAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 106131,
+     "title": "SUPERVISOR SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 149781,
+     "title": "DATA ENGINEER.ADVANCED"
+    },
+    {
+     "count": 1,
+     "median_salary": 136739,
+     "title": "DATA PLATFORM ENGINEER.ADVANCED"
+    },
+    {
+     "count": 1,
+     "median_salary": 109133,
+     "title": "DATA SCIENTIST.SENIOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 94267,
+     "title": "DIGITAL CONTENT SPECIALIST, SENIOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 211529,
+     "title": "DIRECTOR ENGINEERING"
+    }
+   ]
   },
   "zekelman industries": {
    "fetched_at": "2026-10-26T00:59:02Z",

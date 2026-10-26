@@ -1,58 +1,178 @@
 [
   {
-    "company": "appian",
-    "role": "Information Security Engineer Intern",
-    "location": "McLean, Virginia",
-    "link": "https://job-boards.greenhouse.io/appian/jobs/8088496",
-    "source": "ats",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
-  },
-  {
-    "company": "Astronics Corporation",
+    "company": "Imc Trading",
     "role": "Software Engineer Intern - Summer 2027",
-    "location": "Kirkland, Washington, United States",
-    "link": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
+    "location": "Chicago, United States",
+    "link": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
     "source": "ats",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
   },
   {
-    "company": "Gilead Sciences",
-    "role": "Research Intern, Clinical Virology - AI",
-    "location": "Foster City, CA",
-    "link": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
-    "source": "ecr",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+    "company": "ad821003-1acc-4960-a85b-9945dae07487:19000101_000001",
+    "role": "IT Intern",
+    "location": "Tampa, FL, US",
+    "link": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&cid=ad821003-1acc-4960-a85b-9945dae07487&jobId=9201252511839_1&lang=en_US&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
   },
   {
-    "company": "Workday",
-    "role": "Cybersecurity Engineer Intern",
-    "location": "Pleasanton, CA, States",
-    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
-    "source": "ecr",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+    "company": "Astrion",
+    "role": "Software Developer - Junior",
+    "location": "Eglin AFB",
+    "link": "https://astrion.jibeapply.com/careers-home/jobs/24705?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "donuts",
+    "role": "Software Engineer I  (entry level)",
+    "location": "Bellevue, WA",
+    "link": "https://donuts.hrmdirect.com/employment/job-opening.php?req=3841064&req_loc=1512346&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "DoorDash USA",
+    "role": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+    "location": "Seattle, United States",
+    "link": "https://startup.jobs/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us-doordash-usa-9907482?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "identitydigital",
+    "role": "Software Engineer I  (entry level)",
+    "location": "Bellevue, WA",
+    "link": "https://identitydigital.hrmdirect.com/employment/job-opening.php?req=3841064&req_loc=1512346&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Data Science Engineer – System.AI",
+    "location": "United States-Massachusetts-Andover",
+    "link": "https://se.jibeapply.com/careers-home/jobs/136957?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Security Systems Design Intern",
+    "location": "United States-New Jersey-Lyndhurst",
+    "link": "https://se.jibeapply.com/careers-home/jobs/132771?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Spring 2027 Electronics Hardware Engineer Co-Op",
+    "location": "United States-Iowa-Cedar Rapids",
+    "link": "https://se.jibeapply.com/careers-home/jobs/134457?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Spring 2027 Energy + Software Solutions Engineer Co-Op",
+    "location": "United States-Massachusetts-Andover",
+    "link": "https://se.jibeapply.com/careers-home/jobs/134140?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Summer 2027 Electronics Hardware Engineer Co-Op",
+    "location": "United States-Iowa-Cedar Rapids",
+    "link": "https://se.jibeapply.com/careers-home/jobs/136319?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Boeing",
+    "role": "Entry Level or Associate Aerospace Safety Engineer",
+    "location": "USA - Mesa, AZ",
+    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026523589?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "role": "University, 2027 Summer Games Cyber Security Intern - Rome, NY",
+    "location": "Rome, NY",
+    "link": "https://zapply.jobs/l/d/workday-bah-bah-jobs-R0248142?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "ByteDance",
+    "role": "Software Engineer Intern (AI Platform) - 2027 Summer",
+    "location": "San Jose, CA, USA",
+    "link": "https://www.linkedin.com/jobs/view/4475515424",
+    "source": "jobspy",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Cisco",
+    "role": "Executive Assistant, VP, CX Product Management (Hybrid)",
+    "location": "Seattle Washington US",
+    "link": "https://zapply.jobs/l/d/workday-cisco-cisco-careers-2026300?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Cisco",
+    "role": "Executive Assistant, VP, CX Product Management (Hybrid)",
+    "location": "Seattle, Washington",
+    "link": "https://zapply.jobs/l/d/phenom-cisco-2026300?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Freedom Technology Solutions Group",
+    "role": "Junior Software Engineer 780",
+    "location": "Annapolis Junction, MD",
+    "link": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5248064007",
+    "source": "ApplyGuy New Grad",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
   },
   {
     "company": "Hewlett Packard Enterprise",
     "role": "AI/ML Developer Intern",
-    "location": "San Jose, California",
-    "link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
-    "source": "zshah101 Summer 2027 US",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+    "location": "San Jose, CA, USA",
+    "link": "https://www.linkedin.com/jobs/view/4483537008",
+    "source": "jobspy",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
   },
   {
-    "company": "HPE (University)",
-    "role": "AI/ML Developer Intern",
-    "location": "San Jose, California",
-    "link": "https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217413?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+    "company": "Microsoft",
+    "role": "Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
+    "location": "Redmond, WA",
+    "link": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
+    "source": "speedyapply AI 2027",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
   },
   {
-    "company": "Skydio",
-    "role": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
-    "location": "San Mateo, CA",
-    "link": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+    "company": "Recruitlytics Inc.",
+    "role": "Junior Software Engineer",
+    "location": "Phoenix, AZ, USA",
+    "link": "https://www.linkedin.com/jobs/view/4483543205",
+    "source": "jobspy",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "Sephora",
+    "role": "Intern, Software Engineer, Full Stack",
+    "location": "Remote, USA",
+    "link": "https://www.indeed.com/viewjob?jk=99f1c6ac64f63581",
+    "source": "jobspy",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
+  },
+  {
+    "company": "🔥 TikTok",
+    "role": "Product Manager New Grad - Platform Trust and Ecosystem",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7680761598014015797?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs New Grad",
+    "observed_at": "2026-10-26T09:55:21.264373+00:00"
   }
 ]
