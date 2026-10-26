@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-25T23:03:13Z",
+ "built_at": "2026-10-26T00:59:02Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -17950,6 +17950,22 @@
    "fetched_at": "2026-10-25T23:03:10Z",
    "label": "www.careers.philips.com",
    "titles": []
+  },
+  "zekelman industries": {
+   "fetched_at": "2026-10-26T00:59:02Z",
+   "label": "Zekelman Industries",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "APPLICATIONS ANALYST- WORKDAY"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "SENIOR APO APPLICATIONS ANALYST"
+    }
+   ]
   },
   "zipline": {
    "fetched_at": "2026-10-25T23:03:11Z",
