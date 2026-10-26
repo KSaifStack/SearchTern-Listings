@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T15:03:53Z",
+ "built_at": "2026-10-26T17:51:08Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -16098,6 +16098,112 @@
     }
    ]
   },
+  "relx": {
+   "fetched_at": "2026-10-26T17:51:05Z",
+   "label": "RELX",
+   "titles": [
+    {
+     "count": 25,
+     "median_salary": 135000,
+     "title": "SENIOR SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 20,
+     "median_salary": 87864,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 13,
+     "median_salary": 97185,
+     "title": "DATA SCIENTIST I"
+    },
+    {
+     "count": 11,
+     "median_salary": 100000,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 11,
+     "median_salary": 164521,
+     "title": "SOFTWARE ENGINEERING LEAD"
+    },
+    {
+     "count": 10,
+     "median_salary": 165000,
+     "title": "CONSULTING PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 118118,
+     "title": "SENIOR SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 8,
+     "median_salary": 117275,
+     "title": "SENIOR DATA SCIENTIST I"
+    },
+    {
+     "count": 6,
+     "median_salary": 117500,
+     "title": "DATA SCIENTIST III"
+    },
+    {
+     "count": 6,
+     "median_salary": 175164,
+     "title": "MANAGER SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 174300,
+     "title": "SENIOR CONSULTING PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 85000,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 6,
+     "median_salary": 92407,
+     "title": "SYSTEMS ENGINEER II"
+    },
+    {
+     "count": 5,
+     "median_salary": 137932,
+     "title": "SENIOR DATA ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 166024,
+     "title": "CONSULTING SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 85000,
+     "title": "DATA ENGINEER I"
+    },
+    {
+     "count": 4,
+     "median_salary": 140000,
+     "title": "SENIOR DATA SCIENTIST II"
+    },
+    {
+     "count": 4,
+     "median_salary": 170416,
+     "title": "SENIOR DATA SCIENTIST III"
+    },
+    {
+     "count": 4,
+     "median_salary": 125323,
+     "title": "SENIOR QUALITY TEST ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 124236,
+     "title": "DATA ENGINEER III"
+    }
+   ]
+  },
   "republic airways": {
    "fetched_at": "2026-10-25T18:39:25Z",
    "label": "Republic Airways",
@@ -18392,6 +18498,42 @@
     }
    ]
   },
+  "teledyne": {
+   "fetched_at": "2026-10-26T17:51:06Z",
+   "label": "Teledyne",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 115587,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133433,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152174,
+     "title": "SALES ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 83492,
+     "title": "COMPUTATIONAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 103805,
+     "title": "SOFTWARE FIRMWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 61600,
+     "title": "WEB DEVELOPER"
+    }
+   ]
+  },
   "tensorwave": {
    "fetched_at": "2026-10-25T22:12:20Z",
    "label": "tensorwave",
@@ -18785,6 +18927,11 @@
      "title": "VICE PRESIDENT, TDS OPERATIONS"
     }
    ]
+  },
+  "the travelers companies": {
+   "fetched_at": "2026-10-26T17:51:07Z",
+   "label": "The Travelers Companies",
+   "titles": []
   },
   "the walt disney": {
    "fetched_at": "2026-10-25T22:36:22Z",
