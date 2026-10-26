@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T18:40:34Z",
+ "built_at": "2026-10-26T21:00:37Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8361,6 +8361,11 @@
    "label": "fehrandpeers",
    "titles": []
   },
+  "fhlbank chicago https fhlbc wd1 myworkdayjobs com search job chicago summer internship ai intern r2600477": {
+   "fetched_at": "2026-10-26T21:00:33Z",
+   "label": "[FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477)",
+   "titles": []
+  },
   "fhlbank chicago https fhlbc wd1 myworkdayjobs com search job chicago summer internship application development r2600441": {
    "fetched_at": "2026-10-25T09:18:00Z",
    "label": "[FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Application-Development_R2600441)",
@@ -11466,6 +11471,11 @@
   "j m smucker": {
    "fetched_at": "2026-10-25T22:41:21Z",
    "label": "J M Smucker",
+   "titles": []
+  },
+  "jobgether": {
+   "fetched_at": "2026-10-26T21:00:34Z",
+   "label": "jobgether",
    "titles": []
   },
   "jobs ascension org": {
@@ -16468,6 +16478,112 @@
     }
    ]
   },
+  "republic airways https rjet wd108 myworkdayjobs com external career site job carmel headquarters data analytics intern summer 2027 jr 007628": {
+   "fetched_at": "2026-10-26T21:00:35Z",
+   "label": "[Republic Airways](https://rjet.wd108.myworkdayjobs.com/External_Career_Site/job/Carmel-Headquarters/Data-Analytics-Intern---Summer-2027_JR-007628)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 106433,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "SDET MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 142500,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "ACCOUNTING MANAGER FINANCIAL MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "ADVISORY OPERATIONS DIRECTOR PROJECT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 92700,
+     "title": "ANALYTICS ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 98800,
+     "title": "ANALYTICS ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 156000,
+     "title": "APPLICATION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 77730,
+     "title": "ASSOCIATE FASHION DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "BI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88816,
+     "title": "BUSINESS SOLUTIONS ARCHITECT I"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "CREDIT RISK ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 151757,
+     "title": "DATA ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 87550,
+     "title": "DATA SCIENTIST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "ECONOMIC RESEARCH ASSOCIATE ECONOMIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 54121,
+     "title": "ELL ESL TEACHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 151757,
+     "title": "ETL DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "HRIS ANALYST"
+    }
+   ]
+  },
   "rivian": {
    "fetched_at": "2026-10-25T18:39:26Z",
    "label": "Rivian",
@@ -21269,6 +21385,37 @@
    "label": "wadetrim",
    "titles": []
   },
+  "watts water https wattswater wd5 myworkdayjobs com intern external job north andover ma strategic marketing intern analytics segmentation summer 2027 10017533": {
+   "fetched_at": "2026-10-26T21:00:36Z",
+   "label": "[Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Analytics---Segmentation--Summer-2027_10017533)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 80253,
+     "title": "BI ROTATIONAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 73000,
+     "title": "DEMAND PLANNING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "HEAD OF OPERATIONS AND HUMAN RESOURCES MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 91100,
+     "title": "SENIOR DEMAND PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "WORKDAY SECURITY ANALYST"
+    }
+   ]
+  },
   "waymo": {
    "fetched_at": "2026-10-25T23:03:04Z",
    "label": "Waymo",
@@ -21372,6 +21519,42 @@
      "count": 1,
      "median_salary": 186000,
      "title": "BUSINESS SYSTEMS ANALYST"
+    }
+   ]
+  },
+  "werner enterprises": {
+   "fetched_at": "2026-10-26T21:00:37Z",
+   "label": "Werner Enterprises",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 103210,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 86979,
+     "title": "DATA SCIENTIST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 119101,
+     "title": "ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 116090,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138570,
+     "title": "SENIOR WORKDAY INTEGRATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84011,
+     "title": "SOFTWARE DEVELOPER I"
     }
    ]
   },
