@@ -1,0 +1,58 @@
+[
+  {
+    "company": "appian",
+    "role": "Information Security Engineer Intern",
+    "location": "McLean, Virginia",
+    "link": "https://job-boards.greenhouse.io/appian/jobs/8088496",
+    "source": "ats",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  },
+  {
+    "company": "Astronics Corporation",
+    "role": "Software Engineer Intern - Summer 2027",
+    "location": "Kirkland, Washington, United States",
+    "link": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
+    "source": "ats",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  },
+  {
+    "company": "Gilead Sciences",
+    "role": "Research Intern, Clinical Virology - AI",
+    "location": "Foster City, CA",
+    "link": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Clinical-Virology---AI_R0055526",
+    "source": "ecr",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  },
+  {
+    "company": "Workday",
+    "role": "Cybersecurity Engineer Intern",
+    "location": "Pleasanton, CA, States",
+    "link": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
+    "source": "ecr",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  },
+  {
+    "company": "Hewlett Packard Enterprise",
+    "role": "AI/ML Developer Intern",
+    "location": "San Jose, California",
+    "link": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+    "source": "zshah101 Summer 2027 US",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  },
+  {
+    "company": "HPE (University)",
+    "role": "AI/ML Developer Intern",
+    "location": "San Jose, California",
+    "link": "https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217413?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  },
+  {
+    "company": "Skydio",
+    "role": "Autonomy Engineer Intern - Deep Learning / Computer Vision",
+    "location": "San Mateo, CA",
+    "link": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-10-26T03:55:41.007779+00:00"
+  }
+]
