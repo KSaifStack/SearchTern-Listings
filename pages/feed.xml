@@ -5,14 +5,21 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:11:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:42:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Data Analyst- School of Medicine - BMI at Emory University</title>
       <link>https://staff-emory.icims.com/jobs/175153/data-analyst--school-of-medicine%2c-bmi/job</link>
       <guid isPermaLink="true">https://staff-emory.icims.com/jobs/175153/data-analyst--school-of-medicine%2c-bmi/job</guid>
-      <pubDate>Mon, 26 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 05:34:01 +0000</pubDate>
       <description>Atlanta, GA | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Senior Executive Assistant at Coupang</title>
+      <link>https://boards.greenhouse.io/coupang/jobs/8302715</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/coupang/jobs/8302715</guid>
+      <pubDate>Mon, 26 Oct 2026 04:34:01 +0000</pubDate>
+      <description>Seattle, USA | Other | new_grad</description>
     </item>
     <item>
       <title>Summer 2027 Internship - Supply Chain at ALLY</title>
@@ -1159,7 +1166,7 @@
       <title>Technician I, 1st shift, Site 2 at Ast Spacemobile</title>
       <link>https://boards.greenhouse.io/astspacemobile/jobs/4747451005</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/astspacemobile/jobs/4747451005</guid>
-      <pubDate>Mon, 26 Oct 2026 03:02:05 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 02:34:01 +0000</pubDate>
       <description>Midland, Texas, United States | Other | new_grad</description>
     </item>
     <item>
@@ -1170,39 +1177,32 @@
       <description>Savannah, Ellabell, GA, States | Software Engineering | internship</description>
     </item>
     <item>
-      <title>PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 at Skydio</title>
-      <link>https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f</guid>
-      <pubDate>Mon, 26 Oct 2026 00:02:05 +0000</pubDate>
-      <description>San Mateo, California, United... | Data/ML/AI | new_grad</description>
-    </item>
-    <item>
       <title>Site Safety Manager at Veolia Environnement Sa</title>
       <link>https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157682429</link>
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000157682429</guid>
-      <pubDate>Mon, 26 Oct 2026 00:02:05 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 00:34:01 +0000</pubDate>
       <description>Boise, ID | Operations/Supply | new_grad</description>
     </item>
     <item>
       <title>Autonomy Engineer Intern, 2027 at Skydio</title>
       <link>https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b</link>
       <guid isPermaLink="true">https://jobs.ashbyhq.com/skydio/d39c46ce-a4e9-45d2-99bf-17e3b7dac34b</guid>
-      <pubDate>Mon, 26 Oct 2026 00:02:05 +0000</pubDate>
-      <description>San Mateo, California, United... | Software Engineering | new_grad</description>
+      <pubDate>Sun, 25 Oct 2026 23:34:01 +0000</pubDate>
+      <description>San Mateo, California, United... | Software Engineering | internship</description>
     </item>
     <item>
       <title>PhD Autonomy Engineer Intern, 2027 at Skydio</title>
       <link>https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c</link>
       <guid isPermaLink="true">https://jobs.ashbyhq.com/skydio/fe26fdf8-15b2-44e6-8e43-ace13431453c</guid>
-      <pubDate>Mon, 26 Oct 2026 00:02:05 +0000</pubDate>
-      <description>San Mateo, California, United... | Software Engineering | new_grad</description>
+      <pubDate>Sun, 25 Oct 2026 23:34:01 +0000</pubDate>
+      <description>San Mateo, California, United... | Software Engineering | internship</description>
     </item>
     <item>
-      <title>Product Pricing Analytics Intern - Summer 2027 at Napa Auto Parts</title>
-      <link>https://www.linkedin.com/jobs/view/4483512417</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483512417</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Atlanta, GA, USA | Data/ML/AI | internship</description>
+      <title>PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027 at Skydio</title>
+      <link>https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f</guid>
+      <pubDate>Sun, 25 Oct 2026 23:34:01 +0000</pubDate>
+      <description>San Mateo, California, United... | Data/ML/AI | internship</description>
     </item>
     <item>
       <title>Software Engineer (Austin) at Aa270 Taleo Net Ex</title>
@@ -1222,7 +1222,7 @@
       <title>University Recruiter at Mach Industries</title>
       <link>https://boards.greenhouse.io/machindustries/jobs/4466802009</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/machindustries/jobs/4466802009</guid>
-      <pubDate>Sun, 25 Oct 2026 23:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 22:34:01 +0000</pubDate>
       <description>Huntington Beach, California, ... | Human Resources | new_grad</description>
     </item>
     <item>
@@ -1285,15 +1285,8 @@
       <title>Chemistry Laboratory Technician I at Eurofins</title>
       <link>https://jobs.smartrecruiters.com/Eurofins/744000157679349</link>
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000157679349</guid>
-      <pubDate>Sun, 25 Oct 2026 21:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 21:34:01 +0000</pubDate>
       <description>Mounds View, MN | Research/Science | new_grad</description>
-    </item>
-    <item>
-      <title>Operational Support Specialist I at Eurofins</title>
-      <link>https://jobs.smartrecruiters.com/Eurofins/744000157678909</link>
-      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000157678909</guid>
-      <pubDate>Sun, 25 Oct 2026 21:02:05 +0000</pubDate>
-      <description>River Falls, WI | Other | new_grad</description>
     </item>
     <item>
       <title>Graphic Design Intern at Tillamook County Creamery Association</title>
@@ -1303,17 +1296,24 @@
       <description>Portland, OR | Product/Design | internship</description>
     </item>
     <item>
+      <title>Operational Support Specialist I at Eurofins</title>
+      <link>https://jobs.smartrecruiters.com/Eurofins/744000157678909</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000157678909</guid>
+      <pubDate>Sun, 25 Oct 2026 20:34:01 +0000</pubDate>
+      <description>River Falls, WI | Other | new_grad</description>
+    </item>
+    <item>
       <title>Revenue Enablement Associate I at HUDL</title>
       <link>https://boards.greenhouse.io/hudl/jobs/8274051</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/hudl/jobs/8274051</guid>
-      <pubDate>Sun, 25 Oct 2026 20:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 19:34:01 +0000</pubDate>
       <description>Lincoln, NE, United States | Other | new_grad</description>
     </item>
     <item>
       <title>Composite Technician, 2nd shift, Site 2 at Ast Spacemobile</title>
       <link>https://boards.greenhouse.io/astspacemobile/jobs/4741194005</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/astspacemobile/jobs/4741194005</guid>
-      <pubDate>Sun, 25 Oct 2026 18:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 18:34:01 +0000</pubDate>
       <description>Midland, Texas, United States | Other | new_grad</description>
     </item>
     <item>
@@ -1331,81 +1331,81 @@
       <description>Offenbach am Main, Hessen, Deutschland | Data/ML/AI | internship</description>
     </item>
     <item>
-      <title>Data Analyst (Entry Level) at Remote Career</title>
-      <link>https://www.careers-page.com/online-remote-jobs/job/QV68R638</link>
-      <guid isPermaLink="true">https://www.careers-page.com/online-remote-jobs/job/QV68R638</guid>
-      <pubDate>Sun, 25 Oct 2026 05:32:23 +0000</pubDate>
-      <description>Miami, Florida, United States | Data/ML/AI | new_grad</description>
-    </item>
-    <item>
-      <title>Software Engineering Intern - Summer 2027 - Austin - TX at COX</title>
-      <link>https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168</link>
-      <guid isPermaLink="true">https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
-      <description>Austin, TX | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Developer Productivity Intern - Winter 2027 at Fightcamp</title>
-      <link>https://job-boards.greenhouse.io/figureai/jobs/4724521006</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/figureai/jobs/4724521006</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
-      <description>San Jose, CA | Product/Design | internship</description>
-    </item>
-    <item>
       <title>AI Engineer - Application Development at Applied Underwriters</title>
       <link>https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c</link>
       <guid isPermaLink="true">https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>New York City, NY | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>AI Engineer - Data Science at Applied Underwriters</title>
       <link>https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5</link>
       <guid isPermaLink="true">https://jobs.lever.co/auw/6f317af6-4362-4dea-accc-e86ec1d102a5</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>New York City, NY | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>AI Engineer - Infrustructure at Applied Underwriters</title>
       <link>https://jobs.lever.co/auw/515a3498-4257-4e68-91ff-cf82e854f12d</link>
       <guid isPermaLink="true">https://jobs.lever.co/auw/515a3498-4257-4e68-91ff-cf82e854f12d</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>New York City, NY | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>Associate Data Engineer at Beyondtrust</title>
       <link>https://job-boards.greenhouse.io/beyondtrust/jobs/8300876</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/beyondtrust/jobs/8300876</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>Remote - USA | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>Associate AI Engineer at Fuel Cycle</title>
       <link>https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d</link>
       <guid isPermaLink="true">https://jobs.ashbyhq.com/fuel-cycle/0d24c1b6-e79b-4880-890f-a8ddb53b6d0d</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>Los Angeles, CA | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>Associate Data Scientist at Jerry</title>
       <link>https://jobs.ashbyhq.com/jerry.ai/705c618f-72b7-455e-a88b-2da217141de8</link>
       <guid isPermaLink="true">https://jobs.ashbyhq.com/jerry.ai/705c618f-72b7-455e-a88b-2da217141de8</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>New York City, NY +3 | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineering Intern - Summer 2027 - Austin - TX at COX</title>
+      <link>https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168</link>
+      <guid isPermaLink="true">https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168</guid>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
+      <description>Austin, TX | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Developer Productivity Intern - Winter 2027 at Fightcamp</title>
+      <link>https://job-boards.greenhouse.io/figureai/jobs/4724521006</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/figureai/jobs/4724521006</guid>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
+      <description>San Jose, CA | Product/Design | internship</description>
     </item>
     <item>
       <title>Software Engineer - Notifications at Roblox</title>
       <link>https://careers.roblox.com/jobs/8261393?gh_jid=8261393</link>
       <guid isPermaLink="true">https://careers.roblox.com/jobs/8261393?gh_jid=8261393</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>San Mateo, CA | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>1182 - Junior Frontend Developer - Part-Time at Gofasti</title>
       <link>https://careers.gofasti.com/job-application/6233771004?gh_jid=6233771004</link>
       <guid isPermaLink="true">https://careers.gofasti.com/job-application/6233771004?gh_jid=6233771004</guid>
-      <pubDate>Sun, 25 Oct 2026 04:02:05 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
       <description>Remote - Cleveland, OH | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Android Engineer at Kranze Technology Solutions</title>
+      <link>https://kranzetechnologysolutions.applytojob.com/apply/narYNKlRdz/Android-Engineer</link>
+      <guid isPermaLink="true">https://kranzetechnologysolutions.applytojob.com/apply/narYNKlRdz/Android-Engineer</guid>
+      <pubDate>Sun, 25 Oct 2026 05:34:01 +0000</pubDate>
+      <description>Des Plaines, IL | Software Engineering | new_grad</description>
     </item>
   </channel>
 </rss>
