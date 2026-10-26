@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T10:07:06Z",
+ "built_at": "2026-10-26T11:48:37Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7196,6 +7196,22 @@
    "label": "Edbz",
    "titles": []
   },
+  "edyo": {
+   "fetched_at": "2026-10-26T11:48:35Z",
+   "label": "Edyo",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 76000,
+     "title": "BACK-END DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "DATA SCIENTIST"
+    }
+   ]
+  },
   "eedu": {
    "fetched_at": "2026-10-25T05:38:00Z",
    "label": "Eedu",
@@ -10850,6 +10866,11 @@
   "icfcjb": {
    "fetched_at": "2026-10-25T10:28:30Z",
    "label": "Icfcjb",
+   "titles": []
+  },
+  "id me": {
+   "fetched_at": "2026-10-26T11:48:36Z",
+   "label": "ID.me",
    "titles": []
   },
   "impulse space": {
@@ -19589,6 +19610,112 @@
      "count": 1,
      "median_salary": 186000,
      "title": "BUSINESS SYSTEMS ANALYST"
+    }
+   ]
+  },
+  "wing": {
+   "fetched_at": "2026-10-26T11:48:37Z",
+   "label": "wing",
+   "titles": [
+    {
+     "count": 16,
+     "median_salary": 194000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 114900,
+     "title": "SR SOFTWARE ENGIEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 93660,
+     "title": "ASSOCIATE ACCOUNTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 79000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 114780,
+     "title": "SAP SUCCESSFACTORS CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 206500,
+     "title": "SOURCING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 185800,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 163596,
+     "title": ".NET ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 139200,
+     "title": ".NET TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 125700,
+     "title": "AI DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125700,
+     "title": "AI ML ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125700,
+     "title": "AI PRODUCT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 116400,
+     "title": "BLOCKCHAIN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114960,
+     "title": "BLOCKCHAIN SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "CHIEF TECHNOLOGY OFFICER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105468,
+     "title": "CLOUD SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125700,
+     "title": "CLOUD SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 115968,
+     "title": "DEVOPS ENGINEER"
     }
    ]
   },
