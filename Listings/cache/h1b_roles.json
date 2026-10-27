@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-26T23:46:15Z",
+ "built_at": "2026-10-27T04:24:53Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15657,6 +15657,17 @@
    "fetched_at": "2026-10-25T18:39:21Z",
    "label": "pilotcompany",
    "titles": []
+  },
+  "pimco": {
+   "fetched_at": "2026-10-27T04:24:53Z",
+   "label": "PIMCO",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "SENIOR ANALYST, ASSET MANAGEMENT"
+    }
+   ]
   },
   "pinterest": {
    "fetched_at": "2026-10-25T18:39:22Z",
