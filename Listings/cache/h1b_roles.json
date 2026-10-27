@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-27T15:39:28Z",
+ "built_at": "2026-10-27T20:20:55Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6107,6 +6107,112 @@
      "count": 1,
      "median_salary": 57554,
      "title": "TECHNOLOGY RISK AND COMPLIANCE ANALYST"
+    }
+   ]
+  },
+  "cnh industrial": {
+   "fetched_at": "2026-10-27T20:20:55Z",
+   "label": "CNH Industrial",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 119275,
+     "title": "STRATEGIC SOURCING MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 85000,
+     "title": "ELECTRICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 135000,
+     "title": "RESEARCH ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 114240,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131002,
+     "title": "ENGINEER, RESEARCH &AMP; DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 95118,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132345,
+     "title": "SENIOR EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 148395,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132691,
+     "title": "SENIOR SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100767,
+     "title": "STRUCTURAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "BUSINESS REPORTING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "COST OPTIMIZATION SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128100,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 243600,
+     "title": "DIRECTOR OF ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 121800,
+     "title": "DISPLAY SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130290,
+     "title": "ELECTRIC VEHICLES CONTROLS ALGORITHM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "ELECTRICAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117875,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
     }
    ]
   },
