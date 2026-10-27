@@ -5,42 +5,63 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:03:20 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Application Software Engineer - Launch Software at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002</guid>
-      <pubDate>Tue, 27 Oct 2026 04:23:51 +0000</pubDate>
-      <description>Hawthorne, CA | Software Engineering | new_grad</description>
+      <title>Electrical Engineer Intern - Hardware at Hp Iq</title>
+      <link>https://job-boards.greenhouse.io/hpiq/jobs/6116396004</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/hpiq/jobs/6116396004</guid>
+      <pubDate>Tue, 27 Oct 2026 06:59:30 +0000</pubDate>
+      <description>SF | Hardware/Embedded | internship</description>
     </item>
     <item>
-      <title>Data Scientist - Multiple openings in Cupertino - CA. at U S Bank</title>
-      <link>https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Cupertino-CA/Data-Scientist--Multiple-openings--in-Cupertino--CA_2026-0033084</link>
-      <guid isPermaLink="true">https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Cupertino-CA/Data-Scientist--Multiple-openings--in-Cupertino--CA_2026-0033084</guid>
-      <pubDate>Tue, 27 Oct 2026 04:23:51 +0000</pubDate>
-      <description>Cupertino, CA | Data/ML/AI | new_grad</description>
+      <title>Wireless Automation and Test Engineer Intern - Wireless Automation and Test at Hp Iq</title>
+      <link>https://job-boards.greenhouse.io/hpiq/jobs/6114741004</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/hpiq/jobs/6114741004</guid>
+      <pubDate>Tue, 27 Oct 2026 06:59:30 +0000</pubDate>
+      <description>SF | DevOps/SRE | internship</description>
     </item>
     <item>
       <title>Early Careers: Software Development Engineer at Fortinet</title>
       <link>https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770</link>
       <guid isPermaLink="true">https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770</guid>
-      <pubDate>Tue, 27 Oct 2026 04:23:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 06:59:29 +0000</pubDate>
       <description>Sunnyvale, CA | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Early Career Software Engineer - Battlespace Awareness at Anduril</title>
       <link>https://boards.greenhouse.io/andurilindustries/jobs/5275431007</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/andurilindustries/jobs/5275431007</guid>
-      <pubDate>Tue, 27 Oct 2026 04:23:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 06:59:29 +0000</pubDate>
       <description>Fort Collins, CO Broomfield, CO | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Product Manager New Grad - Platform Trust and Ecosystem at Tiktok</title>
       <link>https://lifeattiktok.com/search/7680761598014015797</link>
       <guid isPermaLink="true">https://lifeattiktok.com/search/7680761598014015797</guid>
-      <pubDate>Tue, 27 Oct 2026 04:23:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 06:59:29 +0000</pubDate>
       <description>San Jose, CA | Product/Design | new_grad</description>
+    </item>
+    <item>
+      <title>Data Scientist - Multiple openings in Cupertino - CA. at U S Bank</title>
+      <link>https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Cupertino-CA/Data-Scientist--Multiple-openings--in-Cupertino--CA_2026-0033084</link>
+      <guid isPermaLink="true">https://usbank.wd1.myworkdayjobs.com/en-US/us_bank_careers/job/Cupertino-CA/Data-Scientist--Multiple-openings--in-Cupertino--CA_2026-0033084</guid>
+      <pubDate>Tue, 27 Oct 2026 06:59:29 +0000</pubDate>
+      <description>Cupertino, CA | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Application Software Engineer - Launch Software at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002</guid>
+      <pubDate>Tue, 27 Oct 2026 06:59:29 +0000</pubDate>
+      <description>Hawthorne, CA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Avionics Build Specialist (Starship) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8917528002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8917528002</guid>
+      <pubDate>Tue, 27 Oct 2026 05:59:29 +0000</pubDate>
+      <description>Starbase, TX | Other | new_grad</description>
     </item>
     <item>
       <title>Disney Entertainment Television Communication Intern, Spring 2027 at Disney</title>
@@ -1044,31 +1065,24 @@
       <description>Toulouse Area | Software Engineering | internship</description>
     </item>
     <item>
-      <title>Account Support Representative at Billiontoone</title>
-      <link>https://boards.greenhouse.io/billiontoone/jobs/4747909005</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/billiontoone/jobs/4747909005</guid>
-      <pubDate>Tue, 27 Oct 2026 03:51:51 +0000</pubDate>
-      <description>South Carolina | Other | new_grad</description>
-    </item>
-    <item>
       <title>Prenatal Account Executive at Billiontoone</title>
       <link>https://boards.greenhouse.io/billiontoone/jobs/4747908005</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/billiontoone/jobs/4747908005</guid>
-      <pubDate>Tue, 27 Oct 2026 03:49:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 03:59:29 +0000</pubDate>
       <description>St. George, UT | Sales/Business Dev | new_grad</description>
     </item>
     <item>
       <title>Prenatal Account Executive at Billiontoone</title>
       <link>https://boards.greenhouse.io/billiontoone/jobs/4747907005</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/billiontoone/jobs/4747907005</guid>
-      <pubDate>Tue, 27 Oct 2026 03:47:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 03:59:29 +0000</pubDate>
       <description>Tulsa, OK | Sales/Business Dev | new_grad</description>
     </item>
     <item>
       <title>Prenatal Account Executive at Billiontoone</title>
       <link>https://boards.greenhouse.io/billiontoone/jobs/4747906005</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/billiontoone/jobs/4747906005</guid>
-      <pubDate>Tue, 27 Oct 2026 03:44:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 03:59:29 +0000</pubDate>
       <description>Springfield, MA | Sales/Business Dev | new_grad</description>
     </item>
     <item>
@@ -1082,7 +1096,7 @@
       <title>Sales Associate (Full-Time) - The Knox at Alo Yoga</title>
       <link>https://boards.greenhouse.io/aloyoga/jobs/6235332004</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/aloyoga/jobs/6235332004</guid>
-      <pubDate>Tue, 27 Oct 2026 01:23:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 01:59:29 +0000</pubDate>
       <description>The Knox, Dallas, TX | Sales/Business Dev | new_grad</description>
     </item>
     <item>
@@ -1096,7 +1110,7 @@
       <title>Research Scientist Intern - PhD at Saviynt</title>
       <link>https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7</link>
       <guid isPermaLink="true">https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7</guid>
-      <pubDate>Tue, 27 Oct 2026 00:23:51 +0000</pubDate>
+      <pubDate>Tue, 27 Oct 2026 00:59:29 +0000</pubDate>
       <description>Milpitas, California | Research/Science | internship</description>
     </item>
     <item>
@@ -1107,11 +1121,74 @@
       <description>Cleveland, OH | Product/Design</description>
     </item>
     <item>
-      <title>Robotics Testing Technician at Gritt Robotics</title>
-      <link>https://jobs.ashbyhq.com/gritt/58ecef2e-5e55-49d2-a814-8bff13a8628f</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/gritt/58ecef2e-5e55-49d2-a814-8bff13a8628f</guid>
-      <pubDate>Mon, 26 Oct 2026 23:23:51 +0000</pubDate>
-      <description>South San Francisco | Hardware/Embedded | new_grad</description>
+      <title>Strategy and Insights Intern - Summer 2027 at Medpace</title>
+      <link>https://www.linkedin.com/jobs/view/4483289031</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483289031</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Cincinnati, OH, USA | Business/Analytics | internship</description>
+    </item>
+    <item>
+      <title>Financial Planning &amp; Analysis Intern at Cox Automotive Inc</title>
+      <link>https://www.linkedin.com/jobs/view/4483796129</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483796129</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Atlanta, GA, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>2027 Summer Internship Program - OAS Business Analyst at Federal Reserve Bank Of Atlanta</title>
+      <link>https://www.linkedin.com/jobs/view/4483727364</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483727364</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Atlanta, GA, USA | Business/Analytics | internship</description>
+    </item>
+    <item>
+      <title>DHL Finance Intern - Evergreen Talent Pipeline at Dhl Express</title>
+      <link>https://www.linkedin.com/jobs/view/4483789018</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483789018</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Plantation, FL, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Finance Intern (FP&amp;A) at C H Robinson</title>
+      <link>https://www.linkedin.com/jobs/view/4478858000</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4478858000</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Eden Prairie, MN, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>GTM Finance F&amp;S Intern at Zendesk</title>
+      <link>https://www.linkedin.com/jobs/view/4465933295</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4465933295</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Madison, WI, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Consulting &amp; Analytics Intern - Summer 2027 at VISA</title>
+      <link>https://www.linkedin.com/jobs/view/4484003983</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4484003983</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Atlanta, GA, USA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Finance Intern at Cox Automotive Inc</title>
+      <link>https://www.linkedin.com/jobs/view/4483776714</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483776714</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Carmel, IN, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Enterprise Internship, Finance/Accounting/Revenue Cyle at Aurora Health Care</title>
+      <link>https://www.linkedin.com/jobs/view/4481833676</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4481833676</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Allenton, WI, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Financial Analysis &amp; Planning Intern - Summer 2027 - Dallas Regional Office at Lihtc Leaders</title>
+      <link>https://www.linkedin.com/jobs/view/4483765678</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4483765678</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Dallas, TX, USA | Finance/Quant | internship</description>
     </item>
     <item>
       <title>Software Engineering Intern (Summer 2027) - Native SDK &amp; Mobile Platforms at Niantic Spatial</title>
@@ -1119,6 +1196,13 @@
       <guid isPermaLink="true">https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43</guid>
       <pubDate>Mon, 26 Oct 2026 23:05:33 +0000</pubDate>
       <description>San Francisco, CA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Robotics Testing Technician at Gritt Robotics</title>
+      <link>https://jobs.ashbyhq.com/gritt/58ecef2e-5e55-49d2-a814-8bff13a8628f</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/gritt/58ecef2e-5e55-49d2-a814-8bff13a8628f</guid>
+      <pubDate>Mon, 26 Oct 2026 22:59:29 +0000</pubDate>
+      <description>South San Francisco | Hardware/Embedded | new_grad</description>
     </item>
     <item>
       <title>Robotics Intern, Trustworthy Learning under Uncertainty at Toyota Research Institute</title>
@@ -1138,29 +1222,22 @@
       <title>Software Engineer, Real-Time Systems (Early Career) at Swarm Aero</title>
       <link>https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e</link>
       <guid isPermaLink="true">https://jobs.ashbyhq.com/swarmaero/7d3783c5-f98c-4def-8c33-6de907aab30e</guid>
-      <pubDate>Mon, 26 Oct 2026 21:23:51 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 21:59:29 +0000</pubDate>
       <description>San Francisco | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Co-Op, Reaction Prediction &amp; Benchmarking at Lila Sciences</title>
       <link>https://boards.greenhouse.io/lilasciences/jobs/4465064009</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/lilasciences/jobs/4465064009</guid>
-      <pubDate>Mon, 26 Oct 2026 21:23:51 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 21:59:29 +0000</pubDate>
       <description>Cambridge, MA USA | Other | new_grad</description>
     </item>
     <item>
       <title>Co-Op, Agentic Simulations for Materials Science at Lila Sciences</title>
       <link>https://boards.greenhouse.io/lilasciences/jobs/4465059009</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/lilasciences/jobs/4465059009</guid>
-      <pubDate>Mon, 26 Oct 2026 21:23:51 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 21:59:29 +0000</pubDate>
       <description>Cambridge, MA USA | Hardware/Embedded | new_grad</description>
-    </item>
-    <item>
-      <title>AI Residency Program, Physical Sciences at Lila Sciences</title>
-      <link>https://boards.greenhouse.io/lilasciences/jobs/4444240009</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/lilasciences/jobs/4444240009</guid>
-      <pubDate>Mon, 26 Oct 2026 21:23:51 +0000</pubDate>
-      <description>Cambridge, MA USA | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>IT Security Analyst Co-op at Atricure</title>
@@ -1175,6 +1252,13 @@
       <guid isPermaLink="true">https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43</guid>
       <pubDate>Mon, 26 Oct 2026 21:01:22 +0000</pubDate>
       <description>Los Altos, CA | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>AI Residency Program, Physical Sciences at Lila Sciences</title>
+      <link>https://boards.greenhouse.io/lilasciences/jobs/4444240009</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/lilasciences/jobs/4444240009</guid>
+      <pubDate>Mon, 26 Oct 2026 20:59:29 +0000</pubDate>
+      <description>Cambridge, MA USA | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>Co-Op, Reaction Prediction &amp; Benchmarking at Lila Sciences</title>
@@ -1233,34 +1317,6 @@
       <description>Wacker Drive | Product/Design | internship</description>
     </item>
     <item>
-      <title>Software Engineer, Intern (Summer 2027) at Glean</title>
-      <link>https://boards.greenhouse.io/gleanwork/jobs/4747670005</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/gleanwork/jobs/4747670005</guid>
-      <pubDate>Mon, 26 Oct 2026 20:23:51 +0000</pubDate>
-      <description>Mountain View, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) at Abbvie</title>
-      <link>https://jobs.smartrecruiters.com/AbbVie/3743990016414086</link>
-      <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016414086</guid>
-      <pubDate>Mon, 26 Oct 2026 20:23:51 +0000</pubDate>
-      <description>North Chicago, IL | Cybersecurity | internship</description>
-    </item>
-    <item>
-      <title>2027 Automation &amp; Process Analytics Technology Co-Op (June - Dec) at Abbvie</title>
-      <link>https://jobs.smartrecruiters.com/AbbVie/3743990016414967</link>
-      <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016414967</guid>
-      <pubDate>Mon, 26 Oct 2026 20:23:51 +0000</pubDate>
-      <description>Worcester, MA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Early Career Software Engineer, Battlespace Awareness at Anduril</title>
-      <link>https://boards.greenhouse.io/andurilindustries/jobs/5275431007</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/andurilindustries/jobs/5275431007</guid>
-      <pubDate>Mon, 26 Oct 2026 20:23:51 +0000</pubDate>
-      <description>Broomfield, Colorado, United States | Software Engineering | new_grad</description>
-    </item>
-    <item>
       <title>Assistant Project Manager Intern (Summer 2027) - National Travel at Interstates</title>
       <link>https://www.interstates.com/careers/jobs?gh_jid=4363453009&amp;gh_jid=4363453009</link>
       <guid isPermaLink="true">https://www.interstates.com/careers/jobs?gh_jid=4363453009&amp;gh_jid=4363453009</guid>
@@ -1275,6 +1331,41 @@
       <description>Grand Rapids, MI, USA | Software Engineering | internship</description>
     </item>
     <item>
+      <title>Software Engineer, Intern (Summer 2027) at Glean</title>
+      <link>https://boards.greenhouse.io/gleanwork/jobs/4747670005</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/gleanwork/jobs/4747670005</guid>
+      <pubDate>Mon, 26 Oct 2026 19:59:29 +0000</pubDate>
+      <description>Mountain View, CA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) at Abbvie</title>
+      <link>https://jobs.smartrecruiters.com/AbbVie/3743990016414086</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016414086</guid>
+      <pubDate>Mon, 26 Oct 2026 19:59:29 +0000</pubDate>
+      <description>North Chicago, IL | Cybersecurity | internship</description>
+    </item>
+    <item>
+      <title>2027 Automation &amp; Process Analytics Technology Co-Op (June - Dec) at Abbvie</title>
+      <link>https://jobs.smartrecruiters.com/AbbVie/3743990016414967</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016414967</guid>
+      <pubDate>Mon, 26 Oct 2026 19:59:29 +0000</pubDate>
+      <description>Worcester, MA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>2027 Drug Substance Engineering Intern (PhD) at Abbvie</title>
+      <link>https://jobs.smartrecruiters.com/AbbVie/3743990016413581</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016413581</guid>
+      <pubDate>Mon, 26 Oct 2026 19:59:29 +0000</pubDate>
+      <description>North Chicago, IL | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Early Career Software Engineer, Battlespace Awareness at Anduril</title>
+      <link>https://boards.greenhouse.io/andurilindustries/jobs/5275431007</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/andurilindustries/jobs/5275431007</guid>
+      <pubDate>Mon, 26 Oct 2026 19:59:29 +0000</pubDate>
+      <description>Broomfield, Colorado, United States | Software Engineering | new_grad</description>
+    </item>
+    <item>
       <title>2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) at Abbvie</title>
       <link>https://jobs.smartrecruiters.com/AbbVie/3743990016414086</link>
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016414086</guid>
@@ -1282,17 +1373,10 @@
       <description>North Chicago, IL, United States (Hybrid) | Cybersecurity | internship</description>
     </item>
     <item>
-      <title>2027 Drug Substance Engineering Intern (PhD) at Abbvie</title>
-      <link>https://jobs.smartrecruiters.com/AbbVie/3743990016413581</link>
-      <guid isPermaLink="true">https://jobs.smartrecruiters.com/AbbVie/3743990016413581</guid>
-      <pubDate>Mon, 26 Oct 2026 19:23:51 +0000</pubDate>
-      <description>North Chicago, IL | Software Engineering | internship</description>
-    </item>
-    <item>
       <title>Technical Writer Intern, Developer Experience (Summer 2027) at Together Ai</title>
       <link>https://boards.greenhouse.io/togetherai/jobs/5271149007</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/togetherai/jobs/5271149007</guid>
-      <pubDate>Mon, 26 Oct 2026 19:23:51 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2026 18:59:29 +0000</pubDate>
       <description>San Francisco | Software Engineering | new_grad</description>
     </item>
     <item>
@@ -1322,90 +1406,6 @@
       <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005</guid>
       <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
       <description>San Jose, CA | Product/Design | internship</description>
-    </item>
-    <item>
-      <title>AMS Digital Design Engineer Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Product/Design | internship</description>
-    </item>
-    <item>
-      <title>Analog Mixed Signal Engineer Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739767005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739767005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA or Irvine, CA | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Analog/Mixed Signal System Test Engineer Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Applied AI Engineer Intern (Silicon Engineering) at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Applied AI Intern (Non-Silicon) at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>ATE Engineer Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731409005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Business Acceleration Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743033005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743033005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Business/Analytics | internship</description>
-    </item>
-    <item>
-      <title>Business Development Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743826005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743826005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Compensation and Benefits Analyst Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732417005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4732417005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Human Resources | internship</description>
-    </item>
-    <item>
-      <title>CyberSecurity Engineer Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Cybersecurity | internship</description>
-    </item>
-    <item>
-      <title>Data Analytics Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Design Architecture Engineer Intern at Astera Labs</title>
-      <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731413005</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731413005</guid>
-      <pubDate>Mon, 26 Oct 2026 14:51:30 -0400</pubDate>
-      <description>San Jose, CA | Construction/Trades | internship</description>
     </item>
   </channel>
 </rss>

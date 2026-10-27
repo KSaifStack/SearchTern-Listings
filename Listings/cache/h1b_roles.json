@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-27T04:24:53Z",
+ "built_at": "2026-10-27T07:02:50Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7475,6 +7475,112 @@
     }
    ]
   },
+  "elevance health": {
+   "fetched_at": "2026-10-27T07:02:49Z",
+   "label": "Elevance Health",
+   "titles": [
+    {
+     "count": 65,
+     "median_salary": 150944,
+     "title": "ENGINEER LEAD"
+    },
+    {
+     "count": 59,
+     "median_salary": 136251,
+     "title": "ENGINEER SENIOR"
+    },
+    {
+     "count": 41,
+     "median_salary": 117600,
+     "title": "ENGINEER III"
+    },
+    {
+     "count": 28,
+     "median_salary": 123533,
+     "title": "SYSTEMS ANALYST ADVISOR"
+    },
+    {
+     "count": 17,
+     "median_salary": 137248,
+     "title": "ENGINEER SR"
+    },
+    {
+     "count": 17,
+     "median_salary": 139020,
+     "title": "ENGINEER SR."
+    },
+    {
+     "count": 14,
+     "median_salary": 109100,
+     "title": "BUSINESS INFORMATION CONSULTANT"
+    },
+    {
+     "count": 13,
+     "median_salary": 171364,
+     "title": "ENGINEER LEAD SENIOR"
+    },
+    {
+     "count": 11,
+     "median_salary": 142968,
+     "title": "SYSTEMS ANALYST SENIOR ADVISOR"
+    },
+    {
+     "count": 10,
+     "median_salary": 151200,
+     "title": "SOLUTIONS ENGINEER ADVISOR SENIOR"
+    },
+    {
+     "count": 8,
+     "median_salary": 120994,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 133797,
+     "title": "DEVELOPER ADVISOR"
+    },
+    {
+     "count": 7,
+     "median_salary": 111168,
+     "title": "BUSINESS INFORMATION DEVELOPER CONSULTANT"
+    },
+    {
+     "count": 7,
+     "median_salary": 152496,
+     "title": "DATA SCIENCE SOLUTIONS LEAD"
+    },
+    {
+     "count": 7,
+     "median_salary": 136080,
+     "title": "IT QUALITY CONTROL SENIOR ADVISOR"
+    },
+    {
+     "count": 6,
+     "median_salary": 139248,
+     "title": "DATA SCIENTIST SR"
+    },
+    {
+     "count": 6,
+     "median_salary": 177401,
+     "title": "ENGINEER LEAD SR"
+    },
+    {
+     "count": 6,
+     "median_salary": 110047,
+     "title": "IT QUALITY CONTROL ADVISOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 137320,
+     "title": "BUSINESS INFORMATION DEVELOPER CONSULTANT SENIOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 209872,
+     "title": "DIRECTOR II TECHNOLOGY"
+    }
+   ]
+  },
   "eluq": {
    "fetched_at": "2026-10-25T05:38:08Z",
    "label": "Eluq",
@@ -11294,6 +11400,11 @@
      "title": "HR MANAGER"
     }
    ]
+  },
+  "hp iq": {
+   "fetched_at": "2026-10-27T07:02:50Z",
+   "label": "HP IQ",
+   "titles": []
   },
   "iawmqy": {
    "fetched_at": "2026-10-25T14:47:17Z",
