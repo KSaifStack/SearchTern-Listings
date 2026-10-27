@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-27T14:22:02Z",
+ "built_at": "2026-10-27T15:39:28Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8512,6 +8512,11 @@
    "label": "Fa Ewqq Saasfaprod1",
    "titles": []
   },
+  "fa exty saasfaprod1": {
+   "fetched_at": "2026-10-27T15:39:24Z",
+   "label": "Fa Exty Saasfaprod1",
+   "titles": []
+  },
   "fa exvu saasfaprod1 cx 1": {
    "fetched_at": "2026-10-25T08:51:26Z",
    "label": "Fa Exvu Saasfaprod1 (CX_1)",
@@ -8920,6 +8925,112 @@
      "count": 1,
      "median_salary": 102898,
      "title": "SOFTWARE DEVELOPER"
+    }
+   ]
+  },
+  "ford global career site": {
+   "fetched_at": "2026-10-27T15:39:25Z",
+   "label": "Ford Global Career Site",
+   "titles": [
+    {
+     "count": 79,
+     "median_salary": 132350,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 50,
+     "median_salary": 136804,
+     "title": "FULL STACK DATA ENGINEER"
+    },
+    {
+     "count": 42,
+     "median_salary": 144535,
+     "title": "PLATFORM SOFTWARE ENGINEER"
+    },
+    {
+     "count": 33,
+     "median_salary": 138486,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 23,
+     "median_salary": 113580,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 21,
+     "median_salary": 124050,
+     "title": "PRODUCT DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 15,
+     "median_salary": 137883,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 125460,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 136630,
+     "title": "DATA PRODUCT MANAGER"
+    },
+    {
+     "count": 9,
+     "median_salary": 131130,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 8,
+     "median_salary": 129504,
+     "title": "FULL STACK SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 117520,
+     "title": "BATTERY CONTROL SOFTWARE APPLICATION ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 99991,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 100060,
+     "title": "SOFTWARE VALIDATION ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 83158,
+     "title": "ANALYTICS SCIENTIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 138486,
+     "title": "MBS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 140000,
+     "title": "RESEARCH ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 143243,
+     "title": "IT SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 131130,
+     "title": "PRODUCT DESIGN ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 126230,
+     "title": "TECHNICAL PRODUCT MANAGER"
     }
    ]
   },
@@ -12157,6 +12268,11 @@
      "title": "ASSOCIATE"
     }
    ]
+  },
+  "kci": {
+   "fetched_at": "2026-10-27T15:39:26Z",
+   "label": "kci",
+   "titles": []
   },
   "keysight technologies": {
    "fetched_at": "2026-10-25T14:02:26Z",
@@ -21165,6 +21281,11 @@
   "us erac": {
    "fetched_at": "2026-10-25T22:41:29Z",
    "label": "us-erac",
+   "titles": []
+  },
+  "uscampus pepsico": {
+   "fetched_at": "2026-10-27T15:39:27Z",
+   "label": "uscampus-pepsico",
    "titles": []
   },
   "valeo": {
