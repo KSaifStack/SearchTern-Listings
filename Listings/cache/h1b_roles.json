@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-27T20:20:55Z",
+ "built_at": "2026-10-27T20:47:19Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8189,6 +8189,11 @@
    "label": "Eqt Corporation",
    "titles": []
   },
+  "eqt corporation https job boards greenhouse io eqtcorporation jobs 5462562008": {
+   "fetched_at": "2026-10-27T20:47:11Z",
+   "label": "[EQT Corporation](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008)",
+   "titles": []
+  },
   "eqtcorporation": {
    "fetched_at": "2026-10-25T08:51:15Z",
    "label": "eqtcorporation",
@@ -10667,6 +10672,112 @@
    "label": "Hdnn",
    "titles": []
   },
+  "health care service": {
+   "fetched_at": "2026-10-27T20:47:12Z",
+   "label": "Health Care Service",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 149760,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 139880,
+     "title": "DEVELOPER SPECIALIST"
+    },
+    {
+     "count": 12,
+     "median_salary": 145069,
+     "title": "SR DATA ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 127878,
+     "title": "SR SYSTEMS ANALYST"
+    },
+    {
+     "count": 10,
+     "median_salary": 127816,
+     "title": "SR DEVELOPER"
+    },
+    {
+     "count": 7,
+     "median_salary": 134971,
+     "title": "APPLICATION ARCHITECT"
+    },
+    {
+     "count": 5,
+     "median_salary": 90168,
+     "title": "SENIOR MANAGER ENGINEERING SERVICES"
+    },
+    {
+     "count": 4,
+     "median_salary": 156998,
+     "title": "SENIOR APPLICATION ARCHITECT"
+    },
+    {
+     "count": 4,
+     "median_salary": 108056,
+     "title": "SENIOR ENTERPRISE DATA ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 125860,
+     "title": "SENIOR TECHNOLOGY DELIVERY CONSULTANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 87464,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 116438,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 130707,
+     "title": "SENIOR SYSTEMS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 140920,
+     "title": "SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 156998,
+     "title": "SR APPLICATION ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 134014,
+     "title": "SR MGR PLATFORM STRATEGY"
+    },
+    {
+     "count": 3,
+     "median_salary": 138715,
+     "title": "SR. BUSINESS ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 127754,
+     "title": "SR. DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 122824,
+     "title": "SYSTEMS SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 133952,
+     "title": "BUSINESS ANALYST SPECIALIST"
+    }
+   ]
+  },
   "henkel": {
    "fetched_at": "2026-10-25T10:28:14Z",
    "label": "Henkel",
@@ -11910,6 +12021,11 @@
   "j m smucker": {
    "fetched_at": "2026-10-25T22:41:21Z",
    "label": "J M Smucker",
+   "titles": []
+  },
+  "jabil": {
+   "fetched_at": "2026-10-27T20:47:13Z",
+   "label": "Jabil",
    "titles": []
   },
   "jobgether": {
@@ -15655,6 +15771,32 @@
     }
    ]
   },
+  "oneok https oneok wd1 myworkdayjobs com oneok early careers job dallas tx engineering intern dallas tx r8156": {
+   "fetched_at": "2026-10-27T20:47:14Z",
+   "label": "[ONEOK](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 92019,
+     "title": "IT APPLICATIONS PROFESSIONAL IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 81494,
+     "title": "ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 85987,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 85987,
+     "title": "PIPELINE CONTROL SIMULATION ANALYST"
+    }
+   ]
+  },
   "onsemi": {
    "fetched_at": "2026-10-26T23:46:15Z",
    "label": "onsemi",
@@ -16697,6 +16839,17 @@
      "count": 2,
      "median_salary": 108012,
      "title": "TRANSMISSION PLANNING ENGINEER"
+    }
+   ]
+  },
+  "raytheon": {
+   "fetched_at": "2026-10-27T20:47:15Z",
+   "label": "Raytheon",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 178006,
+     "title": "PRINCIPAL SYSTEMS ENGINEER"
     }
    ]
   },
@@ -21161,6 +21314,112 @@
     }
    ]
   },
+  "uline": {
+   "fetched_at": "2026-10-27T20:47:16Z",
+   "label": "Uline",
+   "titles": [
+    {
+     "count": 11,
+     "median_salary": 136000,
+     "title": "SR. SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 143874,
+     "title": "SOFTWARE DEVELOPMENT TEAM LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 166672,
+     "title": "BUSINESS INTELLIGENCE TEAM LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 99164,
+     "title": "IT APPLICATIONS ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 144761,
+     "title": "SENIOR BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 108077,
+     "title": "SENIOR SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "SERVICE ASSET AND CONFIGURATION MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155657,
+     "title": "SOFTWARE DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 184140,
+     "title": "BUSINESS INTELLIGENCE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "BUSINESS INTELLIGENCE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 121000,
+     "title": "DATABASE ADMINISTRATOR TEAM LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 147472,
+     "title": "DATABASE TEAM LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 152587,
+     "title": "LEAD BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 157470,
+     "title": "LEAD DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 158620,
+     "title": "LEAD SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 166900,
+     "title": "SENIOR PLATFORM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82368,
+     "title": "SENIOR QUALITY ASSURANCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 82368,
+     "title": "SENIOR QUALITY ASSURANCE AUTOMATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 133000,
+     "title": "SENIOR SOFTWARE DEVELOPER - WEB"
+    }
+   ]
+  },
   "univera healthcare": {
    "fetched_at": "2026-10-26T18:40:27Z",
    "label": "Univera Healthcare",
@@ -21956,6 +22215,17 @@
    "label": "wadetrim",
    "titles": []
   },
+  "watts water": {
+   "fetched_at": "2026-10-27T20:47:16Z",
+   "label": "Watts Water",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "WORKDAY SECURITY ANALYST"
+    }
+   ]
+  },
   "watts water https wattswater wd5 myworkdayjobs com intern external job north andover ma strategic marketing intern analytics segmentation summer 2027 10017533": {
    "fetched_at": "2026-10-26T21:00:36Z",
    "label": "[Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Analytics---Segmentation--Summer-2027_10017533)",
@@ -22128,6 +22398,11 @@
      "title": "SOFTWARE DEVELOPER I"
     }
    ]
+  },
+  "westernveterinarypartnersllc": {
+   "fetched_at": "2026-10-27T20:47:17Z",
+   "label": "westernveterinarypartnersllc",
+   "titles": []
   },
   "wing": {
    "fetched_at": "2026-10-26T11:48:37Z",
@@ -22340,6 +22615,11 @@
      "title": "SR MACHINE LEARNING ENGINEER"
     }
    ]
+  },
+  "wovencare": {
+   "fetched_at": "2026-10-27T20:47:18Z",
+   "label": "wovencare",
+   "titles": []
   },
   "wsfs bank": {
    "fetched_at": "2026-10-25T23:03:06Z",
