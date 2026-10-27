@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 21
 
-**Page 21 of 45 — 22,653 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 21 of 44 — 22,428 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-20.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-22.md)
 
@@ -24,6 +24,54 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://poet.wd1.myworkdayjobs.com/job/Wichita-KS/IT-Service-Specialist-Intern---Summer-2027_R101707">↳ <strong>POET</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Service Specialist Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wichita<br>KS</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://poet.wd1.myworkdayjobs.com/job/Wichita-KS/IT-Service-Specialist-Intern---Summer-2027_R101707" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://poet.wd1.myworkdayjobs.com/job/Shelbyville-IN/Plant-Engineering-Intern---Summer-2027_R101670">↳ <strong>POET</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Plant Engineering Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shelbyville<br>IN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://poet.wd1.myworkdayjobs.com/job/Shelbyville-IN/Plant-Engineering-Intern---Summer-2027_R101670" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://poet.wd1.myworkdayjobs.com/job/Caro-MI/Plant-Engineering-Intern---Summer-2027_R101676">↳ <strong>POET</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Plant Engineering Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Caro<br>MI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://poet.wd1.myworkdayjobs.com/job/Caro-MI/Plant-Engineering-Intern---Summer-2027_R101676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://poet.wd1.myworkdayjobs.com/job/Wichita-KS/Business-Support-Analyst-Intern---Summer-2027_R101647">↳ <strong>POET</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Support Analyst Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wichita<br>KS</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://poet.wd1.myworkdayjobs.com/job/Wichita-KS/Business-Support-Analyst-Intern---Summer-2027_R101647" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://primient.wd1.myworkdayjobs.com/job/Decatur-IL/Transportation-Logistics-Analyst-Intern---Summer-2027_JREQ7012"><strong>Primient</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Logistics Analyst Intern - Sum...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Decatur<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://primient.wd1.myworkdayjobs.com/job/Decatur-IL/Transportation-Logistics-Analyst-Intern---Summer-2027_JREQ7012" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">28d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://primient.wd1.myworkdayjobs.com/job/Decatur-IL/Quality-Control-Quality-Assurance-Intern---Summer-2027_JREQ7016">↳ <strong>Primient</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Control/Quality Assurance Intern - Su...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Decatur<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://primient.wd1.myworkdayjobs.com/job/Decatur-IL/Quality-Control-Quality-Assurance-Intern---Summer-2027_JREQ7016" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">28d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://primient.wd1.myworkdayjobs.com/job/Duluth-MN/Process-Engineering-Intern---Summer-2027_JREQ7015"><strong>Primient</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Process Engineering Intern - Summer 2027</td>
@@ -2477,7 +2525,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern, Scene Understanding and Plan...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/didi/jobs/8299748" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3005,7 +3053,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Virtual Design &amp; Construction (VDC) Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Phoenix<br>AZ</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/strategicmissioncritical/jobs/4435327009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3013,7 +3061,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Virtual Design &amp; Construction (VDC) Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Clifton Park<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/strategicmissioncritical/jobs/4435403009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3357,7 +3405,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Project Sales Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/mpn/jobs/4908045008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3373,7 +3421,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Inside Sales Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Altamonte Springs<br>FL</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/ics/jobs/5423919008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3381,7 +3429,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Inside Sales Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pensacola<br>FL</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/ics/jobs/5423911008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3389,7 +3437,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Inside Sales Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>FL</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/ics/jobs/5423916008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3903,46 +3951,6 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wje.wd1.myworkdayjobs.com/job/Washington-DC-Falls-Church-VA/Entry-Level-Architect-Architectural-Engineer--Washington--DC-_WJE0315"><strong>WJE</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Architect/Architectural Engineer ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>D.C. (Falls Church<br>VA)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wje.wd1.myworkdayjobs.com/job/Washington-DC-Falls-Church-VA/Entry-Level-Architect-Architectural-Engineer--Washington--DC-_WJE0315" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wje.wd1.myworkdayjobs.com/job/Northbrook-IL/Entry-Level-Civil-Structural-Engineer---Concrete-Materials--Northbrook--IL-_WJE0310"><strong>WJE</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Civil/Structural Engineer - Concr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Northbrook<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wje.wd1.myworkdayjobs.com/job/Northbrook-IL/Entry-Level-Civil-Structural-Engineer---Concrete-Materials--Northbrook--IL-_WJE0310" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wje.wd1.myworkdayjobs.com/job/San-Antonio-TX/Entry-Level-Architect-Architectural-Engineer--San-Antonio--TX-_WJE0302"><strong>WJE</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Architect/Architectural Engineer ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Antonio<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wje.wd1.myworkdayjobs.com/job/San-Antonio-TX/Entry-Level-Architect-Architectural-Engineer--San-Antonio--TX-_WJE0302" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wje.wd1.myworkdayjobs.com/job/Northbrook-IL/Summer-2027-Internship--Fire-Protection-Engineering-Students-_WJE0297">↳ <strong>WJE</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Internship (Fire Protection Engin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">5 Locations</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wje.wd1.myworkdayjobs.com/job/Northbrook-IL/Summer-2027-Internship--Fire-Protection-Engineering-Students-_WJE0297" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wje.wd1.myworkdayjobs.com/job/Northbrook-IL/Summer-2027-Internship--Janney-Technical-Center-_WJE0295">↳ <strong>WJE</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Internship (Janney Technical Center)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Northbrook<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wje.wd1.myworkdayjobs.com/job/Northbrook-IL/Summer-2027-Internship--Janney-Technical-Center-_WJE0295" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 </tbody>
 </table>
