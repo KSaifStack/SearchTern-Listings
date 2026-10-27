@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-27T07:02:50Z",
+ "built_at": "2026-10-27T14:16:19Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -9044,6 +9044,11 @@
   "freeformfuturecorp": {
    "fetched_at": "2026-10-25T18:06:07Z",
    "label": "freeformfuturecorp",
+   "titles": []
+  },
+  "gaf https gafsgi wd5 myworkdayjobs com gaf careers job parsippany nj data management intern 26425": {
+   "fetched_at": "2026-10-27T14:16:17Z",
+   "label": "[GAF](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Data-Management-Intern_26425)",
    "titles": []
   },
   "gannettfleming": {
@@ -19675,6 +19680,112 @@
   "tencent": {
    "fetched_at": "2026-10-26T18:40:23Z",
    "label": "Tencent",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 190000,
+     "title": "SENIOR RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85500,
+     "title": "ASSOCIATE ENVIRONMENT ARTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 193658,
+     "title": "SENIOR GRAPHICS RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 165570,
+     "title": "SR. OPERATION AND DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "BENEFITS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132888,
+     "title": "BRAND COMMERCIAL MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144000,
+     "title": "GAMEPLAY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98504,
+     "title": "GLOBAL RECRUITING ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "HUNYUAN AIGC ALGORITHM RESEARCHER WORLD MODEL FOUNDATION DI"
+    },
+    {
+     "count": 1,
+     "median_salary": 210080,
+     "title": "KA TECHNICAL ACCOUNT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "LEAD GAMEPLAY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "LEVEL DESIGNER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 199000,
+     "title": "MANAGER, NA TECHNOLOGY SERVICE TEAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "MEDIA SERVICES ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 146976,
+     "title": "OPERATION AND DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108000,
+     "title": "PAYROLL AND BENEFIT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 192636,
+     "title": "SENIOR ANIMATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "SENIOR CONCEPT ARTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 229372,
+     "title": "SENIOR ENTERPRISE APPS SOLUTION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 145284,
+     "title": "SENIOR GAME DESIGNER"
+    }
+   ]
+  },
+  "tencent https tencent wd1 myworkdayjobs com tencent careers job us california los angeles tencent cloud cpaas product management intern r108020": {
+   "fetched_at": "2026-10-27T14:16:18Z",
+   "label": "[Tencent](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020)",
    "titles": [
     {
      "count": 7,
