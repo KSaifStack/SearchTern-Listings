@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T02:03:04Z",
+ "built_at": "2026-10-28T05:05:47Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2840,6 +2840,112 @@
   "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4731994005": {
    "fetched_at": "2026-10-25T16:10:57Z",
    "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 216091,
+     "title": "PRINCIPAL FIRMWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 131019,
+     "title": "SENIOR SYSTEM VALIDATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 217630,
+     "title": "TECH LEAD DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165422,
+     "title": "TECH LEAD FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190450,
+     "title": "PRINCIPAL PRODUCT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 145406,
+     "title": "SENIOR PHYSICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 216091,
+     "title": "SENIOR PRINCIPAL PRODUCT APPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146307,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 132101,
+     "title": "BUSINESS OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 156624,
+     "title": "DIGITAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 223538,
+     "title": "DIRECTOR OF SUPPLY CHAIN OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117645,
+     "title": "HARDWARE PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "MACHINE LEARNING SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "MISSION DESIGN ENGINEER"
+    }
+   ]
+  },
+  "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4739956005": {
+   "fetched_at": "2026-10-28T05:05:40Z",
+   "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005)",
    "titles": [
     {
      "count": 3,
@@ -10657,6 +10763,11 @@
    "label": "Hcrb",
    "titles": []
   },
+  "hcsc https hcsc wd1 myworkdayjobs com en us hcsc external job il chicago early careers enterprise data analyst intern r0059505": {
+   "fetched_at": "2026-10-28T05:05:41Z",
+   "label": "[HCSC](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Enterprise-Data-Analyst-Intern_R0059505)",
+   "titles": []
+  },
   "hctz": {
    "fetched_at": "2026-10-26T10:07:02Z",
    "label": "Hctz",
@@ -14692,6 +14803,112 @@
   "national information solutions cooperative nisc": {
    "fetched_at": "2026-10-25T14:47:32Z",
    "label": "National Information Solutions Cooperative (NISC)",
+   "titles": [
+    {
+     "count": 100,
+     "median_salary": 99087,
+     "title": "RESEARCH FELLOW"
+    },
+    {
+     "count": 35,
+     "median_salary": 126487,
+     "title": "STAFF SCIENTIST"
+    },
+    {
+     "count": 30,
+     "median_salary": 230000,
+     "title": "HOSPITALIST PHYSICIAN"
+    },
+    {
+     "count": 20,
+     "median_salary": 92116,
+     "title": "CLINICAL FELLOW"
+    },
+    {
+     "count": 16,
+     "median_salary": 102460,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 11,
+     "median_salary": 130000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 112923,
+     "title": "SENIOR FULL STACK ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 146078,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 130900,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 156800,
+     "title": "OPTOMETRIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 127000,
+     "title": "SENIOR ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 108640,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 105000,
+     "title": "ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 161472,
+     "title": "INVESTIGATOR TENURE TRACK"
+    },
+    {
+     "count": 6,
+     "median_salary": 128119,
+     "title": "PRINCIPAL SOFTWARE ENGINEER DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 96096,
+     "title": "PHYSICAL THERAPIST OP"
+    },
+    {
+     "count": 5,
+     "median_salary": 202520,
+     "title": "RESEARCHER"
+    },
+    {
+     "count": 5,
+     "median_salary": 116709,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 141170,
+     "title": "SENIOR MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 5,
+     "median_salary": 148625,
+     "title": "SOFTWARE APPLICATIONS ARCHITECT"
+    }
+   ]
+  },
+  "national interstate insurance": {
+   "fetched_at": "2026-10-28T05:05:42Z",
+   "label": "National Interstate Insurance",
    "titles": [
     {
      "count": 100,
@@ -19885,6 +20102,77 @@
    "label": "studsinc",
    "titles": []
   },
+  "sun life": {
+   "fetched_at": "2026-10-28T05:05:43Z",
+   "label": "Sun Life",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 125204,
+     "title": "SENIOR BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 240000,
+     "title": "AVP, CHIEF FINANCIAL OFFICER"
+    },
+    {
+     "count": 1,
+     "median_salary": 201573,
+     "title": "AVP, SUSTAINABILITY OPERATIONS AND PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "DIRECTOR OF QUALITY AND RISK MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 178000,
+     "title": "DIRECTOR, ACTUARIAL OVERSIGHT"
+    },
+    {
+     "count": 1,
+     "median_salary": 131576,
+     "title": "LEAD BI DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 124668,
+     "title": "LEAD PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 173000,
+     "title": "SENIOR PRINCIPAL ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 115146,
+     "title": "SR. DATA STEWARD ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 126500,
+     "title": "SR. RELEASE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "VALUATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 252000,
+     "title": "VICE PRESIDENT, TREASURER AND HEAD OF CAPITAL PLANNING"
+    }
+   ]
+  },
   "symbotic": {
    "fetched_at": "2026-10-26T18:40:20Z",
    "label": "Symbotic",
@@ -20779,6 +21067,11 @@
    "label": "The Walt Disney Company",
    "titles": []
   },
+  "the walt disney company https disney wd5 myworkdayjobs com disneycareer job burbank ca usa content research insights analytics intern spring 2027 10164072 1": {
+   "fetched_at": "2026-10-28T05:05:44Z",
+   "label": "[The Walt Disney Company](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1)",
+   "titles": []
+  },
   "tiktok": {
    "fetched_at": "2026-10-25T22:12:24Z",
    "label": "TikTok",
@@ -21540,6 +21833,112 @@
   "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job pickle research campus student technician r 00048194": {
    "fetched_at": "2026-10-26T18:40:30Z",
    "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194)",
+   "titles": [
+    {
+     "count": 1748,
+     "median_salary": 115000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 371,
+     "median_salary": 74425,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 214,
+     "median_salary": 62116,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 214,
+     "median_salary": 63000,
+     "title": "POSTDOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 190,
+     "median_salary": 84000,
+     "title": "ASSISTANT PROJECT SCIENTIST"
+    },
+    {
+     "count": 175,
+     "median_salary": 216000,
+     "title": "CLINICAL ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 164,
+     "median_salary": 63120,
+     "title": "POSTDOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 127,
+     "median_salary": 62652,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 126,
+     "median_salary": 68182,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 121,
+     "median_salary": 73368,
+     "title": "LECTURER"
+    },
+    {
+     "count": 117,
+     "median_salary": 68869,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 115,
+     "median_salary": 79706,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 110,
+     "median_salary": 139914,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 90,
+     "median_salary": 87620,
+     "title": "GLIDE TEAM REGISTERED NURSE 2 INPATIENT"
+    },
+    {
+     "count": 84,
+     "median_salary": 77030,
+     "title": "POSTDOCTORAL SCHOLAR EMPLOYEE"
+    },
+    {
+     "count": 77,
+     "median_salary": 68964,
+     "title": "INSTRUCTOR"
+    },
+    {
+     "count": 69,
+     "median_salary": 80700,
+     "title": "ASSOCIATE SPECIALIST"
+    },
+    {
+     "count": 67,
+     "median_salary": 88303,
+     "title": "ASSISTANT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 66,
+     "median_salary": 75727,
+     "title": "POSTDOCTORAL SCHOLAR-EMPLOYEE"
+    },
+    {
+     "count": 59,
+     "median_salary": 68141,
+     "title": "MEDICAL RESIDENT"
+    }
+   ]
+  },
+  "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job ut main campus graduate research assistant quantitative and systems health services r 00048152": {
+   "fetched_at": "2026-10-28T05:05:47Z",
+   "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Graduate-Research-Assistant--Quantitative-and-Systems-Health-Services_R_00048152)",
    "titles": [
     {
      "count": 1748,
