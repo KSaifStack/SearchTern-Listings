@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:57:25.786349+00:00",
+  "generated_at": "2026-10-28T07:51:41.947515+00:00",
   "count": 48,
   "sources": [
     {
@@ -28,7 +28,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 851
+      "count": 842
     },
     {
       "name": "SuryaHarikrishnan DS/AI",
@@ -105,7 +105,7 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 481
+      "count": 484
     },
     {
       "name": "lilguy Live Feed",
