@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T05:05:47Z",
+ "built_at": "2026-10-28T14:49:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2516,6 +2516,112 @@
      "count": 1,
      "median_salary": 145000,
      "title": "SENIOR ELECTRICAL ENGINEER"
+    }
+   ]
+  },
+  "asml": {
+   "fetched_at": "2026-10-28T14:49:44Z",
+   "label": "ASML",
+   "titles": [
+    {
+     "count": 42,
+     "median_salary": 161720,
+     "title": "SENIOR SOFTWARE ENGINEER 1"
+    },
+    {
+     "count": 18,
+     "median_salary": 147150,
+     "title": "TECHNICAL PROJECT MANAGER 1"
+    },
+    {
+     "count": 17,
+     "median_salary": 97323,
+     "title": "SYSTEM INTEGRATION AND TEST ENGINEER 3"
+    },
+    {
+     "count": 16,
+     "median_salary": 161185,
+     "title": "SENIOR SOFTWARE ENGINEER 2"
+    },
+    {
+     "count": 16,
+     "median_salary": 128533,
+     "title": "SOFTWARE ENGINEER 3"
+    },
+    {
+     "count": 16,
+     "median_salary": 120700,
+     "title": "TECHNICAL PROJECT LEAD 2"
+    },
+    {
+     "count": 15,
+     "median_salary": 97698,
+     "title": "MECHANICAL ENGINEER 3"
+    },
+    {
+     "count": 15,
+     "median_salary": 127171,
+     "title": "SENIOR MECHATRONICS ENGINEER 1"
+    },
+    {
+     "count": 15,
+     "median_salary": 112625,
+     "title": "SENIOR SYSTEM INDUSTRIALISATION ENGINEER 1"
+    },
+    {
+     "count": 14,
+     "median_salary": 100535,
+     "title": "MECHATRONICS ENGINEER 3"
+    },
+    {
+     "count": 14,
+     "median_salary": 130832,
+     "title": "SENIOR ELECTRICAL ENGINEER 1"
+    },
+    {
+     "count": 10,
+     "median_salary": 102850,
+     "title": "CS TECHNICAL SUPPORT ENGINEER 3"
+    },
+    {
+     "count": 9,
+     "median_salary": 110781,
+     "title": "ELECTRICAL ENGINEER 3"
+    },
+    {
+     "count": 9,
+     "median_salary": 119288,
+     "title": "SENIOR MECHANICAL ENGINEER 1"
+    },
+    {
+     "count": 8,
+     "median_salary": 87090,
+     "title": "FIELD SERVICE ENGINEER 3"
+    },
+    {
+     "count": 8,
+     "median_salary": 119662,
+     "title": "SENIOR QUALITY ENGINEER 1"
+    },
+    {
+     "count": 8,
+     "median_salary": 104975,
+     "title": "SENIOR SUPPLY CHAIN ENGINEER 1"
+    },
+    {
+     "count": 7,
+     "median_salary": 97323,
+     "title": "SYSTEM INDUSTRIALISATION ENGINEER 3"
+    },
+    {
+     "count": 6,
+     "median_salary": 160243,
+     "title": "DESIGN ENGINEERING AND ARCHITECTURE LINE MANAGER GL 1"
+    },
+    {
+     "count": 6,
+     "median_salary": 124456,
+     "title": "MECHANICAL ARCHITECT 2"
     }
    ]
   },
@@ -12020,6 +12126,112 @@
      "count": 24,
      "median_salary": 96734,
      "title": "INDUSTRIAL ENGINEER"
+    }
+   ]
+  },
+  "intuit": {
+   "fetched_at": "2026-10-28T14:49:45Z",
+   "label": "Intuit",
+   "titles": [
+    {
+     "count": 127,
+     "median_salary": 151819,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 77,
+     "median_salary": 127570,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 46,
+     "median_salary": 191043,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 30,
+     "median_salary": 164826,
+     "title": "STAFF BUSINESS DATA ANALYST"
+    },
+    {
+     "count": 29,
+     "median_salary": 182333,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 27,
+     "median_salary": 135239,
+     "title": "SENIOR BUSINESS DATA ANALYST"
+    },
+    {
+     "count": 21,
+     "median_salary": 226120,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 21,
+     "median_salary": 159695,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 18,
+     "median_salary": 133224,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 224115,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 179171,
+     "title": "STAFF PRODUCT MANAGER"
+    },
+    {
+     "count": 13,
+     "median_salary": 146055,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 13,
+     "median_salary": 140959,
+     "title": "SENIOR PRODUCT DESIGNER"
+    },
+    {
+     "count": 12,
+     "median_salary": 202140,
+     "title": "MANAGER, BUSINESS DATA ANALYTICS"
+    },
+    {
+     "count": 11,
+     "median_salary": 238653,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 101180,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 11,
+     "median_salary": 192859,
+     "title": "STAFF TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 9,
+     "median_salary": 223743,
+     "title": "PRINCIPAL PRODUCT MANAGER"
+    },
+    {
+     "count": 9,
+     "median_salary": 165000,
+     "title": "STAFF FRAUD AND RISK ANALYST"
+    },
+    {
+     "count": 8,
+     "median_salary": 211807,
+     "title": "MANAGER, DEVELOPMENT"
     }
    ]
   },
