@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T15:08:14Z",
+ "built_at": "2026-10-28T20:09:04Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7616,6 +7616,112 @@
    "label": "DV Trading",
    "titles": []
   },
+  "eaton": {
+   "fetched_at": "2026-10-28T20:09:03Z",
+   "label": "Eaton",
+   "titles": [
+    {
+     "count": 13,
+     "median_salary": 120000,
+     "title": "LEAD ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 82500,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 123000,
+     "title": "TECHNICAL PRODUCT OWNER - SMART FILTRATION"
+    },
+    {
+     "count": 4,
+     "median_salary": 110077,
+     "title": "EMBEDDED SYSTEMS ENGINEER LEADERSHIP DEVELOPMENT PARTICIPANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 143367,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 75000,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 81432,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 92000,
+     "title": "SENIOR MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "LEAD ENGINEER, POWER ELECTRONICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 139629,
+     "title": "LEAD FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "LEAD MATERIALS ENGINEER - POWER CONVERSION"
+    },
+    {
+     "count": 2,
+     "median_salary": 124569,
+     "title": "LEAD MECHANICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131164,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 154183,
+     "title": "POWER SYSTEMS ENGINEERING SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 155836,
+     "title": "PROGRAM MANAGER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 76555,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 103850,
+     "title": "QUALITY ENGINEERING SUPERVISOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 102500,
+     "title": "SENIOR ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 109675,
+     "title": "SENIOR EMBEDDED FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 108561,
+     "title": "SENIOR ENGINEER"
+    }
+   ]
+  },
   "ebfr": {
    "fetched_at": "2026-10-25T05:37:57Z",
    "label": "Ebfr",
@@ -13598,6 +13704,17 @@
    "fetched_at": "2026-10-25T14:02:37Z",
    "label": "llnl",
    "titles": []
+  },
+  "lockheed martin": {
+   "fetched_at": "2026-10-28T20:09:03Z",
+   "label": "Lockheed Martin",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 211932,
+     "title": "PROJECT ENGINEER SENIOR STAFF"
+    }
+   ]
   },
   "lpl financial": {
    "fetched_at": "2026-10-25T14:02:37Z",
