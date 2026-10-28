@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-27T20:57:04Z",
+ "built_at": "2026-10-28T02:03:04Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13679,6 +13679,112 @@
      "count": 6,
      "median_salary": 90397,
      "title": "BIZOPS ENGINEER"
+    }
+   ]
+  },
+  "mayo clinic": {
+   "fetched_at": "2026-10-28T02:03:04Z",
+   "label": "Mayo Clinic",
+   "titles": [
+    {
+     "count": 156,
+     "median_salary": 82510,
+     "title": "CLINICAL RESIDENT"
+    },
+    {
+     "count": 92,
+     "median_salary": 64376,
+     "title": "RESEARCH FELLOW"
+    },
+    {
+     "count": 62,
+     "median_salary": 81080,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 30,
+     "median_salary": 61370,
+     "title": "RESEARCH TECHNOLOGIST"
+    },
+    {
+     "count": 16,
+     "median_salary": 73289,
+     "title": "SENIOR RESEARCH TECHNOLOGIST"
+    },
+    {
+     "count": 10,
+     "median_salary": 324227,
+     "title": "HOSPITALIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 76248,
+     "title": "CLINICAL LABORATORY TECHNOLOGIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 106558,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 140005,
+     "title": "SENIOR DATA SCIENCE ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 93274,
+     "title": "CLINICAL LAB TECHNOLOGIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 140500,
+     "title": "ASSOCIATE CONSULTANT I"
+    },
+    {
+     "count": 5,
+     "median_salary": 286875,
+     "title": "FAMILY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 4,
+     "median_salary": 85702,
+     "title": "ASSOCIATE DATA SCIENCE ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 102678,
+     "title": "DATA SCIENCE ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 90480,
+     "title": "ASSOCIATE AI ML ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 700250,
+     "title": "CARDIOLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 539367,
+     "title": "GASTROENTEROLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 299367,
+     "title": "SENIOR ASSOCIATE CONSULTANT- PSYCHIATRY"
+    },
+    {
+     "count": 3,
+     "median_salary": 117121,
+     "title": "SENIOR BIOINFORMATICIAN"
+    },
+    {
+     "count": 3,
+     "median_salary": 118680,
+     "title": "SENIOR ENGINEER"
     }
    ]
   },
