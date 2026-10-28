@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T14:53:02Z",
+ "built_at": "2026-10-28T15:08:14Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -125,6 +125,11 @@
   "accorhotel": {
    "fetched_at": "2026-10-24T20:11:03Z",
    "label": "AccorHotel",
+   "titles": []
+  },
+  "aclu kentucky": {
+   "fetched_at": "2026-10-28T15:08:11Z",
+   "label": "ACLU Kentucky",
    "titles": []
   },
   "acluinternships": {
@@ -12023,6 +12028,27 @@
     }
    ]
   },
+  "insomniac games https job boards greenhouse io insomniac jobs 6226611004": {
+   "fetched_at": "2026-10-28T15:08:12Z",
+   "label": "[Insomniac Games](https://job-boards.greenhouse.io/insomniac/jobs/6226611004)",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 137300,
+     "title": "ADVANCED GAMEPLAY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "DIRECTOR, CREATIVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 139000,
+     "title": "SENIOR ANIMATOR"
+    }
+   ]
+  },
   "intel": {
    "fetched_at": "2026-10-25T10:28:31Z",
    "label": "Intel",
@@ -19002,6 +19028,11 @@
      "title": "STRATEGIC ACCOUNTING ANALYST"
     }
    ]
+  },
+  "sgs": {
+   "fetched_at": "2026-10-28T15:08:13Z",
+   "label": "sgs",
+   "titles": []
   },
   "sharkninja": {
    "fetched_at": "2026-10-26T18:40:16Z",
