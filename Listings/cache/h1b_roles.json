@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T20:43:36Z",
+ "built_at": "2026-10-28T21:04:57Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2948,6 +2948,112 @@
     }
    ]
   },
+  "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4731590005": {
+   "fetched_at": "2026-10-28T21:04:53Z",
+   "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731590005)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 216091,
+     "title": "PRINCIPAL FIRMWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 131019,
+     "title": "SENIOR SYSTEM VALIDATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 217630,
+     "title": "TECH LEAD DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165422,
+     "title": "TECH LEAD FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190450,
+     "title": "PRINCIPAL PRODUCT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 145406,
+     "title": "SENIOR PHYSICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 216091,
+     "title": "SENIOR PRINCIPAL PRODUCT APPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146307,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 132101,
+     "title": "BUSINESS OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 156624,
+     "title": "DIGITAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 223538,
+     "title": "DIRECTOR OF SUPPLY CHAIN OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117645,
+     "title": "HARDWARE PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "MACHINE LEARNING SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "MISSION DESIGN ENGINEER"
+    }
+   ]
+  },
   "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4731994005": {
    "fetched_at": "2026-10-25T16:10:57Z",
    "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005)",
@@ -3178,6 +3284,112 @@
      "count": 1,
      "median_salary": 115000,
      "title": "SR. PROJECT ENGINEER"
+    }
+   ]
+  },
+  "aurora innovation": {
+   "fetched_at": "2026-10-28T21:04:54Z",
+   "label": "Aurora Innovation",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 130000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 8,
+     "median_salary": 162000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152000,
+     "title": "SENIOR DATA SCIENTIST, SAFETY RESEARCH AND DATA ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 191000,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 117008,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 163000,
+     "title": "STAFF PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 189000,
+     "title": "STAFF SAFETY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 186831,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 181000,
+     "title": "STAFF TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 86528,
+     "title": "HRIS HUMAN RESOURCES INFORMATION SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 181000,
+     "title": "SENIOR MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 183456,
+     "title": "SENIOR PRODUCT PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 168000,
+     "title": "SENIOR SAFETY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 152000,
+     "title": "SENIOR SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 191000,
+     "title": "SENIOR STAFF DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 254000,
+     "title": "SENIOR STAFF SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 188000,
+     "title": "SENIOR TECHNICAL PROGRAM MANAGER - SECURITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "STAFF ENGINEER, TEST TOOLS"
+    },
+    {
+     "count": 1,
+     "median_salary": 181000,
+     "title": "STAFF SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 189000,
+     "title": "STAFF TECH LEAD MANAGER"
     }
    ]
   },
@@ -5392,6 +5604,11 @@
      "title": "PRINCIPAL GNC ENGINEER I"
     }
    ]
+  },
+  "cfsenergy": {
+   "fetched_at": "2026-10-28T21:04:55Z",
+   "label": "cfsenergy",
+   "titles": []
   },
   "charter manufacturing": {
    "fetched_at": "2026-10-25T02:20:30Z",
@@ -9110,6 +9327,112 @@
      "count": 1,
      "median_salary": 129709,
      "title": "VICE PRESIDENT, DIGITAL SHARED SERVICES"
+    }
+   ]
+  },
+  "figma": {
+   "fetched_at": "2026-10-28T21:04:55Z",
+   "label": "Figma",
+   "titles": [
+    {
+     "count": 29,
+     "median_salary": 210420,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 195991,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 191000,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 3,
+     "median_salary": 190000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 279500,
+     "title": "MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 258000,
+     "title": "APPLIED SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 139589,
+     "title": "ASSOCIATE PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 179000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "INTEGRATION ENGINEER, QA"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "INTEGRATION ENGINEERING LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "LEGAL COUNSEL"
+    },
+    {
+     "count": 1,
+     "median_salary": 206424,
+     "title": "MANAGER, INTEGRATION ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 285115,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "MARKETING OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 206440,
+     "title": "PRIVACY OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138050,
+     "title": "RESEARCH PROGRAM MANAGER, AUDIENCE ENGAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 148941,
+     "title": "REVENUE STRATEGY &AMP; TECHNICAL ACCOUNTING LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 189555,
+     "title": "SOFTWARE ENGINEER - GROWTH"
+    },
+    {
+     "count": 1,
+     "median_salary": 207485,
+     "title": "SOFTWARE ENGINEER - INFRASTRUCTURE"
     }
    ]
   },
@@ -15264,6 +15587,112 @@
   "national interstate insurance": {
    "fetched_at": "2026-10-28T05:05:42Z",
    "label": "National Interstate Insurance",
+   "titles": [
+    {
+     "count": 100,
+     "median_salary": 99087,
+     "title": "RESEARCH FELLOW"
+    },
+    {
+     "count": 35,
+     "median_salary": 126487,
+     "title": "STAFF SCIENTIST"
+    },
+    {
+     "count": 30,
+     "median_salary": 230000,
+     "title": "HOSPITALIST PHYSICIAN"
+    },
+    {
+     "count": 20,
+     "median_salary": 92116,
+     "title": "CLINICAL FELLOW"
+    },
+    {
+     "count": 16,
+     "median_salary": 102460,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 11,
+     "median_salary": 130000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 112923,
+     "title": "SENIOR FULL STACK ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 146078,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 130900,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 156800,
+     "title": "OPTOMETRIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 127000,
+     "title": "SENIOR ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 108640,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 105000,
+     "title": "ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 161472,
+     "title": "INVESTIGATOR TENURE TRACK"
+    },
+    {
+     "count": 6,
+     "median_salary": 128119,
+     "title": "PRINCIPAL SOFTWARE ENGINEER DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 96096,
+     "title": "PHYSICAL THERAPIST OP"
+    },
+    {
+     "count": 5,
+     "median_salary": 202520,
+     "title": "RESEARCHER"
+    },
+    {
+     "count": 5,
+     "median_salary": 116709,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 141170,
+     "title": "SENIOR MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 5,
+     "median_salary": 148625,
+     "title": "SOFTWARE APPLICATIONS ARCHITECT"
+    }
+   ]
+  },
+  "national laboratory of the rockies": {
+   "fetched_at": "2026-10-28T21:04:57Z",
+   "label": "National Laboratory of the Rockies",
    "titles": [
     {
      "count": 100,
