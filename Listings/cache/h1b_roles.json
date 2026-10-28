@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T20:09:04Z",
+ "built_at": "2026-10-28T20:43:36Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -19082,6 +19082,112 @@
      "count": 1,
      "median_salary": 205000,
      "title": "BUSINESS DEVELOPMENT MANAGER"
+    }
+   ]
+  },
+  "schneider electric": {
+   "fetched_at": "2026-10-28T20:43:35Z",
+   "label": "Schneider Electric",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 130000,
+     "title": "SENIOR CAMPAIGN TEST LEADER"
+    },
+    {
+     "count": 3,
+     "median_salary": 95000,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 181230,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 113100,
+     "title": "STAFF MECHANICAL ENGINEER - TEAM LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 275000,
+     "title": "CHIEF ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 89867,
+     "title": "ENERGY ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 139472,
+     "title": "EXPERT, DATA QA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 122970,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102000,
+     "title": "HARDWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 203000,
+     "title": "HEAD OF TECHNOLOGY FOR INFRASTRUCTURE SEGMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 124855,
+     "title": "LEAD, DIGITAL WORKPLACE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155000,
+     "title": "MANUFACTURING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 118148,
+     "title": "MANUFACTURING SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 144829,
+     "title": "POWER SYSTEM ENGINEER STAFF"
+    },
+    {
+     "count": 2,
+     "median_salary": 118500,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125304,
+     "title": "SENIOR APPLICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 114300,
+     "title": "SENIOR FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 98000,
+     "title": "SENIOR MECHANICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 124183,
+     "title": "SENIOR POWER SYSTEM ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "SENIOR POWER SYSTEMS ENGINEER"
     }
    ]
   },
