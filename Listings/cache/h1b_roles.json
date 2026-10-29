@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T03:27:13Z",
+ "built_at": "2026-10-29T05:15:57Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7861,6 +7861,27 @@
      "count": 1,
      "median_salary": 92768,
      "title": "REPORTER"
+    }
+   ]
+  },
+  "draper": {
+   "fetched_at": "2026-10-29T05:15:52Z",
+   "label": "Draper",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "MANAGER OF AV CONSULTANT RELATIONS AND PROJECT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "PROGRAM OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190757,
+     "title": "SENIOR VICE PRESIDENT OF FINANCE"
     }
    ]
   },
@@ -17194,6 +17215,62 @@
     }
    ]
   },
+  "pennsylvania state university": {
+   "fetched_at": "2026-10-29T05:15:53Z",
+   "label": "Pennsylvania State University",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 65624,
+     "title": "IT TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 66935,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 92706,
+     "title": "CIVIC ENGAGEMENT DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 52500,
+     "title": "ELEMENTARY SCHOOL TEACHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 27983,
+     "title": "INSTRUCTOR OF PHOTOGRAPHY"
+    },
+    {
+     "count": 1,
+     "median_salary": 166400,
+     "title": "ASSOCIATE DENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 96262,
+     "title": "BUSINESS SYSTEMS SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 195752,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 97000,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97614,
+     "title": "SYSTEM INTEGRATION SPECIALIST"
+    }
+   ]
+  },
   "peraton": {
    "fetched_at": "2026-10-25T19:01:40Z",
    "label": "peraton",
@@ -18170,6 +18247,218 @@
      "count": 2,
      "median_salary": 109500,
      "title": "SOFTWARE QUALITY ENGINEER"
+    }
+   ]
+  },
+  "regeneron": {
+   "fetched_at": "2026-10-29T05:15:54Z",
+   "label": "Regeneron",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 155375,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 12,
+     "median_salary": 142213,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 88650,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 98445,
+     "title": "SENIOR ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 159963,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "MANAGER DATA MANAGEMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 117505,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 101295,
+     "title": "SR ASSOC SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 168697,
+     "title": "SR MGR DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "MANAGER, DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 156693,
+     "title": "MGR REGULATORY PUBLISHING"
+    },
+    {
+     "count": 2,
+     "median_salary": 184399,
+     "title": "MGR STATISTICAL GENETICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 94391,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 129572,
+     "title": "PRINCIPAL IT APPLICATIONS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141641,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182752,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 196895,
+     "title": "SENIOR MANAGER BIOSTATISTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 185000,
+     "title": "SENIOR MANAGER, MEDICAL AFFAIRS"
+    },
+    {
+     "count": 2,
+     "median_salary": 106444,
+     "title": "SENIOR QC SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125788,
+     "title": "SENIOR STATISTICAL PROGRAMMER"
+    }
+   ]
+  },
+  "regeneron pharmaceuticals https regeneron wd1 myworkdayjobs com en us careers job rensselaer xmlname 2027 summer intern it systems iops r51822": {
+   "fetched_at": "2026-10-29T05:15:55Z",
+   "label": "[Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822)",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 155375,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 12,
+     "median_salary": 142213,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 88650,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 98445,
+     "title": "SENIOR ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 159963,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "MANAGER DATA MANAGEMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 117505,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 101295,
+     "title": "SR ASSOC SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 168697,
+     "title": "SR MGR DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "MANAGER, DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 156693,
+     "title": "MGR REGULATORY PUBLISHING"
+    },
+    {
+     "count": 2,
+     "median_salary": 184399,
+     "title": "MGR STATISTICAL GENETICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 94391,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 129572,
+     "title": "PRINCIPAL IT APPLICATIONS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141641,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182752,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 196895,
+     "title": "SENIOR MANAGER BIOSTATISTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 185000,
+     "title": "SENIOR MANAGER, MEDICAL AFFAIRS"
+    },
+    {
+     "count": 2,
+     "median_salary": 106444,
+     "title": "SENIOR QC SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125788,
+     "title": "SENIOR STATISTICAL PROGRAMMER"
     }
    ]
   },
@@ -19513,6 +19802,11 @@
   "sargentlundy": {
    "fetched_at": "2026-10-25T20:24:59Z",
    "label": "sargentlundy",
+   "titles": []
+  },
+  "saronic": {
+   "fetched_at": "2026-10-29T05:15:56Z",
+   "label": "Saronic",
    "titles": []
   },
   "scale ai": {
@@ -21213,6 +21507,11 @@
   "studsinc": {
    "fetched_at": "2026-10-26T18:40:19Z",
    "label": "studsinc",
+   "titles": []
+  },
+  "stv": {
+   "fetched_at": "2026-10-29T05:15:57Z",
+   "label": "STV",
    "titles": []
   },
   "sun life": {
