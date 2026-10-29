@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T17:20:33Z",
+ "built_at": "2026-10-29T21:09:26Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6911,6 +6911,112 @@
      "count": 1,
      "median_salary": 47300,
      "title": "ASSISTANT PROFESSOR OF SPORT MANAGEMENT"
+    }
+   ]
+  },
+  "commonwealth fusion systems https jobs lever co cfsenergy 32987ab7 59ed 4364 a012 91cbece8877a apply": {
+   "fetched_at": "2026-10-29T21:09:24Z",
+   "label": "[Commonwealth Fusion Systems](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply)",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 93122,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 93122,
+     "title": "GENERAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 100800,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 34070,
+     "title": "CLINICAL LABORATORY SCIENTISTS"
+    },
+    {
+     "count": 3,
+     "median_salary": 94738,
+     "title": "DIRECTOR OF MULTICULTURAL MEDIA"
+    },
+    {
+     "count": 3,
+     "median_salary": 47362,
+     "title": "EMERGENCY ROOM NURSE"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "ASSOCIATE DIRECTOR CLIENT RISK SOLUTIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 182500,
+     "title": "ASSOCIATE DIRECTOR, US PRIVATE PLACEMENT SYNDICATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 47913,
+     "title": "CRITICAL CARE NURSE"
+    },
+    {
+     "count": 2,
+     "median_salary": 121479,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 28538,
+     "title": "DENTAL THERAPIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 104827,
+     "title": "DIGITAL HEALTH PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 56171,
+     "title": "ENGINEER CIVIL"
+    },
+    {
+     "count": 2,
+     "median_salary": 152068,
+     "title": "IT QUALITY ASSURANCE, SENIOR ASSOCIATE II"
+    },
+    {
+     "count": 2,
+     "median_salary": 107200,
+     "title": "MANAGEMENT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 171018,
+     "title": "MANAGER, CREDIT"
+    },
+    {
+     "count": 2,
+     "median_salary": 175531,
+     "title": "MANAGER, DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 49816,
+     "title": "NURSE CLINIC MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104000,
+     "title": "PRINCIPAL POLICY ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 176663,
+     "title": "PROGRAM MANAGER"
     }
    ]
   },
@@ -16647,6 +16753,57 @@
     }
    ]
   },
+  "nintendo": {
+   "fetched_at": "2026-10-29T21:09:24Z",
+   "label": "nintendo",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 137259,
+     "title": "DEVELOPMENT OPERATIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138000,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "MANAGER, IT"
+    },
+    {
+     "count": 1,
+     "median_salary": 137259,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "PRINCIPAL, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "PROGRAM MANAGER, IT"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "SR. BI DATA ANALYTICS ENGINEER"
+    }
+   ]
+  },
   "nissan": {
    "fetched_at": "2026-10-25T18:06:19Z",
    "label": "Nissan",
@@ -18575,6 +18732,112 @@
      "count": 2,
      "median_salary": 125788,
      "title": "SENIOR STATISTICAL PROGRAMMER"
+    }
+   ]
+  },
+  "regeneron pharmaceuticals": {
+   "fetched_at": "2026-10-29T21:09:25Z",
+   "label": "Regeneron Pharmaceuticals",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 155375,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 12,
+     "median_salary": 142213,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 88650,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 98445,
+     "title": "SENIOR ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 159963,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "MANAGER DATA MANAGEMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 117505,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 101295,
+     "title": "SR ASSOC SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 168697,
+     "title": "SR MGR DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "MANAGER, DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 156693,
+     "title": "MGR REGULATORY PUBLISHING"
+    },
+    {
+     "count": 2,
+     "median_salary": 94391,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 129572,
+     "title": "PRINCIPAL IT APPLICATIONS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141641,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182752,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 196895,
+     "title": "SENIOR MANAGER BIOSTATISTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 185000,
+     "title": "SENIOR MANAGER, MEDICAL AFFAIRS"
+    },
+    {
+     "count": 2,
+     "median_salary": 106444,
+     "title": "SENIOR QC SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125788,
+     "title": "SENIOR STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 196844,
+     "title": "SR MGR PRODUCT MANAGEMENT"
     }
    ]
   },
