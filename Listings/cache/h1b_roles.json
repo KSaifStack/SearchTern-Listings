@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T01:25:58Z",
+ "built_at": "2026-10-29T03:27:13Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7252,6 +7252,42 @@
     }
    ]
   },
+  "danaher": {
+   "fetched_at": "2026-10-29T03:27:11Z",
+   "label": "Danaher",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "AI ENGINEER-SUPPLY CHAIN"
+    },
+    {
+     "count": 1,
+     "median_salary": 127793,
+     "title": "BI DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140150,
+     "title": "CXC COMMERCIAL DATA ANALYTICS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "MANAGER, SOLUTION ARCHITECT ENGINEERING - SUPPLY CHAIN AI"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "SENIOR DATA AND ANALYTICS ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 427744,
+     "title": "VICE PRESIDENT, STRATEGIC DEVELOPMENT"
+    }
+   ]
+  },
   "databricks": {
    "fetched_at": "2026-10-25T09:13:35Z",
    "label": "Databricks",
@@ -10688,6 +10724,72 @@
      "count": 37,
      "median_salary": 175000,
      "title": "HARDWARE ENGINEER"
+    }
+   ]
+  },
+  "gordon food service": {
+   "fetched_at": "2026-10-29T03:27:12Z",
+   "label": "Gordon Food Service",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 127963,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 130000,
+     "title": "APPLICATION FUNCTIONAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 155697,
+     "title": "LEAD, TECHNICAL INTEGRATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 126174,
+     "title": "ARCHITECT, SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 148526,
+     "title": "ERP APPLICATION SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "INTERMEDIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 159432,
+     "title": "MANAGER, GTS TEAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "NETWORK MODELER, NORTH AMERICAN DISTRIBUTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 93359,
+     "title": "QUALITY CONTROL ENGINEER, INTERMEDIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 133154,
+     "title": "SENIOR ANALYST, TECHNO-FUNCTIONAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 132613,
+     "title": "SENIOR ERP SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "US MANAGER, PRODUCTS"
     }
    ]
   },
@@ -19622,6 +19724,112 @@
      "count": 2,
      "median_salary": 135000,
      "title": "SENIOR POWER SYSTEMS ENGINEER"
+    }
+   ]
+  },
+  "schonfeld": {
+   "fetched_at": "2026-10-29T03:27:12Z",
+   "label": "Schonfeld",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 187500,
+     "title": "ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 187200,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 215000,
+     "title": "QUANTITATIVE RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "ACCOUNTING ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 263500,
+     "title": "DIRECTOR OF RISK DISCRETIONARY MACRO &AMP; FIXED INCOME DMFI"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "EXECUTION QUANT RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "FUND ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 222100,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 242800,
+     "title": "PLATFORM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "PLATFORM SUPPORT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "PORTFOLIO MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "QUANT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "QUANT RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 195000,
+     "title": "QUANTITATIVE RESEARCHER TRADING AND EXECUTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "RISK ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 281600,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "SENIOR FUND ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "SENIOR QUANTITATIVE RESEARCHER EQUITY DERIVATIVES"
+    },
+    {
+     "count": 1,
+     "median_salary": 190300,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 208500,
+     "title": "SENIOR SOFTWARE ENGINEER PRODUCTION STABILITY"
     }
    ]
   },
