@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-28T21:04:57Z",
+ "built_at": "2026-10-29T01:25:58Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -14334,6 +14334,11 @@
     }
    ]
   },
+  "mapei": {
+   "fetched_at": "2026-10-29T01:25:56Z",
+   "label": "Mapei",
+   "titles": []
+  },
   "marcus millichap": {
    "fetched_at": "2026-10-26T04:10:28Z",
    "label": "Marcus & Millichap",
@@ -19934,6 +19939,11 @@
      "title": "OCCUPATIONAL THERAPIST"
     }
    ]
+  },
+  "sig": {
+   "fetched_at": "2026-10-29T01:25:57Z",
+   "label": "sig",
+   "titles": []
   },
   "simon property": {
    "fetched_at": "2026-10-26T04:10:38Z",

@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 00:01:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:26:36 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Software &amp; Field Technology Intern IS at Clean Harbors</title>
@@ -337,11 +337,25 @@
       <description>Grand Rapids, MI | Sales/Business Dev | new_grad</description>
     </item>
     <item>
+      <title>InfoSec Development Program (ISDP), Full-Time Opportunities at Apple</title>
+      <link>https://jobs.apple.com/en-us/details/200691684/infosec-development-program-isdp-full-time-opportunities</link>
+      <guid isPermaLink="true">https://jobs.apple.com/en-us/details/200691684/infosec-development-program-isdp-full-time-opportunities</guid>
+      <pubDate>Wed, 28 Oct 2026 23:22:07 +0000</pubDate>
+      <description>Austin | Cybersecurity | internship</description>
+    </item>
+    <item>
       <title>RF Phased Array Engineer I at Rocket Lab</title>
       <link>https://boards.greenhouse.io/rocketlab/jobs/8056063003</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/rocketlab/jobs/8056063003</guid>
       <pubDate>Wed, 28 Oct 2026 23:21:05 +0000</pubDate>
       <description>Long Beach, CA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>General Application Analyst at Magnolia Capital</title>
+      <link>https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c675e27bdc0176005500fd09ff&amp;id=8a78839fa1559acc01a17edb92c5396f</link>
+      <guid isPermaLink="true">https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883c675e27bdc0176005500fd09ff&amp;id=8a78839fa1559acc01a17edb92c5396f</guid>
+      <pubDate>Wed, 28 Oct 2026 23:18:53 +0000</pubDate>
+      <description>Chicago, IL | Business/Analytics | internship</description>
     </item>
     <item>
       <title>Electrical Engineer I at Rocket Lab</title>
@@ -400,18 +414,25 @@
       <description>San Francisco | Sales/Business Dev | new_grad</description>
     </item>
     <item>
+      <title>Intern, Project Manager, Marketing on Demand at The Bernard Group</title>
+      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&amp;jobId=9201258486375_162&amp;lang=en_US</link>
+      <guid isPermaLink="true">https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&amp;jobId=9201258486375_162&amp;lang=en_US</guid>
+      <pubDate>Wed, 28 Oct 2026 22:12:05 +0000</pubDate>
+      <description>MN01, Chanhassen, MN, States | Marketing/Comms | internship</description>
+    </item>
+    <item>
+      <title>Mechanical Development &amp; Test Engineer I at Rocket Lab</title>
+      <link>https://job-boards.greenhouse.io/rocketlab/jobs/8053825003</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/rocketlab/jobs/8053825003</guid>
+      <pubDate>Wed, 28 Oct 2026 21:57:58 +0000</pubDate>
+      <description>Long Beach, CA | Hardware/Embedded | internship</description>
+    </item>
+    <item>
       <title>Entry Level Wastewater Technician at Veolia Environnement Sa</title>
       <link>https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158385434</link>
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000158385434</guid>
       <pubDate>Wed, 28 Oct 2026 21:52:05 +0000</pubDate>
       <description>Green Bay, WI | Other | new_grad</description>
-    </item>
-    <item>
-      <title>Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) at Sharkninja</title>
-      <link>https://boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006</guid>
-      <pubDate>Wed, 28 Oct 2026 20:52:05 +0000</pubDate>
-      <description>Needham, MA, United States | Product/Design | internship</description>
     </item>
     <item>
       <title>Winter 2027 Library Science Co-op at Anduril</title>
@@ -638,6 +659,13 @@
       <description>USA, Louisville, KY | Other | internship</description>
     </item>
     <item>
+      <title>Information Security Engineer Intern at Appian</title>
+      <link>https://job-boards.greenhouse.io/appian/jobs/8088496</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/appian/jobs/8088496</guid>
+      <pubDate>Wed, 28 Oct 2026 20:49:33 +0000</pubDate>
+      <description>McLean, Virginia | Cybersecurity | internship</description>
+    </item>
+    <item>
       <title>Advanced DV Engineer Intern at Astera Labs</title>
       <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731412005</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731412005</guid>
@@ -862,6 +890,13 @@
       <description>San Jose, CA | Human Resources | internship</description>
     </item>
     <item>
+      <title>Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June) at Sharkninja</title>
+      <link>https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006</guid>
+      <pubDate>Wed, 28 Oct 2026 20:05:26 +0000</pubDate>
+      <description>Needham, MA, United States | Product/Design | internship</description>
+    </item>
+    <item>
       <title>Junior Operations and Technology Analyst at Miami Jewish Health</title>
       <link>https://prd01-hcm01.prd.mykronos.com/ta/6013011.careers?ShowJob=2185052133</link>
       <guid isPermaLink="true">https://prd01-hcm01.prd.mykronos.com/ta/6013011.careers?ShowJob=2185052133</guid>
@@ -890,11 +925,18 @@
       <description>Needham, MA, United States | Other | internship</description>
     </item>
     <item>
-      <title>Spring 2027 Security Engineer Intern at The Nuclear Company</title>
-      <link>https://boards.greenhouse.io/thenuclearcompany/jobs/5466153008</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/thenuclearcompany/jobs/5466153008</guid>
-      <pubDate>Wed, 28 Oct 2026 18:52:05 +0000</pubDate>
-      <description>Washington, D.C. | Cybersecurity | internship</description>
+      <title>Multimedia Designer Intern at Knowbe</title>
+      <link>https://job-boards.greenhouse.io/knowbe4/jobs/8889268002</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8889268002</guid>
+      <pubDate>Wed, 28 Oct 2026 19:22:59 +0000</pubDate>
+      <description>Clearwater, Florida | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>CSM Project Manager Intern at Knowbe</title>
+      <link>https://job-boards.greenhouse.io/knowbe4/jobs/8899901002</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8899901002</guid>
+      <pubDate>Wed, 28 Oct 2026 19:22:59 +0000</pubDate>
+      <description>Clearwater, Florida | Business/Analytics | internship</description>
     </item>
     <item>
       <title>Medical Education &amp; Communication Intern at Intuitive</title>
@@ -911,11 +953,39 @@
       <description>Madison, WI | Research/Science | internship</description>
     </item>
     <item>
+      <title>Summer 2027 Software Engineering Internship/Co-op at XAI</title>
+      <link>https://job-boards.greenhouse.io/xai/jobs/5255111007</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/xai/jobs/5255111007</guid>
+      <pubDate>Wed, 28 Oct 2026 18:46:16 +0000</pubDate>
+      <description>Palo Alto, CA | Software Engineering | internship</description>
+    </item>
+    <item>
       <title>Junior Configuration Management Specialist (Hardware &amp; Software) at Recruiting Ultipro Com Val1016valti 91b430a3 4304 4221 Ae95 46846cb</title>
       <link>https://recruiting.ultipro.com/val1016valti/JobBoard/91b430a3-4304-4221-ae95-46846cb92020/OpportunityDetail?opportunityId=f8ad713c-bb5b-4bae-8b08-5c4d9d4d3e9e</link>
       <guid isPermaLink="true">https://recruiting.ultipro.com/val1016valti/JobBoard/91b430a3-4304-4221-ae95-46846cb92020/OpportunityDetail?opportunityId=f8ad713c-bb5b-4bae-8b08-5c4d9d4d3e9e</guid>
       <pubDate>Wed, 28 Oct 2026 18:44:24 +0000</pubDate>
       <description>Arlington, Virginia, United States | Hardware/Embedded | new_grad</description>
+    </item>
+    <item>
+      <title>IT Support Intern at Applied Engineering</title>
+      <link>https://www.go-applied.com/careers/openings/?gh_jid=4439159009</link>
+      <guid isPermaLink="true">https://www.go-applied.com/careers/openings/?gh_jid=4439159009</guid>
+      <pubDate>Wed, 28 Oct 2026 18:43:39 +0000</pubDate>
+      <description>Fargo, ND | DevOps/SRE | internship</description>
+    </item>
+    <item>
+      <title>Hardware Reliability Intern [Winter 2027] at Figure</title>
+      <link>https://job-boards.greenhouse.io/figureai/jobs/4613067006</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/figureai/jobs/4613067006</guid>
+      <pubDate>Wed, 28 Oct 2026 18:42:52 +0000</pubDate>
+      <description>San Jose, CA | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Spring 2027 Security Engineer Intern at The Nuclear Company</title>
+      <link>https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/thenuclearcompany/jobs/5466153008</guid>
+      <pubDate>Wed, 28 Oct 2026 18:10:22 +0000</pubDate>
+      <description>Washington, D.C. | Cybersecurity | internship</description>
     </item>
     <item>
       <title>Spring 2027: Product Strategy &amp; Development Co-Op (January to June) at Sharkninja</title>
@@ -967,6 +1037,27 @@
       <description>Seattle, WA | DevOps/SRE | new_grad</description>
     </item>
     <item>
+      <title>Software Engineering Intern at Subtotal</title>
+      <link>https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801</guid>
+      <pubDate>Wed, 28 Oct 2026 17:47:34 +0000</pubDate>
+      <description>United States | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Marketing Design &amp; Animation Intern at Island</title>
+      <link>https://job-boards.greenhouse.io/island/jobs/4453691009</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/island/jobs/4453691009</guid>
+      <pubDate>Wed, 28 Oct 2026 17:30:50 +0000</pubDate>
+      <description>Dallas | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Software Engineer I | Cloud at Extrahop</title>
+      <link>https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/extrahopnetworks/jobs/6119816004</guid>
+      <pubDate>Wed, 28 Oct 2026 17:16:06 +0000</pubDate>
+      <description>Seattle, WA | DevOps/SRE | internship</description>
+    </item>
+    <item>
       <title>Internal Communications Intern at Per Scholas</title>
       <link>https://boards.greenhouse.io/perscholashires/jobs/4724823006</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/perscholashires/jobs/4724823006</guid>
@@ -1000,6 +1091,13 @@
       <guid isPermaLink="true">https://boards.greenhouse.io/aloyoga/jobs/6220786004?gh_jid=6220786004</guid>
       <pubDate>Wed, 28 Oct 2026 16:37:33 +0000</pubDate>
       <description>San Ramon Office, San Ramon, CA (LO-SF) | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Software Engineer, Front-End (New Grad) at Otter</title>
+      <link>https://otter.ai/careers?gh_jid=8016078003</link>
+      <guid isPermaLink="true">https://otter.ai/careers?gh_jid=8016078003</guid>
+      <pubDate>Wed, 28 Oct 2026 16:35:24 +0000</pubDate>
+      <description>Mountain View, CA | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>ML Infrastructure Engineer - New Grad at Sambanova Systems</title>
@@ -1135,6 +1233,27 @@
       <description>TEXAS-SUGAR LAND-DULLES HIGH SCHOOL | Other | internship</description>
     </item>
     <item>
+      <title>INTERNSHIP - CFD QA Software Engineer at Dassault Syst Mes</title>
+      <link>https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213</link>
+      <guid isPermaLink="true">https://www.3ds.com/careers/jobs/internship-cfd-qa-software-engineer-550213</guid>
+      <pubDate>Wed, 28 Oct 2026 11:10:50 +0000</pubDate>
+      <description>Waltham, United States | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>INTERNSHIP - Data Science at Dassault Syst Mes</title>
+      <link>https://www.3ds.com/careers/jobs/internship-data-science-550524</link>
+      <guid isPermaLink="true">https://www.3ds.com/careers/jobs/internship-data-science-550524</guid>
+      <pubDate>Wed, 28 Oct 2026 11:10:37 +0000</pubDate>
+      <description>Waltham, United States | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Member of Technical Staff Intern at Axiom Math</title>
+      <link>https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e</guid>
+      <pubDate>Wed, 28 Oct 2026 08:24:37 +0000</pubDate>
+      <description>Palo Alto | Software Engineering | internship</description>
+    </item>
+    <item>
       <title>Behavioral Health Aide/Transport Driver, Student Services (Full-time) - AMIKids Tallahassee at Amikids</title>
       <link>https://recruiting.ultipro.com/AMI1003AMIK/JobBoard/132b6065-9187-4e0f-a292-4f67e675d1d0/OpportunityDetail?opportunityId=a9a572bb-71f6-4d73-bba8-681dd7a99672</link>
       <guid isPermaLink="true">https://recruiting.ultipro.com/AMI1003AMIK/JobBoard/132b6065-9187-4e0f-a292-4f67e675d1d0/OpportunityDetail?opportunityId=a9a572bb-71f6-4d73-bba8-681dd7a99672</guid>
@@ -1149,6 +1268,13 @@
       <description>Houston, TX, States | Business/Analytics | internship</description>
     </item>
     <item>
+      <title>ETRM IT Business Analyst at Colonial Group</title>
+      <link>https://jobs.dayforcehcm.com/en-US/colonialgroup/candidateportal/jobs/13826</link>
+      <guid isPermaLink="true">https://jobs.dayforcehcm.com/en-US/colonialgroup/candidateportal/jobs/13826</guid>
+      <pubDate>Wed, 28 Oct 2026 04:00:00 +0000</pubDate>
+      <description>Houston, TX, States | Business/Analytics | internship</description>
+    </item>
+    <item>
       <title>Software Development Engineer in Test Intern - Undergraduate at Us Internships Public Careers Site</title>
       <link>https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221820004</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221820004</guid>
@@ -1156,18 +1282,11 @@
       <description>United States, San Mateo, CA | Software Engineering | internship</description>
     </item>
     <item>
-      <title>Summer 2027 Internship - Data Engineering at John Burns Research And Consulting</title>
-      <link>https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d078f524a1017958c74a542dc3&amp;id=8a7887a1a150293901a17f1736dc0800</link>
-      <guid isPermaLink="true">https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d078f524a1017958c74a542dc3&amp;id=8a7887a1a150293901a17f1736dc0800</guid>
-      <pubDate>Wed, 28 Oct 2026 01:16:10 +0000</pubDate>
-      <description>Irvine, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Graphic Design Intern (Summer) at Seed Company</title>
-      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;jobId=9202073302270_48&amp;lang=en_US</link>
-      <guid isPermaLink="true">https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;jobId=9202073302270_48&amp;lang=en_US</guid>
-      <pubDate>Wed, 28 Oct 2026 01:08:03 +0000</pubDate>
-      <description>Arlington, TX, States | Product/Design | internship</description>
+      <title>Junior Game Developer at Realityjam</title>
+      <link>https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer</link>
+      <guid isPermaLink="true">https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer</guid>
+      <pubDate>Wed, 28 Oct 2026 02:27:46 +0000</pubDate>
+      <description>United States | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Robotics Engineering Intern: Systems &amp; Applications - IMMEDIATE START at Graymatter Robotics</title>
@@ -1287,125 +1406,6 @@
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/39803</guid>
       <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
       <description>Milwaukee, US-WI, United States | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Field Sales Intern - East Region at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39885</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39885</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Atlanta, US-GA, United States | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Customer Supply Excellence Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39788</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39788</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Other | internship</description>
-    </item>
-    <item>
-      <title>Field Sales Intern - National Accounts at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40127</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40127</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Chicago, US-IL, United States | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Field Sales Intern - National Accounts at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40128</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40128</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Bentonville, US-AR, United States | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Procurement Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40097</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40097</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Brewery Operations Intern - Finance at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39795</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39795</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Trenton, US-OH, United States | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Brewery Operations Intern - Packaging at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39755</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39755</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:38 +0000</pubDate>
-      <description>Shenandoah, US-VA, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Brewery Operations Intern - Packaging at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39796</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39796</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Trenton, US-OH, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Supply Chain Environmental, Health, Safety, &amp; Sustainability Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39851</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39851</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Healthcare/Clinical | internship</description>
-    </item>
-    <item>
-      <title>Category Management Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39857</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39857</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Chicago, US-IL, United States | Business/Analytics | internship</description>
-    </item>
-    <item>
-      <title>Barley Research &amp; Development Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39799</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39799</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Burley, US-ID, United States | Research/Science | internship</description>
-    </item>
-    <item>
-      <title>Brewery Operations Intern - Packaging at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39744</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39744</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Fort Worth, US-TX, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Brewery Operations Intern - Technical Services at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39797</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39797</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Trenton, US-OH, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Finance Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40096</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40096</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Barley Operations Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39933</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39933</guid>
-      <pubDate>Wed, 28 Oct 2026 00:42:36 +0000</pubDate>
-      <description>Huntley, US-MT, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Intern, Thermal Modeling &amp; Simulation Engineer (AI Memory / HBM) at Samsungsemiconductor</title>
-      <link>https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046859003</guid>
-      <pubDate>Tue, 27 Oct 2026 20:27:28 -0400</pubDate>
-      <description>San Jose, California, United States | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Intern, RTL Power Macromodeling Engineer at Samsungsemiconductor</title>
-      <link>https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046830003</guid>
-      <pubDate>Tue, 27 Oct 2026 20:24:31 -0400</pubDate>
-      <description>San Jose, California, United States | Software Engineering | internship</description>
     </item>
   </channel>
 </rss>
