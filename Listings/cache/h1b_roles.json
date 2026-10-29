@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T15:20:07Z",
+ "built_at": "2026-10-29T17:20:33Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15131,6 +15131,112 @@
      "count": 19,
      "median_salary": 204000,
      "title": "ASIC ENGINEER, DESIGN VERIFICATION"
+    }
+   ]
+  },
+  "micron": {
+   "fetched_at": "2026-10-29T17:20:33Z",
+   "label": "Micron",
+   "titles": [
+    {
+     "count": 23,
+     "median_salary": 116000,
+     "title": "SEMICONDUCTOR DESIGN ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 97000,
+     "title": "SEMICONDUCTOR PROCESS ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 105000,
+     "title": "EQUIPMENT ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 100000,
+     "title": "PRODUCT DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 121367,
+     "title": "PROCESS DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 115000,
+     "title": "FAB ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 129800,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 99684,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 97100,
+     "title": "SUPPLY CHAIN ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 152592,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 107500,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 95000,
+     "title": "IT SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 101450,
+     "title": "SEMICONDUCTOR PRODUCT ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 122255,
+     "title": "ADVANCED MODELING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 138187,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 94987,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 111252,
+     "title": "PROCESS INTEGRATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 135000,
+     "title": "APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 121639,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 123781,
+     "title": "IT SOLUTION ARCHITECT - PLM"
     }
    ]
   },
