@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T05:15:57Z",
+ "built_at": "2026-10-29T15:20:07Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -3602,6 +3602,112 @@
      "count": 4,
      "median_salary": 130655,
      "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "autodesk": {
+   "fetched_at": "2026-10-29T15:20:03Z",
+   "label": "Autodesk",
+   "titles": [
+    {
+     "count": 24,
+     "median_salary": 149873,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 148803,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 132971,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 159044,
+     "title": "MANAGER, SOFTWARE DEVELOPMENT"
+    },
+    {
+     "count": 6,
+     "median_salary": 180596,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 128398,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 152240,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 165963,
+     "title": "PRINCIPAL SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 158204,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 199192,
+     "title": "SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 130655,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 102856,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 126360,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 185994,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 163134,
+     "title": "SOFTWARE DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 101504,
+     "title": "ASSOCIATE BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 136970,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 97208,
+     "title": "EXPERIENCE DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 92768,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 132631,
+     "title": "MARKETING SPECIALIST"
     }
    ]
   },
@@ -15568,6 +15674,11 @@
     }
    ]
   },
+  "msd": {
+   "fetched_at": "2026-10-29T15:20:04Z",
+   "label": "MSD",
+   "titles": []
+  },
   "muon space": {
    "fetched_at": "2026-10-25T14:47:30Z",
    "label": "Muon Space",
@@ -17652,6 +17763,11 @@
     }
    ]
   },
+  "procter gamble": {
+   "fetched_at": "2026-10-29T15:20:06Z",
+   "label": "Procter Gamble",
+   "titles": []
+  },
   "prologis": {
    "fetched_at": "2026-10-26T04:10:34Z",
    "label": "Prologis",
@@ -18359,6 +18475,112 @@
   "regeneron pharmaceuticals https regeneron wd1 myworkdayjobs com en us careers job rensselaer xmlname 2027 summer intern it systems iops r51822": {
    "fetched_at": "2026-10-29T05:15:55Z",
    "label": "[Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822)",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 155375,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 12,
+     "median_salary": 142213,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 88650,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 98445,
+     "title": "SENIOR ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 159963,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "MANAGER DATA MANAGEMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 117505,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 101295,
+     "title": "SR ASSOC SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 168697,
+     "title": "SR MGR DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "MANAGER, DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 156693,
+     "title": "MGR REGULATORY PUBLISHING"
+    },
+    {
+     "count": 2,
+     "median_salary": 184399,
+     "title": "MGR STATISTICAL GENETICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 94391,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 129572,
+     "title": "PRINCIPAL IT APPLICATIONS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141641,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182752,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 196895,
+     "title": "SENIOR MANAGER BIOSTATISTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 185000,
+     "title": "SENIOR MANAGER, MEDICAL AFFAIRS"
+    },
+    {
+     "count": 2,
+     "median_salary": 106444,
+     "title": "SENIOR QC SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125788,
+     "title": "SENIOR STATISTICAL PROGRAMMER"
+    }
+   ]
+  },
+  "regeneron pharmaceuticals https regeneron wd1 myworkdayjobs com en us careers job tarrytown xmlname 2027 co op data science digital innovation preclinical manufacturing research it r51031 1": {
+   "fetched_at": "2026-10-29T15:20:07Z",
+   "label": "[Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Co-op-Data-Science---Digital-Innovation--Preclinical-Manufacturing---Research-IT-_R51031-1)",
    "titles": [
     {
      "count": 12,
