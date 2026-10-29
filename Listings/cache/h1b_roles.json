@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T21:09:26Z",
+ "built_at": "2026-10-29T21:14:00Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6915,7 +6915,7 @@
    ]
   },
   "commonwealth fusion systems https jobs lever co cfsenergy 32987ab7 59ed 4364 a012 91cbece8877a apply": {
-   "fetched_at": "2026-10-29T21:09:24Z",
+   "fetched_at": "2026-10-29T21:13:57Z",
    "label": "[Commonwealth Fusion Systems](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply)",
    "titles": [
     {
@@ -10735,6 +10735,72 @@
      "count": 4,
      "median_salary": 155000,
      "title": "SENIOR SOFTWARE ENGINEER - SALESFORCE"
+    }
+   ]
+  },
+  "geotab": {
+   "fetched_at": "2026-10-29T21:13:58Z",
+   "label": "Geotab",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 162246,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 87714,
+     "title": "SITE RELIABILITY ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 133000,
+     "title": "DATA PLATFORM DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 116000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 155400,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 149760,
+     "title": "LEAD SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155400,
+     "title": "SENIOR DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 148000,
+     "title": "SENIOR EMBEDDED DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84614,
+     "title": "SENIOR FINANCIAL DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 107432,
+     "title": "SENIOR IT CLOUD OPERATIONS ENGINEERING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SERVICE MANAGEMENT SPECIALIST"
     }
    ]
   },
@@ -16754,7 +16820,7 @@
    ]
   },
   "nintendo": {
-   "fetched_at": "2026-10-29T21:09:24Z",
+   "fetched_at": "2026-10-29T21:13:59Z",
    "label": "nintendo",
    "titles": [
     {
@@ -18736,7 +18802,7 @@
    ]
   },
   "regeneron pharmaceuticals": {
-   "fetched_at": "2026-10-29T21:09:25Z",
+   "fetched_at": "2026-10-29T21:14:00Z",
    "label": "Regeneron Pharmaceuticals",
    "titles": [
     {
