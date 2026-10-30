@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T15:20:40Z",
+ "built_at": "2026-10-30T20:46:23Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -1127,6 +1127,112 @@
   "american bankers association https aba wd1 myworkdayjobs com aba job us dc main office intern banking policy and economic research r625": {
    "fetched_at": "2026-10-25T19:01:27Z",
    "label": "[American Bankers Association](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625)",
+   "titles": [
+    {
+     "count": 100,
+     "median_salary": 109672,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 78,
+     "median_salary": 130000,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 70,
+     "median_salary": 154600,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 64,
+     "median_salary": 105997,
+     "title": "SR. DEVELOPER, IT APPLICATIONS"
+    },
+    {
+     "count": 44,
+     "median_salary": 156900,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 35,
+     "median_salary": 97100,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 24,
+     "median_salary": 144514,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 105998,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 112923,
+     "title": "SR. ENGINEER, IT SOFTWARE"
+    },
+    {
+     "count": 16,
+     "median_salary": 196524,
+     "title": "SENIOR ENGINEERING MANAGER"
+    },
+    {
+     "count": 14,
+     "median_salary": 105997,
+     "title": "DEVELOPER, IT APPLICATIONS"
+    },
+    {
+     "count": 14,
+     "median_salary": 112923,
+     "title": "ENGINEER SR. ENGINEER, IT SOFTWARE"
+    },
+    {
+     "count": 13,
+     "median_salary": 135300,
+     "title": "MANAGER, DATA SCIENCE"
+    },
+    {
+     "count": 13,
+     "median_salary": 111072,
+     "title": "SR. DATA ENGINEER, IT ANALYTICS"
+    },
+    {
+     "count": 13,
+     "median_salary": 128899,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 81328,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 12,
+     "median_salary": 108534,
+     "title": "ENGINEER, IT SOFTWARE"
+    },
+    {
+     "count": 11,
+     "median_salary": 105997,
+     "title": "DEVELOPER SR. DEVELOPER, IT APPLICATIONS"
+    },
+    {
+     "count": 11,
+     "median_salary": 134347,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 124720,
+     "title": "MANAGER, RISK MANAGEMENT"
+    }
+   ]
+  },
+  "american bankers association https aba wd1 myworkdayjobs com aba job us dc main office intern quantitative research r614": {
+   "fetched_at": "2026-10-30T20:46:15Z",
+   "label": "[American Bankers Association](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614)",
    "titles": [
     {
      "count": 100,
@@ -6914,6 +7020,112 @@
     }
    ]
   },
+  "commonwealth fusion systems": {
+   "fetched_at": "2026-10-30T20:46:16Z",
+   "label": "Commonwealth Fusion Systems",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 93122,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 93122,
+     "title": "GENERAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 100800,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 34070,
+     "title": "CLINICAL LABORATORY SCIENTISTS"
+    },
+    {
+     "count": 3,
+     "median_salary": 94738,
+     "title": "DIRECTOR OF MULTICULTURAL MEDIA"
+    },
+    {
+     "count": 3,
+     "median_salary": 47362,
+     "title": "EMERGENCY ROOM NURSE"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "ASSOCIATE DIRECTOR CLIENT RISK SOLUTIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 182500,
+     "title": "ASSOCIATE DIRECTOR, US PRIVATE PLACEMENT SYNDICATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 47913,
+     "title": "CRITICAL CARE NURSE"
+    },
+    {
+     "count": 2,
+     "median_salary": 121479,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 28538,
+     "title": "DENTAL THERAPIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 104827,
+     "title": "DIGITAL HEALTH PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 56171,
+     "title": "ENGINEER CIVIL"
+    },
+    {
+     "count": 2,
+     "median_salary": 152068,
+     "title": "IT QUALITY ASSURANCE, SENIOR ASSOCIATE II"
+    },
+    {
+     "count": 2,
+     "median_salary": 107200,
+     "title": "MANAGEMENT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 171018,
+     "title": "MANAGER, CREDIT"
+    },
+    {
+     "count": 2,
+     "median_salary": 175531,
+     "title": "MANAGER, DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 49816,
+     "title": "NURSE CLINIC MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104000,
+     "title": "PRINCIPAL POLICY ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 176663,
+     "title": "PROGRAM MANAGER"
+    }
+   ]
+  },
   "commonwealth fusion systems https jobs lever co cfsenergy 32987ab7 59ed 4364 a012 91cbece8877a apply": {
    "fetched_at": "2026-10-29T21:13:57Z",
    "label": "[Commonwealth Fusion Systems](https://jobs.lever.co/cfsenergy/32987ab7-59ed-4364-a012-91cbece8877a/apply)",
@@ -8076,6 +8288,11 @@
     }
    ]
   },
+  "draftkings": {
+   "fetched_at": "2026-10-30T20:46:17Z",
+   "label": "DraftKings",
+   "titles": []
+  },
   "draper": {
    "fetched_at": "2026-10-29T05:15:52Z",
    "label": "Draper",
@@ -8247,6 +8464,11 @@
   "eedu": {
    "fetched_at": "2026-10-25T05:38:00Z",
    "label": "Eedu",
+   "titles": []
+  },
+  "eexs": {
+   "fetched_at": "2026-10-30T20:46:18Z",
+   "label": "Eexs",
    "titles": []
   },
   "efet": {
@@ -9511,6 +9733,11 @@
   "fhlbank chicago https fhlbc wd1 myworkdayjobs com search job chicago summer internship application development r2600441": {
    "fetched_at": "2026-10-25T09:18:00Z",
    "label": "[FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Application-Development_R2600441)",
+   "titles": []
+  },
+  "fhlbank chicago https fhlbc wd1 myworkdayjobs com search job chicago summer internship model risk management r2600433": {
+   "fetched_at": "2026-10-30T20:46:19Z",
+   "label": "[FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---Model-Risk-Management_R2600433)",
    "titles": []
   },
   "fidelity investments": {
@@ -12835,6 +13062,11 @@
   "ibm": {
    "fetched_at": "2026-10-25T10:28:26Z",
    "label": "IBM",
+   "titles": []
+  },
+  "ibqmjb": {
+   "fetched_at": "2026-10-30T20:46:20Z",
+   "label": "Ibqmjb",
    "titles": []
   },
   "ice": {
@@ -24998,6 +25230,37 @@
     }
    ]
   },
+  "watts water https wattswater wd5 myworkdayjobs com intern external job fort worth tx product specialist intern 2027 10017586": {
+   "fetched_at": "2026-10-30T20:46:21Z",
+   "label": "[Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Worth-TX/Product-Specialist-Intern-2027_10017586)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 80253,
+     "title": "BI ROTATIONAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 73000,
+     "title": "DEMAND PLANNING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "HEAD OF OPERATIONS AND HUMAN RESOURCES MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 91100,
+     "title": "SENIOR DEMAND PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "WORKDAY SECURITY ANALYST"
+    }
+   ]
+  },
   "watts water https wattswater wd5 myworkdayjobs com intern external job north andover ma strategic marketing intern analytics segmentation summer 2027 10017533": {
    "fetched_at": "2026-10-26T21:00:36Z",
    "label": "[Watts Water](https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/North-Andover-MA/Strategic-Marketing-Intern---Analytics---Segmentation--Summer-2027_10017533)",
@@ -25132,6 +25395,77 @@
      "count": 1,
      "median_salary": 186000,
      "title": "BUSINESS SYSTEMS ANALYST"
+    }
+   ]
+  },
+  "wellmark": {
+   "fetched_at": "2026-10-30T20:46:22Z",
+   "label": "Wellmark",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 133733,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 79976,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 74400,
+     "title": "DATA SCIENCE ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 75546,
+     "title": "ACTUARIAL ANALYST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 75546,
+     "title": "ACTUARIAL ANALYST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 89700,
+     "title": "DATA SCIENCE CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 138507,
+     "title": "PLATFORM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 69181,
+     "title": "PROCUREMENT SERVICES DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 148626,
+     "title": "PROGRAM QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 81700,
+     "title": "SCRUM MASTER"
+    },
+    {
+     "count": 1,
+     "median_salary": 89700,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140054,
+     "title": "SOFTWARE QUALITY ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 91291,
+     "title": "SR. SOFTWARE ENGINEER"
     }
    ]
   },
