@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T01:27:58Z",
+ "built_at": "2026-10-30T02:24:07Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11173,6 +11173,22 @@
    "fetched_at": "2026-10-25T09:18:16Z",
    "label": "Graphcore",
    "titles": []
+  },
+  "great american insurance": {
+   "fetched_at": "2026-10-30T02:24:06Z",
+   "label": "Great American Insurance Company",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "FINANCIAL PRODUCTS UNDERWRITER"
+    },
+    {
+     "count": 1,
+     "median_salary": 186559,
+     "title": "SENIOR ENTERPRISE ARCHITECT"
+    }
+   ]
   },
   "guardian life": {
    "fetched_at": "2026-10-26T04:10:24Z",
@@ -23471,6 +23487,62 @@
      "count": 2,
      "median_salary": 75930,
      "title": "IT BUSINESS ANALYST"
+    }
+   ]
+  },
+  "toyota research institute": {
+   "fetched_at": "2026-10-30T02:24:07Z",
+   "label": "Toyota Research Institute",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 200000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "ROBOTICS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 235000,
+     "title": "SENIOR RESEARCH ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 236668,
+     "title": "SENIOR RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 235000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 320000,
+     "title": "SENIOR MANAGER, MACHINE LEARNING RESEARCH"
+    },
+    {
+     "count": 1,
+     "median_salary": 217485,
+     "title": "SENIOR PLATFORM ROBOTICS ENGINEER, LARGE BEHAVIOR MODELS"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "STAFF TECHNICAL PROGRAM MANAGER"
     }
    ]
   },
