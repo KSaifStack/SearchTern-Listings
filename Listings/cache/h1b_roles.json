@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T15:05:48Z",
+ "built_at": "2026-10-30T15:20:40Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -12813,7 +12813,7 @@
    ]
   },
   "hp": {
-   "fetched_at": "2026-10-30T15:05:46Z",
+   "fetched_at": "2026-10-30T15:20:39Z",
    "label": "HP",
    "titles": []
   },
