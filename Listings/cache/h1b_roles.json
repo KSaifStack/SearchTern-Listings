@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T20:51:29Z",
+ "built_at": "2026-10-30T21:21:36Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4299,6 +4299,92 @@
    "fetched_at": "2026-10-25T16:10:59Z",
    "label": "bgeinccampus",
    "titles": []
+  },
+  "blackrock": {
+   "fetched_at": "2026-10-30T21:21:36Z",
+   "label": "BlackRock",
+   "titles": [
+    {
+     "count": 220,
+     "median_salary": 128550,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 184,
+     "median_salary": 173400,
+     "title": "VICE PRESIDENT"
+    },
+    {
+     "count": 94,
+     "median_salary": 95493,
+     "title": "ANALYST"
+    },
+    {
+     "count": 37,
+     "median_salary": 230000,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 113500,
+     "title": "SENIOR QUALITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 135000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 300000,
+     "title": "MANAGING DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 99840,
+     "title": "SPECIALIST PROJECT COORDINATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "DIGITAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "MATERIAL ENGINEER COORDINATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 184000,
+     "title": "PRECLINICAL TESTING TEAM LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 99070,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "R&AMP;D ENGINEER, BCI"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR ELECTRODE R&AMP;D ENGINEER BCI"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "VICE PRESDENT"
+    }
+   ]
   },
   "blue cross blue shield of michigan": {
    "fetched_at": "2026-10-25T00:48:30Z",
