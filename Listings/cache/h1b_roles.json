@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-29T21:14:00Z",
+ "built_at": "2026-10-30T01:27:58Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -9006,6 +9006,11 @@
   "eqtcorporation": {
    "fetched_at": "2026-10-25T08:51:15Z",
    "label": "eqtcorporation",
+   "titles": []
+  },
+  "eqtm": {
+   "fetched_at": "2026-10-30T01:27:57Z",
+   "label": "Eqtm",
    "titles": []
   },
   "ericsson": {
