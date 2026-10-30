@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T05:10:10Z",
+ "built_at": "2026-10-30T15:05:48Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -12812,6 +12812,11 @@
     }
    ]
   },
+  "hp": {
+   "fetched_at": "2026-10-30T15:05:46Z",
+   "label": "HP",
+   "titles": []
+  },
   "hp iq": {
    "fetched_at": "2026-10-27T07:02:50Z",
    "label": "HP IQ",
@@ -14742,6 +14747,112 @@
      "count": 1,
      "median_salary": 126600,
      "title": "SENIOR QUALITY ENGINEER"
+    }
+   ]
+  },
+  "magna": {
+   "fetched_at": "2026-10-30T15:05:47Z",
+   "label": "Magna",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 95114,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 84053,
+     "title": "SOFTWARE ALGORITHM ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 88234,
+     "title": "SYSTEM TEST ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 114691,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 137493,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 95000,
+     "title": "PRODUCT ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 79862,
+     "title": "PROGRAMMER ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 87589,
+     "title": "CAE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 108846,
+     "title": "PROJECT ENGINEERING LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 98000,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 81000,
+     "title": "SAP ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 119025,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 110475,
+     "title": "DATA ENGINEER, SMART FACTORY SOLUTIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 83158,
+     "title": "ENGINEERING ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 126447,
+     "title": "IT OPERATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 79893,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104810,
+     "title": "RESEARCH ENGINEER - COMPUTER VISION"
+    },
+    {
+     "count": 2,
+     "median_salary": 98550,
+     "title": "SENIOR ADAS ALGORITHM ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85134,
+     "title": "SENIOR ENGINEER, RESEARCH &AMP; DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 126079,
+     "title": "SENIOR MECHANICAL ENGINEER"
     }
    ]
   },
