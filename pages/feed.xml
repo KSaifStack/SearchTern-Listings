@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:10:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:55:17 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>AI Operations Associate at Nevoya</title>
@@ -267,13 +267,6 @@
       <description>Plymouth, MA | Software Engineering | new_grad</description>
     </item>
     <item>
-      <title>Software Engineer Intern at AXON</title>
-      <link>https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003</guid>
-      <pubDate>Fri, 30 Oct 2026 05:01:33 +0000</pubDate>
-      <description>Seattle, WA, Arlington County, Arlington, VA | Software Engineering | internship</description>
-    </item>
-    <item>
       <title>Junior C++ Software Engineer - Serbia - ETR at Cisco</title>
       <link>https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195</link>
       <guid isPermaLink="true">https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195</guid>
@@ -449,13 +442,6 @@
       <description>Denver | Sales/Business Dev | new_grad</description>
     </item>
     <item>
-      <title>Graphic Designer Intern at Curious Plot</title>
-      <link>https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=1c21058f-86b9-4409-a52d-cc79be9f6952&amp;jobId=9201305598223_67&amp;lang=en_US</link>
-      <guid isPermaLink="true">https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?ccId=19000101_000001&amp;cid=1c21058f-86b9-4409-a52d-cc79be9f6952&amp;jobId=9201305598223_67&amp;lang=en_US</guid>
-      <pubDate>Fri, 30 Oct 2026 01:22:12 +0000</pubDate>
-      <description>Minneapolis, MN, States | Product/Design | internship</description>
-    </item>
-    <item>
       <title>Signal Integrity Engineer Intern at Astera Labs</title>
       <link>https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728581005</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728581005</guid>
@@ -489,6 +475,13 @@
       <guid isPermaLink="true">https://www.arbeitnow.com/jobs/companies/skdse/uav-engineer-working-student-all-genders-ohrdruf-thuringia-160341</guid>
       <pubDate>Fri, 30 Oct 2026 00:55:24 +0000</pubDate>
       <description>Ohrdruf, Thuringia | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>2027 US Software Engineering Internship (Dedrone) at AXON</title>
+      <link>https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003</guid>
+      <pubDate>Fri, 30 Oct 2026 00:39:54 +0000</pubDate>
+      <description>Seattle, Washington, United States; Sterling, Virginia, United States | Software Engineering | internship</description>
     </item>
     <item>
       <title>Transportation Internship (Summer 2027) at Fehr Peers</title>
@@ -601,6 +594,104 @@
       <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485277340</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>Marlborough, MA, USA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Integration &amp; Test Engineer (Falcon) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Vandenberg, CA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>New Graduate Engineer, Mechanical Design (Starshield) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Hawthorne, CA | Hardware/Embedded | new_grad</description>
+    </item>
+    <item>
+      <title>Network Engineer (Starlink) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Redmond, WA | DevOps/SRE | internship</description>
+    </item>
+    <item>
+      <title>Network Engineer, AI Infrastructure (Starshield) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Hawthorne, CA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Software Engineer (Controls Software) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Starbase, TX | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Launch &amp; Test Engineer, Fluids (Starship) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8842822002?gh_jid=8842822002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8842822002?gh_jid=8842822002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Cape Canaveral, FL | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Software Engineer (Starlink Ground Network) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Redmond, WA | DevOps/SRE | internship</description>
+    </item>
+    <item>
+      <title>New Graduate Engineer, Software (Starfall) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Hawthorne, CA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Hardware Reliability Engineer (Build Reliability) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8856708002?gh_jid=8856708002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8856708002?gh_jid=8856708002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Hawthorne, CA | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Embedded Software Engineer, Data Center Engineering (Starmind) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Bastrop, TX | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Automation &amp; Controls Engineer, Launch Hardware Production (Starship) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8901369002?gh_jid=8901369002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8901369002?gh_jid=8901369002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Cape Canaveral, FL | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Data Engineer (Starlink Mobile) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Redmond, WA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Embedded Software Engineer, Laser Mesh Routing (Starlink) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8852117002?gh_jid=8852117002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8852117002?gh_jid=8852117002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Palo Alto, CA | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Software Engineer, Linux Kernel (Starlink) at Spacex</title>
+      <link>https://boards.greenhouse.io/spacex/jobs/8852121002?gh_jid=8852121002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8852121002?gh_jid=8852121002</guid>
+      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
+      <description>Bellevue, WA | Software Engineering | internship</description>
     </item>
     <item>
       <title>Design Criteria Engineer (Starshield) at Spacex</title>
@@ -953,104 +1044,6 @@
       <description>Starbase, TX | Product/Design | internship</description>
     </item>
     <item>
-      <title>Integration &amp; Test Engineer (Falcon) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8771149002?gh_jid=8771149002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Vandenberg, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>New Graduate Engineer, Mechanical Design (Starshield) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8766964002?gh_jid=8766964002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Hawthorne, CA | Hardware/Embedded | new_grad</description>
-    </item>
-    <item>
-      <title>Network Engineer (Starlink) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8784089002?gh_jid=8784089002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Redmond, WA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Network Engineer, AI Infrastructure (Starshield) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8808150002?gh_jid=8808150002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Hawthorne, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer (Controls Software) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Starbase, TX | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Launch &amp; Test Engineer, Fluids (Starship) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8842822002?gh_jid=8842822002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8842822002?gh_jid=8842822002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Cape Canaveral, FL | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer (Starlink Ground Network) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Redmond, WA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>New Graduate Engineer, Software (Starfall) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Hawthorne, CA | Software Engineering | new_grad</description>
-    </item>
-    <item>
-      <title>Hardware Reliability Engineer (Build Reliability) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8856708002?gh_jid=8856708002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8856708002?gh_jid=8856708002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Hawthorne, CA | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Embedded Software Engineer, Data Center Engineering (Starmind) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8871006002?gh_jid=8871006002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Bastrop, TX | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Automation &amp; Controls Engineer, Launch Hardware Production (Starship) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8901369002?gh_jid=8901369002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8901369002?gh_jid=8901369002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Cape Canaveral, FL | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Data Engineer (Starlink Mobile) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Redmond, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Embedded Software Engineer, Laser Mesh Routing (Starlink) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8852117002?gh_jid=8852117002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8852117002?gh_jid=8852117002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Palo Alto, CA | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer, Linux Kernel (Starlink) at Spacex</title>
-      <link>https://boards.greenhouse.io/spacex/jobs/8852121002?gh_jid=8852121002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8852121002?gh_jid=8852121002</guid>
-      <pubDate>Thu, 29 Oct 2026 23:10:10 +0000</pubDate>
-      <description>Bellevue, WA | Software Engineering | internship</description>
-    </item>
-    <item>
       <title>New Graduate Engineer, Software at Spacex</title>
       <link>https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002</guid>
@@ -1306,7 +1299,7 @@
       <title>Machine Learning &amp; Robotics Internship 2027 at Path Robotics</title>
       <link>https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/pathrobotics/jobs/8924241002?gh_jid=8924241002</guid>
-      <pubDate>Thu, 29 Oct 2026 15:09:44 -0400</pubDate>
+      <pubDate>Thu, 29 Oct 2026 19:09:44 +0000</pubDate>
       <description>Columbus, Ohio | Data/ML/AI | internship</description>
     </item>
     <item>
@@ -1406,6 +1399,13 @@
       <guid isPermaLink="true">https://boards.greenhouse.io/perscholashires/jobs/4725726006</guid>
       <pubDate>Thu, 29 Oct 2026 18:01:33 +0000</pubDate>
       <description>United States | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Flight Software Intern Spring 2027 at Rocket Lab</title>
+      <link>https://job-boards.greenhouse.io/rocketlab/jobs/7989724003</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/rocketlab/jobs/7989724003</guid>
+      <pubDate>Thu, 29 Oct 2026 17:46:32 +0000</pubDate>
+      <description>Littleton, CO | Software Engineering | internship</description>
     </item>
   </channel>
 </rss>
