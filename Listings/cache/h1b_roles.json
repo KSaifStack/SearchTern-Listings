@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T02:24:07Z",
+ "built_at": "2026-10-30T05:10:10Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11723,6 +11723,11 @@
   "hcrb": {
    "fetched_at": "2026-10-25T10:28:12Z",
    "label": "Hcrb",
+   "titles": []
+  },
+  "hcsc": {
+   "fetched_at": "2026-10-30T05:10:09Z",
+   "label": "HCSC",
    "titles": []
   },
   "hcsc https hcsc wd1 myworkdayjobs com en us hcsc external job il chicago early careers enterprise data analyst intern r0059505": {
