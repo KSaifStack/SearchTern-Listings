@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T14:35:56Z",
+ "built_at": "2026-10-31T14:40:16Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -3376,6 +3376,112 @@
    "fetched_at": "2026-10-24T22:23:24Z",
    "label": "Astranis",
    "titles": []
+  },
+  "astrazeneca": {
+   "fetched_at": "2026-10-31T14:40:09Z",
+   "label": "AstraZeneca",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 122200,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 164376,
+     "title": "ASSOCIATE DIRECTOR, PATIENT SAFETY SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 140675,
+     "title": "SENIOR SPECIALIST, PROGRAMMING II"
+    },
+    {
+     "count": 3,
+     "median_salary": 180814,
+     "title": "STATISTICAL PROGRAMMING ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 161229,
+     "title": "ASSOCIATE DIRECTOR, SYSTEMS MEDICINE"
+    },
+    {
+     "count": 2,
+     "median_salary": 96900,
+     "title": "RESEARCH ASSOCIATE BIOSCIENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 116891,
+     "title": "SCIENTIST, TRANSLATIONAL RESEARCH"
+    },
+    {
+     "count": 2,
+     "median_salary": 121325,
+     "title": "SENIOR SCIENTIST, IO DISCOVERY"
+    },
+    {
+     "count": 2,
+     "median_salary": 128373,
+     "title": "SENIOR SCIENTIST, PROTEOMICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 153143,
+     "title": "STATISTICAL PROGRAMMING, ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 132480,
+     "title": "AI ENGINEER, BIOLOGICS ENGINEERING, ONCOLOGY R&AMP;D"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "ANALYTICS ASSOCIATE DIRECTOR - US ONCOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 155085,
+     "title": "ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 177944,
+     "title": "ASSOCIATE DIRECTOR SOURCING &AMP; PROCUREMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "ASSOCIATE DIRECTOR, ANALYTICS US ONCOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "ASSOCIATE DIRECTOR, BIOLOGICS PRODUCTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 157671,
+     "title": "ASSOCIATE DIRECTOR, CLINICAL PHARMACOLOGY &AMP; PHARMACOMETRICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 162933,
+     "title": "ASSOCIATE DIRECTOR, CLINICAL PHARMACOLOGY AND PHARMACOMETRIC"
+    },
+    {
+     "count": 1,
+     "median_salary": 193668,
+     "title": "ASSOCIATE DIRECTOR, COMMERCIAL ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 184000,
+     "title": "ASSOCIATE DIRECTOR, COMMERCIAL LEARNING CVRM"
+    }
+   ]
   },
   "au small finance bank": {
    "fetched_at": "2026-10-24T22:23:26Z",
@@ -9730,6 +9836,11 @@
    "label": "Fa Espx Saasfaprod1",
    "titles": []
   },
+  "fa essf saasfaprod1": {
+   "fetched_at": "2026-10-31T14:40:10Z",
+   "label": "Fa Essf Saasfaprod1",
+   "titles": []
+  },
   "fa eups saasfaprod1": {
    "fetched_at": "2026-10-26T15:03:49Z",
    "label": "Fa Eups Saasfaprod1",
@@ -15001,6 +15112,17 @@
     }
    ]
   },
+  "loenbro": {
+   "fetched_at": "2026-10-31T14:40:11Z",
+   "label": "loenbro",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 71400,
+     "title": "PROJECT ENGINEER"
+    }
+   ]
+  },
   "lpl financial": {
    "fetched_at": "2026-10-25T14:02:37Z",
    "label": "Lpl Financial",
@@ -17229,7 +17351,7 @@
    ]
   },
   "national laboratory of the rockies https nrel wd5 myworkdayjobs com nlr job golden co undergraduate graduate spring summer intern cyber security research 5g r14555": {
-   "fetched_at": "2026-10-31T14:35:56Z",
+   "fetched_at": "2026-10-31T14:40:12Z",
    "label": "[National Laboratory of the Rockies](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555)",
    "titles": [
     {
@@ -22591,6 +22713,11 @@
    "label": "standtogether",
    "titles": []
   },
+  "stanleygroup": {
+   "fetched_at": "2026-10-31T14:40:13Z",
+   "label": "stanleygroup",
+   "titles": []
+  },
   "stantec": {
    "fetched_at": "2026-10-25T22:12:14Z",
    "label": "Stantec",
@@ -23170,6 +23297,11 @@
   "syska hennessy": {
    "fetched_at": "2026-10-26T18:40:22Z",
    "label": "Syska Hennessy Group",
+   "titles": []
+  },
+  "t mobile": {
+   "fetched_at": "2026-10-31T14:40:14Z",
+   "label": "T-Mobile",
    "titles": []
   },
   "tc energy": {
@@ -25659,6 +25791,11 @@
    "label": "wadetrim",
    "titles": []
   },
+  "walterpmoore": {
+   "fetched_at": "2026-10-31T14:40:14Z",
+   "label": "walterpmoore",
+   "titles": []
+  },
   "watts water": {
    "fetched_at": "2026-10-27T20:57:02Z",
    "label": "Watts Water",
@@ -25942,6 +26079,112 @@
      "count": 1,
      "median_salary": 84011,
      "title": "SOFTWARE DEVELOPER I"
+    }
+   ]
+  },
+  "western digital": {
+   "fetched_at": "2026-10-31T14:40:15Z",
+   "label": "Western Digital",
+   "titles": [
+    {
+     "count": 35,
+     "median_salary": 134383,
+     "title": "STAFF ENGINEER, HARDWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 16,
+     "median_salary": 158693,
+     "title": "PRINCIPAL ENGINEER, HARDWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 12,
+     "median_salary": 108629,
+     "title": "SENIOR ENGINEER, DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 12,
+     "median_salary": 130416,
+     "title": "STAFF ENGINEER, DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 9,
+     "median_salary": 92976,
+     "title": "SENIOR ENGINEER, INDUSTRIAL ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 169328,
+     "title": "ANALYST 4, BUSINESS APPLICATIONS"
+    },
+    {
+     "count": 7,
+     "median_salary": 90376,
+     "title": "SENIOR ENGINEER, ASIC DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 117291,
+     "title": "SENIOR ENGINEER, DATA ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 143543,
+     "title": "SCIENTIST 2, DATA SCIENCE"
+    },
+    {
+     "count": 5,
+     "median_salary": 134800,
+     "title": "PRINCIPAL ENGINEER, DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 5,
+     "median_salary": 155605,
+     "title": "PRINCIPAL ENGINEER, FIRMWARE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 137123,
+     "title": "PRINCIPAL ENGINEER, ELECTRONIC DESIGN ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 158177,
+     "title": "SCIENTIST 3, DATA SCIENCE"
+    },
+    {
+     "count": 4,
+     "median_salary": 101472,
+     "title": "SENIOR ENGINEER, HARDWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 105232,
+     "title": "SENIOR ENGINEER, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 118944,
+     "title": "SENIOR ENGINEER, SOFTWARE DEVELOPMENT ENGINEERING APPS"
+    },
+    {
+     "count": 4,
+     "median_salary": 110916,
+     "title": "STAFF ENGINEER, QUALITY ASSURANCE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 149853,
+     "title": "STAFF ENGINEER, R&AMP;D ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 176109,
+     "title": "ANALYST 5, DATA ANALYTICS"
+    },
+    {
+     "count": 3,
+     "median_salary": 117645,
+     "title": "MANAGER 2, PROGRAM MANAGEMENT"
     }
    ]
   },
