@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T14:40:16Z",
+ "built_at": "2026-10-31T18:21:29Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5093,6 +5093,112 @@
      "count": 1,
      "median_salary": 141898,
      "title": "SR. SYSTEMS SOLUTION ENGINEER"
+    }
+   ]
+  },
+  "brain": {
+   "fetched_at": "2026-10-31T18:21:29Z",
+   "label": "Brain Co.",
+   "titles": [
+    {
+     "count": 28,
+     "median_salary": 108400,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 102000,
+     "title": "SAP FUNCTIONAL CONSULTANT"
+    },
+    {
+     "count": 4,
+     "median_salary": 84482,
+     "title": "SENIOR MANUFACTURING ENGINEER TECH TRANSFER"
+    },
+    {
+     "count": 3,
+     "median_salary": 101000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 82763,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 133565,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 94000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 75000,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 174689,
+     "title": "AI PLATFORM ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87765,
+     "title": "APPLICATION PROGRAMMER ANALYST - WATSONX PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140481,
+     "title": "AUTONOMY ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 75000,
+     "title": "COMPUTER SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87500,
+     "title": "DATABASE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140930,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 95237,
+     "title": "QA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132007,
+     "title": "SALESFORCE TECHNICAL ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 165555,
+     "title": "SENIOR AUTONOMY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 86000,
+     "title": "SOFTWARE QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "SOLUTIONS ENGINEER"
     }
    ]
   },
