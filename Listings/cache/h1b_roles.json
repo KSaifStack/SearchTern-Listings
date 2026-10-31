@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-30T21:21:36Z",
+ "built_at": "2026-10-31T04:56:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -12370,6 +12370,112 @@
    "fetched_at": "2026-10-25T19:01:36Z",
    "label": "[Hermeus](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936/apply)",
    "titles": []
+  },
+  "hewlett packard": {
+   "fetched_at": "2026-10-31T04:56:46Z",
+   "label": "Hewlett Packard",
+   "titles": [
+    {
+     "count": 57,
+     "median_salary": 187741,
+     "title": "SENIOR CLOUD DEVELOPER"
+    },
+    {
+     "count": 54,
+     "median_salary": 149208,
+     "title": "CLOUD DEVELOPER III"
+    },
+    {
+     "count": 44,
+     "median_salary": 132579,
+     "title": "CLOUD DEVELOPER II"
+    },
+    {
+     "count": 33,
+     "median_salary": 136989,
+     "title": "SYSTEMS SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 26,
+     "median_salary": 90400,
+     "title": "SYSTEMS SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 22,
+     "median_salary": 157538,
+     "title": "SENIOR SYSTEMS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 85634,
+     "title": "SYSTEMS SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 16,
+     "median_salary": 98218,
+     "title": "CLOUD DEVELOPER I"
+    },
+    {
+     "count": 12,
+     "median_salary": 201323,
+     "title": "PRINCIPAL CLOUD DEVELOPER"
+    },
+    {
+     "count": 12,
+     "median_salary": 177018,
+     "title": "PRINCIPAL SYSTEMS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 132579,
+     "title": "PRODUCT MANAGER III"
+    },
+    {
+     "count": 12,
+     "median_salary": 140005,
+     "title": "SENIOR IT DEVELOPER ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 138174,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 132579,
+     "title": "PRODUCT MANAGER II"
+    },
+    {
+     "count": 7,
+     "median_salary": 153785,
+     "title": "PRINCIPAL IT DEVELOPER ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 132595,
+     "title": "RESEARCH ENGINEER III"
+    },
+    {
+     "count": 6,
+     "median_salary": 135636,
+     "title": "AI AND MACHINE LEARNING ENGINEER III"
+    },
+    {
+     "count": 6,
+     "median_salary": 146244,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 188613,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 148699,
+     "title": "DATA SCIENTIST III"
+    }
+   ]
   },
   "hewlett packard enterprise": {
    "fetched_at": "2026-10-25T10:28:16Z",
