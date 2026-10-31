@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T07:52:46Z",
+ "built_at": "2026-10-31T14:08:21Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13437,6 +13437,112 @@
      "count": 24,
      "median_salary": 96734,
      "title": "INDUSTRIAL ENGINEER"
+    }
+   ]
+  },
+  "intercontinental exchange": {
+   "fetched_at": "2026-10-31T14:08:21Z",
+   "label": "Intercontinental Exchange",
+   "titles": [
+    {
+     "count": 13,
+     "median_salary": 149800,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 10,
+     "median_salary": 149800,
+     "title": "LEAD DEVELOPER"
+    },
+    {
+     "count": 7,
+     "median_salary": 127600,
+     "title": "ENGINEER, STORAGE ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 105300,
+     "title": "ENGINEER, SYSTEMS ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 107100,
+     "title": "SENIOR QUANTITATIVE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 151000,
+     "title": "SENIOR JAVA DEVELOPER"
+    },
+    {
+     "count": 6,
+     "median_salary": 83600,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST"
+    },
+    {
+     "count": 5,
+     "median_salary": 118500,
+     "title": "LEAD QA ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 107100,
+     "title": "QUANTITATIVE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 139000,
+     "title": "SENIOR ENGINEER, NETWORK ENGINEERING"
+    },
+    {
+     "count": 5,
+     "median_salary": 101000,
+     "title": "SENIOR QA ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 67600,
+     "title": "ANALYST, GLOBAL QUANTITATIVE RESEARCH"
+    },
+    {
+     "count": 4,
+     "median_salary": 120200,
+     "title": "ENGINEER, RELEASE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 105350,
+     "title": "LEAD QA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 113700,
+     "title": "LEAD TEST AUTOMATION ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 92300,
+     "title": "QA AUTOMATION ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 127900,
+     "title": "SENIOR DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 129900,
+     "title": "SENIOR ENGINEER, SYSTEMS ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 110950,
+     "title": "SENIOR IT AUDITOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 80400,
+     "title": "ENGINEER, CYBERSECURITY DFIR"
     }
    ]
   },
