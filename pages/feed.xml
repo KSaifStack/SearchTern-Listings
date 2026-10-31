@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:40:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Innovation Software Engineer 1 - Marketplace at Built Technologies</title>
@@ -610,18 +610,18 @@
       <description>Chicago, US-IL, United States | Other | internship</description>
     </item>
     <item>
-      <title>Category Management Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39857</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39857</guid>
-      <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
-      <description>Chicago, US-IL, United States | Business/Analytics | internship</description>
-    </item>
-    <item>
       <title>Field Sales Intern - West Region at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/40114</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/40114</guid>
       <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
       <description>Irvine, US-CA, United States | Sales/Business Dev | internship</description>
+    </item>
+    <item>
+      <title>Category Management Intern at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/39857</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39857</guid>
+      <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
+      <description>Chicago, US-IL, United States | Business/Analytics | internship</description>
     </item>
     <item>
       <title>Non-Alc Intern at Molsoncoors</title>
@@ -638,13 +638,6 @@
       <description>Orlando, US-FL, United States | Other | internship</description>
     </item>
     <item>
-      <title>Revenue Management Intern at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39854</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39854</guid>
-      <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Business/Analytics | internship</description>
-    </item>
-    <item>
       <title>Finance Intern at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/40096</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/40096</guid>
@@ -652,11 +645,11 @@
       <description>Milwaukee, US-WI, United States | Finance/Quant | internship</description>
     </item>
     <item>
-      <title>Brewery Operations Intern - Packaging at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39744</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39744</guid>
+      <title>Revenue Management Intern at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/39854</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39854</guid>
       <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
-      <description>Fort Worth, US-TX, United States | Operations/Supply | internship</description>
+      <description>Milwaukee, US-WI, United States | Business/Analytics | internship</description>
     </item>
     <item>
       <title>Barley Research &amp; Development Intern at Molsoncoors</title>
@@ -664,6 +657,13 @@
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/39799</guid>
       <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
       <description>Burley, US-ID, United States | Research/Science | internship</description>
+    </item>
+    <item>
+      <title>Brewery Operations Intern - Packaging at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/39744</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39744</guid>
+      <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
+      <description>Fort Worth, US-TX, United States | Operations/Supply | internship</description>
     </item>
     <item>
       <title>Field Sales Intern - Great Lakes at Molsoncoors</title>
@@ -687,13 +687,6 @@
       <description>Milwaukee, US-WI, United States | Healthcare/Clinical | internship</description>
     </item>
     <item>
-      <title>Brewery Operations Intern - Brewery/Warehouse at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/39784</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39784</guid>
-      <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
-      <description>Milwaukee, US-WI, United States | Operations/Supply | internship</description>
-    </item>
-    <item>
       <title>Procurement Intern at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/40097</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/40097</guid>
@@ -706,6 +699,13 @@
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/39803</guid>
       <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
       <description>Milwaukee, US-WI, United States | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Brewery Operations Intern - Brewery/Warehouse at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/39784</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/39784</guid>
+      <pubDate>Sat, 31 Oct 2026 00:42:44 +0000</pubDate>
+      <description>Milwaukee, US-WI, United States | Operations/Supply | internship</description>
     </item>
     <item>
       <title>Brewery Operations Intern - Technical Services at Molsoncoors</title>
@@ -757,18 +757,18 @@
       <description>San Mateo, California | Data/ML/AI | internship</description>
     </item>
     <item>
-      <title>Front End Entry Level at Albertsons Companies</title>
-      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/787617</link>
-      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/787617</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Windsor, CO, United States | Other | new_grad</description>
-    </item>
-    <item>
       <title>Manager Trainee at Fa Evlf Saasfaprod</title>
       <link>https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44155</link>
       <guid isPermaLink="true">https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44155</guid>
       <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
       <description>San Antonio, TX, United States | Customer/Retail | internship</description>
+    </item>
+    <item>
+      <title>Front End Entry Level at Albertsons Companies</title>
+      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/787621</link>
+      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/787621</guid>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Hereford, TX, United States | Other | new_grad</description>
     </item>
     <item>
       <title>Data Engineer Intern at Firework</title>
