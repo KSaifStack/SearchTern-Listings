@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T04:56:46Z",
+ "built_at": "2026-10-31T07:52:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15864,6 +15864,42 @@
      "count": 19,
      "median_salary": 204000,
      "title": "ASIC ENGINEER, DESIGN VERIFICATION"
+    }
+   ]
+  },
+  "metasys": {
+   "fetched_at": "2026-10-31T07:52:45Z",
+   "label": "Metasys",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 92394,
+     "title": "APPLICATION SUPPORT SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 92289,
+     "title": "EXPERT SYSTEMS PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 92394,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST"
+    },
+    {
+     "count": 1,
+     "median_salary": 73819,
+     "title": "CONFIGURATION &AMP; IT SUPPORT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 118500,
+     "title": "SENIOR APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 96000,
+     "title": "TECHNICAL PRODUCT MANAGER"
     }
    ]
   },
