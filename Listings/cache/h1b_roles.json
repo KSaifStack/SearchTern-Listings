@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T20:02:38Z",
+ "built_at": "2026-10-31T22:57:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -21546,6 +21546,112 @@
      "count": 14,
      "median_salary": 239194,
      "title": "SENIOR PRODUCT MANAGER"
+    }
+   ]
+  },
+  "sanofi": {
+   "fetched_at": "2026-10-31T22:57:46Z",
+   "label": "Sanofi",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 104416,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 111412,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 84000,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 148762,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125250,
+     "title": "CONSUMER EXPERIENCE STRATEGY LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 120224,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 153046,
+     "title": "DATA ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125250,
+     "title": "DEPUTY DIRECTOR, ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 148762,
+     "title": "DIGITAL PRODUCT OWNER CMC E2E DSP"
+    },
+    {
+     "count": 2,
+     "median_salary": 133026,
+     "title": "DIGITAL QUALITY SYSTEMS &AMP; COMPLIANCE LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 156523,
+     "title": "DIRECTOR, BUSINESS CUSTOMER MASTER DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 147000,
+     "title": "GRA DEVICE LEAD SPECIALTY CARE DEVICE &AMP; COMBINATION PRODUCTS"
+    },
+    {
+     "count": 2,
+     "median_salary": 119413,
+     "title": "MRNA, SCIENTIST PLASMID ANALYTICS AND SEQUENCING"
+    },
+    {
+     "count": 2,
+     "median_salary": 117327,
+     "title": "MRNA, SR ENGINEER \u201c GPH&AMP;TT \u201c VACCINE"
+    },
+    {
+     "count": 2,
+     "median_salary": 129255,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 84000,
+     "title": "REGULATORY SITE OFFICER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140012,
+     "title": "REGULATORY STRATEGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "SCIENTIST I"
+    },
+    {
+     "count": 2,
+     "median_salary": 177000,
+     "title": "SENIOR DIRECTOR, INSIGHTS AND ANALYTICS RSV"
+    },
+    {
+     "count": 2,
+     "median_salary": 122250,
+     "title": "SENIOR MANAGER, REGULATORY AFFAIRS CMC"
     }
    ]
   },
