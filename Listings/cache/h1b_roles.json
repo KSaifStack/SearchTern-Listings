@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T18:21:29Z",
+ "built_at": "2026-10-31T20:02:38Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15199,6 +15199,62 @@
      "count": 3,
      "median_salary": 111000,
      "title": "SENIOR SOFTWARE ENGINEER I"
+    }
+   ]
+  },
+  "lila sciences": {
+   "fetched_at": "2026-10-31T20:02:37Z",
+   "label": "Lila Sciences",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 155000,
+     "title": "SENIOR ENGINEER II, CONTROLS"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "SENIOR SCIENTIST II, DNA DESIGN AND ASSEMBLY"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "DIRECTOR OF PRODUCT \u2013 APPLIED AI"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "PEOPLE SYSTEMS AND PROJECTS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 350000,
+     "title": "PRINCIPAL MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "RESEARCH ASSOCIATE II"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SENIOR ENGINEER II, AUTOMATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 310000,
+     "title": "SENIOR SCIENTIST II, PHYSICAL SCIENCES AI"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "SOFTWARE ENGINEER, INFORMATICS"
     }
    ]
   },

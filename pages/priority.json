@@ -832,6 +832,22 @@
     "category": "Software Engineering"
   },
   {
+    "company": "Palantir",
+    "role": "Finance Operator Intern",
+    "location": "New York, NY",
+    "date": "2026-10-31 00:15:34.399000+00:00",
+    "link": "https://jobs.lever.co/palantir/bd7766c4-6aea-4b37-8d47-a8864bb9bd69",
+    "is_remote": "false",
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "country_iso": "US",
+    "description": "A World-Changing Company Palantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.",
+    "job_type": "internship",
+    "source": "priority",
+    "category": "Finance/Quant"
+  },
+  {
     "company": "Pinterest",
     "role": "Machine Learning Intern 2027 (Dublin)",
     "location": "Dublin, Ireland",
@@ -1140,7 +1156,7 @@
     "role": "Account Development Representative Intern - Atlanta",
     "location": "Atlanta, Georgia, United States",
     "date": "2026-10-30T11:37:42-04:00",
-    "link": "https://www.samsara.com/company/careers/roles/8103119?gh_jid=8103119",
+    "link": "https://www.samsara.com/company/careers/roles/8325373?gh_jid=8325373",
     "is_remote": "false",
     "salary_min": null,
     "salary_max": null,
