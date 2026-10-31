@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T22:57:46Z",
+ "built_at": "2026-10-31T23:23:15Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -19295,6 +19295,57 @@
   "prologis https prologis wd5 myworkdayjobs com prologis external careers job denver colorado ai product management intern r6840": {
    "fetched_at": "2026-10-25T22:41:23Z",
    "label": "[Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-Product-Management-Intern_R6840)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 142100,
+     "title": "OPERATIONS CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 142646,
+     "title": "CONSTRUCTION PROJECT MANAGER, ENERGY AND MOBILITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 142000,
+     "title": "DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 219440,
+     "title": "DIRECTOR, ORIGINATION - AMERICAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 82243,
+     "title": "FINANCIAL OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "INVESTOR RELATIONS ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 95347,
+     "title": "LEAD, ADVANCED ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "TECHNICAL LEAD, LEASING DOC GEN &AMP; ADMIN"
+    }
+   ]
+  },
+  "prologis https prologis wd5 myworkdayjobs com prologis external careers job denver colorado it customer experience technologies intern r6829": {
+   "fetched_at": "2026-10-31T23:23:15Z",
+   "label": "[Prologis](https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829)",
    "titles": [
     {
      "count": 2,
