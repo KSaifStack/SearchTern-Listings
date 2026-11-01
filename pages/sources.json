@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T15:32:39.621251+00:00",
+  "generated_at": "2026-11-01T17:24:42.590027+00:00",
   "count": 48,
   "sources": [
     {
@@ -14,14 +14,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 1425
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 966
+      "count": 1127
     },
     {
       "name": "SuryaHarikrishnan Other 2027",
@@ -42,7 +35,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 922
+      "count": 917
     },
     {
       "name": "SuryaHarikrishnan DS/AI",
@@ -52,11 +45,18 @@
       "count": 743
     },
     {
+      "name": "SimplifyJobs New Grad",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 715
+    },
+    {
       "name": "SuryaHarikrishnan SWE Track",
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/software-engineering.md",
       "type": "internship",
       "season": "2027",
-      "count": 695
+      "count": 696
     },
     {
       "name": "freehire.me",
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 517
+      "count": 516
     },
     {
       "name": "speedyapply SWE 2027",
@@ -169,6 +169,13 @@
       "type": "internship/newgrad",
       "season": "",
       "count": 76
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io",
+      "type": "internship/tech",
+      "season": "",
+      "count": 66
     },
     {
       "name": "SimplifyJobs Summer 2027",
@@ -329,13 +336,6 @@
       "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 0
-    },
-    {
-      "name": "EchoJobs",
-      "url": "https://echojobs.io",
-      "type": "internship/tech",
-      "season": "",
       "count": 0
     }
   ]
