@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-01T05:15:52Z",
+ "built_at": "2026-11-01T08:22:43Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5539,6 +5539,17 @@
      "count": 1,
      "median_salary": 126090,
      "title": "SOFTWARE DEVELOPER T2"
+    }
+   ]
+  },
+  "cambridge consultants": {
+   "fetched_at": "2026-11-01T08:22:42Z",
+   "label": "Cambridge Consultants",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 129375,
+     "title": "PRINCIPAL EXPERIENCE DESIGNER"
     }
    ]
   },
