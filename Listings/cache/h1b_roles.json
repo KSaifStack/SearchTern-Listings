@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-01T10:55:49Z",
+ "built_at": "2026-11-01T14:56:02Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -26891,6 +26891,112 @@
    "fetched_at": "2026-10-25T23:03:10Z",
    "label": "www.careers.philips.com",
    "titles": []
+  },
+  "xcel energy https xcelenergy wd1 myworkdayjobs com external job minneapolis mn 55418 grid data intern mn jr115742 1": {
+   "fetched_at": "2026-11-01T14:56:02Z",
+   "label": "[Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Grid-Data-Intern---MN_JR115742-1)",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 120000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 106059,
+     "title": "ANGULAR DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131490,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "DIRECTOR OF FINANCE &AMP; STRATEGIC OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 82449,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 168553,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 92000,
+     "title": "SR. QUALITY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115920,
+     "title": "AI DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 101920,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118900,
+     "title": "DEVOPS KUBERNETES ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113000,
+     "title": "ETL DEVELOPER AB INITIO DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84094,
+     "title": "GEN AI SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 118900,
+     "title": "KUBERNETES SOLUTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "MANAGER SOFTWARE APPLICATIONS, ACCOUNTS RESOLUTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 140680,
+     "title": "ML OPS SENIOR ENGINEERS"
+    },
+    {
+     "count": 1,
+     "median_salary": 175427,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 83658,
+     "title": "PROJECT MANAGEMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 118000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128000,
+     "title": "PROJECT MANAGER II"
+    }
+   ]
   },
   "zebra technologies": {
    "fetched_at": "2026-10-26T10:07:06Z",
