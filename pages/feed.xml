@@ -5,8 +5,29 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:17:33 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Software Engineer 1 at Huntington Ingalls Industries</title>
+      <link>https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors</link>
+      <guid isPermaLink="true">https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors</guid>
+      <pubDate>Sun, 01 Nov 2026 23:15:58 +0000</pubDate>
+      <description>Newport News, VA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Revenue Accountant at Elevenlabs</title>
+      <link>https://jobs.ashbyhq.com/elevenlabs/9d731858-01bf-4d42-89e5-5912ae94cf55</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/elevenlabs/9d731858-01bf-4d42-89e5-5912ae94cf55</guid>
+      <pubDate>Sun, 01 Nov 2026 22:25:59 +0000</pubDate>
+      <description>New York | Accounting | new_grad</description>
+    </item>
+    <item>
+      <title>Equity Administrator at Elevenlabs</title>
+      <link>https://jobs.ashbyhq.com/elevenlabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/elevenlabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6</guid>
+      <pubDate>Sun, 01 Nov 2026 22:24:59 +0000</pubDate>
+      <description>New York | Other | new_grad</description>
+    </item>
     <item>
       <title>Entry Level - Tax Services  - Cambridge at PWC</title>
       <link>https://pwc.wd3.myworkdayjobs.com/job/Cambridge/Entry-Level---Tax-Services----Cambridge_EC202668</link>
@@ -1385,27 +1406,6 @@
       <guid isPermaLink="true">https://cenhud.wd5.myworkdayjobs.com/job/Poughkeepsie/Graphic-Design--Video-Production---Multimedia-Internship_R2140</guid>
       <pubDate>Sun, 01 Nov 2026 20:37:23 +0000</pubDate>
       <description>Poughkeepsie | Product/Design | internship</description>
-    </item>
-    <item>
-      <title>Information Technology Internship at Central Hudson</title>
-      <link>https://cenhud.wd5.myworkdayjobs.com/job/Poughkeepsie/Information-Technology-Internship_R2134</link>
-      <guid isPermaLink="true">https://cenhud.wd5.myworkdayjobs.com/job/Poughkeepsie/Information-Technology-Internship_R2134</guid>
-      <pubDate>Sun, 01 Nov 2026 20:37:23 +0000</pubDate>
-      <description>Poughkeepsie | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Technical Intern at Centific</title>
-      <link>https://centific.wd1.myworkdayjobs.com/job/Remote-Work-USA/Speech-Intern-4_JR107037</link>
-      <guid isPermaLink="true">https://centific.wd1.myworkdayjobs.com/job/Remote-Work-USA/Speech-Intern-4_JR107037</guid>
-      <pubDate>Sun, 01 Nov 2026 20:37:23 +0000</pubDate>
-      <description>Remote Work( USA) | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 Wealth Management Internship at Cerity Partners</title>
-      <link>https://ceritypartners.wd12.myworkdayjobs.com/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R889-1</link>
-      <guid isPermaLink="true">https://ceritypartners.wd12.myworkdayjobs.com/job/Bowling-Green-KY/Summer-2027-Wealth-Management-Internship_R889-1</guid>
-      <pubDate>Sun, 01 Nov 2026 20:37:23 +0000</pubDate>
-      <description>Bowling Green, KY | Finance/Quant | internship</description>
     </item>
   </channel>
 </rss>
