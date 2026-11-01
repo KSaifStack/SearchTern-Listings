@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-01T08:22:43Z",
+ "built_at": "2026-11-01T10:55:49Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7758,6 +7758,11 @@
    "label": "Cox",
    "titles": []
   },
+  "cr dit agricole cib": {
+   "fetched_at": "2026-11-01T10:55:45Z",
+   "label": "Cr\u00e9dit Agricole CIB",
+   "titles": []
+  },
   "crb": {
    "fetched_at": "2026-10-25T04:07:12Z",
    "label": "crb",
@@ -9952,6 +9957,11 @@
   "fa elxu saasfaprod1 cx 1001": {
    "fetched_at": "2026-10-25T08:51:20Z",
    "label": "Fa Elxu Saasfaprod1 (CX_1001)",
+   "titles": []
+  },
+  "fa eoic saasfaprod1": {
+   "fetched_at": "2026-11-01T10:55:47Z",
+   "label": "Fa Eoic Saasfaprod1",
    "titles": []
   },
   "fa esfc saasfaprod1": {
@@ -14771,6 +14781,112 @@
      "count": 1,
      "median_salary": 130624,
      "title": "PROGRAM MANAGER-SUSTAINABILITY &AMP; CARBON"
+    }
+   ]
+  },
+  "kohler": {
+   "fetched_at": "2026-11-01T10:55:48Z",
+   "label": "Kohler",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 127375,
+     "title": "DIGITAL ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 94025,
+     "title": "SR PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 68118,
+     "title": "SUPPLY CHAIN SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 133250,
+     "title": "SYSTEMS ARCHITECT - PRODUCTION PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 77000,
+     "title": "ASSOC SYSTEMS ANALYST - WORKDAY HR &AMP; PAYROLL"
+    },
+    {
+     "count": 1,
+     "median_salary": 77000,
+     "title": "ENGINEER-SUPPLIER QUALITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "LEAD INDUSTRIAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130624,
+     "title": "PROGRAM MANAGER-SUSTAINABILITY &AMP; CARBON"
+    },
+    {
+     "count": 1,
+     "median_salary": 89900,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87700,
+     "title": "PROJECT ENGINEER - PROCESS"
+    },
+    {
+     "count": 1,
+     "median_salary": 170150,
+     "title": "SENIOR MANAGER - ECOMMERCE SALES, KBNA"
+    },
+    {
+     "count": 1,
+     "median_salary": 134700,
+     "title": "SENIOR MANAGER - STRATEGIC ACCOUNT SALES, ECOMMERCE SALES"
+    },
+    {
+     "count": 1,
+     "median_salary": 74300,
+     "title": "SR ANALYST S&AMP;OP HOLISTIC"
+    },
+    {
+     "count": 1,
+     "median_salary": 78250,
+     "title": "SR ANALYST-S&AMP;OP DEMAND PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 293900,
+     "title": "SR DIRECTOR - ENTERPRISE STRATEGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 166347,
+     "title": "SR IOS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 141800,
+     "title": "SR MGR, SUPPLIER QUALITY ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 171985,
+     "title": "SR. SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170150,
+     "title": "SR. SYSTEMS ARCHITECT, SCO COE"
+    },
+    {
+     "count": 1,
+     "median_salary": 112250,
+     "title": "STAFF ENGINEER"
     }
    ]
   },
@@ -20522,6 +20638,11 @@
      "title": "HRIS ANALYST"
     }
    ]
+  },
+  "respecinc": {
+   "fetched_at": "2026-11-01T10:55:49Z",
+   "label": "respecinc",
+   "titles": []
   },
   "rivian": {
    "fetched_at": "2026-10-25T18:39:26Z",
