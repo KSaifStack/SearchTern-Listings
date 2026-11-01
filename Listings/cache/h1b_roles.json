@@ -1,5 +1,5 @@
 {
- "built_at": "2026-10-31T23:23:15Z",
+ "built_at": "2026-11-01T05:15:52Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8609,6 +8609,17 @@
      "count": 1,
      "median_salary": 190757,
      "title": "SENIOR VICE PRESIDENT OF FINANCE"
+    }
+   ]
+  },
+  "ducharme mcmillen associates": {
+   "fetched_at": "2026-11-01T05:15:51Z",
+   "label": "DuCharme, McMillen & Associates",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 75670,
+     "title": "CONSULTANT, TAX TECHNOLOGY"
     }
    ]
   },
