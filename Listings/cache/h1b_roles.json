@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-02T05:11:38Z",
+ "built_at": "2026-11-02T05:19:50Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -22563,6 +22563,112 @@
    "label": "sig",
    "titles": []
   },
+  "sigma computing": {
+   "fetched_at": "2026-11-02T05:19:49Z",
+   "label": "Sigma Computing",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 175000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 96516,
+     "title": "TECHNICAL SUPPORT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 235000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "TECHNICAL WRITER"
+    },
+    {
+     "count": 1,
+     "median_salary": 226138,
+     "title": "AI ML ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "BUSINESS DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "COMMERCIAL SOLUTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 274414,
+     "title": "CORPORATE COUNSEL, PRIVACY &AMP; PRODUCT"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "CUSTOMER SUCCESS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "CYBER GRC SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 200305,
+     "title": "INFORMATION SYSTEMS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 220000,
+     "title": "LEAD PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 154000,
+     "title": "SENIOR FIELD MARKETING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 142140,
+     "title": "SENIOR IT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SENIOR PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "SENIOR PRODUCT MANAGER, DATA APPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SOFTWARE ENGINEER L3"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "SOFTWARE ENGINEER, L4"
+    },
+    {
+     "count": 1,
+     "median_salary": 195000,
+     "title": "SOFTWARE ENGINEER, LEVEL I4"
+    }
+   ]
+  },
   "simon property": {
    "fetched_at": "2026-10-26T04:10:38Z",
    "label": "Simon Property Group",
@@ -23831,6 +23937,17 @@
    "fetched_at": "2026-10-31T14:40:14Z",
    "label": "T-Mobile",
    "titles": []
+  },
+  "talos": {
+   "fetched_at": "2026-11-02T05:19:50Z",
+   "label": "Talos",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SENIOR ENGINEER I"
+    }
+   ]
   },
   "tc energy": {
    "fetched_at": "2026-10-26T04:10:41Z",
