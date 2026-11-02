@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-01T15:01:20Z",
+ "built_at": "2026-11-02T05:11:38Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -9780,6 +9780,72 @@
   "excellus bcbs": {
    "fetched_at": "2026-10-25T18:06:04Z",
    "label": "Excellus BCBS",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "PEGA DEVELOPER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 105997,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98176,
+     "title": "FRONT-END DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 123500,
+     "title": "MANAGER OF APPLICATION DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "PEGA DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104898,
+     "title": "PEGA DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "PEGA DEVELOPER IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 100586,
+     "title": "SOFTWARE DEV ROBOTICS III"
+    },
+    {
+     "count": 1,
+     "median_salary": 110920,
+     "title": "SOFTWARE DEVELOPER ETL III"
+    },
+    {
+     "count": 1,
+     "median_salary": 136802,
+     "title": "SOFTWARE DEVELOPER ETL IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 120619,
+     "title": "SOFTWARE DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "excellus bcbs https lthc wd1 myworkdayjobs com en us excellusbcbscareers job rochester college intern summer 2027 operations analyst jr104058 2": {
+   "fetched_at": "2026-11-02T05:11:36Z",
+   "label": "[Excellus BCBS](https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Operations-Analyst_JR104058-2)",
    "titles": [
     {
      "count": 2,
@@ -26891,6 +26957,112 @@
    "fetched_at": "2026-10-25T23:03:10Z",
    "label": "www.careers.philips.com",
    "titles": []
+  },
+  "xcel energy https xcelenergy wd1 myworkdayjobs com external job minneapolis mn 55401 residential energy product strategy intern mn jr115811": {
+   "fetched_at": "2026-11-02T05:11:37Z",
+   "label": "[Xcel Energy](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811)",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 120000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 106059,
+     "title": "ANGULAR DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131490,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "DIRECTOR OF FINANCE &AMP; STRATEGIC OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 82449,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 168553,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 92000,
+     "title": "SR. QUALITY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115920,
+     "title": "AI DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 101920,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118900,
+     "title": "DEVOPS KUBERNETES ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113000,
+     "title": "ETL DEVELOPER AB INITIO DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84094,
+     "title": "GEN AI SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 118900,
+     "title": "KUBERNETES SOLUTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "MANAGER SOFTWARE APPLICATIONS, ACCOUNTS RESOLUTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 140680,
+     "title": "ML OPS SENIOR ENGINEERS"
+    },
+    {
+     "count": 1,
+     "median_salary": 175427,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 83658,
+     "title": "PROJECT MANAGEMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 118000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128000,
+     "title": "PROJECT MANAGER II"
+    }
+   ]
   },
   "xcel energy https xcelenergy wd1 myworkdayjobs com external job minneapolis mn 55418 grid data intern mn jr115742 1": {
    "fetched_at": "2026-11-01T15:01:20Z",
