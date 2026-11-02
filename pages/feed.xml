@@ -5,266 +5,616 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:10:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Software Engineer Intern - AI Engineering at ROKU</title>
-      <link>https://www.weareroku.com/jobs/8258241?gh_jid=8258241</link>
-      <guid isPermaLink="true">https://www.weareroku.com/jobs/8258241?gh_jid=8258241</guid>
-      <pubDate>Mon, 02 Nov 2026 11:47:23 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
+      <title>Software Engineer Intern at Paretohealth</title>
+      <link>https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4726117006</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Philadelphia, PA | Software Engineering | internship</description>
     </item>
     <item>
-      <title>IT Software Engineer 1 - Robotic Process Automation at Huntington Ingalls Industries</title>
-      <link>https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors</link>
-      <guid isPermaLink="true">https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors</guid>
-      <pubDate>Mon, 02 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Newport News, VA | Software Engineering | new_grad</description>
+      <title>Product Manager Intern at Paretohealth</title>
+      <link>https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725351006</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Philadelphia, PA | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Supervision &amp; Regulation Intern - Business Relationship at The Federal Reserve System</title>
+      <link>https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860</link>
+      <guid isPermaLink="true">https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Atlanta, GA | Business/Analytics | internship</description>
+    </item>
+    <item>
+      <title>Operations Metrics and Reporting Intern at AXA</title>
+      <link>https://careers.axa.com/jobs/25497?icims=1</link>
+      <guid isPermaLink="true">https://careers.axa.com/jobs/25497?icims=1</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Scottsdale, AZ | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Analytics Intern at Paretohealth</title>
+      <link>https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4725326006</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Philadelphia, PA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Data Science Intern - Summer 2027 at Sierra Nevada Corporation</title>
+      <link>https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257</link>
+      <guid isPermaLink="true">https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Sparks, NV | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>AI Intern at Jm Family</title>
+      <link>https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180</link>
+      <guid isPermaLink="true">https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:03 +0000</pubDate>
+      <description>Deerfield Beach, FL | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Junior Machine Learning Engineer at Integration Innovation I3</title>
+      <link>https://i3-corps.jibeapply.com/jobs/5417?icims=1</link>
+      <guid isPermaLink="true">https://i3-corps.jibeapply.com/jobs/5417?icims=1</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Arlington County, Arlington, VA | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Junior Data Engineer at Element Solutions</title>
+      <link>https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply</link>
+      <guid isPermaLink="true">https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply</guid>
+      <pubDate>Mon, 02 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Remote in USA | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Early Careers - IT QA Intern at HCSC</title>
+      <link>https://hcsc.wd1.myworkdayjobs.com/job/IL---Downers-Grove/Early-Careers---IT-QA-Intern_R0059504</link>
+      <guid isPermaLink="true">https://hcsc.wd1.myworkdayjobs.com/job/IL---Downers-Grove/Early-Careers---IT-QA-Intern_R0059504</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>IL - Downers Grove | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Seafood Department Manager Trainee at Hy Vee</title>
+      <link>https://hyvee.wd1.myworkdayjobs.com/job/Coralville-2-Crosspark-Road-Coralville-IA/Seafood-Department-Manager-Trainee_R247350</link>
+      <guid isPermaLink="true">https://hyvee.wd1.myworkdayjobs.com/job/Coralville-2-Crosspark-Road-Coralville-IA/Seafood-Department-Manager-Trainee_R247350</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Coralville #2, Crosspark Road, Coralville, IA | Customer/Retail | internship</description>
+    </item>
+    <item>
+      <title>Engineering Intern at Schweitzer Engineering Laboratories</title>
+      <link>https://selinc.wd1.myworkdayjobs.com/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468</link>
+      <guid isPermaLink="true">https://selinc.wd1.myworkdayjobs.com/job/North-Carolina---Charlotte/Engineering-Intern_2026-23468</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>North Carolina - Charlotte | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>UI/UX Designer Intern at Schweitzer Engineering Laboratories</title>
+      <link>https://selinc.wd1.myworkdayjobs.com/job/Washington---Pullman/UI-UX-Designer-Intern_2026-24271</link>
+      <guid isPermaLink="true">https://selinc.wd1.myworkdayjobs.com/job/Washington---Pullman/UI-UX-Designer-Intern_2026-24271</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Washington - Pullman | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Engineering Intern at Schweitzer Engineering Laboratories</title>
+      <link>https://selinc.wd1.myworkdayjobs.com/job/Texas---Houston/Engineering-Intern_2026-22278</link>
+      <guid isPermaLink="true">https://selinc.wd1.myworkdayjobs.com/job/Texas---Houston/Engineering-Intern_2026-22278</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Texas - Houston | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Regulatory Business (Fall/Winter) Intern - Colorado at Xcel Energy</title>
+      <link>https://xcelenergy.wd1.myworkdayjobs.com/job/Denver-CO-80205/Regulatory-Business-Intern---CO_JR115914-1</link>
+      <guid isPermaLink="true">https://xcelenergy.wd1.myworkdayjobs.com/job/Denver-CO-80205/Regulatory-Business-Intern---CO_JR115914-1</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Denver, CO, 80205 | Legal/Compliance | internship</description>
+    </item>
+    <item>
+      <title>Advanced Step Apprentice (3rd Step or above)/Journeyman Lineman - Faribault, MN at Xcel Energy</title>
+      <link>https://xcelenergy.wd1.myworkdayjobs.com/job/Faribault-MN-55021/Advanced-Step-Apprentice--3rd-Step-or-above--Journeyman-Lineman---Faribault--MN_JR115921-1</link>
+      <guid isPermaLink="true">https://xcelenergy.wd1.myworkdayjobs.com/job/Faribault-MN-55021/Advanced-Step-Apprentice--3rd-Step-or-above--Journeyman-Lineman---Faribault--MN_JR115921-1</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Faribault, MN, 55021 | Other | internship</description>
+    </item>
+    <item>
+      <title>Advanced Manufacturing Intern - Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - The Center | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Manufacturing Engineer Intern - Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - The Center | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Systems Engineer Intern at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Piedmont-South-Carolina-USA/Systems-Engineer-Intern_REQ-22256</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Piedmont-South-Carolina-USA/Systems-Engineer-Intern_REQ-22256</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Piedmont, South Carolina, USA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Design Engineer Intern at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Piedmont-South-Carolina-USA/Design-Engineer-Intern_REQ-22255</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Piedmont-South-Carolina-USA/Design-Engineer-Intern_REQ-22255</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Piedmont, South Carolina, USA | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Electrical Engineer Internship Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Electrical-Engineer-Internship-Summer-2027_REQ-22166</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Electrical-Engineer-Internship-Summer-2027_REQ-22166</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Corporate Office | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Corporate Research Intern at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-and-Corporate-Strategy-Intern_REQ-22176</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Data-Analytics-and-Corporate-Strategy-Intern_REQ-22176</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Corporate Office | Research/Science | internship</description>
+    </item>
+    <item>
+      <title>IT Software Engineer Internship Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Corporate Office | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Safety Intern at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Eco-Center/Safety-Intern_REQ-22177</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Eco-Center/Safety-Intern_REQ-22177</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Eco Center | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Embedded Software Engineer Internship Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Corporate Office | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Training and Development Specialist Intern - Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Training-and-Development-Specialist-Intern---Summer-2027_REQ-22156</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Corporate-Office/Training-and-Development-Specialist-Intern---Summer-2027_REQ-22156</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Corporate Office | Other | internship</description>
+    </item>
+    <item>
+      <title>Quality Engineer Intern - Summer 2027 at Vermeer</title>
+      <link>https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137</link>
+      <guid isPermaLink="true">https://vermeer.wd5.myworkdayjobs.com/job/Pella-Iowa-USA---Plant-3/Quality-Engineer-Intern---Summer-2027_REQ-22137</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Pella, Iowa, USA - Plant 3 | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Health &amp; Safety Intern at Dee Zee</title>
+      <link>https://deezee.wd108.myworkdayjobs.com/job/Des-Moines/Health---Safety-Intern_REQ00393</link>
+      <guid isPermaLink="true">https://deezee.wd108.myworkdayjobs.com/job/Des-Moines/Health---Safety-Intern_REQ00393</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Des Moines | Healthcare/Clinical | internship</description>
+    </item>
+    <item>
+      <title>Process Engineering Intern at Dee Zee</title>
+      <link>https://deezee.wd108.myworkdayjobs.com/job/Des-Moines/Process-Engineering-Intern_REQ00376</link>
+      <guid isPermaLink="true">https://deezee.wd108.myworkdayjobs.com/job/Des-Moines/Process-Engineering-Intern_REQ00376</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Des Moines | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Manufacturing Training &amp; Development Intern at Dee Zee</title>
+      <link>https://deezee.wd108.myworkdayjobs.com/job/Des-Moines/Manufacturing-Training---Development-Intern_REQ00382</link>
+      <guid isPermaLink="true">https://deezee.wd108.myworkdayjobs.com/job/Des-Moines/Manufacturing-Training---Development-Intern_REQ00382</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:07 +0000</pubDate>
+      <description>Des Moines | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Data Science Intern at Intuitive</title>
+      <link>https://jobs.smartrecruiters.com/Intuitive/744000159210829</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Intuitive/744000159210829</guid>
+      <pubDate>Mon, 02 Nov 2026 17:44:02 +0000</pubDate>
+      <description>Sunnyvale, CA | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Support Engineer I (NYC, Weekend Shift) at Replit</title>
+      <link>https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/replit/4e64e46f-f69d-4454-89b6-bd27302a464d</guid>
+      <pubDate>Mon, 02 Nov 2026 17:41:02 +0000</pubDate>
+      <description>NYC | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Support Engineer I (FC, Weekend Shift) at Replit</title>
+      <link>https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/replit/951e0ebb-a957-45fa-8763-d56ba46750b4</guid>
+      <pubDate>Mon, 02 Nov 2026 17:41:02 +0000</pubDate>
+      <description>Foster City, CA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Forward Deployed Product Manager at Method</title>
+      <link>https://jobs.ashbyhq.com/method/5343c88c-388c-4188-bcac-3e550c02c04e</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/method/5343c88c-388c-4188-bcac-3e550c02c04e</guid>
+      <pubDate>Mon, 02 Nov 2026 17:16:02 +0000</pubDate>
+      <description>New York, NY | Product/Design | new_grad</description>
+    </item>
+    <item>
+      <title>Sample Registration Technician I at Eurofins</title>
+      <link>https://jobs.smartrecruiters.com/Eurofins/744000159196944</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000159196944</guid>
+      <pubDate>Mon, 02 Nov 2026 17:05:02 +0000</pubDate>
+      <description>Des Moines, IA | Other | new_grad</description>
+    </item>
+    <item>
+      <title>Livermore Center for Quantum Science (LCQS) Undergraduate Internship - Summer 2027 at LLNL</title>
+      <link>https://jobs.smartrecruiters.com/llnl/3743990016558476</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/llnl/3743990016558476</guid>
+      <pubDate>Mon, 02 Nov 2026 17:05:02 +0000</pubDate>
+      <description>Livermore, CA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Livermore Center for Quantum Science (LCQS) Graduate Internship - Summer 2027 at LLNL</title>
+      <link>https://jobs.smartrecruiters.com/llnl/3743990016557987</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/llnl/3743990016557987</guid>
+      <pubDate>Mon, 02 Nov 2026 17:05:02 +0000</pubDate>
+      <description>Livermore, CA | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>User Experience Associate Consultant (Graduating Dec. 2026 - Summer 2027) at Captech Consulting</title>
+      <link>https://jobs.smartrecruiters.com/CapTechConsulting/744000159183799</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CapTechConsulting/744000159183799</guid>
+      <pubDate>Mon, 02 Nov 2026 16:05:02 +0000</pubDate>
+      <description>Richmond, VA | Product/Design | new_grad</description>
+    </item>
+    <item>
+      <title>Laboratory Sample Technician - Entry Level - Second-Shift at Eurofins</title>
+      <link>https://jobs.smartrecruiters.com/Eurofins/744000159180564</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000159180564</guid>
+      <pubDate>Mon, 02 Nov 2026 16:05:02 +0000</pubDate>
+      <description>Rensselaer, NY | Research/Science | new_grad</description>
+    </item>
+    <item>
+      <title>Project Coordinator, Media Group Decision Sciences at Nbcuniversal</title>
+      <link>https://jobs.smartrecruiters.com/NBCUniversal3/744000159170845</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/NBCUniversal3/744000159170845</guid>
+      <pubDate>Mon, 02 Nov 2026 16:05:02 +0000</pubDate>
+      <description>New York, NEW YORK | Other | new_grad</description>
+    </item>
+    <item>
+      <title>QC Sample Management Technician - 1st Shift (Sun-Wed) at Eurofins</title>
+      <link>https://jobs.smartrecruiters.com/Eurofins/744000159169129</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000159169129</guid>
+      <pubDate>Mon, 02 Nov 2026 16:05:02 +0000</pubDate>
+      <description>Rensselaer, NY | Business/Analytics | new_grad</description>
+    </item>
+    <item>
+      <title>Workplace AI Intern at Trace</title>
+      <link>https://boards.greenhouse.io/trace3/jobs/8274799</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/trace3/jobs/8274799</guid>
+      <pubDate>Mon, 02 Nov 2026 16:05:02 +0000</pubDate>
+      <description>Detroit, MI | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Consulting Internship: UX/Product Design (Summer 2027) at Captech Consulting</title>
+      <link>https://jobs.smartrecruiters.com/CapTechConsulting/744000159182656</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CapTechConsulting/744000159182656</guid>
+      <pubDate>Mon, 02 Nov 2026 16:05:02 +0000</pubDate>
+      <description>Richmond, VA | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Quantitative Trading Intern 2027 at Voloridge</title>
+      <link>https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4405530009</guid>
+      <pubDate>Mon, 02 Nov 2026 10:15:14 -0500</pubDate>
+      <description>Jupiter, FL | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Logistics Specialist at Smiths Group</title>
+      <link>https://jobs.smartrecruiters.com/SmithsGroup2/744000159164909</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/SmithsGroup2/744000159164909</guid>
+      <pubDate>Mon, 02 Nov 2026 15:05:02 +0000</pubDate>
+      <description>Elmwood Park, NJ | Operations/Supply | new_grad</description>
+    </item>
+    <item>
+      <title>Structural Engineering Internship - Bridge at Olsson</title>
+      <link>https://boards.greenhouse.io/olsson/jobs/5469628008</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/olsson/jobs/5469628008</guid>
+      <pubDate>Mon, 02 Nov 2026 14:05:02 +0000</pubDate>
+      <description>Omaha, NE | Construction/Trades | new_grad</description>
+    </item>
+    <item>
+      <title>Co-op, Agentic and Generative Protein Design at Lila Sciences</title>
+      <link>https://boards.greenhouse.io/lilasciences/jobs/4462613009</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/lilasciences/jobs/4462613009</guid>
+      <pubDate>Mon, 02 Nov 2026 14:05:02 +0000</pubDate>
+      <description>Cambridge, MA USA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Co-Op, Targeted Non-Viral Delivery at Lila Sciences</title>
+      <link>https://boards.greenhouse.io/lilasciences/jobs/4472544009</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/lilasciences/jobs/4472544009</guid>
+      <pubDate>Mon, 02 Nov 2026 14:05:02 +0000</pubDate>
+      <description>Cambridge, MA USA | Other | internship</description>
+    </item>
+    <item>
+      <title>Meta-Optics Intern Summer 2027 at Metalenz</title>
+      <link>https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/metalenz/c8150d66-9f72-4508-ac94-8a7efa54e206</guid>
+      <pubDate>Mon, 02 Nov 2026 14:05:02 +0000</pubDate>
+      <description>Boston, MA | Hardware/Embedded | internship</description>
+    </item>
+    <item>
+      <title>Intern - Cybersecurity Threat Defense (Summer 2027) at Alaska Airlines</title>
+      <link>https://alaskaair.jibeapply.com/careers-home/jobs/21502</link>
+      <guid isPermaLink="true">https://alaskaair.jibeapply.com/careers-home/jobs/21502</guid>
+      <pubDate>Mon, 02 Nov 2026 08:15:00 +0000</pubDate>
+      <description>Seattle - Hub | Cybersecurity | internship</description>
+    </item>
+    <item>
+      <title>Intern - Software Engineer (Summer 2027) at Alaska Airlines</title>
+      <link>https://alaskaair.jibeapply.com/careers-home/jobs/21277</link>
+      <guid isPermaLink="true">https://alaskaair.jibeapply.com/careers-home/jobs/21277</guid>
+      <pubDate>Mon, 02 Nov 2026 08:15:00 +0000</pubDate>
+      <description>Seattle - Hub | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Intern - Horizon Air Maintenance Quality Assurance (Summer 2027) at Alaska Airlines</title>
+      <link>https://alaskaair.jibeapply.com/careers-home/jobs/21021</link>
+      <guid isPermaLink="true">https://alaskaair.jibeapply.com/careers-home/jobs/21021</guid>
+      <pubDate>Mon, 02 Nov 2026 08:15:00 +0000</pubDate>
+      <description>Portland, OR - OPS Building | Construction/Trades | internship</description>
     </item>
     <item>
       <title>SW Engineer Intern, AI Engineering at ROKU</title>
       <link>https://boards.greenhouse.io/roku/jobs/8258241</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/roku/jobs/8258241</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:22 +0000</pubDate>
-      <description>San Jose, California | Data/ML/AI | internship</description>
+      <pubDate>Mon, 02 Nov 2026 07:05:02 +0000</pubDate>
+      <description>San Jose, California | Data/ML/AI | new_grad</description>
     </item>
     <item>
       <title>Ad Sales and Revenue Solutions Intern at ROKU</title>
       <link>https://boards.greenhouse.io/roku/jobs/8330831</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/roku/jobs/8330831</guid>
-      <pubDate>Mon, 02 Nov 2026 06:47:22 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 07:05:02 +0000</pubDate>
       <description>New York, New York | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Finance Transformation &amp; Systems at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Finance-Transformation---Systems_R2600460</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Finance-Transformation---Systems_R2600460</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Collateral Operations &amp; Safekeeping at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Collateral-Operations---Safekeeping_R2600455</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Collateral-Operations---Safekeeping_R2600455</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Sales at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Sales_R2600454</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Sales_R2600454</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Quantitative Rotational Analyst at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Quantitative-Rotational-Analyst_R2600449</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Quantitative-Rotational-Analyst_R2600449</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | new_grad</description>
-    </item>
-    <item>
-      <title>Rotational Analyst at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Rotational-Analyst_R2600448</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Rotational-Analyst_R2600448</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Business/Analytics | new_grad</description>
-    </item>
-    <item>
-      <title>Summer Internship - MPF Operations at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---MPF-Operations_R2600444</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---MPF-Operations_R2600444</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - PMO at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---PMO_R2600443</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---PMO_R2600443</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Other | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Application Development at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Application-Development_R2600441</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Application-Development_R2600441</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Financial Reporting at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Financial-Reporting_R2600440</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Financial-Reporting_R2600440</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Accounting at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Accounting_R2600439</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Accounting_R2600439</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Accounting | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Enterprise Risk Management at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Enterprise-Risk-Management_R2600437</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Enterprise-Risk-Management_R2600437</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Credit Risk at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Credit-Risk_R2600436</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Credit-Risk_R2600436</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Market Risk Earnings Analysis at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Market-Risk-Earnings-Analysis_R2600435</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Market-Risk-Earnings-Analysis_R2600435</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Markets Credit at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Markets-Credit_R2600434</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Markets-Credit_R2600434</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Summer Internship - Model Risk Management at Fhlbank Chicago</title>
-      <link>https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Model-Risk-Management_R2600433</link>
-      <guid isPermaLink="true">https://fhlbc.wd1.myworkdayjobs.com/job/Chicago/Summer-Internship---Model-Risk-Management_R2600433</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Chicago | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Associate Customer Quality Engineer Co-op at BOSE</title>
-      <link>https://boseallaboutme.wd503.myworkdayjobs.com/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223</link>
-      <guid isPermaLink="true">https://boseallaboutme.wd503.myworkdayjobs.com/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>US, MI - Bloomfield Hills | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>Product Compliance and Safety Co-op at BOSE</title>
-      <link>https://boseallaboutme.wd503.myworkdayjobs.com/job/US-MA---Framingham/Product-Compliance-and-Safety-Co-op_R29255</link>
-      <guid isPermaLink="true">https://boseallaboutme.wd503.myworkdayjobs.com/job/US-MA---Framingham/Product-Compliance-and-Safety-Co-op_R29255</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>US, MA - Framingham | Legal/Compliance | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 Water Resources Engineering Intern (T027) at Tarrant Regional Water District</title>
-      <link>https://trwd.wd1.myworkdayjobs.com/job/Fort-Worth-TX/Summer-2027-Water-Resources-Engineering-Intern--T027-_JR100215</link>
-      <guid isPermaLink="true">https://trwd.wd1.myworkdayjobs.com/job/Fort-Worth-TX/Summer-2027-Water-Resources-Engineering-Intern--T027-_JR100215</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Fort Worth, TX | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 Energy Intern (T047) at Tarrant Regional Water District</title>
-      <link>https://trwd.wd1.myworkdayjobs.com/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217</link>
-      <guid isPermaLink="true">https://trwd.wd1.myworkdayjobs.com/job/Fort-Worth-TX/Summer-2027-Energy-Intern--T047-_JR100217</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Fort Worth, TX | Other | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 Infrastructure Engineering Intern (T036) at Tarrant Regional Water District</title>
-      <link>https://trwd.wd1.myworkdayjobs.com/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218</link>
-      <guid isPermaLink="true">https://trwd.wd1.myworkdayjobs.com/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Fort Worth, TX | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>California Based Graduate Intern - Building Energy Modeling and Analysis at National Laboratory Of The Rockies</title>
-      <link>https://nrel.wd5.myworkdayjobs.com/job/Los-Angeles-CA/Los-Angeles-Based-Graduate-Intern---Building-Energy-Modeling-and-Analysis_R14264</link>
-      <guid isPermaLink="true">https://nrel.wd5.myworkdayjobs.com/job/Los-Angeles-CA/Los-Angeles-Based-Graduate-Intern---Building-Energy-Modeling-and-Analysis_R14264</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Los Angeles, CA | Construction/Trades | internship</description>
-    </item>
-    <item>
-      <title>Undergraduate (Year-Round) Intern - Analytical Chemistry at National Laboratory Of The Rockies</title>
-      <link>https://nrel.wd5.myworkdayjobs.com/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950</link>
-      <guid isPermaLink="true">https://nrel.wd5.myworkdayjobs.com/job/Golden-CO/Undergraduate--Year-Round--Intern---Analytical-Chemistry_R13950</guid>
-      <pubDate>Mon, 02 Nov 2026 05:16:39 +0000</pubDate>
-      <description>Golden, CO | Research/Science | internship</description>
-    </item>
-    <item>
-      <title>Analytical Chemistry, Associate Scientist at Eurofins</title>
-      <link>https://jobs.smartrecruiters.com/Eurofins/744000159039669</link>
-      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Eurofins/744000159039669</guid>
-      <pubDate>Mon, 02 Nov 2026 04:47:22 +0000</pubDate>
-      <description>Easton, MD | Research/Science | new_grad</description>
     </item>
     <item>
       <title>Business Development Representative at Baselayer</title>
       <link>https://boards.greenhouse.io/baselayer/jobs/5469406008</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/baselayer/jobs/5469406008</guid>
-      <pubDate>Mon, 02 Nov 2026 02:47:22 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 03:05:02 +0000</pubDate>
       <description>New York City | Sales/Business Dev | new_grad</description>
     </item>
     <item>
       <title>Account Executive at Baselayer</title>
       <link>https://boards.greenhouse.io/baselayer/jobs/5469404008</link>
       <guid isPermaLink="true">https://boards.greenhouse.io/baselayer/jobs/5469404008</guid>
-      <pubDate>Mon, 02 Nov 2026 02:47:22 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2026 03:05:02 +0000</pubDate>
       <description>New York City | Sales/Business Dev | new_grad</description>
     </item>
     <item>
-      <title>Executive Assistant to the CEO at Baselayer</title>
-      <link>https://boards.greenhouse.io/baselayer/jobs/5469407008</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/baselayer/jobs/5469407008</guid>
-      <pubDate>Mon, 02 Nov 2026 02:47:22 +0000</pubDate>
-      <description>New York | Other | new_grad</description>
+      <title>Entry Level  Remote Assistant Booking Reservations at Aisle And Abroad</title>
+      <link>https://jobs.lever.co/aisle_and_abroad/7f62953e-94ae-44c7-8276-00224d1e9102</link>
+      <guid isPermaLink="true">https://jobs.lever.co/aisle_and_abroad/7f62953e-94ae-44c7-8276-00224d1e9102</guid>
+      <pubDate>Mon, 02 Nov 2026 00:37:42 +0000</pubDate>
+      <description>California | Customer/Retail | new_grad</description>
     </item>
     <item>
-      <title>Office and Events Manager at Clipboard Health</title>
-      <link>https://jobs.ashbyhq.com/clipboard/09b687bd-a7a9-479f-80cc-8b460eb4d99a</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/clipboard/09b687bd-a7a9-479f-80cc-8b460eb4d99a</guid>
-      <pubDate>Mon, 02 Nov 2026 00:47:22 +0000</pubDate>
-      <description>Hybrid | Other | new_grad</description>
+      <title>Remote Entry Level | Booking Reservations Assistant at Aisle And Abroad</title>
+      <link>https://jobs.lever.co/aisle_and_abroad/9a5322a6-c33d-4658-adf4-c74e3be0f3df</link>
+      <guid isPermaLink="true">https://jobs.lever.co/aisle_and_abroad/9a5322a6-c33d-4658-adf4-c74e3be0f3df</guid>
+      <pubDate>Mon, 02 Nov 2026 00:15:38 +0000</pubDate>
+      <description>Atlanta | Customer/Retail | new_grad</description>
     </item>
     <item>
-      <title>Embedded Security Software Engineer I (Onsite) at RTX</title>
-      <link>https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440</link>
-      <guid isPermaLink="true">https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Embedded-Security-Software-Engineer-I--Onsite-_01881440</guid>
+      <title>Entry Level | Remote Booking  Reservations Coordinator at Aisle And Abroad</title>
+      <link>https://jobs.lever.co/aisle_and_abroad/db99b055-43f6-4dd1-bbda-74eb0da0d2ec</link>
+      <guid isPermaLink="true">https://jobs.lever.co/aisle_and_abroad/db99b055-43f6-4dd1-bbda-74eb0da0d2ec</guid>
+      <pubDate>Mon, 02 Nov 2026 00:14:22 +0000</pubDate>
+      <description>Atlanta | Customer/Retail | new_grad</description>
+    </item>
+    <item>
+      <title>Finance Intern IGT Summer 2027 at Fa Exty Saasfaprod</title>
+      <link>https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120204</link>
+      <guid isPermaLink="true">https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120204</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Tewksbury, MA | Cybersecurity | new_grad</description>
+      <description>Hampton, VA, United States | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Management Trainee at Jobs Carmeuse</title>
+      <link>https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193259</link>
+      <guid isPermaLink="true">https://ekiz.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/193259</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>CLEAR BROOK, VA, United States | Customer/Retail | internship</description>
+    </item>
+    <item>
+      <title>Front End Entry Level at Albertsons Companies</title>
+      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787910</link>
+      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/787910</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Everett, WA, United States | Other | new_grad</description>
+    </item>
+    <item>
+      <title>2027 Summer Intern: Data Science at Product And Technology</title>
+      <link>https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-science/4673/100143758048</link>
+      <guid isPermaLink="true">https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-science/4673/100143758048</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Greenwood Village, Colorado, United States | Data/ML/AI | internship</description>
     </item>
     <item>
       <title>First-Year Explore Program Engineering Intern at Microsoft</title>
+      <link>https://go.vansh.nyc/199</link>
+      <guid isPermaLink="true">https://go.vansh.nyc/199</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Redmond, WA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Explore Program Engineering Intern at Microsoft</title>
       <link>https://apply.careers.microsoft.com/careers/job/1970393556925823</link>
       <guid isPermaLink="true">https://apply.careers.microsoft.com/careers/job/1970393556925823</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Redmond, WA | Software Engineering</description>
+      <description>Redmond, WA | Software Engineering | internship</description>
     </item>
     <item>
-      <title>Business Analyst Intern at Lewoint</title>
-      <link>https://www.linkedin.com/jobs/view/4484348700</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4484348700</guid>
+      <title>Software Engineer Intern - AI Engineering at ROKU</title>
+      <link>https://www.weareroku.com/jobs/8258241?gh_jid=8258241</link>
+      <guid isPermaLink="true">https://www.weareroku.com/jobs/8258241?gh_jid=8258241</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Austin, TX, USA | Business/Analytics | internship</description>
+      <description>San Jose, CA | Data/ML/AI | internship</description>
     </item>
     <item>
-      <title>Summer 2027 Finance Internship Program-  Financial Planning at Newyork Presbyterian Hospital</title>
-      <link>https://www.linkedin.com/jobs/view/4471142554</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4471142554</guid>
+      <title>Software/AI Engineer Intern, Handheld Mobile Computers at Zebra Technologies</title>
+      <link>https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632</link>
+      <guid isPermaLink="true">https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New York, NY, USA | Finance/Quant | internship</description>
+      <description>Holtsville, NY | Data/ML/AI</description>
     </item>
     <item>
-      <title>Intern - Financial Planning &amp; Analysis (Summer 2027) at Alaska Airlines</title>
-      <link>https://www.linkedin.com/jobs/view/4485470623</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485470623</guid>
+      <title>AI Developer Intern at Entrust</title>
+      <link>https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397</link>
+      <guid isPermaLink="true">https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>SeaTac, WA, USA | Finance/Quant | internship</description>
+      <description>Shakopee, MN | Data/ML/AI</description>
     </item>
     <item>
-      <title>Intern - Horizon Air Financial Planning &amp; Analysis (Summer 2027) at Horizon Air</title>
-      <link>https://www.linkedin.com/jobs/view/4486132788</link>
-      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4486132788</guid>
+      <title>Supervision &amp; Regulation Intern, Cybersecurity at The Federal Reserve System</title>
+      <link>https://rb.wd5.myworkdayjobs.com/frs/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866</link>
+      <guid isPermaLink="true">https://rb.wd5.myworkdayjobs.com/frs/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Cybersecurity-_R-0000033866</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>SeaTac, WA, USA | Finance/Quant | internship</description>
+      <description>Atlanta, GA | Cybersecurity</description>
+    </item>
+    <item>
+      <title>Data Science Intern at Costar Group</title>
+      <link>https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140</link>
+      <guid isPermaLink="true">https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Richmond, VA · VA Richmond | Data/ML/AI</description>
+    </item>
+    <item>
+      <title>Software Engineering Summer Intern at Paretohealth</title>
+      <link>https://www.linkedin.com/jobs/view/4485717777</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485717777</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Greater Philadelphia | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>2027 Full Stack Development Summer Internship at Webstaurantstore</title>
+      <link>https://www.linkedin.com/jobs/view/4485740616</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485740616</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Lititz, PA, USA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Intern - Software Engineer (Summer 2027) at Alaska Airlines</title>
+      <link>https://www.linkedin.com/jobs/view/4485458693</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485458693</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>SeaTac, WA, USA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Software Developer Co-op/Intern at London Computer Systems</title>
+      <link>https://www.linkedin.com/jobs/view/4485738248</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485738248</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Cincinnati, OH, USA | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Junior Software Engineer at Hubrecruits</title>
+      <link>https://www.linkedin.com/jobs/view/4486108893</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4486108893</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Phoenix, AZ, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer - New Grad at Chalk</title>
+      <link>https://www.linkedin.com/jobs/view/4475740088</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4475740088</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New York, NY, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer - New Grad at Chalk</title>
+      <link>https://www.linkedin.com/jobs/view/4474488373</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4474488373</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>San Francisco, CA, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer - Early Career at Lockheed Martin</title>
+      <link>https://www.linkedin.com/jobs/view/4484358984</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4484358984</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Littleton, CO, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer, New Grad | Remote - Full-time at Talenthop</title>
+      <link>https://www.linkedin.com/jobs/view/4484310754</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4484310754</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Junior Software Developer at Andromeda Systems Incorporated</title>
+      <link>https://www.linkedin.com/jobs/view/4485420926</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4485420926</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Jacksonville, FL, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Junior Software Engineer at Cadena Vital Sas</title>
+      <link>https://www.linkedin.com/jobs/view/4486409384</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4486409384</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New York, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Summer 2027 Data Scientist Intern - Master&#x27;s (Santa Clara, CA) at Applied Materials</title>
+      <link>https://www.linkedin.com/jobs/view/4484385343</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4484385343</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Santa Clara, CA, USA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Summer 2027 Data Scientist Intern -Bachelor&#x27;s (Austin, TX) at Applied Materials</title>
+      <link>https://www.linkedin.com/jobs/view/4484382423</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4484382423</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Austin, TX, USA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>AI Intern at Jm A Group</title>
+      <link>https://www.linkedin.com/jobs/view/4486404197</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4486404197</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Miami-Fort Lauderdale Area | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Data Analytics Intern (Data Science) at Acuity Insurance</title>
+      <link>https://www.linkedin.com/jobs/view/4458435015</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4458435015</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Sheboygan, WI, USA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Intern - Technology Innovation Lab at Gm Financial</title>
+      <link>https://www.linkedin.com/jobs/view/4467835385</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4467835385</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Arlington, TX, USA | Research/Science | internship</description>
+    </item>
+    <item>
+      <title>Machine Learning Engineer Intern (E-Commerce Knowledge Graph) - 2027 Start (PhD) at Tiktok</title>
+      <link>https://www.linkedin.com/jobs/view/4459777883</link>
+      <guid isPermaLink="true">https://www.linkedin.com/jobs/view/4459777883</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>San Jose, CA, USA | Data/ML/AI | internship</description>
     </item>
     <item>
       <title>Software Engineer Summer Internship at Knowbe</title>
@@ -272,20 +622,6 @@
       <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8919280002</guid>
       <pubDate>Sun, 01 Nov 2026 23:11:19 +0000</pubDate>
       <description>Clearwater, Florida | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Revenue Accountant at Elevenlabs</title>
-      <link>https://jobs.ashbyhq.com/elevenlabs/9d731858-01bf-4d42-89e5-5912ae94cf55</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/elevenlabs/9d731858-01bf-4d42-89e5-5912ae94cf55</guid>
-      <pubDate>Sun, 01 Nov 2026 22:47:22 +0000</pubDate>
-      <description>New York | Accounting | new_grad</description>
-    </item>
-    <item>
-      <title>Equity Administrator at Elevenlabs</title>
-      <link>https://jobs.ashbyhq.com/elevenlabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/elevenlabs/3e9f8e45-cd55-4fb9-9452-0ebbd6e15de6</guid>
-      <pubDate>Sun, 01 Nov 2026 22:47:22 +0000</pubDate>
-      <description>New York | Other | new_grad</description>
     </item>
     <item>
       <title>Software Engineer Intern Winter 2026-2027 at Hearstlab</title>
@@ -296,45 +632,24 @@
     </item>
     <item>
       <title>Sales Development Representative Summer Internship (Hybrid) at Knowbe</title>
-      <link>https://boards.greenhouse.io/knowbe4/jobs/8919183002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/knowbe4/jobs/8919183002</guid>
-      <pubDate>Sun, 01 Nov 2026 19:47:22 +0000</pubDate>
+      <link>https://boards.greenhouse.io/knowbe4/jobs/8919154002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/knowbe4/jobs/8919154002</guid>
+      <pubDate>Sun, 01 Nov 2026 20:05:02 +0000</pubDate>
+      <description>Clearwater, Florida | Sales/Business Dev | new_grad</description>
+    </item>
+    <item>
+      <title>Sales Development Representative Summer Internship (Hybrid) at Knowbe</title>
+      <link>https://job-boards.greenhouse.io/knowbe4/jobs/8919183002</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8919183002</guid>
+      <pubDate>Sun, 01 Nov 2026 14:22:30 -0500</pubDate>
       <description>New York, New York | Sales/Business Dev | internship</description>
     </item>
     <item>
       <title>Sales Development Representative Summer Internship (Hybrid) at Knowbe</title>
-      <link>https://boards.greenhouse.io/knowbe4/jobs/8919154002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/knowbe4/jobs/8919154002</guid>
-      <pubDate>Sun, 01 Nov 2026 19:47:22 +0000</pubDate>
-      <description>Clearwater, Florida | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Sales Development Representative Summer Internship (Hybrid) at Knowbe</title>
-      <link>https://boards.greenhouse.io/knowbe4/jobs/8919174002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/knowbe4/jobs/8919174002</guid>
-      <pubDate>Sun, 01 Nov 2026 19:47:22 +0000</pubDate>
+      <link>https://job-boards.greenhouse.io/knowbe4/jobs/8919174002</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8919174002</guid>
+      <pubDate>Sun, 01 Nov 2026 14:20:46 -0500</pubDate>
       <description>Arlington, Virginia | Sales/Business Dev | internship</description>
-    </item>
-    <item>
-      <title>Enterprise Account Executive at Benchling</title>
-      <link>https://jobs.ashbyhq.com/benchling/33c85327-b9aa-41c6-a2e7-4dac4381087e</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/benchling/33c85327-b9aa-41c6-a2e7-4dac4381087e</guid>
-      <pubDate>Sun, 01 Nov 2026 19:47:22 +0000</pubDate>
-      <description>San Francisco, CA | Sales/Business Dev | new_grad</description>
-    </item>
-    <item>
-      <title>Demand Generation Summer Internship (Hybrid) at Knowbe</title>
-      <link>https://boards.greenhouse.io/knowbe4/jobs/8919215002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/knowbe4/jobs/8919215002</guid>
-      <pubDate>Sun, 01 Nov 2026 19:47:22 +0000</pubDate>
-      <description>Arlington, Virginia | Marketing/Comms | new_grad</description>
-    </item>
-    <item>
-      <title>Demand Generation Summer Internship (Hybrid) at Knowbe</title>
-      <link>https://boards.greenhouse.io/knowbe4/jobs/8919201002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/knowbe4/jobs/8919201002</guid>
-      <pubDate>Sun, 01 Nov 2026 19:47:22 +0000</pubDate>
-      <description>New York, New York | Marketing/Comms | new_grad</description>
     </item>
     <item>
       <title>Multimedia Designer Summer Internship (Hybrid) at Knowbe</title>
@@ -344,11 +659,130 @@
       <description>Clearwater, Florida | Product/Design | internship</description>
     </item>
     <item>
+      <title>Demand Generation Summer Internship (Hybrid) at Knowbe</title>
+      <link>https://job-boards.greenhouse.io/knowbe4/jobs/8919215002</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8919215002</guid>
+      <pubDate>Sun, 01 Nov 2026 14:18:31 -0500</pubDate>
+      <description>Arlington, Virginia | Marketing/Comms | internship</description>
+    </item>
+    <item>
+      <title>Demand Generation Summer Internship (Hybrid) at Knowbe</title>
+      <link>https://job-boards.greenhouse.io/knowbe4/jobs/8919201002</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8919201002</guid>
+      <pubDate>Sun, 01 Nov 2026 14:17:47 -0500</pubDate>
+      <description>New York, New York | Marketing/Comms | internship</description>
+    </item>
+    <item>
       <title>Associate Product Manager Summer Internship (Hybrid) at Knowbe</title>
       <link>https://job-boards.greenhouse.io/knowbe4/jobs/8919274002</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/knowbe4/jobs/8919274002</guid>
       <pubDate>Sun, 01 Nov 2026 19:16:43 +0000</pubDate>
       <description>Clearwater, Florida | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Enterprise Account Executive at Benchling</title>
+      <link>https://jobs.ashbyhq.com/benchling/33c85327-b9aa-41c6-a2e7-4dac4381087e</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/benchling/33c85327-b9aa-41c6-a2e7-4dac4381087e</guid>
+      <pubDate>Sun, 01 Nov 2026 19:05:02 +0000</pubDate>
+      <description>San Francisco, CA | Sales/Business Dev | new_grad</description>
+    </item>
+    <item>
+      <title>Research Scientist Intern - Computer Vision - Video Intelligence - PhD at META</title>
+      <link>https://www.metacareers.com/jobs/1126899676481179</link>
+      <guid isPermaLink="true">https://www.metacareers.com/jobs/1126899676481179</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Bellevue, WA +1 | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Research Scientist Intern - Video RecSys - PhD at META</title>
+      <link>https://www.metacareers.com/jobs/1553890293163197</link>
+      <guid isPermaLink="true">https://www.metacareers.com/jobs/1553890293163197</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Menlo Park, CA | Research/Science | internship</description>
+    </item>
+    <item>
+      <title>Intern - Sales Applications &amp; AI Analyst at Pyrotek</title>
+      <link>https://jobs.smartrecruiters.com/Pyrotek3/744000158834809-intern-sales-applications-ai-analyst?oga=true</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Pyrotek3/744000158834809-intern-sales-applications-ai-analyst?oga=true</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Spokane, WA | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>2027 AI &amp; Analytics Intern at Trane Technologies</title>
+      <link>https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1</link>
+      <guid isPermaLink="true">https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Davidson, NC +1 | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Associate Engineer - Analytical AI Engineering at Bristol Myers Squibb</title>
+      <link>https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005</link>
+      <guid isPermaLink="true">https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Princeton, NJ | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>General Physician - AI Evaluation at Gramian Consulting Group</title>
+      <link>https://apply.workable.com/gramian/j/4DEE643E60/</link>
+      <guid isPermaLink="true">https://apply.workable.com/gramian/j/4DEE643E60/</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>USA | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Junior Data Engineer at West 4th Strategy</title>
+      <link>https://west4thstrategy.applytojob.com/apply/SscfaBcf1m/Junior-Data-Engineer</link>
+      <guid isPermaLink="true">https://west4thstrategy.applytojob.com/apply/SscfaBcf1m/Junior-Data-Engineer</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Washington, DC | Data/ML/AI | new_grad</description>
+    </item>
+    <item>
+      <title>Embedded Software Engineer - Cameras &amp; CI at Blue River Technology</title>
+      <link>https://www.bluerivertechnology.com/job/?gh_jid=8337794</link>
+      <guid isPermaLink="true">https://www.bluerivertechnology.com/job/?gh_jid=8337794</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Santa Clara, CA | Hardware/Embedded | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer I - Promotions at Handshake</title>
+      <link>https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>San Francisco, CA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Solutions Engineer I at Inductive Automation</title>
+      <link>https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Columbia, MD | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Associate Software Engineer - Hollywood - MD at Northrop Grumman</title>
+      <link>https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018</link>
+      <guid isPermaLink="true">https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Maryland, USA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer - C++ at Path Robotics</title>
+      <link>https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002</link>
+      <guid isPermaLink="true">https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Columbus, OH | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer at ZEFR</title>
+      <link>https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Marina del Rey, CA | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Software Engineer 1 at Huntington Ingalls Industries</title>
+      <link>https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors</link>
+      <guid isPermaLink="true">https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors</guid>
+      <pubDate>Sun, 01 Nov 2026 18:05:02 +0000</pubDate>
+      <description>Newport News, VA | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Graphic Design Intern at Tillamook County Creamery Association</title>
@@ -358,130 +792,186 @@
       <description>Portland, OR | Product/Design | internship</description>
     </item>
     <item>
-      <title>Werkstudent Social Media | Marketing (m/w/d) at Werraenergie Gmbh</title>
-      <link>https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-social-media-marketing-bad-salzungen-488529</link>
-      <guid isPermaLink="true">https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-social-media-marketing-bad-salzungen-488529</guid>
-      <pubDate>Sun, 01 Nov 2026 12:51:25 +0000</pubDate>
-      <description>Bad Salzungen, Thüringen, Deutschland | Marketing/Comms | internship</description>
+      <title>Strategic Operations Intern at Clera</title>
+      <link>https://jobs.ashbyhq.com/clera/87228ec1-05b1-498f-9010-4df91e0d8f47</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/clera/87228ec1-05b1-498f-9010-4df91e0d8f47</guid>
+      <pubDate>Sun, 01 Nov 2026 17:11:01 +0000</pubDate>
+      <description>San Francisco | Operations/Supply | internship</description>
     </item>
     <item>
-      <title>Werkstudent (m/w/d) at Werraenergie Gmbh</title>
-      <link>https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-bad-salzungen-121764</link>
-      <guid isPermaLink="true">https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-bad-salzungen-121764</guid>
-      <pubDate>Sun, 01 Nov 2026 12:51:25 +0000</pubDate>
-      <description>Bad Salzungen, Thüringen, Deutschland | Other | internship</description>
+      <title>Strategy &amp; Operations Working Student at Clera</title>
+      <link>https://jobs.ashbyhq.com/clera/d393193b-048f-44c5-93d9-1452994c1a03</link>
+      <guid isPermaLink="true">https://jobs.ashbyhq.com/clera/d393193b-048f-44c5-93d9-1452994c1a03</guid>
+      <pubDate>Sun, 01 Nov 2026 17:10:09 +0000</pubDate>
+      <description>San Francisco | Operations/Supply | internship</description>
     </item>
     <item>
-      <title>Werkstudent Elektrotechnik / Energietechnik (m/w/d) at Werraenergie Gmbh</title>
-      <link>https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-elektrotechnik-energietechnik-bad-salzungen-416233</link>
-      <guid isPermaLink="true">https://www.arbeitnow.com/jobs/companies/werraenergie-gmbh/werkstudent-elektrotechnik-energietechnik-bad-salzungen-416233</guid>
-      <pubDate>Sun, 01 Nov 2026 12:51:25 +0000</pubDate>
-      <description>Bad Salzungen, Thüringen, Deutschland | Other | internship</description>
+      <title>Software Engineer: Security &amp; Identity Intern Opportunities for University Students, Redmond at Microsoft</title>
+      <link>https://microsoft.eightfold.ai/careers/job/1970393556922930</link>
+      <guid isPermaLink="true">https://microsoft.eightfold.ai/careers/job/1970393556922930</guid>
+      <pubDate>Sun, 01 Nov 2026 07:00:00 +0000</pubDate>
+      <description>Redmond, WA, States | Cybersecurity | internship</description>
     </item>
     <item>
-      <title>Software Engineer 1 at Huntington Ingalls Industries</title>
-      <link>https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors</link>
-      <guid isPermaLink="true">https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1446380900/?ats=successfactors</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Newport News, VA | Software Engineering | new_grad</description>
+      <title>2027 Houston 1L Summer Law Clerk and Chris Morvillo Scholarship at Cliffordchance</title>
+      <link>https://jobs.smartrecruiters.com/CliffordChance/744000158940519</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CliffordChance/744000158940519</guid>
+      <pubDate>Sun, 01 Nov 2026 04:24:09 +0000</pubDate>
+      <description>Houston, Texas, States | Legal/Compliance | internship</description>
     </item>
     <item>
-      <title>Associate Engineer - Analytical AI Engineering at Bristol Myers Squibb</title>
-      <link>https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005</link>
-      <guid isPermaLink="true">https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Princeton, NJ | Data/ML/AI | new_grad</description>
+      <title>2028 Washington, DC 2L Summer Law Clerk at Cliffordchance</title>
+      <link>https://jobs.smartrecruiters.com/CliffordChance/744000158942128</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CliffordChance/744000158942128</guid>
+      <pubDate>Sun, 01 Nov 2026 04:23:32 +0000</pubDate>
+      <description>Washington, DC, States | Legal/Compliance | internship</description>
     </item>
     <item>
-      <title>General Physician - AI Evaluation at Gramian Consulting Group</title>
-      <link>https://apply.workable.com/gramian/j/4DEE643E60/</link>
-      <guid isPermaLink="true">https://apply.workable.com/gramian/j/4DEE643E60/</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>USA | Data/ML/AI | new_grad</description>
+      <title>2027 Washington, DC 1L Chris Morvillo Scholarship at Cliffordchance</title>
+      <link>https://jobs.smartrecruiters.com/CliffordChance/744000158941539</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CliffordChance/744000158941539</guid>
+      <pubDate>Sun, 01 Nov 2026 04:22:53 +0000</pubDate>
+      <description>Washington, DC, States | Other | internship</description>
     </item>
     <item>
-      <title>Junior Data Engineer at West 4th Strategy</title>
-      <link>https://west4thstrategy.applytojob.com/apply/SscfaBcf1m/Junior-Data-Engineer</link>
-      <guid isPermaLink="true">https://west4thstrategy.applytojob.com/apply/SscfaBcf1m/Junior-Data-Engineer</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Washington, DC | Data/ML/AI | new_grad</description>
+      <title>2028 New York 2L Summer Law Clerk at Cliffordchance</title>
+      <link>https://jobs.smartrecruiters.com/CliffordChance/744000158941489</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CliffordChance/744000158941489</guid>
+      <pubDate>Sun, 01 Nov 2026 04:21:51 +0000</pubDate>
+      <description>New York, New York, States | Legal/Compliance | internship</description>
     </item>
     <item>
-      <title>Research Scientist Intern - Computer Vision - Video Intelligence - PhD at META</title>
-      <link>https://www.metacareers.com/jobs/1126899676481179</link>
-      <guid isPermaLink="true">https://www.metacareers.com/jobs/1126899676481179</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Bellevue, WA +1 | Data/ML/AI | internship</description>
+      <title>2027 New York 1L Chris Morvillo Scholarship at Cliffordchance</title>
+      <link>https://jobs.smartrecruiters.com/CliffordChance/744000158941929</link>
+      <guid isPermaLink="true">https://jobs.smartrecruiters.com/CliffordChance/744000158941929</guid>
+      <pubDate>Sun, 01 Nov 2026 04:21:05 +0000</pubDate>
+      <description>New York, New York, States | Other | internship</description>
     </item>
     <item>
-      <title>Research Scientist Intern - Video RecSys - PhD at META</title>
-      <link>https://www.metacareers.com/jobs/1553890293163197</link>
-      <guid isPermaLink="true">https://www.metacareers.com/jobs/1553890293163197</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Menlo Park, CA | Research/Science | internship</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571739/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571739/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Clearwater, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Intern - Sales Applications &amp; AI Analyst at Pyrotek</title>
-      <link>https://jobs.smartrecruiters.com/Pyrotek3/744000158834809-intern-sales-applications-ai-analyst?oga=true</link>
-      <guid isPermaLink="true">https://jobs.smartrecruiters.com/Pyrotek3/744000158834809-intern-sales-applications-ai-analyst?oga=true</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Spokane, WA | Data/ML/AI | internship</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571748/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571748/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Lakeland, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>2027 AI &amp; Analytics Intern at Trane Technologies</title>
-      <link>https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1</link>
-      <guid isPermaLink="true">https://tranetechnologies.wd12.myworkdayjobs.com/en-US/trane_technologies_careers/job/Davidson-North-Carolina/XMLNAME-2027-AI---Analytics-Intern_JR-7591-1</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Davidson, NC +1 | Data/ML/AI | internship</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571742/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571742/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Wesley Chapel, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Embedded Software Engineer - Cameras &amp; CI at Blue River Technology</title>
-      <link>https://www.bluerivertechnology.com/job/?gh_jid=8337794</link>
-      <guid isPermaLink="true">https://www.bluerivertechnology.com/job/?gh_jid=8337794</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Santa Clara, CA | Hardware/Embedded | new_grad</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571755/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571755/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Tampa, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Software Engineer I - Promotions at Handshake</title>
-      <link>https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>San Francisco, CA | Software Engineering | new_grad</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571772/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571772/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Sebring, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Software Solutions Engineer I at Inductive Automation</title>
-      <link>https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Columbia, MD | Software Engineering | new_grad</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571758/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571758/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Riverview, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Associate Software Engineer - Hollywood - MD at Northrop Grumman</title>
-      <link>https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018</link>
-      <guid isPermaLink="true">https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Maryland, USA | Software Engineering | new_grad</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571740/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571740/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>New Port Richey, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Software Engineer - C++ at Path Robotics</title>
-      <link>https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002</link>
-      <guid isPermaLink="true">https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Columbus, OH | Software Engineering | new_grad</description>
+      <title>Sales Management Trainee at Us Erac</title>
+      <link>https://us-erac.icims.com/jobs/571770/sales-management-trainee/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://us-erac.icims.com/jobs/571770/sales-management-trainee/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>Haines City, FL, States | Sales/Business Dev | internship</description>
     </item>
     <item>
-      <title>Software Engineer at ZEFR</title>
-      <link>https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/zefr/d3353c85-2e31-4855-84cc-f18749edc640</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>Marina del Rey, CA | Software Engineering | new_grad</description>
+      <title>Shipfitter - Entry Level and Skilled at GDEB</title>
+      <link>https://careers-gdeb.icims.com/jobs/21408/shipfitter---entry-level-and-skilled/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://careers-gdeb.icims.com/jobs/21408/shipfitter---entry-level-and-skilled/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>North Kingstown, RI, States | Other | new_grad</description>
     </item>
     <item>
-      <title>Recruiting Operations Specialist at Baseten</title>
-      <link>https://jobs.ashbyhq.com/baseten/88fe7cb5-3e97-4548-a2d1-c97d40c51110</link>
-      <guid isPermaLink="true">https://jobs.ashbyhq.com/baseten/88fe7cb5-3e97-4548-a2d1-c97d40c51110</guid>
-      <pubDate>Sun, 01 Nov 2026 11:47:22 +0000</pubDate>
-      <description>San Francisco | Human Resources | new_grad</description>
+      <title>Painter- Entry level and Skilled at GDEB</title>
+      <link>https://careers-gdeb.icims.com/jobs/21407/painter--entry-level-and-skilled/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://careers-gdeb.icims.com/jobs/21407/painter--entry-level-and-skilled/job?in_iframe=1</guid>
+      <pubDate>Sun, 01 Nov 2026 04:00:00 +0000</pubDate>
+      <description>North Kingstown, RI, States | Other | new_grad</description>
+    </item>
+    <item>
+      <title>2027 Houston Zoo Internship at Houston Zoo</title>
+      <link>https://jobs.dayforcehcm.com/en-US/houstonzoo/CANDIDATEPORTAL/jobs/3752</link>
+      <guid isPermaLink="true">https://jobs.dayforcehcm.com/en-US/houstonzoo/CANDIDATEPORTAL/jobs/3752</guid>
+      <pubDate>Sun, 01 Nov 2026 01:00:00 +0000</pubDate>
+      <description>6200 Hermann Park Dr, Houston, TX, States | Other | internship</description>
+    </item>
+    <item>
+      <title>CDC -  Infants - Toddlers (1701)-Classroom Student Assistant II at Associated Students Inc Sacramento State University</title>
+      <link>https://jobs.dayforcehcm.com/en-US/asi/CANDIDATEPORTAL/jobs/2589</link>
+      <guid isPermaLink="true">https://jobs.dayforcehcm.com/en-US/asi/CANDIDATEPORTAL/jobs/2589</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>6000 J St, Sacramento, CA, States | Education | internship</description>
+    </item>
+    <item>
+      <title>Metro Market Intern at EPPR</title>
+      <link>https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200897</link>
+      <guid isPermaLink="true">https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/200897</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New York, New York, United States | Other | internship</description>
+    </item>
+    <item>
+      <title>INTERN, SCHOOL PSYCHOLOGIST (2027 - 2028 School Year) at ESGJ</title>
+      <link>https://esgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84393</link>
+      <guid isPermaLink="true">https://esgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/84393</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Denver, CO, United States | Other | internship</description>
+    </item>
+    <item>
+      <title>Hourly Pooled-Group Fitness Instructor/Personal Trainer - Campus Recreation at UW</title>
+      <link>https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/262974</link>
+      <guid isPermaLink="true">https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/262974</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Laramie, WY, United States | Education | new_grad</description>
+    </item>
+    <item>
+      <title>Early Careers: Corporate Risk and Broking - Internship - Financial Solutions - Trade Credit- New York -2027 at EEDU</title>
+      <link>https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607033</link>
+      <guid isPermaLink="true">https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607033</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New York, NY, United States | Finance/Quant | internship</description>
+    </item>
+    <item>
+      <title>Project Controls Intern - 2027 (Piketon) at Centrus Global Career Site</title>
+      <link>https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/774</link>
+      <guid isPermaLink="true">https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/774</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Piketon, OH, United States | Other | internship</description>
+    </item>
+    <item>
+      <title>Intern (Part-Time/Year-Round) - City at OKC</title>
+      <link>https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_2/job/4353</link>
+      <guid isPermaLink="true">https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_2/job/4353</guid>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Oklahoma  City, OK, United States | Other | internship</description>
     </item>
     <item>
       <title>Adventureland Park - IT Support Intern at Hfecorp</title>
@@ -916,496 +1406,6 @@
       <guid isPermaLink="true">https://go.vansh.nyc/17L</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Software Development Engineer Intern, Network Automation at Bytedance</title>
-      <link>https://go.vansh.nyc/17M</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/17M</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform at Bytedance</title>
-      <link>https://go.vansh.nyc/15G</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/15G</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure at Bytedance</title>
-      <link>https://go.vansh.nyc/15E</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/15E</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Security Engineering Project Intern, Watermark at Bytedance</title>
-      <link>https://go.vansh.nyc/15F</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/15F</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Cybersecurity | internship</description>
-    </item>
-    <item>
-      <title>Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure at Bytedance</title>
-      <link>https://go.vansh.nyc/140</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/140</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Student Researcher Intern, Seed Model - Speech at Bytedance</title>
-      <link>https://go.vansh.nyc/141</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/141</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Research/Science | internship</description>
-    </item>
-    <item>
-      <title>Student Researcher Intern, Seed Model - LLM at Bytedance</title>
-      <link>https://go.vansh.nyc/142</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/142</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, Global Traffic Architecture at Bytedance</title>
-      <link>https://go.vansh.nyc/143</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/143</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Construction/Trades | internship</description>
-    </item>
-    <item>
-      <title>Machine Learning Engineer Intern, AML-Engine-Orchestration at Bytedance</title>
-      <link>https://go.vansh.nyc/144</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/144</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Site Reliability Engineer Intern, Data Infra at Bytedance</title>
-      <link>https://go.vansh.nyc/145</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/145</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, Traffic Infrastructure at Bytedance</title>
-      <link>https://go.vansh.nyc/146</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/146</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US at Bytedance</title>
-      <link>https://go.vansh.nyc/147</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/147</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Student Researcher Intern, Seed Model - Infra - Compiler at Bytedance</title>
-      <link>https://go.vansh.nyc/148</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/148</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Research/Science | internship</description>
-    </item>
-    <item>
-      <title>Agent Evaluation &amp; Evolution Machine Learning Engineer Intern, AML-Ark-US at Bytedance</title>
-      <link>https://go.vansh.nyc/149</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/149</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Project Intern, Developer Infrastructure at Bytedance</title>
-      <link>https://go.vansh.nyc/14a</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14a</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN at Bytedance</title>
-      <link>https://go.vansh.nyc/14b</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14b</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern, AML-Ark-US at Bytedance</title>
-      <link>https://go.vansh.nyc/14c</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14c</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, Relational Database at Bytedance</title>
-      <link>https://go.vansh.nyc/14d</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14d</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Production System Engineer Project Intern, Server DevOps at Bytedance</title>
-      <link>https://go.vansh.nyc/14e</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14e</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Agent Evaluation &amp; Evolution Machine Learning Engineer Intern, AML-Ark-US at Bytedance</title>
-      <link>https://go.vansh.nyc/14f</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14f</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, AML-Engine-Orchestration at Bytedance</title>
-      <link>https://go.vansh.nyc/14g</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14g</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Data Lake Infrastructure &amp; Data Analytics Research Engineer Intern, AML-Ark-US at Bytedance</title>
-      <link>https://go.vansh.nyc/14h</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14h</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, AML-Engine-Orchestration at Bytedance</title>
-      <link>https://go.vansh.nyc/14i</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14i</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Production System Engineer Project Intern, Server DevOps at Bytedance</title>
-      <link>https://go.vansh.nyc/14j</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14j</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New York, NY | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, Global Payment - Risk &amp; Compliance at Bytedance</title>
-      <link>https://go.vansh.nyc/14k</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14k</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Finance/Quant | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, CIS Knowledge Bank at Bytedance</title>
-      <link>https://go.vansh.nyc/14l</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14l</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Visual Generation &amp; Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US at Bytedance</title>
-      <link>https://go.vansh.nyc/14m</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14m</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, Global Payment at Bytedance</title>
-      <link>https://go.vansh.nyc/14n</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14n</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>AI Infrastructure Engineer Intern, Compute Efficiency &amp; Scheduling at Bytedance</title>
-      <link>https://go.vansh.nyc/14o</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14o</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform at Bytedance</title>
-      <link>https://go.vansh.nyc/14q</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14q</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>AI Infrastructure Engineer Intern, Compute Efficiency &amp; Scheduling at Bytedance</title>
-      <link>https://go.vansh.nyc/14r</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14r</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure at Bytedance</title>
-      <link>https://go.vansh.nyc/14s</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14s</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Seattle, WA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Site Reliability Engineer Intern, Data Infra at Bytedance</title>
-      <link>https://go.vansh.nyc/14t</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14t</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>ASIC Design Engineer Intern, Video Silicon IP at Bytedance</title>
-      <link>https://go.vansh.nyc/14u</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14u</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Network Security Software Engineer Intern, Security Engineering at Bytedance</title>
-      <link>https://go.vansh.nyc/14v</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14v</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Cybersecurity | internship</description>
-    </item>
-    <item>
-      <title>Self-Built Engineer Intern, CDN Platform at Bytedance</title>
-      <link>https://go.vansh.nyc/14w</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14w</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Network Software Development Engineer Intern, Network Observation at Bytedance</title>
-      <link>https://go.vansh.nyc/14x</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14x</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Network Software Development Engineer Intern, Network Switch at Bytedance</title>
-      <link>https://go.vansh.nyc/14y</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14y</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Intern, Global Payment Infra and SRE at Bytedance</title>
-      <link>https://go.vansh.nyc/14z</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14z</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | DevOps/SRE | internship</description>
-    </item>
-    <item>
-      <title>Machine Learning Engineer Project Intern, Security-Data at Bytedance</title>
-      <link>https://go.vansh.nyc/14A</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14A</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Security Software Engineer Project Intern, Network Security at Bytedance</title>
-      <link>https://go.vansh.nyc/14B</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14B</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Cybersecurity | internship</description>
-    </item>
-    <item>
-      <title>Software Engineer Project Intern, Security-Data at Bytedance</title>
-      <link>https://go.vansh.nyc/14C</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/14C</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Autonomy Intern at Aerovect</title>
-      <link>https://go.vansh.nyc/18I</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18I</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Francisco, CA | Other | internship</description>
-    </item>
-    <item>
-      <title>IS Intern, Web Applications at C S Wholesale Grocers</title>
-      <link>https://go.vansh.nyc/18J</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18J</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Houston, TX | Other | internship</description>
-    </item>
-    <item>
-      <title>AI Intern at Divcowest</title>
-      <link>https://go.vansh.nyc/18L</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18L</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Francisco, CA | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Technology Intern at Everest</title>
-      <link>https://go.vansh.nyc/18M</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18M</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Warren, NJ | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Application Administrator Intern at Farmers Mutual Hail</title>
-      <link>https://go.vansh.nyc/18N</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18N</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>West Des Moines, IA | Other | internship</description>
-    </item>
-    <item>
-      <title>Technology Intern, App Dev at Hps Investment Partners</title>
-      <link>https://go.vansh.nyc/18O</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18O</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>New York, NY | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Undergraduate Gameplay Programming Intern at Insomniac Games</title>
-      <link>https://go.vansh.nyc/18P</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18P</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Burbank, CA, Remote, United States | Other | internship</description>
-    </item>
-    <item>
-      <title>Undergraduate Tech Art Intern at Insomniac Games</title>
-      <link>https://go.vansh.nyc/18Q</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18Q</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Burbank, CA | Other | internship</description>
-    </item>
-    <item>
-      <title>Perception Intern at Mach9</title>
-      <link>https://go.vansh.nyc/18R</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18R</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Francisco, CA | Other | internship</description>
-    </item>
-    <item>
-      <title>Member of Technical Staff Intern at Sycamore</title>
-      <link>https://go.vansh.nyc/18S</link>
-      <guid isPermaLink="true">https://go.vansh.nyc/18S</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Palo Alto, CA | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Product Operations Lead / Washington Square (through January 2027) at Lululemon</title>
-      <link>https://jobright.ai/jobs/info/6aa9c6bb09ae03adcacdf2a1</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6aa9c6bb09ae03adcacdf2a1</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Portland, OR, United States | Product/Design | new_grad</description>
-    </item>
-    <item>
-      <title>2027 Associate Software Engineer - Bellevue (NE) at Northrop Grumman</title>
-      <link>https://jobright.ai/jobs/info/6ae7cb546c51033758f3d9b8</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ae7cb546c51033758f3d9b8</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Bellevue, NE, United States | Software Engineering | new_grad</description>
-    </item>
-    <item>
-      <title>POI Content Product Manager Graduate (TikTok Local Services) - 2027 Start at Tiktok</title>
-      <link>https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6a9d5d7568f82b40367379af</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Jose, CA, United States | Product/Design | new_grad</description>
-    </item>
-    <item>
-      <title>Civil Engineering Internship - Summer 2027 at Ae2s Advanced Engineering And Environmental Services Llc</title>
-      <link>https://jobright.ai/jobs/info/6a95a752f28891320e85cf02</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6a95a752f28891320e85cf02</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Bismarck, ND, United States | Construction/Trades | internship</description>
-    </item>
-    <item>
-      <title>Rural Water Engineering Internship - Summer 2027 at Ae2s Advanced Engineering And Environmental Services Llc</title>
-      <link>https://jobright.ai/jobs/info/6a9ad0cefe45b8490f6047a2</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6a9ad0cefe45b8490f6047a2</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Williston, ND, United States | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Software Development Engineer Intern - Summer 2027 (USA) at Amazon</title>
-      <link>https://jobright.ai/jobs/info/6aac8191636cddf7396f4523</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6aac8191636cddf7396f4523</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Detroit, MI, United States | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 - DT Physical Security Systems Intern - 90413063 at Amtrak</title>
-      <link>https://jobright.ai/jobs/info/6ae822a877c09cb3bd4b9f05</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ae822a877c09cb3bd4b9f05</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>United States | Cybersecurity | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 - System Engineer Intern - 90413059 - Wilmington at Amtrak</title>
-      <link>https://jobright.ai/jobs/info/6ae822c1fb2cd420ace64bb0</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ae822c1fb2cd420ace64bb0</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Wilmington, DE, United States | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>2027 Manufacturing Engineer Summer Internship (Bachelors Austin, TX) at Applied Materials</title>
-      <link>https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242</link>
-      <guid isPermaLink="true">https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Austin, TX | Operations/Supply | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Electrical Engineer Intern (Controls/PCB) - BS or MS (Gloucester, MA) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac90c36af788e6ad3b598f6</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac90c36af788e6ad3b598f6</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Gloucester, MA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Intern - Electrical Engineer - BS/MS Degree, (Santa Clara) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac9448d6355f8776ff183ff</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac9448d6355f8776ff183ff</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Santa Clara, CA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac94495fe8f33a85d50311d</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac94495fe8f33a85d50311d</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Santa Clara, CA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Intern - Mechanical Engineer - PhD, (Santa Clara) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac9448dc3a8af9c54a09f14</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac9448dc3a8af9c54a09f14</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Santa Clara, CA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Intern - Process Engineer - BS/MS Degree (Santa Clara, CA) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac9448c6355f8776ff183fd</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac9448c6355f8776ff183fd</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Santa Clara, CA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Intern - Process Engineer - PhD, (Santa Clara) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac944926355f8776ff18401</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac944926355f8776ff18401</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Santa Clara, CA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ac90c416355f8776ff171fe</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ac90c416355f8776ff171fe</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Gloucester, MA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>2027 Summer Process Engineer Intern - BS or MS (Gloucester, MA) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ae662baeab1f967309837e0</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ae662baeab1f967309837e0</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Gloucester, MA, United States | Hardware/Embedded | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027 Business Intelligence Analyst Intern- Master&#x27;s (Santa Clara, CA) at Applied Materials</title>
-      <link>https://jobright.ai/jobs/info/6ae26308eb7e8f715a60d8cb</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6ae26308eb7e8f715a60d8cb</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Santa Clara, CA, United States | Data/ML/AI | internship</description>
     </item>
   </channel>
 </rss>

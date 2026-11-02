@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-02T05:19:50Z",
+ "built_at": "2026-11-02T18:10:19Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -22257,6 +22257,37 @@
    "fetched_at": "2026-10-25T20:25:03Z",
    "label": "Sembcorp Group",
    "titles": []
+  },
+  "semtech": {
+   "fetched_at": "2026-11-02T18:10:18Z",
+   "label": "Semtech",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 158000,
+     "title": "SENIOR STAFF APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128898,
+     "title": "HARDWARE VERIFICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 89814,
+     "title": "PACKAGING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "SR. EMBEDDED FIRMWARE DESIGN ENGINEER -MIXED-SIGNAL ICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 181440,
+     "title": "STAFF ENGINEER, SYSTEM INTEGRATION"
+    }
+   ]
   },
   "sezzle": {
    "fetched_at": "2026-10-25T20:25:04Z",
