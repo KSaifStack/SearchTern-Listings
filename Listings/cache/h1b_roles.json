@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-02T18:15:11Z",
+ "built_at": "2026-11-02T21:07:53Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8769,6 +8769,27 @@
    "fetched_at": "2026-10-25T05:37:59Z",
    "label": "Edbz",
    "titles": []
+  },
+  "edison international": {
+   "fetched_at": "2026-11-02T21:07:51Z",
+   "label": "Edison International",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "GENERAL MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 60200,
+     "title": "MARKET RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 199500,
+     "title": "MEMBER OF TECHNICAL STAFF - AI RESEARCH ENGINEER"
+    }
+   ]
   },
   "edyo": {
    "fetched_at": "2026-10-26T11:48:35Z",
@@ -24957,6 +24978,102 @@
      "count": 7,
      "median_salary": 212500,
      "title": "SITE RELIABILITY ENGINEER USDS"
+    }
+   ]
+  },
+  "tiktok usds joint venture": {
+   "fetched_at": "2026-11-02T21:07:52Z",
+   "label": "TikTok USDS Joint Venture",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 180710,
+     "title": "SOFTWARE ENGINEER, ADS ML INFRASTRUCTURE - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 187000,
+     "title": "BACKEND SOFTWARE ENGINEER - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "DATA SCIENTIST - GLOBAL PAYMENTS USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 260000,
+     "title": "DATA SCIENTIST, E-COMMERCE - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 172000,
+     "title": "DATA SCIENTIST, PRODUCT ANALYTICS - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 223000,
+     "title": "MACHINE LEARNING ENGINEER - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 213600,
+     "title": "MACHINE LEARNING ENGINEER, SEARCH - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 463956,
+     "title": "MANAGEMENT STRATEGIST -USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "MODERATION STRATEGY OPERATIONS PM - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "QUALITY ASSURANCE ANALYST - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 220000,
+     "title": "SENIOR DATA SCIENTIST, E-COMMERCE - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 305000,
+     "title": "SENIOR ENGINEERING MANAGER - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 208000,
+     "title": "SITE RELIABILITY ENGINEER - AML GLOBAL RECOMMENDATION - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 190823,
+     "title": "SITE RELIABILITY ENGINEER - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 307000,
+     "title": "SITE RELIABILITY ENGINEER USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "SOFTWARE ENGINEER - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "SOFTWARE ENGINEER, ADS SERVING AND FOUNDATION - USDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 275715,
+     "title": "TECHNICAL PROGRAM MANAGER, TECH AND PRODUCT, USDS"
     }
    ]
   },
