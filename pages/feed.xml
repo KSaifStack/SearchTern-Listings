@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 08:40:04 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Summer Internship - Finance Transformation &amp; Systems at Fhlbank Chicago</title>
@@ -202,6 +202,13 @@
       <guid isPermaLink="true">https://jobs.ashbyhq.com/clipboard/09b687bd-a7a9-479f-80cc-8b460eb4d99a</guid>
       <pubDate>Mon, 02 Nov 2026 00:10:35 +0000</pubDate>
       <description>Hybrid | Other | new_grad</description>
+    </item>
+    <item>
+      <title>First-Year Explore Program Engineering Intern at Microsoft</title>
+      <link>https://apply.careers.microsoft.com/careers/job/1970393556925823</link>
+      <guid isPermaLink="true">https://apply.careers.microsoft.com/careers/job/1970393556925823</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Redmond, WA | Software Engineering</description>
     </item>
     <item>
       <title>Software Engineer Summer Internship at Knowbe</title>
@@ -1399,13 +1406,6 @@
       <guid isPermaLink="true">https://jobright.ai/jobs/info/6adbc20d0a4cc7090f974914</guid>
       <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
       <description>Jacksonville, FL, United States | Data/ML/AI | internship</description>
-    </item>
-    <item>
-      <title>Summer 2027: Intelligent Automation Business Systems Analyst Intern at Intuit</title>
-      <link>https://jobright.ai/jobs/info/6abbee42d6acfd3dd29faccd</link>
-      <guid isPermaLink="true">https://jobright.ai/jobs/info/6abbee42d6acfd3dd29faccd</guid>
-      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-      <description>San Diego, CA, United States | Business/Analytics | internship</description>
     </item>
   </channel>
 </rss>
