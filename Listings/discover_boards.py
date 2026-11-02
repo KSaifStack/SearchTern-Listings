@@ -15,11 +15,12 @@ from urllib.parse import urlsplit
 _CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
 _STATE_PATH = os.path.join(_CACHE_DIR, "discovered_boards.json")
 
-# Must match what _fetch_company_jobs can probe: ATS_ENDPOINTS keys plus Workday.
+# Must match what _fetch_company_jobs can probe: ATS_ENDPOINTS keys, Workday,
+# plus the new adapters in ats_new_sources.py.
 PROBEABLE = {
     "Greenhouse", "Lever", "Ashby", "SmartRecruiters", "Workday",
     "Workable", "Rippling", "Pinpoint", "Recruitee", "Teamtailor", "Breezy",
-    "Personio",
+    "Personio", "Eightfold", "iCIMS", "Oracle", "ADP", "BambooHR",
 }
 
 MAX_DISCOVERED = 4000
@@ -40,6 +41,8 @@ _SUBDOMAIN_VENUES = (
     (".breezy.hr", "Breezy"),
 )
 _WORKDAY_HOST_RE = re.compile(r"^(?P<tenant>[a-z0-9-]+)\.wd\d+\.myworkdayjobs\.com$")
+_EIGHTFOLD_HOST_RE = re.compile(r"^(?P<tenant>[a-z0-9-]+)\.eightfold\.ai$")
+_BAMBOO_HOST_RE = re.compile(r"^(?P<tenant>[a-z0-9-]+)\.bamboohr\.com$")
 _WORKDAY_LOCALE_RE = re.compile(r"^[a-z]{2}-[a-z]{2}$")
 _PERSONIO_HOST_RE = re.compile(r"^(?P<slug>[a-z0-9-]+)\.jobs\.personio\.(?:com|de)$")
 # Path segments that are never a board slug (embed widgets, apply paths, ...).
@@ -111,6 +114,31 @@ def parse_link(link):
             return None
         tenant = wd.group("tenant")
         return ("Workday", f"{host}/wday/cxs/{tenant}/{site}")
+
+    ef = _EIGHTFOLD_HOST_RE.match(host)
+    if ef:
+        # Custom-domain Eightfold hosts can't map to a tenant; curated only.
+        return ("Eightfold", ef.group("tenant"))
+
+    if host.endswith(".icims.com"):
+        portal = host
+        return ("iCIMS", portal)
+
+    if "oraclecloud.com" in host and "sites" in parts:
+        try:
+            site = parts[parts.index("sites") + 1]
+        except IndexError:
+            return None
+        if site:
+            return ("Oracle", f"{host}|{site}")
+        return None
+
+    if host == "myjobs.adp.com" and parts:
+        return ("ADP", parts[0].lower())
+
+    bamboo = _BAMBOO_HOST_RE.match(host)
+    if bamboo:
+        return ("BambooHR", bamboo.group("tenant"))
     return None
 
 

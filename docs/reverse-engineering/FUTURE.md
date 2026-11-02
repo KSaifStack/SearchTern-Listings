@@ -56,14 +56,16 @@ source, exactly.
 
 Closure currently covers 11 ATS kinds and only the boards that ran this cycle.
 
-- **Workday: done 2026-11-02.** `closure.workday_req_id` prefers
-  `bulletFields[0]`, falls back to the `externalPath` tail after the last
-  underscore; verified live against ally/nvidia/ebay CXS endpoints and wired
-  into both probe snapshot paths. `workday` is in `VERIFIABLE_ATS`.
-  Staging check: `Listings/validate_closure.py` (4 real boards incl. Workday,
-  1,296 live ids, all rules green). Remaining: re-verify the join once a
-  jobhive parquet with Workday rows is sampled (`ats_id` shape on that side
-  is still assumed).
+- **Workday: done 2026-11-02.** `closure.workday_req_id` prefers the
+  `externalPath` tail, falls back to regex-gated `bulletFields[0]`
+  (bulletFields is a label like "Regular Employee" on some tenants);
+  verified live against ally/nvidia/ebay CXS endpoints and wired into both
+  probe snapshot paths. `workday` is in `VERIFIABLE_ATS`. HTTP 422 (tenant
+  moved data centres) drops that employer's discovery cache for
+  next-run rediscovery. Staging check: `Listings/validate_closure.py`
+  (4 real boards incl. Workday, 1,296 live ids, all rules green). Remaining:
+  re-verify the join once a jobhive parquet with Workday rows is sampled
+  (`ats_id` shape on that side is still assumed).
 - **Cooldown honesty.** The heavy tier skips boards inside a 24 h cooldown and
   reuses the cached snapshot. A snapshot older than the run still votes, which is
   fine (it is still a complete board state), but the vote should carry its age so
@@ -75,6 +77,11 @@ Closure currently covers 11 ATS kinds and only the boards that ran this cycle.
   but the *magnitude* tells you how much of the corpus is quietly dead. This is
   one DuckDB query over two parquet URLs; do it and record the number in
   [jobhive-staleness.md](jobhive-staleness.md).
+- **Global corporate-suffix strip.** `ats_new_sources._clean_employer`
+  strips Inc/LLC/Corp/... locally for the five new adapters because
+  hiringOrganization names break cross-source dedup ("GDMS" vs
+  "GDMS, Inc."). The shared `clean_company_name` still keeps suffixes;
+  promote the strip once the dedup impact is measured on a full run.
 
 **Trap:** never let a board that returned HTTP 200 with zero postings vote. An
 ATS board that is mid-deploy returns an empty list, and treating that as "all

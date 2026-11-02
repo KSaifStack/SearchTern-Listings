@@ -52,19 +52,24 @@ def reset():
 def workday_req_id(posting_or_link):
     """Return the stable requisition id for one Workday posting or URL.
 
-    Prefers `bulletFields[0]` (the API's own req id), falls back to the
-    `externalPath` tail after the last underscore
-    (`/job/Detroit-MI/Title_R2600885` -> `R2600885`). Returns None when
+    Prefers the `externalPath` tail after the last underscore
+    (`/job/Detroit-MI/Title_R2600885` -> `R2600885`), falls back to
+    `bulletFields[0]`. The path tail is authoritative: bulletFields[0] is a
+    free-text label on some tenants (e.g. "Regular Employee") and must never
+    outrank the path. Both candidates are regex-gated; returns None when
     neither yields a req-shaped value, so callers record no vote rather than
     a junk id.
     """
     if isinstance(posting_or_link, dict):
+        req = workday_req_id(posting_or_link.get("externalPath") or "")
+        if req:
+            return req
         bullets = posting_or_link.get("bulletFields") or []
         if bullets:
             first = str(bullets[0] or "").strip()
             if _WORKDAY_REQ_RE.match(first):
                 return first
-        return workday_req_id(posting_or_link.get("externalPath") or "")
+        return None
     path = str(posting_or_link or "").split("?", 1)[0].split("#", 1)[0].rstrip("/")
     if "/" not in path:
         return None

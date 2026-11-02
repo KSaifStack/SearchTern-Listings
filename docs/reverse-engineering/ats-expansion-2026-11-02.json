@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-11-02T23:39:26Z",
+  "seconds": 55.7,
+  "rows": 4598,
+  "per_source": [
+    {
+      "source": "eightfold:Qualcomm",
+      "rows": 9
+    },
+    {
+      "source": "eightfold:Starbucks",
+      "rows": 31
+    },
+    {
+      "source": "eightfold:CACI",
+      "rows": 104
+    },
+    {
+      "source": "eightfold:Applied Materials",
+      "rows": 120
+    },
+    {
+      "source": "eightfold:Arcadis",
+      "rows": 87
+    },
+    {
+      "source": "oracle:WSP",
+      "rows": 2000
+    },
+    {
+      "source": "oracle:Stantec",
+      "rows": 1637
+    },
+    {
+      "source": "icims:General Dynamics Mission Systems",
+      "rows": 10
+    },
+    {
+      "source": "icims:Kimley-Horn",
+      "rows": 10
+    },
+    {
+      "source": "icims:Dewberry",
+      "rows": 10
+    },
+    {
+      "source": "icims:Sargent & Lundy",
+      "rows": 10
+    },
+    {
+      "source": "icims:Peraton",
+      "rows": 10
+    },
+    {
+      "source": "icims:Novelis",
+      "rows": 10
+    },
+    {
+      "source": "adp:Pennoni",
+      "rows": 231
+    },
+    {
+      "source": "adp:Carolina Power",
+      "rows": 309
+    },
+    {
+      "source": "bamboohr:Lunar Outpost",
+      "rows": 10
+    }
+  ],
+  "intern_shaped": 712,
+  "with_date": 4598,
+  "sample_roles": [
+    {
+      "company": "Qualcomm",
+      "role": "Machine Learning Engineer, Frameworks & Performance (New Grad to Principal level)",
+      "location": "Markham, Ontario, Canada"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "New Graduate- AI SW SDK Engineer",
+      "location": "Shanghai, China"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "(Welcome New Grade) Embedded S/W Power Applications Engineering",
+      "location": "Cheektowaga, Gyeonggi-do, Korea, Republic of"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "SoC Performance Architect (Server CPU) - PhD New Grads Welcome!",
+      "location": "Santa Clara, California, United States of America"
+    },
+    {
+      "company": "Qualcomm",
+      "role": "\u3010Welcome New Grads\u3011Package/System Design Solutions Engineer - Engineer / Sr. Engineer",
+      "location": "Hsinchu City, Taiwan"
+    },
+    {
+      "company": "Starbucks",
+      "role": "director, Technology Internal Audit",
+      "location": "2401 Utah Ave S #800, Seattle, Washington, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "manager, International Income Tax",
+      "location": "2401 Utah Ave S #800, Seattle, Washington, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "principal, International Digital Strategy & Enablement",
+      "location": "2401 Utah Ave S #800, Seattle, Washington, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "barista - Store# 54764, INTERNATIONAL & TUCKER",
+      "location": "1401 Tucker St, Oakland, California, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "shift supervisor - Store# 54764, INTERNATIONAL & TUCKER",
+      "location": "1401 Tucker St, Oakland, California, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "barista - Store# 07805, ONE INTERNATIONAL PLACE",
+      "location": "1 International Pl, Boston, Massachusetts, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "barista - Store# 13942, ORLANDO INTERNATIONAL PREMIUM",
+      "location": "4965 International Dr, Prime Outlets @ Orlando, Ste 2D15, Orlando, Florida, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "senior accountant, International & Channel Development Accounting",
+      "location": "2401 Utah Ave S #800, Seattle, Washington, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "barista - Store# 26581, VINELAND & INTERNATIONAL DRIVE",
+      "location": "8101 Vineland Ave, Orlando, Florida, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "shift supervisor - Store# 13557, INTERNATIONAL & ZINFANDEL",
+      "location": "3195 Zinfandel Dr., Capital Village, 1, Rancho Cordova, California, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "program manager, Coffee Initiatives/Excellence - International",
+      "location": "2401 Utah Ave S #800, Seattle, Washington, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "barista - Store# 86069, HWY 205 & INTERNATIONAL",
+      "location": "1102 N International Pkwy, Tracy, California, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "barista - Store# 82058, E INTERNATIONAL BLVD & N. AMELIA",
+      "location": "210 E International Speedway Blvd, Deland, Florida, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "shift supervisor - Store# 26581, VINELAND & INTERNATIONAL DRIVE",
+      "location": "8101 Vineland Ave, Orlando, Florida, United States"
+    },
+    {
+      "company": "Starbucks",
+      "role": "shift manager - Store# 07805, ONE INTERNATIONAL PLACE",
+      "location": "1 International Pl, Boston, Massachusetts, United States"
+    }
+  ]
+}

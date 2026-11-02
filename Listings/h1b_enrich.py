@@ -322,7 +322,9 @@ def add_role_columns(dataframe, roles):
 
     out["visa_role"] = matched_titles
     out["visa_role_count"] = matched_counts
-    out["visa_median_salary"] = matched_pay
+    # Object dtype: pandas would coerce a mixed int/None list to float and
+    # turn the no-signal marker into NaN. None must survive (tests + pages).
+    out["visa_median_salary"] = pd.Series(matched_pay, dtype=object, index=out.index)
     n_role = sum(1 for t in matched_titles if t)
     print(f"  visa_role: {n_role:,} of {len(out):,} rows match a sponsored job title")
     return out

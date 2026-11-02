@@ -25,6 +25,7 @@ except Exception:
 from html import unescape
 from html.parser import HTMLParser
 
+import ats_new_sources
 import breadth_sources
 import classify
 import closure
@@ -41,6 +42,7 @@ import readme_generation
 import runway_source
 import sitemap_sources
 import skillexchange
+import source_health
 from dedup import dedup_across as _dedup_across
 from dedup import dedup_keys as _dedup_keys
 from dedup import dedupe as _dedupe
@@ -67,6 +69,8 @@ _UA = {"User-Agent": "SearchTern-Listings/1.0 (+https://github.com/KSaifStack/Se
 FREEHIRE_MAX_JOBS = int(os.environ.get("SEARCHTERN_FREEHIRE_MAX_JOBS", "6000"))
 WORKDAY_MAX_JOBS = int(os.environ.get("SEARCHTERN_WORKDAY_MAX_JOBS", "200"))
 SMARTRECRUITERS_MAX_JOBS = int(os.environ.get("SEARCHTERN_SMARTRECRUITERS_MAX_JOBS", "1000"))
+GREENHOUSE_MAX_JOBS = int(os.environ.get("SEARCHTERN_GREENHOUSE_MAX_JOBS", "500"))
+TEAMTAILOR_MAX_PAGES = int(os.environ.get("SEARCHTERN_TEAMTAILOR_MAX_PAGES", "5"))
 
 
 class _TextExtractor(HTMLParser):
@@ -510,6 +514,7 @@ def _fetch_freehire(url, workers=None):
     ingest_stats.record("freehire-pages", discovered=len(offsets) * 100,
                         valid=len(jobs), seconds=_time.monotonic() - _t0,
                         status="degraded" if failed else "ok",
+                        truncated=int(total > FREEHIRE_MAX_JOBS),
                         note=url.split("?", 1)[0].rsplit("/", 1)[-1])
     return jobs
 
@@ -872,7 +877,8 @@ else:
 
 # ── Direct ATS probing (big tech supplement) ──────────────────────────────
 ATS_ENDPOINTS = {
-    'Greenhouse': 'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true&per_page=100',
+    # pay_transparency=true adds pay_input_ranges (cents) to each posting.
+    'Greenhouse': 'https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true&per_page=100&pay_transparency=true',
     'Lever': 'https://api.lever.co/v0/postings/{slug}?mode=json',
     'Ashby': 'https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true',
     'SmartRecruiters': 'https://api.smartrecruiters.com/v1/companies/{slug}/postings',
@@ -880,7 +886,7 @@ ATS_ENDPOINTS = {
     'Rippling': 'https://api.rippling.com/platform/api/ats/v1/board/{slug}/jobs',
     'Pinpoint': 'https://{slug}.pinpointhq.com/postings.json',
     'Recruitee': 'https://{slug}.recruitee.com/api/offers/',
-    'Teamtailor': 'https://{slug}.teamtailor.com/jobs.rss',
+    'Teamtailor': 'https://{slug}.teamtailor.com/jobs.json',
     'Breezy': 'https://{slug}.breezy.hr/json',
     'Personio': 'https://{slug}.jobs.personio.com/xml',
 }
@@ -959,6 +965,30 @@ def _abs_posted_on(label, now=None):
     return str(now)
 
 
+def _greenhouse_pay(ranges):
+    """Collapse pay_input_ranges (cents) to (min_dollars, max_dollars, currency).
+
+    A posting can carry several ranges (one per location); the min of the
+    minimums and max of the maximums bracket the posting. Returns Nones when
+    the board publishes no ranges (most boards: 110 of Scale AI's 167 did).
+    """
+    mins, maxs, cur = [], [], None
+    for r in ranges or []:
+        try:
+            lo = int(r.get('min_cents')) // 100 if r.get('min_cents') else None
+            hi = int(r.get('max_cents')) // 100 if r.get('max_cents') else None
+        except (TypeError, ValueError):
+            continue
+        if lo:
+            mins.append(lo)
+        if hi:
+            maxs.append(hi)
+        cur = cur or r.get('currency_type')
+    if not mins and not maxs:
+        return None, None, None
+    return (min(mins) if mins else None, max(maxs) if maxs else None, cur)
+
+
 def _smartrecruiters_desc(job):
     sections = (job.get('jobAd') or {}).get('sections') or {}
     if isinstance(sections, list):
@@ -969,7 +999,52 @@ def _smartrecruiters_desc(job):
     return desc.get('text') if isinstance(desc, dict) else ''
 
 
+# Employers whose Workday tenant answered HTTP 422 (tenant moved data centres)
+# this run. _fetch_ats_probe drops their cached WorkdaySlugs entries so the
+# next run rediscovers instead of failing until the cooldown expires.
+_WD_MOVED_COMPANIES = set()
+
+
+# New adapters live in ats_new_sources.py; discovered boards on them are
+# probed through the same _fetch_company_jobs entry point.
+_NEW_ATS = ("Eightfold", "iCIMS", "Oracle", "ADP", "BambooHR")
+
+
+def _fetch_new_ats_company(company, ats_type, slug):
+    """Fetch one discovered board on a new ATS. Returns (company, ats, data).
+
+    Rows come back already normalized (STD_COLS), carried as data["_rows"]
+    so the probe loop can merge them without a second normalize pass.
+    Slug shapes come from discover_boards.parse_link.
+    """
+    try:
+        if ats_type == "Eightfold":
+            rows, trunc, _ = ats_new_sources._fetch_eightfold_board(
+                company, f"{slug}.eightfold.ai", f"{slug}.com")
+        elif ats_type == "iCIMS":
+            rows, trunc, _ = ats_new_sources._fetch_icims_portal(company, slug)
+        elif ats_type == "Oracle":
+            host, _, site = slug.partition("|")
+            if not host or not site:
+                return None
+            rows, trunc, _ = ats_new_sources._fetch_oracle_board(
+                company, host, site)
+        elif ats_type == "ADP":
+            rows, trunc, _ = ats_new_sources._fetch_adp_domain(company, slug)
+        elif ats_type == "BambooHR":
+            rows, trunc, _ = ats_new_sources._fetch_bamboo_tenant(company, slug)
+        else:
+            return None
+    except Exception:
+        return None
+    if not rows:
+        return None
+    return (company, ats_type, {"_rows": rows, "_truncated": int(bool(trunc))})
+
+
 def _fetch_company_jobs(company, ats_type, slug):
+    if (ats_type or "") in _NEW_ATS:
+        return _fetch_new_ats_company(company, ats_type, slug)
     url = ATS_ENDPOINTS.get(ats_type)
     if url is None and ats_type == 'Workday':
         url = 'https://{slug}/jobs'
@@ -990,12 +1065,23 @@ def _fetch_company_jobs(company, ats_type, slug):
                     timeout=15,
                 )
                 if resp is None or resp.status_code != 200:
+                    if resp is not None and resp.status_code == 422:
+                        # Tenant moved data centres (wd1 -> wd108, ...); the
+                        # cached site path is dead, not the board.
+                        _WD_MOVED_COMPANIES.add(str(company or '').lower())
                     break
-                page = resp.json().get('jobPostings') or []
+                payload = resp.json()
+                if offset == 0 and isinstance(payload.get('total'), int):
+                    data['totalReported'] = payload['total']
+                page = payload.get('jobPostings') or []
                 data['jobPostings'].extend(page)
                 if len(page) < 20:
                     break
                 offset += 20
+            data['_truncated'] = int(
+                isinstance(data.get('totalReported'), int)
+                and data['totalReported'] > len(data['jobPostings'])
+            )
             for jp in data['jobPostings']:
                 p = jp.get('externalPath') or ''
                 jp['externalPath'] = f"https://{host}{p}" if p else ''
@@ -1003,9 +1089,32 @@ def _fetch_company_jobs(company, ats_type, slug):
             resp = http_get(url.format(slug=slug), timeout=15, retries=2)
             if resp is None or resp.status_code != 200:
                 return None
-            # Teamtailor serves RSS XML and Personio serves XML, not JSON.
+            # Teamtailor serves a JSON Feed (richer than its RSS: dates,
+            # descriptions, schema.org locations per item); Personio serves XML.
             if ats_type == 'Teamtailor':
-                data = resp.text
+                try:
+                    first = resp.json()
+                except ValueError:
+                    return None
+                items = list(first.get('items') or [])
+                nxt = first.get('next_url')
+                pages = 1
+                while nxt and pages < TEAMTAILOR_MAX_PAGES:
+                    pr = http_get(nxt, timeout=15, retries=2)
+                    if pr is None or pr.status_code != 200:
+                        break
+                    try:
+                        payload = pr.json()
+                    except ValueError:
+                        break
+                    page = payload.get('items') or []
+                    if not page:
+                        break
+                    items.extend(page)
+                    nxt = payload.get('next_url')
+                    pages += 1
+                data = {**first, 'items': items,
+                        '_truncated': int(bool(nxt))}
             elif ats_type == 'Personio':
                 data = {'xml': resp.text, 'slug': slug}
             elif ats_type == 'SmartRecruiters':
@@ -1025,7 +1134,34 @@ def _fetch_company_jobs(company, ats_type, slug):
                         break
                     content.extend(page)
                     offset += len(page)
-                data = {**data, 'content': content}
+                data = {**data, 'content': content,
+                        '_truncated': int(total > len(content))}
+            elif ats_type == 'Greenhouse':
+                # Large boards may page (?page=N); meta carries the board
+                # total. Stop on duplicate ids: some boards ignore the page
+                # param and re-send page 1 (observed live 2026-11-02).
+                first = resp.json()
+                jobs = list(first.get('jobs') or [])
+                total = (first.get('meta') or {}).get('total') or len(jobs)
+                seen = {j.get('id') for j in jobs if j.get('id') is not None}
+                base = url.format(slug=slug)
+                page_no = 2
+                while jobs and len(jobs) < min(total, GREENHOUSE_MAX_JOBS):
+                    page_resp = http_get(f"{base}&page={page_no}", timeout=15, retries=2)
+                    if page_resp is None or page_resp.status_code != 200:
+                        break
+                    page = page_resp.json().get('jobs') or []
+                    fresh = [j for j in page
+                             if j.get('id') is None or j.get('id') not in seen]
+                    if not fresh:
+                        break
+                    jobs.extend(fresh)
+                    seen.update(j.get('id') for j in fresh if j.get('id') is not None)
+                    page_no += 1
+                    if len(page) < 100:
+                        break
+                data = {**first, 'jobs': jobs,
+                        '_truncated': int(total > len(jobs))}
             else:
                 data = resp.json()
         return (company, ats_type, data)
@@ -1042,13 +1178,15 @@ def _normalize_ats_jobs(company, ats_type, data):
             is_remote = 'false'
             if 'remote' in loc_name.lower():
                 is_remote = 'true'
+            sal_min, sal_max, sal_cur = _greenhouse_pay(j.get('pay_input_ranges'))
             rows.append({
                 'company': company, 'role': (j.get('title') or '').strip(),
                 'location': loc_str,
                 'date': j.get('updated_at', ''),
                 'link': j.get('absolute_url', ''),
                 'is_remote': is_remote,
-                'salary_min': None, 'salary_max': None, 'salary_currency': None,
+                'salary_min': sal_min, 'salary_max': sal_max,
+                'salary_currency': sal_cur,
                 'country_iso': _infer_country(loc_str),
                 'description': _strip_html(j.get('content') or ''),
             })
@@ -1204,38 +1342,39 @@ def _normalize_ats_jobs(company, ats_type, data):
     return rows
 
 
-_TT_NS = {'tt': 'https://teamtailor.com/locations'}
-
-
-def _normalize_teamtailor(company, xml_text):
+def _normalize_teamtailor(company, data):
+    """Normalize Teamtailor's JSON Feed (items carry schema.org JobPosting)."""
     rows = []
-    try:
-        root = ET.fromstring(xml_text)
-    except ET.ParseError:
-        return rows
-    for item in root.iter('item'):
-        loc_el = item.find('tt:locations/tt:location', _TT_NS)
+    items = (data.get('items') or []) if isinstance(data, dict) else []
+    for item in items:
+        jp = item.get('_jobposting') or {}
         loc_str = ''
-        if loc_el is not None:
-            loc_str = (loc_el.findtext('tt:name', default='', namespaces=_TT_NS) or '').strip()
-            if not loc_str:
-                loc_str = ', '.join(filter(None, [
-                    loc_el.findtext('tt:city', default='', namespaces=_TT_NS),
-                    loc_el.findtext('tt:country', default='', namespaces=_TT_NS),
-                ])).strip()
-        pub = (item.findtext('pubDate') or '').strip()
+        job_loc = jp.get('jobLocation')
+        addr = None
+        if isinstance(job_loc, list) and job_loc:
+            addr = job_loc[0].get('address')
+        elif isinstance(job_loc, dict):
+            addr = job_loc.get('address')
+        if isinstance(addr, dict):
+            loc_str = ', '.join(filter(None, [
+                addr.get('addressLocality'), addr.get('addressRegion'),
+                addr.get('addressCountry')])).strip()
+        pub = (item.get('date_published') or jp.get('datePosted') or '').strip()
         try:
             date = str(pd.Timestamp(pub)) if pub else ''
         except Exception:
             date = pub
         rows.append({
-            'company': company, 'role': (item.findtext('title') or '').strip(),
+            'company': company,
+            'role': ((item.get('title') or jp.get('title')) or '').strip(),
             'location': loc_str,
             'date': date,
-            'link': (item.findtext('link') or '').strip(),
-            'is_remote': str((item.findtext('remoteStatus') or '').strip().lower() == 'remote'),
+            'link': (item.get('url') or '').strip(),
+            'is_remote': str('remote' in loc_str.lower()),
             'salary_min': None, 'salary_max': None, 'salary_currency': None,
             'country_iso': _infer_country(loc_str),
+            'description': _strip_html(
+                item.get('content_html') or jp.get('description') or ''),
         })
     return rows
 
@@ -1355,6 +1494,15 @@ def _fetch_ats_probe(workers=None):
 
     print(f"  Fetched {len(all_raw)}/{len(warm)} endpoints successfully")
 
+    # Tenants that moved data centres: drop their discovery cache so the next
+    # run re-probes robots.txt instead of replaying a dead site path.
+    if _WD_MOVED_COMPANIES:
+        for k in [k for k in probe_state if k.startswith("WorkdaySlugs|")]:
+            if k.split("|", 1)[1].lower() in _WD_MOVED_COMPANIES:
+                del probe_state[k]
+        print(f"  {len(_WD_MOVED_COMPANIES)} moved Workday tenants rediscovered next run")
+        _WD_MOVED_COMPANIES.clear()
+
     # Record successes for cooldown.
     if "_skipped_this_run" in probe_state:
         del probe_state["_skipped_this_run"]
@@ -1364,6 +1512,11 @@ def _fetch_ats_probe(workers=None):
 
     all_rows = []
     for company, ats_type, data in all_raw:
+        if isinstance(data, dict) and "_rows" in data:
+            # New-ATS boards arrive already normalized; their id shapes are
+            # not yet verified against jobhive, so they cast no closure vote.
+            all_rows.extend(data["_rows"])
+            continue
         rows = _normalize_ats_jobs(company, ats_type, data)
         all_rows.extend(rows)
         # A board that returned rows is a complete snapshot for that employer,
@@ -1388,10 +1541,14 @@ def _fetch_ats_probe(workers=None):
     df = pd.DataFrame(all_rows)
     df = _classify_freehire(df)
     print(f"  After classification: {len(df):,}")
+    _trunc = sum(1 for _, _, _d in all_raw
+                 if isinstance(_d, dict) and _d.get("_truncated"))
+    if _trunc:
+        print(f"  {_trunc} boards hit a pagination cap (see truncated_boards)")
     ingest_stats.record(
         "ats-probe", discovered=len(all_rows), valid=len(df),
         seconds=_time.monotonic() - _t0, boards_ok=len(all_raw), boards_tried=len(warm),
-        boards_skipped=len(probe_list) - len(warm),
+        boards_skipped=len(probe_list) - len(warm), truncated_boards=_trunc,
         note=f"{len(probe_list)} boards in registry",
     )
     return df
@@ -1439,9 +1596,12 @@ def _fetch_priority_probe(workers=None):
     df = pd.DataFrame(all_rows)
     df = _classify_freehire(df)
     print(f"  After classification: {len(df):,}")
+    _trunc = sum(1 for _, _, _d in all_raw
+                 if isinstance(_d, dict) and _d.get("_truncated"))
     ingest_stats.record(
         "priority-probe", discovered=len(all_rows), valid=len(df),
         seconds=_time.monotonic() - _t0, boards_ok=len(all_raw), boards_tried=len(boards),
+        truncated_boards=_trunc,
     )
     return df
 
@@ -1534,6 +1694,52 @@ if not breadth_df.empty:
     listings_result = pd.concat([listings_result, b_for_listings], ignore_index=True)
     listings_result = _dedupe(listings_result)
     print(f"  Breadth added: {len(b_for_readme)} to README, {len(b_for_listings)} to listings")
+
+# ── New ATS adapters (medium tier) ───────────────────────────────────────────
+# Eightfold, Oracle Recruiting Cloud, iCIMS, ADP, BambooHR. All public
+# endpoints, verified live 2026-11-02 (docs/reverse-engineering/ats-expansion.md).
+# Per-board caps, delays, truncation and rate-limit reporting live in
+# ats_new_sources.py; ingest_stats recording happens there (with seconds), so
+# this block only classifies, stamps and merges like the other tiers.
+ats_new_df = pd.DataFrame()
+if TIER_MEDIUM in RUN_TIERS:
+    print("Fetching new ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR)...")
+    ats_new_df, _ats_new_stats = ats_new_sources.fetch_and_parse(
+        infer_country=_infer_country, workers=WORKERS
+    )
+    for _name, _rows in _ats_new_stats:
+        print(f"  {_name}: {_rows:,} rows")
+    ats_new_df = _classify_freehire(ats_new_df)
+    ats_new_df = _stamp(ats_new_df, "ats", now)
+    print(f"  New ATS classified: {len(ats_new_df):,}")
+    if ats_new_df.empty:
+        ats_new_df = _load_cached("ats_new")
+    else:
+        _save_cache(ats_new_df, "ats_new")
+else:
+    ats_new_df = _load_cached("ats_new")
+print(f"  New ATS working set: {len(ats_new_df):,} rows")
+
+if not ats_new_df.empty:
+    ats_new_df = _dedup_across(readme_result, ats_new_df)
+    n_for_readme = ats_new_df[
+        ~ats_new_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                     'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                     'HR','BG','FI','LU','BE','MT','CY'])
+        & (_to_dt(ats_new_df["date"]) >= now - pd.Timedelta(days=60))
+        & ats_new_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+    ].copy()
+    n_for_listings = ats_new_df[
+        _to_dt(ats_new_df["date"]) >= now - pd.Timedelta(days=90)
+    ].copy()
+    source_contrib[TIER_MEDIUM][0] += len(n_for_readme)
+    source_contrib[TIER_MEDIUM][1] += len(n_for_listings)
+
+    readme_result = pd.concat([readme_result, n_for_readme], ignore_index=True)
+    readme_result = _dedupe(readme_result)
+    listings_result = pd.concat([listings_result, n_for_listings], ignore_index=True)
+    listings_result = _dedupe(listings_result)
+    print(f"  New ATS added: {len(n_for_readme)} to README, {len(n_for_listings)} to listings")
 
 # ── Direct ATS probing (heavy tier) ──────────────────────────────────────────
 ats_df = pd.DataFrame()
@@ -2058,6 +2264,20 @@ ingest_stats.write_json(
 )
 print(ingest_stats.summary_line())
 
+# Persistent health: remember this run, then report failing/quiet sources
+# and the trailing-7d new-postings ranking.
+source_health.append(ingest_stats.snapshot(), _new_by_source)
+_health = source_health.report()
+for _f in _health["failures"]:
+    print(f"  HEALTH ALERT: {_f['source']} non-ok for the last runs "
+          f"(latest: {_f['status']})")
+for _q in _health["quiet"]:
+    print(f"  HEALTH QUIET: {_q['source']} no data for {_q['hours_since_last']}h")
+if _health["best"]:
+    _top = ", ".join(f"{b['source']} ({b['new_7d']})"
+                      for b in _health["best"][:5])
+    print(f"  HEALTH top-7d new: {_top}")
+
 # Sources manifest — every source the pipeline pulls from, with current row
 # counts. Served to the SearchTern web app for its "Data Sources" panel.
 API_SOURCES = [
@@ -2068,6 +2288,7 @@ API_SOURCES = [
     {"name": "EchoJobs", "url": "https://echojobs.io", "type": "internship/tech", "count_key": "echojobs"},
     {"name": "Jobspy (Indeed)", "url": "https://github.com/zanellia/jobspy", "type": "internship", "count_key": "jobspy"},
     {"name": "ATS career-page probe", "url": "", "type": "internship/newgrad", "count_key": "ats"},
+    {"name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR)", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py", "type": "internship/newgrad", "count_key": "ats"},
     {"name": "Priority ATS (hot companies)", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/priority_boards.py", "type": "all roles, refreshed every 15 min", "count_key": "priority"},
 ]
 sources_out = [

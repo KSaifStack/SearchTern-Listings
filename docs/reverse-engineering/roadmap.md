@@ -183,5 +183,14 @@ greenhouse priority boards match jobhive employer names, covering 7,268 rows;
 - **Workday closure: done 2026-11-02** (req-id parser + staging check green
   on 4 real boards); only the jobhive-side `ats_id` shape re-verification
   is left, recorded in FUTURE.md.
+- **New ATS adapters: done 2026-11-02.** Eightfold, Oracle, iCIMS, ADP,
+  BambooHR in `Listings/ats_new_sources.py`, wired into the medium tier +
+  heavy discovery. Bounded staging run: 4,598 rows / 55.7 s, 712
+  intern-shaped, 100% dated. Evidence in `ats-expansion.md` +
+  `ats-expansion-2026-11-02.json`. Not yet in closure voting (jobhive-side
+  id shapes unverified) — recorded as the next step in ats-expansion.md.
+- **Source health: done 2026-11-02.** `Listings/source_health.py` persists
+  per-run stats, alerts after 2 consecutive non-ok runs, prints the
+  trailing-7d new-postings ranking every run.
 - **Still blocked:** search-side performance, on access to the deployed backend
   rather than on effort.
