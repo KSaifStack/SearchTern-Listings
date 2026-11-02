@@ -1,9 +1,10 @@
 import json
+import os
 import re
 import time
 
+import ingest_stats
 import pandas as pd
-
 from readme_utils import http_get
 
 # EchoJobs: software-engineering board scraped from companies' own career pages.
@@ -13,8 +14,10 @@ from readme_utils import http_get
 SITEMAP_URL = "https://echojobs.io/sitemap-jobs/1.xml"
 # ponytail: newest block only + cap detail fetches. A full sweep is 25 files x 10k
 # URLs; raise if a wider window is ever wanted.
-MAX_DETAIL_FETCHES = 100
-DETAIL_DELAY_SECS = 1.0
+# Both knobs are env-tunable because the host rate-limits: a 1.0s delay with 100
+# detail fetches returned 429 on 2026-11-02 (docs/reverse-engineering/roadmap.md).
+MAX_DETAIL_FETCHES = int(os.environ.get("SEARCHTERN_ECHOJOBS_MAX_FETCHES", "100"))
+DETAIL_DELAY_SECS = float(os.environ.get("SEARCHTERN_ECHOJOBS_DELAY", "1.2"))
 
 # EchoJobs 429s default requests UA; a browser UA works (verified by probe).
 _HEADERS = {
@@ -132,8 +135,17 @@ def fetch_and_parse(infer_country=None):
 
     candidates = candidates[:MAX_DETAIL_FETCHES]
     details = []
+    _t0 = time.monotonic()
+    status = "ok"
     for i, (url, _lastmod) in enumerate(candidates):
         d = http_get(url, timeout=20, retries=2, headers=_HEADERS)
+        if d is not None and d.status_code == 429:
+            # The host is rate-limiting, so every further fetch only deepens it
+            # and burns the window the next run needs. Stop and publish what we
+            # already have; the delay cap is raised for the next run.
+            print(f"  x EchoJobs 429 after {len(details)} detail pages — stopping run")
+            status = "rate_limited"
+            break
         if d is not None and d.status_code == 200:
             parsed = _parse_detail(d.text)
             if parsed:
@@ -146,6 +158,9 @@ def fetch_and_parse(infer_country=None):
     if not df.empty:
         df = df.drop_duplicates(subset=["company", "role", "location"], keep="first")
     print(f"  EchoJobs detail pages parsed: {len(details):,} -> {len(df):,} rows")
+    ingest_stats.record("echojobs", discovered=len(candidates), valid=len(df),
+                        seconds=time.monotonic() - _t0, status=status,
+                        note=f"{len(sitemap):,} sitemap urls")
     return df, [("EchoJobs (career pages)", len(details))]
 
 

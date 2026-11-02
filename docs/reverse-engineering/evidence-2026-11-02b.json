@@ -1,0 +1,85 @@
+{
+  "projection": "searchtern-source-evidence/v2",
+  "captured_at": "2026-11-02",
+  "method": "unauthenticated GETs with a custom User-Agent, plus DuckDB read_parquet over public HTTP; no keys, no accounts, no production artifacts modified",
+  "jobdataapi": {
+    "anonymous_success": {
+      "url": "https://jobdataapi.com/api/jobs/?title=intern",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes_read": 153311,
+      "count": 131617
+    },
+    "anonymous_after": [
+      {"url": "https://jobdataapi.com/api/jobs/?title=software%20engineer%20intern&max_age=14&page=1", "status": 403, "ms": 354},
+      {"url": "https://jobdataapi.com/api/jobs/?title=software%20engineer%20intern&max_age=14&page=2", "status": 403, "ms": 350},
+      {"url": "https://jobdataapi.com/api/jobs/?title=software%20engineer%20intern&max_age=14&page=3", "status": 403, "ms": 357},
+      {"url": "https://jobdataapi.com/api/jobs/?title=software%20engineer%20intern&max_age=14&page=4", "status": 403, "ms": 354}
+    ],
+    "docs_pages": [
+      {"url": "https://jobdataapi.com/api-docs/", "status": 404},
+      {"url": "https://jobdataapi.com/pricing/", "status": 404}
+    ],
+    "documented": {
+      "total_jobs": 53384266,
+      "new_jobs_7d": 528903,
+      "new_jobs_30d": 2570945,
+      "auth_header": "Authorization: Api-Key",
+      "public_endpoints": "limited testing before subscription",
+      "paid_plans": true,
+      "price": "unknown from measured evidence"
+    },
+    "measured_pagination": "not possible without a key; page/cursor convention unverified",
+    "record_fields_observed": ["id", "ext_id", "company{name,website_url,linkedin_url}", "title", "location", "types", "regions", "countries", "states", "cities", "has_remote", "published", "description_md", "experience_level", "salary_min", "salary_max", "salary_currency", "application_url"]
+  },
+  "headcountlabs": {
+    "public_sample": {
+      "url": "https://headcountlabs.com/sample-records.json",
+      "status": 200,
+      "content_type": "application/json",
+      "bytes": 11415,
+      "records": 3,
+      "extracted_at": "2026-09-30",
+      "self_described_as": "public website sample projection, not the /v1 API response contract",
+      "all_records_healthcare_workday": true,
+      "intern_titles": 0
+    },
+    "documented": {
+      "auth": "bearer token; /v1/jobs returns 401 unauthenticated",
+      "free_allowance_records_per_utc_month": 100000,
+      "price_after_free": "$0.01 per 1,000 records",
+      "rate_limit_free": "30 requests/60s, 1,000 requests/UTC day",
+      "rate_limit_paid": "60 requests/60s, no daily limit",
+      "page_size_jobs": "1-250 (1,000 only when fields=job_id), default 50",
+      "cursor": "opaque HMAC-signed, bound to filters/sort/page size, no expiry",
+      "changes_feed": "GET /v1/jobs/changes, page 1-1,000 default 100, resume_cursor then after",
+      "freshness": "re-checks every job daily; no freshness SLA published",
+      "lifecycle": "currentness current/uncertain/not_current; posting_status listed/no_longer_listed; application_check available/closed/broken/inconclusive; stale boolean; 308 merge redirect; 410 job_withdrawn",
+      "platform_values": 113
+    },
+    "third_party_conflict": "freepublicapis listed 'free 1,000 jobs/month'; the vendor docs state 100,000 records/month. Vendor docs treated as authoritative.",
+    "api_calls_made": 0
+  },
+  "jobhive_staleness": {
+    "source": "storage.stapply.ai/jobhive/v1/<ats>/jobs.parquet read with DuckDB httpfs",
+    "all_parquet": {"rows": 5090813, "parquet_size_bytes": 2244419213, "csv_size_bytes": 16625091681},
+    "buckets": [
+      {"ats": "adp", "rows": 5674, "le_7d": 626, "le_30d": 1918, "ge_90d": 2201, "ge_90d_share": 0.388, "oldest_posted_at": "2014-04-28T22:29:00", "apply_url_populated": 0},
+      {"ats": "apple", "rows": 4986, "le_7d": 516, "le_30d": 1528, "ge_90d": 3231, "ge_90d_share": 0.648, "oldest_posted_at": "2021-04-07T09:44:19.453000+00:00"},
+      {"ats": "amazon", "rows": 32929, "le_7d": 2273, "le_30d": 10004, "ge_90d": 23125, "ge_90d_share": 0.702, "oldest_posted_at": "2024-02-02T00:00:00"},
+      {"ats": "ashby", "rows": 55128, "le_7d": 6368, "le_30d": 19411, "ge_90d": 37169, "ge_90d_share": 0.674, "oldest_posted_at": "2019-10-08T15:19:32.789000+00:00"},
+      {"ats": "greenhouse", "rows": 178743, "le_7d": 14265, "le_30d": 52875, "ge_90d": 107245, "ge_90d_share": 0.600, "oldest_posted_at": "2018-12-20T01:05:39-05:00"}
+    ],
+    "closure_fields_present": false,
+    "time_fields": ["posted_at"],
+    "posted_at_populated_in_all_sampled_buckets": true,
+    "pipeline_lookback_days": {"search_feed": 60, "mirror_feed": 90}
+  },
+  "ats_gap": {
+    "registry": "https://raw.githubusercontent.com/Kayvan-Zahiri/state-of-ats-2026/main/data/companies.csv",
+    "companies": 738,
+    "unsupported_companies": 314,
+    "unsupported_share": 0.425,
+    "top_unsupported": {"SuccessFactors": 68, "Oracle Cloud HCM": 51, "iCIMS": 40, "Avature": 26, "Eightfold": 24, "Taleo": 18, "USAJobs": 10, "Kenexa BrassRing": 9, "Jobvite": 5, "Phenom": 5}
+  }
+}

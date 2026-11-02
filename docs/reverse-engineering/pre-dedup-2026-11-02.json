@@ -1,0 +1,76 @@
+{
+ "captured_at": "2026-11-02T16:47:30Z",
+ "limit": 1000,
+ "results": [
+  {
+   "source": "jobhive:adp",
+   "status": "ok",
+   "discovered": 1000,
+   "valid": 13,
+   "duplicate_in_batch": 0,
+   "already_in_feed": 0,
+   "new": 13,
+   "updated": 0,
+   "elapsed_ms": 864,
+   "ms_per_1000": 864
+  },
+  {
+   "source": "jobhive:apple",
+   "status": "ok",
+   "discovered": 1000,
+   "valid": 13,
+   "duplicate_in_batch": 0,
+   "already_in_feed": 0,
+   "new": 13,
+   "updated": 0,
+   "elapsed_ms": 855,
+   "ms_per_1000": 855
+  },
+  {
+   "source": "headcountlabs:sample",
+   "status": "ok",
+   "discovered": 3,
+   "valid": 0,
+   "duplicate_in_batch": 0,
+   "already_in_feed": 0,
+   "new": 0,
+   "updated": 0,
+   "elapsed_ms": 417,
+   "ms_per_1000": 139091
+  },
+  {
+   "source": "headcountlabs:api",
+   "status": "skipped",
+   "reason": "HEADCOUNT_LABS_API_KEY not set"
+  },
+  {
+   "source": "jobdataapi:api",
+   "status": "skipped",
+   "reason": "JOBDATAAPI_KEY not set (anonymous access returned 403 on 2026-11-02)"
+  },
+  {
+   "source": "freehire",
+   "status": "ok",
+   "discovered": 20,
+   "valid": 9,
+   "duplicate_in_batch": 0,
+   "already_in_feed": 0,
+   "new": 9,
+   "updated": 0,
+   "elapsed_ms": 627,
+   "ms_per_1000": 31359
+  },
+  {
+   "source": "arbeitnow",
+   "status": "ok",
+   "discovered": 300,
+   "valid": 25,
+   "duplicate_in_batch": 0,
+   "already_in_feed": 0,
+   "new": 25,
+   "updated": 0,
+   "elapsed_ms": 196,
+   "ms_per_1000": 655
+  }
+ ]
+}

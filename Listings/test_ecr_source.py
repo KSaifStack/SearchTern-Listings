@@ -1,7 +1,7 @@
 """Checks for the Early Career Radar source module."""
-import sys
-import os
 import json
+import os
+import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ecr_source as E

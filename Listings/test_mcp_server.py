@@ -7,14 +7,14 @@ import os
 import subprocess
 import sys
 import tempfile
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SERVER = os.path.join(HERE, "searchtern_mcp.py")
 
 
 def _days_ago(n):
-    return (datetime.now(timezone.utc) - timedelta(days=n)).isoformat()
+    return (datetime.now(UTC) - timedelta(days=n)).isoformat()
 
 
 FIXTURE_DATES = (_days_ago(2), _days_ago(3), _days_ago(4))
@@ -85,7 +85,7 @@ def main():
         }], data_path, 3))
         assert search["count"] == 2, search
         assert search["results"][0]["date"] >= search["results"][1]["date"], "newest first"
-        assert search["results"][0]["salary"] if "salary" in search["results"][0] else True
+        assert search["results"][0].get("salary", True)
 
         by_category = tool_payload(call([{
             "jsonrpc": "2.0", "id": 4, "method": "tools/call",

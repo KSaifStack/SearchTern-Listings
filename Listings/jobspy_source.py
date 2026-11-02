@@ -73,13 +73,13 @@ def fetch_and_parse(infer_country=None):
     frames = []
     stats = []
     for site, term, hours, wanted in _SITE_SEARCHES:
-        kwargs = dict(
-            site_name=[site],
-            search_term=term,
-            results_wanted=wanted,
-            hours_old=hours,
-            verbose=0,
-        )
+        kwargs = {
+            "site_name": [site],
+            "search_term": term,
+            "results_wanted": wanted,
+            "hours_old": hours,
+            "verbose": 0,
+        }
         if site == "indeed":
             kwargs["country_indeed"] = "USA"
         if site == "google":

@@ -2,7 +2,7 @@ name: Update listings (heavy)
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '30 */2 * * *'
   workflow_dispatch:
 
 permissions:

@@ -3,10 +3,10 @@ import html
 import io
 import json
 import re
-from datetime import datetime, timedelta, timezone
+from datetime import UTC, datetime, timedelta
 
 import pandas as pd
-
+from dedup import dedupe
 from readme_utils import http_get
 
 
@@ -392,10 +392,10 @@ def _parse_relative_age(text):
         return None
     n = int(m.group(1))
     unit = m.group(2).lower()
-    now = datetime.now(timezone.utc)
-    if unit.startswith("mo") or unit.startswith("month"):
+    now = datetime.now(UTC)
+    if unit.startswith(("mo", "month")):
         delta = timedelta(days=30 * n)
-    elif unit.startswith("w") or unit.startswith("week"):
+    elif unit.startswith(("w", "week")):
         delta = timedelta(weeks=n)
     elif unit.startswith("y"):
         delta = timedelta(days=365 * n)
@@ -413,7 +413,7 @@ def _parse_date(text):
     if not t or t.lower() in ("-", "—", "n/a", "na", "asap", "unknown"):
         return ""
     if t.lower() == "today":
-        return datetime.now(timezone.utc).strftime("%Y-%m-%dT00:00:00Z")
+        return datetime.now(UTC).strftime("%Y-%m-%dT00:00:00Z")
     m = re.match(r"(\d{4})-(\d{2})-(\d{2})", t)
     if m:
         return f"{m.group(1)}-{m.group(2)}-{m.group(3)}T00:00:00Z"
@@ -654,12 +654,12 @@ def fetch_source(source):
     return records, source
 
 
-def fetch_and_parse(infer_country=None):
+def fetch_and_parse(infer_country=None, workers=None):
     infer_country = infer_country or _infer_country
     stats = []
 
     print("Fetching markdown sources...")
-    with concurrent.futures.ThreadPoolExecutor(max_workers=6) as ex:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers or 6) as ex:
         futs = [ex.submit(fetch_source, s) for s in MARKDOWN_SOURCES]
         fetched = [fut.result() for fut in concurrent.futures.as_completed(futs)]
 
@@ -691,5 +691,5 @@ def fetch_and_parse(infer_country=None):
     if df.empty:
         return df, stats
 
-    df = df.drop_duplicates(subset=["company", "role", "location"], keep="first")
+    df = dedupe(df)
     return df, stats

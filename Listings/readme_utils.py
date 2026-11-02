@@ -3,12 +3,18 @@ import random
 import re
 import time
 import urllib.parse
-from datetime import datetime, timezone
+from datetime import UTC, datetime
+from email.utils import parsedate_to_datetime
 
 import requests
+from requests.adapters import HTTPAdapter
 
 GITHUB_FILE_SIZE_LIMIT = 450_000
 SIZE_BUFFER = 8_000
+
+SESSION = requests.Session()
+SESSION.mount("https://", HTTPAdapter(pool_connections=32, pool_maxsize=32))
+SESSION.mount("http://", HTTPAdapter(pool_connections=32, pool_maxsize=32))
 
 
 def http_get(url, timeout=30, retries=3, headers=None, stream=False):
@@ -18,7 +24,7 @@ def http_get(url, timeout=30, retries=3, headers=None, stream=False):
     """
     for attempt in range(retries):
         try:
-            resp = requests.get(url, timeout=timeout, headers=headers, stream=stream)
+            resp = SESSION.get(url, timeout=timeout, headers=headers, stream=stream)
         except requests.RequestException as e:
             print(f"  Request error {url}: {e}")
             if attempt + 1 < retries:
@@ -26,23 +32,34 @@ def http_get(url, timeout=30, retries=3, headers=None, stream=False):
             continue
         if resp.status_code == 200:
             return resp
-        if resp.status_code in (429, 403, 503):
+        if resp.status_code in (429, 503):
             wait = min(60, (2 ** attempt) + random.uniform(0, 1))
             retry_after = resp.headers.get("Retry-After", "")
-            if retry_after.isdigit():
-                if float(retry_after) > 60:
-                    print(
-                        f"  HTTP {resp.status_code} {url}: Retry-After {retry_after}s too long, giving up"
-                    )
-                    return resp
-                wait = max(wait, float(retry_after))
+            try:
+                delay = float(retry_after)
+            except (ValueError, TypeError):
+                try:
+                    retry_date = parsedate_to_datetime(retry_after)
+                    delay = (retry_date - datetime.now(UTC)).total_seconds()
+                except (ValueError, TypeError, OverflowError):
+                    delay = 0
+            if delay > 60:
+                print(f"  HTTP {resp.status_code} {url}: Retry-After too long, giving up")
+                return resp
+            wait = max(wait, delay)
             print(f"  HTTP {resp.status_code} {url}: backing off {wait:.0f}s")
+            resp.close()
             if attempt + 1 < retries:
                 time.sleep(wait)
             continue
         print(f"  HTTP {resp.status_code} for {url}")
         return resp
     return None
+
+
+def http_post(url, payload=None, timeout=15, headers=None):
+    return SESSION.post(url, json=payload, timeout=timeout, headers=headers)
+
 
 INACTIVE_THRESHOLD_DAYS = 60
 
@@ -230,16 +247,22 @@ def is_careers_portal_url(company: str) -> bool:
 
 
 def canonical_url(u):
-    """Host+path key for cross-source dedup (drops query/fragment/trailing slash)."""
+    """Stable posting URL, preserving query parameters that may identify a job."""
     try:
         p = urllib.parse.urlsplit(str(u).strip())
         if p.scheme not in ("http", "https") or not p.netloc:
             return ""
-        host = p.netloc.lower()
-        if host.startswith("www."):
-            host = host[4:]
-        return host + p.path.rstrip("/")
-    except Exception:
+        host = p.netloc.lower().removeprefix("www.")
+        path = p.path.rstrip("/")
+        if host == "apply.workable.com":
+            path = re.sub(r"/apply$", "", path, flags=re.IGNORECASE)
+        if re.search(r"\.wd\d+\.myworkdayjobs\.com$", host):
+            path = re.sub(r"^/[a-z]{2}-[a-z]{2}(?=/)", "", path, flags=re.IGNORECASE).lower()
+        query = sorted((key, value) for key, value in urllib.parse.parse_qsl(p.query, keep_blank_values=True)
+                       if not key.lower().startswith("utm_") and key.lower() not in {"ref", "source", "in_iframe"})
+        suffix = urllib.parse.urlencode(query)
+        return host + path + ("?" + suffix if suffix else "")
+    except (ValueError, TypeError):
         return ""
 
 
@@ -401,8 +424,8 @@ def days_display(date_str) -> str:
     try:
         posted = datetime.fromisoformat(str(date_str).replace("Z", "+00:00"))
         if posted.tzinfo is None:
-            posted = posted.replace(tzinfo=timezone.utc)
-        days = max((datetime.now(timezone.utc) - posted).days, 0)
+            posted = posted.replace(tzinfo=UTC)
+        days = max((datetime.now(UTC) - posted).days, 0)
         if days == 0:
             return "Today"
         if days > 30:
@@ -477,10 +500,7 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str, lin
     else:
         base = f"<strong>{escaped}</strong>"
 
-    if company == prev_company and age == prev_age:
-        cell = f"↳ {base}"
-    else:
-        cell = base
+    cell = f"↳ {base}" if company == prev_company and age == prev_age else base
 
     if link:
         safe_link = html.escape(link, quote=True)

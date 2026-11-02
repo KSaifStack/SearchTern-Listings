@@ -10,6 +10,7 @@ Two federal-ish sources, both cached so an unreachable source never blocks a run
 otherwise. "" means *no signal*, not a denial: large sponsors file under legal
 entity names that may not match the feed's brand name.
 """
+import contextlib
 import csv
 import io
 import json
@@ -20,7 +21,6 @@ from statistics import median
 from urllib.parse import quote_plus
 
 import pandas as pd
-
 from readme_utils import http_get
 
 YEARS = (2021, 2022, 2023)
@@ -82,10 +82,8 @@ def _save_cache(approvals, path=CACHE_PATH):
             f, indent=1, sort_keys=True,
         )
     os.replace(tmp, path)
-    try:
+    with contextlib.suppress(OSError):
         os.chmod(path, 0o600)
-    except OSError:
-        pass
 
 
 def _parse_year(year):
@@ -315,7 +313,7 @@ def add_role_columns(dataframe, roles):
     matched_titles = []
     matched_counts = []
     matched_pay = []
-    for name, role in zip(companies, role_list):
+    for name, role in zip(companies, role_list, strict=False):
         entry = roles.get(name) or {}
         hit = match_title(role, entry.get("titles")) if entry.get("titles") else None
         matched_titles.append(hit["title"] if hit else "")

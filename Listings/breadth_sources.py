@@ -1,10 +1,10 @@
 import html
 import re
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from urllib.parse import urlencode
 
 import pandas as pd
-
 from readme_utils import http_get
 
 STD_COLS = [
@@ -240,16 +240,24 @@ _FEEDS = [
 ]
 
 
-def fetch_and_parse(infer_country=None):
+def fetch_and_parse(infer_country=None, workers=1):
     rows = []
     stats = []
-    for name, fetch in _FEEDS:
+
+    def _run(item):
+        name, fetch = item
         try:
             got = fetch()
         except Exception as e:
             print(f"  x {name}: {e}")
             got = []
         print(f"  {name}: {len(got):,} rows")
+        return name, got
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        results = list(ex.map(_run, _FEEDS))
+
+    for name, got in results:
         stats.append((name, len(got)))
         rows.extend(got)
 

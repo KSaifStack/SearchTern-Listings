@@ -18,7 +18,8 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 
 def fix_listings_json():
     path = os.path.join(ROOT, "pages", "listings.json")
-    records = json.load(open(path, encoding="utf-8"))
+    with open(path, encoding="utf-8") as fh:
+        records = json.load(fh)
 
     out, seen = [], set()
     for rec in records:
@@ -36,7 +37,8 @@ def fix_listings_json():
         rec["company"] = company
         out.append(rec)
 
-    json.dump(out, open(path, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(out, fh, indent=2, ensure_ascii=False)
     print(f"listings.json: {len(records)} -> {len(out)} records")
 
 
@@ -61,7 +63,8 @@ def fix_readme():
     )
     dropped_total = 0
     for path in files:
-        content = open(path, encoding="utf-8").read()
+        with open(path, encoding="utf-8") as fh:
+            content = fh.read()
         rows = _ROW_RE.findall(content)
         if not rows:
             continue
@@ -75,8 +78,9 @@ def fix_readme():
                 fixed_map[row] = fixed
                 changed |= fixed != row
         if changed or dropped:
-            content = _ROW_RE.sub(lambda m: fixed_map[m.group(0)], content)
-            open(path, "w", encoding="utf-8").write(content)
+            content = _ROW_RE.sub(lambda m, fm=fixed_map: fm[m.group(0)], content)
+            with open(path, "w", encoding="utf-8") as fh:
+                fh.write(content)
         dropped_total += dropped
         print(f"{os.path.relpath(path, ROOT)}: dropped {dropped} rows")
     print(f"README: {dropped_total} aggregator/bad-link rows removed")

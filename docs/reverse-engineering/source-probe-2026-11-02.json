@@ -1,0 +1,53 @@
+{
+  "projection": "searchtern-source-probe/v1",
+  "captured_at": "2026-11-02",
+  "method": "one unauthenticated GET per URL from a single host, 12-15s timeout, custom User-Agent; no credentials, no challenge solving, no bulk collection, no production artifacts written",
+  "notes": [
+    "A 4xx here describes this fetcher, not an authorized integration.",
+    "Bytes are capped at the read limit (120000/200000) and are not full payload sizes.",
+    "No response bodies beyond a short sanitized head were retained."
+  ],
+  "probes": [
+    {"target": "boardsweep", "url": "https://boardsweep.com/", "status": 200, "content_type": "text/html", "bytes": 9606, "ms": 790, "note": "states it is not a job board; scores CVs against LinkedIn/Indeed ads"},
+    {"target": "jobhive-manifest", "url": "https://storage.stapply.ai/jobhive/v1/manifest.json", "status": 200, "content_type": "application/json", "bytes": 40563, "ms": 275, "note": "already the primary source"},
+    {"target": "stapply-data", "url": "https://data.stapply.ai/", "status": 200, "content_type": "text/html", "bytes": 4504, "ms": 141},
+    {"target": "simplify-jobs", "url": "https://simplify.jobs/jobs", "status": 200, "content_type": "text/html", "bytes": 144099, "ms": 160, "note": "public search UI; GitHub lists already ingested"},
+    {"target": "echojobs-sitemap", "url": "https://echojobs.io/sitemap-jobs/1.xml", "status": 429, "ms": 139, "note": "already integrated; rate limited today"},
+    {"target": "jobsekr", "url": "https://jobsekr.com/", "status": "DNS_ERROR", "ms": 32, "note": "NXDOMAIN, also for www host"},
+    {"target": "wellfound-jobs", "url": "https://wellfound.com/jobs", "status": 200, "content_type": "text/html", "bytes": 200000, "ms": 157, "note": "Turnstile challenge present"},
+    {"target": "wellfound-robots", "url": "https://wellfound.com/robots.txt", "status": 200, "content_type": "text/html", "bytes": 964, "ms": 160, "note": "disallows /_jobs/"},
+    {"target": "yc-jobs", "url": "https://www.ycombinator.com/jobs", "status": 200, "content_type": "text/html", "bytes": 200000, "ms": 406},
+    {"target": "workatastartup", "url": "https://www.workatastartup.com/jobs", "status": 406, "ms": 405, "note": "login/API gated"},
+    {"target": "headcountlabs-sample", "url": "https://headcountlabs.com/sample-records.json", "status": 200, "content_type": "application/json", "bytes": 11415, "ms": 439},
+    {"target": "headcountlabs-docs", "url": "https://headcountlabs.com/docs/", "status": 200, "content_type": "text/html", "bytes": 40342, "ms": 180},
+    {"target": "jobdataapi-jobs-anon", "url": "https://jobdataapi.com/api/jobs/?title=intern", "status": 200, "content_type": "application/json", "bytes": 153311, "ms": 1177, "note": "count=131617"},
+    {"target": "jobdataapi-jobs-anon-2", "url": "https://jobdataapi.com/api/jobs/?title=software%20engineer%20intern&page_size=2", "status": 403, "ms": 354, "note": "anonymous limit reached"},
+    {"target": "usajobs", "url": "https://data.usajobs.gov/api/search?Keyword=intern", "status": 401, "content_type": "application/problem+json"},
+    {"target": "adzuna", "url": "https://api.adzuna.com/v1/api/jobs/us/search/1?results_per_page=1&what=intern", "status": 400, "note": "requires app_id/app_key"},
+    {"target": "jooble", "url": "https://jooble.org/api/", "status": 403, "note": "requires key"},
+    {"target": "careerjet", "url": "https://public.api.careerjet.net/search?keywords=intern", "status": "URL_ERROR", "ms": 826},
+    {"target": "hiring.cafe", "url": "https://hiring.cafe/api/search-jobs", "status": 403, "ms": 191},
+    {"target": "jobright", "url": "https://jobright.ai/api/v1/job/search?keyword=software%20engineer%20intern", "status": 404, "ms": 257, "note": "guessed endpoint, unverified"},
+    {"target": "getro-collection", "url": "https://api.getro.com/api/v2/collections/1/jobs", "status": 406, "ms": 208, "note": "401 with Accept: application/json; needs per-board token"},
+    {"target": "bamboohr-guessed-tenant", "url": "https://api.bamboohr.com/api/gateway.php/benchling/v1/careers/list", "status": 404, "ms": 214, "note": "tenant discovery required"},
+    {"target": "jazzhr-board-page", "url": "https://app.jazz.co/apply", "status": 200, "content_type": "text/html", "bytes": 47193, "ms": 850},
+    {"target": "jazzhr-guessed-api", "url": "https://app.jazz.co/api/v1/board/demo", "status": 200, "content_type": "text/html", "bytes": 2684, "ms": 120, "note": "HTML, not a JSON API"},
+    {"target": "jobvite-careers", "url": "https://jobs.jobvite.com/careers/", "status": 200, "content_type": "text/html", "bytes": 60000, "ms": 1875},
+    {"target": "wayup", "url": "https://www.wayup.com/", "status": 200, "content_type": "text/html", "bytes": 197566, "ms": 211},
+    {"target": "ripplematch", "url": "https://ripplematch.com/", "status": 200, "content_type": "text/html", "bytes": 122285, "ms": 719},
+    {"target": "symplicity", "url": "https://www.symplicity.com/", "status": 200, "content_type": "text/html", "bytes": 59229, "ms": 200},
+    {"target": "collegerecruiter", "url": "https://www.collegerecruiter.com/", "status": 200, "content_type": "text/html", "bytes": 26003, "ms": 148},
+    {"target": "arbeitnow", "url": "https://www.arbeitnow.com/api/job-board-api", "status": 200, "content_type": "application/json", "bytes": 200000, "ms": 135, "note": "already integrated"},
+    {"target": "earlycareerradar-robots", "url": "https://earlycareerradar.com/robots.txt", "status": 200, "content_type": "text/plain", "bytes": 187, "note": "Allow /, Disallow /api/, sitemap advertised"},
+    {"target": "runway-robots", "url": "https://app.joinrunway.io/robots.txt", "status": 200, "content_type": "text/plain", "bytes": 667, "note": "Allow /, Disallow /api/ and /explore/job/JOB_POSTING/"}
+  ],
+  "feed_yield_snapshot": {
+    "feed": "pages/searchtern.json",
+    "feed_mtime": "2026-10-29",
+    "rows": 20901,
+    "unique_normalized_links": 20844,
+    "rows_without_link": 0,
+    "cross_source_duplicate_links": 57,
+    "metric_caveat": "sole-source counts are near-total by construction because dedup runs before publication; treat as an upper bound, not net-new employers"
+  }
+}

@@ -11,7 +11,6 @@ import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
 import pandas as pd
-
 import readme_generation
 from readme_utils import clean_company_name, clean_link
 
@@ -85,10 +84,11 @@ def run_link_checks():
 
 
 def run_checks():
+    today = pd.Timestamp.now(tz="UTC").isoformat()
     df = pd.DataFrame([
         {
             "company": "Acme", "role": "Software Engineer Intern",
-            "location": "Austin, TX", "date": "2026-09-01T00:00:00+00:00",
+            "location": "Austin, TX", "date": pd.Timestamp.now(tz="UTC").isoformat(),
             "link": "https://example.com/a", "is_remote": None,
             "salary_min": float("nan"), "salary_max": None,
             "salary_currency": None, "country_iso": "US",
@@ -97,15 +97,15 @@ def run_checks():
         },
         {  # no link -> must be dropped
             "company": "NoLink", "role": "Software Engineer",
-            "location": "Remote", "date": "2026-09-01T00:00:00+00:00",
+            "location": "Remote", "date": pd.Timestamp.now(tz="UTC").isoformat(),
             "link": "", "is_remote": None, "salary_min": float("nan"),
             "salary_max": None, "salary_currency": None, "country_iso": "US",
             "job_type": "new_grad", "employment_type": None,
             "seniority": None, "source": None,
         },
-        {  # duplicate of row 0 after cleaning -> must be dropped
+        {  # distinct posting with the same title and location must survive
             "company": "Acme ", "role": "Software Engineer Intern",
-            "location": "Austin, TX", "date": "2026-09-02T00:00:00+00:00",
+            "location": "Austin, TX", "date": today,
             "link": "https://example.com/dup", "is_remote": None,
             "salary_min": float("nan"), "salary_max": None,
             "salary_currency": None, "country_iso": "",
@@ -117,13 +117,14 @@ def run_checks():
     with tempfile.TemporaryDirectory() as tmp:
         readme_generation.write_listings_json(df, output_dir=tmp)
         path = os.path.join(tmp, "pages", "listings.json")
-        raw = open(path, encoding="utf-8").read()
+        with open(path, encoding="utf-8") as fh:
+            raw = fh.read()
 
         assert "NaN" not in raw, "literal NaN leaked into JSON"
         assert "NaT" not in raw, "literal NaT leaked into JSON"
         records = json.loads(raw)
 
-    assert len(records) == 1, f"expected 1 clean record, got {len(records)}"
+    assert len(records) == 2, f"expected 2 distinct postings, got {len(records)}"
     rec = records[0]
     assert rec["link"] == "https://example.com/a"
     assert rec["company"] == "ACME"
@@ -143,7 +144,7 @@ def run_priority_checks():
     ]):
         rows.append({
             "company": company, "role": role,
-            "location": "Remote", "date": "2026-09-01T00:00:00+00:00",
+            "location": "Remote", "date": pd.Timestamp.now(tz="UTC").isoformat(),
             "link": f"https://example.com/{i}", "is_remote": "true",
             "salary_min": None, "salary_max": None, "salary_currency": None,
             "country_iso": "US", "job_type": "internship",
@@ -155,7 +156,8 @@ def run_priority_checks():
     with tempfile.TemporaryDirectory() as tmp:
         readme_generation.write_priority_json(df, output_dir=tmp)
         path = os.path.join(tmp, "pages", "priority.json")
-        records = json.loads(open(path, encoding="utf-8").read())
+        with open(path, encoding="utf-8") as fh:
+            records = json.loads(fh.read())
 
     assert len(records) == 3, f"expected 3 records, got {len(records)}"
     assert all("observed_at" not in r for r in records), "observed_at must be stripped"

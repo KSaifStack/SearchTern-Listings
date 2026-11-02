@@ -3,7 +3,7 @@ import html
 import json
 import math
 import os
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 from email.utils import format_datetime
 
 from classify import role_category
@@ -17,6 +17,7 @@ from readme_utils import (
     NORMALIZED_BLOCKED_COMPANIES,
     SIZE_BUFFER,
     build_table,
+    canonical_url,
     clean_company_name,
     clean_link,
     clean_location,
@@ -28,7 +29,6 @@ from readme_utils import (
     truncate,
     visa_cell,
 )
-
 
 
 def _json_safe(value):
@@ -72,8 +72,8 @@ def _build_json_records(dataframe):
         try:
             posted = datetime.fromisoformat(date.replace("Z", "+00:00"))
             if posted.tzinfo is None:
-                posted = posted.replace(tzinfo=timezone.utc)
-            if (datetime.now(timezone.utc) - posted).days > INACTIVE_THRESHOLD_DAYS:
+                posted = posted.replace(tzinfo=UTC)
+            if (datetime.now(UTC) - posted).days > INACTIVE_THRESHOLD_DAYS:
                 continue
         except Exception:
             pass
@@ -88,11 +88,9 @@ def _build_json_records(dataframe):
         record["role"] = role
         record["category"] = role_category(role)
         record["location"] = clean_location(record.get("location", ""))
-        if not (record.get("country_iso") or "").strip():
-            record["country_iso"] = "US"
         record = {k: _json_safe(v) for k, v in record.items()}
 
-        key = (record["company"], record["role"], record["location"])
+        key = canonical_url(link)
         if key in seen:
             continue
         seen.add(key)
@@ -127,7 +125,7 @@ def write_listings_json(dataframe, output_dir=".", mirror_dataframe=None):
 
     print(f"Wrote {mirrored_path} — {len(mirror_records):,} listings")
 
-    
+
 
 def write_priority_json(dataframe, output_dir="."):
     """Write the small, high-frequency "fast lane" feed.
@@ -166,10 +164,10 @@ def _feed_time(record):
     try:
         value = datetime.fromisoformat(str(record.get("date", "")).replace("Z", "+00:00"))
         if value.tzinfo is None:
-            value = value.replace(tzinfo=timezone.utc)
+            value = value.replace(tzinfo=UTC)
         return value
     except ValueError:
-        return datetime.now(timezone.utc)
+        return datetime.now(UTC)
 
 
 def write_feed_xml(dataframe, output_dir=".", limit=200):
@@ -214,7 +212,7 @@ def write_feed_xml(dataframe, output_dir=".", limit=200):
         "    <description>Fresh software engineering internships and entry-level roles, "
         "posting by posting.</description>\n"
         "    <language>en-us</language>\n"
-        f"    <lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>\n"
+        f"    <lastBuildDate>{format_datetime(datetime.now(UTC))}</lastBuildDate>\n"
         '    <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>\n'
         + "\n".join(items) + ("\n" if items else "")
         + "  </channel>\n"
@@ -276,8 +274,8 @@ def generate_readme(dataframe, output_dir="."):
         try:
             posted = datetime.fromisoformat(date.replace("Z", "+00:00"))
             if posted.tzinfo is None:
-                posted = posted.replace(tzinfo=timezone.utc)
-            if (datetime.now(timezone.utc) - posted).days > INACTIVE_THRESHOLD_DAYS:
+                posted = posted.replace(tzinfo=UTC)
+            if (datetime.now(UTC) - posted).days > INACTIVE_THRESHOLD_DAYS:
                 skipped_inactive += 1
                 continue
         except Exception:

@@ -1,9 +1,9 @@
+import contextlib
 import json
 import re
 import time
 
 import pandas as pd
-
 from readme_utils import http_get
 
 # SkillExchangeXYZ job board. Jobs are rendered server-side into Next.js flight
@@ -63,10 +63,8 @@ def _extract_jobs(html):
             j += 1
         if j >= len(text):
             break
-        try:
+        with contextlib.suppress(json.JSONDecodeError):
             jobs.append(json.loads(text[i:j + 1]))
-        except json.JSONDecodeError:
-            pass
         start = j + 1
     return jobs
 
@@ -88,10 +86,7 @@ def _normalize(jobs, infer_country):
             continue
         locations = [loc for loc in (job.get("locations") or []) if loc and loc.lower() != "anywhere"]
         work_mode = (job.get("workMode") or "").strip()
-        if locations:
-            loc = ", ".join(locations)
-        else:
-            loc = work_mode or "Remote"
+        loc = ", ".join(locations) if locations else work_mode or "Remote"
         min_sal = job.get("minSalary") or 0
         max_sal = job.get("maxSalary") or 0
         rows.append({

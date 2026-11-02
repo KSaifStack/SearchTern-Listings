@@ -10,6 +10,7 @@ import json
 import os
 import re
 import time
+from urllib.parse import urlsplit
 
 _CACHE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "cache")
 _STATE_PATH = os.path.join(_CACHE_DIR, "discovered_boards.json")
@@ -21,7 +22,7 @@ PROBEABLE = {
     "Personio",
 }
 
-MAX_DISCOVERED = 2000
+MAX_DISCOVERED = 4000
 
 _GREENHOUSE_HOSTS = {
     "job-boards.greenhouse.io",
@@ -57,11 +58,14 @@ def parse_link(link):
     """
     if not isinstance(link, str):
         return None
-    m = re.match(r"^https?://([^/]+)(/.*)?$", link.strip())
-    if not m:
+    try:
+        parsed = urlsplit(link.strip())
+        if parsed.scheme not in ("http", "https") or not parsed.hostname:
+            return None
+        host = parsed.hostname.lower()
+        parts = _segments(parsed.path)
+    except ValueError:
         return None
-    host = m.group(1).lower()
-    parts = _segments(m.group(2) or "")
 
     if host in _GREENHOUSE_HOSTS:
         if parts and parts[0] not in _NON_SLUG:
@@ -142,7 +146,7 @@ def update_state(rows, now=None):
     now = time.time() if now is None else now
 
     found = {}
-    for company, link in zip(rows.get("company", []), rows.get("link", [])):
+    for company, link in zip(rows.get("company", []), rows.get("link", []), strict=False):
         parsed = parse_link(link)
         if parsed and parsed[0] in PROBEABLE:
             name = str(company).strip() if company is not None else ""

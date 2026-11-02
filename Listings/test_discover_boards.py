@@ -24,6 +24,8 @@ PARSE_CASES = [
     ("https://job-boards.greenhouse.io/stripe/jobs/123", ("Greenhouse", "stripe")),
     ("https://boards.greenhouse.io/databricks/jobs/1", ("Greenhouse", "databricks")),
     ("https://boards.greenhouse.io/stripe", ("Greenhouse", "stripe")),
+    ("https://boards.greenhouse.io/stripe?ref=career", ("Greenhouse", "stripe")),
+    ("https://jobs.ashbyhq.com/openai?utm_source=feed", ("Ashby", "openai")),
     ("https://job-boards.greenhouse.io/embed/job_app?for=x", None),
     ("https://jobs.lever.co/palantir/abc-123/apply", ("Lever", "palantir")),
     ("https://jobs.ashbyhq.com/openai/xyz/application", ("Ashby", "openai")),

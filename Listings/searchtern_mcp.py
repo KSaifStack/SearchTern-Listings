@@ -16,7 +16,7 @@ import os
 import sys
 import urllib.request
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 PROTOCOL_VERSION = "2024-11-05"
 SERVER_NAME = "searchtern"
@@ -107,9 +107,9 @@ def _data():
 def _posted(record):
     try:
         value = datetime.fromisoformat(str(record.get("date", "")).replace("Z", "+00:00"))
-        return value if value.tzinfo else value.replace(tzinfo=timezone.utc)
+        return value if value.tzinfo else value.replace(tzinfo=UTC)
     except ValueError:
-        return datetime.min.replace(tzinfo=timezone.utc)
+        return datetime.min.replace(tzinfo=UTC)
 
 
 def _salary(record):
@@ -177,7 +177,7 @@ def _search_jobs(args):
 
 def _recent_jobs(args):
     days = _clamp(args.get("days"), 7, 0, 90)
-    cutoff = datetime.now(timezone.utc).timestamp() - days * 86400
+    cutoff = datetime.now(UTC).timestamp() - days * 86400
     rows = [r for r in _data() if _posted(r).timestamp() >= cutoff]
     rows.sort(key=_posted, reverse=True)
     limit = _clamp(args.get("limit"), 25, 1, 100)

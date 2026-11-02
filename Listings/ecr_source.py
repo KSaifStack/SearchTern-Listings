@@ -25,13 +25,9 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import json
-import os
 import re
-import sys
-import time
 
 import pandas as pd
-
 import sitemap_sources as S
 
 SITE = "https://earlycareerradar.com"
@@ -103,7 +99,7 @@ FOREIGN_CITIES = {
     "budapest", "bucharest", "athens", "istanbul", "ankara", "toronto",
     "vancouver", "montreal", "waterloo", "calgary", "ottawa", "bangalore",
     "bengaluru", "mumbai", "hyderabad", "chennai", "pune", "delhi", "gurgaon",
-    "noida", "hyderabad", "shanghai", "beijing", "shenzhen", "guangzhou",
+    "noida", "shanghai", "beijing", "shenzhen", "guangzhou",
     "seoul", "tokyo", "osaka", "kyoto", "taipei", "singapore", "hong kong",
     "sydney", "melbourne", "brisbane", "auckland", "wellington", "cape town",
     "johannesburg", "lagos", "tel aviv", "haifa", "costa rica", "san jose costa rica",

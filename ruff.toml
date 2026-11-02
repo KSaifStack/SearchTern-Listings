@@ -1,0 +1,12 @@
+# Lint gate for the listing generators.
+#
+# Deliberately not "select everything": the scrapers swallow per-source
+# failures on purpose (BLE001 / S110 / S112), and that is a design choice,
+# not a bug. What stays on is the set that catches real mistakes.
+target-version = "py311"
+
+[lint]
+select = ["B", "C4", "E", "F", "I", "PIE", "SIM", "UP", "W"]
+ignore = [
+    "E501",  # long URLs and HTML literals in the source tables
+]

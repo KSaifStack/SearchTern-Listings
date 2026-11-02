@@ -1,5 +1,6 @@
 import argparse
 import concurrent.futures
+import contextlib
 import csv
 import hashlib
 import io
@@ -8,10 +9,12 @@ import os
 import random
 import re
 import sys
-import requests
+import tempfile
 import time as _time
 import xml.etree.ElementTree as ET
+
 import duckdb
+import requests
 
 try:
     sys.stdout.reconfigure(encoding="utf-8")
@@ -19,25 +22,35 @@ try:
 except Exception:
     pass
 
-import echojobs
-import discover_boards
+from html import unescape
+from html.parser import HTMLParser
+
 import breadth_sources
+import classify
+import closure
+import discover_boards
+import echojobs
+import ecr_source
 import h1b_enrich
+import ingest_stats
 import jobspy_source
 import markdown_sources
 import pandas as pd
 import priority_boards
 import readme_generation
-import skillexchange
-import sitemap_sources
-import ecr_source
 import runway_source
-from html import unescape
-from html.parser import HTMLParser
-from readme_utils import http_get
-
-import classify
-from readme_utils import canonical_url, clean_company_name, clean_location
+import sitemap_sources
+import skillexchange
+from dedup import dedup_across as _dedup_across
+from dedup import dedup_keys as _dedup_keys
+from dedup import dedupe as _dedupe
+from readme_utils import (
+    SESSION,
+    canonical_url,
+    clean_company_name,
+    clean_location,
+    http_get,
+)
 
 TIER_LIGHT = "light"
 TIER_MEDIUM = "medium"
@@ -50,6 +63,10 @@ CACHE_DIR = os.path.join(os.path.dirname(__file__), "cache")
 HASH_FILE = os.path.join(CACHE_DIR, "last_hash.json")
 
 _UA = {"User-Agent": "SearchTern-Listings/1.0 (+https://github.com/KSaifStack/SearchTern-Listings)"}
+
+FREEHIRE_MAX_JOBS = int(os.environ.get("SEARCHTERN_FREEHIRE_MAX_JOBS", "6000"))
+WORKDAY_MAX_JOBS = int(os.environ.get("SEARCHTERN_WORKDAY_MAX_JOBS", "200"))
+SMARTRECRUITERS_MAX_JOBS = int(os.environ.get("SEARCHTERN_SMARTRECRUITERS_MAX_JOBS", "1000"))
 
 
 class _TextExtractor(HTMLParser):
@@ -71,10 +88,8 @@ def _strip_html(value):
         text = re.sub(r"\s+", " ", value).strip()
     else:
         p = _TextExtractor()
-        try:
+        with contextlib.suppress(Exception):
             p.feed(value)
-        except Exception:
-            pass
         text = re.sub(r"\s+", " ", unescape("".join(p._buf))).strip()
     if not text or text.lower() in ("nan", "n/a", "na", "none", "null", "<>"):
         return None
@@ -150,6 +165,12 @@ def parse_args(argv=None):
         default=15,
         help="Max job pages fetched per host under --sitemap (default 15)",
     )
+    parser.add_argument(
+        "--workers",
+        type=int,
+        default=0,
+        help="Concurrent fetch workers (default: SEARCHTERN_WORKERS or 12)",
+    )
     return parser.parse_args(argv)
 
 
@@ -171,7 +192,14 @@ def _load_cached(tier):
 
 def _save_cache(df, tier):
     os.makedirs(CACHE_DIR, exist_ok=True)
-    df.to_parquet(_cache_path(tier), index=False)
+    with tempfile.NamedTemporaryFile(dir=CACHE_DIR, suffix=".parquet", delete=False) as temp:
+        temp_path = temp.name
+    try:
+        df.to_parquet(temp_path, index=False)
+        os.replace(temp_path, _cache_path(tier))
+    finally:
+        if os.path.exists(temp_path):
+            os.unlink(temp_path)
     print(f"  Cached {tier} data: {len(df):,} rows")
     return len(df)
 
@@ -330,6 +358,10 @@ def build_job_query(intern_cond, newgrad_cond, title_exclusions, lookback_days, 
         salary_max,
         salary_currency,
         country_iso,
+        -- Kept only to verify liveness against the boards this run crawled;
+        -- dropped again before any feed is written (see closure.py).
+        ats_type,
+        ats_id,
         description,
         CASE
             WHEN ({intern_cond}){title_exclusions}
@@ -369,7 +401,7 @@ def build_job_query(intern_cond, newgrad_cond, title_exclusions, lookback_days, 
 
 FREEHIRE_INTERN_API = "https://freehire.me/api/v1/jobs/search?employment_type=internship&is_tech=tech"
 FREEHIRE_NEWGRAD_API = "https://freehire.me/api/v1/jobs/search?employment_type=full_time&is_tech=tech&seniority=junior&q=new+grad+OR+entry+level+OR+early+career+OR+campus+OR+rotational"
-FREEHIRE_PAGE_DELAY_SECS = 0.25
+FREEHIRE_PAGE_DELAY_SECS = float(os.environ.get("SEARCHTERN_FREEHIRE_PAGE_DELAY", "0.05"))
 
 # Shared classifiers (word-bounded) live in classify.py — same rules drive the
 # SQL commit/where clauses above and the pandas filters below.
@@ -405,7 +437,8 @@ _LOC_TO_COUNTRY = {
 
 def _load_city_map():
     try:
-        import json, os
+        import json
+        import os
         path = os.path.join(os.path.dirname(__file__), 'city_to_country.json')
         if os.path.exists(path):
             with open(path) as f:
@@ -436,7 +469,8 @@ def _infer_country(location):
     return ''
 
 
-def _fetch_freehire(url):
+def _fetch_freehire(url, workers=None):
+    _t0 = _time.monotonic()
     sep = "&" if "?" in url else "?"
     resp = http_get(f"{url}{sep}limit=1&offset=0")
     if resp is None or resp.status_code != 200:
@@ -455,12 +489,28 @@ def _fetch_freehire(url):
             return []
         return r.json().get("data", [])
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:
-        offsets = list(range(0, min(total, 3000), 100))
+    # Page delay only paces the initial burst; http_get already backs off on
+    # 429s, so a long fixed sleep just serializes the pool. Kept small and
+    # env-overridable (was a fixed 0.25s, ~15s of pure sleep on a full pull).
+    with concurrent.futures.ThreadPoolExecutor(
+        max_workers=min(workers or WORKERS, 16)
+    ) as ex:
+        offsets = list(range(0, min(total, FREEHIRE_MAX_JOBS), 100))
         futs = [ex.submit(_page, o) for o in offsets]
         jobs = []
+        failed = 0
         for fut in concurrent.futures.as_completed(futs):
-            jobs.extend(fut.result())
+            page = fut.result()
+            if page:
+                jobs.extend(page)
+            else:
+                failed += 1
+    if failed:
+        print(f"  freehire {failed}/{len(offsets)} pages failed (kept partial)")
+    ingest_stats.record("freehire-pages", discovered=len(offsets) * 100,
+                        valid=len(jobs), seconds=_time.monotonic() - _t0,
+                        status="degraded" if failed else "ok",
+                        note=url.split("?", 1)[0].rsplit("/", 1)[-1])
     return jobs
 
 
@@ -519,15 +569,6 @@ def _classify_freehire(df):
     df.loc[intern & ~exclude & has_link & has_loc, "job_type"] = "internship"
     df.loc[newgrad & ~exclude & has_link & has_loc, "job_type"] = "new_grad"
     return df[df["job_type"] != "other"].copy()
-
-
-def _dedup_across(df_a, df_b):
-    """Remove rows from df_b that duplicate (company, role, location) in df_a."""
-    if df_a.empty or df_b.empty:
-        return df_b
-    keys_b = df_b[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
-    keys_a = df_a[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
-    return df_b[~keys_b.isin(keys_a)].copy()
 
 
 def _stamp(df, source, now):
@@ -601,6 +642,7 @@ print(f"  Manifest hash: {MANIFEST_HASH} — {len(parquet_urls)} ATS sources")
 
 now = pd.Timestamp.now('UTC')
 ARGS = parse_args()
+WORKERS = ARGS.workers or int(os.environ.get("SEARCHTERN_WORKERS", "12"))
 RUN_TIERS = ALL_TIERS if ARGS.tier == TIER_ALL else [ARGS.tier]
 print(f"Running tier(s): {', '.join(RUN_TIERS)}")
 
@@ -614,6 +656,8 @@ readme_query = build_job_query(
 )
 readme_result = duckdb.execute(readme_query, [parquet_urls]).df()
 readme_result = readme_result[readme_result["job_type"] != "other"]
+ingest_stats.record("jobhive", valid=len(readme_result),
+                    note="60d README window / 90d listings window, age is its only liveness signal")
 
 # --- Listings.json pipeline (current generate_listings.py filters) ---
 # Broader patterns, 90-day lookback, tech keyword filter, no country exclusions
@@ -696,7 +740,10 @@ if ARGS.sitemap and TIER_LIGHT in RUN_TIERS:
         )
         if sm_failed:
             print(f"  Sitemap hosts that errored: {len(sm_failed)}")
-    _save_cache(sitemap_df, "sitemap")
+    if sitemap_df.empty and sm_failed:
+        sitemap_df = _load_cached("sitemap")
+    else:
+        _save_cache(sitemap_df, "sitemap")
 else:
     sitemap_df = _load_cached("sitemap")
     if ARGS.sitemap:
@@ -748,7 +795,11 @@ if ARGS.ecr or TIER_MEDIUM in RUN_TIERS:
         ecr_df = ecr_df[ecr_df["date"].astype(str).str.strip() != ""]
         ecr_df = _stamp(ecr_df, "ecr", now)
         print(f"  ECR rows: {len(ecr_df):,}")
-    _save_cache(ecr_df, "ecr")
+        ingest_stats.record("ecr", discovered=len(ecr_raw), valid=len(ecr_df))
+    if ecr_df.empty:
+        ecr_df = _load_cached("ecr")
+    else:
+        _save_cache(ecr_df, "ecr")
 else:
     ecr_df = _load_cached("ecr")
     if ARGS.ecr:
@@ -810,7 +861,10 @@ if ARGS.runway and ARGS.tier in (TIER_LIGHT, TIER_ALL):
         runway_df = runway_df[runway_df["date"].astype(str).str.strip() != ""]
         runway_df = _stamp(runway_df, "runway", now)
         print(f"  Runway rows: {len(runway_df):,}")
-    _save_cache(runway_df, "runway")
+    if runway_df.empty:
+        runway_df = _load_cached("runway")
+    else:
+        _save_cache(runway_df, "runway")
 else:
     runway_df = _load_cached("runway")
     if ARGS.runway:
@@ -833,7 +887,7 @@ ATS_ENDPOINTS = {
 
 ATS_CSV_URL = 'https://raw.githubusercontent.com/Kayvan-Zahiri/state-of-ats-2026/main/data/companies.csv'
 ATS_PROBE_STATE_PATH = os.path.join(CACHE_DIR, "ats_probe_state.json")
-ATS_PROBE_COOLDOWN_HOURS = 24
+ATS_PROBE_COOLDOWN_HOURS = float(os.environ.get("SEARCHTERN_ATS_COOLDOWN_HOURS", "12"))
 
 # Boards jobhive doesn't scrape; verified by hand.
 # Workday slug is the CXS base path: {host}/wday/cxs/{tenant}/{site}
@@ -851,11 +905,11 @@ _WD_HOST_RE = re.compile(r'^([^.]+)\.wd\d+\.myworkdayjobs\.com$')
 
 
 def _discover_workday_sites(host, tenant):
-    # Discovery is a hint, not a contract: fail fast, never back off. A DNS blip
-    # on one host must not stretch a serial 50-host pass into minutes.
+
+
     candidates = []
     try:
-        resp = requests.get(f"https://{host}/robots.txt", headers=_UA, timeout=8)
+        resp = SESSION.get(f"https://{host}/robots.txt", headers=_UA, timeout=8)
         if resp.status_code == 200:
             for line in resp.text.splitlines():
                 m = re.match(r'\s*Disallow:\s*/([A-Za-z0-9_.-]+)/', line)
@@ -869,7 +923,7 @@ def _discover_workday_sites(host, tenant):
         if not site:
             continue
         try:
-            resp = requests.post(
+            resp = SESSION.post(
                 f"https://{host}/wday/cxs/{tenant}/{site}/jobs",
                 json={"appliedFacets": {}, "limit": 5, "offset": 0, "searchText": ""},
                 headers={**_UA, "Content-Type": "application/json"},
@@ -927,9 +981,9 @@ def _fetch_company_jobs(company, ats_type, slug):
             host = slug.split('/')[0]
             data = {'jobPostings': []}
             offset = 0
-            while len(data['jobPostings']) < 100:
-                # ponytail: limit=20 (some tenants 400 on larger pages); 100-job cap = max 5 pages
-                resp = requests.post(
+            while len(data['jobPostings']) < WORKDAY_MAX_JOBS:
+
+                resp = SESSION.post(
                     url.format(slug=slug),
                     json={"appliedFacets": {}, "limit": 20, "offset": offset, "searchText": ""},
                     headers={**_UA, "Content-Type": "application/json"},
@@ -954,6 +1008,24 @@ def _fetch_company_jobs(company, ats_type, slug):
                 data = resp.text
             elif ats_type == 'Personio':
                 data = {'xml': resp.text, 'slug': slug}
+            elif ats_type == 'SmartRecruiters':
+                data = resp.json()
+                content = list(data.get('content') or [])
+                total = data.get('totalFound') or len(content)
+                offset = len(content)
+                while content and offset < min(total, SMARTRECRUITERS_MAX_JOBS):
+                    page_resp = http_get(
+                        f"{url.format(slug=slug)}?limit=100&offset={offset}",
+                        timeout=15, retries=2,
+                    )
+                    if page_resp is None or page_resp.status_code != 200:
+                        break
+                    page = page_resp.json().get('content') or []
+                    if not page:
+                        break
+                    content.extend(page)
+                    offset += len(page)
+                data = {**data, 'content': content}
             else:
                 data = resp.json()
         return (company, ats_type, data)
@@ -988,7 +1060,7 @@ def _normalize_ats_jobs(company, ats_type, data):
                 dt = str(pd.Timestamp(ts, unit='ms', tz='UTC'))
             else:
                 dt = ''
-            loc_str = ((cats.get('location') or '')).strip()
+            loc_str = (cats.get('location') or '').strip()
             wtype = j.get('workplaceType')
             if wtype == 'remote':
                 is_remote = 'true'
@@ -1197,8 +1269,9 @@ def _normalize_personio(company, slug, xml_text):
     return rows
 
 
-def _fetch_ats_probe():
+def _fetch_ats_probe(workers=None):
     print("Fetching ATS-probe company list...")
+    _t0 = _time.monotonic()
     resp = http_get(ATS_CSV_URL, retries=2)
     if resp is None or resp.status_code != 200:
         print(
@@ -1208,7 +1281,7 @@ def _fetch_ats_probe():
         return pd.DataFrame()
 
     lines = resp.text.strip().split('\n')
-    data_lines = [l for l in lines if not l.startswith('#')]
+    data_lines = [line for line in lines if not line.startswith('#')]
     reader = csv.DictReader(io.StringIO('\n'.join(data_lines)))
     companies = list(reader)
 
@@ -1260,7 +1333,7 @@ def _fetch_ats_probe():
     cutoff = _time.time() - ATS_PROBE_COOLDOWN_HOURS * 3600
     warm = []
     for name, ats, slug in probe_list:
-        ts = probe_state.get(f"{ats}|{name}")
+        ts = probe_state.get(f"{ats}|{slug}")
         if ts is None or ts <= cutoff:
             warm.append((name, ats, slug))
         else:
@@ -1270,19 +1343,19 @@ def _fetch_ats_probe():
         print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped by cooldown")
 
     all_raw = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as ex:
-        futs = [ex.submit(_fetch_company_jobs, name, ats, slug)
-                for name, ats, slug in warm]
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers or WORKERS) as ex:
+        futs = {ex.submit(_fetch_company_jobs, name, ats, slug): (ats, slug)
+                for name, ats, slug in warm}
         for fut in concurrent.futures.as_completed(futs):
             result = fut.result()
             if result:
                 all_raw.append(result)
+                ats, slug = futs[fut]
+                probe_state[f"{ats}|{slug}"] = _time.time()
 
     print(f"  Fetched {len(all_raw)}/{len(warm)} endpoints successfully")
 
     # Record successes for cooldown.
-    for company, ats_type, _ in all_raw:
-        probe_state[f"{ats_type}|{company}"] = _time.time()
     if "_skipped_this_run" in probe_state:
         del probe_state["_skipped_this_run"]
     os.makedirs(CACHE_DIR, exist_ok=True)
@@ -1293,14 +1366,34 @@ def _fetch_ats_probe():
     for company, ats_type, data in all_raw:
         rows = _normalize_ats_jobs(company, ats_type, data)
         all_rows.extend(rows)
+        # A board that returned rows is a complete snapshot for that employer,
+        # so its ids can verify jobhive liveness (closure.py). Workday has
+        # no URL-tail id: use the CXS requisition ids from the raw postings.
+        if (ats_type or "").strip().lower() == "workday":
+            closure.record_snapshot(
+                ats_type, company,
+                closure.req_ids_from_workday_postings((data or {}).get("jobPostings")),
+            )
+        else:
+            closure.record_snapshot(
+                ats_type, company, closure.ids_from_links(r.get("link") for r in rows)
+            )
 
     print(f"  Total raw jobs: {len(all_rows):,}")
     if not all_rows:
+        ingest_stats.record("ats-probe", status="empty", seconds=_time.monotonic() - _t0,
+                            note="every endpoint failed or returned nothing")
         return pd.DataFrame()
 
     df = pd.DataFrame(all_rows)
     df = _classify_freehire(df)
     print(f"  After classification: {len(df):,}")
+    ingest_stats.record(
+        "ats-probe", discovered=len(all_rows), valid=len(df),
+        seconds=_time.monotonic() - _t0, boards_ok=len(all_raw), boards_tried=len(warm),
+        boards_skipped=len(probe_list) - len(warm),
+        note=f"{len(probe_list)} boards in registry",
+    )
     return df
 
 
@@ -1308,11 +1401,12 @@ def _fetch_ats_probe():
 # A curated set of hot companies (see priority_boards.py) is polled on every
 # run, bypassing the heavy tier's 24h cooldown so their newest postings hit the
 # feed within minutes. The list is intentionally small and verified by hand.
-def _fetch_priority_probe():
+def _fetch_priority_probe(workers=None):
     boards = priority_boards.boards()
+    _t0 = _time.monotonic()
     print(f"Fetching {len(boards)} priority ATS boards (cooldown-exempt)...")
     all_raw = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=12) as ex:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=workers or WORKERS) as ex:
         futs = [ex.submit(_fetch_company_jobs, name, ats, slug)
                 for name, ats, slug in boards]
         for fut in concurrent.futures.as_completed(futs):
@@ -1324,15 +1418,31 @@ def _fetch_priority_probe():
 
     all_rows = []
     for company, ats_type, data in all_raw:
-        all_rows.extend(_normalize_ats_jobs(company, ats_type, data))
+        rows = _normalize_ats_jobs(company, ats_type, data)
+        all_rows.extend(rows)
+        if (ats_type or "").strip().lower() == "workday":
+            closure.record_snapshot(
+                ats_type, company,
+                closure.req_ids_from_workday_postings((data or {}).get("jobPostings")),
+            )
+        else:
+            closure.record_snapshot(
+                ats_type, company, closure.ids_from_links(r.get("link") for r in rows)
+            )
 
     print(f"  Total raw priority jobs: {len(all_rows):,}")
     if not all_rows:
+        ingest_stats.record("priority-probe", status="empty", seconds=_time.monotonic() - _t0,
+                            note="every priority board failed")
         return pd.DataFrame()
 
     df = pd.DataFrame(all_rows)
     df = _classify_freehire(df)
     print(f"  After classification: {len(df):,}")
+    ingest_stats.record(
+        "priority-probe", discovered=len(all_rows), valid=len(df),
+        seconds=_time.monotonic() - _t0, boards_ok=len(all_raw), boards_tried=len(boards),
+    )
     return df
 
 
@@ -1341,13 +1451,17 @@ def _fetch_priority_probe():
 fh_df = pd.DataFrame()
 if TIER_MEDIUM in RUN_TIERS:
     print("Fetching freehire data...")
-    fh_raw = _fetch_freehire(FREEHIRE_INTERN_API)
-    fh_raw += _fetch_freehire(FREEHIRE_NEWGRAD_API)
+    fh_raw = _fetch_freehire(FREEHIRE_INTERN_API, workers=WORKERS)
+    fh_raw += _fetch_freehire(FREEHIRE_NEWGRAD_API, workers=WORKERS)
     fh_df = _normalize_freehire(fh_raw)
     fh_df = _classify_freehire(fh_df)
     fh_df = _stamp(fh_df, "freehire", now)
     print(f"  Freehire raw fetched: {len(fh_raw):,}, classified: {len(fh_df):,}")
-    _save_cache(fh_df, TIER_MEDIUM)
+    ingest_stats.record("freehire", discovered=len(fh_raw), valid=len(fh_df))
+    if fh_df.empty:
+        fh_df = _load_cached(TIER_MEDIUM)
+    else:
+        _save_cache(fh_df, TIER_MEDIUM)
 else:
     fh_df = _load_cached(TIER_MEDIUM)
 print(f"  Freehire working set: {len(fh_df):,} rows")
@@ -1373,13 +1487,9 @@ if not fh_df.empty:
     source_contrib[TIER_MEDIUM] = [len(fh_for_readme), len(fh_for_listings)]
 
     readme_result = pd.concat([readme_result, fh_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, fh_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  Freehire added: {source_contrib[TIER_MEDIUM][0]} to README, {source_contrib[TIER_MEDIUM][1]} to listings")
 
 # ── Breadth feeds (medium tier) ──────────────────────────────────────────────
@@ -1387,11 +1497,19 @@ if not fh_df.empty:
 breadth_df = pd.DataFrame()
 if TIER_MEDIUM in RUN_TIERS:
     print("Fetching breadth feeds...")
-    breadth_df, _ = breadth_sources.fetch_and_parse(infer_country=_infer_country)
+    _breadth_stats = []
+    breadth_df, _breadth_stats = breadth_sources.fetch_and_parse(
+        infer_country=_infer_country, workers=WORKERS
+    )
+    for _name, _rows in _breadth_stats:
+        ingest_stats.record(f"breadth:{_name}", discovered=_rows)
     breadth_df = _classify_freehire(breadth_df)
     breadth_df = _stamp(breadth_df, "breadth", now)
     print(f"  Breadth classified: {len(breadth_df):,}")
-    _save_cache(breadth_df, "breadth")
+    if breadth_df.empty:
+        breadth_df = _load_cached("breadth")
+    else:
+        _save_cache(breadth_df, "breadth")
 else:
     breadth_df = _load_cached("breadth")
 print(f"  Breadth working set: {len(breadth_df):,} rows")
@@ -1412,20 +1530,16 @@ if not breadth_df.empty:
     source_contrib[TIER_MEDIUM][1] += len(b_for_listings)
 
     readme_result = pd.concat([readme_result, b_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, b_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  Breadth added: {len(b_for_readme)} to README, {len(b_for_listings)} to listings")
 
 # ── Direct ATS probing (heavy tier) ──────────────────────────────────────────
 ats_df = pd.DataFrame()
 if TIER_HEAVY in RUN_TIERS:
     print("Fetching ATS probe data...")
-    probe_df = _fetch_ats_probe()
+    probe_df = _fetch_ats_probe(workers=WORKERS)
     if probe_df is None:
         probe_df = pd.DataFrame()
     if not probe_df.empty:
@@ -1461,13 +1575,9 @@ if not ats_df.empty:
     source_contrib[TIER_HEAVY] = [len(ats_for_readme), len(ats_for_listings)]
 
     readme_result = pd.concat([readme_result, ats_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, ats_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  ATS probe added: {source_contrib[TIER_HEAVY][0]} to README, {source_contrib[TIER_HEAVY][1]} to listings")
 
 # ── Direct ATS probing (priority fast lane) ──────────────────────────────────
@@ -1477,7 +1587,7 @@ if not ats_df.empty:
 priority_df = pd.DataFrame()
 if TIER_PRIORITY in RUN_TIERS:
     print("Fetching priority ATS data...")
-    pri_probe_df = _fetch_priority_probe()
+    pri_probe_df = _fetch_priority_probe(workers=WORKERS)
     if pri_probe_df is None:
         pri_probe_df = pd.DataFrame()
     if not pri_probe_df.empty:
@@ -1516,34 +1626,57 @@ if not priority_df.empty:
     # only add genuinely new companies).
     readme_result = _dedup_across(pri_for_readme, readme_result)
     readme_result = pd.concat([readme_result, pri_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = _dedup_across(pri_for_listings, listings_result)
     listings_result = pd.concat([listings_result, pri_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  Priority added: {source_contrib[TIER_PRIORITY][0]} to README, {source_contrib[TIER_PRIORITY][1]} to listings")
+
+# ── Verified closure (jobhive rows a completed board no longer lists) ───────
+# jobhive never removes a closed posting and carries no status field, so age is
+# its only liveness signal (docs/reverse-engineering/jobhive-staleness.md). The
+# boards crawled above know their live ids; a jobhive row whose employer board
+# was re-crawled this run and whose id is gone is closed. Boards that failed or
+# returned nothing recorded no vote, so they can never delete their own rows.
+_cov = closure.covered()
+if _cov["boards"]:
+    _before = len(readme_result) + len(listings_result)
+    readme_result, _rd_dropped, _rd_unver = closure.filter_closed(readme_result)
+    listings_result, _ld_dropped, _ld_unver = closure.filter_closed(listings_result)
+    print(f"  Closure: dropped {_rd_dropped:,} README + {_ld_dropped:,} listings rows "
+          f"against {_cov['boards']} boards / {_cov['live_ids']:,} live ids "
+          f"(unverifiable: {_rd_unver:,} + {_ld_unver:,})")
+    ingest_stats.record("jobhive-closure", discovered=_before,
+                        valid=_before - _rd_dropped - _ld_dropped,
+                        dropped=_rd_dropped + _ld_dropped,
+                        boards_voted=_cov["boards"], live_ids=_cov["live_ids"])
+# The join columns exist only to answer that question — never publish them.
+readme_result = closure.drop_vote_columns(readme_result)
+listings_result = closure.drop_vote_columns(listings_result)
 
 # ── Markdown GitHub sources (light tier, no API calls) ──────────────────────
 md_df = pd.DataFrame()
 md_source_stats = []
 if TIER_LIGHT in RUN_TIERS:
-    md_df, md_source_stats = markdown_sources.fetch_and_parse(infer_country=_infer_country)
+    md_df, md_source_stats = markdown_sources.fetch_and_parse(
+        infer_country=_infer_country, workers=WORKERS
+    )
     if md_df is None:
         md_df = pd.DataFrame()
     if not md_df.empty:
         md_df["observed_at"] = now.isoformat()
         print(f"  Markdown unique rows: {len(md_df):,}")
-    _save_cache(md_df, TIER_LIGHT)
+        for _name, _rows in md_source_stats:
+            ingest_stats.record(f"md:{_name}", discovered=_rows)
+    if md_df.empty:
+        md_df = _load_cached(TIER_LIGHT)
+    else:
+        _save_cache(md_df, TIER_LIGHT)
 else:
     md_df = _load_cached(TIER_LIGHT)
 print(f"  Markdown working set: {len(md_df):,} rows")
 
-pre_md_listings_keys = set(
-    listings_result[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
-)
+pre_md_listings_keys = set(_dedup_keys(listings_result))
 if not md_df.empty:
     md_df = _dedup_across(readme_result, md_df)
     print(f"  After dedup vs existing sources: {len(md_df):,}")
@@ -1560,13 +1693,9 @@ if not md_df.empty:
     source_contrib[TIER_LIGHT] = [len(md_for_readme), len(md_for_listings)]
 
     readme_result = pd.concat([readme_result, md_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, md_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  Markdown added: {source_contrib[TIER_LIGHT][0]} to README, {source_contrib[TIER_LIGHT][1]} to listings")
 
 TECH_KEYWORDS_RE = classify.TECH_KEYWORDS_RE
@@ -1611,13 +1740,9 @@ if not sx_df.empty:
     ].copy()
 
     readme_result = pd.concat([readme_result, sx_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, sx_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  SkillExchange added: {len(sx_for_readme)} to README, {len(sx_for_listings)} to listings")
 
 # ── EchoJobs board (light tier supplement) ───────────────────────────────
@@ -1653,21 +1778,10 @@ def _merge_supplementary(label, frame):
         keep = keep[_to_dt(keep["date"]) >= now - pd.Timedelta(days=60)]
     if "description" not in keep.columns:
         keep["description"] = None
-    keep = keep[
-        keep["country_iso"].isin(["US", ""]) | keep["country_iso"].isna()
-    ]
-    existing = set(
-        listings_result[["company", "role", "location"]]
-        .astype(str)
-        .agg("|".join, axis=1)
-    )
-    net_new = set(
-        keep[["company", "role", "location"]].astype(str).agg("|".join, axis=1)
-    ) - existing
+    existing = set(_dedup_keys(listings_result))
+    net_new = set(_dedup_keys(keep)) - existing
     listings_result = pd.concat([listings_result, keep], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  {label} added: {len(keep):,} rows ({len(net_new):,} net-new) to listings")
 
 
@@ -1690,19 +1804,18 @@ if not ej_df.empty:
     ].copy()
 
     readme_result = pd.concat([readme_result, ej_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, ej_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  EchoJobs added: {len(ej_for_readme)} to README, {len(ej_for_listings)} to listings")
 
 # ── JobSpy boards (indeed/ziprecruiter/google) ────────────────────────────
 js_df = pd.DataFrame()
 if TIER_LIGHT in RUN_TIERS:
-    js_df, _ = jobspy_source.fetch_and_parse(infer_country=_infer_country)
+    _js_df, _js_stats = jobspy_source.fetch_and_parse(infer_country=_infer_country)
+    js_df = _js_df
+    for _site, _rows in _js_stats:
+        ingest_stats.record(_site, discovered=_rows)
     if js_df is None:
         js_df = pd.DataFrame()
     if not js_df.empty:
@@ -1729,24 +1842,23 @@ if not js_df.empty:
     ].copy()
 
     readme_result = pd.concat([readme_result, js_for_readme], ignore_index=True)
-    readme_result = readme_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    readme_result = _dedupe(readme_result)
     listings_result = pd.concat([listings_result, js_for_listings], ignore_index=True)
-    listings_result = listings_result.drop_duplicates(
-        subset=["company", "role", "location"], keep="first"
-    )
+    listings_result = _dedupe(listings_result)
     print(f"  JobSpy added: {len(js_for_readme)} to README, {len(js_for_listings)} to listings")
 
 _us_loc_re = re.compile(r'\b(?:US|USA|U\.S\.A\.|United States|California|Texas|New York|Washington|Seattle|San Francisco|SF|NYC|Austin|Chicago|Boston|Mountain View|Palo Alto|Sunnyvale|Los Angeles|Irvine|San Diego|Santa Clara|Cupertino|Menlo Park|Redmond|Kirkland|Bellevue|Arlington|McLean|Reston|Atlanta|Denver|Portland|Phoenix|Philadelphia|Pittsburgh|Minneapolis|Ann Arbor|Detroit|Miami|Orlando|Tampa|Dallas|Houston|Raleigh|Durham|Charlotte|Nashville|Salt Lake City|St Louis|Kansas City|Columbus|Indianapolis|Milwaukee|Baltimore|Portland)\b', re.IGNORECASE)
 
 def _feed_scope_filter(df):
-    """USA-only + non-empty-location + URL-canonical dedup, shared by the
-    listings.json (CS/tech subset) and searchtern.json (every role type) feeds."""
+    """Keep located US, international, and remote roles; deduplicate by URL."""
     df = df.fillna({"country_iso": ""})
+    remote = df["location"].str.contains(r"\bremote\b", case=False, na=False)
+    if "is_remote" in df.columns:
+        remote = remote | df["is_remote"].astype(str).str.lower().isin(["true", "1"])
     df = df[
-        (df["country_iso"] == "US")
-        | ((df["country_iso"] == "") & df["location"].str.contains(_us_loc_re, na=False))
+        (df["country_iso"] != "")
+        | df["location"].str.contains(_us_loc_re, na=False)
+        | remote
     ]
     df = df[df["location"].notna() & (df["location"] != "")]
     # Cross-source URL-canonical dedup (same posting from two sources collapses).
@@ -1763,8 +1875,8 @@ def _feed_scope_filter(df):
 role_lower = listings_result["role"].str.lower()
 tech_mask = role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
 
-# searchtern.json (the feed the app scrapes) keeps every role type; listings.json
-# is the CS/tech subset. Both share the same USA/location/dedup scope.
+# searchtern.json keeps every role type; listings.json is the CS/tech subset.
+# Both retain located international and remote roles as well as US postings.
 searchtern_result = _feed_scope_filter(listings_result)
 listings_result = _feed_scope_filter(listings_result[tech_mask])
 
@@ -1826,7 +1938,7 @@ buckets_fresh = {
 
 final = listings_result.copy()
 current_by_key = {}
-for idx, row in final.iterrows():
+for _idx, row in final.iterrows():
     key = "|".join([
         _seen_bucket(_row_source(row)),
         clean_company_name(str(row["company"])),
@@ -1880,7 +1992,7 @@ if dead_keys:
     is_new = is_new - dead_keys
 
 obs = now.isoformat()
-for k, row in current_by_key.items():
+for k in current_by_key:
     prior = seen.get(k, {})
     seen[k] = {"first": prior.get("first", obs), "last": obs}
 _save_seen(seen)
@@ -1924,6 +2036,27 @@ run_meta = {
 os.makedirs(os.path.join(root_dir, "pages"), exist_ok=True)
 with open(os.path.join(root_dir, "pages", "run_meta.json"), "w", encoding="utf-8") as f:
     json.dump(run_meta, f, indent=2, ensure_ascii=False)
+
+# Per-source observability: what each adapter was handed, what survived, how
+# long it took and how many of its rows were genuinely new after dedup. The
+# published feed cannot answer that (dedup makes every source look sole-source),
+# so this artifact is the only way to rank a source's value.
+_new_by_source = {}
+for _k in is_new:
+    _src = _row_source(current_by_key[_k])
+    _new_by_source[_src] = _new_by_source.get(_src, 0) + 1
+ingest_stats.merge_digest(_new_by_source, closed=len(closed), dead_links=len(dead_keys))
+ingest_stats.write_json(
+    os.path.join(root_dir, "pages", "source_stats.json"),
+    run_meta={
+        "tier": ARGS.tier,
+        "workers": WORKERS,
+        "tiers_run": RUN_TIERS,
+        "published": {"listings": len(listings_result),
+                      "searchtern": len(searchtern_result)},
+    },
+)
+print(ingest_stats.summary_line())
 
 # Sources manifest — every source the pipeline pulls from, with current row
 # counts. Served to the SearchTern web app for its "Data Sources" panel.
@@ -2111,7 +2244,7 @@ if not md_df.empty:
         )
     ]
 
-    md_keys = set(md_final[["company", "role", "location"]].astype(str).agg("|".join, axis=1))
+    md_keys = set(_dedup_keys(md_final))
     md_new = md_keys - pre_md_listings_keys
     print(f"  Markdown rows surviving full json filter : {len(md_final):,}")
     print(f"  Net-new markdown rows in listings.json   : {len(md_new):,}")

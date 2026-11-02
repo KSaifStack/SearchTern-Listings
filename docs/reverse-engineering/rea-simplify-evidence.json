@@ -1,0 +1,31 @@
+{
+  "tool": "morluto/rea",
+  "version": "6.8.0",
+  "command": "inspect-web-page",
+  "operation": "inspect_web_page",
+  "evidence_id": "ev_061f96555e682e00d2db3b3dbe8445b7e7cf1d5d843d873f5429b341763a2b89",
+  "confidence": "observed",
+  "browser": {
+    "product": "Chrome/156.0.8078.80",
+    "protocol_version": "1.3"
+  },
+  "target_origin": "https://simplify.jobs",
+  "target_path": "/jobs",
+  "query": "software engineer intern",
+  "capture_window": {
+    "started_at": "2026-11-02T14:53:53.383Z",
+    "ended_at": "2026-11-02T14:53:54.280Z",
+    "observation_ms": 500
+  },
+  "completeness": "policy_filtered",
+  "limitations": [
+    "Artifact identity is unavailable for this observation.",
+    "Observation starts when REA attaches; prior network and console activity is unavailable.",
+    "Worker targets are a final inventory snapshot, not worker-session observation. Their attached flag describes any debugging client; this page-session collector does not observe worker network, console, or script events, and short-lived workers may be absent from the snapshot.",
+    "Raw network headers, bodies, cookies, storage values, console objects, and WebSocket payloads are never retained; explicitly requested primitive console text is retained verbatim, while payload captures retain value-free shapes.",
+    "Source maps are reported only as declarative URLs and are not fetched.",
+    "URL-less scripts and console events without an allowed source URL are excluded because their origin cannot be proven.",
+    "CDP discovery omitted the target attachment state; attached is reported as unknown.",
+    "Browser host platform and architecture were not observed."
+  ]
+}

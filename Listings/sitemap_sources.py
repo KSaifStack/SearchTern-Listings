@@ -21,7 +21,6 @@ import urllib.parse
 
 import pandas as pd
 import requests
-
 from protego import Protego
 from readme_utils import http_get
 from requests_cache import CachedSession
@@ -215,7 +214,7 @@ def _blanket_disallow(text: str, agent_token: str = ROBOT_AGENT) -> bool:
     return bool(_BLANKET_DISALLOW_RE.search(_applicable_group(text, agent_token)))
 
 
-def _robots_for(host: str) -> tuple["object | None", bool, bool]:
+def _robots_for(host: str) -> tuple[object | None, bool, bool]:
     """Return (protego parser, unavailable, blanket) for host.
 
     unavailable=True means we could not read a verdict, not that the host has

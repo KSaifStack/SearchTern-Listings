@@ -1,6 +1,6 @@
 import glob
 import os
-from datetime import datetime, timezone
+from datetime import UTC, datetime
 
 from readme_utils import (
     APPLY_BUTTON,
@@ -68,7 +68,7 @@ def generate_country_pages(dataframe, output_dir="."):
 
         name = COUNTRY_NAMES[code]
         count = len(group)
-        today = datetime.now(timezone.utc).strftime("%B %d, %Y")
+        today = datetime.now(UTC).strftime("%B %d, %Y")
 
         rows_html = []
         prev_company = None
@@ -145,7 +145,7 @@ def build_nav(current_page: int, total_pages: int) -> str:
 
 
 def build_header(current_page: int, total_pages: int, total_rows: int, dataframe=None) -> str:
-    today = datetime.now(timezone.utc).strftime("%B %d, %Y")
+    today = datetime.now(UTC).strftime("%B %d, %Y")
     nav = build_nav(current_page, total_pages)
 
     if current_page == 1:

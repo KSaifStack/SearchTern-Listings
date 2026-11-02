@@ -17,13 +17,9 @@ from __future__ import annotations
 import argparse
 import concurrent.futures
 import json
-import os
 import re
-import sys
-import time
 
 import pandas as pd
-
 import sitemap_sources as S
 
 HOST = "app.joinrunway.io"
@@ -156,7 +152,7 @@ def harvest(urls: list[str], limit: int | None = None, workers: int = MAX_WORKER
     rows: list[dict] = []
     done = 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as ex:
-        for row, why in ex.map(one, targets):
+        for row, _why in ex.map(one, targets):
             done += 1
             if row is not None:
                 rows.append(row)

@@ -1,9 +1,8 @@
 """Offline self-checks for the H-1B role-level pipeline (no network)."""
 import sys
 
-import pandas as pd
-
 import h1b_enrich as H
+import pandas as pd
 from readme_utils import visa_cell
 
 SAMPLE = (
