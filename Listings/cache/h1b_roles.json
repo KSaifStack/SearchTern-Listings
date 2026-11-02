@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-02T18:10:19Z",
+ "built_at": "2026-11-02T18:15:11Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -23042,6 +23042,97 @@
      "count": 1,
      "median_salary": 210000,
      "title": "DIRECTOR, ENTERPRISE SYSTEMS"
+    }
+   ]
+  },
+  "sonos": {
+   "fetched_at": "2026-11-02T18:15:10Z",
+   "label": "Sonos",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 170227,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 147846,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 96000,
+     "title": "COMPLIANCE EVALUATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 198390,
+     "title": "SENIOR MANAGER, AI &AMP; DEVELOPER ENABLEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 106486,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140962,
+     "title": "ACOUSTICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 112736,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 186360,
+     "title": "MANAGER, DATA ANALYTICS &AMP; ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 186360,
+     "title": "MANAGER, DATA PLATFORM ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 124000,
+     "title": "MANAGER, PRODUCT DEV &AMP; OPERATIONS INTEGRATED DATA SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 117957,
+     "title": "PRINCIPAL SAP DATA ARCHITECT AND ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 114855,
+     "title": "SENIOR ANALYST, EDI"
+    },
+    {
+     "count": 1,
+     "median_salary": 153878,
+     "title": "SENIOR ANTENNA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 152000,
+     "title": "SENIOR DEVOPS DATABASE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87380,
+     "title": "SENIOR FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 134000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114989,
+     "title": "SOFTWARE ENGINEER"
     }
    ]
   },
