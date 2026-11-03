@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-03T17:29:30Z",
+ "built_at": "2026-11-03T18:17:56Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4548,6 +4548,22 @@
    "label": "bgeinccampus",
    "titles": []
   },
+  "bimbo bakeries usa": {
+   "fetched_at": "2026-11-03T18:17:47Z",
+   "label": "Bimbo Bakeries USA",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 133411,
+     "title": "MANAGER AUTOMATION CONTROLS"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "MANAGER CORPORATE STRATEGY"
+    }
+   ]
+  },
   "blackrock": {
    "fetched_at": "2026-10-30T21:21:36Z",
    "label": "BlackRock",
@@ -6019,6 +6035,112 @@
    "label": "careers2-quanta",
    "titles": []
   },
+  "carnegie mellon university": {
+   "fetched_at": "2026-11-03T18:17:48Z",
+   "label": "Carnegie Mellon University",
+   "titles": [
+    {
+     "count": 20,
+     "median_salary": 63500,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 13,
+     "median_salary": 125000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 5,
+     "median_salary": 70000,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 5,
+     "median_salary": 61324,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 4,
+     "median_salary": 98712,
+     "title": "ROBOTICS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 93175,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 86441,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 68000,
+     "title": "FINANCE AND RESEARCH ADMINISTRATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 70700,
+     "title": "RESEARCH BIOLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 97850,
+     "title": "SENIOR ROBOTICS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 219250,
+     "title": "ASSOCIATE PROFESSOR OF ECONOMICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 98000,
+     "title": "CDFD PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 83260,
+     "title": "PROJECT SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 96569,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 97081,
+     "title": "ROBOTICS ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 101000,
+     "title": "ROBOTICS ENGINEER, PERCEPTION"
+    },
+    {
+     "count": 2,
+     "median_salary": 107141,
+     "title": "SENIOR SYSTEMS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ACADEMIC ADVISOR &AMP; PROJECT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 61660,
+     "title": "ADJUNCT INSTRUCTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 88880,
+     "title": "ADJUNCT PROFESSOR"
+    }
+   ]
+  },
   "carousellgroup": {
    "fetched_at": "2026-10-25T02:20:28Z",
    "label": "carousellgroup",
@@ -7029,6 +7151,72 @@
    "fetched_at": "2026-10-25T19:01:30Z",
    "label": "CityOfNewYork",
    "titles": []
+  },
+  "clean harbors": {
+   "fetched_at": "2026-11-03T18:17:49Z",
+   "label": "Clean Harbors",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 137182,
+     "title": "ENGINEER SOFTWARE IT LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 145529,
+     "title": "APPLICATION TECHNICAL LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "PRINCIPAL PRODUCT OWNER MIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "ANALYST COMPENSATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "ENGINEER SOFTWARE IT SR."
+    },
+    {
+     "count": 1,
+     "median_salary": 160160,
+     "title": "MIS PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92077,
+     "title": "SENIOR ANALYTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79947,
+     "title": "SENIOR BUYER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SENIOR ERP SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 131265,
+     "title": "SENIOR PRODUCT OWNER MIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 99275,
+     "title": "SR AUDITOR COMPLIANCE AUDIT"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SR. ERP TECHNICAL ANALYST"
+    }
+   ]
   },
   "clean harbors external career site": {
    "fetched_at": "2026-10-25T04:07:08Z",
@@ -8501,6 +8689,112 @@
     }
    ]
   },
+  "dell technologies": {
+   "fetched_at": "2026-11-03T18:17:50Z",
+   "label": "Dell Technologies",
+   "titles": [
+    {
+     "count": 32,
+     "median_salary": 147966,
+     "title": "PRINCIPAL SOFTWARE ENGINEER - IT"
+    },
+    {
+     "count": 25,
+     "median_salary": 184853,
+     "title": "SOFTWARE PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 20,
+     "median_salary": 168647,
+     "title": "SENIOR PRINCIPAL SOFTWARE ENGINEER - IT"
+    },
+    {
+     "count": 15,
+     "median_salary": 173906,
+     "title": "SENIOR ADVISOR, PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 14,
+     "median_salary": 197138,
+     "title": "CONSULTANT, PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 13,
+     "median_salary": 127123,
+     "title": "SOFTWARE ENGINEER 2"
+    },
+    {
+     "count": 13,
+     "median_salary": 170000,
+     "title": "SOFTWARE SENIOR ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 225197,
+     "title": "SOFTWARE SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 169649,
+     "title": "CONSULTANT, PRODUCT MANAGEMENT - IT"
+    },
+    {
+     "count": 10,
+     "median_salary": 113400,
+     "title": "SOFTWARE ENGINEER 1"
+    },
+    {
+     "count": 9,
+     "median_salary": 159000,
+     "title": "ADVISOR, DATA SCIENCE"
+    },
+    {
+     "count": 8,
+     "median_salary": 100986,
+     "title": "ADVISOR, PROJECT PROGRAM MANAGEMENT"
+    },
+    {
+     "count": 8,
+     "median_salary": 135938,
+     "title": "SENIOR ANALYST, DATA SCIENCE"
+    },
+    {
+     "count": 7,
+     "median_salary": 197100,
+     "title": "CONSULTANT, DATA SCIENCE"
+    },
+    {
+     "count": 7,
+     "median_salary": 162816,
+     "title": "SENIOR ADVISOR, PRODUCT MARKETING"
+    },
+    {
+     "count": 6,
+     "median_salary": 149726,
+     "title": "QUALITY PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 163634,
+     "title": "SENIOR ADVISOR, DATA ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 133570,
+     "title": "SENIOR ADVISOR, DEMAND PLANNING"
+    },
+    {
+     "count": 5,
+     "median_salary": 165536,
+     "title": "CONSULTANT, PROJECT PROGRAM MANAGEMENT"
+    },
+    {
+     "count": 5,
+     "median_salary": 165548,
+     "title": "PRINCIPAL SYSTEMS DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
   "deloitte": {
    "fetched_at": "2026-10-26T10:07:01Z",
    "label": "Deloitte",
@@ -9811,6 +10105,112 @@
      "count": 1,
      "median_salary": 90750,
      "title": "PROJECT MANAGER I - DESIGN"
+    }
+   ]
+  },
+  "entegris": {
+   "fetched_at": "2026-11-03T18:17:51Z",
+   "label": "Entegris",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 113850,
+     "title": "SENIOR ENGINEER, MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 93069,
+     "title": "ENGINEER II, MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 105070,
+     "title": "SENIOR ENGINEER, EQUIPMENT PROJECT MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 123945,
+     "title": "SENIOR ENGINEER, MATERIALS QUALITY ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 169092,
+     "title": "SENIOR MANAGER, OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 108030,
+     "title": "CONTROLS &AMP; AUTOMATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 143313,
+     "title": "CUSTOMER QUALITY ENGINEER GENERAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 175084,
+     "title": "DIRECTOR - PLANT OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 101136,
+     "title": "ENGINEER I, SYSTEMS AND CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 96529,
+     "title": "ENGINEER II, CONTROLS ENGINEERING R&AMP;D"
+    },
+    {
+     "count": 1,
+     "median_salary": 100137,
+     "title": "ENGINEER II, PROCESS ENGINEERING R&AMP;D"
+    },
+    {
+     "count": 1,
+     "median_salary": 94979,
+     "title": "ENGINEER II, SOLUTIONS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 89814,
+     "title": "ENGINEER II, SYSTEMS ENGINEERING MES"
+    },
+    {
+     "count": 1,
+     "median_salary": 92250,
+     "title": "ENGINEER, MANUFACTURING, LIQUIDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 119850,
+     "title": "LEAD ENGINEER, PRODUCT DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 128359,
+     "title": "LEAD ENGINEER, QUALITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 146441,
+     "title": "LEAD ENGINEER, RESEARCH"
+    },
+    {
+     "count": 1,
+     "median_salary": 157772,
+     "title": "LEAD ENGINEER, WEC CLEANING TECHNOLOGY ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 137000,
+     "title": "LEAD, PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 119151,
+     "title": "MATERIALS QUALITY ENGINEER"
     }
    ]
   },
@@ -24032,6 +24432,11 @@
     }
    ]
   },
+  "singlife": {
+   "fetched_at": "2026-11-03T18:17:52Z",
+   "label": "Singlife",
+   "titles": []
+  },
   "skanska": {
    "fetched_at": "2026-10-25T20:25:10Z",
    "label": "skanska",
@@ -25194,6 +25599,112 @@
     }
    ]
   },
+  "susquehanna international": {
+   "fetched_at": "2026-11-03T18:17:52Z",
+   "label": "Susquehanna International Group",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 91100,
+     "title": "QUANTITATIVE RESEARCH TRADING ASSOCIATE"
+    },
+    {
+     "count": 9,
+     "median_salary": 84800,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 62400,
+     "title": "QUANTITATIVE RESEARCH TRADING ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 180000,
+     "title": "SOFTWARE DEVELOPER - MID"
+    },
+    {
+     "count": 3,
+     "median_salary": 460000,
+     "title": "MACHINE LEARNING RESEARCHER"
+    },
+    {
+     "count": 3,
+     "median_salary": 61000,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 140200,
+     "title": "SENIOR TREASURY BI DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 79900,
+     "title": "ASSOCIATE NETWORK SECURITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 86450,
+     "title": "BIG DATA DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90600,
+     "title": "QUANTITATIVE STRATEGIST - SPORTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 146100,
+     "title": "AI SOFTWARE DEVELOPER - MID"
+    },
+    {
+     "count": 1,
+     "median_salary": 146100,
+     "title": "AI SOFTWARE DEVELOPER- MID"
+    },
+    {
+     "count": 1,
+     "median_salary": 91100,
+     "title": "ASSOCIATE NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79900,
+     "title": "ASSOCIATE SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84800,
+     "title": "ASSOCIATE SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 146100,
+     "title": "BIG DATA DEVELOPER - MID"
+    },
+    {
+     "count": 1,
+     "median_salary": 153400,
+     "title": "DATABASE DEVELOPER \u201c MID"
+    },
+    {
+     "count": 1,
+     "median_salary": 66300,
+     "title": "ELECTRICITY STRATEGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 130800,
+     "title": "ELECTRICITY STRATEGIST - MID"
+    },
+    {
+     "count": 1,
+     "median_salary": 153400,
+     "title": "ETL DEVELOPER - MID"
+    }
+   ]
+  },
   "symbotic": {
    "fetched_at": "2026-10-26T18:40:20Z",
    "label": "Symbotic",
@@ -25330,6 +25841,11 @@
      "title": "SENIOR ENGINEER I"
     }
    ]
+  },
+  "tandh": {
+   "fetched_at": "2026-11-03T18:17:53Z",
+   "label": "tandh",
+   "titles": []
   },
   "tc energy": {
    "fetched_at": "2026-10-26T04:10:41Z",
@@ -26704,6 +27220,11 @@
      "title": "HVAC SYSTEMS DEVELOPMENT ENGINEER"
     }
    ]
+  },
+  "travelers https travelers wd5 myworkdayjobs com external job ct hartford business insights analytics leadership development program bi a ldp intern r 52304": {
+   "fetched_at": "2026-11-03T18:17:55Z",
+   "label": "[Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304)",
+   "titles": []
   },
   "tri": {
    "fetched_at": "2026-11-03T17:29:26Z",
@@ -28333,6 +28854,22 @@
      "count": 1,
      "median_salary": 84011,
      "title": "SOFTWARE DEVELOPER I"
+    }
+   ]
+  },
+  "west monroe": {
+   "fetched_at": "2026-11-03T18:17:55Z",
+   "label": "West Monroe",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 183950,
+     "title": "MANAGER IT STRATEGY AND BPO"
+    },
+    {
+     "count": 1,
+     "median_salary": 194100,
+     "title": "SENIOR MANAGER"
     }
    ]
   },
