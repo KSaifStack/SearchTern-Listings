@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-03T10:23:55Z",
+ "built_at": "2026-11-03T17:29:30Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -419,6 +419,102 @@
    "fetched_at": "2026-10-24T20:11:11Z",
    "label": "aisle_and_abroad",
    "titles": []
+  },
+  "alice bob": {
+   "fetched_at": "2026-11-03T17:29:14Z",
+   "label": "alice-bob",
+   "titles": [
+    {
+     "count": 8,
+     "median_salary": 84094,
+     "title": "CLOUD DEVELOPER"
+    },
+    {
+     "count": 7,
+     "median_salary": 75816,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 87120,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 84781,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 70000,
+     "title": "ASSOCIATE DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84094,
+     "title": "CLOUD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 112000,
+     "title": "DATA ANALYST DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 98301,
+     "title": "DATA BASE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 81370,
+     "title": "DATA INTEGRATION SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 70658,
+     "title": "DOCUMENTATION CONTROL SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 84781,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79373,
+     "title": "JAVA FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "MARKETING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90896,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "TESTER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 76000,
+     "title": "WEB ADMINISTRATOR"
+    }
+   ]
   },
   "allegion": {
    "fetched_at": "2026-10-25T16:10:50Z",
@@ -5355,6 +5451,11 @@
     }
    ]
   },
+  "brightspring": {
+   "fetched_at": "2026-11-03T17:29:14Z",
+   "label": "brightspring",
+   "titles": []
+  },
   "bristol myers squibb": {
    "fetched_at": "2026-10-26T10:06:58Z",
    "label": "Bristol Myers Squibb",
@@ -7910,6 +8011,112 @@
     }
    ]
   },
+  "costco it": {
+   "fetched_at": "2026-11-03T17:29:15Z",
+   "label": "Costco IT",
+   "titles": [
+    {
+     "count": 76,
+     "median_salary": 153700,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 155000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 146800,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 146600,
+     "title": "BI ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 175500,
+     "title": "SECURITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 147100,
+     "title": "FUNCTIONAL ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 183350,
+     "title": "INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 169000,
+     "title": "PLATFORM ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 170000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 157100,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 166300,
+     "title": "SOLUTION ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 149400,
+     "title": "SOFTWARE DEVELOPER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "CLOUD DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 225000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 134600,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 145800,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 212000,
+     "title": "ENDPOINT SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 142700,
+     "title": "SAP FICO FUNCTIONAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 163300,
+     "title": "SAP HCM PAYROLL FUNCTIONAL ANALYST"
+    }
+   ]
+  },
   "cox": {
    "fetched_at": "2026-10-25T04:07:11Z",
    "label": "Cox",
@@ -8982,6 +9189,11 @@
   "efet": {
    "fetched_at": "2026-10-25T05:38:01Z",
    "label": "Efet",
+   "titles": []
+  },
+  "egisgroup": {
+   "fetched_at": "2026-11-03T17:29:16Z",
+   "label": "EgisGroup",
    "titles": []
   },
   "egug": {
@@ -11847,6 +12059,11 @@
     }
    ]
   },
+  "gm financial": {
+   "fetched_at": "2026-11-03T17:29:17Z",
+   "label": "GM Financial",
+   "titles": []
+  },
   "google": {
    "fetched_at": "2026-10-25T09:18:14Z",
    "label": "Google",
@@ -13916,6 +14133,11 @@
    "label": "ID.me",
    "titles": []
   },
+  "imafinancialgroup": {
+   "fetched_at": "2026-11-03T17:29:18Z",
+   "label": "imafinancialgroup",
+   "titles": []
+  },
   "impulse space": {
    "fetched_at": "2026-10-25T14:02:19Z",
    "label": "Impulse Space",
@@ -14647,6 +14869,47 @@
     }
    ]
   },
+  "jobs ecolab com": {
+   "fetched_at": "2026-11-03T17:29:19Z",
+   "label": "jobs.ecolab.com",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 81578,
+     "title": "PROGRAMMER ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 112000,
+     "title": "EMBEDDED ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 51600,
+     "title": "OPERATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 82680,
+     "title": "NETWORK AND COMPUTER SYSTEM ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 70564,
+     "title": "RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 83658,
+     "title": "SENIOR DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 182930,
+     "title": "SR. DIRECTOR, ADVANCED MANUFACTURING"
+    }
+   ]
+  },
   "jobs merck com": {
    "fetched_at": "2026-10-25T14:02:20Z",
    "label": "jobs.merck.com",
@@ -15026,6 +15289,11 @@
   "kci": {
    "fetched_at": "2026-10-27T15:39:26Z",
    "label": "kci",
+   "titles": []
+  },
+  "keenfootwear": {
+   "fetched_at": "2026-11-03T17:29:20Z",
+   "label": "keenfootwear",
    "titles": []
   },
   "kensingtontours": {
@@ -20063,6 +20331,11 @@
     }
    ]
   },
+  "ppc partners": {
+   "fetched_at": "2026-11-03T17:29:21Z",
+   "label": "PPC Partners",
+   "titles": []
+  },
   "prismbiotech": {
    "fetched_at": "2026-11-03T10:23:53Z",
    "label": "prismbiotech",
@@ -22594,6 +22867,112 @@
     }
    ]
   },
+  "samsara": {
+   "fetched_at": "2026-11-03T17:29:22Z",
+   "label": "Samsara",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 130250,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 5,
+     "median_salary": 137259,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 108576,
+     "title": "BUSINESS TECHNOLOGY DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 123656,
+     "title": "FIRMWARE ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 203459,
+     "title": "ASSOCIATE MANAGER I, AUTOMOTIVE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 81546,
+     "title": "DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152745,
+     "title": "PRINCIPAL BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 165620,
+     "title": "SALES ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 139599,
+     "title": "SR. BUSINESS SYSTEMS ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 136791,
+     "title": "SR. QUALITY ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 120598,
+     "title": "APPLIED SCIENTIST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 168397,
+     "title": "CUSTOMER SUCCESS MANAGER V"
+    },
+    {
+     "count": 1,
+     "median_salary": 85821,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 133578,
+     "title": "HARDWARE PRODUCT SUPPORT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180960,
+     "title": "MANAGER II BUSINESS APPLICATION ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 170373,
+     "title": "MANAGER II BUSINESS TECHNOLOGY DATA ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 198390,
+     "title": "MANAGER II, AI ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 206190,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 136282,
+     "title": "MANUFACTURING DESIGN ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 92914,
+     "title": "MARKETING ANALYTICS MANAGER"
+    }
+   ]
+  },
   "sanofi": {
    "fetched_at": "2026-10-31T22:57:46Z",
    "label": "Sanofi",
@@ -23482,6 +23861,102 @@
      "count": 1,
      "median_salary": 195000,
      "title": "SOFTWARE ENGINEER, LEVEL I4"
+    }
+   ]
+  },
+  "signify https lighting wd3 myworkdayjobs com jobs and careers job peachtree city product management intern cooper lighting solutions spring 2027 366870": {
+   "fetched_at": "2026-11-03T17:29:23Z",
+   "label": "[Signify](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 116334,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135150,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 145086,
+     "title": "SR NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 156628,
+     "title": "CHANNEL MARKETING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 107993,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147846,
+     "title": "DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 153046,
+     "title": "DIGITAL LEAD FUNCTIONAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127504,
+     "title": "IT TECHNICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 161400,
+     "title": "LEGAL COUNSEL"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "PRINCIPAL PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113090,
+     "title": "PRODUCT ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 161400,
+     "title": "QUALITY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "STAFF SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200900,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "STAFF SOFTWARE ENGINEER FULL STACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 115900,
+     "title": "SUPPLY CHAIN MANAGER"
     }
    ]
   },
@@ -25331,6 +25806,11 @@
     }
    ]
   },
+  "tevora": {
+   "fetched_at": "2026-11-03T17:29:24Z",
+   "label": "tevora",
+   "titles": []
+  },
   "texas instruments": {
    "fetched_at": "2026-10-25T22:12:21Z",
    "label": "Texas Instruments",
@@ -25952,6 +26432,11 @@
     }
    ]
   },
+  "togetherai": {
+   "fetched_at": "2026-11-03T17:29:25Z",
+   "label": "togetherai",
+   "titles": []
+  },
   "toyota": {
    "fetched_at": "2026-10-26T18:40:25Z",
    "label": "Toyota",
@@ -26113,6 +26598,117 @@
      "title": "STAFF TECHNICAL PROGRAM MANAGER"
     }
    ]
+  },
+  "trane technologies": {
+   "fetched_at": "2026-11-03T17:29:25Z",
+   "label": "Trane Technologies",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "CONTROLS TECHNICAL AND PRODUCT SUPPORT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 122035,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 86498,
+     "title": "PRODUCT DEVELOPMENT SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 95000,
+     "title": "SENIOR ACOUSTIC ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 141161,
+     "title": "SENIOR ENGINEER, TRUCK QUALITY LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 141750,
+     "title": "SR. ENGINEERING PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120290,
+     "title": "ADVANCE MANUFACTURING ENGINEER AME , AUTOMATION &AMP; CONTROLS"
+    },
+    {
+     "count": 1,
+     "median_salary": 132480,
+     "title": "ADVANCED MANUFACTURING AUTOMATION CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113714,
+     "title": "ADVANCED MANUFACTURING ENGINEERING PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "ADVANCED MANUFACTURING PROCESS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102307,
+     "title": "AERODYNAMICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 83679,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "COMPRESSOR TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117713,
+     "title": "CONTROLS APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95483,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80475,
+     "title": "ELECTRICAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 103500,
+     "title": "ELECTRICAL ENGINEER- AUXILIARY POWER UNITS"
+    },
+    {
+     "count": 1,
+     "median_salary": 135796,
+     "title": "ERP TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 130154,
+     "title": "HVAC SYSTEMS APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "HVAC SYSTEMS DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "tri": {
+   "fetched_at": "2026-11-03T17:29:26Z",
+   "label": "tri",
+   "titles": []
   },
   "trimble": {
    "fetched_at": "2026-10-26T15:03:53Z",
@@ -26867,9 +27463,19 @@
     }
    ]
   },
+  "us envoyair": {
+   "fetched_at": "2026-11-03T17:29:27Z",
+   "label": "us-envoyair",
+   "titles": []
+  },
   "us erac": {
    "fetched_at": "2026-10-25T22:41:29Z",
    "label": "us-erac",
+   "titles": []
+  },
+  "us internships public careers site": {
+   "fetched_at": "2026-11-03T17:29:28Z",
+   "label": "US Internships Public Careers Site",
    "titles": []
   },
   "uscampus pepsico": {
@@ -28287,6 +28893,112 @@
      "count": 1,
      "median_salary": 128000,
      "title": "PROJECT MANAGER II"
+    }
+   ]
+  },
+  "zebra": {
+   "fetched_at": "2026-11-03T17:29:29Z",
+   "label": "Zebra",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 97757,
+     "title": "SOFTWARE ENGINEER.SENIOR"
+    },
+    {
+     "count": 9,
+     "median_salary": 125632,
+     "title": "SOFTWARE ENGINEER.ADVANCED"
+    },
+    {
+     "count": 4,
+     "median_salary": 183420,
+     "title": "FINANCIAL MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 149969,
+     "title": "MANAGER SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 152131,
+     "title": "SENIOR MANAGER SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 150280,
+     "title": "SOFTWARE ENGINEER.PRINCIPAL"
+    },
+    {
+     "count": 3,
+     "median_salary": 135000,
+     "title": "SYSTEMS ENGINEER ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 129022,
+     "title": "CLOUD ENGINEER ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 146442,
+     "title": "MANAGER DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 132434,
+     "title": "MANAGER, INFORMATION SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 164600,
+     "title": "PRODUCT MANAGER PRINCIPAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 134936,
+     "title": "ROBOTICS ENGINEER.ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 146151,
+     "title": "SENIOR MANAGER PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 150287,
+     "title": "SOFTWARE ENGINEER ADVANCED"
+    },
+    {
+     "count": 2,
+     "median_salary": 137195,
+     "title": "SOFTWARE ENGINEER PRINCIPAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 106131,
+     "title": "SUPERVISOR SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 149781,
+     "title": "DATA ENGINEER.ADVANCED"
+    },
+    {
+     "count": 1,
+     "median_salary": 136739,
+     "title": "DATA PLATFORM ENGINEER.ADVANCED"
+    },
+    {
+     "count": 1,
+     "median_salary": 109133,
+     "title": "DATA SCIENTIST.SENIOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 94267,
+     "title": "DIGITAL CONTENT SPECIALIST, SENIOR"
     }
    ]
   },
