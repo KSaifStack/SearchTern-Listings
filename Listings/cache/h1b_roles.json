@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-03T22:44:26Z",
+ "built_at": "2026-11-03T23:54:43Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15027,6 +15027,112 @@
      "count": 3,
      "median_salary": 180400,
      "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "invesco": {
+   "fetched_at": "2026-11-03T23:54:42Z",
+   "label": "Invesco",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 85000,
+     "title": "ASSOCIATE, TECH STRATEGY"
+    },
+    {
+     "count": 2,
+     "median_salary": 97250,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 155166,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "QUANTITATIVE ANALYST, SOLUTIONS RESEARCH &AMP; ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 130695,
+     "title": "SR. ANALYST-CYBER DEFENSE"
+    },
+    {
+     "count": 2,
+     "median_salary": 134900,
+     "title": "SR. ENGINEER, INVEST TECH"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "AD, STRATEGIC ANALYTICS &AMP; PERFORMANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 122869,
+     "title": "ADV. ANALYST, DIGITAL DIST &AMP; ENT ENG"
+    },
+    {
+     "count": 1,
+     "median_salary": 135500,
+     "title": "ADVANCED ENGINEER, DIGITAL DIST. &AMP; ENT ENG."
+    },
+    {
+     "count": 1,
+     "median_salary": 139882,
+     "title": "ADVANCED ENGINEER, DISTRIB TECH"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "ASSOCIATE CREDIT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "ASSOCIATE DIRECTOR, TRANSACTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 177500,
+     "title": "ASSOCIATE MANAGER, DIGITAL DIST &AMP; ENT ENG."
+    },
+    {
+     "count": 1,
+     "median_salary": 129000,
+     "title": "DATA SCIENTIST, CLIENT ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 214500,
+     "title": "DIRECTOR OF CLOUD ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 280000,
+     "title": "DIRECTOR, PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 149828,
+     "title": "ETF CAPITAL MARKETS RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "ETF PORTFOLIO MANAGER FIXED INCOME"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "IT AUDIT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "PORTFOLIO MANAGER"
     }
    ]
   },
