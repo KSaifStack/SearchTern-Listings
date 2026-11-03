@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 11
 
-**Page 11 of 29 — 14,605 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 11 of 29 — 14,640 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-10.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md)
 
@@ -24,118 +24,6 @@
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/QA-Intern_202610-127323"><strong>Roche</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">QA Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/QA-Intern_202610-127323" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299">🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Performance Engineering Intern, Deep Learning...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">China<br>Shanghai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://itviec.com/it-jobs/ai-engineer-intern-alliance-it-service-ltd-2518"><strong>Alliance It Servi...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hồ Chí Minh<br>Vietnam</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://itviec.com/it-jobs/ai-engineer-intern-alliance-it-service-ltd-2518" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/a97592417464be687d3c179fe57a5fa1"><strong>Recruit Express P...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Service Sales Engineer (LAB EQUIPMENT MNC/Wes...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/a97592417464be687d3c179fe57a5fa1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://funeraldirectorslifeinsurancecompany.applytojob.com/apply/Ln87bnrS77/Digital-Marketing-Specialist-Entry-Level-Website-Designer"><strong>Directors Investm...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Digital Marketing Specialist (Entry Level Web...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Abilene<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://funeraldirectorslifeinsurancecompany.applytojob.com/apply/Ln87bnrS77/Digital-Marketing-Specialist-Entry-Level-Website-Designer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://miron-ibamqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/203"><strong>Miron Construction</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Support Intern | Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://miron-ibamqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/203" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.nvidia.com/careers/job/893398446257">🔥 <strong>Nvidia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">System Level Test Engineer (RDSS Intern)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Taiwan<br>Hsinchu</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.nvidia.com/careers/job/893398446257" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775"><strong>Uline</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">UX Internship - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pleasant Prairie<br>WI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/UX-Internship---Summer-2027_R268775" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006JK&amp;lang=en"><strong>Commonwealth Of M...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Instructional Design/Learning and Development...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Massachusetts-Boston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://massanf.taleo.net/careersection/ex/jobdetail.ftl?job=260006JK&amp;lang=en" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160"><strong>CACI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Co-op/Intern - Spring 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.wd1.myworkdayjobs.com/External/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1"><strong>KLA</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642700-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1">↳ <strong>KLA</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tcbrands.wd1.myworkdayjobs.com/TravisMathew-Careers/job/TM---HQ---Huntington-Beach/Technical-Designer-Assistant-Interim-Assignment_JR2023-16826"><strong>Tcbrands</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technical Designer Assistant Interim Assignment</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">TM - HQ - Huntington Beach</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tcbrands.wd1.myworkdayjobs.com/TravisMathew-Careers/job/TM---HQ---Huntington-Beach/Technical-Designer-Assistant-Interim-Assignment_JR2023-16826" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aia.wd3.myworkdayjobs.com/External/job/Makati-PH-AIA-Philippines/Data-Analytics-Intern_JR-71444-1"><strong>AIA</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati<br>PH-AIA Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aia.wd3.myworkdayjobs.com/External/job/Makati-PH-AIA-Philippines/Data-Analytics-Intern_JR-71444-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R171503"><strong>Baker Hughes</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineering - 2027</td>
@@ -437,6 +325,126 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">FY27 Intern - AI Software Engineering Co-op  ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.qualcomm.com/careers/job/446721862429" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158429749-intern-software-development"><strong>Bosch Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Development</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000158429749-intern-software-development" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422"><strong>TRG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Application Developer Intern (Wint...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114912004"><strong>Hp Iq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Device Experienc...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114912004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ph.jobstreet.com/job/95566753"><strong>Mega Cellular Net...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sampaloc<br>Metro Manila</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ph.jobstreet.com/job/95566753" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4484776028/"><strong>Meetri Infotech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Development Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484776028/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tomorrowstalent.na.teamtailor.com/jobs/728276-copy-of-apprenticeship-city-of-moreno-valley-it-technician-1-year-mvc-students-only"><strong>Tomorrow S Talent</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Copy of Apprenticeship| City of Moreno Valley...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tomorrowstalent.na.teamtailor.com/jobs/728276-copy-of-apprenticeship-city-of-moreno-valley-it-technician-1-year-mvc-students-only" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/a09a516797f1b5ba451a87f46d0e5738"><strong>Higogame Pte Ltd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Data Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/a09a516797f1b5ba451a87f46d0e5738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/632b6df233db25aed65434fd8d2e9894">↳ <strong>Higogame Pte Ltd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Creative Designer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/632b6df233db25aed65434fd8d2e9894" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2159"><strong>Idaho National La...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hot Cell Design Mechanical Engineering Intern...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Idaho Falls<br>ID<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/pro/job/2159" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2159"><strong>INL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hot Cell Design Mechanical Engineering Intern...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Idaho Falls<br>ID<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://elhe.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2159" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130114">🔥 <strong>IBM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware and Systems Developer Intern 2027 -N...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130114" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/QA-Intern_202610-127323"><strong>Roche</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">QA Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://roche.wd3.myworkdayjobs.com/roche-ext/job/Shanghai/QA-Intern_202610-127323" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299">🔥 <strong>Nvidia</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Performance Engineering Intern, Deep Learning...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">China<br>Shanghai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern--Deep-Learning-and-HPC---2027_JR2028299" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://itviec.com/it-jobs/ai-engineer-intern-alliance-it-service-ltd-2518"><strong>Alliance It Servi...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hồ Chí Minh<br>Vietnam</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://itviec.com/it-jobs/ai-engineer-intern-alliance-it-service-ltd-2518" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/a97592417464be687d3c179fe57a5fa1"><strong>Recruit Express P...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Service Sales Engineer (LAB EQUIPMENT MNC/Wes...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/a97592417464be687d3c179fe57a5fa1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -789,7 +797,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Solidigm/744000158398646-firmware-engineer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -797,7 +805,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Marketing Communications &amp; Design</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">TX01- Westmount Realty Group<br>LLC.</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4623961" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -805,7 +813,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (First Play)  - Summ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/LinkedIn3/744000158394370-software-engineer-intern-first-play-summer-2027-mountain-view-ca-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -813,7 +821,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">UX Design - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://seatgeek.com/jobs/8248125?gh_jid=8248125" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -821,7 +829,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://seatgeek.com/jobs/8227553?gh_jid=8227553" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -829,7 +837,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://seatgeek.com/jobs/8248151?gh_jid=8248151" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -837,7 +845,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://seatgeek.com/jobs/8247554?gh_jid=8247554" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -845,7 +853,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">London<br>England</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/xantium/jobs/4360768009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -853,7 +861,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer (Internship) - Vancouver</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4609356005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -861,7 +869,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AMS Design Verification Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743360005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -869,7 +877,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AMS Digital Design Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739915005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -877,7 +885,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Analog/Mixed Signal System Test Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739769005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -885,7 +893,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Engineer Intern (Silicon Engineering)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -893,7 +901,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI Intern (Non-Silicon)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -901,7 +909,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Applied AI NCG (Non Silicon)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -909,7 +917,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">CyberSecurity Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -917,7 +925,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst NCG</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -925,7 +933,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731995005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -933,7 +941,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Design Architecture Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731413005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -941,7 +949,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Design Engineering Intern (CCE2)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727655005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -949,7 +957,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Design Verification Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4722012005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -957,7 +965,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Design Verification Engineer Intern (Toronto)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731392005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -965,7 +973,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Digital Design Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731407005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -973,7 +981,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Digital Design Engineer Intern (Toronto)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731399005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -981,7 +989,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineering Intern (Optical)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738565005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -989,7 +997,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern (DevSecOps)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731591005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -997,7 +1005,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern Fall Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver. BC<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1005,7 +1013,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern (Leo)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731584005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1013,7 +1021,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern (Ottawa)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ottawa<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731406005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1021,7 +1029,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern (SCO1)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731585005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1029,7 +1037,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern (SCO2)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724489005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1037,7 +1045,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern Spring Co-Op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>BC<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1045,7 +1053,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer Intern Summer Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>BC<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739957005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1053,7 +1061,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Design Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728560005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1061,7 +1069,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Electrical Validation Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4740145005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1069,7 +1077,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Packaging Automation &amp; Data Engineering Inter...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1077,7 +1085,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Physical Design Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727569005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1085,7 +1093,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Physical Design Engineer Intern (DM)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4729022005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1093,7 +1101,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Physical Design Engineer Intern (Toronto)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731401005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1101,7 +1109,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Platform Solutions Engineer Intern (CE)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>NC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731587005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1109,7 +1117,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Platform Solutions Engineer Intern (EE)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>NC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731586005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1117,7 +1125,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Platform Solutions Engineer Intern (MechE)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>NC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731588005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1125,7 +1133,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Platform Solutions Engineer NCG (CE)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>NC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731637005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1133,7 +1141,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Platform Solutions Engineer NCG (EE)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>NC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731598005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1141,7 +1149,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sales Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731425005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1149,7 +1157,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Solutions Architect Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746898005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1157,7 +1165,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Signal Integrity Solutions Architect Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4746899005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1165,7 +1173,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nagpur</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-cyber-security-intern-iconicpages-nagpur-0-to-1-years-281026502119" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1173,7 +1181,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Designer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/jackson-spalding/jobs/787c5542-0e88-47aa-8fe5-713212367328" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1181,7 +1189,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Operations and Technology Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Miami<br>FL<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://prd01-hcm01.prd.mykronos.com/ta/6013011.careers?ShowJob=2185052133" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1189,7 +1197,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Naval Architect Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Metairie<br>LA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ledfaststart.phenompro.com/global/en/job/LEFAGLOBAL207698EXTERNALENGLOBAL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1197,7 +1205,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">FPGA Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Needham<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1205,7 +1213,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Needham<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1213,7 +1221,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Technology Support Technician</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hooksett<br>NH<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/PROCON/744000158376574-technology-support-technician" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1221,7 +1229,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern -  Custody (Winte...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1229,7 +1237,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Prime Trade (Wi...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1237,7 +1245,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Settlement Syst...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1245,7 +1253,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Cybersecurity Threat Researcher (Pos...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cheltenham<br>England<br>United Kingdom</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/knowbe4/jobs/8894009002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1253,7 +1261,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">PMO Data Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Chicago Office</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/genevatrading/jobs/5242180007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1261,7 +1269,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484113243/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1269,7 +1277,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Reliability Intern [Winter 2027]</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/figureai/jobs/4613067006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1277,7 +1285,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ho Chi Minh City<br>Ho Chi Minh City<br>Vietnam</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://anduin.hire.trakstar.com/jobs/fk01m54" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1657,354 +1665,378 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-embedded-qa-engineer-intern-regami-solutions-chennai-0-to-1-years-281026004676"><strong>Regami Solutions</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded QA Engineer - Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-embedded-qa-engineer-intern-regami-solutions-chennai-0-to-1-years-281026004676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/78252225691820742"><strong>Youtube</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">User Experience Design Intern, Summer 2027, Y...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/78252225691820742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://t.me/junior_dou_ua/7105"><strong>Hys Enterprise</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Developer (.NET + Angular) Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Online</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://t.me/junior_dou_ua/7105" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482274697/"><strong>Skavop Tech Solut...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MERN Stack Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nagpur</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482274697/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95559744"><strong>Motorola Solutions</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Penang</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95559744" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95559747">↳ <strong>Motorola Solutions</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Penang</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95559747" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sjcontractspvtltd.keka.com/careers/jobdetails/93939"><strong>Sj Contracts</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Executive</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sjcontractspvtltd.keka.com/careers/jobdetails/93939" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/Certa/9f7caf0b-46ff-49ab-ae78-62deadec106e"><strong>Certa</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Engineer - Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/Certa/9f7caf0b-46ff-49ab-ae78-62deadec106e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95546796"><strong>Tranglo Sdn Bhd</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Cybersecurity</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur City Centre<br>Kuala Lumpur</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95546796" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-back-end-engineer-nxtwave-disruptive-technologies-hyderabad-0-to-1-years-281026004253"><strong>Nxtwave Disruptiv...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Back End Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-back-end-engineer-nxtwave-disruptive-technologies-hyderabad-0-to-1-years-281026004253" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477241390"><strong>Lockheed Martin</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Littleton<br>CO</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477241390" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/95543108"><strong>Linkcircle Singap...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI &amp; Cybersecurity Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">One North<br>Central Region</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/95543108" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/103921"><strong>Dayforce</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">(Philippines) Cybersecurity Intern 6 Months</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>6 locations</strong></summary>NCR<br>PH; Manila<br>NCR<br>PH; Quezon City<br>NCR<br>Philippines</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/103921" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.dayforcehcm.com/en-US/colonialgroup/candidateportal/jobs/13826"><strong>Colonial Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ETRM IT Business Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.dayforcehcm.com/en-US/colonialgroup/candidateportal/jobs/13826" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ph.jobstreet.com/job/95542938"><strong>Alberto Shoes Cor...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cubao<br>Metro Manila</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ph.jobstreet.com/job/95542938" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://id.jobstreet.com/job/95542339"><strong>Hithink Technolog...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (6 months Paid Inter...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">South Jakarta<br>Jakarta</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://id.jobstreet.com/job/95542339" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95541779"><strong>Fuji Corporation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Support Engineer / Application Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Johor Bahru<br>Johor</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95541779" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452226-wabtec-spring-2027-software-engineering-co-op-10-week-"><strong>Wabtec</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wabtec Spring 2027 Software Engineering Co-Op...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Schenectady<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452226-wabtec-spring-2027-software-engineering-co-op-10-week-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.pyjamahr.com/ace-talent-recruitment/quality-assurance-continuous-improvement-engineering-internship-1"><strong>Ace Talent</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance &amp; Continuous Improvement En...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>VIC<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.pyjamahr.com/ace-talent-recruitment/quality-assurance-continuous-improvement-engineering-internship-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer"><strong>Realityjam</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Game Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95538407"><strong>Kunzz Holdings Sd...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Executive / IT Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Taman Desa Cemerlang<br>Johor</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95538407" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.metacareers.com/profile/job_details/1823027662342331/">🔥 <strong>META</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ASIC Engineer Intern, Physical Design</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.metacareers.com/profile/job_details/1823027662342331/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/95536963"><strong>Mci Career Services</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer (Python &amp; SQL | Immediat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">West Region</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/95536963" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d078f524a1017958c74a542dc3&amp;id=8a7887a1a150293901a17f1736dc0800"><strong>John Burns Resear...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Internship - Data Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d078f524a1017958c74a542dc3&amp;id=8a7887a1a150293901a17f1736dc0800" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483696238/"><strong>Buildify</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Testing Intern (QA, UAT &amp; Test Platf...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483696238/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073302270_48&amp;lang=en_US"><strong>Seed Company</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern (Summer)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073302270_48&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073295157_3&amp;lang=en_US">↳ <strong>Seed Company</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern (Summer)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073295157_3&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482241751/"><strong>OORO</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Software Development Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482241751/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482239785/"><strong>Beckman Coulter L...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru East</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482239785/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ph.jobstreet.com/job/95536178"><strong>Indra Philippines</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior RPA UI Path Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>Metro Manila</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ph.jobstreet.com/job/95536178" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95535738"><strong>Pingspace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Penang</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95535738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6111955004"><strong>Hp Iq</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Cloud Services (Sum...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6111955004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114890004">↳ <strong>Hp Iq</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Product &amp; Develo...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114890004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114781004">↳ <strong>Hp Iq</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, AML Platform (Su...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114781004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c"><strong>Simbe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robot Software Engineer Intern (Spring &amp; Summ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8">↳ <strong>Simbe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Computer Vision / Applied AI Intern (Summer 2...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6116398004"><strong>Hp Iq</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Security Intern ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6116398004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://contentguru.bamboohr.com/careers/332"><strong>Contentguru</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bracknell<br>Berkshire<br>United Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://contentguru.bamboohr.com/careers/332" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255"><strong>Standard Aero</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op, IT Analyst: Spring</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479">↳ <strong>Standard Aero</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, IT Analyst: Summer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132822">🔥 <strong>IBM</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer Intern - OneIT - Ro...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ROCHESTER<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132822" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132880">↳ 🔥 <strong>IBM</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer Intern - OneIT - Po...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">POUGHKEEPSIE<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132880" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.l3harris.com/en/job/columbia/software-engineer-intern/4832/101409856208"><strong>L3harris Technolo...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>MD<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.l3harris.com/en/job/columbia/software-engineer-intern/4832/101409856208" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.spectrum.com/job/town-of-stamford/2027-summer-intern-business-systems-analyst-customer-operations/4673/102308229056"><strong>Customer Operations</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern:  Business Systems Analyst...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Stamford<br>Connecticut<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.spectrum.com/job/town-of-stamford/2027-summer-intern-business-systems-analyst-customer-operations/4673/102308229056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-associate-qa-analyst-customer-operations/4673/100133784384">↳ <strong>Customer Operations</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern: Associate QA Analyst (Cus...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Maryland Heights<br>Missouri<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-associate-qa-analyst-customer-operations/4673/100133784384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931"><strong>Motorola</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ho Chi Minh<br>Vietnam</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://flyscoot.wd102.myworkdayjobs.com/ScootExternalCareers/job/Singapore-HQ/Information-Security---Risk-Management-Intern_R0005978"><strong>Flyscoot</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Information Security &amp; Risk Management Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore HQ</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://flyscoot.wd102.myworkdayjobs.com/ScootExternalCareers/job/Singapore-HQ/Information-Security---Risk-Management-Intern_R0005978" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/f2bf06eae1d3e6af49609c6b99c73379"><strong>Msi Global Privat...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer (Backend Development) | 6-m...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/f2bf06eae1d3e6af49609c6b99c73379" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159893"><strong>Honeywell</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engr I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/159893"><strong>Honeywell Technol...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engr I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/159893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/159893"><strong>Honeywell Interna...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engr I</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/159893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/78775a9871fa0c2d1ed9958ac7019438"><strong>Aiper Global Pte Ltd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/78775a9871fa0c2d1ed9958ac7019438" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/F61354E7AF"><strong>FUKU</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/F61354E7AF" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/47B19406ED">↳ <strong>FUKU</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer--Conversational AI</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/47B19406ED" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.instahyre.com/job-448298-associate-software-engineer-at-medanta-noida/"><strong>Medanta</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.instahyre.com/job-448298-associate-software-engineer-at-medanta-noida/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Business-Analyst-Intern_J29168"><strong>Rga Reinsurance C...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Malaysia<br>Kuala Lumpur</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Business-Analyst-Intern_J29168" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/a013dbba0a11cce5cefcd3fdf9eec948"><strong>Pipo Resource Sg ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine learning (Global Payment) - 2027 Star...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/a013dbba0a11cce5cefcd3fdf9eec948" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"><strong>Leidos</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fort Belvoir<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69896-1"><strong>Motorola</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Penang<br>Malaysia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69896-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137">↳ <strong>Motorola</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Penang<br>Malaysia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hysteryale.wd1.myworkdayjobs.com/Hyster-YaleCareers/job/HY-EMEA-UK-Irvine/Business-Analyst--Student-Placement-_R8544"><strong>Hysteryale</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst (Student Placement)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HY EMEA UK Irvine</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hysteryale.wd1.myworkdayjobs.com/Hyster-YaleCareers/job/HY-EMEA-UK-Irvine/Business-Analyst--Student-Placement-_R8544" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477"><strong>Blue Cross And Bl...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Business Systems Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Providence<br>RI</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692">🔥 <strong>Intel</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PRC<br>Shanghai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1"><strong>Sonos</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brand Design Intern (New York)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1">↳ <strong>Sonos</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern (Boston)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434"><strong>Daimler Truck</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665"><strong>Stanley Black Decker</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Design Engineering Intern, 3D Surf...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>MD<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10046"><strong>Vsp Vision</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship, Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10046" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10068">↳ <strong>Vsp Vision</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Internship, Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote US</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10068" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Associate-Statistical-Programmer_JR163286"><strong>ICON</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Statistical Programmer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India<br>Bangalore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Associate-Statistical-Programmer_JR163286" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428"><strong>Fiskars</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Middleton</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831"><strong>RTX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Electrical Engineering Intern (Summe...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-MA-CAMBRIDGE-BBN01 ~ 10 &amp; 50 Moulton St ~ MOULTON B2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598">↳ <strong>RTX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Electrical Engineering Co-Op (Spring...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-MA-CAMBRIDGE-BBN01 ~ 10 &amp; 50 Moulton St ~ MOULTON B2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">↳ <strong>RTX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Co-op (January 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128"><strong>Hewlett Packard Hp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Firmware Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>South West<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"><strong>Ace Hardware</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Associate Software Engineer 2027 Summer In...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IL - Oak Brook</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Associate-Solution-Architect--MPaaS_R108179-1"><strong>Tencent</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Solution Architect, MPaaS</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United Kingdom-London</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Associate-Solution-Architect--MPaaS_R108179-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0174120-3"><strong>Amentum</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Spaceflight Hardware Propulsion ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US-TX-Houston</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0174120-3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apog.wd1.myworkdayjobs.com/Apogee/job/Cincinnati-OH/Summer-Intern---Commercial-Installation-Sales-Engineer_JR111716"><strong>APOG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Commercial Installation/Sales...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apog.wd1.myworkdayjobs.com/Apogee/job/Cincinnati-OH/Summer-Intern---Commercial-Installation-Sales-Engineer_JR111716" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2"><strong>Autodesk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer (C++/.NET) - 12 months</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sheffield<br>GBP</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850">↳ <strong>Autodesk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>AUS</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2">↳ <strong>Autodesk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer (Javascript) - 12 m...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sheffield<br>GBP</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=123744">🔥 <strong>IBM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist-Artificial Intelligence - Inte...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Doha<br>Qatar</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=123744" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630"><strong>Federal Home Loan...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641">↳ <strong>Federal Home Loan...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MPP Data Analytics Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139"><strong>Arch Capital Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Digital Product Management UI/UX Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Greensboro<br>NC United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232"><strong>Sierra Nevada Cor...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineer Intern (Summer 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hagerstown<br>MD</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Atlanta-GA/Structures-Design-EIT_JR20106"><strong>Ferrovial</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Structures Design EIT</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Atlanta-GA/Structures-Design-EIT_JR20106" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564"><strong>GSK</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate, Platform Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru Luxor North Tower</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661">↳ <strong>GSK</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Polytechnic Internship - QA Operations, Singa...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Tuas</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2465,6 +2497,446 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-embedded-qa-engineer-intern-regami-solutions-chennai-0-to-1-years-281026004676"><strong>Regami Solutions</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded QA Engineer - Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-embedded-qa-engineer-intern-regami-solutions-chennai-0-to-1-years-281026004676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/78252225691820742"><strong>Youtube</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">User Experience Design Intern, Summer 2027, Y...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/78252225691820742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://t.me/junior_dou_ua/7105"><strong>Hys Enterprise</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Developer (.NET + Angular) Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Online</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://t.me/junior_dou_ua/7105" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482274697/"><strong>Skavop Tech Solut...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MERN Stack Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nagpur</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482274697/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95559744"><strong>Motorola Solutions</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Penang</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95559744" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95559747">↳ <strong>Motorola Solutions</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Penang</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95559747" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sjcontractspvtltd.keka.com/careers/jobdetails/93939"><strong>Sj Contracts</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Executive</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sjcontractspvtltd.keka.com/careers/jobdetails/93939" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/Certa/9f7caf0b-46ff-49ab-ae78-62deadec106e"><strong>Certa</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Engineer - Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/Certa/9f7caf0b-46ff-49ab-ae78-62deadec106e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95546796"><strong>Tranglo Sdn Bhd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Cybersecurity</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur City Centre<br>Kuala Lumpur</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95546796" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-back-end-engineer-nxtwave-disruptive-technologies-hyderabad-0-to-1-years-281026004253"><strong>Nxtwave Disruptiv...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Back End Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-back-end-engineer-nxtwave-disruptive-technologies-hyderabad-0-to-1-years-281026004253" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477241390"><strong>Lockheed Martin</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Littleton<br>CO</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477241390" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/95543108"><strong>Linkcircle Singap...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI &amp; Cybersecurity Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">One North<br>Central Region</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/95543108" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/103921"><strong>Dayforce</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">(Philippines) Cybersecurity Intern 6 Months</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>6 locations</strong></summary>NCR<br>PH; Manila<br>NCR<br>PH; Quezon City<br>NCR<br>Philippines</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/103921" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.dayforcehcm.com/en-US/colonialgroup/candidateportal/jobs/13826"><strong>Colonial Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ETRM IT Business Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.dayforcehcm.com/en-US/colonialgroup/candidateportal/jobs/13826" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ph.jobstreet.com/job/95542938"><strong>Alberto Shoes Cor...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cubao<br>Metro Manila</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ph.jobstreet.com/job/95542938" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://id.jobstreet.com/job/95542339"><strong>Hithink Technolog...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (6 months Paid Inter...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">South Jakarta<br>Jakarta</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://id.jobstreet.com/job/95542339" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95541779"><strong>Fuji Corporation</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Support Engineer / Application Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Johor Bahru<br>Johor</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95541779" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452226-wabtec-spring-2027-software-engineering-co-op-10-week-"><strong>Wabtec</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wabtec Spring 2027 Software Engineering Co-Op...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Schenectady<br>NY<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Wabtec/3743990016452226-wabtec-spring-2027-software-engineering-co-op-10-week-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.pyjamahr.com/ace-talent-recruitment/quality-assurance-continuous-improvement-engineering-internship-1"><strong>Ace Talent</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance &amp; Continuous Improvement En...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>VIC<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.pyjamahr.com/ace-talent-recruitment/quality-assurance-continuous-improvement-engineering-internship-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer"><strong>Realityjam</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Game Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://realityjam.breezy.hr/p/127c1df4ab6601-junior-game-developer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95538407"><strong>Kunzz Holdings Sd...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Executive / IT Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Taman Desa Cemerlang<br>Johor</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95538407" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.metacareers.com/profile/job_details/1823027662342331/">🔥 <strong>META</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ASIC Engineer Intern, Physical Design</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.metacareers.com/profile/job_details/1823027662342331/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/95536963"><strong>Mci Career Services</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer (Python &amp; SQL | Immediat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">West Region</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/95536963" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d078f524a1017958c74a542dc3&amp;id=8a7887a1a150293901a17f1736dc0800"><strong>John Burns Resear...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Internship - Data Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d078f524a1017958c74a542dc3&amp;id=8a7887a1a150293901a17f1736dc0800" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483696238/"><strong>Buildify</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Testing Intern (QA, UAT &amp; Test Platf...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483696238/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073302270_48&amp;lang=en_US"><strong>Seed Company</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern (Summer)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073302270_48&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073295157_3&amp;lang=en_US">↳ <strong>Seed Company</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern (Summer)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=879aaef6-c150-4180-85b4-c9e581e2cd78&amp;ccId=19000101_000001&amp;jobId=9202073295157_3&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482241751/"><strong>OORO</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Software Development Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482241751/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482239785/"><strong>Beckman Coulter L...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru East</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482239785/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ph.jobstreet.com/job/95536178"><strong>Indra Philippines</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior RPA UI Path Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>Metro Manila</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ph.jobstreet.com/job/95536178" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://my.jobstreet.com/job/95535738"><strong>Pingspace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Penang</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://my.jobstreet.com/job/95535738" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6111955004"><strong>Hp Iq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Cloud Services (Sum...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6111955004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114890004">↳ <strong>Hp Iq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Product &amp; Develo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114890004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114781004">↳ <strong>Hp Iq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, AML Platform (Su...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6114781004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c"><strong>Simbe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Robot Software Engineer Intern (Spring &amp; Summ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8">↳ <strong>Simbe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Computer Vision / Applied AI Intern (Summer 2...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/SimbeRobotics/d8e862ca-212d-4a88-af74-de400b0c6bf8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6116398004"><strong>Hp Iq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Security Intern ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6116398004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://contentguru.bamboohr.com/careers/332"><strong>Contentguru</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bracknell<br>Berkshire<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://contentguru.bamboohr.com/careers/332" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255"><strong>Standard Aero</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op, IT Analyst: Spring</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10255" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479">↳ <strong>Standard Aero</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, IT Analyst: Summer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/10479" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132822">🔥 <strong>IBM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer Intern - OneIT - Ro...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ROCHESTER<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132822" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132880">↳ 🔥 <strong>IBM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer Intern - OneIT - Po...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">POUGHKEEPSIE<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=132880" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.l3harris.com/en/job/columbia/software-engineer-intern/4832/101409856208"><strong>L3harris Technolo...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>MD<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.l3harris.com/en/job/columbia/software-engineer-intern/4832/101409856208" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.cake.me/companies/fpt-telecom/jobs/26550-ai-engineer-intern-ai-compiler-b279bf71cb3de666632558964b896f"><strong>Fpt Telecom</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer (Intern AI Compiler)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hanoi<br>Hanoi<br>Vietnam</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.cake.me/companies/fpt-telecom/jobs/26550-ai-engineer-intern-ai-compiler-b279bf71cb3de666632558964b896f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae1ad34b649e"><strong>Sembcorp Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Data Analytics</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae1ad34b649e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000158084729-it-support-engineer-intern"><strong>Rr Donnelley</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Warrenville<br>IL<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000158084729-it-support-engineer-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008"><strong>Geotab</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern, Geotab Vitality (W...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Oakville<br>Ontario - Canada; Toronto<br>Ontario - Canada; Waterloo<br>Ontario - Canada</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008">↳ <strong>Geotab</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern, MyAdmin (Winter/Ja...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Oakville<br>Ontario - Canada; Waterloo<br>Ontario - Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/omni-channel-solutions-ph-inc/job/L8V96WWR"><strong>Omni Channel Solu...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pasig<br>Metro Manila<br>Philippines</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/omni-channel-solutions-ph-inc/job/L8V96WWR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.trinethire.com/companies/1132638-deepseas/jobs/125991-penetration-tester"><strong>Deepseas</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Penetration Tester</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.trinethire.com/companies/1132638-deepseas/jobs/125991-penetration-tester" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/vividseatsllc/jobs/5269938007?gh_jid=5269938007"><strong>Vivid Se</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/vividseatsllc/jobs/5269938007?gh_jid=5269938007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-"><strong>Playtech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">QA Engineer (Intern)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kyiv<br>Ukraine</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://myjobs.adp.com/pennoniexternalcareers/cx/job/5001218853406"><strong>Pennoni</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Landscape Architect</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Leesburg<br>Virginia<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/pennoniexternalcareers/cx/job/5001218853406" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf"><strong>Resurgent Industries</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Firmware and Controls Engineer (Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4384198"><strong>Welch Packaging</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network Administrator</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Elkhart<br>IN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4384198" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626"><strong>ASML</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Internship/Co-Op: Data Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>USA</td>
@@ -2473,375 +2945,7 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-associate-qa-analyst-customer-operations/4673/100133784384"><strong>Customer Operations</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern: Associate QA Analyst (Cus...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Maryland Heights<br>Missouri<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-associate-qa-analyst-customer-operations/4673/100133784384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931"><strong>Motorola</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ho Chi Minh<br>Vietnam</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69931" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://flyscoot.wd102.myworkdayjobs.com/ScootExternalCareers/job/Singapore-HQ/Information-Security---Risk-Management-Intern_R0005978"><strong>Flyscoot</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Information Security &amp; Risk Management Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore HQ</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://flyscoot.wd102.myworkdayjobs.com/ScootExternalCareers/job/Singapore-HQ/Information-Security---Risk-Management-Intern_R0005978" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/f2bf06eae1d3e6af49609c6b99c73379"><strong>Msi Global Privat...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer (Backend Development) | 6-m...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/f2bf06eae1d3e6af49609c6b99c73379" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159893"><strong>Honeywell</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engr I</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/159893"><strong>Honeywell Technol...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engr I</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/159893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/159893"><strong>Honeywell Interna...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engr I</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx/job/159893" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/78775a9871fa0c2d1ed9958ac7019438"><strong>Aiper Global Pte Ltd</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/78775a9871fa0c2d1ed9958ac7019438" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/F61354E7AF"><strong>FUKU</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/F61354E7AF" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/47B19406ED">↳ <strong>FUKU</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer--Conversational AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/47B19406ED" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.instahyre.com/job-448298-associate-software-engineer-at-medanta-noida/"><strong>Medanta</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.instahyre.com/job-448298-associate-software-engineer-at-medanta-noida/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Business-Analyst-Intern_J29168"><strong>Rga Reinsurance C...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Malaysia<br>Kuala Lumpur</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Business-Analyst-Intern_J29168" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/a013dbba0a11cce5cefcd3fdf9eec948"><strong>Pipo Resource Sg ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine learning (Global Payment) - 2027 Star...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/a013dbba0a11cce5cefcd3fdf9eec948" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576"><strong>Leidos</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fort Belvoir<br>VA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69896-1"><strong>Motorola</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Penang<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R69896-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137">↳ <strong>Motorola</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Penang<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hysteryale.wd1.myworkdayjobs.com/Hyster-YaleCareers/job/HY-EMEA-UK-Irvine/Business-Analyst--Student-Placement-_R8544"><strong>Hysteryale</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst (Student Placement)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">HY EMEA UK Irvine</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hysteryale.wd1.myworkdayjobs.com/Hyster-YaleCareers/job/HY-EMEA-UK-Irvine/Business-Analyst--Student-Placement-_R8544" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477"><strong>Blue Cross And Bl...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Business Systems Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Providence<br>RI</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bcbsri.wd1.myworkdayjobs.com/BCBSRICareers/job/Providence-RI/Intern---Business-Systems-Analyst_JR100477" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692">🔥 <strong>Intel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PRC<br>Shanghai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shanghai/AI-Software-Engineer-Intern_JR0288692" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1"><strong>Sonos</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Brand Design Intern (New York)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1">↳ <strong>Sonos</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern (Boston)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434"><strong>Daimler Truck</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665"><strong>Stanley Black Decker</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Design Engineering Intern, 3D Surf...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>MD<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern--3D-Surfacing---Summer-2027_REQ-1000052665" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10046"><strong>Vsp Vision</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship, Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10046" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10068">↳ <strong>Vsp Vision</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship, Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote US</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://vsp.wd1.myworkdayjobs.com/VSPVisionCareers/job/Remote-US/Internship--Software-Engineer_R-10068" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Associate-Statistical-Programmer_JR163286"><strong>ICON</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Statistical Programmer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India<br>Bangalore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Associate-Statistical-Programmer_JR163286" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428"><strong>Fiskars</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Middleton</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831"><strong>RTX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Electrical Engineering Intern (Summe...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-MA-CAMBRIDGE-BBN01 ~ 10 &amp; 50 Moulton St ~ MOULTON B2</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Intern--Summer-2027-_01883831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598">↳ <strong>RTX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Electrical Engineering Co-Op (Spring...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-MA-CAMBRIDGE-BBN01 ~ 10 &amp; 50 Moulton St ~ MOULTON B2</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Hardware-Electrical-Engineering-Co-Op--Spring-2027-_01883598" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371">↳ <strong>RTX</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Co-op (January 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Co-op--January-2027-_01885371" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128"><strong>Hewlett Packard Hp</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Firmware Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>South West<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Singapore-South-West-Singapore/College-Intern---Firmware-Engineering_UNI5128" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"><strong>Ace Hardware</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Associate Software Engineer 2027 Summer In...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IL - Oak Brook</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Associate-Solution-Architect--MPaaS_R108179-1"><strong>Tencent</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Solution Architect, MPaaS</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United Kingdom-London</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Associate-Solution-Architect--MPaaS_R108179-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0174120-3"><strong>Amentum</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Spaceflight Hardware Propulsion ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">US-TX-Houston</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0174120-3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apog.wd1.myworkdayjobs.com/Apogee/job/Cincinnati-OH/Summer-Intern---Commercial-Installation-Sales-Engineer_JR111716"><strong>APOG</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer Intern - Commercial Installation/Sales...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cincinnati<br>OH</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apog.wd1.myworkdayjobs.com/Apogee/job/Cincinnati-OH/Summer-Intern---Commercial-Installation-Sales-Engineer_JR111716" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2"><strong>Autodesk</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer (C++/.NET) - 12 months</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sheffield<br>GBP</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--C---NET----12-months_26WD101693-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850">↳ <strong>Autodesk</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer [PDMS-D&amp;M-GDSIMENG]</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>AUS</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Melbourne-AUS/Intern--Software-Engineer--PDMS-D-M-GDSIMENG-_26WD101850" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2">↳ <strong>Autodesk</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineer (Javascript) - 12 m...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sheffield<br>GBP</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni/job/Sheffield-GBP/Intern--Software-Engineer--Javascript----12-months_26WD101691-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=123744">🔥 <strong>IBM</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist-Artificial Intelligence - Inte...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Doha<br>Qatar</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=123744" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630"><strong>Federal Home Loan...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Network-Engineer-Intern_R630" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641">↳ <strong>Federal Home Loan...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MPP Data Analytics Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139"><strong>Arch Capital Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Digital Product Management UI/UX Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Greensboro<br>NC United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://archgroup.wd1.myworkdayjobs.com/Careers/job/Greensboro-NC-United-States-of-America/Digital-Product-Management-Intern_R26_1139" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232"><strong>Sierra Nevada Cor...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineer Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hagerstown<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Hagerstown-MD/Network-Engineer-Intern--Summer-2027-_R0031232" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Atlanta-GA/Structures-Design-EIT_JR20106"><strong>Ferrovial</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structures Design EIT</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>GA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Atlanta-GA/Structures-Design-EIT_JR20106" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564"><strong>GSK</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate, Platform Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru Luxor North Tower</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Associate--Platform-Engineer_450564" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661">↳ <strong>GSK</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Polytechnic Internship - QA Operations, Singa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Tuas</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459"><strong>ASML</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459">↳ <strong>ASML</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Internship- Software Development Engineer in ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -3109,7 +3213,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Connectivity (Su...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hpiq/jobs/6176783004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3117,7 +3221,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Physical Design Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3125,7 +3229,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Design Verification Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3133,7 +3237,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Graphic Design</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>MN01<br>Chanhassen<br>MN<br>States</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&amp;ccId=19000101_000001&amp;jobId=9201258486375_86&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3141,7 +3245,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, 3D Designer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>MN01<br>Chanhassen<br>MN<br>States</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&amp;ccId=19000101_000001&amp;jobId=9201258435107_41&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3149,7 +3253,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, 3D Designer (MN)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>MN01<br>Chanhassen<br>MN<br>States</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&amp;ccId=19000101_000001&amp;jobId=9201258435285_61&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3157,102 +3261,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Structural Design</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>MN01<br>Chanhassen<br>MN<br>States</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81&amp;ccId=19000101_000001&amp;jobId=9201257694063_39&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.cake.me/companies/fpt-telecom/jobs/26550-ai-engineer-intern-ai-compiler-b279bf71cb3de666632558964b896f"><strong>Fpt Telecom</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer (Intern AI Compiler)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hanoi<br>Hanoi<br>Vietnam</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.cake.me/companies/fpt-telecom/jobs/26550-ai-engineer-intern-ai-compiler-b279bf71cb3de666632558964b896f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae1ad34b649e"><strong>Sembcorp Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Data Analytics</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidatev2/main/careers/jobDetails/a6ae1ad34b649e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000158084729-it-support-engineer-intern"><strong>Rr Donnelley</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Warrenville<br>IL<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/RRDonnelley/744000158084729-it-support-engineer-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008"><strong>Geotab</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern, Geotab Vitality (W...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Oakville<br>Ontario - Canada; Toronto<br>Ontario - Canada; Waterloo<br>Ontario - Canada</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008">↳ <strong>Geotab</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern, MyAdmin (Winter/Ja...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Oakville<br>Ontario - Canada; Waterloo<br>Ontario - Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/omni-channel-solutions-ph-inc/job/L8V96WWR"><strong>Omni Channel Solu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pasig<br>Metro Manila<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers-page.com/omni-channel-solutions-ph-inc/job/L8V96WWR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.trinethire.com/companies/1132638-deepseas/jobs/125991-penetration-tester"><strong>Deepseas</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Penetration Tester</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.trinethire.com/companies/1132638-deepseas/jobs/125991-penetration-tester" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/vividseatsllc/jobs/5269938007?gh_jid=5269938007"><strong>Vivid Se</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/vividseatsllc/jobs/5269938007?gh_jid=5269938007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-"><strong>Playtech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">QA Engineer (Intern)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kyiv<br>Ukraine</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Playtech/744000158069569-qa-engineer-intern-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://myjobs.adp.com/pennoniexternalcareers/cx/job/5001218853406"><strong>Pennoni</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Landscape Architect</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Leesburg<br>Virginia<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/pennoniexternalcareers/cx/job/5001218853406" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf"><strong>Resurgent Industries</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Firmware and Controls Engineer (Entr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/resurgent-industries/cf80a6e9-02db-4f0b-88cf-6bebd61fd3bf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4384198"><strong>Welch Packaging</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network Administrator</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Elkhart<br>IN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4384198" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3265,11 +3273,163 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4481872172/"><strong>Codentix Tech Llp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PHP Web Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Delhi</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481872172/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4481855229/"><strong>Edwards Lifesciences</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern (Internship Program)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune City</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481855229/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483607963/"><strong>Dexterz Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483607963/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4481471583/"><strong>Bharatcode</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481471583/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483618842/"><strong>Orbitapps Technol...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Flutter Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483618842/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://firstcitizens.jibeapply.com/careers-home/jobs/36230"><strong>First Citizens Bank</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern - Enterprise Data Analyst,...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">NCSFCC-First Citizens Center</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://firstcitizens.jibeapply.com/careers-home/jobs/36230" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570"><strong>Octasic</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Montréal<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/PolygonTechnology/744000158032349-business-analyst-intern"><strong>Polygon Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dhaka<br>Dhaka Division<br>Bangladesh</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/PolygonTechnology/744000158032349-business-analyst-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-graphic-designer-4sight-gurugram-1-to-3-years-271026027742"><strong>4sight</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-graphic-designer-4sight-gurugram-1-to-3-years-271026027742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.vml.com/careers/job/8829781002?gh_jid=8829781002"><strong>VML</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Designer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Malaysia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.vml.com/careers/job/8829781002?gh_jid=8829781002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300538&amp;jobPipeline=PhenomCareerSite"><strong>Bechtel</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern (AUS) Project Controls</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">East Perth<br>WA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300538&amp;jobPipeline=PhenomCareerSite" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-software-developer-intern-svadharma-social-innovations-bengaluru-0-to-1-years-271026014837"><strong>Svadharma Social ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-software-developer-intern-svadharma-social-innovations-bengaluru-0-to-1-years-271026014837" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-intern-software-developer-fresher-noida-krishi-vikas-sahakari-samiti-noida-0-to-1-years-190526012458"><strong>Krishi Vikas Saha...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern -Software Developer | Fresher | Noida</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-intern-software-developer-fresher-noida-krishi-vikas-sahakari-samiti-noida-0-to-1-years-190526012458" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://th.jobsdb.com/job/95528201"><strong>Central Retail Co...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SAP ABAP Developer / K2 Developer (Freshgrad ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bang Rak<br>Bangkok</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://th.jobsdb.com/job/95528201" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-python-full-stack-internship-for-27-28-freshers-only-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-0-years-271026023695"><strong>Independent Recru...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Python FULL STACK Internship _ For 27, 28 Fre...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad; Chennai; Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-python-full-stack-internship-for-27-28-freshers-only-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-0-years-271026023695" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://se.jibeapply.com/careers-home/jobs/137271"><strong>Schneider Electric</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Philippines-CALABARZON (Region IV-A)-Cavite</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://se.jibeapply.com/careers-home/jobs/137271" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://melodica.breezy.hr/p/a00e04382f86-junior-graphic-designer"><strong>Melodica</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dubai<br>United Arab Emirates</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://melodica.breezy.hr/p/a00e04382f86-junior-graphic-designer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300545&amp;jobPipeline=PhenomCareerSite"><strong>Bechtel</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern (AUS) Project Controls</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">East Perth<br>WA<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300545&amp;jobPipeline=PhenomCareerSite" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-fullstack-developer-intern-naukri-e-hire-chennai-0-to-1-years-271026022095"><strong>Naukri E Hire</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fullstack Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-fullstack-developer-intern-naukri-e-hire-chennai-0-to-1-years-271026022095" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1"><strong>Park National Bank</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineering/Data Science Summer Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Newark<br>Ohio<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/par1025pnatb/JobBoard/78198a68-8e94-4f76-b970-3a27214b2ee3/OpportunityDetail?opportunityId=06b7fd8f-690d-4645-a0ff-a1900cef7bb1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3277,7 +3437,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Scientist Intern, Video Intelligence...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bellevue<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.metacareers.com/profile/job_details/1789380188995838/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3285,7 +3445,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">System Engineer Intern, Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Rockville<br>Maryland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bae.phenompro.com/global/en/job/BAE1US129958BREXTERNAL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3293,7 +3453,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern, Full Stack</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose Office (HQ)</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3301,7 +3461,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manager Digital Product Design (Digital Sculp...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/hasbro/jobs/4293782009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3309,7 +3469,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Developer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/axq/jobs/5575451004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3317,7 +3477,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481897279/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3325,7 +3485,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481677206/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3333,7 +3493,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Development</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pune Division</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4476417181/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3341,7 +3501,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Glen Allen<br>VA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=6ee736fd-f0e0-462c-8f85-27e6db63d24b&amp;ccId=19000101_000001&amp;jobId=9201052689949_4&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3349,7 +3509,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Mobile - React Native)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483645530/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3357,7 +3517,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484071621/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3365,7 +3525,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sioux Falls<br>SD 57105</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.paycomonline.net/v4/ats/web.php/portal/43d75e2df3dfb76bcb85a922b26de5fa/jobs/507042" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3373,7 +3533,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Engineer Level 1</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Atlanta<br>Georgia<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/par1026pars/JobBoard/58872345-14a4-44df-bc73-e43b6c17c598/OpportunityDetail?opportunityId=4f52f495-6cbc-4c0d-9745-b306a7a5c7f4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3381,7 +3541,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer I</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://advantage-design-group.breezy.hr/p/b321c457c48f-software-developer-i" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3513,587 +3673,403 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4481872172/"><strong>Codentix Tech Llp</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PHP Web Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Delhi</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481872172/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://talentmanagementsolution.wd3.myworkdayjobs.com/ContourSoftware-Careers/job/PER---Karachi-PK/Trainee-Software-Developer_R55093"><strong>Talentmanagements...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Trainee Software Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PER - Karachi<br>Pakistan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://talentmanagementsolution.wd3.myworkdayjobs.com/ContourSoftware-Careers/job/PER---Karachi-PK/Trainee-Software-Developer_R55093" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4481855229/"><strong>Edwards Lifesciences</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern (Internship Program)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pune City</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481855229/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Bangalore-SDC---DLF-Cyber-City---Gurugram/AI-Led-Data-Engineer-AWS-Redshift-Glue-Pyspark----Associate-2_767355WD"><strong>PWC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Led Data Engineer(AWS Redshift+Glue+Pyspar...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore (SDC) - DLF Cyber City - Gurugram</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pwc.wd3.myworkdayjobs.com/CRM_Experienced_Careers_Site/job/Bangalore-SDC---DLF-Cyber-City---Gurugram/AI-Led-Data-Engineer-AWS-Redshift-Glue-Pyspark----Associate-2_767355WD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288327">🔥 <strong>Intel</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GPU Design Verification Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US<br>California<br>Folsom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288327" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483607963/"><strong>Dexterz Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483607963/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288329-1">↳ 🔥 <strong>Intel</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">GPU Design Verification Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US<br>California<br>Folsom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Design-Verification-Engineer_JR0288329-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cybersecurity---IDAM---Graduate-Program--German-Speaker-_769873WD"><strong>PWC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ETIC, Cybersecurity - IDAM - Graduate Program...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cairo - ETIC</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Cybersecurity---IDAM---Graduate-Program--German-Speaker-_769873WD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4481471583/"><strong>Bharatcode</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4481471583/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.gulftalent.com/jordan/jobs/motion-graphic-designer-and-video-editor-internship-651007"><strong>Zain Cash Jordan</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Motion Graphic Designer And Video Editor Inte...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Amman<br>Jordan</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gulftalent.com/jordan/jobs/motion-graphic-designer-and-video-editor-internship-651007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483618842/"><strong>Orbitapps Technol...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Flutter Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483618842/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.gulftalent.com/egypt/jobs/ui-ux-designer-651157"><strong>Arabybrand</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">UI/UX Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cairo<br>Egypt</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gulftalent.com/egypt/jobs/ui-ux-designer-651157" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://firstcitizens.jibeapply.com/careers-home/jobs/36230"><strong>First Citizens Bank</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern - Enterprise Data Analyst,...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">NCSFCC-First Citizens Center</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://firstcitizens.jibeapply.com/careers-home/jobs/36230" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.gulftalent.com/egypt/jobs/front-end-developer-intern-651156">↳ <strong>Arabybrand</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front-End Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cairo<br>Egypt</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gulftalent.com/egypt/jobs/front-end-developer-intern-651156" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570"><strong>Octasic</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montréal<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/PolygonTechnology/744000158032349-business-analyst-intern"><strong>Polygon Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dhaka<br>Dhaka Division<br>Bangladesh</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/PolygonTechnology/744000158032349-business-analyst-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security"><strong>Concurrent Techno...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technical Intern - Cyber Security</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Johnstown<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://concurrent-technologies-corporation.breezy.hr/p/a8b346409c4f-technical-intern-cyber-security" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-graphic-designer-4sight-gurugram-1-to-3-years-271026027742"><strong>4sight</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-graphic-designer-4sight-gurugram-1-to-3-years-271026027742" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.vml.com/careers/job/8829781002?gh_jid=8829781002"><strong>VML</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.gulftalent.com/egypt/jobs/graphic-designer-intern-651160">↳ <strong>Arabybrand</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Designer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Malaysia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.vml.com/careers/job/8829781002?gh_jid=8829781002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300538&amp;jobPipeline=PhenomCareerSite"><strong>Bechtel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern (AUS) Project Controls</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">East Perth<br>WA<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300538&amp;jobPipeline=PhenomCareerSite" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cairo<br>Egypt</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gulftalent.com/egypt/jobs/graphic-designer-intern-651160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-software-developer-intern-svadharma-social-innovations-bengaluru-0-to-1-years-271026014837"><strong>Svadharma Social ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-software-developer-intern-svadharma-social-innovations-bengaluru-0-to-1-years-271026014837" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1">🔥 <strong>VISA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Sophomore Internship Program - Software ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US - Bellevue<br>WA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-intern-software-developer-fresher-noida-krishi-vikas-sahakari-samiti-noida-0-to-1-years-190526012458"><strong>Krishi Vikas Saha...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern -Software Developer | Fresher | Noida</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-intern-software-developer-fresher-noida-krishi-vikas-sahakari-samiti-noida-0-to-1-years-190526012458" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W">↳ 🔥 <strong>VISA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Intern - 2027 Ashburn, VA</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US - Ashburn<br>VA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://th.jobsdb.com/job/95528201"><strong>Central Retail Co...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SAP ABAP Developer / K2 Developer (Freshgrad ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bang Rak<br>Bangkok</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://th.jobsdb.com/job/95528201" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W">↳ 🔥 <strong>VISA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Sophomore Internship Program - Software ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US - Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-python-full-stack-internship-for-27-28-freshers-only-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-0-years-271026023695"><strong>Independent Recru...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Python FULL STACK Internship _ For 27, 28 Fre...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad; Chennai; Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-python-full-stack-internship-for-27-28-freshers-only-independent-recruitment-consultant-freelancer-hyderabad-chennai-bengaluru-0-to-0-years-271026023695" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W">↳ 🔥 <strong>VISA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Intern - Foster City 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US - Foster City<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF089875W" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://se.jibeapply.com/careers-home/jobs/137271"><strong>Schneider Electric</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Philippines-CALABARZON (Region IV-A)-Cavite</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://se.jibeapply.com/careers-home/jobs/137271" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://melodica.breezy.hr/p/a00e04382f86-junior-graphic-designer"><strong>Melodica</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dubai<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://melodica.breezy.hr/p/a00e04382f86-junior-graphic-designer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W">↳ 🔥 <strong>VISA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Intern - 2027 Austin, TX</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US - Austin<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300545&amp;jobPipeline=PhenomCareerSite"><strong>Bechtel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern (AUS) Project Controls</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">East Perth<br>WA<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career4.successfactors.com/career?company=Bechtel&amp;career_ns=job_application&amp;career_job_req_id=300545&amp;jobPipeline=PhenomCareerSite" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013019"><strong>Emerson Electric</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Product Development Project Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marshalltown<br>IA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013019" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Onshape-QA-Intern--Summer-2027-_JR112910"><strong>PTC</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Onshape QA Intern (Summer 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ptc.wd1.myworkdayjobs.com/PTC/job/Boston-MA-USA/Onshape-QA-Intern--Summer-2027-_JR112910" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Mayo-US/job/392190"><strong>Mayo Clinic</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineering Intern - Software Develo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>MN<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Mayo-US/job/392190" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Mayo-US/job/393858">↳ <strong>Mayo Clinic</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Undergraduate Engineering Intern - Mechanical...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>MN<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Mayo-US/job/393858" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2437920"><strong>Cummins</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Thermal and Fluid Systems Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>IN<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2437920" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2441159">↳ <strong>Cummins</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Beijing<br>China</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2441159" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://Retsci.bamboohr.com/careers/71"><strong>Retsci</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Consultant Intern- PFE 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tunis<br>Tunis<br>Tunisia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://Retsci.bamboohr.com/careers/71" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-fullstack-developer-intern-naukri-e-hire-chennai-0-to-1-years-271026022095"><strong>Naukri E Hire</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fullstack Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-fullstack-developer-intern-naukri-e-hire-chennai-0-to-1-years-271026022095" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5056"><strong>Verisk</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Internship Program - Business Ana...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/appier/jobs/5001910"><strong>Appier</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technical Solution Engineer Intern (Ad cloud)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Taipei<br>Taiwan</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/appier/jobs/5001910" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cognira.bamboohr.com/careers/167"><strong>Cognira</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer Intern &amp; Data Science Intern - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Les Berges du Lac 2<br>Tunis<br>Tunisia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cognira.bamboohr.com/careers/167" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/glance/jobs/7916115"><strong>Glance</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">UX Design - Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/glance/jobs/7916115" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26173"><strong>Boston Properties</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26173" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003"><strong>Neuralink</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Robotics</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Austin<br>Texas<br>United States; South San Francisco<br>California<br>United States</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4592561101"><strong>Coherent Solutions</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Moldova</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4592561101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.benesch.com/job-openings/4655359007?gh_jid=4655359007"><strong>Benesch</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bridge Designer (EIT)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fort Worth<br>TX</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.benesch.com/job-openings/4655359007?gh_jid=4655359007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.gsacapital.com/careers/gh/?gh_jid=8570668002"><strong>GSA</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer - Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">London</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gsacapital.com/careers/gh/?gh_jid=8570668002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">21d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/lokainc/jobs/4673500007"><strong>Loka Inc</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data and Machine Learning Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Colombia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lokainc/jobs/4673500007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/mill/jobs/4674154005"><strong>MILL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Design Engineering Intern, Fall/Winte...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Bruno<br>California</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/mill/jobs/4674154005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/mindsquareag/jobs/4592577101"><strong>Mindsquare Ag</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikum / Praxisphase zum IT Consult...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/mindsquareag/jobs/4592577101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nuro.ai/careersitem?gh_jid=7351061"><strong>NURO</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, AI Platform - Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>California (HQ)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nuro.ai/careersitem?gh_jid=7351061" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002"><strong>Optiver</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Expressions of Interest - Graduate Software D...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sendbird.com/careers?gh_jid=8276676002"><strong>Sendbird</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Agent Engineer, Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seoul<br>South Korea</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sendbird.com/careers?gh_jid=8276676002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/simplifynext/jobs/4075990007"><strong>Simplifynext</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/simplifynext/jobs/4075990007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4028315009"><strong>Woolpert</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Aviation Design Intern - Expression of Interest</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/woolpert/jobs/4028315009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/yipitdatajobs/jobs/7026087"><strong>Yipitdata Alterna...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data QA Associate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/yipitdatajobs/jobs/7026087" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/yipitdatajobs/jobs/7019829">↳ <strong>Yipitdata Alterna...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data QA Associate (Finance)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/yipitdatajobs/jobs/7019829" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/yipitdatajobs/jobs/7026086">↳ <strong>Yipitdata Alterna...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data QA Specialist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/yipitdatajobs/jobs/7026086" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf"><strong>Hire Hangar</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Panama</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/hirehangar/3c708fbc-3ef1-437f-b45b-7277ed2e3adf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/mpn/jobs/4908045008"><strong>MPN</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Project Sales Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Las Vegas<br>NV</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/mpn/jobs/4908045008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.gsk.com/gb/en/job/GHVGPAGB440767EXTERNALENGB"><strong>GSK</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Smart Manufacturing Systems Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Marietta<br>Pennsylvania</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.gsk.com/gb/en/job/GHVGPAGB440767EXTERNALENGB" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">29d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003"><strong>Shift Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist Intern (English Speaker)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Brazil - Sao Paulo</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/7794260003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intelligenesis.applytojob.com/apply/NTIgMnihYU/Super-IntelligenceData-Science-TrainingCurriculum-Developer-DoW-SkillBridge"><strong>Intelligenesis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Super Intelligence/Data Science Training/Curr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>MD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intelligenesis.applytojob.com/apply/NTIgMnihYU/Super-IntelligenceData-Science-TrainingCurriculum-Developer-DoW-SkillBridge" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">27d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.lgresearch.ai/careers?gh_jid=4709731005"><strong>Lg Ai Research</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Data Engineer Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gangseo-gu<br>Seoul<br>South Korea</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.lgresearch.ai/careers?gh_jid=4709731005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.lgresearch.ai/careers?gh_jid=4603031005">↳ <strong>Lg Ai Research</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Protein Design Research Engineer Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gangseo-gu<br>Seoul<br>South Korea</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.lgresearch.ai/careers?gh_jid=4603031005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aertsen.zohorecruit.in/jobs/Careers/32083000013612161"><strong>Aertsen Living</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Intern - Interior Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aertsen.zohorecruit.in/jobs/Careers/32083000013612161" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dsltelecom.zohorecruit.com/jobs/Careers/562554000022721305"><strong>Dsl Telecom</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Somerset West<br>South Africa</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dsltelecom.zohorecruit.com/jobs/Careers/562554000022721305" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boltonmenkinc.rec.pro.ukg.net/bol1501btmk/JobBoard/5b2613af-7bb3-4989-8ffc-d5d26b50d663/OpportunityDetail?opportunityId=a0f45654-aa04-43b0-958a-3b72f3c554ff"><strong>Bolton Menk</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ITS Project Manager - Intelligent Transportat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CHARLOTTE<br>North Carolina<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boltonmenkinc.rec.pro.ukg.net/bol1501btmk/JobBoard/5b2613af-7bb3-4989-8ffc-d5d26b50d663/OpportunityDetail?opportunityId=a0f45654-aa04-43b0-958a-3b72f3c554ff" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://boltonmenkinc.rec.pro.ukg.net/bol1501btmk/JobBoard/5b2613af-7bb3-4989-8ffc-d5d26b50d663/OpportunityDetail?opportunityId=98c37616-beca-47ec-b529-5b801f858083">↳ <strong>Bolton Menk</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ITS Project Manager - Intelligent Transportat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MINNEAPOLIS<br>Minnesota<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boltonmenkinc.rec.pro.ukg.net/bol1501btmk/JobBoard/5b2613af-7bb3-4989-8ffc-d5d26b50d663/OpportunityDetail?opportunityId=98c37616-beca-47ec-b529-5b801f858083" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000000408364"><strong>Ladybird Web Solu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Internship For Software Engineers - Freshers</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore North<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000000408364" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000002891071">↳ <strong>Ladybird Web Solu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic designer Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jammu<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000002891071" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000000557804">↳ <strong>Ladybird Web Solu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Golang developer Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jammu<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000000557804" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://art-x.zohorecruit.in/jobs/Careers/46313000006090038"><strong>Asign</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CPB - Graphic Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://art-x.zohorecruit.in/jobs/Careers/46313000006090038" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/c3integratedsolutions/jobs/5274847007"><strong>C3 Integrated Sol...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SOC Analyst Internship Program - LSU Students...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/c3integratedsolutions/jobs/5274847007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://findorff.rec.pro.ukg.net/jhf1500jhfs/JobBoard/a0b9822a-64b6-4943-a88c-24067f93f3fe/OpportunityDetail?opportunityId=626eb5bf-63be-42ad-be38-9757c1f97458"><strong>Findorff</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Madison<br>Wisconsin<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://findorff.rec.pro.ukg.net/jhf1500jhfs/JobBoard/a0b9822a-64b6-4943-a88c-24067f93f3fe/OpportunityDetail?opportunityId=626eb5bf-63be-42ad-be38-9757c1f97458" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://trilongroup.pinpointhq.com/en/postings/5eb0fc66-664e-47db-9e75-12dab9c5d811"><strong>Trilon Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Traffic Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>North Carolina</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://trilongroup.pinpointhq.com/en/postings/5eb0fc66-664e-47db-9e75-12dab9c5d811" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/morph/jobs/4467371009"><strong>Morph</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Intern (Industrial / Mechanical)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York City</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/morph/jobs/4467371009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000157848021-2027-industrial-placement-industrial-designer-bray-ireland-"><strong>Pa Consulting</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Industrial Placement - Industrial Design...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bray<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/PAConsulting/744000157848021-2027-industrial-placement-industrial-designer-bray-ireland-" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c"><strong>Madhive</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Financial Systems</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Madhive HQ (New York<br>NY)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kinggroup.peopleforce.io/careers/v/247949-intern-motion-designer"><strong>King Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Motion Designer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kinggroup.peopleforce.io/careers/v/247949-intern-motion-designer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rubiconverse.rubicon.co.in/in/en/job/RRLRRLIN262487EXTERNALENIN"><strong>Rubicon Research ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rubiconverse.rubicon.co.in/in/en/job/RRLRRLIN262487EXTERNALENIN" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sg.jobstreet.com/job/95504644"><strong>Glaxosmithkline P...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Polytechnic Internship - QA Operations, Singa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tuas<br>West Region</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sg.jobstreet.com/job/95504644" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7694916003"><strong>Sezzle</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Security Infrastructure Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Colombia<br>Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/sezzle/jobs/7694916003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eaton.eightfold.ai/careers/job/687239531447"><strong>Eaton</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Test Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Richmond<br>Virginia<br>USA<br>23222</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eaton.eightfold.ai/careers/job/687239531447" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uhs.jibeapply.com/careers-home/jobs/374066"><strong>Uhs</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">RN Clinical System Analyst - Full Time</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SOCA REGIONAL OFFICE</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uhs.jibeapply.com/careers-home/jobs/374066" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.metacareers.com/profile/job_details/4070678619908522/">🔥 <strong>META</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern, Embedded AI on Wearables (PhD)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.metacareers.com/profile/job_details/4070678619908522/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.arcadis.com/careers/job/563671533312844"><strong>Arcadis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Roadway Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Knoxville<br>TN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.arcadis.com/careers/job/563671533312844" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.ultipro.com/car1060crtm/JobBoard/2625b169-13d2-4dbc-a867-a2ef29e59ef2/OpportunityDetail?opportunityId=7449afc3-a388-4ae6-ade8-df0851c21492"><strong>Carter Machinery</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FULL STACK DEVELOPER</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanicsville<br>Virginia<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/car1060crtm/JobBoard/2625b169-13d2-4dbc-a867-a2ef29e59ef2/OpportunityDetail?opportunityId=7449afc3-a388-4ae6-ade8-df0851c21492" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eaton.eightfold.ai/careers/job/687238057332"><strong>Eaton</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Internship Program: Engineering ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Moon Township<br>Pennsylvania<br>USA<br>15108</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eaton.eightfold.ai/careers/job/687238057332" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eaton.eightfold.ai/careers/job/687238043804">↳ <strong>Eaton</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Internship Program: Engineering ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Moon Township<br>Pennsylvania<br>USA<br>15108</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eaton.eightfold.ai/careers/job/687238043804" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9e26f425-d064-4c19-9e7b-cc8236837a7c&amp;ccId=19000101_000001&amp;jobId=9200905368962_1&amp;lang=en_US"><strong>Nou Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior AI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Colorado Springs CO<br>Colorado Springs<br>CO<br>States</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=9e26f425-d064-4c19-9e7b-cc8236837a7c&amp;ccId=19000101_000001&amp;jobId=9200905368962_1&amp;lang=en_US" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-front-end-developer-nxtwave-disruptive-technologies-mumbai-all-areas-0-to-1-years-261026028337"><strong>Nxtwave Disruptiv...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Front End Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai (All Areas)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-front-end-developer-nxtwave-disruptive-technologies-mumbai-all-areas-0-to-1-years-261026028337" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482947260/"><strong>Synerbit</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215940"><strong>Electronic Arts</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482947260/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215940" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/26013019"><strong>Emerson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Product Development Project Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Marshalltown<br>IA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/26013019" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482952423/"><strong>Bluebex</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Mobile &amp; Web)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kochi</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482952423/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/26173"><strong>Boston Properties...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/26173" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137919">🔥 <strong>IBM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Apprentice</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Armonk<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=137919" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sixarchitects.bamboohr.com/careers/135"><strong>Sixarchitects</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Design Professional</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Barbara<br>California<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sixarchitects.bamboohr.com/careers/135" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cognira.bamboohr.com/careers/169"><strong>Cognira</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - PFE 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Les Berges du Lac 2<br>Tunis<br>Tunisia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cognira.bamboohr.com/careers/169" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/392190"><strong>MAYO</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineering Intern - Software Develo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>MN<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/392190" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/393858">↳ <strong>MAYO</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Undergraduate Engineering Intern - Mechanical...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>MN<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/393858" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/665fae1ff034aac75b47435f691c9bfc"><strong>Viseo Asia Pte Ltd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Backend engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/665fae1ff034aac75b47435f691c9bfc" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.mycareersfuture.gov.sg/job/7f5b12d1ffc0dd21980de3041c4a16f4"><strong>Good To Great</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design &amp; DTP Artist (6-mth internship)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/7f5b12d1ffc0dd21980de3041c4a16f4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://techinsights.applytojob.com/apply/ZJYFqNjcVl/QA-Test-Automation-Coop-Student-Winter-2027"><strong>Techinsights</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">QA Test Automation Co-op Student (Winter 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ottawa<br>ON</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://techinsights.applytojob.com/apply/ZJYFqNjcVl/QA-Test-Automation-Coop-Student-Winter-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stateofohio.csod.com/ux/ats/careersite/1/home/requisition/1240?c=stateofohio"><strong>Stateofohio</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 ODNR Paid Summer Internship - Graphic De...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stateofohio.csod.com/ux/ats/careersite/1/home/requisition/1240?c=stateofohio" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Database Engineer Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>Washington<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.mercedes-benz.com/cyber-security-intern-244181-MER00049Y0"><strong>Mercedes Benz</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mississauga<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.mercedes-benz.com/cyber-security-intern-244181-MER00049Y0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26173"><strong>BXP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26173" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630"><strong>Emerson Electric</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010630" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042">↳ <strong>Emerson Electric</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070"><strong>Onsemi</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Spring 2027 - Customer Operations Data Analys...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Scottsdale<br>AZ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507070" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dover.wd103.myworkdayjobs.com/Dover/job/Chester-Virginia-USA/Intern--Engineer-New-Product-Development-Design-to-Value--NPD-DTV-_JR102047"><strong>Dover Wd103 Mywor...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Engineer New Product Development/Desi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chester<br>Virginia<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dover.wd103.myworkdayjobs.com/Dover/job/Chester-Virginia-USA/Intern--Engineer-New-Product-Development-Design-to-Value--NPD-DTV-_JR102047" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473"><strong>Rockwellautomation</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op, Embedded Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milwaukee<br>Wisconsin<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Technical Program Manager, Program M...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boise<br>ID - Main Site</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Technical-Program-Manager--Program-Management-Office--PMO-_JR115692" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - HBM Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richardson<br>TX</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---HBM-Data-Scientist_JR115127" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Product Yield Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boise<br>ID - Main Site</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881"><strong>Trinitylifesciences</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Waltham<br>MA - Headquarters</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625"><strong>Global Infrastruc...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Technology Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US | MO | St. Louis - 6 South Old Orchard</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--MO--St-Louis---6-South-Old-Orchard/Intern-Technology-Designer_6625" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--KS--Overland-Park---10561-Barkley-Street/Electrical-Engineering-Intern-Co-Op_6631">↳ <strong>Global Infrastruc...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Electrical Engineering Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">US | KS | Overland Park - 10561 Barkley Street</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/US--KS--Overland-Park---10561-Barkley-Street/Electrical-Engineering-Intern-Co-Op_6631" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">7d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 </tbody>

@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-03T18:17:56Z",
+ "built_at": "2026-11-03T22:44:26Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4065,6 +4065,11 @@
     }
    ]
   },
+  "averydennison": {
+   "fetched_at": "2026-11-03T22:44:19Z",
+   "label": "averydennison",
+   "titles": []
+  },
   "axos bank": {
    "fetched_at": "2026-10-25T16:10:57Z",
    "label": "Axos Bank",
@@ -4135,6 +4140,11 @@
      "title": "SVP, CHIEF INFORMATION SECURITY OFFICER"
     }
    ]
+  },
+  "backmarket": {
+   "fetched_at": "2026-11-03T22:44:20Z",
+   "label": "backmarket",
+   "titles": []
   },
   "bank of montreal": {
    "fetched_at": "2026-10-25T00:48:28Z",
@@ -15894,6 +15904,37 @@
    "label": "[KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325)",
    "titles": []
   },
+  "kleinfelder": {
+   "fetched_at": "2026-11-03T22:44:21Z",
+   "label": "kleinfelder",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 72696,
+     "title": "PROFESSIONAL"
+    },
+    {
+     "count": 13,
+     "median_salary": 69950,
+     "title": "STAFF PROFESSIONAL I"
+    },
+    {
+     "count": 3,
+     "median_salary": 82326,
+     "title": "STAFF PROFESSIONAL II"
+    },
+    {
+     "count": 2,
+     "median_salary": 98904,
+     "title": "PROJECT PROFESSIONAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 160493,
+     "title": "SENIOR PROFESSIONAL"
+    }
+   ]
+  },
   "kohl s": {
    "fetched_at": "2026-10-26T04:10:27Z",
    "label": "Kohl's",
@@ -18049,6 +18090,11 @@
   "mineralstech": {
    "fetched_at": "2026-10-25T14:47:27Z",
    "label": "mineralstech",
+   "titles": []
+  },
+  "mitre": {
+   "fetched_at": "2026-11-03T22:44:21Z",
+   "label": "MITRE",
    "titles": []
   },
   "moderna": {
@@ -21395,6 +21441,11 @@
     }
    ]
   },
+  "redbull": {
+   "fetched_at": "2026-11-03T22:44:22Z",
+   "label": "RedBull",
+   "titles": []
+  },
   "regeneron": {
    "fetched_at": "2026-10-29T05:15:54Z",
    "label": "Regeneron",
@@ -22060,6 +22111,11 @@
   "respecinc": {
    "fetched_at": "2026-11-01T10:55:49Z",
    "label": "respecinc",
+   "titles": []
+  },
+  "rgb webtech": {
+   "fetched_at": "2026-11-03T22:44:23Z",
+   "label": "RGB Webtech",
    "titles": []
   },
   "rivian": {
@@ -23853,6 +23909,112 @@
     }
    ]
   },
+  "servicenow": {
+   "fetched_at": "2026-11-03T22:44:24Z",
+   "label": "ServiceNow",
+   "titles": [
+    {
+     "count": 83,
+     "median_salary": 157500,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 61,
+     "median_salary": 132785,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 47,
+     "median_salary": 185232,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 29,
+     "median_salary": 78857,
+     "title": "TECHNICAL SUPPORT ENGINEER"
+    },
+    {
+     "count": 27,
+     "median_salary": 144275,
+     "title": "SENIOR SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 100407,
+     "title": "SENIOR TECHNICAL SUPPORT ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 118488,
+     "title": "SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 131201,
+     "title": "INBOUND PRODUCT MANAGER"
+    },
+    {
+     "count": 11,
+     "median_salary": 161470,
+     "title": "SENIOR INBOUND PRODUCT MANAGER"
+    },
+    {
+     "count": 11,
+     "median_salary": 170556,
+     "title": "STAFF SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 132785,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 217038,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 106782,
+     "title": "BUSINESS STRATEGY SPECIALIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 226158,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 217879,
+     "title": "STAFF MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 113753,
+     "title": "ASSOCIATE SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 139818,
+     "title": "FINANCE LEADERSHIP ROTATION PROGRAM FLRP"
+    },
+    {
+     "count": 5,
+     "median_salary": 211651,
+     "title": "MANAGER, SOFTWARE ENGINEERING MANAGEMENT"
+    },
+    {
+     "count": 5,
+     "median_salary": 164044,
+     "title": "SENIOR DATA PLATFORM SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 253637,
+     "title": "SENIOR MANAGER, SOFTWARE ENGINEERING MANAGEMENT"
+    }
+   ]
+  },
   "sezzle": {
    "fetched_at": "2026-10-25T20:25:04Z",
    "label": "sezzle",
@@ -24707,6 +24869,22 @@
      "count": 1,
      "median_salary": 210000,
      "title": "DIRECTOR, ENTERPRISE SYSTEMS"
+    }
+   ]
+  },
+  "socotec": {
+   "fetched_at": "2026-11-03T22:44:24Z",
+   "label": "Socotec",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92893,
+     "title": "STRUCTURAL DESIGNER"
     }
    ]
   },
@@ -26628,6 +26806,11 @@
   "the walt disney company https disney wd5 myworkdayjobs com disneycareer job burbank ca usa content research insights analytics intern spring 2027 10164072 1": {
    "fetched_at": "2026-10-28T05:05:44Z",
    "label": "[The Walt Disney Company](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1)",
+   "titles": []
+  },
+  "thenewyorktimes": {
+   "fetched_at": "2026-11-03T22:44:25Z",
+   "label": "thenewyorktimes",
    "titles": []
   },
   "thesemleragency": {
@@ -28978,6 +29161,11 @@
      "title": "MANAGER 2, PROGRAM MANAGEMENT"
     }
    ]
+  },
+  "westerndigital": {
+   "fetched_at": "2026-11-03T22:44:26Z",
+   "label": "westerndigital",
+   "titles": []
   },
   "westernveterinarypartnersllc": {
    "fetched_at": "2026-10-27T20:57:03Z",

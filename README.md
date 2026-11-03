@@ -7,14 +7,14 @@
 ### The all-in-one internship platform for college students
 
 [![Website](https://img.shields.io/badge/Visit-SearchTern.com-1D9E75?style=for-the-badge)](https://searchtern.ksaif.dev/)
-[![Listings](https://img.shields.io/badge/Internships-14,605-blue?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
+[![Listings](https://img.shields.io/badge/Internships-14,640-blue?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
 [![Updated](https://img.shields.io/badge/Updated-November%2003,%202026-orange?style=for-the-badge)](https://github.com/KSaifStack/jobscraper)
 
 </div>
 
 ---
 
-> 🎓 **14,605 internships & new grad roles** refreshed every 4 hours from 45 ATS platforms and community job boards worldwide.
+> 🎓 **14,640 internships & new grad roles** refreshed every 4 hours from 45 ATS platforms and community job boards worldwide.
 > Finding an internship has never been harder — students are sending 500–1000+ applications just to land one.
 > SearchTern breaks that cycle. [**Start your search →**](https://searchtern.ksaif.dev/)
 
@@ -24,15 +24,15 @@
 
 | Country | Listings | Share |
 |---------|----------|-------|
-| [🇺🇸 United States](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/US.md) | 12,851 | 88.0% |
-| [🇨🇦 Canada](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/CA.md) | 1,598 | 10.9% |
-| [🇬🇧 United Kingdom](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/GB.md) | 725 | 5.0% |
-| [🇮🇳 India](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/IN.md) | 490 | 3.4% |
-| [🇸🇬 Singapore](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/SG.md) | 264 | 1.8% |
-| [🇧🇷 Brazil](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/BR.md) | 93 | 0.6% |
+| [🇺🇸 United States](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/US.md) | 11,888 | 81.2% |
+| [🇨🇦 Canada](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/CA.md) | 1,414 | 9.7% |
+| [🇬🇧 United Kingdom](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/GB.md) | 667 | 4.6% |
+| [🇮🇳 India](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/IN.md) | 489 | 3.3% |
+| [🇸🇬 Singapore](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/SG.md) | 270 | 1.8% |
+| [🇧🇷 Brazil](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/BR.md) | 98 | 0.7% |
 | [🇮🇪 Ireland](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/IE.md) | 61 | 0.4% |
-| [🇦🇺 Australia](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/AU.md) | 50 | 0.3% |
-| [🇲🇽 Mexico](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/MX.md) | 48 | 0.3% |
+| [🇦🇺 Australia](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/AU.md) | 46 | 0.3% |
+| [🇲🇽 Mexico](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/MX.md) | 43 | 0.3% |
 | [🇳🇿 New Zealand](https://github.com/KSaifStack/searchtern-listings/blob/main/countries/NZ.md) | 19 | 0.1% |
 
 
@@ -95,18 +95,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 </thead>
 <tbody>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45632"><strong>Arcadis</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45632" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176640"><strong>EKAW</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Security Officer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manheim<br>PA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ekaw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/176640" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45632"><strong>Arcadis</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Environmental Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irvine<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45632" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">Today</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -139,7 +139,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Coding Agents &amp; Post-Traini...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://microsoft.eightfold.ai/careers/job/1970393557053024" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -147,7 +147,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Civil Engineer - Land Development</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.gem.com/bohler-/am9icG9zdDpFzi59xstu-FEFFfvdIksr" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern - Land Development, ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Towson<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.gem.com/bohler-/am9icG9zdDqP6L9p1bZUQruePvMN49SK" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Management Intern (Summer 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">US-CA-Menlo Park</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Speech Processing</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://microsoft.eightfold.ai/careers/job/1970393557053016" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">GNC Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/astro-mechanica/6ee33f39-7a07-4b46-8caf-5f6f7b62eb40" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/astro-mechanica/740cedb6-3c69-49c2-8662-7997799b8c87" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Airframe/Structures Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/astro-mechanica/746a6647-a07d-41ef-91e4-0dfe3a10800b" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Propulsion Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/astro-mechanica/8406a0b9-d8d6-40ff-b3e1-081a3e68968f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -211,7 +211,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical/Avionics Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/astro-mechanica/0916ad59-846f-4635-a68a-276da216a906" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Test Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">East Bay Area</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/astro-mechanica/06ecc8a2-5153-4257-8e54-eb9326a31982" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -227,7 +227,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Space Vehicle Power Systems Engineering Inter...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boulder<br>Colorado<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131727BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -235,7 +235,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Integrity Specialist Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Kansas City<br>MO<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159230389" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -243,7 +243,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Transit Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000159229400" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Researcher Intern, CoreAI</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://microsoft.eightfold.ai/careers/job/1970393557027387" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -259,7 +259,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Foundational Models &amp; Agent</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://microsoft.eightfold.ai/careers/job/1970393557052982" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -267,7 +267,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Structures / Mechanical Test Co-op - January ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>Texas</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/shieldai/1be0e71a-cf7f-4966-8532-09e6f40bb9dc" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -283,7 +283,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science INTERN</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tel Aviv-Yafo<br>Tel Aviv District<br>IL</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://microsoft.eightfold.ai/careers/job/1970393557050867" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -299,7 +299,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Morrisville<br>North Carolina<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/renesaselectronics/744000159218106" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -315,7 +315,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/intuitive/744000159218439" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -323,7 +323,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">[Latin America] Software Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Brazil</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gamebreaking-studios-inc.breezy.hr/p/2acb81097cb5-latin-america-software-engineering-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -355,7 +355,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Experiential Design Intern - Winter/Spring 20...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/matteprojects/jobs/6241529004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -379,7 +379,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, AI Application Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Folsom<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8163994003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Production Business Intelligence ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Torrance<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/divergent/jobs/5393537008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -419,7 +419,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">5G SA O-RAN Test Bed Co-Op (Engineering Co-Op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Woburn<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4726405006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -427,7 +427,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Material Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.keenfootwear.com/careers-list.html?4749923005&amp;gh_jid=4749923005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -435,7 +435,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Visual Design Intern - Spring 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.golden-careers.com/jobs/4748701005?gh_jid=4748701005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -443,7 +443,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Assistant</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Harlem<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/adamsclinical/jobs/4473205009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -467,7 +467,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Marketing Intern, Games</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4749836005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Agentic Software Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Frisco<br>TX</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -483,7 +483,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Performance Testing &amp; Validation Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.keenfootwear.com/careers-list.html?4748678005&amp;gh_jid=4748678005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -491,7 +491,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Analytics Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.keenfootwear.com/careers-list.html?4748305005&amp;gh_jid=4748305005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -743,58 +743,98 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?in_iframe=1"><strong>Rambus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Digital Design</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Johns Creek<br>GA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-skanska.icims.com/jobs/9086/project-engineer-%28owner%27s-agent%29---2027-new-grad/job?in_iframe=1"><strong>Skanska</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Project Engineer (Owner&#x27;s Agent) - 2027 New Grad</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Conshohocken<br>PA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-skanska.icims.com/jobs/9086/project-engineer-%28owner%27s-agent%29---2027-new-grad/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13102/college-intern---technical-publications-editor/job?in_iframe=1"><strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Technical Publications Editor</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13102/college-intern---technical-publications-editor/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kleinfelder.icims.com/jobs/10688/geotechnical-engineering-intern-co-op/job?in_iframe=1"><strong>Kleinfelder</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Geotechnical Engineering Intern/Co-Op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Exton<br>PA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kleinfelder.icims.com/jobs/10688/geotechnical-engineering-intern-co-op/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-gannettfleming.icims.com/jobs/14893/intern---water-engineering/job?in_iframe=1"><strong>Gannettfleming</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Water Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-gannettfleming.icims.com/jobs/14893/intern---water-engineering/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13101/college-intern---administrative-process-automation-%28lax%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Administrative Process Autom...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13101/college-intern---administrative-process-automation-%28lax%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kci.icims.com/jobs/8221/site-civil-engineering-intern-%28summer-2027%29/job?in_iframe=1"><strong>KCI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Site/Civil Engineering Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>SC<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kci.icims.com/jobs/8221/site-civil-engineering-intern-%28summer-2027%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13100/college-intern---airport-operations-administrative-analyst-%28ord%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Airport Operations Administr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13100/college-intern---airport-operations-administrative-analyst-%28ord%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-consoreng.icims.com/jobs/7027/water-%26-wastewater-treatment-engineering-intern/job?in_iframe=1"><strong>Consoreng</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Water &amp; Wastewater Treatment Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Knoxville<br>TN<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-consoreng.icims.com/jobs/7027/water-%26-wastewater-treatment-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13098/college-intern---finance-analyst/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Finance Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13098/college-intern---finance-analyst/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sargentlundy.icims.com/jobs/28466/structural-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1"><strong>Sargentlundy</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineer 1 (Entry-Level) - Nuclear</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chattanooga<br>TN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sargentlundy.icims.com/jobs/28466/structural-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13094/college-intern---airport-operations-%26-planning-analyst-%28dfw%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Airport Operations &amp; Plannin...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas - Fort Worth (DFW) Airport<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13094/college-intern---airport-operations-%26-planning-analyst-%28dfw%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13093/college-intern---maintenance-training-curriculum-developer/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Maintenance Training Curricu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13093/college-intern---maintenance-training-curriculum-developer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13090/college-intern---engineering-technical-services/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Engineering Technical Services</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13090/college-intern---engineering-technical-services/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13089/college-intern---reliability-technical-services/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Reliability Technical Services</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13089/college-intern---reliability-technical-services/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13088/college-intern---flight-operations-%28line%2c-technical-and-training%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Flight Operations (Line, Tec...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13088/college-intern---flight-operations-%28line%2c-technical-and-training%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://englishcareers-bartlett.icims.com/jobs/36600/research-intern/job?in_iframe=1"><strong>Englishcareers Ba...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>NC<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://englishcareers-bartlett.icims.com/jobs/36600/research-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-amtrustgroup.icims.com/jobs/21033/seasonal-associate---tax-analyst-intern/job?in_iframe=1"><strong>Amtrustgroup</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tax Analyst Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cleveland<br>OH<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-amtrustgroup.icims.com/jobs/21033/seasonal-associate---tax-analyst-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?in_iframe=1">↳ <strong>Amtrustgroup</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Financial Systems Support Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -803,6 +843,14 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - HR Information Systems Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13106/college-intern---hr-information-systems-analyst/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-citizensenergygroup.icims.com/jobs/3462/plant-engineering-intern/job?in_iframe=1"><strong>Citizensenergygroup</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Plant Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>IN<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-citizensenergygroup.icims.com/jobs/3462/plant-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -823,106 +871,58 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?in_iframe=1"><strong>Amtrustgroup</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Financial Systems Support Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-amtrustgroup.icims.com/jobs/20996/seasonal-associate---financial-systems-support-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sargentlundy.icims.com/jobs/28466/structural-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1"><strong>Sargentlundy</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Structural Engineer 1 (Entry-Level) - Nuclear</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chattanooga<br>TN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sargentlundy.icims.com/jobs/28466/structural-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13088/college-intern---flight-operations-%28line%2c-technical-and-training%29/job?in_iframe=1"><strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Flight Operations (Line, Tec...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13088/college-intern---flight-operations-%28line%2c-technical-and-training%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-skanska.icims.com/jobs/9086/project-engineer-%28owner%27s-agent%29---2027-new-grad/job?in_iframe=1"><strong>Skanska</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Project Engineer (Owner&#x27;s Agent) - 2027 New Grad</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Conshohocken<br>PA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-skanska.icims.com/jobs/9086/project-engineer-%28owner%27s-agent%29---2027-new-grad/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13089/college-intern---reliability-technical-services/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Reliability Technical Services</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13089/college-intern---reliability-technical-services/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-gannettfleming.icims.com/jobs/14893/intern---water-engineering/job?in_iframe=1"><strong>Gannettfleming</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Water Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-gannettfleming.icims.com/jobs/14893/intern---water-engineering/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13090/college-intern---engineering-technical-services/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Engineering Technical Services</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13090/college-intern---engineering-technical-services/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?in_iframe=1"><strong>Rambus</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Digital Design</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Johns Creek<br>GA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-rambus.icims.com/jobs/23113/intern---digital-design/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kci.icims.com/jobs/8221/site-civil-engineering-intern-%28summer-2027%29/job?in_iframe=1"><strong>KCI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Site/Civil Engineering Intern (Summer 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>SC<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kci.icims.com/jobs/8221/site-civil-engineering-intern-%28summer-2027%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13093/college-intern---maintenance-training-curriculum-developer/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Maintenance Training Curricu...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13093/college-intern---maintenance-training-curriculum-developer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kleinfelder.icims.com/jobs/10688/geotechnical-engineering-intern-co-op/job?in_iframe=1"><strong>Kleinfelder</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Geotechnical Engineering Intern/Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Exton<br>PA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kleinfelder.icims.com/jobs/10688/geotechnical-engineering-intern-co-op/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13094/college-intern---airport-operations-%26-planning-analyst-%28dfw%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Airport Operations &amp; Plannin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas - Fort Worth (DFW) Airport<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13094/college-intern---airport-operations-%26-planning-analyst-%28dfw%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-amtrustgroup.icims.com/jobs/21033/seasonal-associate---tax-analyst-intern/job?in_iframe=1"><strong>Amtrustgroup</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tax Analyst Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cleveland<br>OH<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-amtrustgroup.icims.com/jobs/21033/seasonal-associate---tax-analyst-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://englishcareers-bartlett.icims.com/jobs/36600/research-intern/job?in_iframe=1"><strong>Englishcareers Ba...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Charlotte<br>NC<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://englishcareers-bartlett.icims.com/jobs/36600/research-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13098/college-intern---finance-analyst/job?in_iframe=1"><strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Finance Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13098/college-intern---finance-analyst/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13100/college-intern---airport-operations-administrative-analyst-%28ord%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Airport Operations Administr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chicago<br>IL<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13100/college-intern---airport-operations-administrative-analyst-%28ord%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13101/college-intern---administrative-process-automation-%28lax%29/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Administrative Process Autom...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Los Angeles<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13101/college-intern---administrative-process-automation-%28lax%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-envoyair.icims.com/jobs/13102/college-intern---technical-publications-editor/job?in_iframe=1">↳ <strong>Us Envoyair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Technical Publications Editor</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Irving<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-envoyair.icims.com/jobs/13102/college-intern---technical-publications-editor/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-citizensenergygroup.icims.com/jobs/3462/plant-engineering-intern/job?in_iframe=1"><strong>Citizensenergygroup</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Plant Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Indianapolis<br>IN<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-citizensenergygroup.icims.com/jobs/3462/plant-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-consoreng.icims.com/jobs/7027/water-%26-wastewater-treatment-engineering-intern/job?in_iframe=1"><strong>Consoreng</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Water &amp; Wastewater Treatment Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Knoxville<br>TN<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-consoreng.icims.com/jobs/7027/water-%26-wastewater-treatment-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -991,10 +991,58 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.zimmerbiomet.com/job/13309"><strong>Zimmerbiomet</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Co-Op, Software Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Montreal<br>Quebec<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.zimmerbiomet.com/job/13309" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.itw.com/job/JR10806"><strong>Itw</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - New Product Implementation (NPI) (Su...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lake Forest<br>Illinois<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR10806" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.itw.com/job/JR10688">↳ <strong>Itw</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern (Summer 2027)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lake Forest<br>Illinois<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR10688" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.itw.com/job/JR10942">↳ <strong>Itw</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Process Engineering Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clare<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR10942" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.merck.com/job/R424526"><strong>Merck</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Future Talent Program - Patient Data Lea...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>Massachusetts<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.merck.com/job/R424526" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.hpe.com/job/1218251"><strong>Hpe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Juan<br>Puerto Rico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.hpe.com/job/1218251" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042619"><strong>GE Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ETIP Electrical Systems Component - Student</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro<br>Querétaro<br>Mexico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042619" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042621">↳ <strong>GE Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">EID Intern - Fluids Systems</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro<br>Querétaro<br>Mexico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042621" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1007,6 +1055,14 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.sutterhealth.org/job/R-144779"><strong>Sutterhealth</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.sutterhealth.org/job/R-144779" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2024757"><strong>Cisco</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineer II Intern - United States</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States of America</td>
@@ -1015,7 +1071,15 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2027173">↳ <strong>Cisco</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.icf.com/job/R2603418"><strong>Icf</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern, Energy Researcher (Reston...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Reston<br>Virginia<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.icf.com/job/R2603418" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2027173"><strong>Cisco</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Strategy &amp; Planning Manager - Campus and Bran...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>California<br>United States of America</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.cisco.com/job/2027173" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -1027,6 +1091,38 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Management Intern (Summer 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Menlo Park<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.snowflake.com/job/b282fc4c-d041-487a-8444-eab095749368" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers.philips.com/job/590339"><strong>Philips</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op - Mechanical Engineering Technician - L...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Latham<br>New York<br>United States<br>New York<br>United States of America</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers.philips.com/job/590339" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.abb/job/JR00044848"><strong>Abb</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Physical AI Robotics Simulation Intern- Fall ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>California<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.abb/job/JR00044848" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042294"><strong>GE Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Artificial Intelligence Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Abu Dhabi<br>United Arab Emirates</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042294" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042291">↳ <strong>GE Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Artificial Intelligence Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Ad Dawhah<br>Qatar</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042291" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1047,98 +1143,26 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.msd.com/job/R424417"><strong>Msd</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ankara<br>Ankara<br>Turkiye</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.msd.com/job/R424417" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.icf.com/job/R2603418"><strong>Icf</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern, Energy Researcher (Reston...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Reston<br>Virginia<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.icf.com/job/R2603418" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.sutterhealth.org/job/R-144779"><strong>Sutterhealth</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Francisco<br>California<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.sutterhealth.org/job/R-144779" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.itw.com/job/JR10806"><strong>Itw</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - New Product Implementation (NPI) (Su...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lake Forest<br>Illinois<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR10806" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042621"><strong>GE Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">EID Intern - Fluids Systems</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro<br>Querétaro<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042621" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042619">↳ <strong>GE Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ETIP Electrical Systems Component - Student</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro<br>Querétaro<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042619" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042294">↳ <strong>GE Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Artificial Intelligence Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Abu Dhabi<br>United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042294" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5042291">↳ <strong>GE Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Artificial Intelligence Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Ad Dawhah<br>Qatar</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5042291" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers.philips.com/job/590339"><strong>Philips</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op - Mechanical Engineering Technician - L...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Latham<br>New York<br>United States<br>New York<br>United States of America</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers.philips.com/job/590339" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.hpe.com/job/1218251"><strong>Hpe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Juan<br>Puerto Rico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.hpe.com/job/1218251" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.abb/job/JR00044848"><strong>Abb</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Physical AI Robotics Simulation Intern- Fall ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Milpitas<br>California<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.abb/job/JR00044848" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.gehealthcare.com/job/R4045995"><strong>Gehealthcare</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer Trainee</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnātaka<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.gehealthcare.com/job/R4045995" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.zimmerbiomet.com/job/13309"><strong>Zimmerbiomet</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Co-Op, Software Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Montreal<br>Quebec<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.zimmerbiomet.com/job/13309" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.zimmerbiomet.com/job/13405">↳ <strong>Zimmerbiomet</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Co-Op, Development Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>Florida<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.zimmerbiomet.com/job/13405" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1151,26 +1175,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.itw.com/job/JR10942"><strong>Itw</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Process Engineering Co-Op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clare<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR10942" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.itw.com/job/JR10688">↳ <strong>Itw</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern (Summer 2027)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lake Forest<br>Illinois<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.itw.com/job/JR10688" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.labcorp.com/job/2639083"><strong>Labcorp</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op - Full-Stack Life Sciences Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Durham<br>North Carolina<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.labcorp.com/job/2639083" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.labcorp.com/job/2632739"><strong>Labcorp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Mechanical Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bloomfield<br>Connecticut<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.labcorp.com/job/2632739" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1183,42 +1191,34 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.labcorp.com/job/2632739">↳ <strong>Labcorp</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Mechanical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bloomfield<br>Connecticut<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.labcorp.com/job/2632739" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.labcorp.com/job/2639083">↳ <strong>Labcorp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Co-op - Full-Stack Life Sciences Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Durham<br>North Carolina<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.labcorp.com/job/2639083" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.zimmerbiomet.com/job/13405"><strong>Zimmerbiomet</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Co-Op, Development Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>Florida<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.zimmerbiomet.com/job/13405" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.msd.com/job/R424417"><strong>Msd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ankara<br>Ankara<br>Turkiye</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.msd.com/job/R424417" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.merck.com/job/R424526"><strong>Merck</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Future Talent Program - Patient Data Lea...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>Massachusetts<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.merck.com/job/R424526" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789235&amp;company=Ericsson"><strong>Ericsson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Networks PMO Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Texas<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789235&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=236920&amp;company=charlesrivP"><strong>Charles River Lab...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Intern -Data Science - Bioscience...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Delaware<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=236920&amp;company=charlesrivP" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789227&amp;company=Ericsson">↳ <strong>Ericsson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Networks PSS Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=790346&amp;company=Ericsson"><strong>Ericsson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Strategy Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Texas<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789227&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=790346&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -1231,10 +1231,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=790346&amp;company=Ericsson">↳ <strong>Ericsson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Strategy Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789227&amp;company=Ericsson">↳ <strong>Ericsson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Networks PSS Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Texas<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=790346&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789227&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789235&amp;company=Ericsson">↳ <strong>Ericsson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Networks PMO Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Texas<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=789235&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -1247,74 +1255,26 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=236920&amp;company=charlesrivP"><strong>Charles River Lab...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Intern -Data Science - Bioscience...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Delaware<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career4.successfactors.com/sfcareer/jobreqcareer?jobId=236920&amp;company=charlesrivP" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://waynetalent.csod.com/ux/ats/careersite/2/job/3723?c=waynetalent"><strong>Wayne State Unive...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant, Basic Science - Departmen...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Detroit<br>MI<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://waynetalent.csod.com/ux/ats/careersite/2/job/3723?c=waynetalent" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10594714/apply">🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Engagement Manager Intern- National...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>Virginia<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10594714/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-expc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15815"><strong>Fa Expc Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Visual Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Western Cape<br>South Africa</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-expc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15815" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279536"><strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Data Intelligence/Technical Progr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279536" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesCanada/job/77076"><strong>Fa Exhh Saasfapro...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Marketplace Platform</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Framingham<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesCanada/job/77076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318808144">↳ <strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Electrical Engineer Intern- Maste...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318808144" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773409">↳ <strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Software Engineer Intern- Bachelo...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773409" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279491">↳ <strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Technical Project/Program Managem...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279491" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bms.eightfold.ai/careers/job/137484262543"><strong>Bristol Myers Squibb</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Oncology Discovery Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bms.eightfold.ai/careers/job/137484262543" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/2F769F90A0"><strong>Activate Interact...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - IN26008</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/2F769F90A0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523"><strong>Ford Global Caree...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CAE Engineer  - Early Career Program, Advance...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Long Beach<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1359,42 +1319,26 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073"><strong>Emerson Career Site</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer Co-op July-December</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mansfield<br>MA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10594714/apply">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Engagement Manager Intern- National...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>Virginia<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10594714/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24852"><strong>EDEL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Careers: Embedded Software Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24852" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://waynetalent.csod.com/ux/ats/careersite/2/job/3723?c=waynetalent"><strong>Wayne State Unive...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant, Basic Science - Departmen...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Detroit<br>MI<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://waynetalent.csod.com/ux/ats/careersite/2/job/3723?c=waynetalent" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5126"><strong>ENZJ</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Professor in Electrical Engineering...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">United Arab Emirates</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5126" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435082"><strong>Fa Espx Saasfaprod</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Early Career - Thermal and Fluid Systems...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wuhan<br>Hubei<br>China</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435082" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523"><strong>Ford Global Caree...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CAE Engineer  - Early Career Program, Advance...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Long Beach<br>CA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73523" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848"><strong>Iawmqy</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; AI Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bratislava<br>Bratislavsky kraj<br>Slovakia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1407,74 +1351,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848"><strong>Iawmqy</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data &amp; AI Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bratislava<br>Bratislavsky kraj<br>Slovakia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239"><strong>Grant Thornton Us</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Audit IT Assurance Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tulsa<br>OK<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/116239" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952"><strong>EMIT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Data Analyst Intern - Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesCanada/job/77076"><strong>Fa Exhh Saasfapro...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Marketplace Platform</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Framingham<br>MA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesCanada/job/77076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/mayo-us/job/394695"><strong>Mayo Clinic</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data Science AI-I (PhD level)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>MN<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/mayo-us/job/394695" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378831"><strong>Church</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Paid Intern - HQF Space Data &amp; Facilities Pla...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://burnmanufacturing.applytojob.com/apply/jobs/details/jTqBOHqmSa"><strong>Burnmanufacturing</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software QA Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nairobi<br>Kenya</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://burnmanufacturing.applytojob.com/apply/jobs/details/jTqBOHqmSa" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177"><strong>Careers Bxp</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Services Co-Op</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobs/job/11795"><strong>EBFR</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Burlington<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobs/job/11795" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392"><strong>EGUG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Graduate Masters Summer Internship Pro...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Phoenix<br>AZ<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1495,26 +1375,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rodanenergysolutionsinc.applytojob.com/apply/jobs/details/CrbmvnkugD"><strong>Rodanenergysoluti...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Solutions Specialist - Co-op Student (Wint...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mississauga<br>ON<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rodanenergysolutionsinc.applytojob.com/apply/jobs/details/CrbmvnkugD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177"><strong>Careers Bxp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Services Co-Op</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375"><strong>EGUG</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Campus Undergraduate Summer Internship Progra...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Phoenix<br>AZ<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://strategicrisksolutions.applytojob.com/apply/jobs/details/Wd2FDKbqNv"><strong>Strategicrisksolu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Underwriting Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Concord<br>MA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://strategicrisksolutions.applytojob.com/apply/jobs/details/Wd2FDKbqNv" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378831"><strong>Church</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Paid Intern - HQF Space Data &amp; Facilities Pla...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Salt Lake City<br>UT<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/378831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1531,6 +1403,134 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Production Control Student/Co-op- Winter 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Halifax<br>NS<br>Canada</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hcpd.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Careers/job/13111" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobs/job/11795"><strong>EBFR</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Burlington<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebfr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobs/job/11795" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24852"><strong>EDEL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Careers: Embedded Software Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sunnyvale<br>CA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/24852" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073"><strong>Emerson Career Site</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer Co-op July-December</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mansfield<br>MA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435082"><strong>Fa Espx Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Early Career - Thermal and Fluid Systems...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Wuhan<br>Hubei<br>China</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435082" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773409"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Software Engineer Intern- Bachelo...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773409" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279491">↳ <strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Technical Project/Program Managem...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279491" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318808144">↳ <strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Electrical Engineer Intern- Maste...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318808144" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279536">↳ <strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Data Intelligence/Technical Progr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318279536" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bms.eightfold.ai/careers/job/137484262543"><strong>Bristol Myers Squibb</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Oncology Discovery Research Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bms.eightfold.ai/careers/job/137484262543" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5127"><strong>ENZJ</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Professor in Chemical Engineering -...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">United Arab Emirates</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://enzj.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/5127" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/202116"><strong>EPPR</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manhasset<br>Nassau<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/202116" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952"><strong>EMIT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Transportation Data Analyst Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Seattle<br>WA<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/j/2F769F90A0"><strong>Activate Interact...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - IN26008</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/j/2F769F90A0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rodanenergysolutionsinc.applytojob.com/apply/jobs/details/CrbmvnkugD"><strong>Rodanenergysoluti...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Solutions Specialist - Co-op Student (Wint...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mississauga<br>ON<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rodanenergysolutionsinc.applytojob.com/apply/jobs/details/CrbmvnkugD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://strategicrisksolutions.applytojob.com/apply/jobs/details/Wd2FDKbqNv"><strong>Strategicrisksolu...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Underwriting Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Concord<br>MA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://strategicrisksolutions.applytojob.com/apply/jobs/details/Wd2FDKbqNv" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://burnmanufacturing.applytojob.com/apply/jobs/details/jTqBOHqmSa"><strong>Burnmanufacturing</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software QA Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nairobi<br>Kenya</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://burnmanufacturing.applytojob.com/apply/jobs/details/jTqBOHqmSa" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1567,10 +1567,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/767"><strong>Centrus Global Ca...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Project Controls Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/774"><strong>Centrus Global Ca...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Project Controls Intern - 2027 (Piketon)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Piketon<br>OH<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/767" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eese.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CentrusEnergyCareers/job/774" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1579,7 +1579,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">DevOps Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-gdms.icims.com/jobs/75769/devops-engineer-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1671,18 +1671,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258769"><strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Electrical Engineer Co-op (Biller...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Billerica<br>MA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258769" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258817"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Process Engineer Intern - BS or M...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gloucester<br>MA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258817" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258821">↳ <strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Manufacturing Engineer Co-op (Bil...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258769">↳ <strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Electrical Engineer Co-op (Biller...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Billerica<br>MA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258821" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258769" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -1695,10 +1695,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258817">↳ <strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Process Engineer Intern - BS or M...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gloucester<br>MA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258817" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258821">↳ <strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Manufacturing Engineer Co-op (Bil...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Billerica<br>MA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319258821" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -1739,7 +1739,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Assistant Project Engineer Intern (Copy)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Clare<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.gem.com/granger-construction/am9icG9zdDpSMpSUyh8SsXjNxuDu0pwn" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1747,7 +1747,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Wise/744000158848229" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1755,7 +1755,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Intern - Office of Applied Research</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://microsoft.eightfold.ai/careers/job/1970393557051409" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1763,7 +1763,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern III</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Minneapolis<br>MN SUITE 1100 800<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000158845522" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1771,7 +1771,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Electrical/Electromechanical Enginee...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Devens<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/cfsenergy/5ed9b326-1824-4efb-bc9a-dc4a813ebcb7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1779,7 +1779,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Test Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Waltham<br>MA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813568250" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -1787,7 +1787,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Mechanical and Magnet Engineer - Spr...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Devens<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/cfsenergy/2edaad6a-3def-479e-992e-b0c333b9022f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1795,7 +1795,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">GeoComply Graduate Rotational Program (Techno...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver<br>BC</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/geocomply-2/4ea5981c-aadf-473e-bc26-f1ea3ec8af45" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1811,7 +1811,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant II</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Woods Hole<br>MA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/MAR1033MBL/JobBoard/4c3007c3-6354-41de-a13f-d95be60d91e9/OpportunityDetail?opportunityId=b1dcd058-15e3-44f5-9bcc-6093310941be" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1819,7 +1819,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campus Security Officer I (CSO 1)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Woods Hole<br>MA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/MAR1033MBL/JobBoard/4c3007c3-6354-41de-a13f-d95be60d91e9/OpportunityDetail?opportunityId=cffd871e-2553-499f-8f50-385d95700863" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1827,7 +1827,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Apparel Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>Texas</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/nuuds/8dd1ddca-d7bb-45cc-b3b1-9c2d341da3ae" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1835,7 +1835,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Geotechnical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Providence<br>RI<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/GZA1000GZAE/JobBoard/4e8d2f3c-fad9-4c18-aa44-0e2f64a9bc41/OpportunityDetail?opportunityId=5d8a8e51-ab3f-4aa8-84a4-af14663a51f7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -1843,7 +1843,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Water Resources Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Conshohocken<br>PA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000158822899" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1851,7 +1851,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Water Resources Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Philadelphia<br>PA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000158822759" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1859,7 +1859,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Water Resources Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000158822609" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1867,7 +1867,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-Level Water Resources Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Newark<br>DE<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aecom2/744000158821071" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1875,7 +1875,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry-level Transportation Engineer/Planner</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sacramento<br>California</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/fehrandpeers/53aca26b-82a2-4eef-adef-57d95bccda94" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1883,7 +1883,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Structural Engineer - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Devens<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/cfsenergy/faa295da-2f67-41af-88aa-516f118e38e3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1891,7 +1891,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Test Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>TX</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/base-power/0594dd17-1291-4802-90fb-14e0d775d2d6" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1979,7 +1979,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Fall 2027 Manufacturing Engineer Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>7 locations</strong></summary>Ashville<br>Ohio<br>United States; Quincy<br>Massachusetts<br>United States; Santa Ana<br>California<br>United States</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5280611007?gh_jid=5280611007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1995,7 +1995,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, Performance Tools...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4473568009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2011,7 +2011,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Infrastructure Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Wayzata<br>Minnesota<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/gardacp/jobs/6239821004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2059,7 +2059,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Co-Op, AI-Driven Equation Discovery</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA USA; San Francisco<br>CA USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4469152009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2075,7 +2075,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, Graphics (NTD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4473550009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2099,7 +2099,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Management Intern, Wirecutter</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748461005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2107,7 +2107,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Backend Engineering Intern, Wirecutter</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2123,7 +2123,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Editorial Design Intern, Wirecutter</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748518005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2447,6 +2447,46 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-erac.icims.com/jobs/572135/intern---project-administrator-associate-%28it%29%2c-summer-2027/job?in_iframe=1"><strong>Us Erac</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Project Administrator Associate (IT)...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-erac.icims.com/jobs/572135/intern---project-administrator-associate-%28it%29%2c-summer-2027/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers2-quanta.icims.com/jobs/19684/associate-graduate-engineer/job?in_iframe=1"><strong>Careers2 Quanta</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Graduate Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">MO<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers2-quanta.icims.com/jobs/19684/associate-graduate-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uscareers-lennox.icims.com/jobs/56297/supply-chain-technology-intern/job?in_iframe=1"><strong>Lennox</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Supply Chain Technology Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Richardson<br>TX<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uscareers-lennox.icims.com/jobs/56297/supply-chain-technology-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-us-shermco.icims.com/jobs/2172/new-grad-electrical-engineer---power-studies/job?in_iframe=1"><strong>Us Shermco</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Grad Electrical Engineer - Power Studies</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Regina<br>SK<br>CA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-us-shermco.icims.com/jobs/2172/new-grad-electrical-engineer---power-studies/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-carollo.icims.com/jobs/4674/civil-environmental-engineering-intern/job?in_iframe=1"><strong>Carollo</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Civil/Environmental Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-carollo.icims.com/jobs/4674/civil-environmental-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-mineralstech.icims.com/jobs/4905/production-%26-processing-intern/job?in_iframe=1"><strong>Mineralstech</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Production &amp; Processing Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Canaan<br>CT<br>States</td>
@@ -2479,46 +2519,6 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://uscareers-lennox.icims.com/jobs/56297/supply-chain-technology-intern/job?in_iframe=1"><strong>Lennox</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Supply Chain Technology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Richardson<br>TX<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://uscareers-lennox.icims.com/jobs/56297/supply-chain-technology-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-carollo.icims.com/jobs/4674/civil-environmental-engineering-intern/job?in_iframe=1"><strong>Carollo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Civil/Environmental Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-carollo.icims.com/jobs/4674/civil-environmental-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-us-shermco.icims.com/jobs/2172/new-grad-electrical-engineer---power-studies/job?in_iframe=1"><strong>Us Shermco</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Grad Electrical Engineer - Power Studies</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Regina<br>SK<br>CA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-us-shermco.icims.com/jobs/2172/new-grad-electrical-engineer---power-studies/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://us-erac.icims.com/jobs/572135/intern---project-administrator-associate-%28it%29%2c-summer-2027/job?in_iframe=1"><strong>Us Erac</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Project Administrator Associate (IT)...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">St. Louis<br>MO<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://us-erac.icims.com/jobs/572135/intern---project-administrator-associate-%28it%29%2c-summer-2027/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers2-quanta.icims.com/jobs/19684/associate-graduate-engineer/job?in_iframe=1"><strong>Careers2 Quanta</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Graduate Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">MO<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers2-quanta.icims.com/jobs/19684/associate-graduate-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/astera/59578b73-571f-462d-a3d2-5f19b1ee6ed8"><strong>Astera</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Systems Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Emeryville HQ</td>
@@ -2527,18 +2527,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131672BR"><strong>BAE Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Intern II, Summer 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>Texas<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131672BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131674BR"><strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern II, Summer 2027...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131674BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131674BR">↳ <strong>BAE Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern II, Summer 2027...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131674BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131672BR">↳ <strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Intern II, Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>Texas<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131672BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2559,18 +2559,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131950BR">↳ <strong>BAE Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern III (Summer 202...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Greenlawn<br>New York<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131950BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131949BR">↳ <strong>BAE Systems</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Intern III (Summer ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Greenlawn<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131949BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/131950BR">↳ <strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Intern III (Summer 202...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Greenlawn<br>New York<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131950BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2615,10 +2615,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.gehealthcare.com/job/R4046068"><strong>Gehealthcare</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineering Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnātaka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.gehealthcare.com/job/R4046068" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.adobe.com/job/R173019">🔥 <strong>Adobe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Intern- Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Yerevan<br>Armenia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.adobe.com/job/R173019" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2631,6 +2631,14 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.gehealthcare.com/job/R4046068"><strong>Gehealthcare</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineering Trainee</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnātaka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.gehealthcare.com/job/R4046068" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/job/202610-127540"><strong>Roche</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Intern - Systems &amp; Hardware Devel...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tucson<br>Arizona<br>United States of America</td>
@@ -2639,10 +2647,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.adobe.com/job/R173019">🔥 <strong>Adobe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Intern- Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Yerevan<br>Armenia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.adobe.com/job/R173019" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.msd.com/job/R399995"><strong>Msd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Supply Chain Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.msd.com/job/R399995" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2659,14 +2667,6 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Marketing- Agentic Analytics Intern (...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Menlo Park<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.snowflake.com/job/a48d3bde-d462-49a8-963f-d58c42855dd3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.msd.com/job/R399995"><strong>Msd</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Supply Chain Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.msd.com/job/R399995" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2711,26 +2711,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593521/apply">🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern, Machine...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>Virginia<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593521/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593902/apply">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593902/apply">🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer (Database) Earl...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>Massachusetts<br>USA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593902/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593299/apply">↳ 🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Developer Intern, Early Careers 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Bavaria<br>DEU</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593299/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2743,7 +2727,23 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10563242/apply">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2533920"><strong>Ibwsjb</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Credit Balance Accounts Receivable Analyst In...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Land O&#x27; Lakes<br>FL<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2533920" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593521/apply">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer Intern, Machine...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>Massachusetts<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593521/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10563242/apply">↳ 🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Critical Project Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">SGP</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10563242/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -2759,10 +2759,42 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2533920"><strong>Ibwsjb</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Credit Balance Accounts Receivable Analyst In...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Land O&#x27; Lakes<br>FL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibwsjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2533920" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593299/apply">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Developer Intern, Early Careers 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Munich<br>Bavaria<br>DEU</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593299/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978"><strong>Corsair</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Viet Nam</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4471"><strong>EPIX</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern-Procurement (Supply Chain Automation):...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Houston<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://epix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4471" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773385"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Electrical Radio Frequency Engine...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773385" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1100"><strong>Fa Eqcd Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Business Analyst Intern - Summer 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1100" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2775,34 +2807,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773385">↳ <strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Summer 2027 Electrical Radio Frequency Engine...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Santa Clara<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790318773385" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ejof.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22254"><strong>Baylor</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Student Worker- Student Research Assistant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Waco<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ejof.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/22254" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://seattleseahawks.applytojob.com/apply/jobs/details/L4GOGEtBhp"><strong>Seattleseahawks</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Information Security Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Renton<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://seattleseahawks.applytojob.com/apply/jobs/details/L4GOGEtBhp" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978"><strong>Corsair</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Viet Nam</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://edix.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8978" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2899,7 +2907,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cuautitlán Izcalli<br>ESTADO DE MÉXICO<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/smithsgroup2/744000158614699" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2907,15 +2915,23 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Platform (Early Career)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Torrance<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/128055BR"><strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/128054BR"><strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern II, (Summer 2027)...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/128054BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/128055BR">↳ <strong>BAE Systems</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern IV, (Summer 2027)...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/128055BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2923,15 +2939,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern III, Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/127189BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/128054BR">↳ <strong>BAE Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern II, (Summer 2027)...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/128054BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2947,7 +2955,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">US-MN | US-WI | US | US-IA | US-FL | US-GA | US | US-VA | US-KY | US-ID | US-CA...</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://servicesite-ampact.icims.com/jobs/63672/graphic-design-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2955,7 +2963,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Intern, Human-Machine Interaction Re...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Altos<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2963,7 +2971,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant II Lab</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/HarvardUniversity/3743990016508587" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2971,7 +2979,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Civil/Environmental Engineer - #3078</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Taylor<br>MI</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/wadetrim/0f5dc0d3-1224-482c-80b3-3b98d3bcf1b7" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2979,7 +2987,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineering Co-Op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Louisville<br>KY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/diversified-automation/7a1f1890-bc5d-4e5e-a510-7fe7f85660d3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -2987,7 +2995,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">US-MN | US-WI | US | US-IA | US-FL | US-GA | US | US-VA | US-KY | US-ID | US-CA...</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-ampact.icims.com/jobs/63672/graphic-design-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2995,7 +3003,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Controls Engineering Co-Op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Louisville<br>KY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/diversified-automation/9506c50b-2859-4a78-a6b2-229b1366611d" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3003,7 +3011,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Human Interactive Driving Intern, Platform Re...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Altos<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/tri/0e7063a7-7761-4843-bc28-bf7870fa44b3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3011,7 +3019,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Human Interactive Driving Research Intern, Wo...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Altos<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3019,7 +3027,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Human Interactive Driving Research Intern, De...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Altos<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/tri/3e69a8d4-6286-4d00-8677-7597e98fdb56" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3035,7 +3043,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Human Interactive Driving Research Intern, Pe...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Los Altos<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3043,7 +3051,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst IT (Co-op)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vancouver</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/powerex/68feca50-a2c6-44c7-8c08-4b7f86eaa256" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3051,7 +3059,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Quality Assurance Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Shanghai</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.apple.com/en-us/details/200690946/manufacturing-quality-assurance-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3059,7 +3067,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Systems Software Engineering</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3107,7 +3115,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Technical Intern, Structural Engineering Summ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Oakland<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.sgh.com/careers/job-openings/view-job/8924066002?gh_jid=8924066002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3123,7 +3131,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cloud Engineer Co-op</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Wakefield<br>MA (Hybrid)</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/internrecruiting/jobs/8310712" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3179,7 +3187,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Test Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3215,18 +3223,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kimley-horn.icims.com/jobs/26045/civil-engineering-intern/job?in_iframe=1">↳ <strong>Kimley Horn</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Durham<br>NC<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kimley-horn.icims.com/jobs/26045/civil-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kimley-horn.icims.com/jobs/24983/civil-engineering-intern/job?in_iframe=1">↳ <strong>Kimley Horn</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cary<br>NC<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kimley-horn.icims.com/jobs/24983/civil-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kimley-horn.icims.com/jobs/26045/civil-engineering-intern/job?in_iframe=1">↳ <strong>Kimley Horn</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Durham<br>NC<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kimley-horn.icims.com/jobs/26045/civil-engineering-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
@@ -3251,7 +3259,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, Connectivity (NTD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4472147009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3423,10 +3431,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813547676"><strong>Boston Scientific</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Leads Sustaining Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arden Hills<br>MN<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813547676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813519130"><strong>Boston Scientific</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Maple Grove<br>MN<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813519130" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -3439,10 +3447,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813519130">↳ <strong>Boston Scientific</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Maple Grove<br>MN<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813519130" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813547676">↳ <strong>Boston Scientific</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Leads Sustaining Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arden Hills<br>MN<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813547676" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -3455,26 +3463,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kleinfelder.icims.com/jobs/10553/entry-level-water-resources-engineer/job?in_iframe=1"><strong>Kleinfelder</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Water Resources Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kleinfelder.icims.com/jobs/10553/entry-level-water-resources-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sargentlundy.icims.com/jobs/28408/piping-stress-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1"><strong>Sargentlundy</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Piping Stress Engineer 1 (Entry-Level) - Nuclear</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chattanooga<br>TN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sargentlundy.icims.com/jobs/28408/piping-stress-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sri.icims.com/jobs/6534/education-research-assistant%2c-field-assessor-%28manatee-county%2c-fl%29/job?in_iframe=1"><strong>SRI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Education Research Assistant, Field Assessor ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">FL<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sri.icims.com/jobs/6534/education-research-assistant%2c-field-assessor-%28manatee-county%2c-fl%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs-selectmedicalcorp.icims.com/jobs/389050/2027-summer-internship---network---unified-communications-%28uc%29-intern/job?in_iframe=1"><strong>Jobs Selectmedica...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Internship - Network / Unified Co...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanicsburg<br>PA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs-selectmedicalcorp.icims.com/jobs/389050/2027-summer-internship---network---unified-communications-%28uc%29-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3487,26 +3479,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-dewberry.icims.com/jobs/16556/cad-designer-intern/job?in_iframe=1"><strong>Dewberry</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">CAD Designer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Lakeland<br>FL<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-dewberry.icims.com/jobs/16556/cad-designer-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sri.icims.com/jobs/6534/education-research-assistant%2c-field-assessor-%28manatee-county%2c-fl%29/job?in_iframe=1"><strong>SRI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Education Research Assistant, Field Assessor ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">FL<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sri.icims.com/jobs/6534/education-research-assistant%2c-field-assessor-%28manatee-county%2c-fl%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-dewberry.icims.com/jobs/16553/entry-level-site-civil-engineer/job?in_iframe=1">↳ <strong>Dewberry</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-dewberry.icims.com/jobs/16553/entry-level-site-civil-engineer/job?in_iframe=1"><strong>Dewberry</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Site/Civil Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Richmond<br>VA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-dewberry.icims.com/jobs/16553/entry-level-site-civil-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job?in_iframe=1"><strong>Gannettfleming</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Geotechnical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanicsburg<br>PA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3519,7 +3503,15 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-e2.icims.com/jobs/6375/transmission-line-engineer-%28entry-level%29/job?in_iframe=1">↳ <strong>E</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sargentlundy.icims.com/jobs/28408/piping-stress-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1"><strong>Sargentlundy</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Piping Stress Engineer 1 (Entry-Level) - Nuclear</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chattanooga<br>TN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sargentlundy.icims.com/jobs/28408/piping-stress-engineer-1-%28entry-level%29---nuclear/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-e2.icims.com/jobs/6375/transmission-line-engineer-%28entry-level%29/job?in_iframe=1"><strong>E</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Transmission Line Engineer (Entry-level)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pasadena<br>CA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-e2.icims.com/jobs/6375/transmission-line-engineer-%28entry-level%29/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -3527,10 +3519,26 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs-selectmedicalcorp.icims.com/jobs/389050/2027-summer-internship---network---unified-communications-%28uc%29-intern/job?in_iframe=1"><strong>Jobs Selectmedica...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Internship - Network / Unified Co...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job?in_iframe=1"><strong>Gannettfleming</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Geotechnical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mechanicsburg<br>PA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs-selectmedicalcorp.icims.com/jobs/389050/2027-summer-internship---network---unified-communications-%28uc%29-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-gannettfleming.icims.com/jobs/15022/entry-level-geotechnical-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-kleinfelder.icims.com/jobs/10553/entry-level-water-resources-engineer/job?in_iframe=1"><strong>Kleinfelder</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Water Resources Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kleinfelder.icims.com/jobs/10553/entry-level-water-resources-engineer/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-dewberry.icims.com/jobs/16556/cad-designer-intern/job?in_iframe=1"><strong>Dewberry</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">CAD Designer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Lakeland<br>FL<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-dewberry.icims.com/jobs/16556/cad-designer-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3575,66 +3583,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2029143"><strong>Cisco</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Sales Engineer I (Intern) - Brazil</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">BRASILIA<br>Distrito Federal<br>Brazil</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.cisco.com/job/2029143" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers.philips.com/job/594522"><strong>Philips</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Advanced Manufacturing Engineer - Pl...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Plymouth<br>Minnesota<br>United States<br>Minnesota<br>United States of America</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers.philips.com/job/594522" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.hpe.com/job/1214028"><strong>Hpe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">ASIC Verification Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Roseville<br>California<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.hpe.com/job/1214028" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5041887"><strong>GE Aerospace</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Quality Assurance</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Subang<br>Selangor<br>Malaysia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5041887" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5037702">↳ <strong>GE Aerospace</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Materials Application Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro<br>Querétaro<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5037702" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers.philips.com/job/593133"><strong>Philips</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Industrial Design - Murrysville, PA ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Murrysville<br>Pennsylvania<br>United States<br>Pennsylvania<br>United States of America</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers.philips.com/job/593133" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2027214"><strong>Cisco</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sustainability Analyst I (Intern) - United St...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States of America</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.cisco.com/job/2027214" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.abb/job/JR00051511"><strong>Abb</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Intern-Winter 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dorval<br>Quebec<br>Canada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.abb/job/JR00051511" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3655,10 +3607,26 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.hpe.com/job/1216281"><strong>Hpe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Consulting Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ariana<br>Ariana<br>Tunisia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.hpe.com/job/1216281" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2029143"><strong>Cisco</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Sales Engineer I (Intern) - Brazil</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">BRASILIA<br>Distrito Federal<br>Brazil</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.cisco.com/job/2029143" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.cisco.com/job/2027214">↳ <strong>Cisco</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sustainability Analyst I (Intern) - United St...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Jose<br>California<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.cisco.com/job/2027214" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers.philips.com/job/594522"><strong>Philips</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Advanced Manufacturing Engineer - Pl...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Plymouth<br>Minnesota<br>United States<br>Minnesota<br>United States of America</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers.philips.com/job/594522" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3671,12 +3639,60 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.geaerospace.com/job/R5037702"><strong>GE Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Materials Application Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro<br>Querétaro<br>Mexico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.geaerospace.com/job/R5037702" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.hpe.com/job/1216281"><strong>Hpe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Consulting Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ariana<br>Ariana<br>Tunisia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.hpe.com/job/1216281" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.hpe.com/job/1214028">↳ <strong>Hpe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">ASIC Verification Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Roseville<br>California<br>United States of America</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.hpe.com/job/1214028" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.abb/job/JR00051511"><strong>Abb</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineering Intern-Winter 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dorval<br>Quebec<br>Canada</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.abb/job/JR00051511" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers.philips.com/job/593133"><strong>Philips</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Industrial Design - Murrysville, PA ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>5 locations</strong></summary>Murrysville<br>Pennsylvania<br>United States<br>Pennsylvania<br>United States of America</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.careers.philips.com/job/593133" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=790024&amp;company=Ericsson"><strong>Ericsson</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New Grad-Power Amplifier Developer-CD</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sichuan<br>China</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=790024&amp;company=Ericsson" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/44663"><strong>Fa Ewkd Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Assistant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tampa<br>FL<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/44663" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://turnerconstruction.csod.com/ux/ats/careersite/1/job/21749?c=turnerconstruction"><strong>Turner Construction</strong></a></td>
@@ -3687,58 +3703,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10591956/apply">🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">HW Commodity Specialist Intern, Data Center S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SGP</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10591956/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592104/apply">↳ 🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Software Dev Engineer Intern - Tel-Aviv,...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tel Aviv-Yafo<br>Tel Aviv<br>ISR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592104/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593054/apply">↳ 🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Center Infrastructure Engineer Intern, S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ohio<br>USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593054/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://macomtech.csod.com/ux/ats/careersite/4/job/3804?c=macomtech"><strong>Macom Technology ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer (Entry Level)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://macomtech.csod.com/ux/ats/careersite/4/job/3804?c=macomtech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592105/apply">🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Software Dev Engineer Intern - Haifa, Is...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Haifa<br>Haifa<br>ISR</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592105/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592140/apply">↳ 🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Amazon Intern Program 2027 | Data &amp; Analytics</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sao Paulo<br>Sao Paulo<br>BRA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592140/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592138/apply">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592138/apply">🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Amazon Intern Program 2027 | Business &amp; Produ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sao Paulo<br>Sao Paulo<br>BRA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592138/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197"><strong>Fa Exvu Saasfapro...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3751,58 +3727,34 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/44663"><strong>Fa Ewkd Saasfaprod</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Research Assistant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tampa<br>FL<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-ewkd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/USF/job/44663" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10593054/apply">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Center Infrastructure Engineer Intern, S...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Austin<br>Texas<br>USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10593054/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.eightfold.ai/careers/job/1443154261085"><strong>CACI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Systems Engineering Co-op/Intern - Spring 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.eightfold.ai/careers/job/1443154261085" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592104/apply">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Software Dev Engineer Intern - Tel-Aviv,...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tel Aviv-Yafo<br>Tel Aviv<br>ISR</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592104/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.eightfold.ai/careers/job/1443154261084">↳ <strong>CACI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Co-op/Intern - Spring 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.eightfold.ai/careers/job/1443154261084" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592105/apply">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Software Dev Engineer Intern - Haifa, Is...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Haifa<br>Haifa<br>ISR</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592105/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.eightfold.ai/careers/job/1443154261015">↳ <strong>CACI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Co-op/Intern - Spring ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.eightfold.ai/careers/job/1443154261015" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319250461"><strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Process Engineer Co-op - Doctorat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gloucester<br>MA<br>States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319250461" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197"><strong>Fa Exvu Saasfapro...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Arlington<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5071"><strong>Eozs Cx 1</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PMO Analyst Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>SC<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5071" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10591956/apply">↳ 🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">HW Commodity Specialist Intern, Data Center S...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SGP</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10591956/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3815,14 +3767,6 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8386"><strong>Fa Eomf Saasfaprod</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant (Center for Regenerative S...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Antonio<br>TX<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8386" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1747"><strong>Iadugs</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Marketing Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">West Hartford<br>CT<br>United States</td>
@@ -3831,10 +3775,26 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://arminstitute.applytojob.com/apply/jobs/details/vd0StCQn1I"><strong>Arminstitute</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer Co-op/ Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://arminstitute.applytojob.com/apply/jobs/details/vd0StCQn1I" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://macomtech.csod.com/ux/ats/careersite/4/job/3804?c=macomtech"><strong>Macom Technology ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer (Entry Level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Diego<br>CA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://macomtech.csod.com/ux/ats/careersite/4/job/3804?c=macomtech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://account.amazon.jobs/jobs/10592140/apply">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Amazon Intern Program 2027 | Data &amp; Analytics</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sao Paulo<br>Sao Paulo<br>BRA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://account.amazon.jobs/jobs/10592140/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20073"><strong>Aci Worldwide Job...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Technical Consultant</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Colombia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20073" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3847,6 +3807,54 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.eightfold.ai/careers/job/1443154261015"><strong>CACI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Co-op/Intern - Spring ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.eightfold.ai/careers/job/1443154261015" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.eightfold.ai/careers/job/1443154261084">↳ <strong>CACI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Co-op/Intern - Spring 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.eightfold.ai/careers/job/1443154261084" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://caci.eightfold.ai/careers/job/1443154261085">↳ <strong>CACI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Systems Engineering Co-op/Intern - Spring 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Rochester<br>NY<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://caci.eightfold.ai/careers/job/1443154261085" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5071"><strong>Eozs Cx 1</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PMO Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>SC<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eozs.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5071" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319250461"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Spring Process Engineer Co-op - Doctorat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gloucester<br>MA<br>States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319250461" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8386"><strong>Fa Eomf Saasfaprod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant (Center for Regenerative S...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">San Antonio<br>TX<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/8386" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://funeraldirectorslifeinsurancecompany.applytojob.com/apply/jobs/details/Ln87bnrS77"><strong>Funeraldirectorsl...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Digital Marketing Specialist (Entry Level Web...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Abilene<br>TX</td>
@@ -3855,10 +3863,10 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20073"><strong>Aci Worldwide Job...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Technical Consultant</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Colombia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20073" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://arminstitute.applytojob.com/apply/jobs/details/vd0StCQn1I"><strong>Arminstitute</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineer Co-op/ Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://arminstitute.applytojob.com/apply/jobs/details/vd0StCQn1I" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3899,7 +3907,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (First Play)  - Summ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mountain View<br>CA<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/linkedin3/744000158394370" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3907,7 +3915,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Civil Engineering Internship - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Columbia<br>SC<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/timmonsgroup1/744000158391809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3915,7 +3923,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Design Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beli.breezy.hr/p/d626dd05f64d-product-design-intern-summer-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3923,7 +3931,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beli.breezy.hr/p/7faefc00059e-data-science-intern-summer-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3931,7 +3939,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3939,7 +3947,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Water Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Detroit<br>MI<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://arcadis.eightfold.ai/careers/job/563671533339172" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -3947,7 +3955,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern en Desarrollo de Aplicaciones IT</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Aguascalientes - Automotive<br>AGUASCALIENTES<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/aumovio/744000158371009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3955,7 +3963,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">F-35 Program Quality Engineer Intern III, (Su...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nashua<br>New Hampshire<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/131945BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3963,7 +3971,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Jovem Aprendiz - IT Support</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">São Paulo<br>SP<br>Brazil</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/expeditors/744000158368359" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3971,7 +3979,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graphic Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Toronto<br>Ontario</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/shyftlabs/b9de405d-1a6b-401e-b093-6a6f81d1ecde" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3979,7 +3987,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, Platform Security...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4469778009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3987,7 +3995,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, Audio (NTD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4470048009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3995,7 +4003,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Staff Site Reliability Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Noida<br>Uttar Pradesh<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rategain.darwinbox.com/ms/candidate/careers/a6ae1a432eb66f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4003,7 +4011,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, CPU Profiler (NTD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4469762009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4011,7 +4019,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, CPU Debugger (NTD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4471972009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4019,7 +4027,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Landscape Architecture Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Fort Collins<br>CO<br>States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-kimley-horn.icims.com/jobs/27419/landscape-architecture-intern/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -4027,7 +4035,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Software Engineer, DevOps (NTD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.nintendo.com/?gh_jid=4472002009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4035,7 +4043,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (C#)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Wayzata<br>Minnesota<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/gardacp/jobs/6238021004" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4043,7 +4051,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 New Grad GNC Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Costa Mesa<br>California<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5270855007?gh_jid=5270855007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4079,18 +4087,18 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/127775BR"><strong>BAE Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Coop (Summer/Fall 2027...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/127778BR"><strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Coop (Summer/Fall 2027...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cedar Rapids<br>Iowa<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/127775BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/127778BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/127778BR">↳ <strong>BAE Systems</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mechanical Engineering Coop (Summer/Fall 2027...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.baesystems.com/job/127775BR">↳ <strong>BAE Systems</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineering Coop (Summer/Fall 2027...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cedar Rapids<br>Iowa<br>United States</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/127778BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.baesystems.com/job/127775BR" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -4123,7 +4131,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Spring 2027: Product Design Engineering Co-op...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Needham<br>MA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720191006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4155,7 +4163,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Spring 2027: Mechanical Engineering Co-op, Ni...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Needham<br>MA<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720340006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4187,7 +4195,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Enterprise AI Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/schonfeld/jobs/8171694" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4251,7 +4259,7 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Engineer - Entry Level</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>MA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -4317,14 +4325,6 @@ Agents can query the same data through the bundled MCP server (`Listings/searcht
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.formlabs.com/job/8331440/apply/?gh_jid=8331440" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4469150009"><strong>Lilasciences</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Co-Op, Structuring Scientific Data for Discovery</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA USA; San Francisco<br>CA USA</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4469150009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 </tbody>
 </table>
