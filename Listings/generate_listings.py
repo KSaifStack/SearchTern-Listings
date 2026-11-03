@@ -389,7 +389,7 @@ def build_job_query(intern_cond, newgrad_cond, title_exclusions, lookback_days, 
                 PARTITION BY company, title, location
                 ORDER BY posted_at DESC
             ) as rn
-        FROM read_parquet($1)
+        FROM read_parquet($1, union_by_name=>true)
         WHERE ({intern_cond} OR {newgrad_cond})
         AND CAST(posted_at AS TIMESTAMP) >= CURRENT_DATE - INTERVAL '{lookback_days} days'
         AND url IS NOT NULL AND title IS NOT NULL AND company IS NOT NULL
