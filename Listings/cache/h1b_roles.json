@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-04T03:51:51Z",
+ "built_at": "2026-11-04T03:57:50Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -121,6 +121,11 @@
      "title": "ENGINEER, TECHNOLOGY II"
     }
    ]
+  },
+  "abex excellence pvt": {
+   "fetched_at": "2026-11-04T03:57:47Z",
+   "label": "ABEX Excellence Pvt Ltd",
+   "titles": []
   },
   "accorhotel": {
    "fetched_at": "2026-10-24T20:11:03Z",
@@ -7412,6 +7417,112 @@
      "count": 1,
      "median_salary": 57554,
      "title": "TECHNOLOGY RISK AND COMPLIANCE ANALYST"
+    }
+   ]
+  },
+  "cloud counselage pvt": {
+   "fetched_at": "2026-11-04T03:57:48Z",
+   "label": "Cloud Counselage Pvt Ltd",
+   "titles": [
+    {
+     "count": 144,
+     "median_salary": 99486,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 101,
+     "median_salary": 102400,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 72,
+     "median_salary": 104500,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 35,
+     "median_salary": 87740,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 34,
+     "median_salary": 105997,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 27,
+     "median_salary": 149500,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 26,
+     "median_salary": 86840,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 98738,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 16,
+     "median_salary": 124400,
+     "title": "SENIOR TECHNICAL CONSULTANT"
+    },
+    {
+     "count": 16,
+     "median_salary": 105892,
+     "title": "SOFTWARE DEVELOPER APPLICATIONS"
+    },
+    {
+     "count": 15,
+     "median_salary": 80371,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 13,
+     "median_salary": 92914,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 11,
+     "median_salary": 159334,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 162411,
+     "title": "SENIOR CLOUD DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 91042,
+     "title": "COMPUTER PROGRAMMER"
+    },
+    {
+     "count": 9,
+     "median_salary": 114760,
+     "title": "SALESFORCE DEVELOPER"
+    },
+    {
+     "count": 9,
+     "median_salary": 92600,
+     "title": "TECHNICAL CONSULTANT"
+    },
+    {
+     "count": 8,
+     "median_salary": 87790,
+     "title": ".NET DEVELOPER"
+    },
+    {
+     "count": 8,
+     "median_salary": 112998,
+     "title": "CLOUD DATA ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 79560,
+     "title": "CLOUD ENGINEER"
     }
    ]
   },
@@ -28379,6 +28490,11 @@
     }
    ]
   },
+  "ups": {
+   "fetched_at": "2026-11-04T03:57:49Z",
+   "label": "UPS",
+   "titles": []
+  },
   "us envoyair": {
    "fetched_at": "2026-11-03T17:29:27Z",
    "label": "us-envoyair",
@@ -29213,6 +29329,112 @@
      "count": 1,
      "median_salary": 91291,
      "title": "SR. SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "wells fargo": {
+   "fetched_at": "2026-11-04T03:57:50Z",
+   "label": "Wells Fargo",
+   "titles": [
+    {
+     "count": 146,
+     "median_salary": 154669,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 117,
+     "median_salary": 133536,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 32,
+     "median_salary": 179982,
+     "title": "LEAD SPECIALTY SOFTWARE ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 113693,
+     "title": "QUANTITATIVE ANALYTICS SPECIALIST"
+    },
+    {
+     "count": 24,
+     "median_salary": 159000,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 117842,
+     "title": "QUANTITATIVE ANALYTICS PROGRAM ASSOCIATE"
+    },
+    {
+     "count": 19,
+     "median_salary": 122200,
+     "title": "SENIOR QUANTITATIVE ANALYTICS SPECIALIST"
+    },
+    {
+     "count": 18,
+     "median_salary": 164060,
+     "title": "LEAD SECURITIES QUANTITATIVE ANALYTICS SPECIALIST"
+    },
+    {
+     "count": 13,
+     "median_salary": 143000,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 135855,
+     "title": "LEAD SYSTEMS OPERATIONS ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 154669,
+     "title": "SENIOR SPECIALTY SOFTWARE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 144400,
+     "title": "LEAD QUANTITATIVE ANALYTICS SPECIALIST"
+    },
+    {
+     "count": 9,
+     "median_salary": 128960,
+     "title": "SENIOR INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 164174,
+     "title": "SECURITIES QUANTITATIVE ANALYTICS ASSOCIATE"
+    },
+    {
+     "count": 7,
+     "median_salary": 171186,
+     "title": "SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 176571,
+     "title": "INVESTMENT BANKING PROGRAM ASSOCIATE"
+    },
+    {
+     "count": 6,
+     "median_salary": 134992,
+     "title": "LEAD BUSINESS EXECUTION CONSULTANT"
+    },
+    {
+     "count": 6,
+     "median_salary": 179150,
+     "title": "LEAD INVESTMENT BANKER"
+    },
+    {
+     "count": 6,
+     "median_salary": 131350,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 138174,
+     "title": "LEAD TECHNOLOGY BUSINESS SYSTEMS CONSULTANT"
     }
    ]
   },
