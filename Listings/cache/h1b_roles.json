@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-03T23:54:43Z",
+ "built_at": "2026-11-04T03:51:51Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -25526,6 +25526,112 @@
      "count": 2,
      "median_salary": 92123,
      "title": "COMMISSIONING COORDINATOR"
+    }
+   ]
+  },
+  "state street": {
+   "fetched_at": "2026-11-04T03:51:50Z",
+   "label": "State Street",
+   "titles": [
+    {
+     "count": 83,
+     "median_salary": 133724,
+     "title": "SOFTWARE ENGINEERING &AMP; DEVELOPMENT"
+    },
+    {
+     "count": 20,
+     "median_salary": 105000,
+     "title": "QUANTITATIVE RISK"
+    },
+    {
+     "count": 13,
+     "median_salary": 133724,
+     "title": "APPLICATION, INFRASTRUCTURE &AMP; SERVICE MANAGEMENT"
+    },
+    {
+     "count": 9,
+     "median_salary": 122149,
+     "title": "QUALITY ASSURANCE"
+    },
+    {
+     "count": 7,
+     "median_salary": 133724,
+     "title": "ARTIFICIAL INTELLIGENCE &AMP; MACHINE LEARNING"
+    },
+    {
+     "count": 7,
+     "median_salary": 84240,
+     "title": "BUSINESS OPERATIONAL AUDIT"
+    },
+    {
+     "count": 6,
+     "median_salary": 96616,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 6,
+     "median_salary": 118912,
+     "title": "INFRASTRUCTURE ENGINEERING"
+    },
+    {
+     "count": 5,
+     "median_salary": 140525,
+     "title": "BUSINESS ANALYSIS"
+    },
+    {
+     "count": 5,
+     "median_salary": 151923,
+     "title": "IT PROGRAM PROJECT DELIVERY"
+    },
+    {
+     "count": 5,
+     "median_salary": 133724,
+     "title": "SENIOR SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 5,
+     "median_salary": 134014,
+     "title": "SENIOR SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 172744,
+     "title": "PRINCIPAL SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 4,
+     "median_salary": 155000,
+     "title": "RESEARCH"
+    },
+    {
+     "count": 4,
+     "median_salary": 141918,
+     "title": "SENIOR CONSULTANT"
+    },
+    {
+     "count": 4,
+     "median_salary": 122970,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 125941,
+     "title": "CYBERSECURITY"
+    },
+    {
+     "count": 3,
+     "median_salary": 122149,
+     "title": "IT BUSINESS ANALYSIS"
+    },
+    {
+     "count": 3,
+     "median_salary": 152263,
+     "title": "PRODUCT DEVELOPMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 104395,
+     "title": "RISK MANAGEMENT"
     }
    ]
   },
