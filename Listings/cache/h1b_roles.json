@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-04T03:57:50Z",
+ "built_at": "2026-11-04T11:51:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15913,6 +15913,112 @@
     }
    ]
   },
+  "jpmorgan chase": {
+   "fetched_at": "2026-11-04T11:51:45Z",
+   "label": "JPMorgan Chase",
+   "titles": [
+    {
+     "count": 652,
+     "median_salary": 163909,
+     "title": "VICE PRESIDENT, LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 589,
+     "median_salary": 142500,
+     "title": "ASSOCIATE, SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 196,
+     "median_salary": 179236,
+     "title": "VICE PRESIDENT, SR LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 85,
+     "median_salary": 183800,
+     "title": "VICE PRESIDENT, SR MANAGER OF SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 70,
+     "median_salary": 161000,
+     "title": "VICE PRESIDENT, PRODUCT MANAGER"
+    },
+    {
+     "count": 45,
+     "median_salary": 168500,
+     "title": "VICE PRESIDENT, MANAGER OF SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 42,
+     "median_salary": 123500,
+     "title": "ASSOCIATE, SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 32,
+     "median_salary": 141000,
+     "title": "VICE PRESIDENT, TECHNOLOGY SUPPORT LEAD"
+    },
+    {
+     "count": 30,
+     "median_salary": 205000,
+     "title": "VICE PRESIDENT, QUANTITATIVE RESEARCH"
+    },
+    {
+     "count": 29,
+     "median_salary": 165000,
+     "title": "VICE PRESIDENT, LEAD SECURITY ENGINEER"
+    },
+    {
+     "count": 29,
+     "median_salary": 175100,
+     "title": "VICE PRESIDENT, QUANT MODELING LEAD"
+    },
+    {
+     "count": 26,
+     "median_salary": 123000,
+     "title": "ASSOCIATE, QUANT ANALYTICS ASSOCIATE SR"
+    },
+    {
+     "count": 25,
+     "median_salary": 124900,
+     "title": "ASSOCIATE, TECHNOLOGY SUPPORT III"
+    },
+    {
+     "count": 24,
+     "median_salary": 170000,
+     "title": "VICE PRESIDENT, ANALYTICS SOLUTIONS MANAGER"
+    },
+    {
+     "count": 24,
+     "median_salary": 185000,
+     "title": "VICE PRESIDENT, APPLIED AI ML LEAD"
+    },
+    {
+     "count": 24,
+     "median_salary": 164100,
+     "title": "VICE PRESIDENT, LEAD INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 23,
+     "median_salary": 150000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 23,
+     "median_salary": 170000,
+     "title": "VICE PRESIDENT, DATA SCIENTIST LEAD"
+    },
+    {
+     "count": 21,
+     "median_salary": 163600,
+     "title": "VICE PRESIDENT, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 20,
+     "median_salary": 154100,
+     "title": "VICE PRESIDENT, QUANT ANALYTICS MANAGER"
+    }
+   ]
+  },
   "kci": {
    "fetched_at": "2026-10-27T15:39:26Z",
    "label": "kci",
@@ -16488,6 +16594,112 @@
      "count": 1,
      "median_salary": 93000,
      "title": "SENIOR EHS SOFTWARE SYSTEMS ENGINEER"
+    }
+   ]
+  },
+  "lawrence livermore national laboratory": {
+   "fetched_at": "2026-11-04T11:51:46Z",
+   "label": "Lawrence Livermore National Laboratory",
+   "titles": [
+    {
+     "count": 40,
+     "median_salary": 174583,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 30,
+     "median_salary": 128916,
+     "title": "POSTDOCTORAL RESEARCH STAFF"
+    },
+    {
+     "count": 23,
+     "median_salary": 78912,
+     "title": "POSTDOC"
+    },
+    {
+     "count": 14,
+     "median_salary": 172356,
+     "title": "COMPUTER SYSTEMS ENGINEER 3"
+    },
+    {
+     "count": 11,
+     "median_salary": 85000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 11,
+     "median_salary": 208084,
+     "title": "RESEARCH SCIENTIST COMPUTER SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 187731,
+     "title": "RESEARCH SCIENTIST PHYSICIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 73130,
+     "title": "SR. RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 6,
+     "median_salary": 197169,
+     "title": "STAFF SCIENTIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 128916,
+     "title": "POSTDOCTORAL RESEARCH STAFF MATERIALS SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 114720,
+     "title": "ENERGY ENVIRONMENTAL TECHNOLOGY RESEARCHER"
+    },
+    {
+     "count": 4,
+     "median_salary": 293700,
+     "title": "PHYSICIAN HOSPITALIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 161400,
+     "title": "PHYSICIST RESEARCH SCIENTIST ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 94800,
+     "title": "SCIENTIFIC ENGINEERING ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 192816,
+     "title": "COMPUTATIONAL RESEARCH SCIENTIST ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 180000,
+     "title": "COMPUTER RESEARCH SCIENTIST ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 135816,
+     "title": "COMPUTER SYSTEMS ENGINEER 2"
+    },
+    {
+     "count": 3,
+     "median_salary": 156569,
+     "title": "RESEARCH SCIENTIST CHEMIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 120900,
+     "title": "BIOLOGIST PROJECT SCIENTIST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 148500,
+     "title": "CONTROLS SOFTWARE ENGINEER"
     }
    ]
   },
