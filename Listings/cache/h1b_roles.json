@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-04T11:51:46Z",
+ "built_at": "2026-11-04T19:08:03Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4550,6 +4550,112 @@
      "count": 1,
      "median_salary": 148221,
      "title": "SOFTWARE DEVELOPMENT ENGINEER TEAM LEAD"
+    }
+   ]
+  },
+  "berkshire hathaway energy": {
+   "fetched_at": "2026-11-04T19:08:00Z",
+   "label": "Berkshire Hathaway Energy",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 70461,
+     "title": "RESIDENT, INTERNAL MEDICINE"
+    },
+    {
+     "count": 5,
+     "median_salary": 166000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 156000,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155178,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 308565,
+     "title": "HOSPITALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 186500,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "PRINCIPAL TECH OPS QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 68078,
+     "title": "RESIDENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 72536,
+     "title": "RESIDENT, PSYCHIATRY"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "SENIOR FLOOD ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 117500,
+     "title": "SENIOR SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 73944,
+     "title": "AUDIOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 515008,
+     "title": "CARDIOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80330,
+     "title": "CLINICAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 68348,
+     "title": "CLINICAL LAB SCIENTIST MED TECHNOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 89440,
+     "title": "CLINICAL QUALITY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "DIRECTOR, SOFTWARE ARCHITECTURE"
+    },
+    {
+     "count": 1,
+     "median_salary": 260000,
+     "title": "ENDOCRINOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "ENGINEER"
     }
    ]
   },
@@ -13385,6 +13491,11 @@
    "label": "hantzgroup",
    "titles": []
   },
+  "harvarduniversity": {
+   "fetched_at": "2026-11-04T19:08:01Z",
+   "label": "HarvardUniversity",
+   "titles": []
+  },
   "hcrb": {
    "fetched_at": "2026-10-25T10:28:12Z",
    "label": "Hcrb",
@@ -18632,6 +18743,17 @@
     }
    ]
   },
+  "moog": {
+   "fetched_at": "2026-11-04T19:08:02Z",
+   "label": "Moog",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 143666,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    }
+   ]
+  },
   "motorola": {
    "fetched_at": "2026-10-25T14:47:28Z",
    "label": "Motorola",
@@ -23507,6 +23629,11 @@
   "s c minimal career site": {
    "fetched_at": "2026-10-25T20:24:57Z",
    "label": "S&C Minimal Career Site",
+   "titles": []
+  },
+  "s me": {
+   "fetched_at": "2026-11-04T19:08:03Z",
+   "label": "S&ME",
    "titles": []
   },
   "safelite": {

@@ -1,23 +1,24 @@
 {
   "sources": [
     {
+      "source": "jobhive",
+      "discovered": 0,
+      "valid": 13688,
+      "seconds": 0.0,
+      "calls": 2,
+      "status": "ok",
+      "note": "60d README window / 90d listings window, age is its only liveness signal",
+      "new": 303,
+      "new_per_second": null
+    },
+    {
       "source": "md",
       "discovered": 0,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "new": 85,
-      "new_per_second": null
-    },
-    {
-      "source": "freehire",
-      "discovered": 0,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 1,
+      "new": 180,
       "new_per_second": null
     },
     {
@@ -27,18 +28,17 @@
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "new": 1,
+      "new": 11,
       "new_per_second": null
     },
     {
-      "source": "jobhive",
+      "source": "freehire",
       "discovered": 0,
-      "valid": 13569,
+      "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "note": "60d README window / 90d listings window, age is its only liveness signal",
-      "new": 0,
+      "new": 2,
       "new_per_second": null
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "source": "md:SimplifyJobs Off-Season 2027",
-      "discovered": 5185,
+      "discovered": 5186,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -63,7 +63,7 @@
     },
     {
       "source": "md:GodlyDonuts keryx Internships",
-      "discovered": 4841,
+      "discovered": 4836,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -73,7 +73,7 @@
     },
     {
       "source": "md:aprameyak Summer 2027",
-      "discovered": 3617,
+      "discovered": 3656,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -93,7 +93,7 @@
     },
     {
       "source": "md:vanshb03 Summer 2027",
-      "discovered": 2119,
+      "discovered": 2146,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -103,7 +103,7 @@
     },
     {
       "source": "md:vanshb03 Summer 2026",
-      "discovered": 2119,
+      "discovered": 2146,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -113,7 +113,7 @@
     },
     {
       "source": "md:cvrve New Grad",
-      "discovered": 1847,
+      "discovered": 1853,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -123,7 +123,7 @@
     },
     {
       "source": "md:vanshb03 New Grad 2027",
-      "discovered": 1847,
+      "discovered": 1853,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -133,7 +133,7 @@
     },
     {
       "source": "md:SimplifyJobs Summer 2027",
-      "discovered": 1666,
+      "discovered": 1667,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -143,7 +143,7 @@
     },
     {
       "source": "md:SuryaHarikrishnan DS/AI",
-      "discovered": 1659,
+      "discovered": 1660,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -153,7 +153,7 @@
     },
     {
       "source": "md:SuryaHarikrishnan Other 2027",
-      "discovered": 1556,
+      "discovered": 1570,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -163,7 +163,7 @@
     },
     {
       "source": "md:SuryaHarikrishnan SWE Track",
-      "discovered": 1404,
+      "discovered": 1403,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -173,7 +173,7 @@
     },
     {
       "source": "md:aprameyak New Grad 2027",
-      "discovered": 1313,
+      "discovered": 1325,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -183,7 +183,7 @@
     },
     {
       "source": "md:zshah101 Summer 2027 US",
-      "discovered": 1246,
+      "discovered": 1240,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -193,7 +193,7 @@
     },
     {
       "source": "md:GodlyDonuts keryx New Grad",
-      "discovered": 1110,
+      "discovered": 1111,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -203,7 +203,7 @@
     },
     {
       "source": "md:aprameyak Off-Cycle/Co-op",
-      "discovered": 1064,
+      "discovered": 1067,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -213,20 +213,10 @@
     },
     {
       "source": "md:SuryaHarikrishnan Hardware",
-      "discovered": 927,
+      "discovered": 929,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "jobspy (linkedin)",
-      "discovered": 900,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 4,
       "status": "ok",
       "new": 0,
       "new_per_second": null
@@ -262,6 +252,16 @@
       "new_per_second": null
     },
     {
+      "source": "jobspy (linkedin)",
+      "discovered": 779,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 4,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
       "source": "md:speedyapply AI 2027",
       "discovered": 770,
       "valid": 0,
@@ -273,7 +273,7 @@
     },
     {
       "source": "md:vanshb03 Off-Season",
-      "discovered": 737,
+      "discovered": 741,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -303,7 +303,7 @@
     },
     {
       "source": "md:zapplyjobs New Grad 2027",
-      "discovered": 592,
+      "discovered": 593,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -333,7 +333,7 @@
     },
     {
       "source": "md:zshah101 Automated List",
-      "discovered": 562,
+      "discovered": 559,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -373,7 +373,7 @@
     },
     {
       "source": "md:zapplyjobs New Grad Data Science 2027",
-      "discovered": 347,
+      "discovered": 350,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -383,7 +383,7 @@
     },
     {
       "source": "md:ApplyGuy New Grad",
-      "discovered": 289,
+      "discovered": 295,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -393,7 +393,7 @@
     },
     {
       "source": "md:SuryaHarikrishnan Product",
-      "discovered": 246,
+      "discovered": 245,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -403,7 +403,17 @@
     },
     {
       "source": "md:SuryaHarikrishnan Quant",
-      "discovered": 200,
+      "discovered": 216,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "jobspy (indeed)",
+      "discovered": 174,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -422,8 +432,8 @@
       "new_per_second": null
     },
     {
-      "source": "jobspy (indeed)",
-      "discovered": 164,
+      "source": "md:zapplyjobs Canada 2027",
+      "discovered": 125,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -434,16 +444,6 @@
     {
       "source": "md:sndsh404 Summer 2027",
       "discovered": 124,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "md:zapplyjobs Canada 2027",
-      "discovered": 123,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -464,17 +464,17 @@
   ],
   "totals": {
     "sources": 46,
-    "discovered": 56206,
-    "valid": 13569,
-    "new": 87,
+    "discovered": 56251,
+    "valid": 13688,
+    "new": 496,
     "seconds": 0.0,
     "failed": 0,
-    "closed": 42780,
-    "dead_links": 2
+    "closed": 43206,
+    "dead_links": 4
   },
   "notes": [],
-  "generated_at": "2026-11-04T11:52:02Z",
-  "elapsed_seconds": 562.2,
+  "generated_at": "2026-11-04T19:08:27Z",
+  "elapsed_seconds": 505.7,
   "run": {
     "tier": "light",
     "workers": 12,
@@ -482,8 +482,8 @@
       "light"
     ],
     "published": {
-      "listings": 28768,
-      "searchtern": 54260
+      "listings": 28797,
+      "searchtern": 54384
     }
   }
 }
