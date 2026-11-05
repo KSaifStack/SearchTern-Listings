@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-05T07:38:17Z",
+ "built_at": "2026-11-05T08:46:50Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6266,6 +6266,57 @@
    "fetched_at": "2026-10-25T02:20:28Z",
    "label": "carousellgroup",
    "titles": []
+  },
+  "carrier global": {
+   "fetched_at": "2026-11-05T08:46:49Z",
+   "label": "Carrier Global",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 130437,
+     "title": "STAFF ENGINEER, MODELING &AMP; CONTROLS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 161866,
+     "title": "DIGITAL FACTORY SITE LEADER"
+    },
+    {
+     "count": 1,
+     "median_salary": 204298,
+     "title": "DIRECTOR, DIGITAL BUSINESS PARTNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 111758,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 101691,
+     "title": "SENIOR ENGINEER, MECHANICAL ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 89419,
+     "title": "SENIOR ENGINEER, MODELING &AMP; CONTROLS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 97552,
+     "title": "SENIOR ENGINEER, STRUCTURAL ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 117229,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117229,
+     "title": "STAFF ENGINEER, MECHANICAL ENGINEERING"
+    }
+   ]
   },
   "carvana": {
    "fetched_at": "2026-10-25T02:20:28Z",
