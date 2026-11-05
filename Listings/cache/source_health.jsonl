@@ -526,3 +526,10 @@
 {"ts": 1793868435.9482598, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793868435.9482598, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793868435.9482598, "source": "breadth:Remotive", "discovered": 11, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "ats", "discovered": 0, "valid": 0, "new": 3955, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "md", "discovered": 0, "valid": 0, "new": 9, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "jobhive", "discovered": 0, "valid": 13625, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "ecr", "discovered": 0, "valid": 0, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "freehire", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "jobhive-closure", "discovered": 101270, "valid": 100079, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1793875316.3586133, "source": "ats-probe", "discovered": 668697, "valid": 49502, "new": 0, "seconds": 3483.223, "status": "ok"}
