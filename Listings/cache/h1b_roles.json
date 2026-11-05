@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-05T00:41:14Z",
+ "built_at": "2026-11-05T07:38:17Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -18303,6 +18303,112 @@
     }
    ]
   },
+  "meridian partners": {
+   "fetched_at": "2026-11-05T07:38:13Z",
+   "label": "Meridian Partners",
+   "titles": [
+    {
+     "count": 31,
+     "median_salary": 96000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 18,
+     "median_salary": 90300,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 59987,
+     "title": "SPECIAL EDUCATION TEACHER"
+    },
+    {
+     "count": 4,
+     "median_salary": 95035,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 55987,
+     "title": "MATHEMATICS TEACHER"
+    },
+    {
+     "count": 3,
+     "median_salary": 66200,
+     "title": "QA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 184420,
+     "title": "ASSOCIATE MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 88221,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 226675,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 134447,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 156087,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "ASSOCIATE DENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "BUSINESS AND QUALITY ANAYLST"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "CEO OF MADRE BRAVA PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95400,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 179629,
+     "title": "DIRECTOR OF DEVOPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "GENERAL DENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "INVESTMENT BANKING ANALYST"
+    }
+   ]
+  },
   "meta": {
    "fetched_at": "2026-10-25T14:47:24Z",
    "label": "Meta",
@@ -20931,6 +21037,112 @@
     }
    ]
   },
+  "pacific northwest national laboratory": {
+   "fetched_at": "2026-11-05T07:38:14Z",
+   "label": "Pacific Northwest National Laboratory",
+   "titles": [
+    {
+     "count": 25,
+     "median_salary": 65000,
+     "title": "CIVIL ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 215000,
+     "title": "VICE PRESIDENT, QUANTITATIVE RESEARCH ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 124060,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 6,
+     "median_salary": 150250,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 34960,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 5,
+     "median_salary": 58427,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 161637,
+     "title": "SENIOR SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 65000,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 4,
+     "median_salary": 68066,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 115000,
+     "title": "PORTFOLIO ASSOCIATE"
+    },
+    {
+     "count": 4,
+     "median_salary": 215000,
+     "title": "VICE PRESIDENT, PORTFOLIO RISK MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 56202,
+     "title": "CIVIL ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 172453,
+     "title": "IT ERP FUNCTIONAL ANALYST, EXPERT"
+    },
+    {
+     "count": 3,
+     "median_salary": 60000,
+     "title": "MARKETING MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 150000,
+     "title": "SENIOR ACCOUNTANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 125000,
+     "title": "SENIOR PORTFOLIO ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 109283,
+     "title": "SOFTWARE ENGINEER RPA DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 205000,
+     "title": "VICE PRESIDENT, PORTFOLIO MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 97500,
+     "title": "ACCOUNT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "ACCOUNT ASSOCIATE"
+    }
+   ]
+  },
   "paconsulting": {
    "fetched_at": "2026-11-03T10:23:53Z",
    "label": "paconsulting",
@@ -21009,6 +21221,112 @@
      "count": 1,
      "median_salary": 165000,
      "title": "TECHNICAL PROGRAM MANAGER"
+    }
+   ]
+  },
+  "paypal": {
+   "fetched_at": "2026-11-05T07:38:15Z",
+   "label": "PayPal",
+   "titles": [
+    {
+     "count": 111,
+     "median_salary": 155695,
+     "title": "SOFTWARE ENGINEER 3"
+    },
+    {
+     "count": 86,
+     "median_salary": 135000,
+     "title": "SOFTWARE ENGINEER 2"
+    },
+    {
+     "count": 79,
+     "median_salary": 185000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 76,
+     "median_salary": 187511,
+     "title": "MTS 1, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 55,
+     "median_salary": 178534,
+     "title": "SR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 54,
+     "median_salary": 211126,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 35,
+     "median_salary": 145000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 23,
+     "median_salary": 212439,
+     "title": "MTS 2, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 224600,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 16,
+     "median_salary": 179434,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 15,
+     "median_salary": 214873,
+     "title": "LEAD PRODUCT MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 212748,
+     "title": "MANAGER, SOFTWARE DEVELOPMENT 2"
+    },
+    {
+     "count": 12,
+     "median_salary": 127700,
+     "title": "PRODUCT MANAGER 3 - TECHNICAL"
+    },
+    {
+     "count": 11,
+     "median_salary": 160000,
+     "title": "SENIOR SOFTWARE ENGINEER, PYTHON"
+    },
+    {
+     "count": 11,
+     "median_salary": 164612,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 176624,
+     "title": "SR. PRODUCT MANAGER 1 - TECHNICAL"
+    },
+    {
+     "count": 9,
+     "median_salary": 175000,
+     "title": "DATA SCIENTIST 2"
+    },
+    {
+     "count": 9,
+     "median_salary": 195000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 8,
+     "median_salary": 182500,
+     "title": "SR DATA SCIENTIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 135000,
+     "title": "DATA SCIENTIST"
     }
    ]
   },
@@ -27605,6 +27923,17 @@
    "fetched_at": "2026-10-25T22:12:23Z",
    "label": "The Federal Reserve System",
    "titles": []
+  },
+  "the nuclear": {
+   "fetched_at": "2026-11-05T07:38:16Z",
+   "label": "The Nuclear Company",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 80000,
+     "title": "POLICY ANALYST"
+    }
+   ]
   },
   "the toro": {
    "fetched_at": "2026-10-26T02:20:39Z",
