@@ -1,10 +1,15 @@
 import html
+import os
 import random
 import re
+import threading
 import time
 import urllib.parse
+from collections import defaultdict
+from contextlib import contextmanager
 from datetime import UTC, datetime
 from email.utils import parsedate_to_datetime
+from time import sleep as _pace_sleep
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -16,6 +21,58 @@ SESSION = requests.Session()
 SESSION.mount("https://", HTTPAdapter(pool_connections=32, pool_maxsize=32))
 SESSION.mount("http://", HTTPAdapter(pool_connections=32, pool_maxsize=32))
 
+# Per-provider pacing. The probe runs 12 workers over 4,000 boards, and most of
+# them sit on a handful of shared API hosts: 235 Lever boards all hit
+# api.lever.co, 88 Recruitee tenants share one backend (429 clusters), 768
+# Greenhouse boards share boards-api.greenhouse.io. Firing 12 at once is what
+# produced the Lever timeouts and Recruitee 429 storms. Workday is absent on
+# purpose — each tenant has its own pod, so per-host pacing there would only
+# serialise 1,000 unrelated boards.
+SHARED_API_DOMAINS = (
+    "lever.co", "recruitee.com", "greenhouse.io", "ashbyhq.com",
+    "smartrecruiters.com", "breezy.hr", "teamtailor.com", "pinpointhq.com",
+    "personio.com", "eightfold.ai", "workable.com", "rippling.com",
+    "jobvite.com", "icims.com", "successfactors.com",
+)
+HOST_CONCURRENCY = int(os.environ.get("SEARCHTERN_HOST_CONCURRENCY", "4"))
+
+_HOST_SLOTS = defaultdict(lambda: threading.BoundedSemaphore(HOST_CONCURRENCY))
+_HOST_LOCKS = defaultdict(threading.Lock)
+_HOST_COOLDOWN = {}  # provider key -> monotonic time before which to stay quiet
+
+
+def _provider_key(url):
+    """Throttling bucket for ``url``: the shared API domain, else its host."""
+    try:
+        host = (urllib.parse.urlsplit(url).hostname or "").lower()
+    except ValueError:
+        return str(url)
+    for domain in SHARED_API_DOMAINS:
+        if host == domain or host.endswith("." + domain):
+            return domain
+    return host or str(url)
+
+
+@contextmanager
+def _host_slot(url):
+    """Cap concurrent requests per provider bucket, honouring 429 cooldowns."""
+    key = _provider_key(url)
+    with _HOST_LOCKS[key]:
+        deadline = _HOST_COOLDOWN.get(key, 0.0)
+    wait = deadline - time.monotonic()
+    if wait > 0:
+        _pace_sleep(min(wait, 30))
+    with _HOST_SLOTS[key]:
+        yield
+
+
+def _cool_down(url, seconds):
+    """Make every worker on this provider pause: one 429 means the whole host."""
+    key = _provider_key(url)
+    deadline = time.monotonic() + min(seconds, 30)
+    with _HOST_LOCKS[key]:
+        _HOST_COOLDOWN[key] = max(_HOST_COOLDOWN.get(key, 0.0), deadline)
+
 
 def http_get(url, timeout=30, retries=3, headers=None, stream=False):
     """GET with exponential backoff + jitter, honoring Retry-After on 429/503.
@@ -24,7 +81,8 @@ def http_get(url, timeout=30, retries=3, headers=None, stream=False):
     """
     for attempt in range(retries):
         try:
-            resp = SESSION.get(url, timeout=timeout, headers=headers, stream=stream)
+            with _host_slot(url):
+                resp = SESSION.get(url, timeout=timeout, headers=headers, stream=stream)
         except requests.RequestException as e:
             print(f"  Request error {url}: {e}")
             if attempt + 1 < retries:
@@ -47,6 +105,7 @@ def http_get(url, timeout=30, retries=3, headers=None, stream=False):
                 print(f"  HTTP {resp.status_code} {url}: Retry-After too long, giving up")
                 return resp
             wait = max(wait, delay)
+            _cool_down(url, wait)
             print(f"  HTTP {resp.status_code} {url}: backing off {wait:.0f}s")
             resp.close()
             if attempt + 1 < retries:

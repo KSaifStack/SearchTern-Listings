@@ -9,7 +9,6 @@ import os
 import random
 import re
 import sys
-import tempfile
 import time as _time
 import xml.etree.ElementTree as ET
 
@@ -27,6 +26,7 @@ from html.parser import HTMLParser
 
 import ats_new_sources
 import breadth_sources
+import canonical
 import classify
 import closure
 import discover_boards
@@ -67,7 +67,13 @@ HASH_FILE = os.path.join(CACHE_DIR, "last_hash.json")
 _UA = {"User-Agent": "SearchTern-Listings/1.0 (+https://github.com/KSaifStack/SearchTern-Listings)"}
 
 FREEHIRE_MAX_JOBS = int(os.environ.get("SEARCHTERN_FREEHIRE_MAX_JOBS", "6000"))
-WORKDAY_MAX_JOBS = int(os.environ.get("SEARCHTERN_WORKDAY_MAX_JOBS", "200"))
+# Workday pages 20 at a time and answers newest-first, so a 200-job cap only
+# kept the last few days of a busy board: sampling 40 real tenants, 16 (40%)
+# reported totals above 200, missing ~11.8k postings between them — many inside
+# the 60/90-day freshness window the feeds keep. 1000 (50 pages) covers every
+# sampled board below the 90th percentile; the tail is env-tunable for the
+# handful of mega-boards (micron: 2.8k postings).
+WORKDAY_MAX_JOBS = int(os.environ.get("SEARCHTERN_WORKDAY_MAX_JOBS", "1000"))
 SMARTRECRUITERS_MAX_JOBS = int(os.environ.get("SEARCHTERN_SMARTRECRUITERS_MAX_JOBS", "1000"))
 GREENHOUSE_MAX_JOBS = int(os.environ.get("SEARCHTERN_GREENHOUSE_MAX_JOBS", "500"))
 TEAMTAILOR_MAX_PAGES = int(os.environ.get("SEARCHTERN_TEAMTAILOR_MAX_PAGES", "5"))
@@ -195,17 +201,17 @@ def _load_cached(tier):
 
 
 def _save_cache(df, tier):
-    os.makedirs(CACHE_DIR, exist_ok=True)
-    with tempfile.NamedTemporaryFile(dir=CACHE_DIR, suffix=".parquet", delete=False) as temp:
-        temp_path = temp.name
-    try:
-        df.to_parquet(temp_path, index=False)
-        os.replace(temp_path, _cache_path(tier))
-    finally:
-        if os.path.exists(temp_path):
-            os.unlink(temp_path)
-    print(f"  Cached {tier} data: {len(df):,} rows")
-    return len(df)
+    """Cache a tier through the canonical schema + verified atomic write.
+
+    A write that fails (mixed dtypes, half-written file, disk full) leaves the
+    previous cache in place instead of truncating it, and returns 0 so callers
+    can tell the cache did not advance.
+    """
+    written = canonical.write_parquet_atomic(df, _cache_path(tier))
+    if written is None:
+        return 0
+    print(f"  Cached {tier} data: {written:,} rows")
+    return written
 
 
 def _to_dt(series):
@@ -1107,6 +1113,9 @@ def main(argv=None):
                     isinstance(data.get('totalReported'), int)
                     and data['totalReported'] > len(data['jobPostings'])
                 )
+                data['_missed'] = max(
+                    0, (data.get('totalReported') or 0) - len(data['jobPostings'])
+                )
                 for jp in data['jobPostings']:
                     p = jp.get('externalPath') or ''
                     jp['externalPath'] = f"https://{host}{p}" if p else ''
@@ -1503,6 +1512,16 @@ def main(argv=None):
             else:
                 probe_state.setdefault("_skipped_this_run", 0)
                 probe_state["_skipped_this_run"] += 1
+        if TIER_MEDIUM in RUN_TIERS:
+            # --tier all refreshes the new adapters in the medium block above;
+            # re-probing those same ~716 discovered boards here fetched every
+            # one of them twice per run and threw the duplicate away at dedup.
+            _already = [w for w in warm if w[1] in _NEW_ATS]
+            if _already:
+                warm = [w for w in warm if w[1] not in _NEW_ATS]
+                print(f"  {len(_already)} new-ATS boards already refreshed by this "
+                      f"run's medium tier — skipped")
+
         if warm:
             print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped by cooldown")
 
@@ -1568,13 +1587,16 @@ def main(argv=None):
         print(f"  After classification: {len(df):,}")
         _trunc = sum(1 for _, _, _d in all_raw
                      if isinstance(_d, dict) and _d.get("_truncated"))
+        _missed = sum(int((_d or {}).get("_missed") or 0)
+                      for _, _, _d in all_raw if isinstance(_d, dict))
         if _trunc:
-            print(f"  {_trunc} boards hit a pagination cap (see truncated_boards)")
+            print(f"  {_trunc} boards hit a pagination cap "
+                  f"({_missed:,} postings beyond the caps, see truncated_boards)")
         ingest_stats.record(
             "ats-probe", discovered=len(all_rows), valid=len(df),
             seconds=_time.monotonic() - _t0, boards_ok=len(all_raw), boards_tried=len(warm),
             boards_skipped=len(probe_list) - len(warm), truncated_boards=_trunc,
-            note=f"{len(probe_list)} boards in registry",
+            note=f"{len(probe_list)} boards in registry; {_missed} postings beyond caps",
         )
         return df
 
@@ -2398,6 +2420,15 @@ def main(argv=None):
         print(
             f"  Description after synthesize: {listings_result['description'].notna().sum():,}/{len(listings_result):,} rows"
         )
+
+    # One dtype per column before anything is published — the JSON writer,
+    # README tables and every downstream consumer get floats/strings, never a
+    # mix, so a single odd adapter value cannot fail the run at write time.
+    listings_result = canonical.canonicalize(listings_result)
+    readme_result = canonical.canonicalize(readme_result)
+    searchtern_result = canonical.canonicalize(searchtern_result)
+    if not priority_df.empty:
+        priority_df = canonical.canonicalize(priority_df)
 
     readme_role_lower = readme_result["role"].str.lower()
     readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
