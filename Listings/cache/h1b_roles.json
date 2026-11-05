@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-05T00:21:04Z",
+ "built_at": "2026-11-05T00:41:14Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8105,6 +8105,112 @@
      "count": 2,
      "median_salary": 176663,
      "title": "PROGRAM MANAGER"
+    }
+   ]
+  },
+  "continental": {
+   "fetched_at": "2026-11-05T00:41:12Z",
+   "label": "continental",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 109394,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 156729,
+     "title": "SR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 91000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 103210,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 137441,
+     "title": "SR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 128528,
+     "title": "SR STAFF TEST ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 124180,
+     "title": "SR TEST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 97875,
+     "title": "DATA ANALYTICS CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 118189,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 175857,
+     "title": "LEAD STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 91000,
+     "title": "MODEL VALIDATION RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 158578,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 91000,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 187880,
+     "title": "SYSTEM ARCHITECT DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 235000,
+     "title": "ACTUARIAL DIRECTOR, PRICING P&AMP;C"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "ANALYTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87589,
+     "title": "ASSOCIATE PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "AVP PRODUCT SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 152506,
+     "title": "BUS ANALYSIS SR. SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 90522,
+     "title": "CATEGORY PURCHASING SPECIALIST II"
     }
    ]
   },
@@ -27162,6 +27268,11 @@
    "label": "tensorwave",
    "titles": []
   },
+  "tenstorrentuniversity": {
+   "fetched_at": "2026-11-05T00:41:13Z",
+   "label": "tenstorrentuniversity",
+   "titles": []
+  },
   "tesla": {
    "fetched_at": "2026-10-25T22:12:21Z",
    "label": "\ud83d\udd25 Tesla",
@@ -27585,6 +27696,112 @@
    "fetched_at": "2026-10-28T14:53:02Z",
    "label": "thesemleragency",
    "titles": []
+  },
+  "thomson reuters": {
+   "fetched_at": "2026-11-05T00:41:14Z",
+   "label": "Thomson Reuters",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 82550,
+     "title": "ASSISTANT MANAGER - OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 93891,
+     "title": "ASSOCIATE DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 93891,
+     "title": "ASSOCIATE DEVELOPMENT MANAGER, TAX"
+    },
+    {
+     "count": 2,
+     "median_salary": 154000,
+     "title": "DIRECTOR DATABASE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "DIRECTOR, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 145650,
+     "title": "JR AZURE DEVOPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 156159,
+     "title": "MANAGER, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 192500,
+     "title": "SENIOR APPLIED SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "SENIOR DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "APPLIED SCIENTIST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 149781,
+     "title": "ASSOCIATE APPLICATION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 195234,
+     "title": "ASSOCIATE CLOUD ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 177000,
+     "title": "ASSOCIATE, CORPORATE VENTURE CAPITAL FUND"
+    },
+    {
+     "count": 1,
+     "median_salary": 163800,
+     "title": "CLOUD SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 228848,
+     "title": "DIRECTOR, TECHNOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 153867,
+     "title": "LEAD BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "LEAD RESEARCH ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "LEAD RESEARCH ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 133939,
+     "title": "LEAD SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 146089,
+     "title": "LEAD SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
   },
   "tiktok": {
    "fetched_at": "2026-10-25T22:12:24Z",
