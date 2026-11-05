@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-04T19:08:03Z",
+ "built_at": "2026-11-05T00:21:04Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8667,6 +8667,112 @@
    "fetched_at": "2026-10-25T04:07:14Z",
    "label": "CVS Health",
    "titles": []
+  },
+  "daimler truck": {
+   "fetched_at": "2026-11-05T00:21:04Z",
+   "label": "Daimler Truck",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 158611,
+     "title": "BIG DATA IOT SOFTWARE ARCHITECT IV"
+    },
+    {
+     "count": 2,
+     "median_salary": 145454,
+     "title": "DAIMLER TRUCK NORTH AMERICA, LLC"
+    },
+    {
+     "count": 2,
+     "median_salary": 95034,
+     "title": "MECHANICAL PRODUCT DESIGN ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 120098,
+     "title": "SALESFORCE COE SOLUTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "BIG DATA LOT SOFTWARE ARCHITECT IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 96542,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 162351,
+     "title": "COMMERCIAL CORPORATE COUNSEL"
+    },
+    {
+     "count": 1,
+     "median_salary": 130092,
+     "title": "CTS MANUFACTURING CONTROLLER"
+    },
+    {
+     "count": 1,
+     "median_salary": 137919,
+     "title": "DIGITAL SALES SYSTEM ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 135909,
+     "title": "ENTERPRISE RESOURCE PLANNING BUSINESS ANALYST SAP III"
+    },
+    {
+     "count": 1,
+     "median_salary": 120896,
+     "title": "GLOBAL SUPPLIER READINESS PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 159750,
+     "title": "HMI LEAD AUTOMOTIVE DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 158620,
+     "title": "HV CHARGING &AMP; EVSE DEVELOPMENT ASSOCIATE PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "IT INFRASTRUCTURE AND SYSTEMS ARCHITECT II"
+    },
+    {
+     "count": 1,
+     "median_salary": 148491,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 134632,
+     "title": "LOGISTICS PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118450,
+     "title": "MANUFACTURING QUALITY ASSURANCE SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 132487,
+     "title": "PLATFORM MANAGER EDRIVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 132105,
+     "title": "PROCESS DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160680,
+     "title": "SALESFORCE SOLUTION ENGINEER"
+    }
+   ]
   },
   "dallas fort worth international airport": {
    "fetched_at": "2026-10-26T04:10:21Z",
