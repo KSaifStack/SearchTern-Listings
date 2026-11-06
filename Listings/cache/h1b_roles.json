@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T08:49:40Z",
+ "built_at": "2026-11-06T12:26:39Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2330,6 +2330,11 @@
      "title": "ENGINEER, DIGITAL DESIGN ENGINEERING"
     }
    ]
+  },
+  "analogdevices": {
+   "fetched_at": "2026-11-06T12:26:21Z",
+   "label": "Analogdevices",
+   "titles": []
   },
   "anduril": {
    "fetched_at": "2026-10-24T22:23:12Z",
@@ -14203,6 +14208,112 @@
     }
    ]
   },
+  "flex": {
+   "fetched_at": "2026-11-06T12:26:21Z",
+   "label": "Flex",
+   "titles": [
+    {
+     "count": 37,
+     "median_salary": 106000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 104125,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 15,
+     "median_salary": 126693,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 10,
+     "median_salary": 206239,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 85547,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 97445,
+     "title": "AUTOMATION ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 73299,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 108675,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 145000,
+     "title": "SENIOR SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 97441,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 100520,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 113120,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 88275,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 75480,
+     "title": "NETWORK ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 110745,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 126693,
+     "title": "SR. JAVA DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 110000,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 81206,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "ASSOCIATE"
+    }
+   ]
+  },
   "flyzipline": {
    "fetched_at": "2026-10-25T08:51:28Z",
    "label": "flyzipline",
@@ -14479,6 +14590,11 @@
     }
    ]
   },
+  "freeform": {
+   "fetched_at": "2026-11-06T12:26:22Z",
+   "label": "Freeform",
+   "titles": []
+  },
   "freeformfuturecorp": {
    "fetched_at": "2026-10-25T18:06:07Z",
    "label": "freeformfuturecorp",
@@ -14618,6 +14734,11 @@
   "ge aerospace": {
    "fetched_at": "2026-10-25T10:28:11Z",
    "label": "GE Aerospace",
+   "titles": []
+  },
+  "ge aerospace https geaerospace wd5 myworkdayjobs com ge externalsite job evendale engines engineering co op computer or software engineering us fall 2027 r5029637 1": {
+   "fetched_at": "2026-11-06T12:26:23Z",
+   "label": "[GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1)",
    "titles": []
   },
   "ge aerospace https geaerospace wd5 myworkdayjobs com ge externalsite job evendale engines engineering intern computer or software engineering us summer 2027 r5029622 1": {
@@ -15642,6 +15763,57 @@
     }
    ]
   },
+  "graco https graco wd501 myworkdayjobs com graco careers job rogers minnesota usa david koch center electrical engineer intern r0023606": {
+   "fetched_at": "2026-11-06T12:26:24Z",
+   "label": "[Graco](https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Rogers-Minnesota-USA-David-Koch-Center/Electrical-Engineer-Intern_R0023606)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 140041,
+     "title": "PRINCIPAL TECHNICAL PRODUCT MANAGER - ORACLE FINANCIALS"
+    },
+    {
+     "count": 1,
+     "median_salary": 138070,
+     "title": "MECHANICAL ENGINEER III - PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 138070,
+     "title": "MECHANICAL ENGINEER III \u2013 PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 138070,
+     "title": "MECHANICAL ENGINEER III \u201c PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "PRODUCT SAFETY AND COMPLIANCE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 61800,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106579,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125798,
+     "title": "SENIOR SOFTWARE ENGINEER - DEVOPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 106579,
+     "title": "SENIOR SOFTWARE ENGINEER - INTEGRATIONS"
+    }
+   ]
+  },
   "graphcore": {
    "fetched_at": "2026-10-25T09:18:16Z",
    "label": "Graphcore",
@@ -16383,6 +16555,47 @@
   "heidelberg materials https heidelbergmaterials wd3 myworkdayjobs com global hm career site job irving tx digital growth intern jr10018997 1": {
    "fetched_at": "2026-11-06T00:34:12Z",
    "label": "[Heidelberg Materials](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "PLANT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133560,
+     "title": "PROCESS ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ASSISTANT PROFESSOR OF COMPUTER SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "AUTOMATION SYSTEMS ENGINEER - HROC"
+    },
+    {
+     "count": 1,
+     "median_salary": 188100,
+     "title": "ENVIRONMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138364,
+     "title": "MANAGER CCP"
+    },
+    {
+     "count": 1,
+     "median_salary": 129500,
+     "title": "RELIABILITY MANAGER"
+    }
+   ]
+  },
+  "heidelberg materials https heidelbergmaterials wd3 myworkdayjobs com global hm career site job irving tx master data intern jr10017954 1": {
+   "fetched_at": "2026-11-06T12:26:25Z",
+   "label": "[Heidelberg Materials](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Master-Data-Intern_JR10017954-1)",
    "titles": [
     {
      "count": 2,
@@ -17756,6 +17969,11 @@
    "label": "ICF",
    "titles": []
   },
+  "icf international": {
+   "fetched_at": "2026-11-06T12:26:26Z",
+   "label": "Icf International",
+   "titles": []
+  },
   "icfcjb": {
    "fetched_at": "2026-10-25T10:28:30Z",
    "label": "Icfcjb",
@@ -18085,6 +18303,112 @@
   "intel": {
    "fetched_at": "2026-10-25T10:28:31Z",
    "label": "Intel",
+   "titles": [
+    {
+     "count": 797,
+     "median_salary": 112715,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 559,
+     "median_salary": 135200,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 528,
+     "median_salary": 125495,
+     "title": "COMPONENT DESIGN ENGINEER"
+    },
+    {
+     "count": 102,
+     "median_salary": 134383,
+     "title": "GRAPHICS HARDWARE ENGINEER"
+    },
+    {
+     "count": 79,
+     "median_salary": 106000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 75,
+     "median_salary": 123490,
+     "title": "PACKAGING ENGINEER"
+    },
+    {
+     "count": 67,
+     "median_salary": 124800,
+     "title": "PRODUCT ENGINEER"
+    },
+    {
+     "count": 66,
+     "median_salary": 132842,
+     "title": "ANALOG ENGINEER"
+    },
+    {
+     "count": 59,
+     "median_salary": 117590,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 59,
+     "median_salary": 115290,
+     "title": "SYSTEM VALIDATION ENGINEER"
+    },
+    {
+     "count": 56,
+     "median_salary": 84999,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 55,
+     "median_salary": 84739,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 52,
+     "median_salary": 182270,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 47,
+     "median_salary": 134805,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 46,
+     "median_salary": 132804,
+     "title": "GRAPHICS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 34,
+     "median_salary": 93290,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 28,
+     "median_salary": 89950,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 108971,
+     "title": "QUALITY RELIABILITY ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 97115,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 24,
+     "median_salary": 96734,
+     "title": "INDUSTRIAL ENGINEER"
+    }
+   ]
+  },
+  "intel https intel wd1 myworkdayjobs com en us external job us oregon hillsboro platform hardware and systems engineering intern graduate jr0286828": {
+   "fetched_at": "2026-11-06T12:26:27Z",
+   "label": "[Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828)",
    "titles": [
     {
      "count": 797,
@@ -19506,6 +19830,117 @@
     }
    ]
   },
+  "juniper networks": {
+   "fetched_at": "2026-11-06T12:26:28Z",
+   "label": "Juniper Networks",
+   "titles": [
+    {
+     "count": 76,
+     "median_salary": 146307,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 27,
+     "median_salary": 186056,
+     "title": "SOFTWARE ENGINEER STAFF"
+    },
+    {
+     "count": 18,
+     "median_salary": 114078,
+     "title": "TECHNICAL SUPPORT ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 194875,
+     "title": "SOFTWARE ENGINEER SENIOR STAFF"
+    },
+    {
+     "count": 7,
+     "median_salary": 119600,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 7,
+     "median_salary": 226138,
+     "title": "SOFTWARE ENGINEER SR STAFF"
+    },
+    {
+     "count": 5,
+     "median_salary": 129293,
+     "title": "RESIDENT ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 178703,
+     "title": "PRODUCT MANAGER STAFF"
+    },
+    {
+     "count": 4,
+     "median_salary": 144944,
+     "title": "RESIDENT ENGINEER STAFF"
+    },
+    {
+     "count": 4,
+     "median_salary": 146609,
+     "title": "SENIOR SALES ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 151393,
+     "title": "TECHNICAL SUPPORT ENGINEER STAFF"
+    },
+    {
+     "count": 3,
+     "median_salary": 204901,
+     "title": "ASIC ENGINEER SENIOR STAFF"
+    },
+    {
+     "count": 3,
+     "median_salary": 216091,
+     "title": "ASIC ENGINEER STAFF"
+    },
+    {
+     "count": 3,
+     "median_salary": 156853,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 117437,
+     "title": "PRODUCT CONSULTANT"
+    },
+    {
+     "count": 3,
+     "median_salary": 133432,
+     "title": "QA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 294299,
+     "title": "SOFTWARE ENGINEERING DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 184527,
+     "title": "ASIC ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 148699,
+     "title": "CUSTOMER EXPERIENCE SPECIALIST STAFF"
+    },
+    {
+     "count": 2,
+     "median_salary": 179421,
+     "title": "ENGINEERING PROGRAM MANAGER STAFF"
+    }
+   ]
+  },
+  "kbr": {
+   "fetched_at": "2026-11-06T12:26:29Z",
+   "label": "KBR",
+   "titles": []
+  },
   "kci": {
    "fetched_at": "2026-10-27T15:39:26Z",
    "label": "kci",
@@ -19723,6 +20158,11 @@
   "kla https kla wd1 myworkdayjobs com search job milpitas ca engineering intern 2642277 1": {
    "fetched_at": "2026-11-06T00:34:14Z",
    "label": "[KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Engineering-Intern_2642277-1)",
+   "titles": []
+  },
+  "kla https kla wd1 myworkdayjobs com search job milpitas ca product development engineer intern 2641521 1": {
+   "fetched_at": "2026-11-06T12:26:30Z",
+   "label": "[KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1)",
    "titles": []
   },
   "kla https kla wd1 myworkdayjobs com ur job milpitas ca algorithm engineering intern ai computer vision software engineering 2641392 1": {
@@ -21033,6 +21473,11 @@
      "title": "AVP, SOFTWARE DEVELOPMENT MGR"
     }
    ]
+  },
+  "lpl financial holdings https lplfinancial wd1 myworkdayjobs com university job fort millcharlotte summer intern 2027 product r 052918": {
+   "fetched_at": "2026-11-06T12:26:30Z",
+   "label": "[LPL Financial Holdings](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Product_R-052918)",
+   "titles": []
   },
   "lseg": {
    "fetched_at": "2026-10-25T18:06:13Z",
@@ -25047,6 +25492,112 @@
     }
    ]
   },
+  "ochsner health": {
+   "fetched_at": "2026-11-06T12:26:31Z",
+   "label": "Ochsner Health",
+   "titles": [
+    {
+     "count": 40,
+     "median_salary": 51200,
+     "title": "MEDICAL TECHNOLOGIST"
+    },
+    {
+     "count": 10,
+     "median_salary": 39480,
+     "title": "HISTOTECHNOLOGIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 51200,
+     "title": "CLINICAL MEDICAL LABORATORY SCIENTIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 250000,
+     "title": "NEPHROLOGIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 64800,
+     "title": "REGISTERED NURSE, STAFF RN - BSN MEDSURG TELE SD"
+    },
+    {
+     "count": 5,
+     "median_salary": 58800,
+     "title": "HISTOCOMPATIBILITY TECHNOLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 47650,
+     "title": "ATHLETIC TRAINER"
+    },
+    {
+     "count": 3,
+     "median_salary": 250000,
+     "title": "FAMILY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 3,
+     "median_salary": 251750,
+     "title": "NEUROLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 64800,
+     "title": "REGISTERED NURSE, STAFF RN - BSN CRITICAL CARE"
+    },
+    {
+     "count": 3,
+     "median_salary": 70408,
+     "title": "SENIOR FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 481438,
+     "title": "CARDIOLOGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 70408,
+     "title": "IS BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 164320,
+     "title": "MEDICAL PHYSICIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 318270,
+     "title": "NOCTURNIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 269250,
+     "title": "RHEUMATOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 73313,
+     "title": "ABDOMINAL TRANSPLANT SURGERY"
+    },
+    {
+     "count": 1,
+     "median_salary": 405000,
+     "title": "ADVANCED HEART FAILURE PHYSICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 73424,
+     "title": "AUTONOMICS LAB ASSOCIATE PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 400000,
+     "title": "CARDIOTHORACIC SURGEON"
+    }
+   ]
+  },
   "olsson": {
    "fetched_at": "2026-10-25T18:39:19Z",
    "label": "Olsson",
@@ -25487,6 +26038,112 @@
   "parsons": {
    "fetched_at": "2026-11-05T16:02:45Z",
    "label": "Parsons",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 72000,
+     "title": "ASSOCIATE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 134400,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 89082,
+     "title": "SR. SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 69240,
+     "title": "ARCHITECTURAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ARCHITECTURAL SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85033,
+     "title": "ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 86653,
+     "title": "ENGINEER I - CIVIL STRUCTURAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 128523,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "ENGINEER II ELECTRICAL INSPECTOR - BRIDGE"
+    },
+    {
+     "count": 1,
+     "median_salary": 144102,
+     "title": "ENGINEER, PRINCIPAL - ENVIRONMENTAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 123600,
+     "title": "ENGINEER, SENIOR SENIOR TRAIN CONTROL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 187674,
+     "title": "ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 143392,
+     "title": "FIELD PROJECT MANAGER, SR."
+    },
+    {
+     "count": 1,
+     "median_salary": 193112,
+     "title": "IT MANAGER, SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 144352,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 172540,
+     "title": "PRINCIPAL PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 253292,
+     "title": "PRINCIPAL TECHNICAL CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 105753,
+     "title": "PROJECT CONTROL ENGINEER SPECIALIST, SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 128345,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88480,
+     "title": "SENIOR DESIGNER"
+    }
+   ]
+  },
+  "parsons https parsons wd5 myworkdayjobs com en us search job us md columbia summer embedded developer intern r188299": {
+   "fetched_at": "2026-11-06T12:26:32Z",
+   "label": "[Parsons](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299)",
    "titles": [
     {
      "count": 3,
@@ -26637,6 +27294,11 @@
      "title": "MANAGER, CUSTOMER SUCCESS US"
     }
    ]
+  },
+  "qts data centers": {
+   "fetched_at": "2026-11-06T12:26:33Z",
+   "label": "Qts Data Centers",
+   "titles": []
   },
   "qualcomm": {
    "fetched_at": "2026-10-25T18:39:25Z",
@@ -29920,6 +30582,11 @@
     }
    ]
   },
+  "sci service corporation international": {
+   "fetched_at": "2026-11-06T12:26:34Z",
+   "label": "SCI - Service Corporation International",
+   "titles": []
+  },
   "scor": {
    "fetched_at": "2026-11-05T17:49:10Z",
    "label": "SCOR",
@@ -32279,6 +32946,112 @@
    "label": "tandh",
    "titles": []
   },
+  "target": {
+   "fetched_at": "2026-11-06T12:26:35Z",
+   "label": "Target",
+   "titles": [
+    {
+     "count": 54,
+     "median_salary": 144828,
+     "title": "LEAD ENGINEER"
+    },
+    {
+     "count": 38,
+     "median_salary": 127272,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 31,
+     "median_salary": 121764,
+     "title": "SR ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 154000,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 179500,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 176679,
+     "title": "SENIOR ENGINEERING MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 127920,
+     "title": "LEAD DATA ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 139412,
+     "title": "SR. ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 170716,
+     "title": "LEAD AI ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 176679,
+     "title": "SR ENGINEERING MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 119163,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 130083,
+     "title": "LEAD TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 119163,
+     "title": "SR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 140795,
+     "title": "BUSINESS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 197932,
+     "title": "DIRECTOR DATA SCIENCES"
+    },
+    {
+     "count": 2,
+     "median_salary": 206398,
+     "title": "DIRECTOR ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 149812,
+     "title": "LEAD CYBERSECURITY ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 166962,
+     "title": "LEAD DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 187268,
+     "title": "PRINCIPAL DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 167336,
+     "title": "SENIOR PRODUCT MANAGER"
+    }
+   ]
+  },
   "tc energy": {
    "fetched_at": "2026-10-26T04:10:41Z",
    "label": "TC Energy",
@@ -32991,10 +33764,172 @@
    "label": "[The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Graduate-Intern_R016793)",
    "titles": []
   },
+  "the boeing": {
+   "fetched_at": "2026-11-06T12:26:36Z",
+   "label": "The Boeing Company",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 117104,
+     "title": "STRUCTURAL ANALYSIS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 98972,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 136843,
+     "title": "LEAD COMPUTING ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 118050,
+     "title": "MECHANICAL SYSTEMS DESIGN &AMP; ANALYSIS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 126921,
+     "title": "STRUCTURAL &AMP; PAYLOAD DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 171142,
+     "title": "SYSTEM ENGINEER - FLEET HEALTH MONITORING"
+    },
+    {
+     "count": 2,
+     "median_salary": 109378,
+     "title": "WIRE DESIGN &AMP; INSTALLATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118414,
+     "title": "BUSINESS INTELLIGENCE ANALYST 4"
+    },
+    {
+     "count": 1,
+     "median_salary": 85821,
+     "title": "BUSINESS PROCESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 179729,
+     "title": "COMPUTING ARCHITECT 5"
+    },
+    {
+     "count": 1,
+     "median_salary": 85821,
+     "title": "DATA SCIENTIST 2"
+    },
+    {
+     "count": 1,
+     "median_salary": 83928,
+     "title": "EMPLOYEE DEVELOPMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 116854,
+     "title": "EQUIPMENT &AMP; TOOL ENGINEER ASSET STRESS &AMP; STRUCTURAL ENG."
+    },
+    {
+     "count": 1,
+     "median_salary": 118706,
+     "title": "FLIGHT OPERATIONS FLEET SUPPORT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79331,
+     "title": "IT PROJECT MANAGEMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 118706,
+     "title": "LANDING GEAR SYSTEM AND STRUCTURE SERVICE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 136427,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 169978,
+     "title": "PRINCIPAL PRODUCT MANAGER - SEATS INTEGRATION AEROSPACE"
+    },
+    {
+     "count": 1,
+     "median_salary": 144934,
+     "title": "PRODUCT REVIEW ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144934,
+     "title": "PRODUCT REVIEW ENGINEER 4"
+    }
+   ]
+  },
   "the federal reserve system": {
    "fetched_at": "2026-10-25T22:12:23Z",
    "label": "The Federal Reserve System",
    "titles": []
+  },
+  "the hartford": {
+   "fetched_at": "2026-11-06T12:26:36Z",
+   "label": "The Hartford",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 153000,
+     "title": "SR. DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "AI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106000,
+     "title": "DATA RESEARCH ANALYST SENIOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "DATA SCIENTIST SR."
+    },
+    {
+     "count": 1,
+     "median_salary": 125429,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "MARKET RESEARCHER - MARKET INSIGHTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 129729,
+     "title": "NET DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 174350,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "VP BUSINESS INTELLIGENCE GOVERNANCE &AMP; REPORTING"
+    }
+   ]
   },
   "the new school": {
    "fetched_at": "2026-11-05T17:49:15Z",
@@ -34430,6 +35365,112 @@
      "count": 1,
      "median_salary": 65866,
      "title": "SENIOR MARKETING OPERATION ANALYST"
+    }
+   ]
+  },
+  "university of arkansas https uasys wd5 myworkdayjobs com uasys job little rock eac extra help assistant multiple open positions r0092584": {
+   "fetched_at": "2026-11-06T12:26:38Z",
+   "label": "[University of Arkansas](https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/EAC-Extra-Help-Assistant--Multiple-Open-Positions-_R0092584)",
+   "titles": [
+    {
+     "count": 1748,
+     "median_salary": 115000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 371,
+     "median_salary": 74425,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 214,
+     "median_salary": 62116,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 214,
+     "median_salary": 63000,
+     "title": "POSTDOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 190,
+     "median_salary": 84000,
+     "title": "ASSISTANT PROJECT SCIENTIST"
+    },
+    {
+     "count": 175,
+     "median_salary": 216000,
+     "title": "CLINICAL ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 164,
+     "median_salary": 63120,
+     "title": "POSTDOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 127,
+     "median_salary": 62652,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 126,
+     "median_salary": 68182,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 121,
+     "median_salary": 73368,
+     "title": "LECTURER"
+    },
+    {
+     "count": 117,
+     "median_salary": 68869,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 115,
+     "median_salary": 79706,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 110,
+     "median_salary": 139914,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 90,
+     "median_salary": 87620,
+     "title": "GLIDE TEAM REGISTERED NURSE 2 INPATIENT"
+    },
+    {
+     "count": 84,
+     "median_salary": 77030,
+     "title": "POSTDOCTORAL SCHOLAR EMPLOYEE"
+    },
+    {
+     "count": 77,
+     "median_salary": 68964,
+     "title": "INSTRUCTOR"
+    },
+    {
+     "count": 69,
+     "median_salary": 80700,
+     "title": "ASSOCIATE SPECIALIST"
+    },
+    {
+     "count": 67,
+     "median_salary": 88303,
+     "title": "ASSISTANT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 66,
+     "median_salary": 75727,
+     "title": "POSTDOCTORAL SCHOLAR-EMPLOYEE"
+    },
+    {
+     "count": 59,
+     "median_salary": 68141,
+     "title": "MEDICAL RESIDENT"
     }
    ]
   },

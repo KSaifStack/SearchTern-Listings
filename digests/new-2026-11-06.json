@@ -1,1338 +1,2162 @@
 [
   {
-    "company": "Astronics",
-    "role": "Software Engineer Intern - Summer 2027",
-    "location": "Kirkland, WA · Kirkland, Washington, United States",
-    "link": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Caresource",
-    "role": "Cybersecurity Intern",
-    "location": "Remote · United States · Remote (US)",
-    "link": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Cybersecurity_R14178",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Drivetime",
-    "role": "Software Engineering Intern",
-    "location": "Tempe, AZ · 1720 W Rio Salado Pkwy Tempe, AZ 85281",
-    "link": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Garmin",
-    "role": "IT DevOps Administrator Intern",
-    "location": "Olathe, KS",
-    "link": "https://careers.garmin.com/jobs/21321",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Intel",
-    "role": "GPU Architecture Graduate Intern",
-    "location": "Folsom, California, States",
-    "link": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Micron Technology",
-    "role": "AI Engineering Intern, SMAI TD",
-    "location": "Boise, ID",
-    "link": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Moderna",
-    "role": "2027 Intern, Data Management",
-    "location": "Cambridge, Massachusetts, ...",
-    "link": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Intern--Data-Management_R20100",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Onsemi",
-    "role": "Summer 2027 - IE / Data Analytics Intern",
-    "location": "Hopewell Junction, NY, United... · Hopewell Junction, NY",
-    "link": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506636",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Prologis",
-    "role": "IT Customer Experience Technologies Intern",
-    "location": "Denver, CO",
-    "link": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "RTX",
-    "role": "Mechanical Engineer Intern - Test Solutions",
-    "location": "US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Mechanical-Engineer-Intern---Test-Solutions_01883601",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Tenet Healthcare",
-    "role": "Data Engineer Intern",
-    "location": "Dallas, TX · Dallas, TX, United States",
-    "link": "https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028291",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "ZOOX",
-    "role": "Hardware Engineer Intern, Manufacturing Operations \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "ZOOX",
-    "role": "Hardware Engineer Intern, Vehicle Development \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "ZOOX",
-    "role": "Hardware Engineer Intern, Vehicle Systems \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "ZOOX",
-    "role": "Software Engineer Intern, Autonomy Software \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "ZOOX",
-    "role": "Software Engineer Intern, Software Platforms & Product \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "ZOOX",
-    "role": "Software Engineer Intern, Software Systems \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
-    "source": "ecr",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Aston Carter",
-    "role": "Junior Master Data Analyst",
-    "location": "Tampa, Florida",
-    "link": "https://careers.astoncarter.com/us/en/job/ASCAUSJP006393747ENUS?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "BAE Systems, Inc.",
-    "role": "Embedded Software Engineer Spring/Summer 2027",
-    "location": "Maple Grove, Minnesota",
-    "link": "https://jobs.baesystems.com/global/en/job/BAE1US130781BREXTERNAL?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Berry Virtual | MedVirtual | AI Virtual",
-    "role": "Junior Full-Stack Developer (AI & API Integration)",
-    "location": "Manila, Philippines",
-    "link": "https://en-ph.whatjobs.com/pub_api__cpl__67739718__7115?utm_campaign=publisher&utm_medium=api&geoID=935&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "BiblioCommons",
-    "role": "PEY - Junior Fullstack Engineer",
-    "location": "Canada - Ontario",
-    "link": "https://wd3.myworkdaysite.com/recruiting/volarisgroup/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72456?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Bouygues Construction",
-    "role": "Stage assistant chef de projet déploiement réseau mobile F/H",
-    "location": "NANTES",
-    "link": "https://joining.bouygues.com/global/en/job/BOBBOUGLOBAL33736EXTERNALENGLOBAL?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "captechconsulting",
-    "role": "Consulting Internship: UX/Product Design (Summer 2027)",
-    "location": "Richmond, VA, us",
-    "link": "https://jobs.smartrecruiters.com/CapTechConsulting/744000159182656-consulting-internship-ux-product-design-summer-2027-?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Celtra, Inc.",
-    "role": "Product Design Intern",
-    "location": "Ljubljana, Ljubljana, Slovenia",
-    "link": "https://celtra.hire.trakstar.com/jobs/fk0ztwq?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "cemstone",
-    "role": "IT Support Internship - Summer 2027",
-    "location": "Mendota Heights, MN",
-    "link": "https://cemstone.wd1.myworkdayjobs.com/CemstoneCareers/job/Mendota-Heights-MN/IT-Support-Intern-2027_R-102067-1?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "DynatraceLLC",
-    "role": "Software Engineering - Summer Internships 2027 (m/f/x) / Klagenfurt",
-    "location": "Klagenfurt, AT",
-    "link": "https://apply.careers.dynatrace.com/job/Klagenfurt-Software-Engineering-Summer-Internships-2027-%28mfx%29-Klagenfurt-Cari-9020/1446726600/?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "EAA Aviation Center",
-    "role": "IT Intern",
-    "location": "Oshkosh, Winnebago County",
-    "link": "https://www.adzuna.com/details/5954860909?utm_medium=api&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Epic Games",
-    "role": "Machine Learning Intern",
-    "location": "BLANK,BLANK,Multiple Locations",
-    "link": "https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Epic Games",
-    "role": "Machine Learning Intern",
-    "location": "London,England,United Kingdom",
-    "link": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Ferrer",
-    "role": "QA External Quality Trainee",
-    "location": "Sant Cugat del Vallès, Barcelona, España",
-    "link": "https://ferrer.talentclue.com/es/node/130111608/4590?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Grifols",
-    "role": "Werkstudent Quality Assurance (m/w/d)",
-    "location": "Frankfurt am Main, Niederrad, DE",
-    "link": "https://jobsearch.grifols.com/job/Frankfurt-am-Main%2C-Niederrad-Werkstudent-Quality-Assurance-%28mwd%29/1451679233/?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "GuruSchools",
-    "role": "Junior Salesforce Developer",
-    "location": "Ohio, IL, USA",
-    "link": "https://guruschools.oorwin.com/careers/index.html?utm_source=freehire.me#/job/details/0c6268083883a7c06431fb4be83023d6993b9942",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Hermès",
-    "role": "STAGE - Assistant Business Analyst H/F",
-    "location": "PANTIN, Île-de-France, France",
-    "link": "https://fa-eoic-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/23550?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "KoreaShopABC",
-    "role": "AI Engineer Intern - On Site",
-    "location": "Cairo, Egypt",
-    "link": "https://wuzzuf.net/internship/zprjpksqmsbw-ai-engineer-intern-on-site-koreashopabc-cairo-egypt?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Mitsubishi Electric Research Laboratories",
-    "role": "Internship - AI-Aided Fluid Modeling and Engineering Design",
-    "location": "Cambridge MA",
-    "link": "https://apply.clearcompany.com/merl?jobId=a2ed2f14-0568-977d-c95c-24fbd4c8b348&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Placements24",
-    "role": "Graduate software developer (backend)",
-    "location": "Cape Town, South Africa",
-    "link": "https://en-za.whatjobs.com/pub_api__cpl__61394766__7122?utm_campaign=publisher&utm_medium=api&geoID=158&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "polene-paris",
-    "role": "Stage - Analyste IA Générative",
-    "location": "Paris - HQ",
-    "link": "https://jobs.ashbyhq.com/polene-paris/49ee4d97-d1d8-4453-98f4-f866e8aa9c4d?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Qualitykiosk Technologies",
-    "role": "Trainee Test Engineer",
-    "location": "Mumbai; Navi Mumbai",
-    "link": "https://www.naukri.com/job-listings-trainee-test-engineer-qualitykiosk-mumbai-navi-mumbai-0-to-1-years-051126502444?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "jobs.scotiabank.com",
-    "role": "Full Stack Developer - Entry Level",
-    "location": "Toronto, CA",
-    "link": "https://jobs.scotiabank.com/job/Toronto-Full-Stack-Developer-Entry-Level-ON-M5H-1A1/607787817/?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Techbay",
-    "role": "Full-Stack & AI Developer — Intern/ PT/ FT (Flexible)",
-    "location": "Bahrain",
-    "link": "https://bh.whatjobs.com/pub_api__cpl__2973417__7088?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Techbay",
-    "role": "Full-Stack Developer (Internship / Part-Time / Full-Time)",
-    "location": "Bahrain",
-    "link": "https://bh.whatjobs.com/pub_api__cpl__2973440__7088?utm_campaign=publisher&utm_medium=api&utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Boeing Company",
-    "role": "Entry-Level Mechanical Product Design and Analysis Engineer",
-    "location": "USA - El Segundo, CA",
-    "link": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-Level-Mechanical-Product-Design-and-Analysis-Engineer_JR2026526155?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Spring 2027 AI/ML Engineering Intern",
-    "location": "Washington, DC",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383212008?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Spring 2027 Data Science Intern",
-    "location": "Washington, DC",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383218008?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Spring 2027 Software Engineering Intern",
-    "location": "Washington, DC",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Summer 2027 AI/ML Engineering Intern",
-    "location": "Washington, DC",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Summer 2027 Data Science Intern",
-    "location": "Washington, DC",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "The Nuclear Company",
-    "role": "Summer 2027 Software Engineering Intern",
-    "location": "Washington, DC",
-    "link": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Valeris",
-    "role": "Junior Product Analyst",
-    "location": "Morrisville, NC",
-    "link": "https://valeris.wd108.myworkdayjobs.com/Valeris/job/Morrisville-NC/Junior-Product-Analyst_JR704?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Varda Space",
-    "role": "Site Reliability Internship - Spring 2027",
-    "location": "El Segundo, California, United States",
-    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003?utm_source=freehire.me",
-    "source": "freehire",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Clean Harbors External Career Site",
-    "role": "Mechanical Engineer Intern - Summer 2027",
-    "location": "Wichita, KS, United States",
-    "link": "https://epyc.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#168312",
-    "source": "jobhive",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "🔥 AMD",
-    "role": "Masters High-Speed SerDes and Optical Interconnect Engineering Intern 🎓",
-    "location": "Santa Clara, CA",
-    "link": "https://careers.amd.com/jobs/91893?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Apex",
-    "role": "Ground Software Engineering Internship (Spring or Summer 2027)",
-    "location": "Los Angeles, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488047890",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Apex",
-    "role": "Software Engineering Internship, Embedded Systems (Spring or Summer 2027)",
-    "location": "Los Angeles, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488060572",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "ABB",
+    "role": "Internship - Full Stack Software Developer",
+    "location": "Genova, Genova, Italy",
+    "link": "https://abb.wd3.myworkdayjobs.com/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
     "company": "ASML",
-    "role": "Internship -Mechatronics Engineer",
-    "location": "Wilton, CT, USA",
-    "link": "https://zapply.jobs/l/d/workday-asml-asmlext1-J-00356535?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "role": "Business Administration | Information Management internship: process and data governance",
+    "location": "Veldhoven, Netherlands",
+    "link": "https://asml.wd3.myworkdayjobs.com/job/Veldhoven-Netherlands/Business-Administration---Information-Management-internship--process-and-data-governance_J-00356684",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[Aerospace Corporation](https://go.vansh.nyc/1jf)",
-    "role": "AI Intern",
-    "location": "Kanata, Canada",
-    "link": "https://go.vansh.nyc/1jf",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "ASML",
+    "role": "Business Analytics | Data Science internship: AI-driven operations",
+    "location": "Veldhoven, Netherlands",
+    "link": "https://asml.wd3.myworkdayjobs.com/job/Veldhoven-Netherlands/Business-Analytics---Data-Science-internship--AI-driven-operations_J-00356683",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "AeroVironment",
+    "company": "ASML",
+    "role": "Electrical Engineering internship: plc replacement feasibility",
+    "location": "Veldhoven, Netherlands",
+    "link": "https://asml.wd3.myworkdayjobs.com/job/Veldhoven-Netherlands/Electrical-Engineering-internship--plc-replacement-feasibility_J-00355636",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASML",
+    "role": "Physics | Optical Engineering internship: next-generation focus sensor",
+    "location": "Veldhoven, Netherlands",
+    "link": "https://asml.wd3.myworkdayjobs.com/job/Veldhoven-Netherlands/internship--focus-sensor_J-00354438",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Aerovironment",
     "role": "Graduate Student Research Assistant- Computational Modeling of Polymer Solution Behavior Intern",
     "location": "WPAFB",
-    "link": "https://zapply.jobs/l/d/workday-avav-avav-9339?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "link": "https://avav.wd1.myworkdayjobs.com/job/WPAFB/Graduate-Student-Research-Assistant--Computational-Modeling-of-Polymer-Solution-Behavior-Intern_9339",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Amazon.com Services LLC",
-    "role": "Data Engineer I, Secure Third Party Tools (S3T)",
-    "location": "Austin, TX",
-    "link": "https://zapply.jobs/l/d/amazon-85019a39-8d3c-4ff3-8087-16566aa22ad8?s=gh-new-grad-data-science-jobs-2027",
-    "source": "zapplyjobs New Grad Data Science 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analog Devices",
+    "role": "Embedded Software Engineer Intern",
+    "location": "Romania, Cluj-Napoca, Decembrie",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Amazon",
-    "role": "Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US)",
-    "location": "Los Angeles, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488089383",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analog Devices",
+    "role": "Wet Lab Sensor Research Co-Op",
+    "location": "US, MA, Boston",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Boston/Wet-Lab-Sensor-Research-Co-Op_R268534-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Amazon",
-    "role": "Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US)",
-    "location": "Redmond, WA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488095020",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "AMS Design Verification Intern",
+    "location": "Italy, Milan, Assago",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/AMS-Design-Verification-Intern_R267539",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "🔥 Amazon",
-    "role": "Software Development Engineer – Early Career - Embedded Systems",
-    "location": "Redmond, WA Northridge, LA",
-    "link": "https://amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs New Grad",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Analog Design Engineering Intern (Audio)",
+    "location": "United Kingdom, Edinburgh, SC, Freer",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Audio-_R267095",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "🔥 Amazon",
-    "role": "Software Development Engineer – Early Career",
-    "location": "Redmond, WA",
-    "link": "https://amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs New Grad",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Analog Design Engineering Intern (Power Management)",
+    "location": "United Kingdom, Edinburgh, SC, Freer",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Edinburgh-SC-Freer/Analog-Design-Engineering-Intern--Power-Management-_R267094-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Apple",
-    "role": "Product Manager, Access Platform in Apple Wallet",
-    "location": "Cupertino",
-    "link": "https://zapply.jobs/l/d/apple-200693179?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Analog IC Designer Intern",
+    "location": "Italy, Catania",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Catania/Analog-IC-Designer-Intern_R267536-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Apple",
-    "role": "Product Operations Specialist - Digital Health Solutions (MSO)",
-    "location": "Cupertino",
-    "link": "https://zapply.jobs/l/d/apple-200693751?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Analog/Mixed Signal Design Intern",
+    "location": "United Kingdom, Newbury",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Applied Materials",
-    "role": "Metrology Engineer Co-op Intern",
-    "location": "Tempe, AZ",
-    "link": "https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Off-Season 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Biomedical Engineering Intern",
+    "location": "US, MA, Wilmington",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Biomedical-Engineering-Intern_R265577",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "AstraZeneca",
-    "role": "Manufacturing Digital and AI Intern",
-    "location": "Gaithersburg, MD",
-    "link": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Digital Design Engineering Intern",
+    "location": "Italy, Milan, Assago",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Italy-Milan-Assago/Digital-Design-Engineering-Intern_R267538",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Ballotpedia",
-    "role": "GIS Analyst Intern",
-    "location": "Remote in USA",
-    "link": "https://apply.workable.com/ballotpedia/j/4AF879CDEA/apply?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Off-Season 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "FY27 Field Applications Engineer Intern",
+    "location": "Germany, Munich, Otl-Aicher-Strasse",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Germany-Munich-Otl-Aicher-Strasse/FY27-Field-Applications-Engineer-Intern_R266838",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Boeing",
-    "role": "DevOps Developer (Associate or Experienced or Lead)",
-    "location": "Seal Beach, CA",
-    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525944?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Healthcare Mechanical Engineering Co-op (Spring)",
+    "location": "US, MA, Wilmington",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Boeing",
-    "role": "Minuteman III Flight Test, Telemetry, and Termination (FT3) Field Representative (Mid-level or Lead)",
-    "location": "Vandenberg SFB, CA",
-    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026526110?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Layout Designer Intern",
+    "location": "Spain, Valencia, Cortes Valencianas",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Layout-Designer-Intern_R267121",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Boeing",
-    "role": "Quality Engineer (Associate or Experienced)",
-    "location": "USA - Smithfield, PA",
-    "link": "https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026527656?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Analogdevices",
+    "role": "Mechanical and Robotics Intern",
+    "location": "Ireland, Limerick",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Ireland-Limerick/Mechanical-and-Robotics-Intern_R258854",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Analogdevices",
+    "role": "Product Applications - Systems Pipeline Intern",
+    "location": "Germany, Hamburg",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Germany-Hamburg/Product-Applications---Systems-Pipeline-Intern_R267127",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Analogdevices",
+    "role": "Software QA Intern",
+    "location": "Spain, Valencia, Cortes Valencianas",
+    "link": "https://analogdevices.wd1.myworkdayjobs.com/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Atkinsr Alis",
+    "role": "Rail Systems Project Delivery Engineering Intern – Summer 2027",
+    "location": "US.CA.San Francisco.580 California Street",
+    "link": "https://slihrms.wd3.myworkdayjobs.com/job/USCASan-Francisco580-California-Street/Rail-Systems-Project-Delivery-Engineering-Intern---Summer-2027_R-165974-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Atkinsr Alis",
+    "role": "Water Resources Civil Engineering Intern - Summer 2027",
+    "location": "US.TX.Austin.11801 Domain Blvd",
+    "link": "https://slihrms.wd3.myworkdayjobs.com/job/USTXAustin11801-Domain-Blvd/Water-Resources-Civil-Engineering-Intern---Summer-2027_R-170732",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Bdx",
+    "role": "Engineering Intern",
+    "location": "USA UT - Sandy",
+    "link": "https://bdx.wd1.myworkdayjobs.com/job/USA-UT---Sandy/Engineering-Intern_R-553921-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Blue Origin",
+    "role": "Fluids Engineer II - Glenn Stage 2 Mid/Fwd",
+    "location": "Greater Seattle Area",
+    "link": "https://blueorigin.wd5.myworkdayjobs.com/job/Greater-Seattle-Area/Fluids-Engineer-II---Glenn-Stage-2-Mid-Fwd_R73404",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Booz Allen Hamilton",
+    "role": "University - 2027 Summer Games Systems Engineer Intern - El Segundo, CA",
+    "location": "El Segundo, CA",
+    "link": "https://bah.wd1.myworkdayjobs.com/job/El-Segundo-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[BorgWarner](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Jr-System-Bench-Architect-Intern--Year-Round-_R2026-3784)",
+    "role": "Mechanical Product Engineering Intern (M/F/D)",
+    "location": "Viana do Castelo II - Portugal",
+    "link": "https://borgwarner.wd5.myworkdayjobs.com/job/Viana-do-Castelo-II---Portugal/NVH-Product-Engineering-Intern_R2026-3131",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
     "company": "CACI",
-    "role": "Cloud Operations Administrator",
-    "location": "Hampton, VA, US",
-    "link": "https://zapply.jobs/l/d/workday-caci-external-330289?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "role": "Junior Software Developer",
+    "location": "Remote (Any State)",
+    "link": "https://caci.wd1.myworkdayjobs.com/job/Remote-Any-State/Junior-Software-Developer_334685",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Cambridge Consultants",
-    "role": "Software Engineering Internship - 2027 start",
-    "location": "United Kingdom",
-    "link": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
-    "source": "speedyapply SWE 2027 Intern Intl",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Cadence Design Systems",
+    "role": "IT Internship (Techstop Support)",
+    "location": "SAN JOSE",
+    "link": "https://cadence.wd1.myworkdayjobs.com/job/SAN-JOSE/IT-Internship--Techstop-Support-_R57021-3",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Cambridge Consultants",
-    "role": "Software Engineering Internship - Healthcare - 2027 start",
-    "location": "United Kingdom",
-    "link": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101",
-    "source": "speedyapply SWE 2027 Intern Intl",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "[Ciena](https://ciena.wd5.myworkdayjobs.com/Careers/job/New-York/THW-Client-Co-op--January-2026-_R031672)",
+    "role": "Software Design/Engineer - New Grad",
+    "location": "Ottawa",
+    "link": "https://ciena.wd5.myworkdayjobs.com/job/Ottawa/Software-Design-Engineer---New-Grad_R032059",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Cardinal Health",
-    "role": "Data & Analytics Early Career Development Program",
-    "location": "Dublin, OH",
-    "link": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Early-Career-Development-Program--Embark-_20190569?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs New Grad",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Cisco",
+    "role": "Quality Engineer I (Intern) - Mexico",
+    "location": "Guadalajara, Mexico",
+    "link": "https://cisco.wd5.myworkdayjobs.com/job/Guadalajara-Mexico/Quality-Engineer-I--Intern----Mexico_2029145",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "CareSource",
-    "role": "Configuration and Automation Intern",
-    "location": "Remote in USA",
-    "link": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Clarios",
+    "role": "Product Engineering: Materials Intern (Summer 2027)",
+    "location": "United States, Wisconsin, Milwaukee",
+    "link": "https://clarios.wd5.myworkdayjobs.com/job/United-States-Wisconsin-Milwaukee/Product-Engineering--Materials-Intern--Summer-2027-_WD49906",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[CareSource](https://go.vansh.nyc/1je)",
-    "role": "Cybersecurity Intern",
-    "location": "Remote, United States",
-    "link": "https://go.vansh.nyc/1je",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Collins Aerospace",
+    "role": "Mechanical Engineer Intern - Test Solutions",
+    "location": "US-TX-MCKINNEY-513PW ~ 2501 W University Dr ~ PW BLDG",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-TX-MCKINNEY-513PW--2501-W-University-Dr--PW-BLDG/Mechanical-Engineer-Intern---Test-Solutions_01883601",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "CareSource",
-    "role": "Data Analyst Intern",
-    "location": "Remote in USA",
-    "link": "https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "doordashusa",
+    "role": "AI Research Fellowship, (Summer and Fall 2026)",
+    "location": "San Francisco, CA",
+    "link": "https://job-boards.greenhouse.io/doordashusa/jobs/7848317",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[CareSource](https://go.vansh.nyc/1jg)",
-    "role": "Data Analyst Intern",
-    "location": "Remote, United States",
-    "link": "https://go.vansh.nyc/1jg",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Caterpillar",
-    "role": "Assembly and Test Specialist - 2nd/3rd Shifts - Supplemental",
-    "location": "Pontiac, Illinois",
-    "link": "https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000404176?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Crane Co.",
-    "role": "Production Technician I (Weekday 2nd shift)",
-    "location": "Lynnwood, Washington",
-    "link": "https://zapply.jobs/l/d/workday-cranecompany-careers-JR102790?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "🔥 CrowdStrike",
-    "role": "Sales Data Analytics Intern",
-    "location": "Arlington County, Arlington, VA, Sunnyvale, CA",
-    "link": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Sales-Data-Analytics-Intern_R30801?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Daiichi Sankyo",
-    "role": "AI/ML Automation Pipelines Intern",
-    "location": "Basking Ridge, NJ, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488039990",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Daiichi Sankyo",
-    "role": "Data Scientist and AI Developer Intern",
-    "location": "Basking Ridge, NJ, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488052402",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Danaher",
-    "role": "Computer Science/Data AI Co-op Supply Chain",
-    "location": "Indianapolis, Indiana",
-    "link": "https://zapply.jobs/l/d/phenom-danaher-R1320599?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "DwyerOmega",
-    "role": "Sensors Engineer Intern",
-    "location": "Westerville, OH",
-    "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640964?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "DwyerOmega",
-    "role": "Software Engineer Intern",
-    "location": "Westerville, OH",
-    "link": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "DwyerOmega",
-    "role": "Software Engineering Intern",
-    "location": "Westerville, OH, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488056688",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "d5856577",
-    "role": "Data Center Security Officer",
-    "location": "Afton, TX",
-    "link": "https://zapply.jobs/l/d/adp-d5856577-9203187674492_201?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Eaton",
-    "role": "Manufacturing Engineering Technician",
-    "location": "El Paso, Texas, USA, 79912",
-    "link": "https://zapply.jobs/l/d/eightfold-eaton-687240143239?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Eversource Energy",
-    "role": "2027 Gas Project Engineering Co-op",
-    "location": "MA Westborough Technology Dr",
-    "link": "https://zapply.jobs/l/d/workday-eversource-externalsite-R-032515?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Eversource Energy",
-    "role": "2027 Summer Distribution Engineering Intern (Tilton, NH-Hybrid Schedule)",
-    "location": "Tilton, NH",
-    "link": "https://zapply.jobs/l/d/workday-eversource-externalsite-R-032407?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Eversource Energy",
-    "role": "2027 Summer: Distribution Engineering Intern (Waltham, MA-Hybrid Schedule)",
-    "location": "Waltham, MA",
-    "link": "https://zapply.jobs/l/d/workday-eversource-externalsite-R-032412?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Eversource Energy",
-    "role": "2027 Summer: Transmission and Distribution Standards Engineering Intern (MA, Hybrid Schedule)",
-    "location": "Westwood, MA",
-    "link": "https://zapply.jobs/l/d/workday-eversource-externalsite-R-032409?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "FIS",
-    "role": "Production Operations Associate I/ Machine Operator",
-    "location": "GA CMH 7101 BLDG 100",
-    "link": "https://zapply.jobs/l/d/workday-fis-searchjobs-JR0308735?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Fidelity Investments",
-    "role": "Product Manager, Portfolio Construction Solutions",
-    "location": "Merrimack, NH",
-    "link": "https://zapply.jobs/l/d/workday-fmr-fidelitycareers-2135291?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "First National Bank",
-    "role": "Data Analytics Engineer 1",
-    "location": "Pittsburgh, PA Hermitage, PA",
-    "link": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Data-Analytics-Engineer-1---Pittsburgh-or-Hermitage--PA_2026-02664?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs New Grad",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Expedia",
+    "role": "Applied Science Intern - PhD - 2027 - London",
+    "location": "UK - London",
+    "link": "https://expedia.wd108.myworkdayjobs.com/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737-2",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
     "company": "Freeform",
-    "role": "Software Engineer - New Grad December 2026",
-    "location": "Los Angeles, CA",
+    "role": "Additive Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826912003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Freeform",
+    "role": "Electrical Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826644003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Freeform",
+    "role": "Manufacturing Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826918003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Freeform",
+    "role": "Materials Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7827091003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Freeform",
+    "role": "Mechanical Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826615003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Freeform",
+    "role": "Process Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
+    "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7827086003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Freeform",
+    "role": "Software Engineer (New Grad December 2026)",
+    "location": "Los Angeles, CA (On-site)",
     "link": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7826634003",
-    "source": "speedyapply SWE New Grad USA",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "GE Aerospace",
-    "role": "Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027",
-    "location": "Bohemia",
-    "link": "https://zapply.jobs/l/d/workday-geaerospace-ge-externalsite-R5042754?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "GDIT",
+    "role": "Penetration Tester Junior",
+    "location": "USA VA Ashburn",
+    "link": "https://gdit.wd5.myworkdayjobs.com/job/USA-VA-Ashburn/Penetration-Tester-Junior_RQ230003-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "GM Financial",
-    "role": "Operations Analyst Intern",
-    "location": "Fort Worth, TX",
-    "link": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261259?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "[GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1)",
+    "role": "Junior Engineer - Hydro Testing",
+    "location": "Pune",
+    "link": "https://geaerospace.wd5.myworkdayjobs.com/job/Pune/Junior-Engineer---Hydro-Testing_R5041290-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "IBM",
-    "role": "Applied Scientist – R&D Internship – 2027",
-    "location": "Cambridge, MA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4485870539",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Guardian",
+    "role": "2027 Guardian Summer Intern, HR Technology Knowledge Management & AI Operations",
+    "location": "Bethlehem",
+    "link": "https://guardianlife.wd5.myworkdayjobs.com/job/Bethlehem/XMLNAME-2027-Guardian-Summer-Intern--HR-Technology-Knowledge-Management---AI-Operations_R000110260",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "IBM",
-    "role": "Applied Scientist – R&D Internship – 2027",
-    "location": "Yorktown Heights, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4485877337",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "HP",
+    "role": "Audio and DSP Development Engineering Intern",
+    "location": "Scotts Valley, California, United States of America",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Scotts-Valley-California-United-States-of-America/Audio-and-DSP-Development-Engineering-Intern_UNI4508-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "HP",
+    "role": "Business Process Automation & Data Analytics Intern",
+    "location": "Heredia, Heredia, Costa Rica",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Heredia-Heredia-Costa-Rica/Business-Process-Automation---Data-Analytics-Intern_3170183",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "HP",
+    "role": "Chemical Engineer / Chemist Postdoctoral Intern",
+    "location": "Corvallis, Oregon, United States of America",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "HP",
+    "role": "College Intern - Business Analyst",
+    "location": "Singapore, South West, Singapore",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Singapore-South-West-Singapore/PWD-Internship_UNI4909",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "HP",
+    "role": "Software Product Security Engineer Intern",
+    "location": "Spring, Texas, United States of America",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "HP",
+    "role": "Software and Engineering Intern Roles - Imaging and Print",
+    "location": "Corvallis, Oregon, United States of America",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "HP",
+    "role": "Technology & Innovation Organization Electrical Engineering Internship",
+    "location": "Corvallis, Oregon, United States of America",
+    "link": "https://hp.wd5.myworkdayjobs.com/job/Corvallis-Oregon-United-States-of-America/Technology---Innovation-Organization-Electrical-Engineering-Internship_3167270",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Health Care Service",
+    "role": "Early Careers - Security Program Management Senior Intern",
+    "location": "IL - Chicago",
+    "link": "https://hcsc.wd1.myworkdayjobs.com/job/IL---Chicago/Early-Careers---Security-Program-Management-Senior-Intern_R0059515",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Home Depot",
+    "role": "Sr. Analyst, AMP (Rotational Leadership Program)",
+    "location": "STORE SUPPORT CENTER, ATLANTA - 9090",
+    "link": "https://homedepot.wd5.myworkdayjobs.com/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Analyst--Assurance-and-Advisory-Management-Program--AMP-_Req173591",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Icf International",
+    "role": "Computer Scientist / Software Developer, Junior - Security Clearance Required",
+    "location": "Adelphi, MD",
+    "link": "https://icf.wd5.myworkdayjobs.com/job/Adelphi-MD/Computer-Scientist---Software-Developer--Junior---Security-Clearance-Required_R2600165",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828)",
+    "role": "GPU Architecture Graduate Intern",
+    "location": "US, California, Folsom",
+    "link": "https://intel.wd1.myworkdayjobs.com/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[Intel](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828)",
+    "role": "Graphics Hardware Validation Undergraduate Engineering Intern",
+    "location": "Canada, Toronto",
+    "link": "https://intel.wd1.myworkdayjobs.com/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
     "company": "Invesco",
     "role": "Early Career Intern - Digital Product Management",
     "location": "Atlanta, Georgia",
-    "link": "https://zapply.jobs/l/d/workday-invesco-ivz-R-15876?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "link": "https://invesco.wd1.myworkdayjobs.com/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "J.M. Smucker",
-    "role": "Data Science Intern 🎓",
-    "location": "Remote in USA",
-    "link": "https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Johnson & Johnson",
+    "role": "External Research Student Placement 2027",
+    "location": "Leeds, West Yorkshire, United Kingdom",
+    "link": "https://jj.wd5.myworkdayjobs.com/job/Leeds-West-Yorkshire-United-Kingdom/External-Research-Student-Placement-2027_R-109267",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[JM Family Enterprises](https://go.vansh.nyc/1jd)",
-    "role": "Data Engineering Intern",
-    "location": "Deerfield Beach, FL",
-    "link": "https://go.vansh.nyc/1jd",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Juniper Networks",
+    "role": "AI & HPC Performance Engineering Intern",
+    "location": "Spring, Texas, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/AI---HPC-Performance-Engineering-Intern_1213397",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "JP Morgan Chase",
-    "role": "Machine Learning Intern - NLP 🎓",
-    "location": "London, UK",
-    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Juniper Networks",
+    "role": "AI and Data Intern",
+    "location": "Las Rozas, Madrid, Spain",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Leidos",
-    "role": "Physiology Research Intern",
-    "location": "San Diego, CA",
-    "link": "https://zapply.jobs/l/d/workday-leidos-external-R-00196376?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Juniper Networks",
+    "role": "AI/ML Developer Intern",
+    "location": "San Jose, California",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California/AI-ML-Developer-Intern_1217413",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Leidos",
-    "role": "Site Reliability Engineering Scrum Master",
-    "location": "6314 Remote/Teleworker US",
-    "link": "https://zapply.jobs/l/d/workday-leidos-external-R-00196419?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Juniper Networks",
+    "role": "ASIC Design Engineer Intern",
+    "location": "Sunnyvale, California, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/ASIC-Design-Engineer-Intern_1214180",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Merck & Co.",
+    "company": "Juniper Networks",
+    "role": "ASIC Intern",
+    "location": "Sunnyvale, California, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/ASIC-Intern_1214034",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "ASIC Verification Engineering Intern",
+    "location": "Roseville, California, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Roseville-California-United-States-of-America/ASIC-Verification-Engineering-Intern_1214219",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Credit Analyst - Internship",
+    "location": "Tlaquepaque, Jalisco, Mexico",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Credit-Analyst---Internship_1213750",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Electrical Engineering Intern",
+    "location": "Spring, Texas, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Electrical Hardware Engineering Intern",
+    "location": "Chippewa Falls, Wisconsin, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Chippewa-Falls-Wisconsin-United-States-of-America/Electrical-Hardware-Engineering-Intern_1213409",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Finance Engineer - Internship",
+    "location": "Mexico City, Distrito Federal, Mexico",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Finance-Engineer---Internship_1216577",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Hardware Engineering Design Intern",
+    "location": "Roseville, California, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Roseville-California-United-States-of-America/Hardware-Engineering-Design-Intern_1214168",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Hardware Service Engineer Intern",
+    "location": "Spring, Texas, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/Hardware-Service-Engineer-Intern_1213403",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "IT Certification - Internship",
+    "location": "Tlaquepaque, Jalisco, Mexico",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/IT-Certification---Internship_1216578",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Networking Intern - Placement Year",
+    "location": "Winnersh, United Kingdom",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Winnersh-United-Kingdom/Networking-Intern---Placement-Year_1216282",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Networking Sales Support – Part time Internship",
+    "location": "Ra'anana, Center District, Israel",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Raanana-Center-District-Israel/Internship-Presales-Support---Part-time_1214494",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Operations Project Analyst Intern",
+    "location": "Bucharest, Romania",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Bucharest-Romania/Operations-Project-Analyst-Intern_1216279",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Sales Cyber Security Intern",
+    "location": "Westford, Massachusetts, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Westford-Massachusetts-United-States-of-America/Sales-Cyber-Security-Intern_1214044",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Software Engineering Intern",
+    "location": "Sunnyvale, California, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Solution Validation Engineer for Campus Fabric / Enterprise Networking",
+    "location": "Bengaluru, Karnātaka, India",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Bengaluru-Karntaka-India/Solution-Validation-Engineer-for-Campus-Fabric---Enterprise-Networking_1217327-2",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Stażysta w Dziale Finansowym - Finance Analyst Intern",
+    "location": "Wroclaw, Lower Silesian, Poland",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Wroclaw-Lower-Silesian-Poland/taysta-w-Dziale-Finansowym---Finance-Analyst-Intern_1215172",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Storage & Data Solutions Intern - COOP",
+    "location": "Riyadh, Riyadh, Saudi Arabia",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Riyadh-Riyadh-Saudi-Arabia/Storage---Data-Solutions-Intern---COOP_1216271",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Systems engineer - Internship",
+    "location": "Mexico City, Distrito Federal, Mexico",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Systems-engineer---Internship_1214215",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Test Engineer, HPC & AI Systems - (Early Career)",
+    "location": "Spring, Texas, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Spring-Texas-United-States-of-America/Test-Engineer--HPC---AI-Systems_1214365-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "VLSI Design Verification Masters Level Intern",
+    "location": "Ft. Collins, Colorado, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Design-Verification-Masters-Level-Intern_1213425",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "VLSI Engineer Internship",
+    "location": "Heredia, Heredia, Costa Rica",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Heredia-Heredia-Costa-Rica/VLSI-Engineer-Internship_1214036",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "VLSI Logic Design Intern",
+    "location": "Ft. Collins, Colorado, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/Ft-Collins-Colorado-United-States-of-America/VLSI-Logic-Design-Intern_1213412",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Juniper Networks",
+    "role": "Wireless Networking Intern",
+    "location": "San Jose, California, United States of America",
+    "link": "https://hpe.wd5.myworkdayjobs.com/job/San-Jose-California-United-States-of-America/Wireless-Networking-Intern_1214969",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "KBR",
+    "role": "Junior Mechanical Engineer -Onsite",
+    "location": "Basra, Al Başrah, Iraq",
+    "link": "https://kbr.wd5.myworkdayjobs.com/job/Basra-Al-Barah-Iraq/Junior-Mechanical-Engineer--Onsite_R2131595",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "KBR",
+    "role": "Junior Survey Engineer",
+    "location": "Basra, Al Başrah, Iraq",
+    "link": "https://kbr.wd5.myworkdayjobs.com/job/Basra-Al-Barah-Iraq/Junior-Survey-Engineer_R2131596",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Logitech",
+    "role": "AI-Assisted Materials Engineering Intern",
+    "location": "Hsinchu, Taiwan",
+    "link": "https://logitech.wd5.myworkdayjobs.com/job/Hsinchu-Taiwan/AI-Assisted-Materials-Engineering-Intern_148667",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Logitech",
+    "role": "Junior Global Product Manager - Post Launch Innovation",
+    "location": "Hsinchu, Taiwan",
+    "link": "https://logitech.wd5.myworkdayjobs.com/job/Hsinchu-Taiwan/Global-Product-Manager--Post-Launch-Innovation_148723",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MSD",
     "role": "2027 Future Talent Program - Vaccines Process Research & Development Upstream - Co-Op",
     "location": "USA - Pennsylvania - West Point",
-    "link": "https://zapply.jobs/l/d/workday-msd-searchjobs-R413130?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "link": "https://msd.wd5.myworkdayjobs.com/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Vaccines-Process-Research---Development-Upstream---Co-Op_R413130",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Merkle Science",
-    "role": "Software Engineer- Intern- Backend",
-    "location": "Bengaluru, India",
-    "link": "https://jobs.lever.co/merklescience/e663b69b-264a-4bd7-b04d-fb3c0a824a28",
-    "source": "speedyapply SWE 2027 Intern Intl",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Magna",
+    "role": "IT Co-op Student",
+    "location": "Brampton, Ontario, CA",
+    "link": "https://magna.wd3.myworkdayjobs.com/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Nationwide",
-    "role": "Summer 2027 Generative AI Internship",
-    "location": "Columbus, OH, USA",
-    "link": "https://www.linkedin.com/jobs/view/4485867448",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Marmon",
+    "role": "Automation & Continuous Improvement Engineering Intern",
+    "location": "Hesse, DE",
+    "link": "https://marmon.wd501.myworkdayjobs.com/job/Hesse-DE/Automation---Continuous-Improvement-Engineering-Intern_JR0000044955",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Northrop Grumman",
-    "role": "2027 Associate Engineer / Engineer Aeronautical - WAFB MO",
-    "location": "United States-Missouri-Whiteman AFB",
-    "link": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10259630?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Marmon",
+    "role": "Mechanical Engineering Student_L1J17005",
+    "location": "Quebec, CA",
+    "link": "https://marmon.wd501.myworkdayjobs.com/job/Quebec-CA/Mechanical-Engineering-Student-L1J17005_JR0000043056",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Northrop Grumman",
-    "role": "Engineering Designer – Level 3/4",
-    "location": "United States-Arizona-Chandler",
-    "link": "https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10253641?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Marmon",
+    "role": "PROCESS ENGINEER INTERN",
+    "location": "Goldsboro, NC",
+    "link": "https://marmon.wd501.myworkdayjobs.com/job/Goldsboro-NC/PROCESS-ENGINEER-INTERN_JR0000046275-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Palantir Technologies",
-    "role": "Software Engineer, Internship - Sovereign AI Systems",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4486947025",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Momentive",
+    "role": "2027 CO-OP-Hardcoat Research and Development",
+    "location": "US NY Waterford",
+    "link": "https://momentive.wd1.myworkdayjobs.com/job/US-NY-Waterford/XMLNAME-2027-CO-OP-Hardcoat-Research-and-Development_R10052",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Portcast",
-    "role": "Data Analyst Intern",
-    "location": "Singapore +10",
-    "link": "https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e",
-    "source": "speedyapply AI Intern Intl",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "MORSE",
+    "role": "Aerospace Algorithms Engineer Co-op",
+    "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968520003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Raft",
-    "role": "AI/ML Intern - Summer 2027",
-    "location": "McLean, VA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4486948062",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "MORSE",
+    "role": "Aerospace Algorithms Engineer Graduate Co-op",
+    "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968522003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Raft",
-    "role": "Full Stack Engineering Intern - Summer 2027",
-    "location": "McLean, VA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4486925957",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "MORSE",
+    "role": "Embedded Software Engineer Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[RTX](https://go.vansh.nyc/1jj)",
-    "role": "Software Engineering Intern",
-    "location": "Aurora, CO",
-    "link": "https://go.vansh.nyc/1jj",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "MORSE",
+    "role": "Embedded Software Engineer Graduate Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "Flight Software Engineer Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "Human Computer Interaction Engineer Co-op",
+    "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968101003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "IT Specialist Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968306003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "Machine Learning Engineer Co-op",
+    "location": "Cambridge, MA, Arlington, VA, Seattle, WA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "Manufacturing Engineer Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/8034274003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "Mechanical Engineer Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968311003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MORSE",
+    "role": "Network Engineer Graduate Co-op",
+    "location": "Cambridge, MA",
+    "link": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968729003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Point72",
+    "role": "2027 MI Data Research Intern",
+    "location": "Hong Kong, Singapore, Japan",
+    "link": "https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
     "company": "RTX",
-    "role": "Systems Engineering Co-op",
-    "location": "Richardson, TX",
-    "link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Off-Season 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "role": "Electrical Components Engineer Intern (Summer 2027)(Onsite)",
+    "location": "US-AZ-TUCSON-M10 ~ 3360 E Hemisphere Loop ~ BLDG M10",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Electrical-Components-Engineer-Intern--Summer-2027--Onsite-_01879761",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Red Wing Shoe Company",
-    "role": "Data and Analytics Intern",
-    "location": "Red Wing, MN",
-    "link": "https://jobs.smartrecruiters.com/RedWingShoeCompany/744000159979648?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Electrical Engineer Intern (Summer 2027)",
+    "location": "US-FL-MELBOURNE-312 ~ 795 W Nasa Blvd ~ BLDG 312",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Electrical-Engineer-Intern--Summer-2027-_01872110",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Regal Rexnord",
-    "role": "Engineering Technology Lab Co-op",
-    "location": "Tipp City, Ohio, United States",
-    "link": "https://zapply.jobs/l/d/workday-regalrexnord-careers-R26_05926?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Electrical Engineering Intern (Summer 2027)(Onsite)",
+    "location": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Electrical-Engineering-Intern--Summer-2027--Onsite-_01885147",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Relativity Space",
-    "role": "Propulsion Integration & Test Engineer I, First shift",
-    "location": "Long Beach, California, United...",
-    "link": "https://zapply.jobs/l/d/greenhouse-relativity-8932458002?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Industrial Engineering Co-Op (Spring/Summer 2027)",
+    "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871284",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Riverside Research",
-    "role": "Software Applications Intern",
-    "location": "Fairborn, OH",
-    "link": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Intern: Quality Engineering (Summer 2027)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Intern--Quality-Engineering--Summer-2027-_01868898",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Riverside Research",
-    "role": "Software Applications Intern",
-    "location": "Fairborn, OH, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488089219",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Intern: Summer 2027 - Control/Diagnostic Software (Onsite)",
+    "location": "US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Royal Bank of Canada",
-    "role": "Quantitative Technology Services Co-op - Software Developer",
-    "location": "Montreal, QC, Canada",
-    "link": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Off-Season 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Junior Network Engineer",
+    "location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Junior-Network-Engineer_01886240",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Sahajanand, LLC",
-    "role": "Junior Full Stack Engineer",
-    "location": "Willow Grove, PA, USA",
-    "link": "https://www.indeed.com/viewjob?jk=05189fa4553d459a",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Manufacturing Engineering Operations Intern (Summer 2027)",
+    "location": "US-WV-UNION-225 ~ 225 Stringtown Rd ~ STRINGTOWN",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-WV-UNION-225--225-Stringtown-Rd--STRINGTOWN/Manufacturing-Engineering-Operations-Intern--Summer-2027-_01886755",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Salesforce",
-    "role": "Systems Engineering Associate, Early Talent",
-    "location": "Texas - Dallas",
-    "link": "https://zapply.jobs/l/d/workday-salesforce-external-career-site-JR367534?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Manufacturing Engineering Ops Co-Op (Spring/Summer 2027)",
+    "location": "US-FL-MELBOURNE-311 ~ 1100 W Hibiscus Blvd ~ BLDG 311",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-FL-MELBOURNE-311--1100-W-Hibiscus-Blvd--BLDG-311/Manufacturing-Engineering-Ops-Co-Op--Spring-Summer-2027-_01886455",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Shield AI",
-    "role": "Software Engineer Co-op Intern",
-    "location": "Seattle, WA, Washington, DC, Dallas, TX, San Diego, CA",
-    "link": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949/apply?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Materials & Processes and Mechanical Disciplines Engineering Intern (Summer 2027) (Onsite)",
+    "location": "US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Materials---Processes-and-Mechanical-Disciplines-Engineering-Intern--Summer-2027---Onsite-_01871669",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Shield AI",
-    "role": "Software Engineer Intern Co-op",
-    "location": "Dallas, TX",
-    "link": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Secure System Engineering Intern (Summer 2027)",
+    "location": "US-CT-WINDSOR LOCKS-B1 ~ 1 Hamilton Rd ~ BLDG 1",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Cybersecurity-Engineering-Intern--Summer-2027-_01876185",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "State Farm",
-    "role": "P&C Actuarial & Underwriting Modeling Intern - Data Scientist 🎓",
-    "location": "Tempe, AZ, Dunwoody, GA, Richardson, TX, Bloomington, IL",
-    "link": "https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Skillbridge: Program Cost Controls Intern",
+    "location": "US-MA-ANDOVER-AN0 ~ 366 Lowell St ~ BLDG AN0",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Skillbridge--Program-Cost-Controls-Intern_01886742",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Stripe",
-    "role": "Product Design Intern",
-    "location": "San Francisco, Seattle, New...",
-    "link": "https://zapply.jobs/l/d/greenhouse-stripe-8332681?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Skillbridge: Sr Prin Systems Engineer Intern",
+    "location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Skillbridge--Sr-Prin-Systems-Engineer-Intern_01887483",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "StubHub",
-    "role": "Software Engineer I (New Grad) - Consumer Experience",
-    "location": "New York, NY, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488061123",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "Software Engineer Co-op (Summer/Fall 2027) - Onsite",
+    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "StubHub",
-    "role": "Software Engineer New Grad - Consumer Experience",
-    "location": "NYC",
-    "link": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs New Grad",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "RTX",
+    "role": "System Engineering Co-op (Remote)",
+    "location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/System-Engineering-Co-op--Remote-_01868902",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "T-Mobile",
-    "role": "Software Engineer Intern",
+    "company": "RTX",
+    "role": "Systems Engineering Fall 2027 Co-op, Richardson, TX (Onsite)",
+    "location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Fall-2027-Co-op--Richardson--TX--Onsite-_01886215",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "RTX",
+    "role": "Systems Engineering Intern (Summer 2027)",
+    "location": "US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Systems-Engineering-Intern--Summer-2027-_01886247",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "RTX",
+    "role": "Systems Engineering Intern, BMC2 (Onsite)",
+    "location": "US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Systems-Engineering-Intern--BMC2--Onsite-_01885577",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "RTX",
+    "role": "Systems Engineering Spring 2027 Co-op, Richardson, TX (Onsite)",
+    "location": "US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17",
+    "link": "https://globalhr.wd5.myworkdayjobs.com/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Systems-Engineering-Spring-2027-Co-op--Richardson--TX--Onsite-_01886216",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Regeneron",
+    "role": "2027 Summer Intern Data Science & Digital Innovation (IOPS)",
+    "location": "RENSSELAER",
+    "link": "https://regeneron.wd1.myworkdayjobs.com/job/RENSSELAER/XMLNAME-2027-Summer-Intern-Data-Science---Digital-Innovation--IOPS-_R51821-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Regeneron",
+    "role": "Process Development Engineer I, Late-Stage Purification",
+    "location": "TARRYTOWN",
+    "link": "https://regeneron.wd1.myworkdayjobs.com/job/TARRYTOWN/Process-Development-Engineer-I--Late-Stage-Purification_R52599",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[ROCKWOOL Group](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2)",
+    "role": "Associate Product Management Intern - Full-time/Onsite",
+    "location": "Chicago, Illinois",
+    "link": "https://rockwoolgroup.wd3.myworkdayjobs.com/job/Chicago-Illinois/Associate-Product-Management-Intern_R0036805-2",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "S&P Global",
+    "role": "Summer Intern, Product Management",
+    "location": "New York, NY",
+    "link": "https://spgi.wd5.myworkdayjobs.com/job/New-York-NY/Summer-Intern--Product-Management_332679-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Sanofi",
+    "role": "2027 Spring Co-op Virology NA - Global Antigen Design",
+    "location": "Waltham, MA",
+    "link": "https://sanofi.wd3.myworkdayjobs.com/job/Waltham-MA/XMLNAME-2027-Spring-Co-op-Virology-NA---Global-Antigen-Design--Waltham--MA_R2855490",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Sierra Nevada Corporation",
+    "role": "Firmware Engineer Intern (Summer 2027)",
+    "location": "Sparks, NV",
+    "link": "https://snc.wd1.myworkdayjobs.com/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Tencent",
+    "role": "Unreal Engine Programmer Intern",
+    "location": "New Zealand-Auckland",
+    "link": "https://tencent.wd1.myworkdayjobs.com/job/New-Zealand-Auckland/Unreal-Engine-Programmer-Intern_R108355-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "The Boeing Company",
+    "role": "Engineering Intern - January 2027",
+    "location": "IRL - Dublin, Ireland",
+    "link": "https://boeing.wd1.myworkdayjobs.com/job/IRL---Dublin-Ireland/Engineering-Intern---January-2027_JR2026524284",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "The Boeing Company",
+    "role": "Entry-Level Software Engineer",
+    "location": "USA - Maryland Heights, MO",
+    "link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "The Boeing Company",
+    "role": "Mission Operations Engineer (Entry-Level) - Millennium Space Systems",
+    "location": "USA - Chantilly, VA",
+    "link": "https://boeing.wd1.myworkdayjobs.com/job/USA---Chantilly-VA/Mission-Operations-Engineer--Entry-Level----Millennium-Space-Systems_JR2026527323-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "The Federal Reserve System",
+    "role": "2027 Summer Internship Program - Information Security Intern",
     "location": "Atlanta, GA",
-    "link": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "link": "https://rb.wd5.myworkdayjobs.com/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[TD Bank](https://go.vansh.nyc/1jl)",
-    "role": "Software Engineer Co-op",
-    "location": "Toronto, Canada, Mississauga, Canada, London, Canada",
-    "link": "https://go.vansh.nyc/1jl",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "The Federal Reserve System",
+    "role": "Economic Research, Internship – Summer 2027",
+    "location": "Kansas City, MO",
+    "link": "https://rb.wd5.myworkdayjobs.com/job/Kansas-City-MO/Economic-Research--Internship---Summer-2027_R-0000034027",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "The J.M. Smucker Co.",
-    "role": "Data Science Intern, Summer 2027",
-    "location": "USA",
-    "link": "https://www.linkedin.com/jobs/view/4488090025",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Thermo Fisher",
+    "role": "Intern - Product Specialist",
+    "location": "Brno, Czechia",
+    "link": "https://thermofisher.wd5.myworkdayjobs.com/job/Brno-Czechia/Intern---Product-Specialist_R-01374020",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Thorlabs",
-    "role": "Test Engineer I",
-    "location": "Jessup, Maryland",
-    "link": "https://zapply.jobs/l/d/workable-thorlabs-2A54F4511B?s=gh-new-grad-jobs-2027",
-    "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Thermo Fisher",
+    "role": "Intern – Systems Design Engineering",
+    "location": "Brno, Czechia",
+    "link": "https://thermofisher.wd5.myworkdayjobs.com/job/Brno-Czechia/Intern---Systems-Design-Engineering_R-01374041",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[TikTok](https://lifeattiktok.com/search/7703777085291415813)",
-    "role": "Research Scientist Intern - Monetization Technology - Ads Core",
-    "location": "San Jose, CA",
-    "link": "https://lifeattiktok.com/search/7703777085291415813",
-    "source": "SuryaHarikrishnan DS/AI",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "United Parcel Service (UPS)",
+    "role": "2027 Industrial Engineering Summer Internship - Phoenix, AZ",
+    "location": "US - PHOENIX HUB (AZPHO)",
+    "link": "https://hcmportal.wd5.myworkdayjobs.com/job/US---PHOENIX-HUB-AZPHO/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Phoenix--AZ_R26039747",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[Toyota Research Institute](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply)",
-    "role": "Automated Driving Advanced Development Intern - Machine Learning Research",
-    "location": "Los Altos, CA",
-    "link": "https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply",
-    "source": "SuryaHarikrishnan DS/AI",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "United Parcel Service (UPS)",
+    "role": "MHR Summer 2027 Intern - Data Analytics (HR Systems)",
+    "location": "US - UPS CORPORATE OFFICES (GACOR)",
+    "link": "https://hcmportal.wd5.myworkdayjobs.com/job/US---UPS-CORPORATE-OFFICES-GACOR/MHR-Summer-2027-Intern---Data-Analytics--HR-Systems-_R26039546",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[Toyota Research Institute](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply)",
-    "role": "Human-Centered AI Research Intern - Human Language Models",
-    "location": "Los Altos, CA",
-    "link": "https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply",
-    "source": "SuryaHarikrishnan DS/AI",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Valeo",
+    "role": "Junior Discipline Engineer",
+    "location": "Chennai",
+    "link": "https://valeo.wd3.myworkdayjobs.com/job/Chennai/Junior-Discipline-Engineer_REQ2026077967",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, Human-Robot Interaction",
-    "location": "Cambridge, MA",
-    "link": "https://zapply.jobs/l/d/lever-tri-11da7518-14d4-4960-a3aa-57dc010f3642?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Toyota Research Institute",
-    "role": "Robotics Intern, Mechanical Engineering",
-    "location": "Cambridge, MA",
-    "link": "https://zapply.jobs/l/d/lever-tri-8955d154-acfc-4e6b-a68c-14f1438034c9?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "Ann Arbor, MI, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488093274",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "Beavercreek, OH, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488081837",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "Chantilly, VA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488083782",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "El Segundo, CA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488079840",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "Kihei, HI, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488097101",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "King of Prussia, PA, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488080835",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Trinzic",
-    "role": "Defense & Intel (D&I) - Software Engineering Internship",
-    "location": "Orlando, FL, USA",
-    "link": "https://www.linkedin.com/jobs/view/4488085673",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "Ultima Genomics",
-    "role": "Firmware Engineer 1",
-    "location": "Fremont, CA",
-    "link": "https://job-boards.greenhouse.io/ultimagenomics/jobs/6250742004?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs New Grad",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
-  },
-  {
-    "company": "V2X",
-    "role": "AI Engineering Intern",
-    "location": "Indianapolis, IN",
-    "link": "https://careers.gov2x.com/jobs/63949?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Varda",
+    "role": "Biologics Formulation Research Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824834003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
     "company": "Varda",
     "role": "Flight Software Internship - Spring 2027",
-    "location": "El Segundo, CA",
+    "location": "El Segundo, California, United States",
     "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824815003",
-    "source": "speedyapply SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Vizient",
-    "role": "Product Operations Internship - Metrics & Reporting",
-    "location": "Irving, TX",
-    "link": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations-Metrics---Reporting_36053R-1?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Varda",
+    "role": "Guidance, Navigation & Controls (GNC) Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824781003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Vizient",
-    "role": "Product Operations Intern",
-    "location": "Irving, TX",
-    "link": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Product-Operations_36065R?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Varda",
+    "role": "Manufacturing Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824767003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Vizient",
-    "role": "Research Analytics & Insights Intern 🎓",
-    "location": "Chicago, IL",
-    "link": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2?utm_source=Simplify&ref=Simplify",
-    "source": "SimplifyJobs Summer 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Varda",
+    "role": "Propulsion Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824765003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Walmart",
-    "role": "(USA) Summer 2027 Corporate Intern: Last Mile Delivery Data Science Intern",
-    "location": "Bentonville, AR, USA",
-    "link": "https://www.linkedin.com/jobs/view/4485877433",
-    "source": "jobspy",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Varda",
+    "role": "Structures Engineering Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824817003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Wash U",
-    "role": "HVAC Controls Technician I - Enterprise Physical Operations",
-    "location": "Washington University Medical",
-    "link": "https://zapply.jobs/l/d/workday-wustl-external-JR98426?s=gh-new-grad-jobs-2027",
+    "company": "Varda",
+    "role": "Vehicle Integration & Test Internship - Spring 2027",
+    "location": "El Segundo, California, United States",
+    "link": "https://job-boards.greenhouse.io/vardaspace/jobs/7824772003",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2)",
+    "role": "Early Careers: Rotational Program - FPGA Engineer",
+    "location": "Bucharest, ROU",
+    "link": "https://viavisolutions.wd1.myworkdayjobs.com/job/Bucharest-ROU/Early-Careers--Rotational-Program---FPGA-Engineer-Engineer_260004985-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2)",
+    "role": "Electrical & Optical Engineering Intern",
+    "location": "Indianapolis, IN USA",
+    "link": "https://viavisolutions.wd1.myworkdayjobs.com/job/Indianapolis-IN-USA/Electrical---Optical-Engineering-Intern_260005046-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2)",
+    "role": "Electrical Engineer Intern",
+    "location": "Indianapolis, IN USA",
+    "link": "https://viavisolutions.wd1.myworkdayjobs.com/job/Indianapolis-IN-USA/Electrical-Engineer-Intern_260005049-1",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "[Viavi Solutions](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Hardware-Engineering-Co-Op_260005139-2)",
+    "role": "Rotational Program Development Engineer",
+    "location": "Singapore-Techpt, SGP",
+    "link": "https://viavisolutions.wd1.myworkdayjobs.com/job/Singapore-Techpt-SGP/Rotational-Program-Development-Engineer_260005055",
+    "source": "ats",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Distalmotion",
+    "role": "Edge AI & Computer Vision Intern",
+    "location": "Épalinges, Switzerland",
+    "link": "https://www.arbeitnow.ch/jobs/companies/distalmotion/edge-ai-computer-vision-intern-epalinges-162054",
+    "source": "breadth",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Institut Mines-Télécom",
+    "role": "Stage : Construction automatique de modèles de processus hospitaliers multi- flux par grands modèles de langage (LLM)",
+    "location": "Albi, Occitanie, France",
+    "link": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stage-construction-automatique-de-modeles-de-processus-hospitaliers-multi-flux-par-grands-modeles-de-langage-llm-albi-170098",
+    "source": "breadth",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MVRDV",
+    "role": "Architecture Internship Dutch | March 2027 (2)",
+    "location": "Rotterdam , Zuid-Holland, Netherlands",
+    "link": "https://www.arbeitnow.nl/jobs/companies/mvrdv/architecture-internship-dutch-march-2027-2-rotterdam-11619",
+    "source": "breadth",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "PERISCOPE",
+    "role": "Business Developer junior (H/F) – Agence digitale",
+    "location": "Paris",
+    "link": "https://www.arbeitnow.fr/jobs/companies/periscope/business-developer-junior-h-f-agence-digitale-paris-496979",
+    "source": "breadth",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Quantum-Systems GmbH",
+    "role": "Embedded Software Engineer – Working Student / Intern Position (Full-Time, 12 Months) (m/f/d)",
+    "location": "Gilching, Bayern, Germany",
+    "link": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/embedded-software-engineer-working-student-intern-position-full-time-12-months-gilching-422931",
+    "source": "breadth",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Quantum-Systems GmbH",
+    "role": "Intern - Machine Learning 12 months (m/f/d)",
+    "location": "Gilching, Bayern, Germany",
+    "link": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/intern-machine-learning-12-months-gilching-64555",
+    "source": "breadth",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASM",
+    "role": "Intern, Electrical Engineering",
+    "location": "US > Arizona > Phoenix",
+    "link": "https://asm.com/open-vacancies?gh_jid=5029220101",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASM",
+    "role": "Intern, Field Process Engineering",
+    "location": "US > Arizona > Phoenix",
+    "link": "https://asm.com/open-vacancies?gh_jid=5029217101",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASM",
+    "role": "Intern, Field Service Engineer",
+    "location": "US > Oregon > Hillsboro",
+    "link": "https://asm.com/open-vacancies?gh_jid=5029214101",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASM",
+    "role": "Intern, Mechanical Engineering",
+    "location": "US > Arizona > Phoenix",
+    "link": "https://asm.com/open-vacancies?gh_jid=5029222101",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASM",
+    "role": "Intern, Process Engineering",
+    "location": "US > Arizona > Phoenix",
+    "link": "https://asm.com/open-vacancies?gh_jid=5029209101",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Light Wonder",
+    "role": "Software Engineering Intern",
+    "location": "Reno, NV",
+    "link": "https://lnw.wd5.myworkdayjobs.com/LightWonderExternalCareers/job/Reno-NV/Intern-Software-Engineering_R322885",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "West Bend Insurance",
+    "role": "Data Scientist Intern",
+    "location": "West Bend, WI",
+    "link": "https://careers-thesilverlining.icims.com/jobs/3785/summer-2027-internship---data-scientist/job",
+    "source": "ecr",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ASM",
+    "role": "Intern, Product Intelligence Engineering (AI/ML)",
+    "location": "US > Arizona > Phoenix",
+    "link": "https://www.asm.com/open-vacancies/?gh_jid=5029228101&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ABRIO GmbH",
+    "role": "Praktikum UX/UI Design (m/w/d)",
+    "location": "Frankfurt, Hessen, Deutschland",
+    "link": "https://abriogmbh.recruitee.com/o/praktikum-uxui-design-mwd-3?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ABRIO GmbH",
+    "role": "Werkstudent UX/UI Design (m/w/d)",
+    "location": "Frankfurt, Hessen, Deutschland",
+    "link": "https://abriogmbh.recruitee.com/o/werkstudent-uxui-design-mwd-3?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Cooperative Internship 2027] Back-end Internship BKK",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8335928?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Cooperative Internship 2027] Data Platform Intern, Devops",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8358246?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Cooperative Internship 2027] Full-stack Internship BKK",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8358252?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Cooperative Internship 2027] Security Analyst Intern, Security team",
+    "location": "Bangkok",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8305482?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Summer Internship 2027] Back-end Internship BKK",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8358244?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Summer Internship 2027] CEG Data Analytics Intern (Bangkok Based)",
+    "location": "Bangkok",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8335899?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Summer Internship 2027] Data Platform Intern, Devops",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8335927?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Summer Internship 2027] Full-stack Internship BKK",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8335922?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Agoda",
+    "role": "[Summer Internship 2027] Supply Full-stack Internship BKK",
+    "location": "Bangkok based",
+    "link": "https://job-boards.greenhouse.io/agoda/jobs/8335924?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "art-invest-main",
+    "role": "Praktikant:in | Design & Construction",
+    "location": "München, Bayern, Deutschland",
+    "link": "https://art-invest-main.softgarden.io/job/40545355/Praktikant-in-Design-Construction?jobDbPVId=289793877&l=de&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Banque de France",
+    "role": "STAGE - DATA SCIENTIST (H/F)",
+    "location": "La Courneuve, Île-de-France",
+    "link": "https://www.jobteaser.com/fr/job-offers/94ce36bd-875c-489d-aa4e-0ebdd7494ca2-banque-de-france-stage-data-scientist-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Bizbox, Inc.",
+    "role": "JUNIOR QUALITY ASSURANCE ANALYST",
+    "location": "Mandaluyong City, Metro Manila",
+    "link": "https://ph.jobstreet.com/job/95734995?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "black-mcdonald-limited",
+    "role": "Intern- IT Help Desk (Winter)",
+    "location": "Edmonton, Canada",
+    "link": "https://black-mcdonald-limited.breezy.hr/p/88549f99f8e701-intern-it-help-desk-winter?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "BNP Paribas",
+    "role": "STAGE - DATA ANALYST - H/F",
+    "location": "Paris, Île-de-France",
+    "link": "https://www.jobteaser.com/fr/job-offers/9e99887e-a7c3-4740-99bb-ebd3bdc2dbab-bnp-paribas-stage-data-analyst-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "BNP Paribas",
+    "role": "Stage - Data Analyst - H/F",
+    "location": "Levallois-Perret, Île-de-France",
+    "link": "https://www.jobteaser.com/fr/job-offers/12d3d1f6-0c82-4dd6-a9e7-476cab3ad591-bnp-paribas-stage-data-analyst-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "BNP Paribas",
+    "role": "Stage - Data Analyst Performance & Business Intelligence - H/F",
+    "location": "Paris, Île-de-France",
+    "link": "https://www.jobteaser.com/fr/job-offers/9b472c5c-e69b-4f09-94cd-42fdc7544418-bnp-paribas-stage-data-analyst-performance-business-intelligence-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "BVLGARI Horlogerie & Parfums",
+    "role": "Data Engineer Trainee",
+    "location": "Neuchâtel",
+    "link": "https://www.jobteaser.com/fr/job-offers/03a0e196-6e1e-457f-8f1d-00f9cb35c54b-bvlgari-horlogerie-parfums-data-engineer-trainee?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ByteDance",
+    "role": "AI for Data算法研究实习生 - TikTok泛架构",
+    "location": "Beijing",
+    "link": "https://jobs.bytedance.com/campus/position/7704951612624488709/detail?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ByteDance",
+    "role": "AI for SE算法研究实习生 - TikTok泛架构",
+    "location": "Beijing",
+    "link": "https://jobs.bytedance.com/campus/position/7704954298695076101/detail?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Capgemini",
+    "role": "Ingénieure / Ingénieur tests technico-fonctionnels IA - STAGE",
+    "location": "Lyon, FR",
+    "link": "https://careers.capgemini.com/job/Lyon-Ing%C3%A9nieure-Ing%C3%A9nieur-tests-technico-fonctionnels-IA-STAGE/1433310733/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "career-ohb",
+    "role": "Schülerpraktikant:in (m/w/d) Informatik & Software",
+    "location": "Bremen, DE",
+    "link": "https://career-ohb.csod.com/ux/ats/careersite/4/home/requisition/8994?c=career-ohb&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "EDF",
+    "role": "STAGE - Data science appliquée à la régulation des turbines hydrauliques F/H",
+    "location": "Grenoble, France",
+    "link": "https://www.edf.fr/edf-recrute/offre/detail/2026-185920?idOrigine=35052&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "EverBank N.A.",
+    "role": "2027 Summer Intern - IT Auditor",
+    "location": "Jacksonville, Florida, United States",
+    "link": "https://myjobs.adp.com/everbank/cx/job/5001233542506?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Focus Global Inc.",
+    "role": "Sales Designer (Kitchen)",
+    "location": "Taguig City, Philippines",
+    "link": "https://focus-global-inc.breezy.hr/p/3010096cd5a5-sales-designer-kitchen?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "FrameIQ",
+    "role": "Computer Vision / AI Engineer (Pune, Onsite/remote)",
+    "location": "Navi Mumbai",
+    "link": "https://wellfound.com/jobs/4995193-computer-vision-ai-engineer-pune-onsite-remote?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Greenerwave",
+    "role": "Software Engineer (F/M) – Stage",
+    "location": "Paris, France",
+    "link": "https://www.welcometothejungle.com/en/companies/greenerwave/jobs/software-engineer-f-m-stage_paris?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Hatch",
+    "role": "Transit Business Analyst Intern",
+    "location": "Denver, CO, US",
+    "link": "https://jobs.hatch.com/job/Denver-Transit-Business-Analyst-Intern-CO-80002/1429750100/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Helena - Agri Enterprises, LLC",
+    "role": "Intern - Quality Assurance",
+    "location": "Des Moines, Iowa, United States",
+    "link": "https://myjobs.adp.com/haecareers/cx/job/5001235967006?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Hendler Family Brewing Co.",
+    "role": "Software Engineering and IT Co-Op",
+    "location": "Framingham, MA, US",
+    "link": "https://hendler-family-brewing-co.careerplug.com/jobs/3668087?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "IBM",
+    "role": "Application Developer-Cloud FullStack Intern",
+    "location": "BANGKOK, Thailand",
+    "link": "https://careers.ibm.com/careers/JobDetail?jobId=140156&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "IBM",
+    "role": "Designer-User Experience Design Intern",
+    "location": "BANGKOK, Thailand",
+    "link": "https://careers.ibm.com/careers/JobDetail?jobId=140163&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Infineon",
+    "role": "Assistant Hardware Engineer Intern",
+    "location": "Xi'an, 西安",
+    "link": "https://jobs.infineon.com/careers/job/563808972326485?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Infineon",
+    "role": "Software development Intern",
+    "location": "Xi'an, 西安",
+    "link": "https://jobs.infineon.com/careers/job/563808972266732?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Joblet-AI",
+    "role": "Software Engineer Intern",
+    "location": "India",
+    "link": "https://www.linkedin.com/jobs/view/4485895964/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Kedge Systems Private Limited",
+    "role": "AI Engineer - Intern (Autonomous Driving)",
+    "location": "Chennai",
+    "link": "https://www.linkedin.com/jobs/view/4486952564/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "KEEN Footwear",
+    "role": "Footwear Design Intern",
+    "location": "Portland, OR",
+    "link": "https://www.keenfootwear.com/careers-list.html?4751551005&gh_jid=4751551005&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Laboratoires Pierre Fabre",
+    "role": "Data Analyst Finance - EPM & BI - Stage - H/F",
+    "location": "Castres, Occitanie",
+    "link": "https://www.jobteaser.com/fr/job-offers/c26aea29-0203-401d-8bf6-5733b9a3579d-laboratoires-pierre-fabre-data-analyst-finance-epm-bi-stage-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Lar Maria de Lourdes",
+    "role": "VAGA DE ESTÁGIO – VENDAS | TELECOMUNICAÇÕES",
+    "location": "São Paulo, SP",
+    "link": "https://larmariadelourdes.pandape.infojobs.com.br/Detail/3901118?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MAHLE",
+    "role": "Internship Machine Learning and Data Science (m/f/d)",
+    "location": "Stuttgart, DE, 70376",
+    "link": "https://careers.mahle.com/job/Stuttgart-Internship-Machine-Learning-and-Data-Science-%28mfd%29-70376/1444367333/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Mercedes-Benz Group",
+    "role": "Intern - Data Analytics",
+    "location": "Singapore-Singapore-Singapore",
+    "link": "https://tas-daimler.taleo.net/careersection/ex/jobdetail.ftl?job=MER00049V4&lang=en&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Mercedes-Benz",
+    "role": "Intern - Data Analytics",
+    "location": "Singapore-Singapore-Singapore",
+    "link": "https://daimler.taleo.net/careersection/ex/jobdetail.ftl?job=MER00049V4&lang=en&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Meridian Systematics",
+    "role": "Junior Data Engineer",
+    "location": "Springfield , VA, US",
+    "link": "https://meridian-systematics.careerplug.com/jobs/3678260?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "MIT Lincoln Laboratory",
+    "role": "Summer Research Program Intern 2027, AI & Machine Learning Researcher (Group 05-52)",
+    "location": "Lexington, MA, US",
+    "link": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-&-Machine-Learning-Researcher-%28Group-05-52%29-MA-02420/1438250000/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Motorola Solutions",
+    "role": "Android Applications Developer Intern - Summer 2027",
+    "location": "Chicago, Cook County",
+    "link": "https://www.adzuna.com/details/5955314078?utm_medium=api&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Motorola Solutions",
+    "role": "Software Engineer Cybersecurity Services - 2027 Summer Internship",
+    "location": "United States",
+    "link": "https://himalayas.app/companies/motorola-solutions/jobs/software-engineer-cybersecurity-services-2027-summer-internship?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Naval Group",
+    "role": "STAGE - Business Analyst - MCO des Navires - H/F",
+    "location": "Toulon, Provence-Alpes-Côte d'Azur",
+    "link": "https://www.jobteaser.com/fr/job-offers/3838688d-9ccf-4a1f-881b-a92a0b154f3e-naval-group-stage-business-analyst-mco-des-navires-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Naval Group",
+    "role": "STAGE - Chef de projet SI - Domaine Infrastructure - H/F",
+    "location": "Brest, Brittany",
+    "link": "https://www.jobteaser.com/fr/job-offers/03559eeb-93ac-46d4-bb65-1b865195c6de-naval-group-stage-chef-de-projet-si-domaine-infrastructure-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Naval Group",
+    "role": "STAGE - Ingénieur DevOps - Kubernetes - H/F",
+    "location": "Ollioules, Provence-Alpes-Côte d'Azur",
+    "link": "https://www.jobteaser.com/fr/job-offers/5ee881d3-20ef-4efe-9d55-0155a04f441a-naval-group-stage-ingenieur-devops-kubernetes-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Naval Group",
+    "role": "Stage - Business Analyst - soutien & sureté - H/F",
+    "location": "Brest, Brittany",
+    "link": "https://www.jobteaser.com/fr/job-offers/9e7b62c7-6a25-4127-b470-0e8049cef133-naval-group-stage-business-analyst-soutien-surete-h-f?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "NetJets",
+    "role": "Software Engineer, Associate (NJUS)",
+    "location": "Columbus, OH, US, 43219",
+    "link": "https://netjets.jobs.hr.cloud.sap/us/job/Columbus-Software-Engineer%2C-Associate-%28NJUS%29-OH-43219/1438403200/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Network for Electronic Transfers (S)",
+    "role": "Software Tester Intern",
+    "location": "Ubix, SG",
+    "link": "https://careers.nets.com.sg/job/Ubix-Software-Tester-Intern/1366400466/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "NeuraFlash",
+    "role": "Associate QA Consultant, Amazon Connect / Contact Center QA",
+    "location": "India",
+    "link": "https://himalayas.app/companies/neuraflash/jobs/associate-qa-consultant-amazon-connect-contact-center-qa-5889957209?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "North Texas Family Health",
+    "role": "Software Engineering Internship",
+    "location": "United States",
+    "link": "https://himalayas.app/companies/north-texas-family-health/jobs/software-engineering-internship?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Product and Technology",
+    "role": "2027 Summer Intern: Data Developer",
+    "location": "Greenwood Village, Colorado, United States",
+    "link": "https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-developer/4673/100149371008?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Product and Technology",
+    "role": "2027 Summer Intern: Software Engineer - P&T",
+    "location": "Maryland Heights, Missouri, United States",
+    "link": "https://jobs.spectrum.com/job/maryland-heights/2027-summer-intern-software-engineer-p-and-t/4673/100830276992?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "ROBOACT PTE. LTD.",
+    "role": "Software QA & Test Automation Intern",
+    "location": "Singapore",
+    "link": "https://www.mycareersfuture.gov.sg/job/6561d0f85476ec1eb713f337acb1519a?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Rothschild & Co",
+    "role": "Stage Chargé(e) de Marketing Design - Janvier 2027",
+    "location": "Paris, Île-de-France",
+    "link": "https://www.jobteaser.com/fr/job-offers/f12e2921-d978-4978-8f32-803d50adc44a-rothschild-co-stage-charge-e-de-marketing-design-janvier-2027?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Data Analytics intern",
+    "location": "Mexico-Tlaxcala-Tlaxcala",
+    "link": "https://se.jibeapply.com/careers-home/jobs/131463?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Schneider Electric",
+    "role": "Internship -Industrial Design",
+    "location": "Australia-South Australia-Adelaide",
+    "link": "https://se.jibeapply.com/careers-home/jobs/139990?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Sephora",
+    "role": "Stage - Assistant(e) Pilotage des Opérations Service Client & Data Analyst",
+    "location": "PARIS LA DEFENSE, FR",
+    "link": "https://jobs.sephora.com/France/job/PARIS-LA-DEFENSE-Stage-Assistant%28e%29-Pilotage-des-Op%C3%A9rations-Service-Client-&-Data-Analyst/1370516655/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "SERVIER",
+    "role": "Stage - Chef de projets Production Planning Coordination (H/F)",
+    "location": "Suresnes, France",
+    "link": "https://servier-group.contactrh.com/jobs/10425/44552231?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "SETEC",
+    "role": "Développeur Data en alternance (H/F)",
+    "location": "Riom, France",
+    "link": "https://app.beetween.com/WeaselWeb/p/?utm_source=freehire.me#/apply/job/vdez46b4um5q/developpeur-data-en-alternance-h-f",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Setec",
+    "role": "Ingénieur stagiaire Assistant au Chef de projet numérique H/F (BIM, Data, IA)",
+    "location": "Paris, Île-de-France",
+    "link": "https://www.jobteaser.com/fr/job-offers/7133a8aa-3dfa-42c6-86f1-5ee0c207b42b-setec-ingenieur-stagiaire-assistant-au-chef-de-projet-numerique-h-f-bim-data-ia?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Singtel",
+    "role": "Infrastructure Engineer Internship (min 5 months)",
+    "location": "Singapore, Singapore",
+    "link": "https://groupcareers.singtel.com/job/Infrastructure-Engineer-Internship-%28min-5-months%29-Sing/942567710/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "SocioSquares",
+    "role": "Software Development Intern – Front End Developer",
+    "location": "India",
+    "link": "https://www.linkedin.com/jobs/view/4485896689/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "SopraSteria1",
+    "role": "Stage - Ingénieur(e) Data Scientist / Data Engineer - Industrie - Toulouse",
+    "location": "Toulouse, Occitanie, fr",
+    "link": "https://jobs.smartrecruiters.com/SopraSteria1/744000160167739-stage-ingenieur-e-data-scientist-data-engineer-industrie-toulouse?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Speekly",
+    "role": "Werkstudent:in Marketing (Organic): Design & Content",
+    "location": "Cologne, Germany",
+    "link": "https://join.com/companies/speekly/16915409-werkstudent-in-marketing-organic-design-und-content?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "State Farm",
+    "role": "Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist",
+    "location": "Bloomington, IL",
+    "link": "https://jobs.statefarm.com/careers-home/jobs/46227?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Synapxe",
+    "role": "Poly Internship Mar 2027 to Feb 2028 - Cybersecurity Asset Analytics & Governance",
+    "location": "SG",
+    "link": "https://careers-public-healthtech-jobs.synapxe.sg/job/Poly-Internship-Mar-2027-to-Feb-2028-Cybersecurity-Asset-Analytics-&-Governance/60671344/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Synapxe",
+    "role": "Poly Internship Mar 2027 to Feb 2028 - Healthcare Systems Business Analyst",
+    "location": "SG",
+    "link": "https://careers-public-healthtech-jobs.synapxe.sg/job/Poly-Internship-Mar-2027-to-Feb-2028-Healthcare-Systems-Business-Analyst/60680444/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Synapxe",
+    "role": "Uni Internship Jan to July 2027 - Data Analytics & AI Architecture, HEALIX",
+    "location": "SG",
+    "link": "https://careers-public-healthtech-jobs.synapxe.sg/job/Uni-Internship-Jan-to-July-2027-Data-Analytics-&-AI-Architecture%2C-HEALIX/57583244/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "THG",
+    "role": "Junior Frontend Engineer & Technology Support | Dermstore",
+    "location": "US, New York City",
+    "link": "https://www.thg.com/talent/job-search?gh_jid=5027883101&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Texas Instruments",
+    "role": "Test Engineer",
+    "location": "Malaysia",
+    "link": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25009560?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "UM IT Solutions",
+    "role": "Front-End Developer Intern",
+    "location": "India",
+    "link": "https://www.linkedin.com/jobs/view/4488102687/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "www.careers.zurich.com",
+    "role": "Data Science & AI Internship",
+    "location": "Kuala Lumpur, MY",
+    "link": "https://www.careers.zurich.com/job/Kuala-Lumpur-Data-Science-&-AI-Internship/1369827257/?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "國巨股份有限公司",
+    "role": "(Taipei)Junior Software Engineer / Software Engineer",
+    "location": "Xindian District, New Taipei City, Taiwan",
+    "link": "https://www.104.com.tw/job/8ry8o?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "智齡科技股份有限公司",
+    "role": "Junior Full-Stack Engineer 全端工程師_台北",
+    "location": "Xindian District, New Taipei City, Taiwan",
+    "link": "https://www.104.com.tw/job/94d8s?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "",
+    "role": "Werkstudent Data Science / Data Engineering (all genders) - Inklusiver Job",
+    "location": "München, München (Kreis)",
+    "link": "https://www.adzuna.de/details/5953850535?utm_medium=api&utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "耕興股份有限公司",
+    "role": "【汐止總公司】軟體工程師 ( Junior AI Engineer )",
+    "location": "Xizhi District, New Taipei City, Taiwan",
+    "link": "https://www.104.com.tw/job/918ai?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "香港商思滙國際有限公司台灣分公司",
+    "role": "初級後端工程師 Junior Backend Engineer",
+    "location": "Xizhi District, New Taipei City, Taiwan",
+    "link": "https://www.104.com.tw/job/83lpr?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "飛鳥車用電子股份有限公司",
+    "role": "初級電子電路設計工程師(Entry level Electronics Circuit Designer)",
+    "location": "Hsinchu City, Taiwan",
+    "link": "https://www.104.com.tw/job/3av9p?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "奧衍股份有限公司",
+    "role": "解決方案架構師 - Solutions Architect（Junior）",
+    "location": "Xizhi District, New Taipei City, Taiwan",
+    "link": "https://www.104.com.tw/job/91xwo?utm_source=freehire.me",
+    "source": "freehire",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Analog Devices",
+    "role": "Wet Lab Sensor Research Co-Op",
+    "location": "US, MA, Boston",
+    "link": "https://zapply.jobs/l/d/workday-analogdevices-external-R268534?s=gh-internships-2027",
+    "source": "zapplyjobs Internships 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Apple",
+    "role": "Display EE Engineering Program Manager",
+    "location": "Cupertino",
+    "link": "https://zapply.jobs/l/d/apple-200693763?s=gh-new-grad-jobs-2027",
     "source": "zapplyjobs New Grad 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[Western Alliance Bancorporation](https://go.vansh.nyc/1jh)",
-    "role": "Platform Engineering Intern",
-    "location": "Columbus, OH",
-    "link": "https://go.vansh.nyc/1jh",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "ASM Global",
+    "role": "Security Dispatch",
+    "location": "Detroit, MI",
+    "link": "https://zapply.jobs/l/d/workday-asmglobal-careers-R100125680?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "[Western Alliance Bancorporation](https://go.vansh.nyc/1jm)",
-    "role": "Platform Engineering Intern",
-    "location": "Dallas, TX",
-    "link": "https://go.vansh.nyc/1jm",
-    "source": "SuryaHarikrishnan Other 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Cummins",
+    "role": "Product Manager Intern",
+    "location": "Peterborough, UK",
+    "link": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2441495?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Western Alliance",
-    "role": "Summer 2027 Internship - Dallas, TX - Platform Engineering",
-    "location": "Dallas, TX",
-    "link": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020",
-    "source": "zshah101 Summer 2027 US",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Danaher",
+    "role": "Production Associate - 3rd Shift (Cortland, NY)",
+    "location": "Cortland, New York",
+    "link": "https://zapply.jobs/l/d/phenom-danaher-R1322331?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Zoox",
-    "role": "Hardware Engineer Intern, Manufacturing Operations \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/lever-zoox-53f5297a-fe30-4e1e-ab1c-96db5b23eded?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Micron",
+    "role": "DMTS, DRAM Systems",
+    "location": "San Jose, California, United...",
+    "link": "https://zapply.jobs/l/d/eightfold-micron-45393770?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Zoox",
-    "role": "Hardware Engineer Intern, Vehicle Development \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/lever-zoox-0accbf9e-9b09-4733-b495-fb6dce13ba62?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Molina Healthcare",
+    "role": "Data Analytics Intern",
+    "location": "United States",
+    "link": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040160?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Zoox",
-    "role": "Hardware Engineer Intern, Vehicle Systems \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/lever-zoox-0c32245b-f51d-40d2-8e57-a0be1b744c5b?s=gh-internships-2027",
-    "source": "zapplyjobs Internships 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Molina Healthcare",
+    "role": "Electronic Data Interchange Intern",
+    "location": "Remote in USA",
+    "link": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040156?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Zoox",
-    "role": "Software Engineer Intern, Autonomy Software \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/lever-zoox-7b20b929-d9a4-4995-a472-16cd4925a877?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Moody's Corporation",
+    "role": "Applied AI & Analytics Summer Intern",
+    "location": "Newark, CA, USA",
+    "link": "https://www.linkedin.com/jobs/view/4488152122",
+    "source": "jobspy",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Zoox",
-    "role": "Software Engineer Intern, Software Platforms & Product \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/lever-zoox-88f6cb68-1534-44af-80db-10e43c203520?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "NVIDIA",
+    "role": "Industry Development Specialist, AI Natives",
+    "location": "CA Santa Clara",
+    "link": "https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2028623?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Zoox",
-    "role": "Software Engineer Intern, Software Systems \\[Summer 2027\\]",
-    "location": "Foster City, CA",
-    "link": "https://zapply.jobs/l/d/lever-zoox-8b32157b-ab44-4078-85ea-1d8d7b747a20?s=gh-new-grad-software-engineering-jobs-2027",
-    "source": "zapplyjobs New Grad SWE 2027",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Ryan",
+    "role": "Software Engineer Intern",
+    "location": "North York, ON, Canada",
+    "link": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Stripe",
-    "role": "Product Design Intern",
-    "location": "San Francisco, Seattle, New York City",
-    "link": "https://stripe.com/jobs/search?gh_jid=8332681",
-    "source": "priority",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "Saab",
+    "role": "Co-Op, Information Security (Spring - Summer 2027)",
+    "location": "East Syracuse, NY",
+    "link": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   },
   {
-    "company": "Stripe",
-    "role": "Product Design Intern",
-    "location": "Toronto",
-    "link": "https://stripe.com/jobs/search?gh_jid=8332683",
-    "source": "priority",
-    "observed_at": "2026-11-06T00:54:34.944352+00:00"
+    "company": "SRI International",
+    "role": "Electrical Engineering Co-op",
+    "location": "Princeton, NJ",
+    "link": "https://careers-sri.icims.com/jobs/6526/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Off-Season 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "🔥 TikTok",
+    "role": "POI Content Product Manager Intern",
+    "location": "San Jose, CA",
+    "link": "https://lifeattiktok.com/search/7696000179569854725?utm_source=Simplify&ref=Simplify",
+    "source": "SimplifyJobs Summer 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "University of Miami",
+    "role": "Assistant Professor, Department of Business Technology - Business School",
+    "location": "Coral Gables, Florida",
+    "link": "https://zapply.jobs/l/d/phenom-university-of-miami-R100102940?s=gh-new-grad-jobs-2027",
+    "source": "zapplyjobs New Grad 2027",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "VoltEdge Pro Systems",
+    "role": "Finance Analyst Intern",
+    "location": "Seattle, WA, USA",
+    "link": "https://www.linkedin.com/jobs/view/4486227870",
+    "source": "jobspy",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
+  },
+  {
+    "company": "Waymo",
+    "role": "Research Intern - Perception Foundation Models",
+    "location": "Mountain View, CA",
+    "link": "https://careers.withwaymo.com/jobs?gh_jid=8301804",
+    "source": "GodlyDonuts keryx Internships",
+    "observed_at": "2026-11-06T11:55:43.748830+00:00"
   }
 ]
