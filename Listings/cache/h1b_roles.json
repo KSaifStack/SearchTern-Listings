@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T01:07:22Z",
+ "built_at": "2026-11-06T04:16:14Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -14599,6 +14599,11 @@
      "title": "SENIOR SITE RELIABILITY ENGINEER"
     }
    ]
+  },
+  "gdeb": {
+   "fetched_at": "2026-11-06T04:16:13Z",
+   "label": "gdeb",
+   "titles": []
   },
   "gdit": {
    "fetched_at": "2026-10-25T09:18:04Z",
