@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T00:34:22Z",
+ "built_at": "2026-11-06T01:07:22Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -21040,6 +21040,57 @@
     }
    ]
   },
+  "lumentum": {
+   "fetched_at": "2026-11-06T01:07:19Z",
+   "label": "Lumentum",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 155905,
+     "title": "ENGINEER STAFF, MECHANICAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 257500,
+     "title": "SR. DIRECTOR HR BUSINESS PARTNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 166962,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 126672,
+     "title": "ENGINEER STAFF, HW DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 143886,
+     "title": "ENGINEER STAFF, MFG PRODUCT"
+    },
+    {
+     "count": 1,
+     "median_salary": 153254,
+     "title": "ENGINEER STAFF, OPTICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 100069,
+     "title": "ENGINEER, OPTICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 197600,
+     "title": "ENGINEERING DEV MANAGER, SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 191085,
+     "title": "ENGINEERING DEV MANAGER, SR."
+    }
+   ]
+  },
   "lvmh2": {
    "fetched_at": "2026-10-25T14:02:38Z",
    "label": "LVMH2",
@@ -25275,6 +25326,82 @@
    "fetched_at": "2026-11-03T10:23:53Z",
    "label": "paconsulting",
    "titles": []
+  },
+  "palantir": {
+   "fetched_at": "2026-11-06T01:07:20Z",
+   "label": "Palantir",
+   "titles": [
+    {
+     "count": 37,
+     "median_salary": 143000,
+     "title": "DEPLOYMENT STRATEGIST"
+    },
+    {
+     "count": 37,
+     "median_salary": 155000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 153000,
+     "title": "FORWARD DEPLOYED ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 135000,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 230000,
+     "title": "MACHINE LEARNING RESEARCHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "FORWARD DEPLOYED AI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "FP&AMP;A ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 220000,
+     "title": "FRONTEND SOFTWARE ENGINEER - IDENTITY AND ACCESS MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 240000,
+     "title": "HEAD OF FINANCIAL AUDIT"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "INTERNATIONAL ACCOUNTING &AMP; REPORTING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "P CL ENGINEER - DELTA"
+    },
+    {
+     "count": 1,
+     "median_salary": 107987,
+     "title": "PRODUCT RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 136000,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    }
+   ]
   },
   "palantir technologies": {
    "fetched_at": "2026-10-25T19:01:38Z",
@@ -34747,6 +34874,42 @@
      "count": 1,
      "median_salary": 138060,
      "title": "FUNCTIONAL SAFETY ENGINEER"
+    }
+   ]
+  },
+  "valmont https valmont wd1 myworkdayjobs com valmontcareers job valley ne product analyst intern part time r29081": {
+   "fetched_at": "2026-11-06T01:07:21Z",
+   "label": "[Valmont](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Valley-NE/Product-Analyst-Intern--Part-Time-_R29081)",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 144829,
+     "title": "BUSINESS SYSTEM ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 214244,
+     "title": "DIRECTOR, SOFTWARE &AMP; DATA"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "SR. PLM SOLUTIONS ENGINEER - WINDCHILL"
+    },
+    {
+     "count": 1,
+     "median_salary": 133420,
+     "title": "SR. PROFESSIONAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 182108,
+     "title": "SR. SAP SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 116773,
+     "title": "UIUX DEVELOPER"
     }
    ]
   },
