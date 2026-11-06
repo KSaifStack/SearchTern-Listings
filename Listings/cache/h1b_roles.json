@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T16:45:01Z",
+ "built_at": "2026-11-06T19:18:22Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11887,6 +11887,112 @@
     }
    ]
   },
+  "duolingo": {
+   "fetched_at": "2026-11-06T19:18:21Z",
+   "label": "Duolingo",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 161000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 139850,
+     "title": "SOFTWARE ENGINEER, DATA ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 202000,
+     "title": "AI RESEARCH ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 195000,
+     "title": "SENIOR DATA SCIENTIST, ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "SENIOR PRODUCT MANAGER, LEARNING"
+    },
+    {
+     "count": 2,
+     "median_salary": 187000,
+     "title": "SENIOR TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 184100,
+     "title": "SOFTWARE ENGINEER, ANDROID"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SOFTWARE ENGINEER, IOS"
+    },
+    {
+     "count": 2,
+     "median_salary": 142750,
+     "title": "SOFTWARE ENGINEER, MOBILE APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "AI RESEARCH SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 165300,
+     "title": "ASSOCIATE PRODUCT MANAGER, SYSTEMS APP SOFTWARE DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138700,
+     "title": "ASSOCIATE TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "DATA SCIENCE, PLATFORM"
+    },
+    {
+     "count": 1,
+     "median_salary": 113000,
+     "title": "LANGUAGE ASSESSMENT SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "MARKETING ANALYTICS MANAGER, GROWTH"
+    },
+    {
+     "count": 1,
+     "median_salary": 148700,
+     "title": "OPERATIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130500,
+     "title": "PRODUCT DESIGNER, INTERACTIVE DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 138400,
+     "title": "PRODUCT DESIGNER, SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 220000,
+     "title": "SENIOR DATA SCIENTIST, LANGUAGE LEARNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 390000,
+     "title": "SENIOR DIRECTOR OF ENGINEERING"
+    }
+   ]
+  },
   "dv trading": {
    "fetched_at": "2026-10-25T05:37:56Z",
    "label": "DV Trading",
@@ -23066,6 +23172,102 @@
      "count": 6,
      "median_salary": 90397,
      "title": "BIZOPS ENGINEER"
+    }
+   ]
+  },
+  "match": {
+   "fetched_at": "2026-11-06T19:18:22Z",
+   "label": "Match Group",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 104000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182280,
+     "title": "SR. INFRASTRUCTURE SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 150500,
+     "title": "DATA ANALYTICS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 220000,
+     "title": "DATA SCIENCE LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "DIRECTOR OF PRODUCT ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 85779,
+     "title": "FACEBOOK TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 118810,
+     "title": "LEAD ANALYST - RISK, CONTROLS, &AMP; COMPLIANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 154190,
+     "title": "MANAGER, PRODUCT ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88480,
+     "title": "PUBLIC RELATIONS COORDINATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 87000,
+     "title": "QUALITY ASSURANCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 180480,
+     "title": "SECURITY ENGINEER MANAGER GOVERNANCE, RISK, AND COMPLIANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 157500,
+     "title": "SENIOR ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 94266,
+     "title": "SENIOR RESEARCH ASSOCIATE, RESEARCH OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 170480,
+     "title": "SENIOR SOFTWARE ENGINEER, IOS"
+    },
+    {
+     "count": 1,
+     "median_salary": 159500,
+     "title": "SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 146307,
+     "title": "SOFTWARE ENGINEER, BACKEND"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "SR. FINANCIAL ANALYST"
     }
    ]
   },
