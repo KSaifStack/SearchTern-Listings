@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-05T20:05:05Z",
+ "built_at": "2026-11-06T00:34:22Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -3827,6 +3827,112 @@
     }
    ]
   },
+  "atkinsr alis": {
+   "fetched_at": "2026-11-06T00:34:04Z",
+   "label": "Atkinsr Alis",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 85902,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 5,
+     "median_salary": 105000,
+     "title": "SR ENGINEER I"
+    },
+    {
+     "count": 4,
+     "median_salary": 123681,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 118262,
+     "title": "ENGINEER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 144177,
+     "title": "SENIOR COST MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 109846,
+     "title": "SENIOR ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 228337,
+     "title": "SENIOR MANAGER QA QC"
+    },
+    {
+     "count": 2,
+     "median_salary": 121346,
+     "title": "SR. ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 183040,
+     "title": "ASSOCIATE DIRECTOR PPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "CONSTRUCTION DATA ANALYST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 132070,
+     "title": "CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120368,
+     "title": "COST MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "DIRECTOR - PROGRAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 83000,
+     "title": "ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 124916,
+     "title": "LEAD FACILITY ASSESSOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 93600,
+     "title": "PROJECT MANAGEMENT ANALYST 1"
+    },
+    {
+     "count": 1,
+     "median_salary": 128079,
+     "title": "SENIOR ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 142000,
+     "title": "SR ITS ANALYST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "SR PLANNER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SR PROJECT CONTROLS MANAGER"
+    }
+   ]
+  },
   "au small finance bank": {
    "fetched_at": "2026-10-24T22:23:26Z",
    "label": "AU Small Finance Bank",
@@ -4272,6 +4378,112 @@
    "label": "averydennison",
    "titles": []
   },
+  "avis budget": {
+   "fetched_at": "2026-11-06T00:34:05Z",
+   "label": "Avis Budget Group",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 161453,
+     "title": "LEAD ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 90000,
+     "title": "BUSINESS INSIGHTS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 75000,
+     "title": "FINANCIAL ANALYST II"
+    },
+    {
+     "count": 3,
+     "median_salary": 80000,
+     "title": "I.T. AUDITOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 164800,
+     "title": "SENIOR PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 103000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 176430,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "MANAGER, FLEET ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 148950,
+     "title": "TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 74006,
+     "title": "CUSTOMER SUBROGATION SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "DECISION TECHNOLOGY ANALYST- DFP AND REPORTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 82400,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "FINANCIAL ROTATIONAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 108150,
+     "title": "IT SENIOR AUDITOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "LEAD ENGINEER CDP CDH"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "MAINFRAME OPS LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 82400,
+     "title": "MARKETING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "PARTNERSHIP MARKETING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 133900,
+     "title": "PRODUCT MANAGER"
+    }
+   ]
+  },
   "avis budget group https avisbudget wd1 myworkdayjobs com abg careers job 379 interpace pkwy parsippany 07054 accelerate transformation engineer summer 2027 intern r0190388": {
    "fetched_at": "2026-11-05T10:41:14Z",
    "label": "[Avis Budget Group](https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Transformation-Engineer-Summer-2027-Intern_R0190388)",
@@ -4605,6 +4817,112 @@
   "barclays": {
    "fetched_at": "2026-10-25T22:41:18Z",
    "label": "Barclays",
+   "titles": [
+    {
+     "count": 28,
+     "median_salary": 124000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 20,
+     "median_salary": 220000,
+     "title": "VICE PRESIDENT - GLOBAL MARKETS"
+    },
+    {
+     "count": 19,
+     "median_salary": 155000,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 15,
+     "median_salary": 137500,
+     "title": "DEVELOPER"
+    },
+    {
+     "count": 12,
+     "median_salary": 124270,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 160850,
+     "title": "SOFTWARE ENGINEER - AVP"
+    },
+    {
+     "count": 11,
+     "median_salary": 113850,
+     "title": "SOFTWARE ENGINEER - BA4"
+    },
+    {
+     "count": 10,
+     "median_salary": 168930,
+     "title": "AVP, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 121125,
+     "title": "INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 157477,
+     "title": "AVP, SENIOR JAVA DEVELOPER"
+    },
+    {
+     "count": 9,
+     "median_salary": 133000,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 8,
+     "median_salary": 140000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 110000,
+     "title": "TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 182622,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 122000,
+     "title": "BACKEND SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 5,
+     "median_salary": 194000,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 149500,
+     "title": "ASSISTANT VICE PRESIDENT"
+    },
+    {
+     "count": 4,
+     "median_salary": 160000,
+     "title": "ASSISTANT VP - GLOBAL MARKETS"
+    },
+    {
+     "count": 4,
+     "median_salary": 155300,
+     "title": "AVP, FULL STACK DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 147262,
+     "title": "AVP, SENIOR APP SUPPORT SPECIALIST"
+    }
+   ]
+  },
+  "barclays https barclays wd3 myworkdayjobs com external career site barclays job canary wharf 1 churchill place quantitative finance associate off cycle internship programme 2027 london jr 0000124685": {
+   "fetched_at": "2026-11-06T00:34:06Z",
+   "label": "[Barclays](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685)",
    "titles": [
     {
      "count": 28,
@@ -7282,6 +7600,112 @@
   "caterpillar": {
    "fetched_at": "2026-10-25T04:07:06Z",
    "label": "Caterpillar",
+   "titles": [
+    {
+     "count": 27,
+     "median_salary": 100298,
+     "title": "PERFORMANCE SIMULATION APPLICATION ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 109688,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 132101,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 120546,
+     "title": "EMBEDDED SOFTWARE SENIOR ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 97032,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 95680,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 149781,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 101850,
+     "title": "AUTONOMY ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 127088,
+     "title": "SENIOR AUTONOMY ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 115377,
+     "title": "SENIOR DESIGN ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 111675,
+     "title": "CONTROL SYSTEMS SENIOR ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 93974,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 84302,
+     "title": "ELECTRONIC SYSTEMS VERIFICATION &AMP; VALIDATION ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 113443,
+     "title": "SENIOR PERFORMANCE SIMULATION APPLICATION ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 127088,
+     "title": "AUTONOMY ENGINEERING SPECIALIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 85405,
+     "title": "CONTROL SYSTEMS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 111290,
+     "title": "ELECTRONIC SYSTEMS VERIFICATION &AMP; VALIDATION SENIOR ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 100069,
+     "title": "SENIOR ELECTRONIC COMPONENT ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 97989,
+     "title": "TEST &AMP; VALIDATION SENIOR ASSOCIATE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 107099,
+     "title": "DEVELOPMENT &AMP; RESEARCH ENGINEERING SPECIALIST"
+    }
+   ]
+  },
+  "caterpillar https cat wd5 myworkdayjobs com caterpillarcareers job peoria illinois xmlname 2027 summer corporate intern digital and analytics r0000392335": {
+   "fetched_at": "2026-11-06T00:34:07Z",
+   "label": "[Caterpillar](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Digital-and-Analytics_R0000392335)",
    "titles": [
     {
      "count": 27,
@@ -10521,6 +10945,82 @@
     }
    ]
   },
+  "dentsu": {
+   "fetched_at": "2026-11-06T00:34:08Z",
+   "label": "dentsu",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "AI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 162003,
+     "title": "ANALYTICS &AMP; REPORTING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "ASSOCIATE DIRECTOR, STRATEGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "ASSOCIATE, CONVERSION RATE OPTIMIZATION CRO"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "DIRECTOR, EXPERIENCE ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 425000,
+     "title": "INTEGRATED CLIENT LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "MANAGER, ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 91368,
+     "title": "MANAGER, MARKETING EFFECTIVENESS"
+    },
+    {
+     "count": 1,
+     "median_salary": 102856,
+     "title": "MANAGER, MEDIA SOLUTIONS TECHNOLOGY - CARAT USA"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "SENIOR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 87550,
+     "title": "SENIOR ANALYST, ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 97000,
+     "title": "SENIOR ASSOCIATE, ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 227920,
+     "title": "VICE PRESIDENT, PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "VICE PRESIDENT, STRATEGY"
+    }
+   ]
+  },
   "destinationknot": {
    "fetched_at": "2026-10-25T04:07:15Z",
    "label": "destinationknot",
@@ -12001,6 +12501,112 @@
      "count": 1,
      "median_salary": 78891,
      "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SR. STRATEGIC OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "STRATEGIC OPERATIONS ANALYST"
+    }
+   ]
+  },
+  "emerson electric https hdjq fa us2 oraclecloud com hcmui candidateexperience en sites cx 1 job 26008443": {
+   "fetched_at": "2026-11-06T00:34:09Z",
+   "label": "[Emerson Electric](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 87403,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 140886,
+     "title": "ADVANCED TECHNICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146300,
+     "title": "DIRECTOR GLOBAL FINANCIAL PLANNING AND ANALYSIS"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "GLOBAL CATEGORY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144658,
+     "title": "ASSOCIATE DIRECTOR, BUSINESS INTELLIGENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 149500,
+     "title": "BUSINESS DEVELOPMENT MANAGER - SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "DIGITAL MARKETING TECHNOLOGY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 163100,
+     "title": "DIRECTOR IT SERVICE DELIVERY NORTH AMERICA"
+    },
+    {
+     "count": 1,
+     "median_salary": 162800,
+     "title": "DIRECTOR, UPSTREAM OIL &AMP; GAS"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "INFORMATION TECHNOLOGY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 163500,
+     "title": "MANAGER, PROFIT &AMP; GROWTH PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 76736,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147046,
+     "title": "PRINCIPAL ENGINEER, IDENTITY AND ACCESS MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 73066,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 78891,
+     "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95848,
+     "title": "SENIOR DATABASE SYSTEM ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95123,
+     "title": "SENIOR PROJECT MANAGER"
     },
     {
      "count": 1,
@@ -13821,6 +14427,32 @@
     }
    ]
   },
+  "four seasons": {
+   "fetched_at": "2026-11-06T00:34:10Z",
+   "label": "Four Seasons",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 77446,
+     "title": "BANQUET ASSISTANT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 72000,
+     "title": "IT NETWORK ADMINISTRATOR II"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "OPERATIONS PROJECT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "TENNIS CLUB MANAGER"
+    }
+   ]
+  },
   "fox": {
    "fetched_at": "2026-11-05T12:12:54Z",
    "label": "FOX",
@@ -13986,6 +14618,11 @@
   "ge aerospace https geaerospace wd5 myworkdayjobs com ge externalsite job evendale engines engineering intern computer or software engineering us summer 2027 r5029622 1": {
    "fetched_at": "2026-11-05T12:12:55Z",
    "label": "[GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1)",
+   "titles": []
+  },
+  "ge healthcare https gehc wd5 myworkdayjobs com gehc externalsite job waukesha electrical engineering technician co op r4046982 1": {
+   "fetched_at": "2026-11-06T00:34:11Z",
+   "label": "[GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Electrical-Engineering-Technician-Co-op_R4046982-1)",
    "titles": []
   },
   "ge healthcare https gehc wd5 myworkdayjobs com gehc externalsite job waukesha infant care v v engineering co op r4046324 1": {
@@ -15738,6 +16375,47 @@
     }
    ]
   },
+  "heidelberg materials https heidelbergmaterials wd3 myworkdayjobs com global hm career site job irving tx digital growth intern jr10018997 1": {
+   "fetched_at": "2026-11-06T00:34:12Z",
+   "label": "[Heidelberg Materials](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "PLANT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133560,
+     "title": "PROCESS ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ASSISTANT PROFESSOR OF COMPUTER SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "AUTOMATION SYSTEMS ENGINEER - HROC"
+    },
+    {
+     "count": 1,
+     "median_salary": 188100,
+     "title": "ENVIRONMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138364,
+     "title": "MANAGER CCP"
+    },
+    {
+     "count": 1,
+     "median_salary": 129500,
+     "title": "RELIABILITY MANAGER"
+    }
+   ]
+  },
   "henkel": {
    "fetched_at": "2026-10-25T10:28:14Z",
    "label": "Henkel",
@@ -17184,6 +17862,112 @@
      "count": 1,
      "median_salary": 139000,
      "title": "SENIOR ANIMATOR"
+    }
+   ]
+  },
+  "insulet": {
+   "fetched_at": "2026-11-06T00:34:13Z",
+   "label": "Insulet",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 107884,
+     "title": "SENIOR MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 115000,
+     "title": "SENIOR QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "ASSOCIATE PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 136342,
+     "title": "SENIOR SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "STAFF SOFTWARE ENGINEER - SRE"
+    },
+    {
+     "count": 1,
+     "median_salary": 84069,
+     "title": "ASSOCIATE EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84157,
+     "title": "ASSOCIATE SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "ASSOCIATE SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82380,
+     "title": "ASSOCIATE UX DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100500,
+     "title": "CATEGORY SPECIALIST, DIRECT MATERIALS"
+    },
+    {
+     "count": 1,
+     "median_salary": 245000,
+     "title": "DIRECTOR OF SYSTEM INTEGRATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 126875,
+     "title": "E2E SENIOR CRM FUNCTIONAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 124771,
+     "title": "ELECTRONIC DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "LEAD SAP IT BUSINESS ANALYST, FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 179355,
+     "title": "MANAGER \u201c SALESFORCE DEVELOPMENT \u201c NORTH AMERICA"
+    },
+    {
+     "count": 1,
+     "median_salary": 134332,
+     "title": "MANAGER, GLOBAL MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 136503,
+     "title": "MANAGER, MANUFACTURING ENGINEERING, ENGINEERING AUTOMATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 193390,
+     "title": "MANAGER, SOFTWARE ENGINEERING, IOS"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "QUALITY ENGINEER"
     }
    ]
   },
@@ -18931,6 +19715,11 @@
    "label": "[KLA Corporation](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Engineering-Intern_2642277)",
    "titles": []
   },
+  "kla https kla wd1 myworkdayjobs com search job milpitas ca engineering intern 2642277 1": {
+   "fetched_at": "2026-11-06T00:34:14Z",
+   "label": "[KLA](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Engineering-Intern_2642277-1)",
+   "titles": []
+  },
   "kla https kla wd1 myworkdayjobs com ur job milpitas ca algorithm engineering intern ai computer vision software engineering 2641392 1": {
    "fetched_at": "2026-10-26T04:10:26Z",
    "label": "[KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1)",
@@ -19778,6 +20567,17 @@
      "count": 1,
      "median_salary": 126422,
      "title": "E-COMMERCE APPLICATION DEVELOPER"
+    }
+   ]
+  },
+  "leonardo https leonardocompany wd3 myworkdayjobs com leonardocareersite job gb basildon electronics degree apprentice r0034266": {
+   "fetched_at": "2026-11-06T00:34:15Z",
+   "label": "[Leonardo](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Electronics-Degree-Apprentice_R0034266)",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 73000,
+     "title": "SUSTAINABILITY PROJECT &AMP; DEVELOPMENT MANAGER"
     }
    ]
   },
@@ -26676,6 +27476,11 @@
     }
    ]
   },
+  "renault": {
+   "fetched_at": "2026-11-06T00:34:16Z",
+   "label": "Renault",
+   "titles": []
+  },
   "republic airways": {
    "fetched_at": "2026-10-25T18:39:25Z",
    "label": "Republic Airways",
@@ -30094,6 +30899,11 @@
     }
    ]
   },
+  "som": {
+   "fetched_at": "2026-11-06T00:34:17Z",
+   "label": "som",
+   "titles": []
+  },
   "sonos": {
    "fetched_at": "2026-11-02T18:15:10Z",
    "label": "Sonos",
@@ -32313,6 +33123,32 @@
     }
    ]
   },
+  "thrivent": {
+   "fetched_at": "2026-11-06T00:34:18Z",
+   "label": "Thrivent",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 134971,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132621,
+     "title": "BUSINESS INTELLIGENCE ANALYTICS CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 145018,
+     "title": "INTEGRATION SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 141898,
+     "title": "STAFF ENGINEER"
+    }
+   ]
+  },
   "tiktok": {
    "fetched_at": "2026-10-25T22:12:24Z",
    "label": "TikTok",
@@ -32907,6 +33743,11 @@
   "travelers https travelers wd5 myworkdayjobs com external job ct hartford business insights analytics leadership development program bi a ldp intern r 52304": {
    "fetched_at": "2026-11-03T18:17:55Z",
    "label": "[Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304)",
+   "titles": []
+  },
+  "travelers https travelers wd5 myworkdayjobs com external job ct hartford product management development program pmdp intern r 52317": {
+   "fetched_at": "2026-11-06T00:34:19Z",
+   "label": "[Travelers](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317)",
    "titles": []
   },
   "tri": {
@@ -33909,6 +34750,42 @@
     }
    ]
   },
+  "vanguard": {
+   "fetched_at": "2026-11-06T00:34:20Z",
+   "label": "Vanguard",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "CHIEF OPERATING OFFICER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "ASSISTANT OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 77022,
+     "title": "BUSINESS DEVELOPMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 88566,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 91340,
+     "title": "INTERNATIONAL SCHOLAR IN RESIDENCE INTERNATIONAL AFFAIRS"
+    },
+    {
+     "count": 1,
+     "median_salary": 80204,
+     "title": "OPERATIONS &AMP; LOGISTICS SUPERVISOR-WEST COAST"
+    }
+   ]
+  },
   "varda space": {
    "fetched_at": "2026-10-25T22:41:31Z",
    "label": "Varda Space",
@@ -34257,6 +35134,112 @@
   "visa": {
    "fetched_at": "2026-10-25T22:41:37Z",
    "label": "VISA",
+   "titles": [
+    {
+     "count": 117,
+     "median_salary": 141751,
+     "title": "STAFF SW ENGINEER"
+    },
+    {
+     "count": 66,
+     "median_salary": 159619,
+     "title": "SOFTWARE ENGINEER - SR. CONSULTANT LEVEL"
+    },
+    {
+     "count": 60,
+     "median_salary": 116955,
+     "title": "SR. SW ENGINEER"
+    },
+    {
+     "count": 51,
+     "median_salary": 176400,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 35,
+     "median_salary": 108826,
+     "title": "SR. SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 26,
+     "median_salary": 155709,
+     "title": "STAFF DATA ENGINEER"
+    },
+    {
+     "count": 23,
+     "median_salary": 134368,
+     "title": "STAFF SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 116500,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 21,
+     "median_salary": 98738,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 19,
+     "median_salary": 117021,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 155709,
+     "title": "SR. MANAGER"
+    },
+    {
+     "count": 18,
+     "median_salary": 150407,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 173100,
+     "title": "LEAD SW ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 200000,
+     "title": "SR. DIRECTOR"
+    },
+    {
+     "count": 16,
+     "median_salary": 169020,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 132300,
+     "title": "MANAGER"
+    },
+    {
+     "count": 14,
+     "median_salary": 142550,
+     "title": "SR. CYBERSECURITY ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 129400,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 96034,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 155764,
+     "title": "SR. DATA SCIENTIST"
+    }
+   ]
+  },
+  "visa https visa wd5 myworkdayjobs com visa early careers job gb belfast united kingdom software engineer placement year ref088379w": {
+   "fetched_at": "2026-11-06T00:34:21Z",
+   "label": "[Visa](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Belfast-United-Kingdom/Software-Engineer-Placement-Year_REF088379W)",
    "titles": [
     {
      "count": 117,

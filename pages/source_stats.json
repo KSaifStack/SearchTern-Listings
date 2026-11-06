@@ -1,33 +1,13 @@
 {
   "sources": [
     {
-      "source": "freehire",
-      "discovered": 7059,
-      "valid": 5356,
-      "seconds": 0.0,
-      "calls": 2,
-      "status": "ok",
-      "new": 50,
-      "new_per_second": null
-    },
-    {
-      "source": "ecr",
-      "discovered": 8691,
-      "valid": 5013,
-      "seconds": 0.0,
-      "calls": 2,
-      "status": "ok",
-      "new": 47,
-      "new_per_second": null
-    },
-    {
       "source": "ats",
       "discovered": 0,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "new": 4,
+      "new": 169,
       "new_per_second": null
     },
     {
@@ -38,310 +18,80 @@
       "calls": 2,
       "status": "ok",
       "note": "60d README window / 90d listings window, age is its only liveness signal",
-      "new": 1,
+      "new": 3,
       "new_per_second": null
     },
     {
-      "source": "freehire-pages",
-      "discovered": 7100,
-      "valid": 7059,
-      "seconds": 17.205,
-      "calls": 2,
-      "status": "ok",
-      "truncated": 1,
-      "note": "search",
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "oracle:WSP",
-      "discovered": 2000,
-      "valid": 2000,
-      "seconds": 36.361,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "oracle:Stantec",
-      "discovered": 1641,
-      "valid": 1641,
-      "seconds": 25.746,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "adp:Carolina Power",
-      "discovered": 308,
-      "valid": 308,
-      "seconds": 6.995,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Applied Materials",
-      "discovered": 239,
-      "valid": 239,
-      "seconds": 34.478,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "adp:Pennoni",
-      "discovered": 235,
-      "valid": 235,
-      "seconds": 6.03,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Qualcomm",
-      "discovered": 124,
-      "valid": 124,
-      "seconds": 18.104,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:CACI",
-      "discovered": 101,
-      "valid": 101,
-      "seconds": 15.782,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Arcadis",
-      "discovered": 87,
-      "valid": 87,
-      "seconds": 13.116,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Starbucks",
-      "discovered": 31,
-      "valid": 31,
-      "seconds": 5.296,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Kimley-Horn",
-      "discovered": 25,
-      "valid": 25,
-      "seconds": 16.315,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Peraton",
-      "discovered": 25,
-      "valid": 25,
-      "seconds": 17.334,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Novelis",
-      "discovered": 25,
-      "valid": 25,
-      "seconds": 17.076,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:General Dynamics Mission Systems",
-      "discovered": 20,
-      "valid": 20,
-      "seconds": 13.518,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Dewberry",
-      "discovered": 20,
-      "valid": 20,
-      "seconds": 13.428,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Sargent & Lundy",
-      "discovered": 20,
-      "valid": 20,
-      "seconds": 14.877,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "bamboohr:Lunar Outpost",
-      "discovered": 11,
-      "valid": 11,
-      "seconds": 8.785,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "breadth:TheMuse",
-      "discovered": 1000,
+      "source": "ecr",
+      "discovered": 0,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "new": 0,
+      "new": 2,
       "new_per_second": null
     },
     {
-      "source": "breadth:Arbeitnow",
-      "discovered": 300,
+      "source": "md",
+      "discovered": 0,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
+      "new": 2,
+      "new_per_second": null
+    },
+    {
+      "source": "jobhive-closure",
+      "discovered": 100674,
+      "valid": 99507,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "dropped": 1167,
+      "boards_voted": 1939,
+      "live_ids": 247703,
       "new": 0,
       "new_per_second": null
     },
     {
-      "source": "breadth:RemoteOK",
-      "discovered": 99,
-      "valid": 0,
-      "seconds": 0.0,
+      "source": "ats-probe",
+      "discovered": 636995,
+      "valid": 46620,
+      "seconds": 2826.499,
       "calls": 1,
       "status": "ok",
+      "boards_ok": 4077,
+      "boards_tried": 4202,
+      "boards_skipped": 0,
+      "truncated_boards": 444,
+      "note": "4202 boards in registry; 229290 postings beyond caps",
       "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Jobicy",
-      "discovered": 50,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Working Nomads",
-      "discovered": 33,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:HN who-is-hiring",
-      "discovered": 28,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:WeWorkRemotely",
-      "discovered": 25,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Himalayas",
-      "discovered": 20,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Remotive",
-      "discovered": 10,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
+      "new_per_second": 0.0
     }
   ],
   "totals": {
-    "sources": 30,
-    "discovered": 29327,
-    "valid": 36094,
-    "new": 102,
-    "seconds": 280.446,
-    "failed": 4,
-    "closed": 11561,
-    "dead_links": 8
+    "sources": 6,
+    "discovered": 737669,
+    "valid": 159881,
+    "new": 176,
+    "seconds": 2826.499,
+    "failed": 0,
+    "closed": 8437,
+    "dead_links": 157
   },
   "notes": [],
-  "generated_at": "2026-11-05T23:05:04Z",
-  "elapsed_seconds": 156.4,
+  "generated_at": "2026-11-06T00:34:45Z",
+  "elapsed_seconds": 2924.7,
   "run": {
-    "tier": "medium",
+    "tier": "heavy",
     "workers": 12,
     "tiers_run": [
-      "medium"
+      "heavy"
     ],
     "published": {
-      "listings": 34915,
-      "searchtern": 69419
+      "listings": 34443,
+      "searchtern": 68322
     }
   }
 }

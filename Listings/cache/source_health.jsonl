@@ -844,3 +844,9 @@
 {"ts": 1793919904.9424684, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793919904.9424684, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793919904.9424684, "source": "breadth:Remotive", "discovered": 10, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1793925285.0663614, "source": "ats", "discovered": 0, "valid": 0, "new": 169, "seconds": 0.0, "status": "ok"}
+{"ts": 1793925285.0663614, "source": "jobhive", "discovered": 0, "valid": 13754, "new": 3, "seconds": 0.0, "status": "ok"}
+{"ts": 1793925285.0663614, "source": "ecr", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1793925285.0663614, "source": "md", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1793925285.0663614, "source": "jobhive-closure", "discovered": 100674, "valid": 99507, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1793925285.0663614, "source": "ats-probe", "discovered": 636995, "valid": 46620, "new": 0, "seconds": 2826.499, "status": "ok"}
