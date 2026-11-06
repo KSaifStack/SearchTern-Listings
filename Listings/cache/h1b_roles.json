@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T04:16:14Z",
+ "built_at": "2026-11-06T08:49:40Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -37042,6 +37042,112 @@
      "count": 1,
      "median_salary": 153046,
      "title": "ASSOCIATE DIRECTOR, SAP INTERCOMPANY DIRECT PROCUREMENT"
+    }
+   ]
+  },
+  "zoox": {
+   "fetched_at": "2026-11-06T08:49:39Z",
+   "label": "Zoox",
+   "titles": [
+    {
+     "count": 60,
+     "median_salary": 181000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 28,
+     "median_salary": 213512,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 200304,
+     "title": "SENIOR TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 159500,
+     "title": "FIRMWARE VALIDATION ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 184955,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 5,
+     "median_salary": 155605,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 204000,
+     "title": "SENIOR FIRMWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 132683,
+     "title": "STRATEGIC SOURCING MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 206000,
+     "title": "SENIOR SYSTEMS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 142646,
+     "title": "SUPPLIER QUALITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 160139,
+     "title": "SYSTEM TEST ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 178000,
+     "title": "HARDWARE SOFTWARE INTEGRATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 157581,
+     "title": "RELEASE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 213000,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 167000,
+     "title": "SENIOR FIRMWARE VALIDATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 153000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER IN TEST"
+    },
+    {
+     "count": 3,
+     "median_salary": 206000,
+     "title": "STAFF TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 155750,
+     "title": "VERIFICATION AND VALIDATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 154261,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 190500,
+     "title": "EMBEDDED SOFTWARE SYSTEMS ENGINEER"
     }
    ]
   },
