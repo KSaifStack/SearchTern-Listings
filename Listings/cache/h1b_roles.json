@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T13:30:31Z",
+ "built_at": "2026-11-06T16:45:01Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -1274,6 +1274,42 @@
     }
    ]
   },
+  "amcor": {
+   "fetched_at": "2026-11-06T16:44:46Z",
+   "label": "Amcor",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 156970,
+     "title": "COMMERCIAL &AMP; SUPPLY CHAIN FINANCE BUSINESS PARTNER MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 202860,
+     "title": "DIRECTOR - SCIENTIFIC AND REGULATORY"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "DIRECTOR OF QUALITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 140275,
+     "title": "IT DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 131990,
+     "title": "SAP BW SENIOR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 110261,
+     "title": "TECHNICAL PROJECT MANAGER"
+    }
+   ]
+  },
   "amd": {
    "fetched_at": "2026-10-24T20:11:15Z",
    "label": "\ud83d\udd25 AMD",
@@ -2002,6 +2038,112 @@
    "fetched_at": "2026-10-24T20:11:17Z",
    "label": "americanincomelifeaokevinblomquist",
    "titles": []
+  },
+  "amerisourcebergen": {
+   "fetched_at": "2026-11-06T16:44:47Z",
+   "label": "AmerisourceBergen",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 123500,
+     "title": "BUSINESS SOLUTIONS ANALYST LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 127000,
+     "title": "ADMINISTRATOR III - IO"
+    },
+    {
+     "count": 2,
+     "median_salary": 123000,
+     "title": "BUSINESS SOLUTIONS ANALYST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 129000,
+     "title": "EDI BUSINESS SOLUTIONS ANALYST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 106000,
+     "title": "INFRASTRUCTURE ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 140500,
+     "title": "SERVICE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117000,
+     "title": "ADMINISTRATOR II - IO"
+    },
+    {
+     "count": 1,
+     "median_salary": 101000,
+     "title": "APPLICATION DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "APPLICATION DEVELOPER TECHNICAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "DATA VISUALIZATION SPECIALIST LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 106000,
+     "title": "DEVELOPER-III, SOFTWARE"
+    },
+    {
+     "count": 1,
+     "median_salary": 161700,
+     "title": "DIRECTOR - ENTERPRISE DATA &AMP; ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 68900,
+     "title": "FULL-STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "INFRASTRUCTURE ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 137000,
+     "title": "LEAD ENGINEER - INFORMATION SECURITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 143000,
+     "title": "MANAGER - BUSINESS SOLUTIONS ANALYSIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 129000,
+     "title": "MANAGER - IT PRODUCT LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 153000,
+     "title": "MANAGER - TECHNICAL ADMINISTRATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 143000,
+     "title": "MGR - BUSINESS SOLUTIONS ANALYSIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "SR. SAP DEVELOPER"
+    }
+   ]
   },
   "amgen": {
    "fetched_at": "2026-10-24T20:11:17Z",
@@ -4375,6 +4517,112 @@
      "count": 2,
      "median_salary": 132631,
      "title": "MARKETING SPECIALIST"
+    }
+   ]
+  },
+  "avanade": {
+   "fetched_at": "2026-11-06T16:44:48Z",
+   "label": "Avanade",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 138900,
+     "title": "SENIOR CONSULTANT, DATA ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 126000,
+     "title": "AZURE DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 119997,
+     "title": "CONSULTANT, DATA ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 166400,
+     "title": "DATA ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 141450,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 123200,
+     "title": "JAVA MICROSERVICE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 178000,
+     "title": "MANAGER, DATA ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 108200,
+     "title": "AZURE CLOUD CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 101109,
+     "title": "CONSULTANT, BACK-END DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 120994,
+     "title": "CONSULTANT, FULL STACK DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 110200,
+     "title": "CONSULTANT, FULL-STACK DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "CONSULTANT, SOLUTION DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 159000,
+     "title": "D365 CRM DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 225000,
+     "title": "DIRECTOR, BUSINESS DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 132538,
+     "title": "ERP SENIOR SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 244500,
+     "title": "GROUP MANAGER, CRM SOLUTION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 206500,
+     "title": "GROUP MANAGER, DATA ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 152000,
+     "title": "MANAGER, ADVANCED ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 162531,
+     "title": "MANAGER, BUSINESS ANALYSIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 144000,
+     "title": "MANAGER, FULL STACK DEVELOPMENT"
     }
    ]
   },
@@ -8089,6 +8337,112 @@
     }
    ]
   },
+  "cibc https cibc wd3 myworkdayjobs com campus job toronto on ai and quantum scientist co op 2621649": {
+   "fetched_at": "2026-11-06T16:44:49Z",
+   "label": "[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 400000,
+     "title": "MANAGING DIRECTOR, TREASURY TRADING, GLOBAL MARKETS"
+    },
+    {
+     "count": 2,
+     "median_salary": 105255,
+     "title": "ALM RISK ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 76000,
+     "title": "ANALYST, PWM US OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "AUDIT MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 145995,
+     "title": "CONSULTANT, INFORMATION SECURITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 96235,
+     "title": "DATA GOVERNANCE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 143000,
+     "title": "DIRECTOR, LIQUIDITY RISK MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 146617,
+     "title": "MANAGER, DATA OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 158793,
+     "title": "MANAGING DIRECTOR, SR. PORTFOLIO MANAGER, MID-CORPORATE BANK"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "MARKET RISK MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85000,
+     "title": "RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 185265,
+     "title": "RISK DATA AND TRANSFORMATION LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 105000,
+     "title": "SOFTWARE ENGINEER II - POWER PLATFORM"
+    },
+    {
+     "count": 2,
+     "median_salary": 111100,
+     "title": "SR. ANALYST, PROCESS AUTOMATION"
+    },
+    {
+     "count": 2,
+     "median_salary": 79827,
+     "title": "SR. FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 122483,
+     "title": "SR. MANAGER, INFORMATION SECURITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ANALYST I, GLOBAL INVESTMENT BANKING"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "ANALYST II, CORPORATE BANKING"
+    }
+   ]
+  },
   "cibc https cibc wd3 myworkdayjobs com campus job toronto on business analyst co op 2622052": {
    "fetched_at": "2026-11-05T10:41:21Z",
    "label": "[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Business-Analyst-co-op_2622052)",
@@ -10490,6 +10844,112 @@
     }
    ]
   },
+  "daimler truck north america": {
+   "fetched_at": "2026-11-06T16:44:49Z",
+   "label": "Daimler Truck North America",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 158611,
+     "title": "BIG DATA IOT SOFTWARE ARCHITECT IV"
+    },
+    {
+     "count": 2,
+     "median_salary": 145454,
+     "title": "DAIMLER TRUCK NORTH AMERICA, LLC"
+    },
+    {
+     "count": 2,
+     "median_salary": 95034,
+     "title": "MECHANICAL PRODUCT DESIGN ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 120098,
+     "title": "SALESFORCE COE SOLUTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "BIG DATA LOT SOFTWARE ARCHITECT IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 96542,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 162351,
+     "title": "COMMERCIAL CORPORATE COUNSEL"
+    },
+    {
+     "count": 1,
+     "median_salary": 130092,
+     "title": "CTS MANUFACTURING CONTROLLER"
+    },
+    {
+     "count": 1,
+     "median_salary": 137919,
+     "title": "DIGITAL SALES SYSTEM ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 135909,
+     "title": "ENTERPRISE RESOURCE PLANNING BUSINESS ANALYST SAP III"
+    },
+    {
+     "count": 1,
+     "median_salary": 120896,
+     "title": "GLOBAL SUPPLIER READINESS PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 159750,
+     "title": "HMI LEAD AUTOMOTIVE DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 158620,
+     "title": "HV CHARGING &AMP; EVSE DEVELOPMENT ASSOCIATE PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "IT INFRASTRUCTURE AND SYSTEMS ARCHITECT II"
+    },
+    {
+     "count": 1,
+     "median_salary": 148491,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 134632,
+     "title": "LOGISTICS PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118450,
+     "title": "MANUFACTURING QUALITY ASSURANCE SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 132487,
+     "title": "PLATFORM MANAGER EDRIVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 132105,
+     "title": "PROCESS DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160680,
+     "title": "SALESFORCE SOLUTION ENGINEER"
+    }
+   ]
+  },
   "dallas fort worth international airport": {
    "fetched_at": "2026-10-26T04:10:21Z",
    "label": "Dallas Fort Worth International Airport",
@@ -11537,6 +11997,11 @@
      "title": "MANAGER ERP PACKAGE APPLICATIONS"
     }
    ]
+  },
+  "e on": {
+   "fetched_at": "2026-11-06T16:44:50Z",
+   "label": "E.ON",
+   "titles": []
   },
   "eaton": {
    "fetched_at": "2026-10-28T20:09:03Z",
@@ -12731,6 +13196,11 @@
     }
    ]
   },
+  "emerysapp": {
+   "fetched_at": "2026-11-06T16:44:51Z",
+   "label": "emerysapp",
+   "titles": []
+  },
   "emit": {
    "fetched_at": "2026-10-25T05:38:10Z",
    "label": "Emit",
@@ -12947,6 +13417,183 @@
      "count": 1,
      "median_salary": 119151,
      "title": "MATERIALS QUALITY ENGINEER"
+    }
+   ]
+  },
+  "enterprise": {
+   "fetched_at": "2026-11-06T16:44:52Z",
+   "label": "Enterprise Holdings",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 102627,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 7,
+     "median_salary": 84094,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 106000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 105800,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 139152,
+     "title": "PROFESSIONAL SERVICES ENGINEER - SERVICENOW"
+    },
+    {
+     "count": 3,
+     "median_salary": 161637,
+     "title": "SOLUTION ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 80000,
+     "title": "SYSTEM ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 96000,
+     "title": "SYSTEMS SUPPORT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "API ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 113500,
+     "title": "BI DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104231,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 84000,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 139600,
+     "title": "GEOSPATIAL SOLUTIONS ARCHITECT SR"
+    },
+    {
+     "count": 2,
+     "median_salary": 105431,
+     "title": "INDUSTRIAL ENGINEER CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 87000,
+     "title": "IT PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 116000,
+     "title": "PRODUCT OWNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SENIOR CONSULTANT - FUNCTIONAL ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 84000,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 58846,
+     "title": "TEACHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 75962,
+     "title": "ARCHITECTURAL SPECIFICATION SALES"
+    }
+   ]
+  },
+  "enterprise mobility": {
+   "fetched_at": "2026-11-06T16:44:52Z",
+   "label": "Enterprise Mobility",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 84000,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "API ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 113500,
+     "title": "BI DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87000,
+     "title": "IT PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 84000,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 112500,
+     "title": "IT DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "QUALITY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "SOFTWARE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "SR QA ANALYST"
     }
    ]
   },
@@ -14314,6 +14961,112 @@
     }
    ]
   },
+  "flex https flextronics wd1 myworkdayjobs com careers job usa il libertyville manufacturing data analytics co op spring 2027 wd229700": {
+   "fetched_at": "2026-11-06T16:44:53Z",
+   "label": "[Flex](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-IL-Libertyville/Manufacturing-Data---Analytics-Co-Op---Spring-2027_WD229700)",
+   "titles": [
+    {
+     "count": 37,
+     "median_salary": 106000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 22,
+     "median_salary": 104125,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 15,
+     "median_salary": 126693,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 10,
+     "median_salary": 206239,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 85547,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 97445,
+     "title": "AUTOMATION ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 73299,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 108675,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 145000,
+     "title": "SENIOR SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 97441,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 100520,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 113120,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 88275,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 75480,
+     "title": "NETWORK ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 110745,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 126693,
+     "title": "SR. JAVA DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 110000,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 81206,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "ASSOCIATE"
+    }
+   ]
+  },
   "flyzipline": {
    "fetched_at": "2026-10-25T08:51:28Z",
    "label": "flyzipline",
@@ -15517,6 +16270,11 @@
   "gm financial": {
    "fetched_at": "2026-11-03T17:29:17Z",
    "label": "GM Financial",
+   "titles": []
+  },
+  "gm financial united states": {
+   "fetched_at": "2026-11-06T16:44:54Z",
+   "label": "GM Financial United States",
    "titles": []
   },
   "google": {
@@ -19724,6 +20482,11 @@
     }
    ]
   },
+  "johnsonelectric": {
+   "fetched_at": "2026-11-06T16:44:55Z",
+   "label": "johnsonelectric",
+   "titles": []
+  },
   "jpmorgan chase": {
    "fetched_at": "2026-11-04T11:51:45Z",
    "label": "JPMorgan Chase",
@@ -19933,6 +20696,22 @@
      "count": 2,
      "median_salary": 179421,
      "title": "ENGINEERING PROGRAM MANAGER STAFF"
+    }
+   ]
+  },
+  "katapult network": {
+   "fetched_at": "2026-11-06T16:44:56Z",
+   "label": "Katapult Network",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 113000,
+     "title": "LEAD QUALITY ASSURANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 93627,
+     "title": "SENIOR BUSINESS INTELLIGENCE ANALYST"
     }
    ]
   },
@@ -20801,6 +21580,11 @@
   "lawrence livermore national laboratory llnl": {
    "fetched_at": "2026-10-25T14:02:33Z",
    "label": "Lawrence Livermore National Laboratory (LLNL)",
+   "titles": []
+  },
+  "ledcor": {
+   "fetched_at": "2026-11-06T16:44:56Z",
+   "label": "ledcor",
    "titles": []
   },
   "leidos": {
@@ -22502,6 +23286,112 @@
     }
    ]
   },
+  "meijer": {
+   "fetched_at": "2026-11-06T16:44:57Z",
+   "label": "Meijer",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 135000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 134775,
+     "title": "SENIOR APPLICATION ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 129733,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 148004,
+     "title": "DOMAIN ARCHITECT"
+    },
+    {
+     "count": 5,
+     "median_salary": 156832,
+     "title": "PLATFORM ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 133903,
+     "title": "ADVANCED SCRUM MASTER"
+    },
+    {
+     "count": 2,
+     "median_salary": 116953,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 153741,
+     "title": "IT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 149972,
+     "title": "QUALITY ENGINEERING LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 133325,
+     "title": "SR. APPLICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 147530,
+     "title": "SR. DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "DATA ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 139725,
+     "title": "ENGINEER, SR. EDW SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 159908,
+     "title": "ENTERPRISE QUALITY ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106988,
+     "title": "FINANCE IT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 129375,
+     "title": "IT SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 178538,
+     "title": "MANAGER, INFORMATION TECHNOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 153444,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SENIOR PLATFORM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
   "mercer university https merceruniversity wd1 myworkdayjobs com student job macon campus digital image asset management jr104087": {
    "fetched_at": "2026-10-25T18:06:15Z",
    "label": "[Mercer University](https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Digital-Image-Asset-Management_JR104087)",
@@ -23033,6 +23923,22 @@
     }
    ]
   },
+  "michelin": {
+   "fetched_at": "2026-11-06T16:44:58Z",
+   "label": "Michelin",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 225712,
+     "title": "SENIOR DIRECTOR OF SALES AND MARKETING INNOVATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 161587,
+     "title": "SOLUTION ARCHITECT"
+    }
+   ]
+  },
   "micron": {
    "fetched_at": "2026-10-29T17:20:33Z",
    "label": "Micron",
@@ -23469,6 +24375,218 @@
      "count": 1,
      "median_salary": 137500,
      "title": "ASSOCIATE DIRECTOR, FINANCIAL REPORTING AND CONSOLIDATION"
+    }
+   ]
+  },
+  "molina": {
+   "fetched_at": "2026-11-06T16:44:58Z",
+   "label": "Molina",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 152515,
+     "title": "LEAD ENGINEER, APPLICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 140318,
+     "title": "ARCHITECT, INFORMATION SYSTEMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 106000,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 144400,
+     "title": "LEAD ANALYST, IT SYSTEMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 159863,
+     "title": "MANAGER, APPLICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 136679,
+     "title": "SENIOR ENGINEER, APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 80265,
+     "title": "ANALYST, HEALTHCARE ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "ARCHITECT, INFO SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 141247,
+     "title": "LEAD ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 124000,
+     "title": "MULESOFT INTEGRATION DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155626,
+     "title": "SENIOR ENGINEER, EIS"
+    },
+    {
+     "count": 2,
+     "median_salary": 150107,
+     "title": "SR. NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "SR. PROJECT MANAGER PMO"
+    },
+    {
+     "count": 1,
+     "median_salary": 280000,
+     "title": "AVP, DATA SCIENCE AND ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 164730,
+     "title": "DIR. PROVIDER CONTRACTS HP"
+    },
+    {
+     "count": 1,
+     "median_salary": 153564,
+     "title": "DIRECTOR, PAYMENT INTEGRITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "DIRECTOR, REPORTING &AMP; ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 106000,
+     "title": "FRONT-END ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 123000,
+     "title": "IT APPLICATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 133000,
+     "title": "LEAD ANALYST - HEALTHCARE ANALYTICS"
+    }
+   ]
+  },
+  "molina healthcare": {
+   "fetched_at": "2026-11-06T16:44:59Z",
+   "label": "Molina Healthcare",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 152515,
+     "title": "LEAD ENGINEER, APPLICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 140318,
+     "title": "ARCHITECT, INFORMATION SYSTEMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 144400,
+     "title": "LEAD ANALYST, IT SYSTEMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 159863,
+     "title": "MANAGER, APPLICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 136679,
+     "title": "SENIOR ENGINEER, APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 80265,
+     "title": "ANALYST, HEALTHCARE ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "ARCHITECT, INFO SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 141247,
+     "title": "LEAD ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 155626,
+     "title": "SENIOR ENGINEER, EIS"
+    },
+    {
+     "count": 2,
+     "median_salary": 150107,
+     "title": "SR. NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "SR. PROJECT MANAGER PMO"
+    },
+    {
+     "count": 1,
+     "median_salary": 280000,
+     "title": "AVP, DATA SCIENCE AND ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 164730,
+     "title": "DIR. PROVIDER CONTRACTS HP"
+    },
+    {
+     "count": 1,
+     "median_salary": 153564,
+     "title": "DIRECTOR, PAYMENT INTEGRITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "DIRECTOR, REPORTING &AMP; ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 133000,
+     "title": "LEAD ANALYST - HEALTHCARE ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 141872,
+     "title": "LEAD ANALYST, HEALTHCARE ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 139050,
+     "title": "LEAD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140400,
+     "title": "MANAGER, CONFIGURATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 172000,
+     "title": "MGR, APPLICATIONS"
     }
    ]
   },
@@ -25665,6 +26783,11 @@
      "title": "SYSTEMS ENGINEER LEAD"
     }
    ]
+  },
+  "own retail": {
+   "fetched_at": "2026-11-06T16:45:00Z",
+   "label": "Own Retail",
+   "titles": []
   },
   "paccar": {
    "fetched_at": "2026-11-03T10:23:52Z",
@@ -28477,6 +29600,77 @@
    "fetched_at": "2026-11-03T22:44:23Z",
    "label": "RGB Webtech",
    "titles": []
+  },
+  "richemont": {
+   "fetched_at": "2026-11-06T16:45:00Z",
+   "label": "Richemont",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 95499,
+     "title": "ASSISTANT MANAGER, HUMAN RESOURCES"
+    },
+    {
+     "count": 1,
+     "median_salary": 95325,
+     "title": "BUSINESS DEVELOPMENT &AMP; PROJECTS MANAGER, CLIENT RELATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 208082,
+     "title": "COMMERCIAL VICE PRESIDENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 118945,
+     "title": "CONSULTANT LE - ECOM"
+    },
+    {
+     "count": 1,
+     "median_salary": 182881,
+     "title": "COUNTRY MANAGER, WATCHFINDER"
+    },
+    {
+     "count": 1,
+     "median_salary": 171101,
+     "title": "DIRECTOR, BUSINESS INTELLIGENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "MANAGER, CLIENT DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 128000,
+     "title": "MANAGER, FP&AMP;A WATCH BRANDS"
+    },
+    {
+     "count": 1,
+     "median_salary": 92816,
+     "title": "MARKETING AND BUSINESS DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102500,
+     "title": "PRODUCT MANAGER, ACCESSORIES"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "RICHEMONT AMERICAS SENIOR REGIONAL KEY USER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "SENIOR BUSINESS DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 90800,
+     "title": "SENIOR DATA ANALYST"
+    }
+   ]
   },
   "rivian": {
    "fetched_at": "2026-10-25T18:39:26Z",
