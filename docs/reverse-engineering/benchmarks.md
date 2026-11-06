@@ -13,6 +13,11 @@ Environment: headless Chrome 156, Linux x86-64, same host, 2026-11-02, unauthent
 | Handshake | Computer-science internship category, not identical query | Public page opened. | Comparable query and all search metrics. |
 | ZipRecruiter | Software-engineer-intern category | Human verification challenge. | All search metrics. |
 
+SearchTern's own search path was measured separately on 2026-11-06: payload
+size, parse, query p50/p95, the fixed 200 ms debounce, LCP and feed cadence are
+in [search-speed.md](search-speed.md). Those figures describe SearchTern only
+and do not make the cross-platform comparison below available.
+
 The requested all-platform identical-query, first-result, load, API, payload, result-count, pagination and cold/warm comparisons are **not available**. Respect blocks and sign-in requirements; arrange authorized accounts/partner access or accept gaps.
 
 Previous isolated ingestion run (not a search benchmark): `--tier priority --workers 8`, 216.26 s end-to-end; 56/56 priority board fetches reported successful, 345 classified priority rows, 27,648 exported search-feed rows, 34 source labels. It ran with copied historical caches, changed dedup rules and live upstream data; its `new=12577` is not an independently verified net-new count. It did not measure detection-to-searchable latency or source-level duplicate/failure rates. No matching baseline was captured; no speedup can be claimed.
