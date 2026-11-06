@@ -1601,22 +1601,6 @@
   },
   {
     "company": "Waymo",
-    "role": "2027 Summer Intern, MS/PhD, Weather Perception",
-    "location": "San Francisco, CA, USA",
-    "date": "2026-10-29T21:21:40-04:00",
-    "link": "https://careers.withwaymo.com/jobs?gh_jid=8335511",
-    "is_remote": "false",
-    "salary_min": 70.0,
-    "salary_max": 85.0,
-    "salary_currency": "USD",
-    "country_iso": "US",
-    "description": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.The Weather and Degraded Roads Perception team builds features that enable the Waymo driver to behave safely and comfortably in the presence of rain, fog, snow, ice, potholes, unpaved roads, trenches, and construction sites. In collaboration with the planner and control teams, we think broadly about how we want the vehicle to behave in these conditions and make every effort to accomplish our goals. Most of the team's work consists of designing new perception features, developing and retraining ML models, and building hybrid onboard/offboard systems to coordinate fleetwide behaviors. We also work with Vision Language Models (VLMs) to enable appropriate driving behavior in long-tail situations. Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship! You will: Research and implement novel ML perception solutions for Waymo’s self driving stack Develop applied research solutions to data-scarse challenges in Waymo’s weather space. Cross functional discussion and development within the Waymo onboard SW team You have: MS or PhD in Computer Science, Robotics or equivalent Experience with machine learning applications, including transformer applications and ML evaluation techniques Experience with Python programming Experience with reading and implementing ML algorithms from academic papers Familiarity with Tensorflow or Pytorch or JAX We prefer: Classical computer vision or computational geometry experience Submissions in relevant robotics, ML, or Computer Vision Conferences (ICML, RSS, IROS, CORL, CVPR) Experience in real time robotic systems Experience in C++ programming Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.Hourly Masters Pay$70—$70 USDThe expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.Hourly PhD Pay$85—$85 USD",
-    "job_type": "internship",
-    "source": "priority",
-    "category": "Other"
-  },
-  {
-    "company": "Waymo",
     "role": "2027 Summer Intern, PhD, Research Scientist Intern",
     "location": "Mountain View, CA, USA",
     "date": "2026-10-30T18:49:08-04:00",
