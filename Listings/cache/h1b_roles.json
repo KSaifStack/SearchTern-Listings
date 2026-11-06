@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T19:18:22Z",
+ "built_at": "2026-11-06T21:59:27Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -35476,6 +35476,112 @@
      "count": 1,
      "median_salary": 90000,
      "title": "ASSISTANTPROFESSOR OF ASIANART DESIGNHISTORY MATERIALCULTURE"
+    }
+   ]
+  },
+  "the new york times": {
+   "fetched_at": "2026-11-06T21:59:26Z",
+   "label": "The New York Times",
+   "titles": [
+    {
+     "count": 8,
+     "median_salary": 168909,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 170784,
+     "title": "GRAPHICS MULTIMEDIA EDITOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 113575,
+     "title": "ASSOCIATE ENGINEER, APP EXPERIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 175525,
+     "title": "CREATIVE DIRECTOR, CULTURE &AMP; COMMUNICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 87763,
+     "title": "EXECUTIVE ASSISTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "GRAPHICS, MULTIMEDIA EDITOR, REPORTER VIDEO"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "INFRASTRUCTURE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "IOS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180250,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "MANAGER, DATA &AMP; INSIGHTS, MARKETING"
+    },
+    {
+     "count": 1,
+     "median_salary": 144000,
+     "title": "MANAGER, DATA AND INSIGHTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "SALES DIRECTOR, MEDIA &AMP; ENTERTAINMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 108474,
+     "title": "SENIOR ANALYST, DATA AND INSIGHTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 138587,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 101970,
+     "title": "SENIOR CLIENT SUCCESS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 237835,
+     "title": "SENIOR COUNSEL"
+    },
+    {
+     "count": 1,
+     "median_salary": 160805,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SENIOR DATA ENGINEER, CUSTOMER-FACING DATA PRODUCTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 161943,
+     "title": "SENIOR ENGINEER, READER REVENUE"
+    },
+    {
+     "count": 1,
+     "median_salary": 206376,
+     "title": "SENIOR ENGINEERING MANAGER"
     }
    ]
   },
