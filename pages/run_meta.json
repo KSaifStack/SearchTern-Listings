@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T04:13:25.065788+00:00",
+  "generated_at": "2026-11-06T07:08:00.301824+00:00",
   "total": 28763,
   "per_source": {
-    "jobhive": 9250,
+    "jobhive": 9251,
     "freehire": 3628,
     "SimplifyJobs Off-Season 2027": 1717,
     "ecr": 1499,
@@ -19,7 +19,7 @@
     "SuryaHarikrishnan DS/AI": 445,
     "speedyapply SWE 2027": 440,
     "zapplyjobs Internships 2027": 403,
-    "lilguy Live Feed": 399,
+    "lilguy Live Feed": 398,
     "ats": 390,
     "zapplyjobs New Grad 2027": 384,
     "zapplyjobs New Grad SWE 2027": 380,
@@ -39,15 +39,15 @@
     "breadth": 11,
     "skillexchange": 6
   },
-  "new": 68,
-  "closed": 11661,
+  "new": 0,
+  "closed": 13729,
   "dead_links": 3,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
-    "breadth": true,
-    "ecr": true,
-    "ats": false,
+    "freehire": false,
+    "breadth": false,
+    "ecr": false,
+    "ats": true,
     "priority": false,
     "md": false
   },
