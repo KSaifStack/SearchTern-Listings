@@ -57,6 +57,10 @@ Say these, with the cadence worded as cadence, not latency:
   page and the query never leaves the browser."
 - "The listings feed is republished hourly." (Public API, verified from
   `last_seen_at` alignment at :00.)
+- Listing freshness is measured separately in
+  [listing-freshness.md](listing-freshness.md); as of 2026-11-06 the first
+  appearance of a covered role was p50 13 h (n = 88), so do not attach a
+  "faster than other boards" claim to it.
 - "The priority intern feed on GitHub refreshes every 15 minutes." (Workflow
   cron `*/15`; this is intake cadence for the GitHub feed, **not** site
   freshness — the site republishes hourly.)
