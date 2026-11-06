@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-06T20:10:37.189275+00:00",
-  "total": 28696,
+  "generated_at": "2026-11-06T21:41:39.643169+00:00",
+  "total": 28700,
   "per_source": {
-    "jobhive": 9320,
+    "jobhive": 9324,
     "freehire": 3590,
     "SimplifyJobs Off-Season 2027": 1703,
     "ecr": 1519,
@@ -39,15 +39,15 @@
     "breadth": 12,
     "skillexchange": 6
   },
-  "new": 19,
-  "closed": 12084,
+  "new": 3,
+  "closed": 14223,
   "dead_links": 1,
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
-    "breadth": true,
-    "ecr": true,
-    "ats": false,
+    "freehire": false,
+    "breadth": false,
+    "ecr": false,
+    "ats": true,
     "priority": false,
     "md": false
   },

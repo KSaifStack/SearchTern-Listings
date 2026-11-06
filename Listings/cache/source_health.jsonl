@@ -1270,3 +1270,5 @@
 {"ts": 1793995983.9445693, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793995983.9445693, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793995983.9445693, "source": "breadth:Remotive", "discovered": 12, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794001453.5802152, "source": "jobhive", "discovered": 0, "valid": 13821, "new": 3, "seconds": 0.0, "status": "ok"}
+{"ts": 1794001453.5802152, "source": "ats-probe", "discovered": 0, "valid": 0, "new": 0, "seconds": 111.087, "status": "empty"}
