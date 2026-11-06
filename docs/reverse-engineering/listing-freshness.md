@@ -46,8 +46,9 @@ hour, most within about half a day, and a long tail takes days. That is not
 - **The title regex is not the feed's classifier.** Some of the 43% "missing"
   are out of scope by design (not intern/new-grad), not late.
 - **26 of 1,123 feed boards probed**, 78 snapshots, n = 88 for the lag. Small.
-- **No competitor was measured.** Nothing here says how fast Simplify,
-  LinkedIn, Indeed or Handshake surface the same posting.
+- **No head-to-head was run.** One competitor's own intake was measured
+  separately in [runway.md](runway.md) (newest ~3.3 h, ~600 rows/h), but not on
+  the same postings with the same clock, so it is context, not a comparison.
 - The `date` field in the feed is **not** a usable posting timestamp: 19 of 21
   sampled rows carried a `date` newer than the snapshot that first contained
   them, so it is refreshed or reseeded between runs. Do not compute freshness
@@ -64,9 +65,9 @@ Supported today, with the sample size attached:
 
 Not supported:
 
-- **"Faster than other job boards."** No head-to-head measurement exists.
-  On these numbers a median 13 h first appearance is slower than an hourly
-  crawl, not faster.
+- **"Faster than other job boards."** No head-to-head measurement exists. On
+  these numbers a median 13 h first appearance is slower than an hourly crawl,
+  and Runway's measured ~3.3 h head-of-feed is faster (see [runway.md](runway.md)).
 - **"Listings refresh every 15 minutes."** The cron runs every 15 minutes; the
   published feed changed every ~101 minutes (median) across 21 days because
   the workflow commits only on change.
