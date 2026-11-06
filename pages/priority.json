@@ -1537,22 +1537,6 @@
   },
   {
     "company": "Waymo",
-    "role": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern",
-    "location": "Mountain View, CA, USA",
-    "date": "2026-10-30T09:16:58-04:00",
-    "link": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-    "is_remote": "false",
-    "salary_min": 60.0,
-    "salary_max": 85.0,
-    "salary_currency": "USD",
-    "country_iso": "US",
-    "description": "Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.We are a team that designs and implements the hardware, compiler, and software frameworks for the ML accelerators in Waymo’s custom silicon. The team’s expertise spans all phases of custom accelerator production from architecture through software integration, and leverages Waymo’s decades of experience to optimize the design space for the needs of our autonomous driving software Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship! You will: Work with AI agents to create high performance low-level kernels in a Domain-Specific language for a custom ML accelerator Ensure functional correctness and numerical accuracy of kernels Conduct performance analysis of the kernels to identify performance bottlenecks and areas that need improvement Develop a custom harness to recursively improve kernel generation and remove the need for human involvement You have: Currently enrolled in a BS, MS or PhD program in Computer Science, Computer Engineering, Computational Science, or a related quantitative field Demonstrated track record of using AI agents and harnesses to improve coding performance Working knowledge of key kernels for transformer inference including performance analysis and optimization Familiarity with one or more low-level ML accelerator DSLs (CUDA, Triton, Gluon, etc.) We prefer: Solid understanding of modern inference accelerator architectures Fluency in Python and/or C++ Working knowledge of different ML numerical formats and their relative accuracy vs performance tradeoffs Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.Hourly Bachelors Pay$60—$60 USDThe expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.Hourly Masters Pay$70—$70 USDThe expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.Hourly PhD Pay$85—$85 USD",
-    "job_type": "internship",
-    "source": "priority",
-    "category": "Data/ML/AI"
-  },
-  {
-    "company": "Waymo",
     "role": "2027 Summer Intern, MS/PhD, Depot Automation",
     "location": "San Francisco, California",
     "date": "2026-11-04T19:22:49-05:00",

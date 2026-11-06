@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T12:26:39Z",
+ "built_at": "2026-11-06T13:30:31Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -32126,6 +32126,112 @@
    "fetched_at": "2026-10-25T22:12:13Z",
    "label": "standtogether",
    "titles": []
+  },
+  "stanley black decker": {
+   "fetched_at": "2026-11-06T13:30:30Z",
+   "label": "Stanley Black & Decker",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 112411,
+     "title": "EMBEDDED SOFTWARE PROJECT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 143666,
+     "title": "LEAD BUSINESS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 94626,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 100852,
+     "title": "SR. MECHANICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 108330,
+     "title": "ADVANCED MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 173309,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "DIRECTOR OF ENGINEERING - DIGITAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 169425,
+     "title": "DIRECTOR, IT SERVICE MANAGEMENT AND VULNERABILITY MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 198245,
+     "title": "DIRECTOR, SOFTWARE QUALITY &AMP; OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 122369,
+     "title": "EMBEDDED SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "EMBEDDED SOFTWARE SENIOR PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 170000,
+     "title": "LEAD ENGINEER, MODEL BASED DESIGN"
+    },
+    {
+     "count": 2,
+     "median_salary": 137500,
+     "title": "LEAD PRINCIPAL DESIGN TO VERIFICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 174250,
+     "title": "SENIOR ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 284075,
+     "title": "SR. DIRECTOR - NETWORK PLANNING &AMP; DESIGN"
+    },
+    {
+     "count": 2,
+     "median_salary": 139050,
+     "title": "SR. FINANCE MANAGER, SG&AMP;A"
+    },
+    {
+     "count": 1,
+     "median_salary": 93645,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128000,
+     "title": "COMPLIANCE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135766,
+     "title": "DATA ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "DATA SCIENTIST"
+    }
+   ]
   },
   "stanleygroup": {
    "fetched_at": "2026-10-31T14:40:13Z",
