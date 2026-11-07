@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T19:40:05Z",
+ "built_at": "2026-11-07T20:37:16Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -424,6 +424,11 @@
      "title": "ANALYST, FULL STACK"
     }
    ]
+  },
+  "agoda": {
+   "fetched_at": "2026-11-07T20:37:14Z",
+   "label": "agoda",
+   "titles": []
   },
   "aia": {
    "fetched_at": "2026-11-05T10:41:11Z",
@@ -3224,6 +3229,112 @@
      "count": 1,
      "median_salary": 72134,
      "title": "ASSISTANT DIRECTOR, GLOBAL RECRUITMENT"
+    }
+   ]
+  },
+  "ascension": {
+   "fetched_at": "2026-11-07T20:37:15Z",
+   "label": "Ascension",
+   "titles": [
+    {
+     "count": 8,
+     "median_salary": 140000,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 293196,
+     "title": "PHYSICIAN HOSPITALIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 112424,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 69176,
+     "title": "RESIDENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 116457,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 166000,
+     "title": "DEVELOPMENT PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 250000,
+     "title": "HOSPITALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 137302,
+     "title": "SENIOR SOLUTION ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 155000,
+     "title": "SOFTWARE DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "SR ANALYST - BUSINESS SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 123500,
+     "title": "TECHNICAL ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 146000,
+     "title": "ACTUARY - RISK ADJUSTMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "ASSOCIATE DIRECTOR, INVESTMENT STRATEGY &AMP; RISK MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 146307,
+     "title": "BACKEND ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88379,
+     "title": "CLOUD PLATFORMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 67288,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "DATA ENGINEER, SR. SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "DATA ENGINEERING DELIVERY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118851,
+     "title": "DATAOPS DELIVERY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155480,
+     "title": "DATAVERSE DELIVERY MANAGER"
     }
    ]
   },
@@ -6124,6 +6235,17 @@
      "count": 1,
      "median_salary": 161886,
      "title": "SOFTWARE APPLICATION DEVELOPER - PRODUCT"
+    }
+   ]
+  },
+  "bohler": {
+   "fetched_at": "2026-11-07T20:37:16Z",
+   "label": "bohler-",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 110169,
+     "title": "PROJECT ENGINEER"
     }
    ]
   },
