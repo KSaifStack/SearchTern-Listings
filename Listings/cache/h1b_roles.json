@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T08:05:41Z",
+ "built_at": "2026-11-07T08:10:15Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -10365,7 +10365,7 @@
    ]
   },
   "constellation brands": {
-   "fetched_at": "2026-11-07T08:05:38Z",
+   "fetched_at": "2026-11-07T08:10:13Z",
    "label": "Constellation Brands",
    "titles": [
     {
@@ -19473,7 +19473,7 @@
    ]
   },
   "innovativ pharma": {
-   "fetched_at": "2026-11-07T08:05:39Z",
+   "fetched_at": "2026-11-07T08:10:14Z",
    "label": "Innovativ Pharma, Inc.",
    "titles": [
     {
@@ -32346,7 +32346,7 @@
    ]
   },
   "salesdraft recruiting": {
-   "fetched_at": "2026-11-07T08:05:40Z",
+   "fetched_at": "2026-11-07T08:10:15Z",
    "label": "SalesDraft Recruiting",
    "titles": []
   },
