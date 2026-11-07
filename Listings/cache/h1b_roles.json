@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T00:19:31Z",
+ "built_at": "2026-11-07T01:37:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -28965,6 +28965,17 @@
      "count": 2,
      "median_salary": 108012,
      "title": "TRANSMISSION PLANNING ENGINEER"
+    }
+   ]
+  },
+  "qube research technologies": {
+   "fetched_at": "2026-11-07T01:37:46Z",
+   "label": "Qube Research & Technologies",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 84000,
+     "title": "SOFTWARE DEVELOPER"
     }
    ]
   },
