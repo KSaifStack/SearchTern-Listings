@@ -2335,7 +2335,7 @@ def main(argv=None):
         {"name": "EchoJobs", "url": "https://echojobs.io", "type": "internship/tech", "count_key": "echojobs"},
         {"name": "Jobspy (Indeed)", "url": "https://github.com/zanellia/jobspy", "type": "internship", "count_key": "jobspy"},
         {"name": "ATS career-page probe", "url": "", "type": "internship/newgrad", "count_key": "ats"},
-        {"name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR)", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py", "type": "internship/newgrad", "count_key": "ats"},
+        {"name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py", "type": "internship/newgrad", "count_key": "ats"},
         {"name": "Priority ATS (hot companies)", "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/priority_boards.py", "type": "all roles, refreshed every 15 min", "count_key": "priority"},
     ]
     sources_out = [

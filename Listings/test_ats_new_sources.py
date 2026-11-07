@@ -68,8 +68,6 @@ def test_oracle_boards_from_links():
 
 
 def test_icims_ld_parsing():
-    import re
-
     blocks = A._LD_RE.findall(ICIMS_LD)
     assert len(blocks) == 1, blocks
     # Exercise the same extraction the live parser uses.
@@ -95,6 +93,46 @@ def test_icims_link_with_query_string():
             'civil-engineering-analyst/job?in_iframe=1" class="iCIMS_Anchor">')
     hits = A._JOB_LINK_RE.findall(html)
     assert len(hits) == 1 and hits[0][1] == "27516", hits
+
+
+WFN_REQ = {
+    "itemID": "9205953942358_1", "clientRequisitionID": "3361",
+    "requisitionTitle": "Building Products Merchandiser",
+    "postDate": "2026-11-07T15:06:00",
+    "requisitionLocations": [{"address": {
+        "cityName": "Idaho Falls",
+        "countrySubdivisionLevel1": {"codeValue": "ID"},
+        "postalCode": "83401"}}],
+}
+
+
+def test_wfn_row_deep_links_to_posting():
+    row = A._wfn_row("Curious Plot", "1c21058f-86b9-4409-a52d-cc79be9f6952",
+                     "19000101_000001", WFN_REQ)
+    assert row["role"] == "Building Products Merchandiser", row
+    # itemID is the id the board's own links carry as jobId, so the row must
+    # deep-link to the posting and not merely to the career centre.
+    assert row["link"].endswith("jobId=9205953942358_1&lang=en_US"), row
+    assert "cid=1c21058f-86b9-4409-a52d-cc79be9f6952" in row["link"], row
+    assert "ccId=19000101_000001" in row["link"], row
+    assert row["location"] == "Idaho Falls, ID", row
+    assert row["date"].startswith("2026-11-07"), row
+
+
+def test_wfn_boards_from_links():
+    # Live link shapes, 2026-11-07.
+    links = [
+        "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/"
+        "recruitment.html?cid=cf46812f-b021-426f-844b-c83523c426e6"
+        "&ccId=9200670503640_2&jobId=9201086119157_1&lang=en_US",
+        "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/"
+        "recruitment.html?cid=0f4ed7c3-5fe1-4305-b131-0fdbd9c753a7"
+        "&ccId=19000101_000001&jobId=9205952640213_1",
+        "https://boards.greenhouse.io/acme/jobs/1",
+    ]
+    out = A.wfn_boards_from_links(links)
+    assert out == {"cf46812f-b021-426f-844b-c83523c426e6": 1,
+                   "0f4ed7c3-5fe1-4305-b131-0fdbd9c753a7": 1}, out
 
 
 def test_clean_employer():
