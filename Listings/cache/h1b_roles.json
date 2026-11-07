@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T01:37:46Z",
+ "built_at": "2026-11-07T02:21:24Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6786,6 +6786,112 @@
     }
    ]
   },
+  "brunswick https brunswick wd1 myworkdayjobs com en us search job fond du lac wi mercury marine product management intern oils lubricants jr 051213": {
+   "fetched_at": "2026-11-07T02:21:16Z",
+   "label": "[Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 58593,
+     "title": "AUTONOMY SIMULATION PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 62400,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 114442,
+     "title": "DESIGN ANALYSIS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 47675,
+     "title": "DIGITAL MARKETING ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 205000,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 83782,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 110092,
+     "title": "SENIOR ENGINEER - FEA"
+    },
+    {
+     "count": 2,
+     "median_salary": 114046,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 58656,
+     "title": "A B TESTING AND OPTIMIZATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 82500,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 107640,
+     "title": "BUSINESS RELATIONSHIP MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114670,
+     "title": "CATEGORY MANAGER - GLOBAL STRATEGY, DIGITAL SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 93974,
+     "title": "DATA ENGINEER, BA OPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 94500,
+     "title": "EXECUTIVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 113708,
+     "title": "GLOBAL MARKETING DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 110030,
+     "title": "IT BUSINESS RELATIONSHIP MANAGER - ADVANCED MANUFACTURING"
+    },
+    {
+     "count": 1,
+     "median_salary": 111620,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132420,
+     "title": "MACHINE LEARNING ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "MANAGER APPLICATIONS DEVELOPMENT"
+    }
+   ]
+  },
   "brunswick https brunswick wd1 myworkdayjobs com en us search job lowell mi engineering test lab intern jr 051267": {
    "fetched_at": "2026-11-05T10:41:17Z",
    "label": "[Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Lowell-MI/Engineering-Test-Lab-Intern_JR-051267)",
@@ -10579,6 +10685,37 @@
   "covestro": {
    "fetched_at": "2026-11-05T10:41:23Z",
    "label": "Covestro",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 152796,
+     "title": "AUTOMATION MES EXPERT PRINCIPAL ENGR. - PCT-AUTOMATION MES"
+    },
+    {
+     "count": 1,
+     "median_salary": 109725,
+     "title": "IT SOLUTIONS ENGINEER - HR"
+    },
+    {
+     "count": 1,
+     "median_salary": 165950,
+     "title": "PROJECT CONTROLS LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SENIOR PROCESS ENGINEER - PRESSURE SAFETY"
+    },
+    {
+     "count": 1,
+     "median_salary": 185168,
+     "title": "TAR DEPARTMENT LEAD"
+    }
+   ]
+  },
+  "covestro https covestro wd3 myworkdayjobs com cov external job pittsburgh pa digital r d intern jr 2026 02006": {
+   "fetched_at": "2026-11-07T02:21:17Z",
+   "label": "[Covestro](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Pittsburgh-PA/Digital-R-D-Intern_JR-2026-02006)",
    "titles": [
     {
      "count": 1,
@@ -16714,6 +16851,67 @@
     }
    ]
   },
+  "greystar worldwide": {
+   "fetched_at": "2026-11-07T02:21:18Z",
+   "label": "Greystar Worldwide",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 126672,
+     "title": "ASSISTANT PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 102752,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 86625,
+     "title": "APPLICATION DEVELOPMENT ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 100786,
+     "title": "ASSISTANT PROJECT MANAGER, DEVELOPMENT &AMP; CONSTRUCTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 103813,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "DATAOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 168000,
+     "title": "DIRECTOR, ENTERPRISE SERVICES OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 157982,
+     "title": "MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106475,
+     "title": "SALESFORCE DEVELOPER - SALESFORCE &AMP; PTP"
+    },
+    {
+     "count": 1,
+     "median_salary": 127342,
+     "title": "US BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 137700,
+     "title": "WORKDAY INTEGRATION DEVELOPER"
+    }
+   ]
+  },
   "gsk": {
    "fetched_at": "2026-11-05T12:12:59Z",
    "label": "GSK",
@@ -19086,6 +19284,112 @@
   "insulet https insulet wd5 myworkdayjobs com insuletcareers job acton massachusetts co op embedded software engineering january june 2027 onsite req 2026 17966": {
    "fetched_at": "2026-11-05T12:13:06Z",
    "label": "[Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 107884,
+     "title": "SENIOR MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 115000,
+     "title": "SENIOR QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "ASSOCIATE PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 136342,
+     "title": "SENIOR SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "STAFF SOFTWARE ENGINEER - SRE"
+    },
+    {
+     "count": 1,
+     "median_salary": 84069,
+     "title": "ASSOCIATE EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84157,
+     "title": "ASSOCIATE SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "ASSOCIATE SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82380,
+     "title": "ASSOCIATE UX DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100500,
+     "title": "CATEGORY SPECIALIST, DIRECT MATERIALS"
+    },
+    {
+     "count": 1,
+     "median_salary": 245000,
+     "title": "DIRECTOR OF SYSTEM INTEGRATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 126875,
+     "title": "E2E SENIOR CRM FUNCTIONAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 124771,
+     "title": "ELECTRONIC DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "LEAD SAP IT BUSINESS ANALYST, FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 179355,
+     "title": "MANAGER \u201c SALESFORCE DEVELOPMENT \u201c NORTH AMERICA"
+    },
+    {
+     "count": 1,
+     "median_salary": 134332,
+     "title": "MANAGER, GLOBAL MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 136503,
+     "title": "MANAGER, MANUFACTURING ENGINEERING, ENGINEERING AUTOMATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 193390,
+     "title": "MANAGER, SOFTWARE ENGINEERING, IOS"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "QUALITY ENGINEER"
+    }
+   ]
+  },
+  "insulet https insulet wd5 myworkdayjobs com insuletcareers job acton massachusetts co op r d electrical engineering january june 2027 hybrid req 2026 18618": {
+   "fetched_at": "2026-11-07T02:21:19Z",
+   "label": "[Insulet](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--R-D-Electrical-Engineering--January---June-2027--Hybrid-_REQ-2026-18618)",
    "titles": [
     {
      "count": 3,
@@ -22253,6 +22557,112 @@
      "count": 1,
      "median_salary": 146049,
      "title": "ASSOC. DIRECTOR - DYNAMIC TARGETING INSIGHTS, STRAT &AMP; EXEC."
+    }
+   ]
+  },
+  "live nation entertainment https livenation wd503 myworkdayjobs com lnexternalsite job chicago il usa venue analytics intern jr 93773 2": {
+   "fetched_at": "2026-11-07T02:21:20Z",
+   "label": "[Live Nation Entertainment](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Venue-Analytics-Intern_JR-93773-2)",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 78624,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 135000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 90896,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 76044,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 153768,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 117000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "ORACLE SENIOR ANALYST LEAD, FINANCE TECHNOLOGY"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 191380,
+     "title": "SOFTWARE ENGINEERING - SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "BI DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 191500,
+     "title": "DATA SCIENTIST - MODELS &AMP; ANALYTICS \u2013 MEASUREMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 265000,
+     "title": "ENGINEERING DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 70252,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 72000,
+     "title": "INTERIOR DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 232313,
+     "title": "LEAD ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 105997,
+     "title": "MANAGER JC50"
+    },
+    {
+     "count": 2,
+     "median_salary": 168000,
+     "title": "ORACLE CLOUD ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 201400,
+     "title": "PRINCIPAL SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87000,
+     "title": "PRODUCTION SCHEDULER"
+    },
+    {
+     "count": 2,
+     "median_salary": 65000,
+     "title": "PROJECT MANAGER"
     }
    ]
   },
@@ -27491,6 +27901,112 @@
     }
    ]
   },
+  "palo alto networks": {
+   "fetched_at": "2026-11-07T02:21:20Z",
+   "label": "Palo Alto Networks",
+   "titles": [
+    {
+     "count": 50,
+     "median_salary": 215113,
+     "title": "PRINCIPAL ENGINEER SOFTWARE"
+    },
+    {
+     "count": 28,
+     "median_salary": 182555,
+     "title": "SENIOR STAFF ENGINEER SOFTWARE"
+    },
+    {
+     "count": 23,
+     "median_salary": 215113,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 150897,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 15,
+     "median_salary": 182555,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 197286,
+     "title": "SENIOR STAFF IT SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 123132,
+     "title": "SENIOR TECHNICAL SUPPORT ENGINEER, FOCUSED SERVICES"
+    },
+    {
+     "count": 9,
+     "median_salary": 194563,
+     "title": "PRINCIPAL SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 247496,
+     "title": "SENIOR PRINCIPAL ENGINEER SOFTWARE"
+    },
+    {
+     "count": 8,
+     "median_salary": 215113,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 199229,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 7,
+     "median_salary": 191460,
+     "title": "PRINCIPAL DEVOPS ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 179396,
+     "title": "SENIOR STAFF ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 253468,
+     "title": "SENIOR MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 5,
+     "median_salary": 131600,
+     "title": "SENIOR TECHNICAL SUPPORT ENGINEER, PLATINUM SUPPORT"
+    },
+    {
+     "count": 5,
+     "median_salary": 146063,
+     "title": "STAFF IT SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 167500,
+     "title": "CUSTOMER SUCCESS ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 220062,
+     "title": "PRINCIPAL MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 160862,
+     "title": "SENIOR SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 177364,
+     "title": "SR STAFF ENGINEER SOFTWARE"
+    }
+   ]
+  },
   "parsons": {
    "fetched_at": "2026-11-05T16:02:45Z",
    "label": "Parsons",
@@ -27600,6 +28116,112 @@
   "parsons https parsons wd5 myworkdayjobs com en us search job us md columbia summer embedded developer intern r188299": {
    "fetched_at": "2026-11-06T12:26:32Z",
    "label": "[Parsons](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 72000,
+     "title": "ASSOCIATE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 134400,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 89082,
+     "title": "SR. SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 69240,
+     "title": "ARCHITECTURAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ARCHITECTURAL SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85033,
+     "title": "ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 86653,
+     "title": "ENGINEER I - CIVIL STRUCTURAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 128523,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "ENGINEER II ELECTRICAL INSPECTOR - BRIDGE"
+    },
+    {
+     "count": 1,
+     "median_salary": 144102,
+     "title": "ENGINEER, PRINCIPAL - ENVIRONMENTAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 123600,
+     "title": "ENGINEER, SENIOR SENIOR TRAIN CONTROL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 187674,
+     "title": "ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 143392,
+     "title": "FIELD PROJECT MANAGER, SR."
+    },
+    {
+     "count": 1,
+     "median_salary": 193112,
+     "title": "IT MANAGER, SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 144352,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 172540,
+     "title": "PRINCIPAL PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 253292,
+     "title": "PRINCIPAL TECHNICAL CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 105753,
+     "title": "PROJECT CONTROL ENGINEER SPECIALIST, SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 128345,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88480,
+     "title": "SENIOR DESIGNER"
+    }
+   ]
+  },
+  "parsons https parsons wd5 myworkdayjobs com en us search job us va centreville ai ml engineering intern summer 2027 r188194": {
+   "fetched_at": "2026-11-07T02:21:21Z",
+   "label": "[Parsons](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194)",
    "titles": [
     {
      "count": 3,
@@ -37224,6 +37846,112 @@
     }
    ]
   },
+  "university of rochester": {
+   "fetched_at": "2026-11-07T02:21:22Z",
+   "label": "University of Rochester",
+   "titles": [
+    {
+     "count": 90,
+     "median_salary": 87620,
+     "title": "GLIDE TEAM REGISTERED NURSE 2 INPATIENT"
+    },
+    {
+     "count": 26,
+     "median_salary": 102500,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 11,
+     "median_salary": 60000,
+     "title": "POSTDOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 9,
+     "median_salary": 62500,
+     "title": "STAFF SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 61250,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 258000,
+     "title": "ASSISTANT PROFESSOR OF MEDICINE"
+    },
+    {
+     "count": 4,
+     "median_salary": 68000,
+     "title": "MEDICAL TECHNOLOGIST II"
+    },
+    {
+     "count": 4,
+     "median_salary": 57000,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 400000,
+     "title": "ASSISTANT PROFESSOR OF SURGERY"
+    },
+    {
+     "count": 2,
+     "median_salary": 152250,
+     "title": "ASSISTANT PROFESSOR OF PEDIATRICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 85000,
+     "title": "ASSISTANT SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 57062,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 76300,
+     "title": "GENERAL MEDICINE UNIT REGISTERED NURSE"
+    },
+    {
+     "count": 2,
+     "median_salary": 94500,
+     "title": "INSTRUCTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 72500,
+     "title": "INSTRUCTOR OF SURGERY"
+    },
+    {
+     "count": 2,
+     "median_salary": 73195,
+     "title": "PATHOLOGISTS&#39; ASSISTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 62490,
+     "title": "VISITING ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 52900,
+     "title": "ACCOUNTANT I"
+    },
+    {
+     "count": 1,
+     "median_salary": 55702,
+     "title": "ASSISTANT DIR FOR WORKSHOPS SR INTRUC DVLPMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 65000,
+     "title": "ASSISTANT DIR. UNDERGRADUATE STUDIES, ASSISTANT PROFESSOR"
+    }
+   ]
+  },
   "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job pickle research campus student technician r 00048194": {
    "fetched_at": "2026-10-26T18:40:30Z",
    "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/PICKLE-RESEARCH-CAMPUS/Student-Technician_R_00048194)",
@@ -37539,6 +38267,112 @@
      "count": 59,
      "median_salary": 68141,
      "title": "MEDICAL RESIDENT"
+    }
+   ]
+  },
+  "university of washington": {
+   "fetched_at": "2026-11-07T02:21:23Z",
+   "label": "University of Washington",
+   "titles": [
+    {
+     "count": 46,
+     "median_salary": 118953,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 40,
+     "median_salary": 78062,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 37,
+     "median_salary": 86856,
+     "title": "ACTING INSTRUCTOR"
+    },
+    {
+     "count": 21,
+     "median_salary": 247224,
+     "title": "ASSISTANT PROFESSOR WITHOUT TENURE"
+    },
+    {
+     "count": 12,
+     "median_salary": 81666,
+     "title": "RESIDENT"
+    },
+    {
+     "count": 10,
+     "median_salary": 84000,
+     "title": "RESEARCH SCIENTIST ENGINEER 3"
+    },
+    {
+     "count": 7,
+     "median_salary": 112008,
+     "title": "ACTING ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 7,
+     "median_salary": 97176,
+     "title": "FELLOW"
+    },
+    {
+     "count": 5,
+     "median_salary": 97176,
+     "title": "FELLOW - NON-ACGME"
+    },
+    {
+     "count": 4,
+     "median_salary": 105300,
+     "title": "ASSISTANT TEACHING PROFESSOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 117126,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 220632,
+     "title": "ASSISTANT PROFESSOR OF CLINICAL PRACTICE"
+    },
+    {
+     "count": 3,
+     "median_salary": 71400,
+     "title": "RESEARCH SCIENTIST ENGINEER 2"
+    },
+    {
+     "count": 2,
+     "median_salary": 325482,
+     "title": "ASSOCIATE PROFESSOR WITHOUT TENURE"
+    },
+    {
+     "count": 2,
+     "median_salary": 99240,
+     "title": "IHME RESEARCH SCIENTIST 1"
+    },
+    {
+     "count": 2,
+     "median_salary": 160008,
+     "title": "SENIOR RESEARCH SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92904,
+     "title": "BIOINFORMATICS SPECIALIST SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 122004,
+     "title": "FELLOW NON-ACGME"
+    },
+    {
+     "count": 1,
+     "median_salary": 99936,
+     "title": "FELLOW NON-ACGME FELLOW NON-ACGME STIPEND"
+    },
+    {
+     "count": 1,
+     "median_salary": 92700,
+     "title": "FINANCIAL ANALYST BUSINESS TITLE:PROGRAM FINANCIAL ANALYST"
     }
    ]
   },
@@ -38405,6 +39239,22 @@
      "count": 12,
      "median_salary": 155764,
      "title": "SR. DATA SCIENTIST"
+    }
+   ]
+  },
+  "vishay intertechnology https vishay wd3 myworkdayjobs com vishaycareers job yankton sd r d engineering intern jr 20288": {
+   "fetched_at": "2026-11-07T02:21:24Z",
+   "label": "[Vishay Intertechnology](https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Yankton-SD/R-D-Engineering-Intern_JR-20288)",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 153504,
+     "title": "STAFF SYSTEMS APPLICATIONS ENGINEER- POWER MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 201323,
+     "title": "SENIOR MANAGER APO SUPPLY CHAIN SYSTEMS AND PROCESSES"
     }
    ]
   },
