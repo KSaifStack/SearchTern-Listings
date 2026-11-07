@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T08:10:15Z",
+ "built_at": "2026-11-07T09:13:35Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11674,6 +11674,112 @@
     }
    ]
   },
+  "dell technologies https iawmqy fa ocs oraclecloud com hcmui candidateexperience en sites careers job 299054": {
+   "fetched_at": "2026-11-07T09:13:23Z",
+   "label": "[Dell Technologies](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299054)",
+   "titles": [
+    {
+     "count": 32,
+     "median_salary": 147966,
+     "title": "PRINCIPAL SOFTWARE ENGINEER - IT"
+    },
+    {
+     "count": 25,
+     "median_salary": 184853,
+     "title": "SOFTWARE PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 20,
+     "median_salary": 168647,
+     "title": "SENIOR PRINCIPAL SOFTWARE ENGINEER - IT"
+    },
+    {
+     "count": 15,
+     "median_salary": 173906,
+     "title": "SENIOR ADVISOR, PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 14,
+     "median_salary": 197138,
+     "title": "CONSULTANT, PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 13,
+     "median_salary": 127123,
+     "title": "SOFTWARE ENGINEER 2"
+    },
+    {
+     "count": 13,
+     "median_salary": 170000,
+     "title": "SOFTWARE SENIOR ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 225197,
+     "title": "SOFTWARE SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 169649,
+     "title": "CONSULTANT, PRODUCT MANAGEMENT - IT"
+    },
+    {
+     "count": 10,
+     "median_salary": 113400,
+     "title": "SOFTWARE ENGINEER 1"
+    },
+    {
+     "count": 9,
+     "median_salary": 159000,
+     "title": "ADVISOR, DATA SCIENCE"
+    },
+    {
+     "count": 8,
+     "median_salary": 100986,
+     "title": "ADVISOR, PROJECT PROGRAM MANAGEMENT"
+    },
+    {
+     "count": 8,
+     "median_salary": 135938,
+     "title": "SENIOR ANALYST, DATA SCIENCE"
+    },
+    {
+     "count": 7,
+     "median_salary": 197100,
+     "title": "CONSULTANT, DATA SCIENCE"
+    },
+    {
+     "count": 7,
+     "median_salary": 162816,
+     "title": "SENIOR ADVISOR, PRODUCT MARKETING"
+    },
+    {
+     "count": 6,
+     "median_salary": 149726,
+     "title": "QUALITY PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 163634,
+     "title": "SENIOR ADVISOR, DATA ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 133570,
+     "title": "SENIOR ADVISOR, DEMAND PLANNING"
+    },
+    {
+     "count": 5,
+     "median_salary": 165536,
+     "title": "CONSULTANT, PROJECT PROGRAM MANAGEMENT"
+    },
+    {
+     "count": 5,
+     "median_salary": 165548,
+     "title": "PRINCIPAL SYSTEMS DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
   "deloitte": {
    "fetched_at": "2026-10-26T10:07:01Z",
    "label": "Deloitte",
@@ -12217,6 +12323,62 @@
      "count": 1,
      "median_salary": 92768,
      "title": "REPORTER"
+    }
+   ]
+  },
+  "dp world": {
+   "fetched_at": "2026-11-07T09:13:23Z",
+   "label": "Dp World",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 93860,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 121716,
+     "title": "INDUSTRIAL ENGINEER - SENIOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "LAUNCH ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147000,
+     "title": "MANAGER, SUPPLY CHAIN SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 102800,
+     "title": "QUALITY ENGINEER - ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 100756,
+     "title": "SENIOR BUSINESS REPORTING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 107000,
+     "title": "SENIOR SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98326,
+     "title": "SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "TECHNICAL ANALYST - REPORTS"
     }
    ]
   },
@@ -14076,6 +14238,16 @@
   "eofh": {
    "fetched_at": "2026-10-25T08:51:12Z",
    "label": "Eofh",
+   "titles": []
+  },
+  "epej fa us2 oraclecloud com cx": {
+   "fetched_at": "2026-11-07T09:13:25Z",
+   "label": "epej.fa.us2.oraclecloud.com/CX",
+   "titles": []
+  },
+  "epej fa us2 oraclecloud com cx 1": {
+   "fetched_at": "2026-11-07T09:13:26Z",
+   "label": "epej.fa.us2.oraclecloud.com/CX_1",
    "titles": []
   },
   "epic games": {
@@ -19410,6 +19582,102 @@
    "label": "ID.me",
    "titles": []
   },
+  "idaho national laboratory": {
+   "fetched_at": "2026-11-07T09:13:27Z",
+   "label": "Idaho National Laboratory",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 100000,
+     "title": "PSYCHIATRIC REGISTERED NURSE EDUCATIONAL PRECEPTOR"
+    },
+    {
+     "count": 5,
+     "median_salary": 109977,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 75750,
+     "title": "OPERATING ROOM REGISTERED NURSE EDUCATIONAL PRECEPTOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 71600,
+     "title": "ACUTE CARE REGISTERED NURSE EDUCATIONAL PRECEPTOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 92976,
+     "title": "DNA APPLICATIONS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 120000,
+     "title": "SAP S4 HANA APPLICATION MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 69000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 95000,
+     "title": "EXECUTIVE DIRECTOR FOR FOUNDATION DATA AND RESEARCH"
+    },
+    {
+     "count": 2,
+     "median_salary": 275000,
+     "title": "NEPHROLOGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 120796,
+     "title": "UNIVERSITY REGISTRAR"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "ASSISTANT PROFESSOR OF BIOMEDICAL AND PHARMACEUTICAL SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 46259,
+     "title": "CONTINUOUS IMPROVEMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 55224,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 71600,
+     "title": "DIALYSIS REGISTERED NURSE EDUCATIONAL PRECEPTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 80500,
+     "title": "ENTERPRISE AUTOMATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 46259,
+     "title": "R&AMP;D ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 50000,
+     "title": "STUDENT SUCCESS NAVIGATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 51411,
+     "title": "TRIO ADVISOR PLANNER"
+    }
+   ]
+  },
   "imafinancialgroup": {
    "fetched_at": "2026-11-03T17:29:18Z",
    "label": "imafinancialgroup",
@@ -24064,6 +24332,11 @@
   "marvell": {
    "fetched_at": "2026-10-25T14:47:20Z",
    "label": "Marvell",
+   "titles": []
+  },
+  "marvesting": {
+   "fetched_at": "2026-11-07T09:13:28Z",
+   "label": "MARVESTING",
    "titles": []
   },
   "mas": {
@@ -32345,6 +32618,102 @@
     }
    ]
   },
+  "saic": {
+   "fetched_at": "2026-11-07T09:13:29Z",
+   "label": "SAIC",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 71510,
+     "title": "STRATEGIC PROJECT AND COMMUNICATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 114754,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 95202,
+     "title": "QA SPECIALIST PTC DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 180960,
+     "title": "SENIOR .NET DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102552,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 65000,
+     "title": "ACCOUNTS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 107411,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100714,
+     "title": "PEOPLESOFT BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99798,
+     "title": "SAP PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99133,
+     "title": "SENIOR DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 127171,
+     "title": "SENIOR MS SQL SERVER DBA"
+    },
+    {
+     "count": 1,
+     "median_salary": 161637,
+     "title": "SOFTWARE DEVELOPER MAINFRAME COBOL DB2 PROGRAMMER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106371,
+     "title": "SR. BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 130707,
+     "title": "SR. JAVA FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95680,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 139152,
+     "title": "TABLEAU LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 82500,
+     "title": "TAX CUMULATING AND ACCOUNTS MANAGER"
+    }
+   ]
+  },
   "salesdraft recruiting": {
    "fetched_at": "2026-11-07T08:10:15Z",
    "label": "SalesDraft Recruiting",
@@ -34930,6 +35299,112 @@
     }
    ]
   },
+  "standard aero": {
+   "fetched_at": "2026-11-07T09:13:30Z",
+   "label": "Standard Aero",
+   "titles": [
+    {
+     "count": 13,
+     "median_salary": 125427,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 153848,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 80000,
+     "title": "ANALYTICS ADMINISTRATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 191333,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 146500,
+     "title": "CLIENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131600,
+     "title": "CREDIT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 153351,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 77667,
+     "title": "DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 123600,
+     "title": "ECONOMIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 178954,
+     "title": "LEAD, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 123660,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 206099,
+     "title": "SENIOR CREDIT MANAGER, CORPORATE RISK"
+    },
+    {
+     "count": 2,
+     "median_salary": 168439,
+     "title": "SOFTWARE ENGINEER IV"
+    },
+    {
+     "count": 2,
+     "median_salary": 223300,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120411,
+     "title": "ACTUARIAL ASSOCIATE III"
+    },
+    {
+     "count": 1,
+     "median_salary": 257000,
+     "title": "AMERICAS-INDIA CORRIDOR LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 142331,
+     "title": "ANALYST, CREDIT ANALYSIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 129800,
+     "title": "ASSOCIATE DIRECTOR, CFCC PRIN RISK MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "ASSOCIATE DIRECTOR, CREDIT ANALYST, IC- TMT"
+    }
+   ]
+  },
   "standtogether": {
    "fetched_at": "2026-10-25T22:12:13Z",
    "label": "standtogether",
@@ -35843,6 +36318,17 @@
    "fetched_at": "2026-10-31T14:40:14Z",
    "label": "T-Mobile",
    "titles": []
+  },
+  "tallgrass": {
+   "fetched_at": "2026-11-07T09:13:31Z",
+   "label": "Tallgrass",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "HYDRAULICS ENGINEER"
+    }
+   ]
   },
   "talos": {
    "fetched_at": "2026-11-02T05:19:50Z",
@@ -36783,6 +37269,11 @@
      "title": "PRODUCT REVIEW ENGINEER 4"
     }
    ]
+  },
+  "the church of jesus christ of latter day saints": {
+   "fetched_at": "2026-11-07T09:13:32Z",
+   "label": "The Church of Jesus Christ of Latter-day Saints",
+   "titles": []
   },
   "the federal reserve system": {
    "fetched_at": "2026-10-25T22:12:23Z",
@@ -38376,6 +38867,11 @@
      "title": "SENIOR INFRASTRUCTURE ENGINEER"
     }
    ]
+  },
+  "ul solutions": {
+   "fetched_at": "2026-11-07T09:13:33Z",
+   "label": "UL Solutions",
+   "titles": []
   },
   "uline": {
    "fetched_at": "2026-10-27T20:57:01Z",
@@ -40871,6 +41367,112 @@
      "count": 1,
      "median_salary": 115968,
      "title": "DEVOPS ENGINEER"
+    }
+   ]
+  },
+  "wood": {
+   "fetched_at": "2026-11-07T09:13:34Z",
+   "label": "Wood",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 87982,
+     "title": "RESEARCH ASSOCIATE III"
+    },
+    {
+     "count": 4,
+     "median_salary": 186368,
+     "title": "BUSINESS DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 150000,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 43889,
+     "title": "DUAL LANGUAGE TEACHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 68500,
+     "title": "ARCHITECTURAL DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 117349,
+     "title": "ASSISTANT SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 67229,
+     "title": "DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 320000,
+     "title": "FINE ART INSTRUCTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 84980,
+     "title": "GERIATRICS PHARMACY FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 159643,
+     "title": "LEAD QUANTITY SURVEYOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 63170,
+     "title": "OPERATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 147186,
+     "title": "PLANNER V"
+    },
+    {
+     "count": 2,
+     "median_salary": 71855,
+     "title": "POSTDOCTORAL INVESTIGATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 162236,
+     "title": "PRINCIPAL CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 190012,
+     "title": "PRINCIPAL STRATEGIC ASSET MANAGEMENT &AMP; RISK ADVISOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 79041,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 109533,
+     "title": "PROJECT ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 67025,
+     "title": "RESEARCH ASSISTANT II"
+    },
+    {
+     "count": 2,
+     "median_salary": 76097,
+     "title": "RESEARCH SCIENTIST I"
+    },
+    {
+     "count": 2,
+     "median_salary": 40540,
+     "title": "ROOMS DIVISION COORDINATOR"
     }
    ]
   },

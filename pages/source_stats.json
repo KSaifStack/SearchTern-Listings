@@ -1,23 +1,36 @@
 {
   "sources": [
     {
+      "source": "md",
+      "discovered": 0,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 17,
+      "new_per_second": null
+    },
+    {
       "source": "ats",
       "discovered": 0,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "new": 90,
+      "new": 9,
       "new_per_second": null
     },
     {
-      "source": "breadth",
-      "discovered": 0,
-      "valid": 0,
+      "source": "jobhive-closure",
+      "discovered": 65697,
+      "valid": 65686,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "new": 2,
+      "dropped": 11,
+      "boards_voted": 9,
+      "live_ids": 2261,
+      "new": 0,
       "new_per_second": null
     },
     {
@@ -32,326 +45,43 @@
       "new_per_second": null
     },
     {
-      "source": "freehire-pages",
-      "discovered": 7200,
-      "valid": 7050,
-      "seconds": 17.197,
-      "calls": 2,
+      "source": "ats-probe",
+      "discovered": 73477,
+      "valid": 6565,
+      "seconds": 719.311,
+      "calls": 1,
       "status": "ok",
-      "truncated": 1,
-      "note": "search",
+      "boards_ok": 629,
+      "boards_tried": 771,
+      "boards_skipped": 3432,
+      "truncated_boards": 180,
+      "note": "4203 boards in registry; 18616 postings beyond caps",
       "new": 0,
       "new_per_second": 0.0
-    },
-    {
-      "source": "freehire",
-      "discovered": 7050,
-      "valid": 5346,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "ecr",
-      "discovered": 8859,
-      "valid": 5090,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "oracle:WSP",
-      "discovered": 2000,
-      "valid": 2000,
-      "seconds": 31.216,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "oracle:Stantec",
-      "discovered": 1645,
-      "valid": 1645,
-      "seconds": 23.17,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "adp:Carolina Power",
-      "discovered": 309,
-      "valid": 309,
-      "seconds": 5.581,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Applied Materials",
-      "discovered": 239,
-      "valid": 239,
-      "seconds": 33.682,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "adp:Pennoni",
-      "discovered": 234,
-      "valid": 234,
-      "seconds": 4.279,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Qualcomm",
-      "discovered": 129,
-      "valid": 129,
-      "seconds": 20.229,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:CACI",
-      "discovered": 107,
-      "valid": 107,
-      "seconds": 17.333,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Arcadis",
-      "discovered": 77,
-      "valid": 77,
-      "seconds": 11.287,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "eightfold:Starbucks",
-      "discovered": 31,
-      "valid": 31,
-      "seconds": 5.95,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Kimley-Horn",
-      "discovered": 25,
-      "valid": 25,
-      "seconds": 14.639,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Peraton",
-      "discovered": 25,
-      "valid": 25,
-      "seconds": 15.254,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Novelis",
-      "discovered": 25,
-      "valid": 25,
-      "seconds": 15.193,
-      "calls": 1,
-      "status": "truncated",
-      "truncated_boards": 1,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:General Dynamics Mission Systems",
-      "discovered": 20,
-      "valid": 20,
-      "seconds": 12.152,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Dewberry",
-      "discovered": 20,
-      "valid": 20,
-      "seconds": 11.909,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "icims:Sargent & Lundy",
-      "discovered": 20,
-      "valid": 20,
-      "seconds": 13.249,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "bamboohr:Lunar Outpost",
-      "discovered": 11,
-      "valid": 11,
-      "seconds": 8.075,
-      "calls": 1,
-      "status": "ok",
-      "truncated_boards": 0,
-      "new": 0,
-      "new_per_second": 0.0
-    },
-    {
-      "source": "breadth:TheMuse",
-      "discovered": 1000,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Arbeitnow",
-      "discovered": 300,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:RemoteOK",
-      "discovered": 99,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Jobicy",
-      "discovered": 50,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Working Nomads",
-      "discovered": 32,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:HN who-is-hiring",
-      "discovered": 30,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:WeWorkRemotely",
-      "discovered": 25,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Himalayas",
-      "discovered": 20,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "breadth:Remotive",
-      "discovered": 12,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
     }
   ],
   "totals": {
-    "sources": 31,
-    "discovered": 29594,
-    "valid": 36146,
-    "new": 92,
-    "seconds": 260.395,
-    "failed": 4,
-    "closed": 12238,
-    "dead_links": 7
+    "sources": 5,
+    "discovered": 139174,
+    "valid": 85994,
+    "new": 26,
+    "seconds": 719.311,
+    "failed": 0,
+    "closed": 13851,
+    "dead_links": 2
   },
   "notes": [],
-  "generated_at": "2026-11-07T08:10:31Z",
-  "elapsed_seconds": 161.3,
+  "generated_at": "2026-11-07T09:13:41Z",
+  "elapsed_seconds": 774.3,
   "run": {
-    "tier": "medium",
+    "tier": "heavy",
     "workers": 12,
     "tiers_run": [
-      "medium"
+      "heavy"
     ],
     "published": {
-      "listings": 30998,
-      "searchtern": 60872
+      "listings": 29472,
+      "searchtern": 55773
     }
   }
 }
