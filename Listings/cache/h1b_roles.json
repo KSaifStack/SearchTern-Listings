@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T06:11:38Z",
+ "built_at": "2026-11-07T08:05:41Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6892,6 +6892,112 @@
     }
    ]
   },
+  "bristol myers squibb https bristolmyerssquibb wd5 myworkdayjobs com bms job new brunswick nj us quality control strategy and science spring co op r1608003": {
+   "fetched_at": "2026-11-07T08:05:37Z",
+   "label": "[Bristol Myers Squibb](https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/Quality-Control-Strategy-and-Science-Spring-Co-op_R1608003)",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 136262,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 16,
+     "median_salary": 160726,
+     "title": "SENIOR MANAGER, BIOSTATISTICS"
+    },
+    {
+     "count": 7,
+     "median_salary": 148526,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 155952,
+     "title": "SENIOR MANAGER, STATISTICAL PROGRAMMING"
+    },
+    {
+     "count": 6,
+     "median_salary": 139121,
+     "title": "MANAGER, STATISTICAL PROGRAMMING"
+    },
+    {
+     "count": 6,
+     "median_salary": 151326,
+     "title": "SENIOR MANAGER, CLINICAL DATA MANAGEMENT"
+    },
+    {
+     "count": 4,
+     "median_salary": 135394,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 187554,
+     "title": "ASSOCIATE DIRECTOR, PATIENT SAFETY SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 144282,
+     "title": "RESEARCH INVESTIGATOR, CLINICAL PHARMACOLOGY AND PHARMACOMET"
+    },
+    {
+     "count": 2,
+     "median_salary": 182212,
+     "title": "ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 182313,
+     "title": "ASSOCIATE DIRECTOR - US PREDICTIVE CUSTOMER ENGAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 228753,
+     "title": "ASSOCIATE SCIENTIFIC DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "DENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 242500,
+     "title": "INTERNAL MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 2,
+     "median_salary": 111395,
+     "title": "MANAGER, IT BUSINESS ANALYST, GLOBAL BIOMETRICS &AMP; DATA SCIEN"
+    },
+    {
+     "count": 2,
+     "median_salary": 120900,
+     "title": "SCIENTIST - BIOLOGICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 162500,
+     "title": "SENIOR MANAGER - STATISTICAL PROGRAMMING"
+    },
+    {
+     "count": 2,
+     "median_salary": 148034,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131703,
+     "title": "SENIOR SPECIALIST, VALIDATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155000,
+     "title": "SR. MANAGER, PRINCIPAL DATA ENGINEER"
+    }
+   ]
+  },
   "brunswick https brunswick wd1 myworkdayjobs com en us search job fond du lac wi mercury marine product management intern oils lubricants jr 051213": {
    "fetched_at": "2026-11-07T02:21:16Z",
    "label": "[Brunswick](https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213)",
@@ -10255,6 +10361,22 @@
      "count": 2,
      "median_salary": 176663,
      "title": "PROGRAM MANAGER"
+    }
+   ]
+  },
+  "constellation brands": {
+   "fetched_at": "2026-11-07T08:05:38Z",
+   "label": "Constellation Brands",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 141898,
+     "title": "SENIOR ENTERPRISE DATA WAREHOUSE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 81000,
+     "title": "SENIOR SPECIALIST, ESG REPORTING"
     }
    ]
   },
@@ -19347,6 +19469,112 @@
      "count": 1,
      "median_salary": 93122,
      "title": "SR. ELECTRICAL ENGINEER"
+    }
+   ]
+  },
+  "innovativ pharma": {
+   "fetched_at": "2026-11-07T08:05:39Z",
+   "label": "Innovativ Pharma, Inc.",
+   "titles": [
+    {
+     "count": 41,
+     "median_salary": 102380,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 105997,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 7,
+     "median_salary": 88358,
+     "title": "COMPUTER PROGRAMMER"
+    },
+    {
+     "count": 5,
+     "median_salary": 86736,
+     "title": "SYSTEM ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 130000,
+     "title": "AUTOMATION ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 82877,
+     "title": "SAP INTEGRATION ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 105997,
+     "title": "DIGITAL ENGINEER FRONT-END ENGINEER SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 64000,
+     "title": "OPERATIONS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 94973,
+     "title": "PHYSICAL THERAPIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 240000,
+     "title": "SENIOR COUNSEL"
+    },
+    {
+     "count": 3,
+     "median_salary": 78500,
+     "title": "SYSTEM ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 120000,
+     "title": "AI APPLIED SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 94682,
+     "title": "APPLICATION ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 76960,
+     "title": "ARCHITECTURAL DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146035,
+     "title": "ASSOCIATE COUNSEL"
+    },
+    {
+     "count": 2,
+     "median_salary": 104000,
+     "title": "ASSOCIATE MANAGEMENT CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "AUTOMATION AND CONTROL SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 99549,
+     "title": "AZURE CLOUD ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 80622,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 99351,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
     }
    ]
   },
@@ -32116,6 +32344,11 @@
      "title": "SR. SOFTWARE ENGINEER"
     }
    ]
+  },
+  "salesdraft recruiting": {
+   "fetched_at": "2026-11-07T08:05:40Z",
+   "label": "SalesDraft Recruiting",
+   "titles": []
   },
   "salesforce": {
    "fetched_at": "2026-10-25T20:24:58Z",
