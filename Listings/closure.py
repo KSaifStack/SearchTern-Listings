@@ -211,9 +211,16 @@ def filter_closed(df, columns=("ats_type", "ats_id")):
     return df.drop(index=drop), len(drop), unverified
 
 
-def drop_vote_columns(df, columns=("ats_type", "ats_id")):
-    """Remove the join columns so they never reach a published feed."""
+def drop_internal_columns(df):
+    """Drop the pipeline's own helper columns before publishing.
+
+    This used to drop ``ats_type``/``ats_id`` on the theory that they were only
+    join columns. They are not: they are the requisition's identity, they are
+    what the ATS itself returned, and dropping them published 0% identifiable
+    rows -- which silently disabled identity dedup downstream. Only columns this
+    pipeline invents (``_``-prefixed) are internal.
+    """
     if df is None or len(df) == 0:
         return df
-    present = [c for c in columns if c in df.columns]
-    return df.drop(columns=present) if present else df
+    internal = [c for c in df.columns if str(c).startswith("_")]
+    return df.drop(columns=internal) if internal else df

@@ -25,6 +25,10 @@ import time
 
 STARVATION_HOURS = 72.0
 YIELD_REFERENCE = 50.0
+# A board that returns nothing three visits running is not worth another
+# round trip, but it is not dead either -- employers open boards in bursts.
+ZERO_RUNS = 3
+PROBATION_HOURS = 24.0 * 7
 LANE_WEIGHT = {"priority": 3.0, "standard": 1.0, "bulk": 0.2}
 DEFAULT_CAP = 1200
 
@@ -72,11 +76,14 @@ def score(entry, now: float, lane: str = "standard", yield_weight: float = 1.0) 
     return wait_hours * yield_factor * LANE_WEIGHT.get(lane, 1.0)
 
 
-def plan(boards, state, cap=None, now=None, lane_of=None, yield_weight=1.0):
+def plan(boards, state, cap=None, now=None, lane_of=None, yield_weight=1.0, skip=()):
     """Split ``boards`` into (probe now, defer). Highest score first."""
     now = time.time() if now is None else now
     cap = DEFAULT_CAP if cap is None else cap
     lane_of = lane_of or {}
+    skip = set(skip or ())
+    if skip:
+        boards = [b for b in boards if f"{b[1]}|{b[2]}" not in skip]
 
     def key(board):
         entry = state.get(f"{board[1]}|{board[2]}")
@@ -90,6 +97,29 @@ def plan(boards, state, cap=None, now=None, lane_of=None, yield_weight=1.0):
 
 
 def record(state, ats, slug, rows, now=None):
-    """Store this probe's timestamp and yield for the next ordering decision."""
-    state[f"{ats}|{slug}"] = {"at": now if now is not None else time.time(),
-                              "rows": int(rows or 0)}
+    """Store this probe's timestamp, yield and zero-run streak."""
+    key = f"{ats}|{slug}"
+    prior = state.get(key)
+    zero = prior.get("zero", 0) if isinstance(prior, dict) else 0
+    rows = int(rows or 0)
+    state[key] = {"at": now if now is not None else time.time(),
+                  "rows": rows,
+                  "zero": zero + 1 if rows == 0 else 0}
+
+
+def skip_boards(state, runs=ZERO_RUNS, now=None, probation_hours=PROBATION_HOURS):
+    """Boards to leave out of the rotation this run.
+
+    Zero-yield for ``runs`` consecutive visits, but never for good: after
+    ``probation_hours`` the board is retried once, so one that wakes up comes
+    back on its own. Retirement is a saving, not a deletion.
+    """
+    now = time.time() if now is None else now
+    out = set()
+    for key, entry in state.items():
+        if not isinstance(entry, dict) or entry.get("zero", 0) < runs:
+            continue
+        if (now - last_probe(entry)) / 3600.0 >= probation_hours:
+            continue
+        out.add(key)
+    return out

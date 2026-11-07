@@ -1,9 +1,12 @@
+import identity
 from readme_utils import canonical_url
 
 DEDUP_SUBSET = ["company", "role", "location"]
 # A requisition id is the posting's identity; the URL is only its address. Same
 # job reached through a tracker link and the employer's ATS must collapse, so
-# (ats, id) wins over URL when both are known.
+# (ats, id) wins over URL when both are known. Sources that publish no id get
+# one derived from their URL (identity.pairs), so the identity rule applies to
+# every source instead of only jobhive.
 ID_COLUMNS = ("ats_type", "ats_id")
 
 
@@ -21,12 +24,10 @@ def dedup_keys(df):
         return fallback
     links = df["link"].map(canonical_url)
     keys = ("url|" + links).where(links.ne(""), fallback)
-    if all(column in df.columns for column in ID_COLUMNS):
-        ats = df["ats_type"].astype(str).str.strip().str.lower()
-        req = df["ats_id"].astype(str).str.strip()
-        identified = req.ne("") & req.ne("nan") & req.ne("none") & ats.ne("")
-        keys = ("id|" + ats + "|" + req).where(identified, keys)
-    return keys
+    ats, req = identity.pairs(df)
+    ats = ats.str.lower()
+    identified = ats.ne("") & req.ne("") & req.str.lower().ne("nan")
+    return ("id|" + ats + "|" + req).where(identified, keys)
 
 
 def dedupe(df):

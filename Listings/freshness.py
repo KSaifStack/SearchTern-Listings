@@ -73,6 +73,31 @@ def payload(snapshot, run_meta=None, health=None, now=None):
     }
 
 
+def attach_row_times(frame, first_by_index, now_iso, fresh_buckets=(), source_of=None,
+                     bucket_of=None):
+    """Add per-row ``first_seen_at`` / ``last_seen_at`` / ``verified_at``.
+
+    ``first_by_index`` maps a row's index label to the first run that saw it, so
+    a republished row keeps its real first-seen date instead of today's.
+    ``verified_at`` is only stamped for rows whose source was actually re-fetched
+    this run: a cached copy is not evidence the posting is still open.
+    """
+    if frame is None or len(frame) == 0:
+        return frame
+    out = frame.copy()
+    out["first_seen_at"] = out.index.map(lambda i: str(first_by_index.get(i, "") or ""))
+    out["last_seen_at"] = now_iso
+    if fresh_buckets and source_of is not None:
+        bucket_of = bucket_of or source_of
+        fresh = set(fresh_buckets)
+        out["verified_at"] = [
+            now_iso if bucket_of(row) in fresh else "" for _, row in out.iterrows()
+        ]
+    else:
+        out["verified_at"] = now_iso
+    return out
+
+
 def write_json(path, snapshot, run_meta=None, health=None):
     """Write the dashboard payload. Returns it, or None on failure."""
     try:

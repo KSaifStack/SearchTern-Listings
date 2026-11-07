@@ -131,12 +131,16 @@ def test_workday_snapshot_votes_and_closes():
     assert unverified == 0, unverified
 
 
-def test_drop_vote_columns():
+def test_drop_internal_columns_keeps_identity():
     closure.reset()
     df = frame([["Acme", "greenhouse", "1", "x"]])
-    out = closure.drop_vote_columns(df)
-    assert "ats_type" not in out.columns and "ats_id" not in out.columns
-    assert list(out.columns) == ["company", "role"]
+    df["_vote"] = True
+    out = closure.drop_internal_columns(df)
+    # Identity is published data: dropping it published 0% identifiable rows.
+    assert list(out["ats_type"]) == ["greenhouse"]
+    assert list(out["ats_id"]) == ["1"]
+    assert "_vote" not in out.columns
+    assert list(out.columns) == ["company", "ats_type", "ats_id", "role"]
 
 
 def test_empty_frame():

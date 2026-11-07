@@ -33,8 +33,10 @@ import closure
 import discover_boards
 import echojobs
 import ecr_source
+import enrich
 import freshness
 import h1b_enrich
+import identity
 import ingest_stats
 import jobspy_source
 import markdown_sources
@@ -1529,6 +1531,13 @@ def main(argv=None):
         # staleness x last-known yield (board_scheduler), with a starvation
         # guard. Deferred boards keep their old score and rise next run.
         probe_cap = int(os.environ.get("SEARCHTERN_PROBE_MAX_BOARDS", "1200"))
+        # Zero-yield boards are parked instead of re-probed every run, but only
+        # until their probation expires -- a board that wakes up returns by itself.
+        _parked = board_scheduler.skip_boards(probe_state)
+        if _parked:
+            warm = [w for w in warm if f"{w[1]}|{w[2]}" not in _parked]
+            print(f"  {len(_parked)} zero-yield boards parked this run "
+                  f"(each retried within {board_scheduler.PROBATION_HOURS / 24:.0f} days)")
         warm, deferred = board_scheduler.plan(warm, probe_state, probe_cap)
         if warm:
             print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped "
@@ -1914,9 +1923,11 @@ def main(argv=None):
                             valid=_before - _rd_dropped - _ld_dropped,
                             dropped=_rd_dropped + _ld_dropped,
                             boards_voted=_cov["boards"], live_ids=_cov["live_ids"])
-    # The join columns exist only to answer that question — never publish them.
-    readme_result = closure.drop_vote_columns(readme_result)
-    listings_result = closure.drop_vote_columns(listings_result)
+    # Identity columns are not join litter: ats_type/ats_id are what the ATS
+    # itself returned, and hiding them published 0% identifiable rows. Only
+    # pipeline-invented columns are internal.
+    readme_result = closure.drop_internal_columns(readme_result)
+    listings_result = closure.drop_internal_columns(listings_result)
 
     # ── Markdown GitHub sources (light tier, no API calls) ──────────────────────
     md_df = pd.DataFrame()
@@ -2256,10 +2267,13 @@ def main(argv=None):
         is_new = is_new - dead_keys
 
     obs = now.isoformat()
-    for k in current_by_key:
+    _first_by_index = {}
+    for k, row in current_by_key.items():
         prior = seen.get(k, {})
         seen[k] = {"first": prior.get("first", obs), "last": obs}
+        _first_by_index[row.name] = seen[k]["first"]
     _save_seen(seen)
+    _new_index = {current_by_key[k].name for k in is_new if k in current_by_key}
 
     root_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
     digest_dir = os.path.join(root_dir, "digests")
@@ -2414,6 +2428,19 @@ def main(argv=None):
         n_with_desc = listings_result["description"].notna().sum()
         print(f"  Description coverage: {n_with_desc:,}/{len(listings_result):,} rows")
 
+    # Phase 2, opt-in: fetch a description only for new rows that need one.
+    # Off by default because it adds one fetch per candidate and changes run
+    # time; SEARCHTERN_ENRICH=1 turns it on with a per-run cap.
+    if os.environ.get("SEARCHTERN_ENRICH", "0") == "1" and "description" in listings_result.columns:
+        _cand = enrich.plan(
+            listings_result,
+            cap=int(os.environ.get("SEARCHTERN_ENRICH_CAP", "200")),
+            new_only=lambda row: row.name in _new_index,
+        )
+        _estats = enrich.apply_plan(listings_result, _cand, workers=min(8, WORKERS))
+        print(f"  Enrichment: {_estats['filled']}/{_estats['planned']} descriptions "
+              f"filled in {_estats['seconds']}s ({_estats['failed']} failed)")
+
     # Rows with no scraped description get a synthesized one so the feed and
     # Google-for-Jobs JSON-LD always carry substantive text.
     _TYPE_LABEL = {
@@ -2444,6 +2471,24 @@ def main(argv=None):
         print(
             f"  Description after synthesize: {listings_result['description'].notna().sum():,}/{len(listings_result):,} rows"
         )
+
+    # Per-row freshness and stable identity, applied to every published frame:
+    # first_seen_at survives republishing, verified_at only claims what this run
+    # actually re-fetched.
+    _fresh_buckets = {b for b, ok in buckets_fresh.items() if ok}
+    listings_result = freshness.attach_row_times(
+        listings_result, _first_by_index, obs, _fresh_buckets, _row_source, _seen_bucket)
+    searchtern_result = freshness.attach_row_times(
+        searchtern_result, _first_by_index, obs, _fresh_buckets, _row_source, _seen_bucket)
+    for _name, _cov_frame in (("listings", listings_result), ("searchtern", searchtern_result)):
+        _cov = identity.coverage(_cov_frame)
+        print(f"  Identity in {_name}: {_cov['identified']:,}/{_cov['rows']:,} rows "
+              f"carry ats_type+ats_id ({_cov['pct']:.1f}%)")
+    listings_result = identity.fill(listings_result)
+    searchtern_result = identity.fill(searchtern_result)
+    readme_result = identity.fill(readme_result)
+    if not priority_df.empty:
+        priority_df = identity.fill(priority_df)
 
     # One dtype per column before anything is published — the JSON writer,
     # README tables and every downstream consumer get floats/strings, never a

@@ -79,7 +79,7 @@ def test_board_rows_reads_every_payload_shape():
 def test_record_round_trips_into_reordering():
     state = {}
     board_scheduler.record(state, "Ashby", "acme", 40, now=1000.0)
-    assert state["Ashby|acme"] == {"at": 1000.0, "rows": 40}
+    assert state["Ashby|acme"] == {"at": 1000.0, "rows": 40, "zero": 0}
 
 
 # ── conditional GET ───────────────────────────────────────────────────────────
