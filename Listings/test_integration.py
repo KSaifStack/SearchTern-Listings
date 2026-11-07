@@ -46,13 +46,13 @@ def _row(company, role, link, ats_type="", ats_id="", days_old=1, **extra):
 def test_identity_fills_from_url_and_collapses_cross_source():
     frame = pd.DataFrame([
         # jobhive: id present, link on a different host
-        _row("Acme", "SWE Intern", "https://jobs.acme.example/req/401",
-             "greenhouse", "401"),
+        _row("Acme", "SWE Intern", "https://jobs.acme.example/req/40101",
+             "greenhouse", "40101"),
         # probe: same requisition, no id, canonical ATS URL
-        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/401",
+        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/40101",
              source="ats"),
         # probe: distinct requisition, same title, must survive
-        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/402",
+        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/40202",
              source="ats"),
     ])
     out = dedup.dedupe(frame)
@@ -60,18 +60,18 @@ def test_identity_fills_from_url_and_collapses_cross_source():
     # Dedup decides which row survives; identity.fill is what stamps the id on
     # the survivor (the probe copy never carried one).
     out = identity.fill(out)
-    assert sorted(out["ats_id"]) == ["401", "402"]
+    assert sorted(out["ats_id"]) == ["40101", "40202"]
     assert identity.coverage(out)["pct"] == 100.0
 
 
 def test_closed_row_dropped_and_unvoted_board_survives():
     closure.reset()
-    closure.record_snapshot("Greenhouse", "Acme", ["401"])
+    closure.record_snapshot("Greenhouse", "Acme", ["40101"])
     frame = identity.fill(pd.DataFrame([
-        _row("Acme", "Open role", "https://boards.greenhouse.io/acme/jobs/401"),
-        _row("Acme", "Closed role", "https://boards.greenhouse.io/acme/jobs/999"),
+        _row("Acme", "Open role", "https://boards.greenhouse.io/acme/jobs/40101"),
+        _row("Acme", "Closed role", "https://boards.greenhouse.io/acme/jobs/90999"),
         # Different employer: its board never voted, so it cannot be closed.
-        _row("Beta", "Unprobed role", "https://boards.greenhouse.io/beta/jobs/7"),
+        _row("Beta", "Unprobed role", "https://boards.greenhouse.io/beta/jobs/70007"),
     ]))
     kept, dropped, unverified = closure.filter_closed(frame)
     assert dropped == 1
@@ -84,7 +84,7 @@ def test_closed_row_dropped_and_unvoted_board_survives():
 def test_published_record_keeps_identity_and_timestamps():
     closure.reset()
     frame = identity.fill(pd.DataFrame([
-        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/401"),
+        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/40101"),
     ]))
     frame = closure.drop_internal_columns(frame)
     frame = freshness.attach_row_times(
@@ -94,7 +94,7 @@ def test_published_record_keeps_identity_and_timestamps():
     assert len(records) == 1
     record = records[0]
     assert record["ats_type"] == "greenhouse"
-    assert record["ats_id"] == "401"
+    assert record["ats_id"] == "40101"
     assert record["first_seen_at"] == "2026-11-01T00:00:00+00:00"
     assert record["last_seen_at"] == NOW.isoformat()
     assert record["verified_at"] == NOW.isoformat()
@@ -102,7 +102,7 @@ def test_published_record_keeps_identity_and_timestamps():
 
 def test_unfetched_source_never_claims_verification():
     frame = pd.DataFrame([_row("Acme", "SWE Intern",
-                               "https://boards.greenhouse.io/acme/jobs/401",
+                               "https://boards.greenhouse.io/acme/jobs/40101",
                                source="ecr")])
     out = freshness.attach_row_times(
         frame, {frame.index[0]: "2026-11-01T00:00:00+00:00"}, NOW.isoformat(),
@@ -113,8 +113,8 @@ def test_unfetched_source_never_claims_verification():
 
 def test_stale_listing_is_not_published():
     frame = pd.DataFrame([
-        _row("Acme", "Old role", "https://boards.greenhouse.io/acme/jobs/1", days_old=400),
-        _row("Acme", "Fresh role", "https://boards.greenhouse.io/acme/jobs/2", days_old=1),
+        _row("Acme", "Old role", "https://boards.greenhouse.io/acme/jobs/11111", days_old=400),
+        _row("Acme", "Fresh role", "https://boards.greenhouse.io/acme/jobs/22222", days_old=1),
     ])
     records = readme_generation._build_json_records(frame)
     assert [r["role"] for r in records] == ["Fresh role"]
@@ -122,8 +122,9 @@ def test_stale_listing_is_not_published():
 
 def test_publication_is_consistent_between_feeds_and_shards(tmp_path):
     frame = identity.fill(pd.DataFrame([
-        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/401"),
-        _row("Beta", "Data Intern", "https://jobs.lever.co/beta/abc-123", days_old=2),
+        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/40101"),
+        _row("Beta", "Data Intern",
+             "https://jobs.lever.co/beta/0dfbe31e-89ef-4a1b-9c2d-1234567890ab", days_old=2),
     ]))
     frame = freshness.attach_row_times(frame, {}, NOW.isoformat(), {"jobhive"})
     readme_generation.write_listings_json(frame, output_dir=str(tmp_path),
@@ -140,6 +141,22 @@ def test_publication_is_consistent_between_feeds_and_shards(tmp_path):
     manifest = shards.publish(frame, str(tmp_path / "pages"), name="listings")
     assert manifest["rows"] == 2
     assert sum(part["rows"] for part in manifest["shards"]) == 2
+
+
+def test_links_with_no_canonical_form_are_not_all_duplicates():
+    import readme_generation as rg
+
+    frame = pd.DataFrame([
+        _row("Acme", "SWE Intern", "https://boards.greenhouse.io/acme/jobs/40101"),
+        _row("Beta", "Data Intern", "https://jobs.lever.co/beta/x"),
+    ])
+    original = rg.canonical_url
+    rg.canonical_url = lambda link: ""       # unparseable canonical form
+    try:
+        records = rg._build_json_records(frame)
+    finally:
+        rg.canonical_url = original
+    assert len(records) == 2
 
 
 def test_zero_yield_boards_park_and_return_after_probation():

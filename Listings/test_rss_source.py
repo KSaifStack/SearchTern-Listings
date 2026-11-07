@@ -24,6 +24,7 @@ def test_rss_items_become_rows():
     assert row["link"] == "https://acme.example/jobs/1"
     assert row["source"] == "rss"
     assert row["description"] == "Build things."
+    assert row["date"] == "2026-11-04"          # RFC 822 -> pipeline date
 
 
 def test_atom_entries_become_rows():
@@ -31,6 +32,17 @@ def test_atom_entries_become_rows():
     assert len(rows) == 1
     assert rows[0]["link"] == "https://beta.example/jobs/9"
     assert rows[0]["role"] == "Data Intern"
+    assert rows[0]["date"] == "2026-11-05"     # ISO 8601 -> pipeline date
+    assert rss_source._iso_date("garbage") == ""
+
+
+def test_aggregator_title_splits_into_employer_and_role():
+    feed = b"""<rss><channel><title>We Work Remotely</title>
+<item><title>Bybit: Animator Intern</title><link>https://weworkremotely.com/jobs/1</link></item>
+</channel></rss>"""
+    row = rss_source.parse(feed, feed_name="We Work Remotely")[0]
+    assert row["company"] == "Bybit"
+    assert row["role"] == "Animator Intern"
 
 
 def test_broken_feed_returns_nothing():

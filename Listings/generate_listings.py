@@ -43,6 +43,7 @@ import markdown_sources
 import pandas as pd
 import priority_boards
 import readme_generation
+import rss_source
 import runway_source
 import shards
 import sitemap_sources
@@ -1762,6 +1763,35 @@ def main(argv=None):
         listings_result = _dedupe(listings_result)
         print(f"  Breadth added: {len(b_for_readme)} to README, {len(b_for_listings)} to listings")
 
+    # ── RSS/Atom feeds (light tier, opt-in) ──────────────────────────────────────
+    # SEARCHTERN_RSS_URLS names the feeds; with it unset this block costs nothing
+    # and changes nothing. Feeds are the only authorized read path for employers
+    # that publish a job feed and nothing else.
+    rss_df = pd.DataFrame()
+    if rss_source.configured() and TIER_LIGHT in RUN_TIERS:
+        print("Fetching configured RSS feeds...")
+        _rss_rows, _rss_stats = rss_source.fetch(workers=min(8, WORKERS))
+        for _url, _count, _status in _rss_stats:
+            print(f"  rss {_status}: {_count:,} rows  {_url}")
+            ingest_stats.record(f"rss:{_url}", discovered=_count, note=_status)
+        if _rss_rows:
+            rss_df = _classify_freehire(pd.DataFrame(_rss_rows))
+            rss_df = _stamp(rss_df, "rss", now)
+            rss_df = _dedup_across(readme_result, rss_df)
+            r_for_readme = rss_df[
+                ~rss_df["country_iso"].isin(['DE','AT','CH','FR','PL','NO','SE','DK',
+                                             'NL','IT','ES','PT','RO','HU','CZ','SK',
+                                             'HR','BG','FI','LU','BE','MT','CY'])
+                & (_to_dt(rss_df["date"]) >= now - pd.Timedelta(days=60))
+                & rss_df["role"].str.match(r'^[^\x80-\xFF]+$', na=False)
+            ].copy()
+            r_for_listings = rss_df[
+                _to_dt(rss_df["date"]) >= now - pd.Timedelta(days=90)
+            ].copy()
+            readme_result = _dedupe(pd.concat([readme_result, r_for_readme], ignore_index=True))
+            listings_result = _dedupe(pd.concat([listings_result, r_for_listings], ignore_index=True))
+            print(f"  RSS added: {len(r_for_readme)} to README, {len(r_for_listings)} to listings")
+
     # ── New ATS adapters (medium tier) ───────────────────────────────────────────
     # Eightfold, Oracle Recruiting Cloud, iCIMS, ADP, BambooHR. All public
     # endpoints, verified live 2026-11-02 (docs/reverse-engineering/ats-expansion.md).
@@ -2194,17 +2224,20 @@ def main(argv=None):
     # be outside the run's lookback window).
     def _row_source(row):
         src = str(row.get("source") or "").strip()
-        return src if src in ("jobhive", "freehire", "breadth", "ecr", "ats", "priority") else "md"
+        return src if src in ("jobhive", "freehire", "breadth", "ecr", "ats",
+                              "priority", "rss") else "md"
 
 
     def _seen_bucket(src):
-        return src if src in ("jobhive", "freehire", "breadth", "ecr", "ats", "priority") else "md"
+        return src if src in ("jobhive", "freehire", "breadth", "ecr", "ats",
+                              "priority", "rss") else "md"
 
 
     buckets_fresh = {
         "jobhive": True,
         "freehire": TIER_MEDIUM in RUN_TIERS,
         "breadth": TIER_MEDIUM in RUN_TIERS,
+        "rss": bool(rss_source.configured()) and TIER_LIGHT in RUN_TIERS,
         "ecr": TIER_MEDIUM in RUN_TIERS,
         "ats": TIER_HEAVY in RUN_TIERS,
         "priority": TIER_PRIORITY in RUN_TIERS,
@@ -2476,10 +2509,13 @@ def main(argv=None):
     # first_seen_at survives republishing, verified_at only claims what this run
     # actually re-fetched.
     _fresh_buckets = {b for b, ok in buckets_fresh.items() if ok}
+    def _bucket_of_row(row):
+        return _seen_bucket(_row_source(row))
+
     listings_result = freshness.attach_row_times(
-        listings_result, _first_by_index, obs, _fresh_buckets, _row_source, _seen_bucket)
+        listings_result, _first_by_index, obs, _fresh_buckets, _row_source, _bucket_of_row)
     searchtern_result = freshness.attach_row_times(
-        searchtern_result, _first_by_index, obs, _fresh_buckets, _row_source, _seen_bucket)
+        searchtern_result, _first_by_index, obs, _fresh_buckets, _row_source, _bucket_of_row)
     for _name, _cov_frame in (("listings", listings_result), ("searchtern", searchtern_result)):
         _cov = identity.coverage(_cov_frame)
         print(f"  Identity in {_name}: {_cov['identified']:,}/{_cov['rows']:,} rows "

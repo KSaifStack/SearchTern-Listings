@@ -11,13 +11,17 @@ without touching a single network call until someone opts in.
 """
 
 import os
+import re
 import xml.etree.ElementTree as ET
+from datetime import UTC, datetime
 
 import readme_utils
 
 URLS_ENV = "SEARCHTERN_RSS_URLS"
 _ATOM = "{http://www.w3.org/2005/Atom}"
 _RSS_CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
+# Aggregator titles carry the employer: "Bybit: Animator Intern".
+_COMPANY_TITLE = re.compile(r"^(.{2,50}?):\s+(.{3,})$")
 
 
 def configured():
@@ -48,12 +52,47 @@ def _link(node):
     return ""
 
 
+def _iso_date(raw):
+    """RFC 822 (RSS) or ISO 8601 (Atom) date -> ``YYYY-MM-DD``, else "".
+
+    The pipeline's windows compare against ``YYYY-MM-DD`` strings; a raw RSS
+    ``pubDate`` is not parseable by ``pd.to_datetime`` in every pandas build.
+    """
+    raw = str(raw or "").strip()
+    if not raw:
+        return ""
+    try:
+        from email.utils import parsedate_to_datetime
+
+        return parsedate_to_datetime(raw).astimezone(UTC).date().isoformat()
+    except (TypeError, ValueError, IndexError):
+        pass
+    try:
+        return datetime.fromisoformat(raw.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        return ""
+
+
+def _company_role(title, feed_name):
+    """Split an aggregator title into employer and role.
+
+    Feed titles are mostly ``Employer: Role`` (We Work Remotely, Remotive). The
+    feed host is not the employer, and the publisher blocks aggregator company
+    names, so a feed that kept the host as company published nothing.
+    """
+    match = _COMPANY_TITLE.match(str(title or "").strip())
+    if match and match.group(1).strip():
+        return match.group(1).strip(), match.group(2).strip()
+    return feed_name, str(title or "").strip()
+
+
 def _row(title, link, description, date, feed_name):
+    company, role = _company_role(title, feed_name)
     return {
-        "company": feed_name,
-        "role": title,
+        "company": company,
+        "role": role,
         "location": "",
-        "date": date,
+        "date": _iso_date(date),
         "link": link,
         "is_remote": "false",
         "salary_min": None,

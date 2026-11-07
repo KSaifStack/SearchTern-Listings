@@ -90,10 +90,13 @@ def _build_json_records(dataframe):
         record["location"] = clean_location(record.get("location", ""))
         record = {k: _json_safe(v) for k, v in record.items()}
 
+        # A link whose canonical form is empty is not a duplicate of every other
+        # such link. 7,920 markdown rows collapse onto one row otherwise (2026-11-07).
         key = canonical_url(link)
-        if key in seen:
-            continue
-        seen.add(key)
+        if key:
+            if key in seen:
+                continue
+            seen.add(key)
         clean_records.append(record)
 
     return clean_records
