@@ -95,16 +95,22 @@ Two bugs were found and fixed while doing this: `rss_source` was never imported
 into the pipeline, and feed titles keep the employer (`Bybit: Animator Intern`)
 so the aggregator host was being published as the company.
 
-## 7. Timestamps
+## 7. Timestamps — measured across two runs on the real feed
 
-`last_seen_at` and `verified_at` are present on 100% of rows; `first_seen_at` is
-only as complete as the seen log, which was contaminated in the scratch copy
-(32.1%). Cross-run stability is what the design guarantees: `first_seen_at` is
-read from the seen log and never overwritten, and `verified_at` is only stamped
-for rows whose source bucket was re-fetched. Covered by
-`test_published_record_keeps_identity_and_timestamps` and
-`test_unfetched_source_never_claims_verification`; a clean multi-run check is
-still owed against production state.
+Ran `attach_row_times` twice over the published 29,282-row feed with the real
+`cache/seen.json`: once with every bucket fresh, once simulating a run where
+only `jobhive` and `ats` were fetched.
+
+| | all buckets fresh | jobhive + ats only |
+|---|---|---|
+| `first_seen_at` populated | 29,282 | 29,282 |
+| `verified_at` populated | 29,282 | 16,004 (= exactly the jobhive+ats rows) |
+| md rows claiming verification | — | **0** |
+| `first_seen_at` identical to run 1 | — | yes, all 29,282 |
+
+So the conditional claim is real: a cached row keeps its first-seen date and is
+never presented as re-verified. The 32.1% seen earlier was scratch-state
+contamination, not the writer.
 
 ## 8. Consumers
 
@@ -114,6 +120,34 @@ still owed against production state.
 | `pages/feed.xml` | parses, 200 items |
 | `write_listings_json` schema | superset: adds `ats_type`, `ats_id`, `first_seen_at`, `last_seen_at`, `verified_at`; no key removed |
 | Test suite | 98 → 99 tests pass; ruff clean on touched files |
+
+## 9. The new-listing wave is real and the seen log is why
+
+Replayed the publication logic against production state: 88,609 seen entries
+inside the 120-day window, 28,358 current keys.
+
+| Metric | Value |
+|---|---|
+| Keys in feed | 28,358 |
+| Counted new on this run | **13,789 (48.6%)** |
+| Counted closed | **74,040** |
+| Second run (after persist) new / closed | 0 / 74,040 |
+| New keys that are the same job under another source bucket | 76 (0.6%) |
+| Closed keys that are live under another bucket | 2,558 (3.5%) |
+| New rows by bucket | jobhive 11,736, freehire 689, md 658, ats 623 |
+
+The dedup key change is **not** the cause — bucket reclassification explains
+under 1% of the wave. The cause is the seen key itself:
+`bucket|company|role|location` is exact text, so a jobhive row whose title or
+location string is re-punctuated counts as new while its previous key is
+counted closed. On the same day the feed gained 703 genuinely new links, the
+metrics claimed 13,789 new postings and 74,040 closures.
+
+Fix (not shipped, needs a decision): store the requisition id on each seen
+entry and treat a row as known when its `(ats_type, ats_id)` was seen under any
+key. That is a one-time migration — the first run after it retires the text
+keys and reports one more wave — which is exactly why it should be a deliberate
+change, not a silent one.
 
 ## Gaps left open
 
@@ -125,3 +159,7 @@ still owed against production state.
 4. RSS has no employer-hosted feed configured; aggregator feeds cannot publish.
 5. Parking needs three consecutive runs with the new `record()` before it
    retires anything.
+6. Seen-log identity migration (section 9): 13,789 new / 74,040 closed per run
+   is text churn, not board movement.
+7. `pages/searchtern.json` is still 67.9 MB uncompressed on the default path;
+   shards + manifest exist but are opt-in behind `SEARCHTERN_SHARDS=1`.
