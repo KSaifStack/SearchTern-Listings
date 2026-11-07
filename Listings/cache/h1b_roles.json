@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T20:37:16Z",
+ "built_at": "2026-11-07T23:32:39Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -10,6 +10,17 @@
    "fetched_at": "2026-10-25T16:10:49Z",
    "label": "3dayblindssales",
    "titles": []
+  },
+  "48forty": {
+   "fetched_at": "2026-11-07T23:32:26Z",
+   "label": "48forty",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "PRINCIPAL DATA ENGINEERING LEAD"
+    }
+   ]
   },
   "7 eleven https my7elevenhr wd12 myworkdayjobs com careers job ssc irving tx development analyst intern r26 6319": {
    "fetched_at": "2026-11-05T10:41:11Z",
@@ -652,6 +663,11 @@
      "title": "PRODUCT MANAGER"
     }
    ]
+  },
+  "allenlundcompany": {
+   "fetched_at": "2026-11-07T23:32:27Z",
+   "label": "allenlundcompany",
+   "titles": []
   },
   "allianceanimalhealth": {
    "fetched_at": "2026-10-24T20:11:12Z",
@@ -2510,6 +2526,32 @@
    "label": "andurilindustries",
    "titles": []
   },
+  "antares": {
+   "fetched_at": "2026-11-07T23:32:28Z",
+   "label": "antares",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 139901,
+     "title": "ASSOCIATE DIRECTOR, COMMERCIAL DATA INSIGHTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 160555,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 94000,
+     "title": "PROJECT ENGINEER LEVEL 1"
+    },
+    {
+     "count": 1,
+     "median_salary": 160555,
+     "title": "VICE PRESIDENT, SQL DEVELOPMENT"
+    }
+   ]
+  },
   "aogarciaagency": {
    "fetched_at": "2026-10-24T22:23:14Z",
    "label": "aogarciaagency",
@@ -2949,6 +2991,11 @@
     }
    ]
   },
+  "arcboatcompany": {
+   "fetched_at": "2026-11-07T23:32:28Z",
+   "label": "arcboatcompany",
+   "titles": []
+  },
   "arch capital": {
    "fetched_at": "2026-10-25T19:01:28Z",
    "label": "Arch Capital Group",
@@ -3337,6 +3384,11 @@
      "title": "DATAVERSE DELIVERY MANAGER"
     }
    ]
+  },
+  "asm": {
+   "fetched_at": "2026-11-07T23:32:29Z",
+   "label": "asm",
+   "titles": []
   },
   "asml": {
    "fetched_at": "2026-10-28T14:49:44Z",
@@ -4402,6 +4454,37 @@
      "title": "SR PROJECT CONTROLS MANAGER"
     }
    ]
+  },
+  "atlanticare": {
+   "fetched_at": "2026-11-07T23:32:30Z",
+   "label": "AtlantiCare",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 500000,
+     "title": "CARDIOLOGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 240000,
+     "title": "PRIMARY CARE PHYSICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 275000,
+     "title": "HOSPITALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 450000,
+     "title": "ONCOLOGIST"
+    }
+   ]
+  },
+  "attainsports": {
+   "fetched_at": "2026-11-07T23:32:30Z",
+   "label": "attainsports",
+   "titles": []
   },
   "au small finance bank": {
    "fetched_at": "2026-10-24T22:23:26Z",
@@ -6907,6 +6990,42 @@
     }
    ]
   },
+  "brainco": {
+   "fetched_at": "2026-11-07T23:32:31Z",
+   "label": "brainco",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 98500,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 174689,
+     "title": "AI PLATFORM ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140930,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "AI DUE DILIGENCE PRINCIPAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "BIZOPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 178298,
+     "title": "BUSINESS OPERATIONS"
+    }
+   ]
+  },
   "braun intertec": {
    "fetched_at": "2026-10-25T16:11:01Z",
    "label": "Braun Intertec",
@@ -7225,6 +7344,11 @@
      "title": "SR. MANAGER, PRINCIPAL DATA ENGINEER"
     }
    ]
+  },
+  "brph": {
+   "fetched_at": "2026-11-07T23:32:31Z",
+   "label": "brph",
+   "titles": []
   },
   "brunswick https brunswick wd1 myworkdayjobs com en us search job fond du lac wi mercury marine product management intern oils lubricants jr 051213": {
    "fetched_at": "2026-11-07T02:21:16Z",
@@ -7974,6 +8098,28 @@
     }
    ]
   },
+  "careers catalent com": {
+   "fetched_at": "2026-11-07T23:32:32Z",
+   "label": "careers.catalent.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers cboe com": {
+   "fetched_at": "2026-11-07T23:32:33Z",
+   "label": "careers.cboe.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "careers cencora com": {
    "fetched_at": "2026-10-25T00:48:44Z",
    "label": "careers.cencora.com",
@@ -8120,6 +8266,28 @@
   "careers roche com": {
    "fetched_at": "2026-10-25T02:20:25Z",
    "label": "careers.roche.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers thalesgroup com": {
+   "fetched_at": "2026-11-07T23:32:34Z",
+   "label": "careers.thalesgroup.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers zimmerbiomet com": {
+   "fetched_at": "2026-11-07T23:32:34Z",
+   "label": "careers.zimmerbiomet.com",
    "titles": [
     {
      "count": 1,
@@ -8779,6 +8947,82 @@
      "count": 8,
      "median_salary": 104447,
      "title": "DEVOPS ENGINEER"
+    }
+   ]
+  },
+  "church": {
+   "fetched_at": "2026-11-07T23:32:35Z",
+   "label": "Church",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 118719,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 170000,
+     "title": "SR SOFTWARE ENGINEER- DATA ENGINEERING &AMP; INTEGRATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 65000,
+     "title": "ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 71750,
+     "title": "ANALYST - IT LEADERSHIP PROGRAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 87000,
+     "title": "ASSOCIATE ATTORNEY"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 32000,
+     "title": "DAYCARE ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95202,
+     "title": "DIRECTOR OF DISCIPLESHIP COMMUNITIES"
+    },
+    {
+     "count": 1,
+     "median_salary": 48950,
+     "title": "ELEMENTARY SCHOOL TEACHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "LAW CLERK"
+    },
+    {
+     "count": 1,
+     "median_salary": 116812,
+     "title": "MICROSTRATEGY DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "QUALITY ASSURANCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 47154,
+     "title": "SERVICE DESK SPECIALIST"
     }
    ]
   },
@@ -9524,6 +9768,11 @@
     }
    ]
   },
+  "cirrusaircraft": {
+   "fetched_at": "2026-11-07T23:32:36Z",
+   "label": "cirrusaircraft",
+   "titles": []
+  },
   "cisco": {
    "fetched_at": "2026-10-25T04:07:07Z",
    "label": "Cisco",
@@ -9735,6 +9984,11 @@
      "title": "BUSINESS ANALYTICS LEAD ANALYST"
     }
    ]
+  },
+  "citizensenergygroup": {
+   "fetched_at": "2026-11-07T23:32:36Z",
+   "label": "citizensenergygroup",
+   "titles": []
   },
   "cityofnewyork": {
    "fetched_at": "2026-10-25T19:01:30Z",
@@ -10099,6 +10353,11 @@
      "title": "ASSISTANT COLLEGE LECTURER"
     }
    ]
+  },
+  "cliffordchance": {
+   "fetched_at": "2026-11-07T23:32:37Z",
+   "label": "CliffordChance",
+   "titles": []
   },
   "cliftonlarsonallen": {
    "fetched_at": "2026-11-05T10:41:23Z",
@@ -11432,6 +11691,11 @@
     }
    ]
   },
+  "crystaldynamics": {
+   "fetched_at": "2026-11-07T23:32:38Z",
+   "label": "crystaldynamics",
+   "titles": []
+  },
   "cva": {
    "fetched_at": "2026-10-25T04:07:13Z",
    "label": "Cva",
@@ -12544,6 +12808,11 @@
    "label": "dlrgroup",
    "titles": []
   },
+  "doctolib": {
+   "fetched_at": "2026-11-07T23:32:38Z",
+   "label": "doctolib",
+   "titles": []
+  },
   "dominos": {
    "fetched_at": "2026-10-25T05:37:53Z",
    "label": "dominos",
@@ -12862,6 +13131,11 @@
   "dv trading": {
    "fetched_at": "2026-10-25T05:37:56Z",
    "label": "DV Trading",
+   "titles": []
+  },
+  "dvtrading": {
+   "fetched_at": "2026-11-07T23:32:39Z",
+   "label": "dvtrading",
    "titles": []
   },
   "dxc technology": {
