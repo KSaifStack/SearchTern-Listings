@@ -11,6 +11,7 @@ from datetime import UTC, datetime
 from email.utils import parsedate_to_datetime
 from time import sleep as _pace_sleep
 
+import http_cache
 import requests
 from requests.adapters import HTTPAdapter
 
@@ -74,11 +75,18 @@ def _cool_down(url, seconds):
         _HOST_COOLDOWN[key] = max(_HOST_COOLDOWN.get(key, 0.0), deadline)
 
 
-def http_get(url, timeout=30, retries=3, headers=None, stream=False):
+def http_get(url, timeout=30, retries=3, headers=None, stream=False, cache=True):
     """GET with exponential backoff + jitter, honoring Retry-After on 429/503.
+
+    Conditional by default: when a previous response carried an ETag or
+    Last-Modified, the request sends it and a 304 replays the stored body as a
+    200 (http_cache), so an unchanged board costs a round trip and no payload.
 
     Returns the last response, or None if all retries were exhausted.
     """
+    conditional = http_cache.validators(url) if cache else {}
+    if conditional:
+        headers = {**(headers or {}), **conditional}
     for attempt in range(retries):
         try:
             with _host_slot(url):
@@ -88,7 +96,19 @@ def http_get(url, timeout=30, retries=3, headers=None, stream=False):
             if attempt + 1 < retries:
                 time.sleep(min(60, (2 ** (attempt + 1)) + random.uniform(0, 1)))
             continue
+        if resp.status_code == 304 and conditional:
+            replayed = http_cache.replay(url)
+            if replayed is not None:
+                resp.close()
+                return replayed
+            # Stale cache entry with no body: fetch it unconditionally.
+            headers = {k: v for k, v in (headers or {}).items()
+                       if k.lower() not in ("if-none-match", "if-modified-since")}
+            conditional = {}
+            continue
         if resp.status_code == 200:
+            if cache:
+                http_cache.store(url, resp)
             return resp
         if resp.status_code in (429, 503):
             wait = min(60, (2 ** attempt) + random.uniform(0, 1))

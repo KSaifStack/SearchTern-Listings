@@ -25,7 +25,7 @@ from html import unescape
 from html.parser import HTMLParser
 
 import ats_new_sources
-import probe_budget
+import board_scheduler
 import breadth_sources
 import canonical
 import classify
@@ -33,6 +33,7 @@ import closure
 import discover_boards
 import echojobs
 import ecr_source
+import freshness
 import h1b_enrich
 import ingest_stats
 import jobspy_source
@@ -41,6 +42,7 @@ import pandas as pd
 import priority_boards
 import readme_generation
 import runway_source
+import shards
 import sitemap_sources
 import skillexchange
 import source_health
@@ -1507,8 +1509,8 @@ def main(argv=None):
         cutoff = _time.time() - ATS_PROBE_COOLDOWN_HOURS * 3600
         warm = []
         for name, ats, slug in probe_list:
-            ts = probe_state.get(f"{ats}|{slug}")
-            if ts is None or ts <= cutoff:
+            ts = board_scheduler.last_probe(probe_state.get(f"{ats}|{slug}"))
+            if ts <= cutoff:
                 warm.append((name, ats, slug))
             else:
                 probe_state.setdefault("_skipped_this_run", 0)
@@ -1523,15 +1525,11 @@ def main(argv=None):
                 print(f"  {len(_already)} new-ATS boards already refreshed by this "
                       f"run's medium tier — skipped")
 
-        # Bound the pass. The registry is larger than one run's budget, so probe
-        # the boards that have waited longest and leave the rest for the next
-        # run: a deferred board keeps its old timestamp and therefore sorts to
-        # the front next time, instead of the whole registry being re-probed in
-        # one 700+ second sweep that yields nothing new.
+        # Bound the pass and spend it on value, not registry order: score is
+        # staleness x last-known yield (board_scheduler), with a starvation
+        # guard. Deferred boards keep their old score and rise next run.
         probe_cap = int(os.environ.get("SEARCHTERN_PROBE_MAX_BOARDS", "1200"))
-        warm, deferred = probe_budget.oldest_first(
-            warm, probe_state, probe_cap, key=lambda b: f"{b[1]}|{b[2]}"
-        )
+        warm, deferred = board_scheduler.plan(warm, probe_state, probe_cap)
         if warm:
             print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped "
                   f"by cooldown, {len(deferred)} deferred by the per-run cap "
@@ -1546,7 +1544,8 @@ def main(argv=None):
                 if result:
                     all_raw.append(result)
                     ats, slug = futs[fut]
-                    probe_state[f"{ats}|{slug}"] = _time.time()
+                    board_scheduler.record(probe_state, ats, slug,
+                                           board_scheduler.board_rows(result[2]))
 
         print(f"  Fetched {len(all_raw)}/{len(warm)} endpoints successfully")
 
@@ -2336,6 +2335,19 @@ def main(argv=None):
         _top = ", ".join(f"{b['source']} ({b['new_7d']})"
                           for b in _health["best"][:5])
         print(f"  HEALTH top-7d new: {_top}")
+    # Source Intelligence: one pollable artifact with per-source freshness,
+    # share of new, and alerts, so a dashboard never has to rebuild this.
+    _fresh = freshness.write_json(
+        os.path.join(root_dir, "pages", "health.json"),
+        ingest_stats.snapshot(),
+        run_meta={"tier": ARGS.tier, "workers": WORKERS,
+                  "published": {"listings": len(listings_result),
+                                "searchtern": len(searchtern_result)}},
+        health=_health,
+    )
+    if _fresh:
+        print(f"  Health artifact: {len(_fresh['sources'])} sources, "
+              f"{len(_fresh['alerts'])} alerts")
 
     # Sources manifest — every source the pipeline pulls from, with current row
     # counts. Served to the SearchTern web app for its "Data Sources" panel.
@@ -2449,6 +2461,17 @@ def main(argv=None):
     readme_generation.write_listings_json(
         listings_result, output_dir="..", mirror_dataframe=searchtern_result
     )
+    # Compressed, streamable parts + manifest: clients can fetch one shard and
+    # read counts/coverage/timestamps without downloading the whole feed.
+    # Opt-in on purpose: the monolithic JSON is still committed, so emitting
+    # ~15 MB of gzip every run would grow the repo on top of it. Flip
+    # SEARCHTERN_SHARDS=1 when the big feeds move to a release/CDN.
+    if os.environ.get("SEARCHTERN_SHARDS", "0") == "1":
+        _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
+        _manifest = shards.publish(searchtern_result, _pages, name="listings")
+        if _manifest:
+            print(f"  Shards: {len(_manifest['shards'])} parts, {_manifest['rows']:,} rows, "
+                  f"{_manifest['bytes'] / 1e6:.1f} MB gz, manifest.json")
 
     _d_new, _d_total = discover_boards.update_state(searchtern_result)
     if _d_new:

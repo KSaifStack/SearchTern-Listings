@@ -67,6 +67,31 @@ faster.
 Steps 1 and 2 are the speed work. 3–5 cut bytes, 6–8 make the output worth
 scraping, 9–11 fix credibility and distribution, 12 is already planned.
 
+## 6. Overhaul pass (2026-11-07, second commit)
+
+What the freshness overhaul asked for, and where each item stands now.
+
+| Asked | Landed | Where |
+|---|---|---|
+| Per-board adaptive scheduling, high-yield first, oldest-first, no starvation | Score = staleness × last-known yield, lanes weight priority/standard/bulk, 72 h starvation guard forces a quiet board to the front, per-run cap | `Listings/board_scheduler.py` |
+| Separate priority / standard / bulk workflows | Already separate (`update-priority` 15 min, `light` hourly, `medium` 2 h, `heavy` 2 h, `all` 4 h); the scheduler now orders inside each | `.github/workflows/` |
+| ETag, conditional GET, Last-Modified, caching, 304 body replay | `http_get` is conditional by default for every GET; 304 replays the stored body; no validator means no cache, never a stale guess | `Listings/http_cache.py`, `readme_utils.http_get` |
+| 429/503 backoff with Retry-After | Already present (per-provider cooldown + `Retry-After`, date or seconds); unchanged | `readme_utils.py` |
+| Canonical requisition ids, dedup | `(ats, ats_id)` is now the dedup identity, ahead of canonical URL; tracker link and employer ATS collapse, two distinct requisitions with the same title survive | `Listings/dedup.py` |
+| Complete-snapshot / verified closure | Already implemented (only complete snapshots vote, failed boards never delete) | `Listings/closure.py` + `validate_closure.py` |
+| Accurate first-seen / last-seen / verified timestamps | `seen` state and digests already carry first/last; `pages/health.json` adds `generated_at` + per-source last-ok age; per-row `verified_at` still open (fix 13) | `pages/run_meta.json`, `freshness.py` |
+| Lightweight discovery, selective enrichment | Board list payloads are already fetched with `content=false` (Greenhouse) and descriptions only where the API returns them; a true two-phase pass remains fix 3 | — |
+| Compressed shards + manifest, incremental publication | NDJSON gzip parts + `manifest.json` with rows, byte size, sha16, per-field coverage; stale parts pruned. Measured on the live feed: 67.9 MB → 14.5 MB gz (4.7x) in 2 parts. Opt-in via `SEARCHTERN_SHARDS=1`, because the monolithic JSON is still committed and 14.5 MB per run would otherwise grow the repo | `Listings/shards.py` |
+| Source-level freshness metrics, board health, alerts, dashboard | `pages/health.json`: per-source rows/new/share/new-per-second/status, alerts (failing, quiet, degraded), `healthy` flag | `Listings/freshness.py` |
+| USAJobs | Key-gated adapter (search API v2), pure parser + tests; enable by setting `USAJOBS_API_KEY` / `USAJOBS_EMAIL` | `Listings/usajobs_source.py` |
+| RSS, sitemaps, webhooks | Sitemap harvesters already exist (`sitemap_sources.py`, `runway_source.py`); RSS/webhook ingest not added — fix 14 | `Listings/sitemap_sources.py` |
+| Frontend incremental updates | Shards + manifest are the feed-side enabler; the SPA lives outside this repo, so it still has to adopt them | `pages/manifest.json` |
+| Durable event queue, centralized storage | Not attempted: the parquet tier caches plus `seen` state are the current storage. A queue is a rewrite, not a freshness fix | — |
+
+Still open, in priority order: 2 (verify the 304 win over a week of runs), 3
+two-phase enrichment, 5 zero-yield retirement, 13 per-row `verified_at`,
+14 RSS/webhook sources, and the queue.
+
 ## 5. What was measured for this commit
 
 - Registry 4,000 boards; state file 6,683 entries; one pass at the old
