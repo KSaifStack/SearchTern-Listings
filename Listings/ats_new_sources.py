@@ -24,6 +24,16 @@ Each endpoint below was verified live on 2026-11-02 with read-only requests
 * BambooHR  GET {tenant}.bamboohr.com/careers/list is one response (id,
   jobOpeningName, location; no dates). Details ({host}/careers/{id}/detail)
   are fetched only for intern-shaped titles under a cap.
+* WorkforceNow GET workforcenow.adp.com/mascsr/default/careercenter/public/
+  events/staffing/v1/job-requisitions?cid={cid}&ccId={ccId}&lang=en_US&$top=100
+  returns requisitionTitle, postDate, itemID and locations inline (verified
+  2026-11-07). It caps at 20 requisitions per request whatever $top asks for
+  ($top=100 still returned 20), so pages are walked with $skip and de-duped on
+  itemID. The
+  public posting URL is recruitment.html?cid=&ccId=&jobId={itemID}: itemID is
+  exactly the jobId the board's own links carry, so rows deep-link rather than
+  pointing at the board. cids are not derivable from a company name -- they
+  come from feed links (wfn_boards_from_links) or the verified list below.
 
 Conventions match breadth_sources.py: STD_COLS rows, per-source stats via
 ingest_stats, polite delays, hard caps, truncated/rate_limited reporting.
@@ -53,6 +63,11 @@ ICIMS_MAX_JOBS = int(os.environ.get("SEARCHTERN_ICIMS_MAX_JOBS", "25"))
 ICIMS_PAGE_DELAY = float(os.environ.get("SEARCHTERN_ICIMS_DELAY", "0.5"))
 ADP_MAX_JOBS = int(os.environ.get("SEARCHTERN_ADP_MAX_JOBS", "1000"))
 BAMBOO_MAX_DETAILS = int(os.environ.get("SEARCHTERN_BAMBOO_MAX_DETAILS", "30"))
+WFN_CC_ID = os.environ.get("SEARCHTERN_WFN_CC_ID", "19000101_000001")
+WFN_MAX_JOBS = int(os.environ.get("SEARCHTERN_WFN_MAX_JOBS", "100"))
+WFN_PAGE = 20          # server cap per request, whatever $top asks for
+WFN_MAX_PAGES = int(os.environ.get("SEARCHTERN_WFN_MAX_PAGES", "10"))
+WFN_PAGE_DELAY = float(os.environ.get("SEARCHTERN_WFN_DELAY", "0.3"))
 
 # (company, eightfold host, domain). Every entry answered HTTP 200 on 2026-11-02.
 # microsoft.eightfold.ai is deliberately excluded: it 429s cloud IPs immediately.
@@ -93,6 +108,29 @@ BAMBOO_TENANTS = [
     ("Lunar Outpost", "lunaroutpost"),
 ]
 
+# (company, workforcenow cid). Every entry answered HTTP 200 on 2026-11-07 with
+# a non-zero meta.totalNumber. cids are opaque GUIDs, so they are curated or
+# lifted from a feed link's ?cid=, never guessed.
+WFN_BOARDS = [
+    ("Intuitive Machines", "b0e24f83-6e4d-492d-9d6a-bc0fea197d6a"),
+    ("North Wind", "f98fa7ab-a90c-4c3d-9d0f-acc72295894f"),
+    ("Veterinary United", "53ad25cb-cc74-4ae1-87e3-8123a39f433c"),
+    ("Community Care Plan", "5819e54c-5980-4670-adef-3258d4b05f16"),
+    ("Drt Holdings", "deb3ce72-1fdb-482c-8628-1246bb38b0dc"),
+    ("The Bernard Group", "1c6d33f4-8e70-4489-b6b7-2f1d9ca08e81"),
+    ("Patriot Group International", "1e1c7010-328a-4fd5-8cab-54255cb16096"),
+    ("Avalon", "47dbbe30-59f3-4be8-90d6-9934bef76b9f"),
+    ("Pathstone", "89066319-3d2d-43f2-88e4-ea45aa701c73"),
+    ("Steinberg Diagnostic Medical Imaging",
+     "0f4ed7c3-5fe1-4305-b131-0fdbd9c753a7"),
+    ("Meazure Learning", "80476592-d857-4207-83c6-fe66444a7e3b"),
+    ("Curious Plot", "1c21058f-86b9-4409-a52d-cc79be9f6952"),
+    ("Arcadia", "ccd74f4a-a9f5-457b-9738-346574383d58"),
+    ("Canaccord Genuity", "cf46812f-b021-426f-844b-c83523c426e6"),
+    ("Carlos Rosario Public Charter School",
+     "33b607f4-564d-4335-b098-98dd2b218da4"),
+]
+
 _INTERN_SLUG_RE = re.compile(
     r"(intern|internship|co-?op|new-?grad|entry-?level|junior|trainee|"
     r"apprentice|early-?career|fellow|student|campus)", re.I,
@@ -107,6 +145,7 @@ _ORACLE_LINK_RE = re.compile(
     r"https?://([a-z0-9.\-]+\.oraclecloud\.com)/hcmUI/CandidateExperience/"
     r"[a-z]{2}/sites/([A-Za-z0-9_\-]+)/job/(\d+)", re.I,
 )
+_WFN_CID_RE = re.compile(r"[?&]cid=([0-9a-fA-F\-]{36})")
 _STRIP_TAGS_RE = re.compile(r"<[^>]+>")
 # Corporate suffixes break cross-source dedup ("Acme, Inc." vs "Acme").
 # Stripped here, in the new adapters only; the shared clean_company_name is
@@ -459,6 +498,87 @@ def _fetch_bamboo_tenant(company, tenant):
     return rows, len(wanted) > BAMBOO_MAX_DETAILS, None
 
 
+# ── ADP WorkforceNow ────────────────────────────────────────────────────────
+
+def wfn_boards_from_links(links):
+    """Derive WorkforceNow cids from feed job URLs. Pure parsing, no network.
+
+    Returns {cid: count} for links carrying ?cid=. The employer name has to come
+    from the caller, since the board API returns no company field.
+    """
+    out = {}
+    for link in links or ():
+        m = _WFN_CID_RE.search(str(link or ""))
+        if m:
+            cid = m.group(1).lower()
+            out[cid] = out.get(cid, 0) + 1
+    return out
+
+
+def _wfn_row(company, cid, cc_id, req):
+    loc = ""
+    locs = req.get("requisitionLocations") or []
+    if locs:
+        addr = (locs[0] or {}).get("address") or {}
+        sub = addr.get("countrySubdivisionLevel1") or {}
+        loc = ", ".join(filter(None, [
+            addr.get("cityName"),
+            sub.get("codeValue") if isinstance(sub, dict) else "",
+        ]))
+    # itemID is the id the board's own posting links carry as jobId.
+    return _row(
+        company, req.get("requisitionTitle"), loc,
+        _from_date(req.get("postDate")),
+        "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/"
+        f"recruitment.html?cid={cid}&ccId={cc_id}&jobId={req.get('itemID')}"
+        "&lang=en_US",
+        "remote" in loc.lower(),
+    )
+
+
+def _fetch_wfn_board(company, cid, cc_id=None):
+    """(rows, truncated, error) for one WorkforceNow career centre.
+
+    Pages on $skip and de-duplicates on itemID, so a board that ignores $skip
+    stops after its first page instead of repeating rows.
+    """
+    cc_id = cc_id or WFN_CC_ID
+    rows, seen, skip, total, pages = [], set(), 0, 0, 0
+    while len(rows) < WFN_MAX_JOBS and pages < WFN_MAX_PAGES:
+        url = ("https://workforcenow.adp.com/mascsr/default/careercenter/public/"
+               f"events/staffing/v1/job-requisitions?cid={cid}&ccId={cc_id}"
+               f"&lang=en_US&$top={WFN_PAGE}&$skip={skip}")
+        resp = http_get(url, timeout=30, retries=2, headers=_UA)
+        if resp is None:
+            return rows, False, "unreachable"
+        if resp.status_code != 200:
+            return rows, False, f"http-{resp.status_code}"
+        try:
+            data = resp.json()
+        except ValueError:
+            return rows, False, "bad-json"
+        reqs = data.get("jobRequisitions") or []
+        total = (data.get("meta") or {}).get("totalNumber") or total
+        fresh = 0
+        for r in reqs:
+            key = str(r.get("itemID") or "")
+            if key and key in seen:
+                continue
+            if key:
+                seen.add(key)
+            rows.append(_wfn_row(company, cid, cc_id, r))
+            fresh += 1
+        pages += 1
+        # A page can come back short (19 of 20 seen live 2026-11-07), so stop on
+        # "nothing new" or on reaching meta.totalNumber, never on page length.
+        if not fresh or (total and len(seen) >= total):
+            break
+        skip += WFN_PAGE
+        time.sleep(WFN_PAGE_DELAY)
+    kept = min(len(rows), WFN_MAX_JOBS)
+    return rows[:kept], bool(total and total > kept), None
+
+
 # ── driver ───────────────────────────────────────────────────────────────────
 
 _SOURCES = [
@@ -467,6 +587,7 @@ _SOURCES = [
     ("icims", [(c, p) for c, p in ICIMS_PORTALS]),
     ("adp", [(c, d) for c, d in ADP_DOMAINS]),
     ("bamboohr", [(c, t) for c, t in BAMBOO_TENANTS]),
+    ("wfn", [(c, cid) for c, cid in WFN_BOARDS]),
 ]
 
 
@@ -509,7 +630,8 @@ def fetch_and_parse(infer_country=None, workers=4):
     rest = ([("oracle", _fetch_oracle_board, (c, h, s)) for c, h, s in ORACLE_BOARDS]
             + [("icims", _fetch_icims_portal, (c, p)) for c, p in ICIMS_PORTALS]
             + [("adp", _fetch_adp_domain, (c, d)) for c, d in ADP_DOMAINS]
-            + [("bamboohr", _fetch_bamboo_tenant, (c, t)) for c, t in BAMBOO_TENANTS])
+            + [("bamboohr", _fetch_bamboo_tenant, (c, t)) for c, t in BAMBOO_TENANTS]
+            + [("wfn", _fetch_wfn_board, (c, cid)) for c, cid in WFN_BOARDS])
     with ThreadPoolExecutor(max_workers=workers) as ex:
         rest_done = list(ex.map(lambda item: _run_rest(*item), rest))
     for name, got, secs, status, trunc in rest_done:
