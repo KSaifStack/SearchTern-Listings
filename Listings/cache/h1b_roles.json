@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T09:13:35Z",
+ "built_at": "2026-11-07T19:40:05Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -3760,6 +3760,112 @@
   "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4731994005": {
    "fetched_at": "2026-10-25T16:10:57Z",
    "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731994005)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 216091,
+     "title": "PRINCIPAL FIRMWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 131019,
+     "title": "SENIOR SYSTEM VALIDATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 217630,
+     "title": "TECH LEAD DESIGN VERIFICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165422,
+     "title": "TECH LEAD FIRMWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190450,
+     "title": "PRINCIPAL PRODUCT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 145406,
+     "title": "SENIOR PHYSICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 216091,
+     "title": "SENIOR PRINCIPAL PRODUCT APPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146307,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 132101,
+     "title": "BUSINESS OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 156624,
+     "title": "DIGITAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 223538,
+     "title": "DIRECTOR OF SUPPLY CHAIN OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "FIRMWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 128149,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 117645,
+     "title": "HARDWARE PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 300000,
+     "title": "MACHINE LEARNING SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "MISSION DESIGN ENGINEER"
+    }
+   ]
+  },
+  "astera labs https job boards greenhouse io asteraearlycareer2027 jobs 4733856005": {
+   "fetched_at": "2026-11-07T19:40:00Z",
+   "label": "[Astera Labs](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005)",
    "titles": [
     {
      "count": 3,
@@ -8557,6 +8663,112 @@
   "cibc": {
    "fetched_at": "2026-10-25T02:20:31Z",
    "label": "CIBC",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 400000,
+     "title": "MANAGING DIRECTOR, TREASURY TRADING, GLOBAL MARKETS"
+    },
+    {
+     "count": 2,
+     "median_salary": 105255,
+     "title": "ALM RISK ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 76000,
+     "title": "ANALYST, PWM US OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "AUDIT MANAGER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 145995,
+     "title": "CONSULTANT, INFORMATION SECURITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 96235,
+     "title": "DATA GOVERNANCE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 143000,
+     "title": "DIRECTOR, LIQUIDITY RISK MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 146617,
+     "title": "MANAGER, DATA OPERATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 158793,
+     "title": "MANAGING DIRECTOR, SR. PORTFOLIO MANAGER, MID-CORPORATE BANK"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "MARKET RISK MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85000,
+     "title": "RISK ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 185265,
+     "title": "RISK DATA AND TRANSFORMATION LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "SENIOR AUDITOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 105000,
+     "title": "SOFTWARE ENGINEER II - POWER PLATFORM"
+    },
+    {
+     "count": 2,
+     "median_salary": 111100,
+     "title": "SR. ANALYST, PROCESS AUTOMATION"
+    },
+    {
+     "count": 2,
+     "median_salary": 79827,
+     "title": "SR. FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 122483,
+     "title": "SR. MANAGER, INFORMATION SECURITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ANALYST I, GLOBAL INVESTMENT BANKING"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "ANALYST II, CORPORATE BANKING"
+    }
+   ]
+  },
+  "cibc https cibc wd3 myworkdayjobs com campus job montral qc analyst co op bilingual winter 2027 2622369": {
+   "fetched_at": "2026-11-07T19:40:02Z",
+   "label": "[CIBC](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/Analyst-Co-op---Bilingual---Winter-2027_2622369)",
    "titles": [
     {
      "count": 3,
@@ -18533,6 +18745,112 @@
   "hewlett packard enterprise": {
    "fetched_at": "2026-10-25T10:28:16Z",
    "label": "Hewlett Packard Enterprise",
+   "titles": [
+    {
+     "count": 57,
+     "median_salary": 187741,
+     "title": "SENIOR CLOUD DEVELOPER"
+    },
+    {
+     "count": 54,
+     "median_salary": 149208,
+     "title": "CLOUD DEVELOPER III"
+    },
+    {
+     "count": 44,
+     "median_salary": 132579,
+     "title": "CLOUD DEVELOPER II"
+    },
+    {
+     "count": 33,
+     "median_salary": 136989,
+     "title": "SYSTEMS SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 26,
+     "median_salary": 90400,
+     "title": "SYSTEMS SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 22,
+     "median_salary": 157538,
+     "title": "SENIOR SYSTEMS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 85634,
+     "title": "SYSTEMS SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 16,
+     "median_salary": 98218,
+     "title": "CLOUD DEVELOPER I"
+    },
+    {
+     "count": 12,
+     "median_salary": 201323,
+     "title": "PRINCIPAL CLOUD DEVELOPER"
+    },
+    {
+     "count": 12,
+     "median_salary": 177018,
+     "title": "PRINCIPAL SYSTEMS SOFTWARE ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 132579,
+     "title": "PRODUCT MANAGER III"
+    },
+    {
+     "count": 12,
+     "median_salary": 140005,
+     "title": "SENIOR IT DEVELOPER ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 138174,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 132579,
+     "title": "PRODUCT MANAGER II"
+    },
+    {
+     "count": 7,
+     "median_salary": 153785,
+     "title": "PRINCIPAL IT DEVELOPER ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 132595,
+     "title": "RESEARCH ENGINEER III"
+    },
+    {
+     "count": 6,
+     "median_salary": 135636,
+     "title": "AI AND MACHINE LEARNING ENGINEER III"
+    },
+    {
+     "count": 6,
+     "median_salary": 146244,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 188613,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 148699,
+     "title": "DATA SCIENTIST III"
+    }
+   ]
+  },
+  "hewlett packard hp": {
+   "fetched_at": "2026-11-07T19:40:03Z",
+   "label": "Hewlett Packard Hp",
    "titles": [
     {
      "count": 57,
@@ -30669,6 +30987,112 @@
     }
    ]
   },
+  "regeneron pharmaceuticals https regeneron wd1 myworkdayjobs com en us careers job rensselaer xmlname 2027 co op data analytics digital tools iops r50983 1": {
+   "fetched_at": "2026-11-07T19:40:04Z",
+   "label": "[Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Co-op-Data-Analytics---Digital-Tools--IOPS-_R50983-1)",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 155375,
+     "title": "PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 12,
+     "median_salary": 142213,
+     "title": "SENIOR SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 88650,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 98445,
+     "title": "SENIOR ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 159963,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "MANAGER DATA MANAGEMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 117505,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 101295,
+     "title": "SR ASSOC SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 168697,
+     "title": "SR MGR DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 165000,
+     "title": "MANAGER, DATA MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 156693,
+     "title": "MGR REGULATORY PUBLISHING"
+    },
+    {
+     "count": 2,
+     "median_salary": 184399,
+     "title": "MGR STATISTICAL GENETICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 94391,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 129572,
+     "title": "PRINCIPAL IT APPLICATIONS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141641,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182752,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 196895,
+     "title": "SENIOR MANAGER BIOSTATISTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 185000,
+     "title": "SENIOR MANAGER, MEDICAL AFFAIRS"
+    },
+    {
+     "count": 2,
+     "median_salary": 106444,
+     "title": "SENIOR QC SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125788,
+     "title": "SENIOR STATISTICAL PROGRAMMER"
+    }
+   ]
+  },
   "regeneron pharmaceuticals https regeneron wd1 myworkdayjobs com en us careers job rensselaer xmlname 2027 summer intern it systems iops r51822": {
    "fetched_at": "2026-10-29T05:15:55Z",
    "label": "[Regeneron Pharmaceuticals](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822)",
@@ -33742,6 +34166,11 @@
   "securitycareers aus": {
    "fetched_at": "2026-10-25T20:25:02Z",
    "label": "securitycareers-aus",
+   "titles": []
+  },
+  "sel": {
+   "fetched_at": "2026-11-07T19:40:05Z",
+   "label": "SEL",
    "titles": []
   },
   "sembcorp": {

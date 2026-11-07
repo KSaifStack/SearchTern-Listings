@@ -1,13 +1,14 @@
 {
   "sources": [
     {
-      "source": "md",
+      "source": "jobhive",
       "discovered": 0,
-      "valid": 0,
+      "valid": 13831,
       "seconds": 0.0,
-      "calls": 1,
+      "calls": 2,
       "status": "ok",
-      "new": 17,
+      "note": "60d README window / 90d listings window, age is its only liveness signal",
+      "new": 256,
       "new_per_second": null
     },
     {
@@ -17,62 +18,81 @@
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
+      "new": 127,
+      "new_per_second": null
+    },
+    {
+      "source": "md",
+      "discovered": 0,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 39,
+      "new_per_second": null
+    },
+    {
+      "source": "freehire",
+      "discovered": 0,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
       "new": 9,
       "new_per_second": null
     },
     {
-      "source": "jobhive-closure",
-      "discovered": 65697,
-      "valid": 65686,
+      "source": "ecr",
+      "discovered": 0,
+      "valid": 0,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "dropped": 11,
-      "boards_voted": 9,
-      "live_ids": 2261,
-      "new": 0,
+      "new": 4,
       "new_per_second": null
     },
     {
-      "source": "jobhive",
-      "discovered": 0,
-      "valid": 13743,
+      "source": "jobhive-closure",
+      "discovered": 94195,
+      "valid": 93147,
       "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "note": "60d README window / 90d listings window, age is its only liveness signal",
+      "dropped": 1048,
+      "boards_voted": 1949,
+      "live_ids": 259410,
       "new": 0,
       "new_per_second": null
     },
     {
       "source": "ats-probe",
-      "discovered": 73477,
-      "valid": 6565,
-      "seconds": 719.311,
+      "discovered": 607867,
+      "valid": 43058,
+      "seconds": 1989.379,
       "calls": 1,
       "status": "ok",
-      "boards_ok": 629,
-      "boards_tried": 771,
-      "boards_skipped": 3432,
-      "truncated_boards": 180,
-      "note": "4203 boards in registry; 18616 postings beyond caps",
+      "boards_ok": 3451,
+      "boards_tried": 3574,
+      "boards_skipped": 629,
+      "truncated_boards": 220,
+      "note": "4203 boards in registry; 175834 postings beyond caps",
       "new": 0,
       "new_per_second": 0.0
     }
   ],
   "totals": {
-    "sources": 5,
-    "discovered": 139174,
-    "valid": 85994,
-    "new": 26,
-    "seconds": 719.311,
+    "sources": 7,
+    "discovered": 702062,
+    "valid": 150036,
+    "new": 435,
+    "seconds": 1989.379,
     "failed": 0,
-    "closed": 13851,
-    "dead_links": 2
+    "closed": 9877,
+    "dead_links": 80
   },
   "notes": [],
-  "generated_at": "2026-11-07T09:13:41Z",
-  "elapsed_seconds": 774.3,
+  "generated_at": "2026-11-07T19:40:39Z",
+  "elapsed_seconds": 2074.1,
   "run": {
     "tier": "heavy",
     "workers": 12,
@@ -80,8 +100,8 @@
       "heavy"
     ],
     "published": {
-      "listings": 29472,
-      "searchtern": 55773
+      "listings": 34409,
+      "searchtern": 67627
     }
   }
 }
