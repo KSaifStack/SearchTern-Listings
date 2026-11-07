@@ -25,6 +25,7 @@ from html import unescape
 from html.parser import HTMLParser
 
 import ats_new_sources
+import probe_budget
 import breadth_sources
 import canonical
 import classify
@@ -1522,8 +1523,19 @@ def main(argv=None):
                 print(f"  {len(_already)} new-ATS boards already refreshed by this "
                       f"run's medium tier — skipped")
 
+        # Bound the pass. The registry is larger than one run's budget, so probe
+        # the boards that have waited longest and leave the rest for the next
+        # run: a deferred board keeps its old timestamp and therefore sorts to
+        # the front next time, instead of the whole registry being re-probed in
+        # one 700+ second sweep that yields nothing new.
+        probe_cap = int(os.environ.get("SEARCHTERN_PROBE_MAX_BOARDS", "1200"))
+        warm, deferred = probe_budget.oldest_first(
+            warm, probe_state, probe_cap, key=lambda b: f"{b[1]}|{b[2]}"
+        )
         if warm:
-            print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped by cooldown")
+            print(f"  {len(warm)} to probe now, {len(probe_list) - len(warm)} skipped "
+                  f"by cooldown, {len(deferred)} deferred by the per-run cap "
+                  f"({probe_cap})")
 
         all_raw = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=workers or WORKERS) as ex:
