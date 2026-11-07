@@ -2,7 +2,7 @@ name: Update listings (medium)
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '20 */2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -38,7 +38,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md pages/ Listings/cache/
+          # Explicitly excluding the priority fast-lane file: this tier rebuilds
+          # from tier caches and must not publish over the 15-minute lane.
+          git add README.md pages/ Listings/cache/ ':(exclude)pages/priority.json'
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

@@ -11,8 +11,12 @@ on:
 permissions:
   contents: write
 
+# Deliberately its own group. Sharing `job-listings` with the tier runs made
+# every priority tick queue behind a 3-10 minute medium/heavy/all run, and
+# GitHub cancels the older *pending* run in a group, so most 15-minute ticks
+# never executed (measured: 9 of 185 feed-change gaps were <= 15 min).
 concurrency:
-  group: job-listings
+  group: job-listings-priority
   cancel-in-progress: false
 
 jobs:
