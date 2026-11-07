@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T23:32:39Z",
+ "built_at": "2026-11-07T23:41:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13513,6 +13513,11 @@
     }
    ]
   },
+  "edyy": {
+   "fetched_at": "2026-11-07T23:41:40Z",
+   "label": "Edyy",
+   "titles": []
+  },
   "eedu": {
    "fetched_at": "2026-10-25T05:38:00Z",
    "label": "Eedu",
@@ -13521,6 +13526,11 @@
   "eexs": {
    "fetched_at": "2026-10-30T20:51:25Z",
    "label": "Eexs",
+   "titles": []
+  },
+  "ef hult": {
+   "fetched_at": "2026-11-07T23:41:41Z",
+   "label": "EF / Hult",
    "titles": []
   },
   "efet": {
@@ -13858,6 +13868,22 @@
      "count": 4,
      "median_salary": 209872,
      "title": "DIRECTOR II TECHNOLOGY"
+    }
+   ]
+  },
+  "elevation church": {
+   "fetched_at": "2026-11-07T23:41:42Z",
+   "label": "Elevation Church",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "COMMERCIALIZATION AND CONTINUOUS IMPROVEMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 81016,
+     "title": "OCCUPATIONAL THERAPIST"
     }
    ]
   },
@@ -15454,6 +15480,11 @@
     }
    ]
   },
+  "externalcareers ohsu": {
+   "fetched_at": "2026-11-07T23:41:42Z",
+   "label": "externalcareers-ohsu",
+   "titles": []
+  },
   "externalhourly highgate": {
    "fetched_at": "2026-10-25T08:51:18Z",
    "label": "externalhourly-highgate",
@@ -15467,6 +15498,16 @@
   "fa eoic saasfaprod1": {
    "fetched_at": "2026-11-01T10:55:47Z",
    "label": "Fa Eoic Saasfaprod1",
+   "titles": []
+  },
+  "fa errt saasfaprod1": {
+   "fetched_at": "2026-11-07T23:41:43Z",
+   "label": "Fa Errt Saasfaprod1",
+   "titles": []
+  },
+  "fa esbv saasfaprod1": {
+   "fetched_at": "2026-11-07T23:41:44Z",
+   "label": "Fa Esbv Saasfaprod1",
    "titles": []
   },
   "fa esfc saasfaprod1": {
@@ -15494,6 +15535,16 @@
    "label": "Fa Euyk Saasfaprod1",
    "titles": []
   },
+  "fa evfm saasfaprod1": {
+   "fetched_at": "2026-11-07T23:41:45Z",
+   "label": "Fa Evfm Saasfaprod1",
+   "titles": []
+  },
+  "fa ewfi saasfaprod1": {
+   "fetched_at": "2026-11-07T23:41:45Z",
+   "label": "Fa Ewfi Saasfaprod1",
+   "titles": []
+  },
   "fa ewqq saasfaprod1": {
    "fetched_at": "2026-10-25T08:51:25Z",
    "label": "Fa Ewqq Saasfaprod1",
@@ -15507,6 +15558,11 @@
   "fa exvu saasfaprod1 cx 1": {
    "fetched_at": "2026-10-25T08:51:26Z",
    "label": "Fa Exvu Saasfaprod1 (CX_1)",
+   "titles": []
+  },
+  "fda": {
+   "fetched_at": "2026-11-07T23:41:46Z",
+   "label": "Fda",
    "titles": []
   },
   "federal reserve": {
@@ -15665,6 +15721,11 @@
      "title": "AGILE DEVELOPMENT SENIOR"
     }
    ]
+  },
+  "federatedinsurance": {
+   "fetched_at": "2026-11-07T23:41:47Z",
+   "label": "federatedinsurance",
+   "titles": []
   },
   "fehrandpeers": {
    "fetched_at": "2026-10-25T08:51:27Z",
@@ -16730,6 +16791,16 @@
     }
    ]
   },
+  "gcmgrosvenor": {
+   "fetched_at": "2026-11-07T23:41:47Z",
+   "label": "gcmgrosvenor",
+   "titles": []
+  },
+  "gd ots": {
+   "fetched_at": "2026-11-07T23:41:48Z",
+   "label": "gd-ots",
+   "titles": []
+  },
   "gdeb": {
    "fetched_at": "2026-11-06T04:16:13Z",
    "label": "gdeb",
@@ -17652,6 +17723,11 @@
   "gm financial united states": {
    "fetched_at": "2026-11-06T16:44:54Z",
    "label": "GM Financial United States",
+   "titles": []
+  },
+  "gmeaservices": {
+   "fetched_at": "2026-11-07T23:41:49Z",
+   "label": "gmeaservices",
    "titles": []
   },
   "google": {
@@ -18594,6 +18670,11 @@
   "hctz": {
    "fetched_at": "2026-10-26T10:07:02Z",
    "label": "Hctz",
+   "titles": []
+  },
+  "hcwx cx 3001": {
+   "fetched_at": "2026-11-07T23:41:49Z",
+   "label": "Hcwx (CX_3001)",
    "titles": []
   },
   "hdjm": {
@@ -20220,6 +20301,11 @@
    "label": "HP IQ",
    "titles": []
   },
+  "hwkaufman": {
+   "fetched_at": "2026-11-07T23:41:50Z",
+   "label": "hwkaufman",
+   "titles": []
+  },
   "iawmqy": {
    "fetched_at": "2026-10-25T14:47:17Z",
    "label": "Iawmqy",
@@ -20259,6 +20345,11 @@
   "ibqmjb": {
    "fetched_at": "2026-10-30T20:51:27Z",
    "label": "Ibqmjb",
+   "titles": []
+  },
+  "ibwsjb": {
+   "fetched_at": "2026-11-07T23:41:51Z",
+   "label": "Ibwsjb",
    "titles": []
   },
   "ice": {
@@ -22693,6 +22784,11 @@
    "label": "kci",
    "titles": []
   },
+  "keenfinity": {
+   "fetched_at": "2026-11-07T23:41:51Z",
+   "label": "keenfinity",
+   "titles": []
+  },
   "keenfootwear": {
    "fetched_at": "2026-11-03T17:29:20Z",
    "label": "keenfootwear",
@@ -24399,6 +24495,11 @@
     }
    ]
   },
+  "lunaagencies": {
+   "fetched_at": "2026-11-07T23:41:52Z",
+   "label": "lunaagencies",
+   "titles": []
+  },
   "lvmh2": {
    "fetched_at": "2026-10-25T14:02:38Z",
    "label": "LVMH2",
@@ -24514,6 +24615,11 @@
      "title": "SR SYSTEMS ENGINEER"
     }
    ]
+  },
+  "mackaysposito": {
+   "fetched_at": "2026-11-07T23:41:53Z",
+   "label": "mackaysposito",
+   "titles": []
   },
   "macom technology solutions": {
    "fetched_at": "2026-10-25T14:47:18Z",
@@ -25259,6 +25365,11 @@
      "title": "SR. FINANCIAL ANALYST"
     }
    ]
+  },
+  "matchgroup": {
+   "fetched_at": "2026-11-07T23:41:53Z",
+   "label": "matchgroup",
+   "titles": []
   },
   "mayo clinic": {
    "fetched_at": "2026-10-28T02:03:04Z",
