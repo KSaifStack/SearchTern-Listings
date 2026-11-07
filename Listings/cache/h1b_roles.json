@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-06T21:59:27Z",
+ "built_at": "2026-11-07T00:19:31Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5634,6 +5634,11 @@
      "title": "ENGINEER"
     }
    ]
+  },
+  "bge": {
+   "fetched_at": "2026-11-07T00:19:24Z",
+   "label": "BGE",
+   "titles": []
   },
   "bgeinc": {
    "fetched_at": "2026-10-25T16:10:58Z",
@@ -15173,6 +15178,11 @@
     }
    ]
   },
+  "flynncompanies": {
+   "fetched_at": "2026-11-07T00:19:25Z",
+   "label": "flynncompanies",
+   "titles": []
+  },
   "flyzipline": {
    "fetched_at": "2026-10-25T08:51:28Z",
    "label": "flyzipline",
@@ -16144,6 +16154,11 @@
      "title": "SENIOR SOFTWARE ENGINEER - SALESFORCE"
     }
    ]
+  },
+  "generalmatter": {
+   "fetched_at": "2026-11-07T00:19:26Z",
+   "label": "generalmatter",
+   "titles": []
   },
   "geotab": {
    "fetched_at": "2026-10-29T21:13:58Z",
@@ -18863,6 +18878,11 @@
    "label": "imafinancialgroup",
    "titles": []
   },
+  "imc trading": {
+   "fetched_at": "2026-11-07T00:19:27Z",
+   "label": "IMC Trading",
+   "titles": []
+  },
   "impulse space": {
    "fetched_at": "2026-10-25T14:02:19Z",
    "label": "Impulse Space",
@@ -18873,6 +18893,11 @@
      "title": "BUSINESS DEVELOPMENT MANAGEMENT"
     }
    ]
+  },
+  "indeedbtrbt": {
+   "fetched_at": "2026-11-07T00:19:29Z",
+   "label": "indeedbtrbt",
+   "titles": []
   },
   "ing": {
    "fetched_at": "2026-11-05T12:13:04Z",
@@ -19802,6 +19827,112 @@
      "count": 1,
      "median_salary": 300000,
      "title": "PORTFOLIO MANAGER"
+    }
+   ]
+  },
+  "iqvia": {
+   "fetched_at": "2026-11-07T00:19:29Z",
+   "label": "IQVIA",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 159900,
+     "title": "SENIOR CONSULTANT"
+    },
+    {
+     "count": 9,
+     "median_salary": 128000,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 9,
+     "median_salary": 159306,
+     "title": "PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 9,
+     "median_salary": 137492,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 134717,
+     "title": "SENIOR STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 9,
+     "median_salary": 157440,
+     "title": "STAFF ARCHITECT"
+    },
+    {
+     "count": 5,
+     "median_salary": 143400,
+     "title": "CONSULTANT, STRATEGY LIFE SCIENCES"
+    },
+    {
+     "count": 5,
+     "median_salary": 218153,
+     "title": "ENGAGEMENT MANAGER"
+    },
+    {
+     "count": 5,
+     "median_salary": 150000,
+     "title": "ENGAGEMENT MANAGER, TECH"
+    },
+    {
+     "count": 4,
+     "median_salary": 148872,
+     "title": "ASSOCIATE PRINCIPAL STATISTICAL PROGRAMMER"
+    },
+    {
+     "count": 4,
+     "median_salary": 138943,
+     "title": "SENIOR CONSULTANT, TECH"
+    },
+    {
+     "count": 3,
+     "median_salary": 87210,
+     "title": "ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 191240,
+     "title": "PRINCIPAL SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 117324,
+     "title": "SENIOR CONSULTANT, SUPPLIER SERVICES"
+    },
+    {
+     "count": 3,
+     "median_salary": 138000,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 148453,
+     "title": "SENIOR IT ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 92400,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER 4"
+    },
+    {
+     "count": 3,
+     "median_salary": 198624,
+     "title": "THOUGHT LEADERSHIP DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 133345,
+     "title": "AI ENGINEER 2"
+    },
+    {
+     "count": 2,
+     "median_salary": 122350,
+     "title": "ASSOCIATE CONSULTANT 1, STRATEGY LIFE SCIENCES"
     }
    ]
   },
@@ -39479,6 +39610,112 @@
      "count": 1,
      "median_salary": 155000,
      "title": "SENIOR APO APPLICATIONS ANALYST"
+    }
+   ]
+  },
+  "zillow": {
+   "fetched_at": "2026-11-07T00:19:30Z",
+   "label": "Zillow",
+   "titles": [
+    {
+     "count": 18,
+     "median_salary": 190486,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 149240,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 166809,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 148345,
+     "title": "SENIOR PRODUCT DESIGNER"
+    },
+    {
+     "count": 5,
+     "median_salary": 150000,
+     "title": "APPLIED SCIENTIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 213512,
+     "title": "PRINCIPAL SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 163862,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER, BIG DATA"
+    },
+    {
+     "count": 4,
+     "median_salary": 195243,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 202068,
+     "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER, BIG DATA"
+    },
+    {
+     "count": 3,
+     "median_salary": 137259,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 128398,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 138091,
+     "title": "DIRECTOR, CX AND CLOSING OPERATIONS, SPRUCE"
+    },
+    {
+     "count": 3,
+     "median_salary": 188000,
+     "title": "PRINCIPAL, MARKET &AMP; FIELD OPERATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 148699,
+     "title": "SENIOR MANAGER, RENTALS BUSINESS SYSTEM ANALYSIS"
+    },
+    {
+     "count": 3,
+     "median_salary": 269578,
+     "title": "SENIOR MANAGER, SOFTWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 101899,
+     "title": "SENIOR REVENUE ACCOUNTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 138219,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 139110,
+     "title": "PRODUCT DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145898,
+     "title": "SENIOR BUSINESS INTELLIGENCE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 89660,
+     "title": "SENIOR DATA INTEGRATION ANALYST"
     }
    ]
   },
