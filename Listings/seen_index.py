@@ -19,6 +19,25 @@ transitional wave this migration costs.
 """
 
 
+import re
+
+_ROLE_NOISE = re.compile(r"[^a-z0-9]+")
+
+
+def loose_pair(key):
+    """``company|role`` of a text key, with the role reduced to its letters.
+
+    The location is deliberately dropped: the same requisition is written with a
+    different location string all the time ("Remote" vs "Remote in US"), and a
+    closure that ignores it errs toward keeping a posting, which is the safe
+    direction.
+    """
+    parts = key.split("|", 3)
+    if len(parts) < 3:
+        return None
+    return parts[1] + "|" + _ROLE_NOISE.sub("", parts[2].casefold())
+
+
 def ids_by_key(rid_by_key):
     """Map each live ``(ats, req)`` to the text key that currently carries it."""
     out = {}
@@ -56,7 +75,8 @@ def new_keys(current_keys, rid_by_key, seen):
     return out
 
 
-def commit(seen, current_by_key, rid_by_key, fresh_buckets, bucket_of, obs, live_keys=None):
+def commit(seen, current_by_key, rid_by_key, fresh_buckets, bucket_of, obs,
+           live_keys=None, live_pairs=None):
     """Fold this run into the seen log.
 
     Returns ``(closed, seen_out, first_by_key)``. ``closed`` lists keys whose
@@ -66,6 +86,10 @@ def commit(seen, current_by_key, rid_by_key, fresh_buckets, bucket_of, obs, live
     ``live_keys`` is everything the run fetched, which is wider than the keys it
     published: a posting the feed filters out is still listed, so absence from
     the published subset is not a closure. Defaults to the published keys.
+
+    ``live_pairs`` is the loose form of the same set (see ``loose_pair``) and
+    catches the posting whose title or location was rewritten between runs --
+    still listed, different text, no id to prove it.
     """
     current_keys = set(current_by_key)
     live = current_keys if live_keys is None else live_keys
@@ -75,6 +99,8 @@ def commit(seen, current_by_key, rid_by_key, fresh_buckets, bucket_of, obs, live
     for key, meta in seen.items():
         if meta.get("closed") or key in live:
             continue
+        if live_pairs and loose_pair(key) in live_pairs:
+            continue  # same company and role, rewritten location or title
         rid = _entry_ids(meta)
         if rid[0] and rid[1] and rid in live_ids:
             continue  # same requisition under a new text key

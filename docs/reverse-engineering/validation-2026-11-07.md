@@ -306,18 +306,27 @@ of 40,450 survive, so 32,000 fetched postings were never in the merged set at
 all. Adding the raw markdown fetch (`_md_live_rows`) as well gives the run that
 matters:
 
-| | B (published subset) | B3 (merged frame) | B4 (merged + raw markdown) |
-|---|---|---|---|
-| closed reported | 59,227 | 58,397 | 42,206 |
-| — markdown | 53,002 | 52,172 | 36,810 |
-| — jobhive | 6,225 | 6,225 | 5,396 |
-| md closures whose exact key is in that run's fetch | not measured | 16,199 | **0** |
+| | B (published subset) | B3 (merged frame) | B4 (merged + raw markdown) | B5 (+ loose match) |
+|---|---|---|---|---|
+| closed reported | 59,227 | 58,397 | 42,206 | **30,066** |
+| — markdown | 53,002 | 52,172 | 36,810 | 25,847 |
+| — jobhive | 6,225 | 6,225 | 5,396 | 4,219 |
+| md closures whose exact key is in that run's fetch | not measured | 16,199 | **0** | 0 |
 
-The remaining 36,810 markdown closures have no matching key in the fetch. Some
-are genuinely delisted; the rest are the same text drift the earlier check found
-(company case, location wording) on rows that carry no ATS id — 48.4% of the
-feed — so no key rule can settle them. That is the documented residual, not a
-regression.
+The exact key still fails a posting whose title was repunctuated or whose
+location string was rewritten between runs, and those rows carry no id (48.4% of
+the feed). So closure also accepts a loose match — company plus the role reduced
+to its letters, location dropped (`seen_index.loose_pair`). B5 adds that and
+closes 30,066: 29,161 fewer than the original rule, 12,140 fewer than the exact
+key alone.
+
+What is left is the case no key rule can settle: a title that *gained a word*
+("… Intern" this run, "… Intern, Summer" last run) reads as a different role, so
+it still closes. The earlier loose measurement found 25,709 of the original
+59,227 closures still live, and 30,066 remain, so at most ~4,000 of that set are
+still falsely closing — down from 43.4% of closures to roughly 4% of the total
+reported, with the rest genuinely delisted or aged out of the jobhive window.
+New-listing counts stay put at 153–157 across every variant.
 
 New-listing counts are unchanged (156 in A, B, B3 and B4): new is still judged
 against the published keys only, so a fetched-but-unpublished row cannot inflate
@@ -384,13 +393,13 @@ Energy as separate keys.
 
 ## Gaps left open
 
-1. Closures still carry text-key noise: 36,810 markdown closures per light run
-   have no matching key in the run's own fetch, and part of that is wording
-   drift on rows with no ATS id (section 11). Ids settle it only for the 51.6%
+1. Closures still carry text-key noise where a title gained a word: at most
+   ~4,000 of 30,066 per light run (section 11). Ids settle it only for the 51.6%
    of rows that have one.
-2. Jobhive rows are cut by the 90-day window inside the query, so 5,396 of the
-   closures are for rows the fetch never returned; widening `live_keys` to cover
-   that window would need the raw parquet scan.
+2. Jobhive rows are cut by the 90-day window inside the query, so part of its
+   4,219 closures are rows the fetch no longer returns even though the upstream
+   parquet still lists them; widening `live_keys` to cover the window would need
+   the raw parquet scan.
 3. 1,263 tenant/company alias mismatches remain; the 15 aliases cover the
    largest measured pairs only.
 4. 3,215 rows carry no ATS id (48.4% of the feed) and no alias fixes that —

@@ -2285,6 +2285,9 @@ def main(argv=None):
     live_keys = {_key_of(row) for _idx, row in _seen_frame.iterrows()}
     if _md_live_rows is not None and not _md_live_rows.empty:
         live_keys |= {_key_of(row) for _idx, row in _md_live_rows.iterrows()}
+    # Same set with the role reduced to letters and the location dropped, for the
+    # postings that were fetched under rewritten text and carry no id.
+    live_pairs = {seen_index.loose_pair(k) for k in live_keys}
 
     seen = _load_seen()
     cutoff = (now - pd.Timedelta(days=120)).isoformat()
@@ -2390,7 +2393,7 @@ def main(argv=None):
 
     closed, seen, _first_by_key = seen_index.commit(
         seen, current_by_key, _rid_by_key, buckets_fresh, _seen_bucket, obs,
-        live_keys=live_keys,
+        live_keys=live_keys, live_pairs=live_pairs,
     )
     closed.extend(stale_closed)
     _first_by_index = {current_by_key[k].name: first

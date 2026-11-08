@@ -75,6 +75,43 @@ def test_a_fetched_but_unpublished_posting_is_not_closed():
     assert len(gone) == 1
 
 
+def test_a_rewritten_title_or_location_is_not_a_closure():
+    """No id, different text, same words: still listed.
+
+    The text key is exact, so a rewritten location ("Austin, TX" vs "Austin") or
+    punctuation ("Intern - SWE" vs "Intern, SWE") retired a posting that the run
+    had just fetched. Wording is only reduced to letters here, so a role that
+    gained a word ("... Intern" vs "... Intern, Summer") is a different role and
+    still closes -- that is the limit, not a promise.
+    """
+    seen = {"md|acme|Software Engineer - Intern|Austin, TX": _entry()}
+    live = {"md|acme|Software Engineer, Intern|Austin"}
+    pairs = {seen_index.loose_pair(k) for k in live}
+
+    md_fresh = {"md": True}
+    closed, _, _ = seen_index.commit(
+        seen, {}, {}, md_fresh, _bucket, NOW, live_keys=live, live_pairs=pairs
+    )
+    assert closed == []
+
+    gone, _, _ = seen_index.commit(
+        dict(seen), {}, {}, md_fresh, _bucket, NOW,
+        live_keys={"md|acme|Data Analyst|Austin"},
+        live_pairs={seen_index.loose_pair("md|acme|Data Analyst|Austin")},
+    )
+    assert len(gone) == 1
+
+
+def test_loose_pair_drops_location_and_role_punctuation():
+    assert seen_index.loose_pair("md|Acme|Intern - SWE|NY") == seen_index.loose_pair(
+        "md|Acme|Intern, SWE|Remote"
+    )
+    assert seen_index.loose_pair("md|Acme|Intern|NY") != seen_index.loose_pair(
+        "md|Acme|Senior Intern|NY"
+    )
+    assert seen_index.loose_pair("nopipe") is None
+
+
 def test_a_bucket_that_was_not_fetched_never_closes():
     seen = {"ats|acme|Engineer|NY": _entry("greenhouse", "4012345")}
     closed, _, _ = seen_index.commit(seen, {}, {}, {"ats": False}, _bucket, NOW)
