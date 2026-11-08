@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-08T00:16:07Z",
+ "built_at": "2026-11-08T04:54:20Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -42453,6 +42453,27 @@
     }
    ]
   },
+  "welltower": {
+   "fetched_at": "2026-11-08T04:54:18Z",
+   "label": "Welltower",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 147294,
+     "title": "SENIOR ASSOCIATE, INVESTMENTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 154500,
+     "title": "ASSOCIATE, INVESTMENTS"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "POWER BI DEVELOPER"
+    }
+   ]
+  },
   "werner enterprises": {
    "fetched_at": "2026-10-26T21:00:37Z",
    "label": "Werner Enterprises",
@@ -42620,6 +42641,32 @@
    "fetched_at": "2026-10-27T20:57:03Z",
    "label": "westernveterinarypartnersllc",
    "titles": []
+  },
+  "westfield": {
+   "fetched_at": "2026-11-08T04:54:19Z",
+   "label": "Westfield",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 87547,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79123,
+     "title": "PRACTICE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87547,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 73070,
+     "title": "TAX ACCOUNTANT"
+    }
+   ]
   },
   "wing": {
    "fetched_at": "2026-10-26T11:48:37Z",
