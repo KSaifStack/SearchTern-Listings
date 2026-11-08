@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 00:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:16:32 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Product Owner Junior - en stage (F/H) at Recrute1 Carrefour</title>
@@ -36,18 +36,18 @@
       <description>Burton on Trent, United Kingdom | Customer/Retail | internship</description>
     </item>
     <item>
-      <title>Sales Degree Apprentice at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40177</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40177</guid>
-      <pubDate>Sat, 07 Nov 2026 00:42:50 +0000</pubDate>
-      <description>London, United Kingdom | Sales/Business Dev | internship</description>
-    </item>
-    <item>
       <title>Data Insights Apprentice at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/40190</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/40190</guid>
       <pubDate>Sat, 07 Nov 2026 00:42:50 +0000</pubDate>
       <description>Burton on Trent, GB-STS, United Kingdom | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Operations Degree Apprentice at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/40183</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40183</guid>
+      <pubDate>Sat, 07 Nov 2026 00:42:50 +0000</pubDate>
+      <description>Burton Upon Trent, GB-STS, United Kingdom | Operations/Supply | internship</description>
     </item>
     <item>
       <title>Operations Degree Apprentice at Molsoncoors</title>
@@ -103,14 +103,21 @@
       <link>https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028105</link>
       <guid isPermaLink="true">https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028105</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Lakewood, CA, United States | Other | new_grad</description>
+    </item>
+    <item>
+      <title>Ultrasound Student Extern at EODR</title>
+      <link>https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028105</link>
+      <guid isPermaLink="true">https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028105</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <description>West Palm Beach, FL, United States | Other | internship</description>
     </item>
     <item>
       <title>Front End Entry Level at Albertsons Companies</title>
-      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790481</link>
-      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790481</guid>
+      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790483</link>
+      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790483</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Tacoma, WA, United States | Other | new_grad</description>
+      <description>San Diego, CA, United States | Other | new_grad</description>
     </item>
     <item>
       <title>Front End Entry Level at Albertsons Companies</title>

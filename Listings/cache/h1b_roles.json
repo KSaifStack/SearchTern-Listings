@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-08T00:01:39Z",
+ "built_at": "2026-11-08T00:16:07Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13659,6 +13659,11 @@
     }
    ]
   },
+  "elcn": {
+   "fetched_at": "2026-11-08T00:15:53Z",
+   "label": "Elcn",
+   "titles": []
+  },
   "electronic arts": {
    "fetched_at": "2026-10-25T05:38:07Z",
    "label": "Electronic Arts",
@@ -14991,7 +14996,7 @@
    ]
   },
   "epicgames": {
-   "fetched_at": "2026-11-08T00:01:26Z",
+   "fetched_at": "2026-11-08T00:15:53Z",
    "label": "epicgames",
    "titles": []
   },
@@ -15482,6 +15487,47 @@
      "count": 3,
      "median_salary": 108826,
      "title": "SOFTWARE DEVELOPMENT ENGINEER II"
+    }
+   ]
+  },
+  "expeditors": {
+   "fetched_at": "2026-11-08T00:15:54Z",
+   "label": "expeditors",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 78000,
+     "title": "CUSTOMER BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "DEVELOPER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 149240,
+     "title": "DEVELOPER III-FULL STACK JAVA DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 151000,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 195000,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180710,
+     "title": "SENIOR DEVELOPER-CARTAGE, IS OPERATIONAL EXPERIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 164000,
+     "title": "SENIOR SYSTEMS ANALYST"
     }
    ]
   },
@@ -25483,7 +25529,7 @@
    ]
   },
   "mcdermott external career site": {
-   "fetched_at": "2026-11-08T00:01:27Z",
+   "fetched_at": "2026-11-08T00:15:55Z",
    "label": "McDermott External Career Site",
    "titles": [
     {
@@ -26777,7 +26823,7 @@
    ]
   },
   "modinity": {
-   "fetched_at": "2026-11-08T00:01:27Z",
+   "fetched_at": "2026-11-08T00:15:56Z",
    "label": "Modinity Group",
    "titles": []
   },
@@ -27096,7 +27142,7 @@
    ]
   },
   "morganmorganjobsapplynow": {
-   "fetched_at": "2026-11-08T00:01:28Z",
+   "fetched_at": "2026-11-08T00:15:56Z",
    "label": "morganmorganjobsapplynow",
    "titles": []
   },
@@ -27313,7 +27359,7 @@
    ]
   },
   "mountfitchetgroup": {
-   "fetched_at": "2026-11-08T00:01:29Z",
+   "fetched_at": "2026-11-08T00:15:57Z",
    "label": "mountfitchetgroup",
    "titles": []
   },
@@ -28296,7 +28342,7 @@
    ]
   },
   "nex": {
-   "fetched_at": "2026-11-08T00:01:29Z",
+   "fetched_at": "2026-11-08T00:15:58Z",
    "label": "nex",
    "titles": []
   },
@@ -28670,7 +28716,7 @@
    ]
   },
   "nominal": {
-   "fetched_at": "2026-11-08T00:01:30Z",
+   "fetched_at": "2026-11-08T00:15:59Z",
    "label": "nominal",
    "titles": []
   },
@@ -29688,7 +29734,7 @@
    ]
   },
   "paretocaptiveservicesllc": {
-   "fetched_at": "2026-11-08T00:01:31Z",
+   "fetched_at": "2026-11-08T00:15:59Z",
    "label": "paretocaptiveservicesllc",
    "titles": []
   },
@@ -30723,7 +30769,7 @@
    "titles": []
   },
   "profoundresearch": {
-   "fetched_at": "2026-11-08T00:01:31Z",
+   "fetched_at": "2026-11-08T00:16:00Z",
    "label": "profoundresearch",
    "titles": []
   },
@@ -31292,7 +31338,7 @@
    ]
   },
   "ralliant": {
-   "fetched_at": "2026-11-08T00:01:32Z",
+   "fetched_at": "2026-11-08T00:16:01Z",
    "label": "Ralliant",
    "titles": []
   },
@@ -32900,7 +32946,7 @@
    "titles": []
   },
   "rockland trust career site": {
-   "fetched_at": "2026-11-08T00:01:33Z",
+   "fetched_at": "2026-11-08T00:16:02Z",
    "label": "Rockland Trust Career Site",
    "titles": [
     {
@@ -33035,6 +33081,11 @@
      "title": "PRODUCT MANAGER"
     }
    ]
+  },
+  "rolandberger": {
+   "fetched_at": "2026-11-08T00:16:02Z",
+   "label": "rolandberger",
+   "titles": []
   },
   "rose roofing restoration": {
    "fetched_at": "2026-11-03T10:23:54Z",
@@ -33717,7 +33768,7 @@
    ]
   },
   "sagesure": {
-   "fetched_at": "2026-11-08T00:01:33Z",
+   "fetched_at": "2026-11-08T00:16:03Z",
    "label": "sagesure",
    "titles": [
     {
@@ -34879,7 +34930,7 @@
    ]
   },
   "seaspan": {
-   "fetched_at": "2026-11-08T00:01:34Z",
+   "fetched_at": "2026-11-08T00:16:04Z",
    "label": "Seaspan",
    "titles": []
   },
@@ -36008,6 +36059,11 @@
     }
    ]
   },
+  "smithsgroup2": {
+   "fetched_at": "2026-11-08T00:16:04Z",
+   "label": "smithsgroup2",
+   "titles": []
+  },
   "socotec": {
    "fetched_at": "2026-11-03T22:44:24Z",
    "label": "Socotec",
@@ -36949,7 +37005,7 @@
    ]
   },
   "stradaeducation": {
-   "fetched_at": "2026-11-08T00:01:35Z",
+   "fetched_at": "2026-11-08T00:16:05Z",
    "label": "stradaeducation",
    "titles": []
   },
@@ -38097,7 +38153,7 @@
    ]
   },
   "testnisc": {
-   "fetched_at": "2026-11-08T00:01:35Z",
+   "fetched_at": "2026-11-08T00:16:06Z",
    "label": "testnisc",
    "titles": []
   },
@@ -39205,7 +39261,7 @@
    "titles": []
   },
   "tkda": {
-   "fetched_at": "2026-11-08T00:01:36Z",
+   "fetched_at": "2026-11-08T00:16:07Z",
    "label": "tkda",
    "titles": []
   },
