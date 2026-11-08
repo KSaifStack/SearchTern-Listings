@@ -1953,3 +1953,5 @@
 {"ts": 1794120272.4139118, "source": "breadth:Working Nomads", "discovered": 17, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794120272.4139118, "source": "breadth:Remotive", "discovered": 12, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794120272.4139118, "source": "ats-probe", "discovered": 0, "valid": 0, "new": 0, "seconds": 73.483, "status": "empty"}
+{"ts": 1794120501.1990323, "source": "jobhive", "discovered": 0, "valid": 13482, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794120501.1990323, "source": "ats-probe", "discovered": 0, "valid": 0, "new": 0, "seconds": 93.833, "status": "empty"}
