@@ -240,7 +240,14 @@ _FEEDS = [
 ]
 
 
-def fetch_and_parse(infer_country=None, workers=1):
+def fetch_and_parse(infer_country=None, workers=1, names=None):
+    """Fetch every configured breadth feed, or only ``names``.
+
+    ``names`` is the selector's poll list. A feed the value ranking deferred is
+    skipped instead of costing the run a round trip on every cycle; ``None``
+    keeps the old fetch-everything behaviour.
+    """
+    feeds = _FEEDS if names is None else [f for f in _FEEDS if f[0] in set(names)]
     rows = []
     stats = []
 
@@ -255,7 +262,7 @@ def fetch_and_parse(infer_country=None, workers=1):
         return name, got
 
     with ThreadPoolExecutor(max_workers=workers) as ex:
-        results = list(ex.map(_run, _FEEDS))
+        results = list(ex.map(_run, feeds))
 
     for name, got in results:
         stats.append((name, len(got)))

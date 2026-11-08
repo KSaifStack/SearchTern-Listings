@@ -25,6 +25,8 @@ and whose id is gone is closed. Three rules keep that honest:
 """
 import re
 
+import company_alias
+
 # ATS platforms whose ids jobhive publishes in the shape this repo's adapters
 # produce. Others are left alone even when they appear in the board registry.
 # Workday is verifiable: the CXS API returns no numeric id field, but every
@@ -36,7 +38,6 @@ VERIFIABLE_ATS = frozenset({
     "rippling", "pinpoint", "recruitee", "teamtailor", "breezy", "personio",
 })
 
-_NON_ALNUM = re.compile(r"[^a-z0-9]+")
 # Workday requisition ids: 1-4 alpha chars + 4+ digits (R2600885, JR2022276).
 _WORKDAY_REQ_RE = re.compile(r"^([A-Za-z]{1,4}\d{4,})$")
 
@@ -121,11 +122,12 @@ def employer_key(name):
     """Normalize an employer name for joining a board to a jobhive row.
 
     jobhive carries the ATS's own company string while the board registry uses a
-    display name, so "Scale AI" and "scaleai" must land on the same key.
+    display name, so "Scale AI" and "scaleai" must land on the same key. Legal
+    suffixes and measured initialisms (``bah``) are resolved by
+    :mod:`company_alias`; 1,696 rows failed this join on spelling alone
+    (2026-11-07).
     """
-    if name is None:
-        return ""
-    return _NON_ALNUM.sub("", str(name).casefold())
+    return company_alias.normalize(name)
 
 
 def record_snapshot(ats_type, company, ids):

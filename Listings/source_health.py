@@ -91,8 +91,14 @@ def report(now=None):
                               "hours_since_last": round(age_h, 1)})
             window = [r for r in recs
                       if now - r.get("ts", 0) <= RANK_WINDOW_HOURS * 3600]
+            # `new` is attributed per adapter bucket ("breadth"), so it is 0
+            # for every namespaced feed ("breadth:Jobicy"). `rows_7d` is what
+            # the adapter itself returned and is the only per-source value that
+            # survives namespacing -- rank and retire on that.
             best.append({"source": source,
                          "new_7d": sum(r.get("new", 0) for r in window),
+                         "rows_7d": sum(r.get("valid", 0) for r in window),
+                         "discovered_7d": sum(r.get("discovered", 0) for r in window),
                          "runs_7d": len(window)})
         best.sort(key=lambda b: b["new_7d"], reverse=True)
     except Exception:

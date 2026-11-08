@@ -149,17 +149,98 @@ key. That is a one-time migration — the first run after it retires the text
 keys and reports one more wave — which is exactly why it should be a deliberate
 change, not a silent one.
 
+## 10. Phase 3 — identity in the seen log, and the gaps it closes
+
+The eight-item follow-up list. Each item below is measured, not asserted; the
+numbers come from the same production state (89,177 seen entries inside the
+120-day window, 27,406 published rows) unless stated otherwise.
+
+### Seen log: the requisition decides, not the wording
+
+Entries now store `ats`/`req` next to `first`/`last`. A row is known when either
+its text key or its `(ats_type, ats_id)` was seen. A requisition whose title is
+rewritten keeps its original `first`, retires the old key (never reported as a
+closure), and counts as neither new nor closed. A closure is stamped `closed`
+and reported once instead of on every subsequent run.
+
+| Run | Old rule new / closed | New rule new / closed |
+|---|---|---|
+| 1 — real log, live feed | 13,347 / 75,118 | 13,347 / 75,118 |
+| 2 — same rows, 6,375 titles rewritten | 6,373 / 81,500 | **3,215 / 3,226** |
+
+Run 1 is identical by construction: the stored entries predate ids, so the text
+key still decides, and this run is the one transitional wave (it writes the
+ids). Run 2 rewrites 6,375 titles the way the feed's own churn did: the text
+rule calls almost all of them new and their predecessors closed; the identity
+rule reports 3,215 new and 3,226 closed. The residual is exactly the rows with
+no ATS-shaped link (13,258 of 27,406, 48.4%) — those cannot be identified from
+a URL, which is the next item, not a weakness of the rule.
+
+### Linkless rows: counted, not silently skipped
+
+`cache/tier_light.parquet` holds 7,915 rows with no apply URL. Sampling them
+shows the source table carries a closed marker (SimplifyJobs `🔒`) where the URL
+would be, so there is no identity to recover — the posting is closed at origin.
+They used to disappear into the "Skipped (Oracle URLs)" counter. They are now
+counted per source in `pages/run_meta.json` (`linkless_rows`,
+`linkless_by_source`) and the publication dedup no longer treats them as the
+same row.
+
+### Employer aliases: legal suffixes stripped, initialisms listed
+
+`company_alias.normalize` strips legal forms only (inc, llc, ltd, corp, plc,
+gmbh, pty, pte) and resolves 15 measured initialisms (`bah` → Booz Allen
+Hamilton, `ngc` → Northrop Grumman, `llnl` → Lawrence Livermore National
+Laboratory). Business words are deliberately *not* stripped: "General Dynamics"
+and "General Dynamics Mission Systems" are different employers and a wrong join
+lets one board vote on the other's rows. Tenant/company mismatches on the live
+feed fall from 1,696 to 1,263 of 6,758 tenant-scoped ids (433 rows, 25.5%).
+
+### Shards on by default
+
+Measured on the live 27,955-row feed: 2 parts, 14.5 MB gzip, 4.4 s. Shard bytes
+are deterministic (sorted keys, fixed row order), so unchanged parts are
+byte-identical and git stores them once rather than once per run.
+`SEARCHTERN_SHARDS=0` restores JSON-only publication.
+
+### Stale-job verification
+
+A row nobody has re-fetched for 14 days (`SEARCHTERN_STALE_DAYS`) is exactly
+where a dead posting hides: its bucket is fresh, so closure never votes on it,
+and `last_seen` only says when it was copied. Up to 150 such links per run
+(`SEARCHTERN_VERIFY_STALE`) go through the existing HEAD → ranged-GET check;
+dead ones are dropped and reported once with `reason: link_dead`. Measured: 15
+live links in 7.0 s, 0 dead — a full sample costs ~9 s at 8 workers.
+
+### Source selection by measured value
+
+`source_selector` defers a source after two failing runs or zero rows across
+four runs, and marks the top half by trailing-week rows as *expand* (polled even
+when quiet). Measured on the real health log: 9/9 breadth feeds polled, 5
+expanded, cut at 665 rows/7d.
+
+Ranking on `new_7d` would have retired every breadth feed on day one: new
+postings are attributed to the adapter *bucket* (`breadth`), so each namespaced
+feed (`breadth:Jobicy`) records 0 new. The first wiring did exactly that and
+deferred all nine; the rule now ranks on rows actually returned
+(`rows_7d`/`discovered_7d`). That is why the health log gained `rows_7d` and
+`discovered_7d`.
+
+### Health artifact
+
+`pages/health.json` now reports `stale` (checked, dead, horizon) and `linkless`
+next to the per-source ranking and alerts, so a dashboard can show coverage gaps
+without rebuilding them.
+
 ## Gaps left open
 
-1. Clean A/B crawl against the production cache (needs CI state or a full
-   cache copy).
-2. Company-name normalization: 264 ids map to 2–3 aliases of one employer.
-3. Markdown canonicalisation: 7,920 rows have no canonical URL; they are now
-   kept but still cannot be URL-deduped.
-4. RSS has no employer-hosted feed configured; aggregator feeds cannot publish.
-5. Parking needs three consecutive runs with the new `record()` before it
-   retires anything.
-6. Seen-log identity migration (section 9): 13,789 new / 74,040 closed per run
-   is text churn, not board movement.
-7. `pages/searchtern.json` is still 67.9 MB uncompressed on the default path;
-   shards + manifest exist but are opt-in behind `SEARCHTERN_SHARDS=1`.
+1. Clean A/B crawl against production cache state: the speed comparison in
+   section 2 is still invalid (scratch seen log was contaminated).
+2. 1,263 tenant/company alias mismatches remain; the 15 aliases cover the
+   largest measured pairs only.
+3. 3,215 rows carry no ATS id (48.4% of the feed) and no alias fixes that —
+   their links are aggregator or board pages that name no requisition.
+4. RSS still has no employer-hosted feed; aggregator links cannot publish.
+5. Parking needs one more run with the new `record()` before it retires boards.
+6. Shards on by default add ~14.5 MB to the first committed run; subsequent
+   runs only rewrite parts whose rows changed.

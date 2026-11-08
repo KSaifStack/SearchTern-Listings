@@ -45,10 +45,12 @@ import priority_boards
 import readme_generation
 import rss_source
 import runway_source
+import seen_index
 import shards
 import sitemap_sources
 import skillexchange
 import source_health
+import source_selector
 from dedup import dedup_across as _dedup_across
 from dedup import dedup_keys as _dedup_keys
 from dedup import dedupe as _dedupe
@@ -1726,8 +1728,17 @@ def main(argv=None):
     if TIER_MEDIUM in RUN_TIERS:
         print("Fetching breadth feeds...")
         _breadth_stats = []
+        # Poll by measured value: a feed that has failed twice running or made
+        # no new postings across four runs is deferred for this cycle instead of
+        # costing a round trip; a valuable feed that went quiet is still polled.
+        _selection = source_selector.select(
+            [f"breadth:{name}" for name, _fetch in breadth_sources._FEEDS]
+        )
+        for _deferred in _selection["defer"]:
+            print(f"  source deferred ({_deferred['reason']}): {_deferred['source']}")
+        _poll = {name.split(":", 1)[1] for name in _selection["poll"]}
         breadth_df, _breadth_stats = breadth_sources.fetch_and_parse(
-            infer_country=_infer_country, workers=WORKERS
+            infer_country=_infer_country, workers=WORKERS, names=_poll
         )
         for _name, _rows in _breadth_stats:
             ingest_stats.record(f"breadth:{_name}", discovered=_rows)
@@ -2258,9 +2269,22 @@ def main(argv=None):
     seen = _load_seen()
     cutoff = (now - pd.Timedelta(days=120)).isoformat()
     seen = {k: v for k, v in seen.items() if v.get("last", "") >= cutoff}
+    obs = now.isoformat()
 
+    # Requisition identity. The text key records how a posting was written down
+    # in one run; the ATS id records what it *is*. A repunctuated title changes
+    # the key but not the requisition, so identity decides "new" and "closed"
+    # whenever a row carries one. Entries written before this change have no id
+    # and keep the old key-only rule until they age out (one transitional run).
+    _ats_series, _req_series = identity.pairs(final)
+    _row_id = {idx: (str(a or "").strip(), str(r or "").strip())
+               for idx, a, r in zip(final.index, _ats_series, _req_series, strict=False)}
+
+    _rid_by_key = {key: _row_id.get(row.name, ("", ""))
+                   for key, row in current_by_key.items()}
+    current_ids = seen_index.ids_by_key(_rid_by_key)
     current_keys = set(current_by_key)
-    is_new = current_keys - set(seen)
+    is_new = seen_index.new_keys(current_keys, _rid_by_key, seen)
     print(f"  Feed: {len(current_keys):,} rows, {len(is_new):,} new, {len(seen):,} known")
 
     # Dead-link check on new postings (capped per run; blips keep the row).
@@ -2283,13 +2307,23 @@ def main(argv=None):
 
     closed = []
     for k, meta in seen.items():
+        if meta.get("closed"):
+            continue  # already reported once; a closure is not re-announced
+        if k in current_keys:
+            continue
+        rid = (str(meta.get("ats") or "").strip(), str(meta.get("req") or "").strip())
+        if rid[0] and rid[1] and rid in current_ids:
+            continue  # same requisition under a new text key -- not a closure
         bucket = _seen_bucket(k.split("|", 1)[0])
-        if buckets_fresh.get(bucket, False) and k not in current_keys:
+        if buckets_fresh.get(bucket, False):
             closed.append({
                 "key": k,
                 "first_seen": meta.get("first", ""),
                 "last_seen": meta.get("last", ""),
+                "ats_type": rid[0],
+                "ats_id": rid[1],
             })
+            meta["closed"] = obs
 
     # Drop dead new postings from the feed, then persist seen state.
     if dead_keys:
@@ -2299,12 +2333,57 @@ def main(argv=None):
             current_by_key.pop(k, None)
         is_new = is_new - dead_keys
 
-    obs = now.isoformat()
-    _first_by_index = {}
-    for k, row in current_by_key.items():
-        prior = seen.get(k, {})
-        seen[k] = {"first": prior.get("first", obs), "last": obs}
-        _first_by_index[row.name] = seen[k]["first"]
+    # Stale verification: the one place a dead posting can hide is a row that
+    # nobody has re-fetched for weeks -- its source bucket is fresh, so closure
+    # never votes on it and last_seen only says when it was last copied. Re-check
+    # a bounded sample of the oldest such links; a network blip keeps the row.
+    stale_days = int(os.environ.get("SEARCHTERN_STALE_DAYS", "14") or 14)
+    stale_cap = int(os.environ.get("SEARCHTERN_VERIFY_STALE", "150") or 0)
+    stale_horizon = (now - pd.Timedelta(days=stale_days)).isoformat()
+    stale_checked = stale_dead = 0
+    stale_closed = []
+    if stale_cap > 0:
+        stale = sorted(
+            (str(meta.get("last", "")), key) for key, meta in seen.items()
+            if key in current_by_key and str(meta.get("last", "")) < stale_horizon
+        )[:stale_cap]
+        probe = [
+            (key, str(current_by_key[key].get("link") or ""))
+            for _last, key in stale
+            if str(current_by_key[key].get("link") or "").startswith(("http://", "https://"))
+        ]
+        if probe:
+            print(f"  Verifying {len(probe)} stale posting links...")
+            stale_checked = len(probe)
+            dead_stale = set()
+            with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:
+                futs = {ex.submit(_verify_link, link): key for key, link in probe}
+                for fut in concurrent.futures.as_completed(futs):
+                    if not fut.result():
+                        dead_stale.add(futs[fut])
+            if dead_stale:
+                listings_result = listings_result.drop(
+                    [current_by_key[k].name for k in dead_stale if k in current_by_key]
+                )
+                for k in dead_stale:
+                    prior = seen.get(k, {})
+                    current_by_key.pop(k, None)
+                    if prior:
+                        prior["closed"] = obs
+                    stale_closed.append({
+                        "key": k,
+                        "first_seen": prior.get("first", ""),
+                        "last_seen": prior.get("last", ""),
+                        "reason": "link_dead",
+                    })
+                stale_dead = len(dead_stale)
+
+    closed, seen, _first_by_key = seen_index.commit(
+        seen, current_by_key, _rid_by_key, buckets_fresh, _seen_bucket, obs
+    )
+    closed.extend(stale_closed)
+    _first_by_index = {current_by_key[k].name: first
+                       for k, first in _first_by_key.items() if k in current_by_key}
     _save_seen(seen)
     _new_index = {current_by_key[k].name for k in is_new if k in current_by_key}
 
@@ -2334,6 +2413,17 @@ def main(argv=None):
         if not listings_result.empty and "source" in listings_result.columns
         else {}
     )
+    # Rows whose source table carries no apply URL (7,915 in the 2026-11-07
+    # state, every one marked closed by its own source) cannot be published or
+    # identified. They used to vanish into the "Skipped (Oracle URLs)" counter;
+    # counting them per source is what makes the remaining gap measurable.
+    _link_col = final["link"].astype(str).str.strip() if "link" in final.columns else None
+    _linkless_mask = (~_link_col.str.match(r"^https?://", na=False)) if _link_col is not None else None
+    _linkless_total = int(_linkless_mask.sum()) if _linkless_mask is not None else 0
+    _linkless_by_source = (
+        {str(k): int(v) for k, v in final.loc[_linkless_mask, "source"].value_counts().items()}
+        if _linkless_total else {}
+    )
     run_meta = {
         "generated_at": obs,
         "total": len(listings_result),
@@ -2341,6 +2431,10 @@ def main(argv=None):
         "new": len(new_rows),
         "closed": len(closed),
         "dead_links": len(dead_keys),
+        "stale_checked": stale_checked,
+        "stale_dead": stale_dead,
+        "linkless_rows": _linkless_total,
+        "linkless_by_source": _linkless_by_source,
         "sources_this_run": buckets_fresh,
         "markdown_source_stats": [{"name": n, "rows": c} for n, c in md_source_stats],
     }
@@ -2388,6 +2482,9 @@ def main(argv=None):
         os.path.join(root_dir, "pages", "health.json"),
         ingest_stats.snapshot(),
         run_meta={"tier": ARGS.tier, "workers": WORKERS,
+                  "stale": {"checked": stale_checked, "dead": stale_dead,
+                            "days": stale_days},
+                  "linkless": _linkless_total,
                   "published": {"listings": len(listings_result),
                                 "searchtern": len(searchtern_result)}},
         health=_health,
@@ -2544,10 +2641,11 @@ def main(argv=None):
     )
     # Compressed, streamable parts + manifest: clients can fetch one shard and
     # read counts/coverage/timestamps without downloading the whole feed.
-    # Opt-in on purpose: the monolithic JSON is still committed, so emitting
-    # ~15 MB of gzip every run would grow the repo on top of it. Flip
-    # SEARCHTERN_SHARDS=1 when the big feeds move to a release/CDN.
-    if os.environ.get("SEARCHTERN_SHARDS", "0") == "1":
+    # On by default: shard bytes are deterministic (sorted keys, fixed order),
+    # so a client can fetch one part and an unchanged part produces identical
+    # bytes -- git stores it once instead of once per run. Set
+    # SEARCHTERN_SHARDS=0 to publish the monolithic JSON only.
+    if os.environ.get("SEARCHTERN_SHARDS", "1") == "1":
         _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
         _manifest = shards.publish(searchtern_result, _pages, name="listings")
         if _manifest:

@@ -51,8 +51,8 @@ def test_ranking_and_quiet():
             H.append(_snap(("a", 10, 10, "ok"), ("b", 5, 5, "ok")),
                      {"a": 7, "b": 1})
             rep = H.report()
-            assert rep["best"][0] == {"source": "a", "new_7d": 7,
-                                      "runs_7d": 1}, rep["best"]
+            assert rep["best"][0] == {"source": "a", "new_7d": 7, "rows_7d": 10,
+                                      "discovered_7d": 10, "runs_7d": 1}, rep["best"]
             assert rep["quiet"] == [], rep
         finally:
             H._PATH = orig

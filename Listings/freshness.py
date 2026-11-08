@@ -68,6 +68,8 @@ def payload(snapshot, run_meta=None, health=None, now=None):
         "run": {"tier": run_meta.get("tier"), "workers": run_meta.get("workers"),
                 "published": run_meta.get("published", {})},
         "sources": sources,
+        "stale": run_meta.get("stale") or {},
+        "linkless": run_meta.get("linkless"),
         "alerts": alerts,
         "healthy": not any(a["kind"] == "failing" for a in alerts),
     }
