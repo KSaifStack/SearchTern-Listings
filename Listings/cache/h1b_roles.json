@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-07T23:41:54Z",
+ "built_at": "2026-11-08T00:01:39Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -14990,6 +14990,11 @@
     }
    ]
   },
+  "epicgames": {
+   "fetched_at": "2026-11-08T00:01:26Z",
+   "label": "epicgames",
+   "titles": []
+  },
   "epix": {
    "fetched_at": "2026-10-25T08:51:13Z",
    "label": "Epix",
@@ -25477,6 +25482,97 @@
     }
    ]
   },
+  "mcdermott external career site": {
+   "fetched_at": "2026-11-08T00:01:27Z",
+   "label": "McDermott External Career Site",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 136822,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125842,
+     "title": "PRINCIPAL PROCUREMENT SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 142800,
+     "title": "SENIOR HSE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 195700,
+     "title": "SENIOR MANAGER PROJECT CONTROLS"
+    },
+    {
+     "count": 2,
+     "median_salary": 206575,
+     "title": "SENIOR PRINCIPAL PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 365000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 178464,
+     "title": "PRINCIPAL CIVIL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 174267,
+     "title": "PRINCIPAL COST CONTROLS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 222569,
+     "title": "PRINCIPAL INSTRUMENTATION &AMP; CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 211369,
+     "title": "PRINCIPAL MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97875,
+     "title": "PROCESS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "SCIENTIFIC ADVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 182104,
+     "title": "SENIOR ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 143910,
+     "title": "SENIOR IT PILLAR SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 260000,
+     "title": "SENIOR MANAGER COMMISSIONING"
+    },
+    {
+     "count": 1,
+     "median_salary": 111911,
+     "title": "SENIOR PRINCIPAL CIVIL STRUCTURAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 390000,
+     "title": "SPECIAL LEGAL CONSULTANT"
+    }
+   ]
+  },
   "mci": {
    "fetched_at": "2026-10-25T14:47:22Z",
    "label": "mci",
@@ -26680,6 +26776,11 @@
     }
    ]
   },
+  "modinity": {
+   "fetched_at": "2026-11-08T00:01:27Z",
+   "label": "Modinity Group",
+   "titles": []
+  },
   "molina": {
    "fetched_at": "2026-11-06T16:44:58Z",
    "label": "Molina",
@@ -26994,6 +27095,11 @@
     }
    ]
   },
+  "morganmorganjobsapplynow": {
+   "fetched_at": "2026-11-08T00:01:28Z",
+   "label": "morganmorganjobsapplynow",
+   "titles": []
+  },
   "motorola": {
    "fetched_at": "2026-10-25T14:47:28Z",
    "label": "Motorola",
@@ -27205,6 +27311,11 @@
      "title": "PRODUCT MANAGEMENT"
     }
    ]
+  },
+  "mountfitchetgroup": {
+   "fetched_at": "2026-11-08T00:01:29Z",
+   "label": "mountfitchetgroup",
+   "titles": []
   },
   "msd": {
    "fetched_at": "2026-10-29T15:20:04Z",
@@ -28184,6 +28295,11 @@
     }
    ]
   },
+  "nex": {
+   "fetched_at": "2026-11-08T00:01:29Z",
+   "label": "nex",
+   "titles": []
+  },
   "nintendo": {
    "fetched_at": "2026-10-29T21:13:59Z",
    "label": "nintendo",
@@ -28552,6 +28668,11 @@
      "title": "CUSTOMER CARE LEAD"
     }
    ]
+  },
+  "nominal": {
+   "fetched_at": "2026-11-08T00:01:30Z",
+   "label": "nominal",
+   "titles": []
   },
   "northeastern university": {
    "fetched_at": "2026-11-05T16:02:44Z",
@@ -29565,6 +29686,11 @@
      "title": "SR STAFF ENGINEER SOFTWARE"
     }
    ]
+  },
+  "paretocaptiveservicesllc": {
+   "fetched_at": "2026-11-08T00:01:31Z",
+   "label": "paretocaptiveservicesllc",
+   "titles": []
   },
   "parsons": {
    "fetched_at": "2026-11-05T16:02:45Z",
@@ -30596,6 +30722,11 @@
    "label": "Procter Gamble",
    "titles": []
   },
+  "profoundresearch": {
+   "fetched_at": "2026-11-08T00:01:31Z",
+   "label": "profoundresearch",
+   "titles": []
+  },
   "prologis": {
    "fetched_at": "2026-10-26T04:10:34Z",
    "label": "Prologis",
@@ -31159,6 +31290,11 @@
      "title": "SOFTWARE DEVELOPER"
     }
    ]
+  },
+  "ralliant": {
+   "fetched_at": "2026-11-08T00:01:32Z",
+   "label": "Ralliant",
+   "titles": []
   },
   "raytheon": {
    "fetched_at": "2026-10-27T20:57:00Z",
@@ -32763,6 +32899,37 @@
    "label": "rocketlab",
    "titles": []
   },
+  "rockland trust career site": {
+   "fetched_at": "2026-11-08T00:01:33Z",
+   "label": "Rockland Trust Career Site",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100936,
+     "title": "DATA ANALYST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "MODEL RISK VALIDATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "QUANTITATIVE RISK ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 109725,
+     "title": "SALESFORCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR DATA ENGINEER"
+    }
+   ]
+  },
   "rockwell automation": {
    "fetched_at": "2026-10-25T19:01:46Z",
    "label": "Rockwell Automation",
@@ -33545,6 +33712,52 @@
     {
      "count": 1,
      "median_salary": 122000,
+     "title": "SR. SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "sagesure": {
+   "fetched_at": "2026-11-08T00:01:33Z",
+   "label": "sagesure",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 92300,
+     "title": "BUSINESS ANALYST-OPERATION RESEARCH"
+    },
+    {
+     "count": 2,
+     "median_salary": 83127,
+     "title": "CLAIMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 81286,
+     "title": "ACTUARIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85301,
+     "title": "FINANCIAL ANALYST - CARRIER OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 87464,
+     "title": "OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "PROGRAM REPORTING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 180960,
      "title": "SR. SOFTWARE ENGINEER"
     }
    ]
@@ -34664,6 +34877,11 @@
      "title": "SOFTWARE DEVELOPER"
     }
    ]
+  },
+  "seaspan": {
+   "fetched_at": "2026-11-08T00:01:34Z",
+   "label": "Seaspan",
+   "titles": []
   },
   "secretariatadvisorsllc": {
    "fetched_at": "2026-10-25T20:25:01Z",
@@ -36730,6 +36948,11 @@
     }
    ]
   },
+  "stradaeducation": {
+   "fetched_at": "2026-11-08T00:01:35Z",
+   "label": "stradaeducation",
+   "titles": []
+  },
   "stripe": {
    "fetched_at": "2026-10-25T22:12:15Z",
    "label": "Stripe",
@@ -37873,6 +38096,11 @@
     }
    ]
   },
+  "testnisc": {
+   "fetched_at": "2026-11-08T00:01:35Z",
+   "label": "testnisc",
+   "titles": []
+  },
   "tevora": {
    "fetched_at": "2026-11-03T17:29:24Z",
    "label": "tevora",
@@ -38976,6 +39204,11 @@
    "label": "timmonsgroup1",
    "titles": []
   },
+  "tkda": {
+   "fetched_at": "2026-11-08T00:01:36Z",
+   "label": "tkda",
+   "titles": []
+  },
   "together ai": {
    "fetched_at": "2026-10-25T22:12:26Z",
    "label": "Together AI",
@@ -39246,6 +39479,22 @@
      "count": 1,
      "median_salary": 250000,
      "title": "STAFF TECHNICAL PROGRAM MANAGER"
+    }
+   ]
+  },
+  "trace3": {
+   "fetched_at": "2026-11-08T00:01:36Z",
+   "label": "trace3",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 97063,
+     "title": "ASSOCIATE, MANAGEMENT CONSULTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "SENIOR DATA ANALYST BI"
     }
    ]
   },
@@ -39803,6 +40052,11 @@
      "title": "SENIOR INFRASTRUCTURE ENGINEER"
     }
    ]
+  },
+  "uapinc": {
+   "fetched_at": "2026-11-08T00:01:37Z",
+   "label": "UAPInc",
+   "titles": []
   },
   "ul solutions": {
    "fetched_at": "2026-11-07T09:13:33Z",
@@ -41018,9 +41272,120 @@
    "label": "veepee",
    "titles": []
   },
+  "veeva": {
+   "fetched_at": "2026-11-08T00:01:38Z",
+   "label": "veeva",
+   "titles": [
+    {
+     "count": 38,
+     "median_salary": 135000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 28,
+     "median_salary": 130250,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 174500,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 275000,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "ANALYTICS SUPERVISOR, COMPASS STRATEGIC CONSULTING"
+    },
+    {
+     "count": 2,
+     "median_salary": 112000,
+     "title": "IT DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 143000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 177000,
+     "title": "SENIOR SOFTWARE ENGINEER - IOS"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "ACCOUNT PARTNER LIFE SCIENCES"
+    },
+    {
+     "count": 1,
+     "median_salary": 151000,
+     "title": "ANALYTICS MANAGER, COMPASS STRATEGIC CONSULTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 128000,
+     "title": "ENGINEERING MANAGER, TEST AUTOMATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "IT INTEGRATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "MARKETING ANALYTICS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "PRACTICE MANAGER, GLOBAL CONTENT BUSINESS CONSULTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "SENIOR CLOUD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138590,
+     "title": "SENIOR DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108250,
+     "title": "SENIOR HEALTH DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 124000,
+     "title": "SENIOR QA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "SENIOR SOFTWARE ENGINEER IN TEST"
+    }
+   ]
+  },
   "veoliaenvironnementsa": {
    "fetched_at": "2026-10-25T22:41:34Z",
    "label": "VeoliaEnvironnementSA",
+   "titles": []
+  },
+  "versant3": {
+   "fetched_at": "2026-11-08T00:01:38Z",
+   "label": "versant3",
    "titles": []
   },
   "vertex": {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:39:22.744766+00:00",
+  "generated_at": "2026-11-07T23:55:19.344576+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 9411
+      "count": 9401
     },
     {
       "name": "SimplifyJobs New Grad",
