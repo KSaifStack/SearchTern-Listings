@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-08T04:54:20Z",
+ "built_at": "2026-11-08T06:44:29Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2386,6 +2386,11 @@
   "amtengineering": {
    "fetched_at": "2026-10-24T20:11:18Z",
    "label": "amtengineering",
+   "titles": []
+  },
+  "amtrustgroup": {
+   "fetched_at": "2026-11-08T06:44:29Z",
+   "label": "amtrustgroup",
    "titles": []
   },
   "analog devices": {
