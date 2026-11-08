@@ -56,19 +56,24 @@ def new_keys(current_keys, rid_by_key, seen):
     return out
 
 
-def commit(seen, current_by_key, rid_by_key, fresh_buckets, bucket_of, obs):
+def commit(seen, current_by_key, rid_by_key, fresh_buckets, bucket_of, obs, live_keys=None):
     """Fold this run into the seen log.
 
     Returns ``(closed, seen_out, first_by_key)``. ``closed`` lists keys whose
     bucket was re-fetched this run and whose requisition is gone; ``first_by_key``
     preserves the original first-seen date across a text-key change.
+
+    ``live_keys`` is everything the run fetched, which is wider than the keys it
+    published: a posting the feed filters out is still listed, so absence from
+    the published subset is not a closure. Defaults to the published keys.
     """
     current_keys = set(current_by_key)
+    live = current_keys if live_keys is None else live_keys
     live_ids = ids_by_key(rid_by_key)
 
     closed = []
     for key, meta in seen.items():
-        if meta.get("closed") or key in current_keys:
+        if meta.get("closed") or key in live:
             continue
         rid = _entry_ids(meta)
         if rid[0] and rid[1] and rid in live_ids:

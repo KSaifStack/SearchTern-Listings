@@ -291,9 +291,37 @@ the sources the same run fetched:
 * jobhive — 1,953 of 6,225 (31.4%) still listed in the upstream parquet when
   checked 20 minutes later.
 
-25,709 of 59,227 (43.4%) were still live. Fixing that means building
-`current_by_key` from fetched rows rather than the published subset — a
-behaviour change, left for a decision rather than slipped in here.
+25,709 of 59,227 (43.4%) were still live.
+
+### Fixed: closure now asks "still listed", not "did we publish it"
+
+`current_by_key` still drives new-listing detection, but closure votes against a
+second set, `live_keys`: every key this run fetched. `seen_index.commit` takes it
+as `live_keys` and treats a key in it as still up (`test_a_fetched_but_unpublished_posting_is_not_closed`).
+
+Widening it to the merged frame before the tech and feed-scope filters barely
+moved the number — 59,227 → 58,397, 830 fewer. The reason is that markdown rows
+are filtered hard by their own adapter before they ever reach that frame: 8,452
+of 40,450 survive, so 32,000 fetched postings were never in the merged set at
+all. Adding the raw markdown fetch (`_md_live_rows`) as well gives the run that
+matters:
+
+| | B (published subset) | B3 (merged frame) | B4 (merged + raw markdown) |
+|---|---|---|---|
+| closed reported | 59,227 | 58,397 | 42,206 |
+| — markdown | 53,002 | 52,172 | 36,810 |
+| — jobhive | 6,225 | 6,225 | 5,396 |
+| md closures whose exact key is in that run's fetch | not measured | 16,199 | **0** |
+
+The remaining 36,810 markdown closures have no matching key in the fetch. Some
+are genuinely delisted; the rest are the same text drift the earlier check found
+(company case, location wording) on rows that carry no ATS id — 48.4% of the
+feed — so no key rule can settle them. That is the documented residual, not a
+regression.
+
+New-listing counts are unchanged (156 in A, B, B3 and B4): new is still judged
+against the published keys only, so a fetched-but-unpublished row cannot inflate
+the new count when it is finally published.
 
 ### The transitional wave, measured separately
 
@@ -307,10 +335,12 @@ First run of the new rule against a pre-id log:
   those postings already carry the id, so the same rewording no longer closes
   them.
 
-C is the idempotency check and it separates the two kinds of churn: markdown
-produced **0 new / 0 closed** on an identical re-run. All 5 new and all 39 closed
-were jobhive rows carrying requisition ids — real movement in a rolling upstream
-window, not text-key noise.
+Two idempotency pairs were run. B → C: markdown produced **0 new / 0 closed**;
+all 5 new and all 39 closed were jobhive rows carrying requisition ids — real
+movement in a rolling upstream window, not text-key noise. B4 → C3, after the
+closure fix: 4 new, every one a jobhive row with an id; 21 closed, every one a
+markdown key with no id (the text-drift residual above). Neither pair re-reported
+a closure it had already stamped.
 
 ### Identity, duplicates, per-source
 
@@ -354,15 +384,19 @@ Energy as separate keys.
 
 ## Gaps left open
 
-1. Closures are computed against the published subset, so a light run reports
-   tens of thousands of "closures" for postings it fetched and filtered out
-   (section 11). Needs a decision: build `current_by_key` from fetched rows.
-2. 1,263 tenant/company alias mismatches remain; the 15 aliases cover the
+1. Closures still carry text-key noise: 36,810 markdown closures per light run
+   have no matching key in the run's own fetch, and part of that is wording
+   drift on rows with no ATS id (section 11). Ids settle it only for the 51.6%
+   of rows that have one.
+2. Jobhive rows are cut by the 90-day window inside the query, so 5,396 of the
+   closures are for rows the fetch never returned; widening `live_keys` to cover
+   that window would need the raw parquet scan.
+3. 1,263 tenant/company alias mismatches remain; the 15 aliases cover the
    largest measured pairs only.
-3. 3,215 rows carry no ATS id (48.4% of the feed) and no alias fixes that —
+4. 3,215 rows carry no ATS id (48.4% of the feed) and no alias fixes that —
    their links are aggregator or board pages that name no requisition. Those
    rows keep the text-key rule after the migration.
-4. RSS still has no employer-hosted feed; aggregator links cannot publish.
-5. Parking needs one more run with the new `record()` before it retires boards.
-6. Shards stay opt-in until the site reads `manifest.json`
+5. RSS still has no employer-hosted feed; aggregator links cannot publish.
+6. Parking needs one more run with the new `record()` before it retires boards.
+7. Shards stay opt-in until the site reads `manifest.json`
    (`publication-migration.md` steps 1–3).

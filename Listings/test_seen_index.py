@@ -56,6 +56,25 @@ def test_every_stamped_closure_is_reported_by_the_same_call():
     assert len(closed) == 2
 
 
+def test_a_fetched_but_unpublished_posting_is_not_closed():
+    """Closure answers "still listed", not "did we publish it".
+
+    A non-tech role is fetched and filtered out of the feed every run; judging
+    closures by the published keys retired 25,709 live postings in the
+    2026-11-08 crawl.
+    """
+    seen = {"ats|acme|Recruiter|NY": _entry("greenhouse", "4012349")}
+    closed, _, _ = seen_index.commit(
+        seen, {}, {}, FRESH, _bucket, NOW, live_keys={"ats|acme|Recruiter|NY"}
+    )
+    assert closed == []
+
+    gone, _, _ = seen_index.commit(
+        seen, {}, {}, FRESH, _bucket, NOW, live_keys={"ats|acme|Engineer|NY"}
+    )
+    assert len(gone) == 1
+
+
 def test_a_bucket_that_was_not_fetched_never_closes():
     seen = {"ats|acme|Engineer|NY": _entry("greenhouse", "4012345")}
     closed, _, _ = seen_index.commit(seen, {}, {}, {"ats": False}, _bucket, NOW)

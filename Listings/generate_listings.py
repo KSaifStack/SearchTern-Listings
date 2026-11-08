@@ -1993,6 +1993,10 @@ def main(argv=None):
     else:
         md_df = _load_cached(TIER_LIGHT)
     print(f"  Markdown working set: {len(md_df):,} rows")
+    # Kept as fetched: the markdown rows are filtered hard before they reach the
+    # merged frame (8,452 of 40,450 survive), and closure needs the fetched list
+    # to know a posting is still up.
+    _md_live_rows = md_df
 
     pre_md_listings_keys = set(_dedup_keys(listings_result))
     if not md_df.empty:
@@ -2195,6 +2199,9 @@ def main(argv=None):
 
     # searchtern.json keeps every role type; listings.json is the CS/tech subset.
     # Both retain located international and remote roles as well as US postings.
+    # Kept before the tech and scope filters so closure can tell "delisted" from
+    # "not published" (used by the seen-log block below).
+    _seen_frame = listings_result.copy()
     searchtern_result = _feed_scope_filter(listings_result)
     listings_result = _feed_scope_filter(listings_result[tech_mask])
 
@@ -2257,16 +2264,27 @@ def main(argv=None):
         "md": TIER_LIGHT in RUN_TIERS,
     }
 
-    final = listings_result.copy()
-    current_by_key = {}
-    for _idx, row in final.iterrows():
-        key = "|".join([
+    def _key_of(row):
+        return "|".join([
             _seen_bucket(_row_source(row)),
             clean_company_name(str(row["company"])),
             str(row["role"]).strip(),
             str(row.get("location", "")).strip(),
         ])
-        current_by_key[key] = row
+
+    final = listings_result.copy()
+    current_by_key = {}
+    for _idx, row in final.iterrows():
+        current_by_key[_key_of(row)] = row
+
+    # Closure asks "is it still listed", not "did we choose to publish it". The
+    # published frames are the tech subset after the scope filter, so judging by
+    # them reported 25,709 live postings as closed in the 2026-11-08 crawl
+    # (validation doc section 11). This set is everything the run fetched, before
+    # those filters; only the published keys can be new.
+    live_keys = {_key_of(row) for _idx, row in _seen_frame.iterrows()}
+    if _md_live_rows is not None and not _md_live_rows.empty:
+        live_keys |= {_key_of(row) for _idx, row in _md_live_rows.iterrows()}
 
     seen = _load_seen()
     cutoff = (now - pd.Timedelta(days=120)).isoformat()
@@ -2311,10 +2329,14 @@ def main(argv=None):
     # commit an already-stamped log, so the run reported 0 closures while 59k
     # entries were silently retired. One owner, one count.
 
-    # Drop dead new postings from the feed, then persist seen state.
+    # Drop dead new postings from the feed, then persist seen state. A new key
+    # can belong to a fetched row the feed filters out; that row is not in
+    # listings_result, so guard the drop by index membership.
     if dead_keys:
-        drop_idx = [current_by_key[k].name for k in dead_keys]
-        listings_result = listings_result.drop(drop_idx)
+        drop_idx = [current_by_key[k].name for k in dead_keys
+                    if current_by_key[k].name in listings_result.index]
+        if drop_idx:
+            listings_result = listings_result.drop(drop_idx)
         for k in dead_keys:
             current_by_key.pop(k, None)
         is_new = is_new - dead_keys
@@ -2348,9 +2370,11 @@ def main(argv=None):
                     if not fut.result():
                         dead_stale.add(futs[fut])
             if dead_stale:
-                listings_result = listings_result.drop(
-                    [current_by_key[k].name for k in dead_stale if k in current_by_key]
-                )
+                _stale_idx = [current_by_key[k].name for k in dead_stale
+                              if k in current_by_key
+                              and current_by_key[k].name in listings_result.index]
+                if _stale_idx:
+                    listings_result = listings_result.drop(_stale_idx)
                 for k in dead_stale:
                     prior = seen.get(k, {})
                     current_by_key.pop(k, None)
@@ -2365,7 +2389,8 @@ def main(argv=None):
                 stale_dead = len(dead_stale)
 
     closed, seen, _first_by_key = seen_index.commit(
-        seen, current_by_key, _rid_by_key, buckets_fresh, _seen_bucket, obs
+        seen, current_by_key, _rid_by_key, buckets_fresh, _seen_bucket, obs,
+        live_keys=live_keys,
     )
     closed.extend(stale_closed)
     _first_by_index = {current_by_key[k].name: first
