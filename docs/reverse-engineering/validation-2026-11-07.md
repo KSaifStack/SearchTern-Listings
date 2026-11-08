@@ -196,12 +196,19 @@ and "General Dynamics Mission Systems" are different employers and a wrong join
 lets one board vote on the other's rows. Tenant/company mismatches on the live
 feed fall from 1,696 to 1,263 of 6,758 tenant-scoped ids (433 rows, 25.5%).
 
-### Shards on by default
+### Shards stay off until the reader migrates
 
 Measured on the live 27,955-row feed: 2 parts, 14.5 MB gzip, 4.4 s. Shard bytes
 are deterministic (sorted keys, fixed row order), so unchanged parts are
-byte-identical and git stores them once rather than once per run.
-`SEARCHTERN_SHARDS=0` restores JSON-only publication.
+byte-identical and git stores them once rather than once per run. That is not
+the cost that matters yet: the pipeline still commits the monolithic JSON, so
+publishing the parts as well adds ~14.5 MB per run (~170 MB/day at the current
+schedule) into a `.git` already at 2.9 GB. `publication-migration.md` orders the
+work reader-first for that reason, and the site still reads `searchtern.json`.
+
+The default therefore stays off. `SEARCHTERN_SHARDS=1` opts in, and all five
+update workflows pin `SEARCHTERN_SHARDS=0` explicitly so a future default change
+cannot silently switch CI over before the reader has moved.
 
 ### Stale-job verification
 
@@ -232,15 +239,130 @@ deferred all nine; the rule now ranks on rows actually returned
 next to the per-source ranking and alerts, so a dashboard can show coverage gaps
 without rebuilding them.
 
+## 11. Pre-release corrections and the real A/B crawl
+
+Section 2's A/B was invalid because it replayed a benchmark instead of running
+the pipeline. This is the crawl. Command, unchanged from CI:
+`python generate_listings.py --tier light --force`, `SEARCHTERN_SHARDS=0`.
+State: the committed CI-equivalent cache — 89,177 seen entries (none carrying
+ids), the 40,450-row markdown cache, all 14 tier parquets, published pages.
+A is `38f3c2c9` run from a git worktree; B is the migration; C is B run a second
+time from B's own state. A and B each started from a byte-identical copy of
+that cache.
+
+| | A (old rule) | B (new rule) | C (B, second run) |
+|---|---|---|---|
+| feed rows | 9,369 | 9,369 | 9,369 |
+| new | 156 | 156 | 5 |
+| closed | 59,227 | 59,227 | 39 |
+| closures stamped in `seen.json` | 0 | 59,227 | 39 |
+| seen entries carrying `ats`/`req` | 0 | 9,369 | 9,336 |
+| published `searchtern.json` rows | 14,114 | 14,113 | 14,112 |
+| wall clock | 7m52s | ~10m | ~16m |
+
+Wall clock is not a clean speed comparison: JobSpy hit LinkedIn 429s during B
+and C, so backoff, not pipeline work, dominated the difference.
+
+### The crawl found a defect in the migration itself
+
+B's first run printed `0 closed` while writing 59,227 `closed` stamps into
+`seen.json`. `main` still carried the old closure loop *and* called
+`seen_index.commit`, which runs the same loop: the inline loop stamped the
+entries first, `commit` then saw them already stamped and returned an empty
+list, and the assignment threw the inline list away. `seen_index.commit` now
+owns closure detection alone; `test_every_stamped_closure_is_reported_by_the_same_call`
+pins the invariant that the run summary and the log cannot disagree.
+
+### A closure is now reported once — but the count is mostly not closures
+
+A stamps nothing, so its 59,227 would be re-announced on every run (production
+`run_meta.json` shows exactly that on 2026-11-07: 61,294 closed). B and C stamp,
+so each closure is announced once.
+
+The number itself is not a closure count, and this is pre-existing: `current_by_key`
+is built from `listings_result` *after* the tech-keyword and feed-scope filters,
+so a posting that was fetched and then filtered out looks absent. Checked against
+the sources the same run fetched:
+
+* markdown — 23,756 of 53,002 (44.8%) still present in that run's own fetch.
+  Of those, 12,507 differ only in company case or punctuation (`🔥 NVIDIA` vs
+  `Nvidia`, `AeroVironment` vs `Aerovironment`), 11,249 differ only in location
+  text, 12 fail the tech filter.
+* jobhive — 1,953 of 6,225 (31.4%) still listed in the upstream parquet when
+  checked 20 minutes later.
+
+25,709 of 59,227 (43.4%) were still live. Fixing that means building
+`current_by_key` from fetched rows rather than the published subset — a
+behaviour change, left for a decision rather than slipped in here.
+
+### The transitional wave, measured separately
+
+First run of the new rule against a pre-id log:
+
+* 9,369 seen entries gained `ats`/`req`.
+* 0 rows changed new/closed status *because of* identity — no title moved
+  spelling inside that single run, so the ids had nothing to rescue yet.
+* 59,227 one-time closures, every one on a legacy id-less entry. This is the
+  wave, and the 12,507 company-case pair above is its cause: under the new rule
+  those postings already carry the id, so the same rewording no longer closes
+  them.
+
+C is the idempotency check and it separates the two kinds of churn: markdown
+produced **0 new / 0 closed** on an identical re-run. All 5 new and all 39 closed
+were jobhive rows carrying requisition ids — real movement in a rolling upstream
+window, not text-key noise.
+
+### Identity, duplicates, per-source
+
+* Published feed: 14,112 of 14,113 rows carry `ats_type`+`ats_id`; 14,112
+distinct ids across 14,113 distinct links, so no requisition is published twice.
+Pre-publication: 31,535 of 31,535.
+* Cross-source duplicate suppression: markdown 40,450 → 39,387 after dedup
+  against the other sources (−1,063); freehire 5,294 → 4,994; ECR 4,367 after
+  dedup vs listings; jobspy 392, none removed.
+* Working sets (B): markdown 40,450 (8,452 survive the publish filter), jobhive
+  9,333, freehire 4,994, ecr 4,367, ats_new 797, priority 356, breadth 48,
+  ats probe 5, jobspy 392.
+
+### `_verify_link` is now tested
+
+18 tests in `test_verify_link.py`, with the `requests` module replaced: 404 and
+410 are dead only after the ranged GET agrees; 403, 405, 429, 500, 502, 503 and
+302 keep the row; `Timeout`, `ConnectionError`, `TooManyRedirects` and an
+arbitrary exception keep it; HEAD 404 followed by GET 200 or 204 keeps it; and
+the probe is asserted to send `Range: bytes=…` with a 10 s timeout and redirects
+allowed. The docstring claimed 405 falls back to a GET — it does not, and only
+404/410 are treated as dead, so the docstring now says that.
+
+### Company alias audit
+
+All 15 initialisms were checked against every employer spelling in the feed
+(6,361) and the board registry (3,802). Seven resolve real collisions and each
+was verified same-employer: `boozallen`, `amat`, `gdms`, `alliance` (the two rows
+apply on `alliance.wd3.myworkdayjobs.com/NissanPrivateExternal`), `microntechnology`,
+`llnl`, `talos` (all 11 rows are `jobs.ashbyhq.com/talos-trading`). Eight match
+nothing in either corpus and are inert today (`bah`, `ngc`, `snc`, `aero`, `ag`,
+`leonardocompany`, `americascookmedical`, `carrieresmarvesting`).
+
+Two were broken rather than risky: `snc` pointed at `sierranevadacorporation`
+and `aero` at `aerospacecorporation`, but suffix stripping turns "Sierra Nevada
+Corporation" into `sierranevada` and "Aerospace Corporation" into `aerospace`,
+so neither key could ever be produced and neither alias could join anything.
+Both targets fixed; `test_every_alias_target_is_reachable` now asserts every
+target normalizes to itself, and two more tests keep SNC-Lavalin and Talos
+Energy as separate keys.
+
 ## Gaps left open
 
-1. Clean A/B crawl against production cache state: the speed comparison in
-   section 2 is still invalid (scratch seen log was contaminated).
+1. Closures are computed against the published subset, so a light run reports
+   tens of thousands of "closures" for postings it fetched and filtered out
+   (section 11). Needs a decision: build `current_by_key` from fetched rows.
 2. 1,263 tenant/company alias mismatches remain; the 15 aliases cover the
    largest measured pairs only.
 3. 3,215 rows carry no ATS id (48.4% of the feed) and no alias fixes that —
-   their links are aggregator or board pages that name no requisition.
+   their links are aggregator or board pages that name no requisition. Those
+   rows keep the text-key rule after the migration.
 4. RSS still has no employer-hosted feed; aggregator links cannot publish.
 5. Parking needs one more run with the new `record()` before it retires boards.
-6. Shards on by default add ~14.5 MB to the first committed run; subsequent
-   runs only rewrite parts whose rows changed.
+6. Shards stay opt-in until the site reads `manifest.json`
+   (`publication-migration.md` steps 1–3).

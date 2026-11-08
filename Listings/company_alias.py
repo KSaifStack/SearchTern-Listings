@@ -41,8 +41,11 @@ _ALIASES = {
     "ngc": "northropgrumman",
     "amat": "appliedmaterials",
     "gdms": "generaldynamicsmissionsystems",
-    "snc": "sierranevadacorporation",
-    "aero": "aerospacecorporation",
+    # Targets must be reachable: a target that itself normalizes differently
+    # ("sierranevadacorporation" -> "sierranevada") can never be produced by
+    # normalize(), so the alias would silently join nothing.
+    "snc": "sierranevada",
+    "aero": "aerospace",
     "alliance": "nissan",
     "ag": "airbus",
     "leonardocompany": "leonardo",

@@ -26,6 +26,38 @@ def test_distinct_employers_are_never_merged():
     assert company_alias.normalize("Shield AI") == company_alias.normalize("Shield Ai")
 
 
+def test_every_alias_target_is_reachable():
+    """An alias is only useful if a real spelling normalizes to its target.
+
+    Audit 2026-11-08 found two that did not: ``snc`` pointed at
+    ``sierranevadacorporation`` and ``aero`` at ``aerospacecorporation``, but
+    suffix stripping turns "Sierra Nevada Corporation" into ``sierranevada``,
+    so neither alias could ever join anything.
+    """
+    for key, target in company_alias._ALIASES.items():
+        assert company_alias.normalize(target) == target, (key, target)
+
+
+def test_similar_names_stay_apart():
+    """A short key must not swallow a neighbouring employer.
+
+    ``snc`` is aliased to Sierra Nevada, so SNC-Lavalin spelled out has to
+    survive as its own key; ``talos`` is aliased to Talos Trading, so Talos
+    Energy has to survive too.
+    """
+    assert company_alias.normalize("SNC-Lavalin") != company_alias.normalize(
+        "Sierra Nevada Corporation")
+    assert company_alias.normalize("Talos Energy") != company_alias.normalize(
+        "Talos Trading")
+
+
+def test_alliance_tenant_is_nissan():
+    """Verified 2026-11-08: the two "Alliance" rows apply on
+    alliance.wd3.myworkdayjobs.com/NissanPrivateExternal, so the alias joins
+    Nissan's own board rather than a stranger's."""
+    assert company_alias.normalize("Alliance") == company_alias.normalize("Nissan")
+
+
 def test_closure_joins_through_the_alias():
     assert closure.employer_key("Booz Allen") == closure.employer_key("bah")
     assert closure.employer_key("") == ""

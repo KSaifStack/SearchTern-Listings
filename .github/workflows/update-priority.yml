@@ -43,6 +43,10 @@ jobs:
       # and rewrites pages/priority.json. The main feeds are rebuilt from the
       # committed tier caches but deliberately not committed here.
       - name: Run scraper (priority tier)
+        # Shards stay off until the reader migrates: publishing both the
+        # monolithic JSON and 14.5 MB of parts would grow .git by ~170 MB/day.
+        env:
+          SEARCHTERN_SHARDS: "0"
         run: cd Listings && python generate_listings.py --tier priority
 
       - name: Commit and push fast-lane feed

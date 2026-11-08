@@ -32,6 +32,10 @@ jobs:
           python -m pip install protego requests-cache
 
       - name: Run scraper (freehire API)
+        # Shards stay off until the reader migrates: publishing both the
+        # monolithic JSON and 14.5 MB of parts would grow .git by ~170 MB/day.
+        env:
+          SEARCHTERN_SHARDS: "0"
         run: cd Listings && python generate_listings.py --tier medium --force
 
       - name: Commit and push updates

@@ -624,8 +624,10 @@ def _verify_link(u):
     """Confirm an apply link still resolves. Network blips keep the row.
 
     HEAD is tried first because it is cheap, but several ATS hosts (GM among
-    them) answer 404 to HEAD on URLs that serve 200 on GET, so a 404/410/405
-    falls back to a ranged GET before the row is called dead.
+    them) answer 404 to HEAD on URLs that serve 200 on GET, so a 404/410
+    falls back to a ranged GET before the row is called dead. Everything else
+    -- 403, 405, 429, 5xx, a timeout, any exception -- keeps the row, because
+    it means the answer is unknown, not that the posting is gone.
     """
     def _dead(code):
         return code in (404, 410)
@@ -2282,7 +2284,6 @@ def main(argv=None):
 
     _rid_by_key = {key: _row_id.get(row.name, ("", ""))
                    for key, row in current_by_key.items()}
-    current_ids = seen_index.ids_by_key(_rid_by_key)
     current_keys = set(current_by_key)
     is_new = seen_index.new_keys(current_keys, _rid_by_key, seen)
     print(f"  Feed: {len(current_keys):,} rows, {len(is_new):,} new, {len(seen):,} known")
@@ -2305,25 +2306,10 @@ def main(argv=None):
                 if not fut.result():
                     dead_keys.add(futs[fut])
 
-    closed = []
-    for k, meta in seen.items():
-        if meta.get("closed"):
-            continue  # already reported once; a closure is not re-announced
-        if k in current_keys:
-            continue
-        rid = (str(meta.get("ats") or "").strip(), str(meta.get("req") or "").strip())
-        if rid[0] and rid[1] and rid in current_ids:
-            continue  # same requisition under a new text key -- not a closure
-        bucket = _seen_bucket(k.split("|", 1)[0])
-        if buckets_fresh.get(bucket, False):
-            closed.append({
-                "key": k,
-                "first_seen": meta.get("first", ""),
-                "last_seen": meta.get("last", ""),
-                "ats_type": rid[0],
-                "ats_id": rid[1],
-            })
-            meta["closed"] = obs
+    # Closure detection lives in seen_index.commit, which runs below with the
+    # same inputs: doing it here as well stamped entries closed and then handed
+    # commit an already-stamped log, so the run reported 0 closures while 59k
+    # entries were silently retired. One owner, one count.
 
     # Drop dead new postings from the feed, then persist seen state.
     if dead_keys:
@@ -2641,11 +2627,11 @@ def main(argv=None):
     )
     # Compressed, streamable parts + manifest: clients can fetch one shard and
     # read counts/coverage/timestamps without downloading the whole feed.
-    # On by default: shard bytes are deterministic (sorted keys, fixed order),
-    # so a client can fetch one part and an unchanged part produces identical
-    # bytes -- git stores it once instead of once per run. Set
-    # SEARCHTERN_SHARDS=0 to publish the monolithic JSON only.
-    if os.environ.get("SEARCHTERN_SHARDS", "1") == "1":
+    # Off by default, per docs/reverse-engineering/publication-migration.md: the
+    # pipeline still commits the monolithic JSON, so publishing the parts too
+    # adds ~14.5 MB per run (~170 MB/day at the current schedule) until the
+    # site reads the manifest. Set SEARCHTERN_SHARDS=1 after that reader swap.
+    if os.environ.get("SEARCHTERN_SHARDS", "0") == "1":
         _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
         _manifest = shards.publish(searchtern_result, _pages, name="listings")
         if _manifest:

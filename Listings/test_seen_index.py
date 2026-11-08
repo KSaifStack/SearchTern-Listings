@@ -39,6 +39,23 @@ def test_a_gone_requisition_closes_exactly_once():
     assert again == []      # stamped closed instead of re-reported every run
 
 
+def test_every_stamped_closure_is_reported_by_the_same_call():
+    """The log and the run summary must never disagree.
+
+    Regression for the 2026-11-08 crawl: main stamped 59,227 entries closed and
+    then reported 0, because a duplicate closure loop in the pipeline ran first
+    and ``commit`` returned an empty list from the already-stamped log.
+    """
+    seen = {
+        "ats|acme|Engineer|NY": _entry("greenhouse", "4012345"),
+        "ats|acme|Analyst|NY": _entry("greenhouse", "4012346"),
+    }
+    closed, out, _ = seen_index.commit(seen, {}, {}, FRESH, _bucket, NOW)
+    stamped = [k for k, v in out.items() if v.get("closed") == NOW]
+    assert sorted(c["key"] for c in closed) == sorted(stamped)
+    assert len(closed) == 2
+
+
 def test_a_bucket_that_was_not_fetched_never_closes():
     seen = {"ats|acme|Engineer|NY": _entry("greenhouse", "4012345")}
     closed, _, _ = seen_index.commit(seen, {}, {}, {"ats": False}, _bucket, NOW)
