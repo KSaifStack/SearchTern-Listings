@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-08T15:55:45Z",
+ "built_at": "2026-11-08T21:00:27Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -18705,6 +18705,37 @@
      "count": 1,
      "median_salary": 196936,
      "title": "DIRECTOR BUSINESS INTELLIGENCE"
+    }
+   ]
+  },
+  "gza geoenvironmental": {
+   "fetched_at": "2026-11-08T21:00:27Z",
+   "label": "GZA GeoEnvironmental",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 97489,
+     "title": "ASSISTANT PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 79539,
+     "title": "ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 117562,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 77064,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 68016,
+     "title": "PLANNER II"
     }
    ]
   },
