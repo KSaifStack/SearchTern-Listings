@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-08T06:44:29Z",
+ "built_at": "2026-11-08T15:55:45Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -161,6 +161,11 @@
   "actalentservices": {
    "fetched_at": "2026-10-24T20:11:05Z",
    "label": "actalentservices",
+   "titles": []
+  },
+  "acuren": {
+   "fetched_at": "2026-11-08T15:55:42Z",
+   "label": "acuren",
    "titles": []
   },
   "adobe": {
@@ -15604,6 +15609,11 @@
   "fa ewqq saasfaprod1": {
    "fetched_at": "2026-10-25T08:51:25Z",
    "label": "Fa Ewqq Saasfaprod1",
+   "titles": []
+  },
+  "fa exhh saasfaprod1 staplescanada": {
+   "fetched_at": "2026-11-08T15:55:43Z",
+   "label": "Fa Exhh Saasfaprod1 (StaplesCanada)",
    "titles": []
   },
   "fa exty saasfaprod1": {
@@ -37012,6 +37022,11 @@
   "stradaeducation": {
    "fetched_at": "2026-11-08T00:16:05Z",
    "label": "stradaeducation",
+   "titles": []
+  },
+  "stratolaunch": {
+   "fetched_at": "2026-11-08T15:55:44Z",
+   "label": "stratolaunch",
    "titles": []
   },
   "stripe": {

@@ -6535,6 +6535,11 @@
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
   },
   {
+    "key": "jobhive|Enfra|Pre-Engineering Mechanical Intern|Newark, NJ, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Thesilverlining|Summer 2027 Intern - IT Data Engineer|West Bend, WI, US",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-09-24T22:49:49.259308+00:00"
@@ -6873,6 +6878,11 @@
     "key": "jobhive|Linksolutionsinc|Help Desk Support Analyst (Entry-Level)|Frederick, MD, us",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-10-20T14:26:03.790341+00:00"
+  },
+  {
+    "key": "jobhive|BAE Systems|Optical Engineering Intern, Summer 2027|Boulder, Colorado, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Opengov|Product Intern|US | Massachusetts | Boston",
@@ -7255,14 +7265,9 @@
     "last_seen": "2026-09-29T10:37:57.279492+00:00"
   },
   {
-    "key": "jobhive|Westfield|2027 Summer Intern Program- IT Intern, Berkeley Heights, NJ|Berkeley Heights, NJ, United States",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
     "key": "jobhive|Autozone|AutoZone 2027 Summer Internship – Information Technology|Memphis, TN, United States",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Jpmorgan Chase|2027 Forest Economics and Research Internship – Emerging Talent Summer Experience Program|Portland, OR, United States",
@@ -7962,7 +7967,7 @@
   {
     "key": "jobhive|Stripe|Software Engineer, Early Career — Immediate Start|San Francisco, Seattle, New York",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Dadavidson|2027 Wealth Management Research Internship Program|Seattle, WA",
@@ -8347,7 +8352,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA)|Seattle, Washington, USA",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|2027 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting, Automated Reasoning|Seattle, Washington, USA",
@@ -9605,6 +9610,11 @@
     "last_seen": "2026-10-31T14:09:43.986585+00:00"
   },
   {
+    "key": "jobhive|Novelis|Process Engineering Intern|Bay Minette, AL, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Homeoffice Na Urbn|URBN Digital Product Creation Intern|Philadelphia, PA, US",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-10-31T14:09:43.986585+00:00"
@@ -9850,6 +9860,11 @@
     "last_seen": "2026-10-09T13:57:44.517662+00:00"
   },
   {
+    "key": "jobhive|Ladder|Commercial Electrical Foremen, Electricians & Apprentice with All-State Electrical Contractors, LLC|Atlanta, GA",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Foxconnggroup|2027 Fii Summer Internship – Engineering Roles|Houston, TX",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-09-29T10:37:57.279492+00:00"
@@ -9858,6 +9873,11 @@
     "key": "jobhive|Foxconnggroup|2027 Fii Summer Internship – Business, IT & Operations Intern Roles|Houston, TX",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-09-29T10:37:57.279492+00:00"
+  },
+  {
+    "key": "jobhive|Applied Materials|2027 Spring Electrical Engineer (Controls, PCB) Co-op BS or MS (Gloucester, MA)|Gloucester, MA, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|CACI|Junior Systems Engineer|King George, VA, US",
@@ -10380,9 +10400,9 @@
     "last_seen": "2026-10-01T08:16:43.675769+00:00"
   },
   {
-    "key": "jobhive|Amazon|Data Center Engineering Operations Technician Internship|Herndon, Virginia, USA",
+    "key": "jobhive|Ladder|Electrician Apprentice with Sole Source Electrical Contractors|Dallas, GA",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-06T21:41:39.643169+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|CACI|Software Engineer Intern - Summer 2027|Ypsilanti, MI, US",
@@ -11258,11 +11278,6 @@
     "key": "jobhive|Fa Evfm Saasfaprod|Engineer I Civil/Structural- Intern|Stonington, CT, United States",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-09-24T20:53:28.542460+00:00"
-  },
-  {
-    "key": "jobhive|Haley Aldrich|Intern, Environmental Scientist, Environmental Engineer, or Geologist|Holicong, PA, US",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
     "key": "jobhive|EJIS|Junior Engineer-Plant Operations-Mount Sinai Hospital-Full Time/Evenings (3pm-11pm)/ Weekends|United States",
@@ -13507,7 +13522,7 @@
   {
     "key": "jobhive|Williams Sonoma|2027 Design Internship – San Francisco|San Francisco, CA, United States",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|Berkshiregrey|Spring 2027 Hardware Quality Co-op|Bedford, Massachusetts, United States",
@@ -14365,6 +14380,11 @@
     "last_seen": "2026-10-09T13:57:44.517662+00:00"
   },
   {
+    "key": "jobhive|Skanska|Heavy Civil Infrastructure Winter 26-27 Internship|District of Columbia, DC, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
+  },
+  {
     "key": "jobhive|Steeldynamics|Mechanical Engineering Internship|New Haven, IN, US",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-10-21T12:32:05.463209+00:00"
@@ -14568,11 +14588,6 @@
     "key": "jobhive|Itc Holdings|Intern - Electrical Engineering 2027|Novi, MI, United States",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-10-14T14:23:41.173572+00:00"
-  },
-  {
-    "key": "jobhive|Dtcc Candidate Experience Site|Infrastructure Engineer Intern [2027 Intern Program]|Jersey City, NJ, United States",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-02T18:12:00.648766+00:00"
   },
   {
     "key": "jobhive|Gitai|Electrical Engineer, Early Career|Los Angeles, California, United States",
@@ -15345,6 +15360,11 @@
     "last_seen": "2026-10-13T12:28:03.793784+00:00"
   },
   {
+    "key": "jobhive|GE Aerospace|Engines Engineering Intern – US – Summer 2027|Evendale, Ohio, United States of America",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|GE Aerospace|Systems Engineering Co-op - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Fall 2027|Grand Rapids, Michigan, United States of America",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -15363,6 +15383,16 @@
     "key": "jobhive|GE Aerospace|Engines Engineering Co-op – US – Fall 2027|Evendale, Ohio, United States of America",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|GE Aerospace|Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027|Evendale, Ohio, United States of America",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|GE Aerospace|Manufacturing Engineering Intern – US – Summer 2027|Evendale, Ohio, United States of America",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|GE Aerospace|Systems Engineering Intern - Electrical Engineering & Computer Engineering/Science (Avionics) - US - Summer 2027|Grand Rapids, Michigan, United States of America",
@@ -15555,6 +15585,11 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
+    "key": "jobhive|Applied Materials|2026-2027 Process Engineer Co-op - Doctorate (Gloucester, MA)|Gloucester, MA, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|SAS|Security Officer (SAS Cary Campus) Full Benefits, 3 weeks PTO|Cary HQ, NC, US",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-09-30T14:24:53.936046+00:00"
@@ -15573,6 +15608,11 @@
     "key": "jobhive|Amazon|Automation Engineer Intern, (Nationwide) - Summer 2027|Shippensburg, Pennsylvania, USA",
     "first_seen": "2026-09-24T01:37:06.249449+00:00",
     "last_seen": "2026-11-08T06:04:41.551097+00:00"
+  },
+  {
+    "key": "jobhive|Ladder|Electrical Apprentice (A1) with Gaylor Electric|Atlanta, GA",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Bestow|Business Operations and AI Intern|Dallas, TX",
@@ -56457,12 +56497,12 @@
   {
     "key": "jobhive|Amazon|Automation Engineer Intern, (Nationwide) - Summer 2027|Plainfield, Indiana, USA",
     "first_seen": "2026-09-24T01:46:27.316642+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Fa Esgu Saasfaprod|Safety Engineering Intern – Spring 2027|United States",
     "first_seen": "2026-09-24T01:46:27.316642+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "md|ESRI|Software Development Engineer 1|St. Louis, MO",
@@ -58153,6 +58193,11 @@
     "key": "jobhive|Arcadis|Water Engineer Intern|Guaynabo, PR, United States",
     "first_seen": "2026-09-24T02:00:13.113378+00:00",
     "last_seen": "2026-09-25T02:17:05.414482+00:00"
+  },
+  {
+    "key": "jobhive|Westfield|2027 Summer Intern Program- IT Intern, Chicago|Chicago, IL, United States",
+    "first_seen": "2026-09-24T02:00:13.113378+00:00",
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA)|Arlington, Virginia, USA",
@@ -63227,7 +63272,7 @@
   {
     "key": "jobhive|Amazon|Data Center Engineering Operations Technician Internship|Manassas, Virginia, USA",
     "first_seen": "2026-09-24T02:13:51.478366+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026|Jessup, Maryland, USA",
@@ -63598,11 +63643,6 @@
     "key": "jobhive|Careers At Myers And Stauffer|Analyst Intern - Indianapolis, IN (Summer 2027)|Indianapolis, IN, United States",
     "first_seen": "2026-09-24T03:52:17.309698+00:00",
     "last_seen": "2026-10-21T03:54:07.425827+00:00"
-  },
-  {
-    "key": "jobhive|Amazon|Automation Engineer Intern, (Nationwide) - Summer 2027|Dupont, Washington, USA",
-    "first_seen": "2026-09-24T03:52:17.309698+00:00",
-    "last_seen": "2026-11-07T01:35:05.077648+00:00"
   },
   {
     "key": "jobhive|Fa Esgu Saasfaprod|Safety Engineering Intern – Summer 2027|United States",
@@ -64747,7 +64787,7 @@
   {
     "key": "jobhive|Amazon|Automation Engineer Intern, (Nationwide) - Summer 2027|Mt Juliet, Tennessee, USA",
     "first_seen": "2026-09-24T09:08:20.006751+00:00",
-    "last_seen": "2026-11-05T17:46:07.056685+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|Fa Esgu Saasfaprod|Investment Analyst Intern|MN, United States",
@@ -66675,6 +66715,11 @@
     "last_seen": "2026-09-24T20:53:28.542460+00:00"
   },
   {
+    "key": "jobhive|Fa Esgu Saasfaprod|BLUvera Engineering Intern|Saint Paul, MN, United States",
+    "first_seen": "2026-09-24T09:14:59.909602+00:00",
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
+  },
+  {
     "key": "jobhive|EKAW|Entry Level Security Officer | $250 Hiring Bonus After 90 Days|Dry Ridge, KY, United States",
     "first_seen": "2026-09-24T12:59:06.415095+00:00",
     "last_seen": "2026-10-28T07:51:41.947515+00:00"
@@ -67165,9 +67210,14 @@
     "last_seen": "2026-10-02T00:17:50.214112+00:00"
   },
   {
+    "key": "jobhive|Dtcc Candidate Experience Site|Data Solutions Intern [2027 Internship Program]|Tampa, FL, United States",
+    "first_seen": "2026-09-24T14:31:41.325994+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Fa Esgu Saasfaprod|ITS Analyst Intern|MN, United States",
     "first_seen": "2026-09-24T14:31:41.325994+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|Graphcore Early|Graduate Systems Engineer|Austin, Texas, United States",
@@ -67222,12 +67272,22 @@
   {
     "key": "jobhive|Dtcc Candidate Experience Site|Information Security Intern [2027 Intern Program]|Jersey City, NJ, United States",
     "first_seen": "2026-09-24T16:52:48.827194+00:00",
-    "last_seen": "2026-11-01T23:15:28.693784+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Automation Engineer Intern, (Nationwide) - Summer 2027|Virginia Beach, Virginia, USA",
+    "first_seen": "2026-09-24T16:52:48.827194+00:00",
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
   },
   {
     "key": "md|Bosch Home Comfort|Product Management Intern|Southfield, MI",
     "first_seen": "2026-09-24T17:44:55.930263+00:00",
     "last_seen": "2026-11-02T20:59:05.933972+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Data Center Engineering Operations Technician Internship|Chantilly, Virginia, USA",
+    "first_seen": "2026-09-24T17:44:55.930263+00:00",
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
   },
   {
     "key": "jobhive|Fa Esgu Saasfaprod|AI Intern|MN, United States",
@@ -71197,7 +71257,7 @@
   {
     "key": "jobhive|Amazon|Data Center Engineering Operations Technician Internship|Ashburn, Virginia, USA",
     "first_seen": "2026-09-24T23:07:42.479845+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Bgeinc|HOUSTON - Electrical Engineer-Power Systems, New Grad|10777 Westheimer Road, Suite 400, Houston, Texas 77042",
@@ -73807,7 +73867,7 @@
   {
     "key": "jobhive|Fa Esgu Saasfaprod|Electrical Engineering Intern – Spring 2027|United States",
     "first_seen": "2026-09-25T09:12:23.667056+00:00",
-    "last_seen": "2026-11-01T23:15:28.693784+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "freehire|Mobius|Cyber Security Internship|Alexandria, VA",
@@ -74692,7 +74752,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer I, Annapurna Labs, Early Career - 2027|Cupertino, California, USA",
     "first_seen": "2026-09-25T14:51:50.466519+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027|Cupertino, California, USA",
@@ -74702,7 +74762,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)|Denver, Colorado, USA",
     "first_seen": "2026-09-25T14:51:50.466519+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Startup Solutions Architect, Early Stage Startups|San Francisco, California, USA",
@@ -74742,7 +74802,7 @@
   {
     "key": "jobhive|EKAW|Hiring Event for Entry Level Security Officers - Offers on the Spot!|Manassas, VA, United States",
     "first_seen": "2026-09-25T14:51:50.466519+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Hcog Cx 2001|Entry-Level Field Technician - Construction Materials Testing|Clute, TX, United States",
@@ -74917,7 +74977,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)|Jessup, Maryland, USA",
     "first_seen": "2026-09-25T19:00:25.804588+00:00",
-    "last_seen": "2026-11-07T08:07:50.733609+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Stantec|Civil/Geotechnical Engineering Intern Co-op - Water (Spring/Summer 2027)|Louisville, KY, United States",
@@ -77282,7 +77342,7 @@
   {
     "key": "jobhive|Amazon|ASIC Engineer I, Annapurna Labs, Early Career - 2027|Austin, Texas, USA",
     "first_seen": "2026-09-25T19:42:22.526966+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Fa Esgu Saasfaprod|Strategy Analyst Intern|MN, United States",
@@ -77398,11 +77458,6 @@
     "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Product Management (New York, NY)|New York, NY, United States",
     "first_seen": "2026-09-25T19:59:07.196635+00:00",
     "last_seen": "2026-10-01T00:55:12.306957+00:00"
-  },
-  {
-    "key": "jobhive|Fa Esgu Saasfaprod|Graphic Design Intern|MN, United States",
-    "first_seen": "2026-09-25T19:59:07.196635+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
   },
   {
     "key": "md|Kodiak Robotics|AI/ML Intern - Artificial Intelligence/Machine Learning|Mountain View, CA",
@@ -78272,7 +78327,7 @@
   {
     "key": "jobhive|Amazon|Automation Engineer Intern, (Nationwide) - Summer 2027|Rossford, Ohio, USA",
     "first_seen": "2026-09-25T23:15:01.511388+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Fa Espx Saasfaprod|Thermal and Fluid Sciences Engineering - Internship Positions|Columbus, IN, United States",
@@ -80862,7 +80917,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)|Arlington, Virginia, USA",
     "first_seen": "2026-09-27T11:09:58.239602+00:00",
-    "last_seen": "2026-11-07T20:28:33.695300+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "md|Corning Incorporated|Mechanical Engineering Intern - Summer 2027|Fairport, NY, United States",
@@ -84512,7 +84567,7 @@
   {
     "key": "jobhive|Amazon|ASIC Engineer I, Annapurna Labs, Early Career - 2027|Seattle, Washington, USA",
     "first_seen": "2026-09-28T16:25:18.327445+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|City Of Lubbock|It Intern - Projects|1314 Avenue K Lubbock, TX",
@@ -96300,11 +96355,6 @@
     "last_seen": "2026-10-02T13:18:36.911040+00:00"
   },
   {
-    "key": "jobhive|Ralliant|Manufacturing Engineering Intern - Summer 2027|Boxborough, MA, United States",
-    "first_seen": "2026-09-30T18:40:24.379246+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
-  },
-  {
     "key": "jobhive|PMAT|Junior Software Engineer (SSDS)|San Diego, California, United States",
     "first_seen": "2026-09-30T18:40:24.379246+00:00",
     "last_seen": "2026-10-07T10:42:01.499821+00:00"
@@ -98715,6 +98765,11 @@
     "last_seen": "2026-10-13T12:28:03.793784+00:00"
   },
   {
+    "key": "jobhive|Ralliant|Manufacturing Engineering Intern - Summer 2027|Plainville, CT, United States",
+    "first_seen": "2026-09-30T20:24:30.522026+00:00",
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
+  },
+  {
     "key": "jobhive|Amazon|Associate Solutions Architect, AGS-Tech, Early Career - 2027|Seattle, Washington, USA",
     "first_seen": "2026-09-30T20:24:30.522026+00:00",
     "last_seen": "2026-10-15T06:39:18.767373+00:00"
@@ -99972,7 +100027,7 @@
   {
     "key": "jobhive|Ericsson|Networks CNS Intern|Texas, United States",
     "first_seen": "2026-09-30T22:42:03.720034+00:00",
-    "last_seen": "2026-11-07T20:28:33.695300+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|HCEX|Telecom Installer Apprentice|Little Rock, AR, United States",
@@ -102462,7 +102517,7 @@
   {
     "key": "jobhive|Stripe|High School Internship, Software Engineering (Summer 2027)|Seattle, San Francisco",
     "first_seen": "2026-10-01T14:57:46.867933+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Securitycareers Aus|Security Officer University Campus Relief / Patrol|Pittsburgh, PA, US",
@@ -128817,7 +128872,7 @@
   {
     "key": "jobhive|Stripe|Data Analyst, Intern|New York, Seattle, South San Francisco HQ",
     "first_seen": "2026-10-02T17:02:37.387188+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Dlrgroup|Structural Engineering Intern | Summer 2027|Portland, Oregon, United States; Seattle, Washington, United States",
@@ -129060,6 +129115,11 @@
     "last_seen": "2026-10-06T11:06:20.169605+00:00"
   },
   {
+    "key": "jobhive|HDJM|IVF Research Intern|Sioux Center, IA, United States",
+    "first_seen": "2026-10-02T17:02:37.387188+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Icfcjb|High School Intern (FL) - Engineering (US Citizens)|Clearwater, FL, United States",
     "first_seen": "2026-10-02T17:02:37.387188+00:00",
     "last_seen": "2026-10-13T12:28:03.793784+00:00"
@@ -129177,7 +129237,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC)|Jessup, Maryland, USA",
     "first_seen": "2026-10-02T17:02:37.387188+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Peraton|Junior Linux Systems Engineer / Active TS/SCI|Quantico, VA, US",
@@ -129198,16 +129258,6 @@
     "key": "jobhive|Applied|Scenario Engineer - New Grad (2027)|Sunnyvale",
     "first_seen": "2026-10-02T17:02:37.387188+00:00",
     "last_seen": "2026-10-20T14:26:03.790341+00:00"
-  },
-  {
-    "key": "jobhive|Zarna|AI Software Engineering Intern|San Francisco, CA, US",
-    "first_seen": "2026-10-02T17:02:37.387188+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
-    "key": "jobhive|Reason Machines|Engineering Internship|San Francisco, CA, US",
-    "first_seen": "2026-10-02T17:02:37.387188+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
   },
   {
     "key": "jobhive|Twelve Labs|Senior Backend Engineer (Internal Products)|United States",
@@ -132707,7 +132757,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026, Amazon Dedicated Cloud (ADC)|Herndon, Virginia, USA",
     "first_seen": "2026-10-03T00:49:27.795051+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|Thinkingbox|Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)|Chicago",
@@ -153805,21 +153855,6 @@
     "last_seen": "2026-10-05T07:55:54.431432+00:00"
   },
   {
-    "key": "jobhive|Silimate|AI Research Intern|Mountain View, CA, US",
-    "first_seen": "2026-10-04T17:55:02.294869+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
-    "key": "jobhive|Silimate|Applied AI Intern|Mountain View, CA, US",
-    "first_seen": "2026-10-04T17:55:02.294869+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
-    "key": "jobhive|Silimate|Chip/EDA/Software Intern|Mountain View, CA, US",
-    "first_seen": "2026-10-04T17:55:02.294869+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
     "key": "freehire|Amazon Development Center U S Inc|Software Development Engineer, AWS OpenSearch|Austin, United States",
     "first_seen": "2026-10-04T17:55:02.294869+00:00",
     "last_seen": "2026-10-14T20:59:52.893025+00:00"
@@ -168700,11 +168735,6 @@
     "last_seen": "2026-10-21T08:59:29.915610+00:00"
   },
   {
-    "key": "jobhive|Pivotalsys|Junior Electrical Engineer|Reno, Nevada, United States",
-    "first_seen": "2026-10-07T14:51:21.155158+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
-  },
-  {
     "key": "jobhive|CACI|Cyber Analyst Intern - Summer 2027|Ashburn, VA, US",
     "first_seen": "2026-10-07T14:51:21.155158+00:00",
     "last_seen": "2026-10-28T07:51:41.947515+00:00"
@@ -176002,7 +176032,7 @@
   {
     "key": "jobhive|Fa Etum Saasfaprod|IT Summer 2027 Undergraduate Internship|Jacksonville, FL, United States",
     "first_seen": "2026-10-08T16:21:21.233005+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Mechatronic Apprentice I, Reliability & Maintenance Engineering|Pooler, Georgia, USA",
@@ -178337,7 +178367,7 @@
   {
     "key": "jobhive|Arconic|Manufacturing Engineering Intern|Cranberry Township, PA, United States",
     "first_seen": "2026-10-08T22:05:40.052814+00:00",
-    "last_seen": "2026-11-07T23:29:12.575183+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Nokia|ASIC Physical Design Coop|United States",
@@ -182060,6 +182090,11 @@
     "last_seen": "2026-10-14T14:23:41.173572+00:00"
   },
   {
+    "key": "jobhive|MEMX|Network Engineering Intern, Summer 2027 (Hybrid, NYC)|United States",
+    "first_seen": "2026-10-09T15:59:39.973224+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
     "key": "jobhive|Perpay|Super Day - Software Engineer, New Grad|Philadelphia, Pennsylvania, United States",
     "first_seen": "2026-10-09T15:59:39.973224+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
@@ -182712,7 +182747,7 @@
   {
     "key": "jobhive|EDYO|Protection & Controls Student Intern|Fort Mill, SC, United States",
     "first_seen": "2026-10-09T19:12:41.536705+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "ats|Disney|Disney Consumer Products Softlines (Apparel) Licensing Intern, Spring 2027|Glendale, CA, USA",
@@ -187802,7 +187837,7 @@
   {
     "key": "jobhive|Ericsson|Data Center Technician I - Entry Level|Texas, United States",
     "first_seen": "2026-10-10T15:13:43.598752+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|GE Aerospace|Entry Level - FPGA Design/Verification Engineer|Grand Rapids, Michigan, United States of America",
@@ -190005,11 +190040,6 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
-    "key": "jobhive|PAX|Software Engineer (Early Career)|San Francisco, CA, US",
-    "first_seen": "2026-10-11T15:37:51.271525+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
     "key": "jobhive|Albertsons Companies|Front End Entry Level|Clatskanie, OR, United States",
     "first_seen": "2026-10-11T16:04:32.699148+00:00",
     "last_seen": "2026-10-11T20:58:38.753737+00:00"
@@ -190022,7 +190052,7 @@
   {
     "key": "jobhive|S C Minimal Career Site|Mechanical Engineer Intern - Franklin,WI|Franklin, WI, United States",
     "first_seen": "2026-10-11T16:04:32.699148+00:00",
-    "last_seen": "2026-11-07T02:08:23.980860+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|Homesteaders Life Company|Junior Graphic Designer|West Des Moines, United States",
@@ -195190,6 +195220,11 @@
     "last_seen": "2026-10-13T17:15:22.934192+00:00"
   },
   {
+    "key": "jobhive|Albertsons Companies|Front End Entry Level|San Diego, CA, United States",
+    "first_seen": "2026-10-13T17:15:22.934192+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
     "key": "jobhive|Kimley Horn|Landscape Architecture Intern|Lehi, UT, US",
     "first_seen": "2026-10-13T17:15:22.934192+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
@@ -195478,11 +195513,6 @@
     "key": "jobhive|Dispatch|Mechanical Engineering Intern, Spring 2027|San Francisco, CA, US",
     "first_seen": "2026-10-13T17:15:22.934192+00:00",
     "last_seen": "2026-10-16T14:25:04.355566+00:00"
-  },
-  {
-    "key": "jobhive|Terranox Ai|Fall Intern - AI/ML Engineering|San Francisco, CA, US",
-    "first_seen": "2026-10-13T17:15:22.934192+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
   },
   {
     "key": "jobhive|Contoro|Robotics Test & Validation Intern (Test Team)|Austin, TX",
@@ -200455,6 +200485,11 @@
     "last_seen": "2026-10-29T10:32:12.213773+00:00"
   },
   {
+    "key": "jobhive|Adobe|2027 University Graduate - Enterprise Architecture Analyst|Austin, Texas, United States of America",
+    "first_seen": "2026-10-14T14:47:25.615959+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Mars|Summer 2027 Mars Global Petcare R&D Product Development Internship|Franklin, Tennessee, United States",
     "first_seen": "2026-10-14T14:47:25.615959+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
@@ -200623,21 +200658,6 @@
     "key": "jobhive|American Tower Global|Engineering Co-Op|Cary, NC, United States",
     "first_seen": "2026-10-14T14:47:25.615959+00:00",
     "last_seen": "2026-11-02T20:59:05.933972+00:00"
-  },
-  {
-    "key": "jobhive|Runtime|Founding Software Engineer, Robotics Infrastructure|San Francisco, CA, US",
-    "first_seen": "2026-10-14T14:47:25.615959+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
-    "key": "jobhive|Runtime|Electrical Engineer, Robotics|San Francisco, CA, US",
-    "first_seen": "2026-10-14T14:47:25.615959+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
-    "key": "jobhive|Runtime|Mechatronics Engineer|San Francisco, CA, US",
-    "first_seen": "2026-10-14T14:47:25.615959+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
   },
   {
     "key": "freehire|Tenstorrent|Systems Intern - Validation, Software, Design, Architecture & Packaging (USA)|Austin, Texas, United States; Santa Clara, California, United States",
@@ -200868,6 +200888,11 @@
     "key": "jobhive|CVA|Fall Engineer Co-Op (Student)|North Kansas City, MO, United States",
     "first_seen": "2026-10-14T19:01:37.823859+00:00",
     "last_seen": "2026-10-22T13:38:05.446358+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA)|Madison, Wisconsin, USA",
+    "first_seen": "2026-10-14T19:01:37.823859+00:00",
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|Amazon|Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027|Westborough, Massachusetts, USA",
@@ -204727,7 +204752,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA)|Minneapolis, Minnesota, USA",
     "first_seen": "2026-10-15T06:39:18.767373+00:00",
-    "last_seen": "2026-11-07T20:15:24.899831+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "md|Dell Technologies|Cybersecurity Undergraduate Intern|Round Rock, TX, United States",
@@ -205360,9 +205385,9 @@
     "last_seen": "2026-10-21T12:32:05.463209+00:00"
   },
   {
-    "key": "jobhive|Viserion Grain|IT Intern|Visalia, CA, US",
+    "key": "jobhive|Westernmilling|IT Intern|Visalia, CA, US",
     "first_seen": "2026-10-15T17:40:53.259092+00:00",
-    "last_seen": "2026-11-07T23:29:12.575183+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Securitycareers Aus|Security Officer Financial Campus Full Time|Lone Tree, CO, US",
@@ -205408,11 +205433,6 @@
     "key": "jobhive|MSF|Multimedia Production Intern|New York, New York, United States",
     "first_seen": "2026-10-15T17:40:53.259092+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
-  },
-  {
-    "key": "jobhive|Securitycareers Aus|Security Flex Officer Technology Campus|Cupertino, CA, US",
-    "first_seen": "2026-10-15T17:40:53.259092+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
     "key": "jobhive|Residenthome|Junior Designer - Newton Baby|Remote (USA)",
@@ -206032,7 +206052,7 @@
   {
     "key": "jobhive|Amazon|Junior Design Verification Engineer, Amazon Leo|Sunnyvale, California, USA",
     "first_seen": "2026-10-15T19:34:06.512518+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|EKAW|Entry Level Security Officer| $250 Hiring Bonus after 90 days!!|Lawrenceburg, IN, United States",
@@ -209715,6 +209735,11 @@
     "last_seen": "2026-10-18T13:40:48.635177+00:00"
   },
   {
+    "key": "jobhive|Hcwx Cx 3001|Process Engineer Co-op Spring 2027|Cleveland, OH, United States",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
     "key": "jobhive|EFET|Apprentice Engineer- The Drake Hotel|Chicago, IL, United States",
     "first_seen": "2026-10-16T17:13:29.505679+00:00",
     "last_seen": "2026-10-22T14:11:26.217379+00:00"
@@ -209747,7 +209772,7 @@
   {
     "key": "jobhive|HCTZ|Summer 2027 - Device Characterization Engineering Intern|Hopewell Junction, NY, United States",
     "first_seen": "2026-10-16T17:13:29.505679+00:00",
-    "last_seen": "2026-11-07T00:00:13.385117+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|Hcog Cx 2001|Entry Level -Construction Material Testing Technician|Austin, TX, United States",
@@ -211620,11 +211645,6 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Hcwx Cx 3001|Quality Engineer Co-op Spring 2027|Cleveland, OH, United States",
-    "first_seen": "2026-10-16T23:31:21.886708+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
-  },
-  {
     "key": "jobhive|Iawmqy|Cybersecurity Undergraduate Intern|Round Rock, TX, United States",
     "first_seen": "2026-10-16T23:31:21.886708+00:00",
     "last_seen": "2026-10-18T06:46:23.513083+00:00"
@@ -213335,11 +213355,6 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Amazon|Software Development Engineer Intern - Summer 2027 (USA)|Austin, Texas, USA",
-    "first_seen": "2026-10-17T08:08:35.401130+00:00",
-    "last_seen": "2026-11-07T01:35:05.077648+00:00"
-  },
-  {
     "key": "freehire|Palantir Technologies|Forward Deployed Infrastructure Engineer, Internship - US Government|Palo Alto, United States",
     "first_seen": "2026-10-17T08:08:35.401130+00:00",
     "last_seen": "2026-10-25T10:19:35.065478+00:00"
@@ -213955,6 +213970,11 @@
     "last_seen": "2026-10-22T14:11:26.217379+00:00"
   },
   {
+    "key": "jobhive|BAE Systems|Technical Intern 3 - Service Desk|Clearfield, Utah, United States",
+    "first_seen": "2026-10-17T16:11:26.700932+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Cook Group|Spring 2026, Research & Development Co-op|Winston-Salem, NC, US",
     "first_seen": "2026-10-17T16:11:26.700932+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -214117,7 +214137,7 @@
   {
     "key": "jobhive|HCTZ|Summer 2027 - Technology Development Intern|Hopewell Junction, NY, United States",
     "first_seen": "2026-10-17T16:11:26.700932+00:00",
-    "last_seen": "2026-11-07T20:28:33.695300+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Well Enterprises Career Site|Internship - Research & Development - Summer 2027|Le Mars, IA, United States",
@@ -214178,11 +214198,6 @@
     "key": "jobhive|Enfra|Mechanical Engineering Intern|Little Rock, AR, US",
     "first_seen": "2026-10-17T16:11:26.700932+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
-  },
-  {
-    "key": "jobhive|Ambral|Member of Technical Staff (New Grad)|New York / San Francisco",
-    "first_seen": "2026-10-17T16:11:26.700932+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
   },
   {
     "key": "jobhive|Albertsons Companies|Front End Entry Level|Fairbanks, AK, United States",
@@ -217698,11 +217713,6 @@
     "key": "jobhive|Albertsons Companies|Front End Entry Level|Alliance, NE, United States",
     "first_seen": "2026-10-18T15:02:16.740112+00:00",
     "last_seen": "2026-10-19T10:43:04.792348+00:00"
-  },
-  {
-    "key": "jobhive|Manicule|Engineering Intern|San Francisco, CA, US",
-    "first_seen": "2026-10-18T15:02:16.740112+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
   },
   {
     "key": "md|Credence|Air Force Maintenance Product Owner|Warner Robins, Georgia",
@@ -233930,16 +233940,6 @@
     "last_seen": "2026-10-22T14:11:26.217379+00:00"
   },
   {
-    "key": "jobhive|Abundant|Member of Technical Staff, Research (Intern Winter 2027)|San Francisco",
-    "first_seen": "2026-10-20T15:26:30.836572+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
-    "key": "jobhive|Juxta|Data Collection/Processing Intern|San Francisco, CA, US",
-    "first_seen": "2026-10-20T15:26:30.836572+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
     "key": "jobhive|Turner Construction|Entry Level Field Engineer – Virginia / Washington D.C.|Reston, VA, US",
     "first_seen": "2026-10-20T15:26:30.836572+00:00",
     "last_seen": "2026-11-04T19:00:01.743499+00:00"
@@ -237715,11 +237715,6 @@
     "last_seen": "2026-10-27T20:49:10.624239+00:00"
   },
   {
-    "key": "jobhive|Amazon|Software Development Engineer, Early Career - 2027 (US)|Minneapolis, Minnesota, USA",
-    "first_seen": "2026-10-21T01:05:58.999474+00:00",
-    "last_seen": "2026-11-07T23:29:12.575183+00:00"
-  },
-  {
     "key": "ats|Virtu Financial|2027 Internship - Quantitative Researcher (PhD)|New York",
     "first_seen": "2026-10-21T01:05:58.999474+00:00",
     "last_seen": "2026-10-21T02:31:38.571210+00:00"
@@ -238612,7 +238607,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer, Early Career - 2027 (US)|Arlington, Virginia, USA",
     "first_seen": "2026-10-21T02:31:38.571210+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|Quizcademy|Software Engineer Intern|Seattle; San Francisco",
@@ -241087,7 +241082,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer, Early Career - 2027 (US)|Denver, Colorado, USA",
     "first_seen": "2026-10-21T12:32:05.463209+00:00",
-    "last_seen": "2026-11-07T05:48:23.306853+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "freehire|John Deere|IT Development Program - Software Engineering|Moline, IL,Illinois,United States",
@@ -241813,6 +241808,11 @@
     "key": "jobhive|GDMS|Software Engineer Intern|Pittsburgh, PA, US",
     "first_seen": "2026-10-21T14:46:08.102398+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
+  },
+  {
+    "key": "jobhive|Microsoft|Data Science - Forward Deployed Engineer: PhD Internship Opportunities|Redmond, WA, US",
+    "first_seen": "2026-10-21T14:46:08.102398+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|BAE Systems|Industrial Engineering Intern - Systems Focus, Summer 2027|Westminster, Colorado, United States",
@@ -247960,6 +247960,11 @@
     "last_seen": "2026-10-28T07:51:41.947515+00:00"
   },
   {
+    "key": "jobhive|Bayer|Engineering Technician Co-Op|AMES,Iowa,United States",
+    "first_seen": "2026-10-22T14:46:25.733418+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Turner Construction|Entry Level Field Engineer, 2027 - Boston|Boston, MA, US",
     "first_seen": "2026-10-22T14:46:25.733418+00:00",
     "last_seen": "2026-10-28T23:51:26.450021+00:00"
@@ -248803,11 +248808,6 @@
     "key": "jobhive|Otter|Software Engineer, Backend (New Grad)|Mountain View, CA, United States",
     "first_seen": "2026-10-22T16:52:23.194485+00:00",
     "last_seen": "2026-10-23T13:13:59.859193+00:00"
-  },
-  {
-    "key": "jobhive|Cr Dit Agricole Cib|Summer Analyst - Energy and Real Assets - Structured Finance, Transportation|New York, New York, United States",
-    "first_seen": "2026-10-22T16:52:23.194485+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
     "key": "jobhive|Ericsson|Networks NPI Intern|Washington, United States",
@@ -251483,6 +251483,11 @@
     "key": "jobhive|Albertsons Companies|Front End Entry Level|SeaTac, WA, United States",
     "first_seen": "2026-10-23T00:26:15.292779+00:00",
     "last_seen": "2026-10-23T00:26:15.292779+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Software Development Engineer, Early Career - 2027 (US)|Detroit, Michigan, USA",
+    "first_seen": "2026-10-23T00:26:15.292779+00:00",
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "md|Pdt Partners|Summer 2027 Software Engineering Intern|New York City, NY",
@@ -254618,6 +254623,16 @@
     "key": "jobhive|Sacred Heart University|Information Technology - Senior Billing Specialist, Facilities & Campus Operations|3135 Easton Turnpike, Fairfield, CT, US",
     "first_seen": "2026-10-23T16:43:39.022273+00:00",
     "last_seen": "2026-10-31T14:09:43.986585+00:00"
+  },
+  {
+    "key": "jobhive|Icf|Energy and Climate Researcher (Entry Level, Summer 2027, Hybrid)|Arlington, Virginia, United States of America",
+    "first_seen": "2026-10-23T16:43:39.022273+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|System Development Engineer Intern/Co-op, ROBOTICS -  2027|North Reading, Massachusetts, USA",
+    "first_seen": "2026-10-23T16:43:39.022273+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Solstice Advanced Materials|Intern Bachelors Engineering|Metropolis, IL, United States",
@@ -259473,11 +259488,6 @@
     "key": "md|Mongodb|2027 - Software Engineering Intern, AMER|San Francisco, CA, USA",
     "first_seen": "2026-10-24T06:38:24.534364+00:00",
     "last_seen": "2026-10-30T20:48:14.636103+00:00"
-  },
-  {
-    "key": "jobhive|Amazon|System Development Engineer Intern/Co-op, ROBOTICS -  2027|Nashville, Tennessee, USA",
-    "first_seen": "2026-10-24T08:29:57.603146+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
   },
   {
     "key": "freehire|Idemia Leader In Biometrics And Cryptography|Cloud Software Engineering Internship|Reston, VA, US",
@@ -274397,7 +274407,7 @@
   {
     "key": "jobhive|S C Minimal Career Site|Mechanical Engineer (Facilities) Intern|Chicago, IL, United States",
     "first_seen": "2026-10-27T15:37:35.064089+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|HCTZ|Summer 2027 - AI & Data Science Intern|San Jose, CA, United States",
@@ -274423,6 +274433,11 @@
     "key": "jobhive|CVA|HR AI & Process Innovation Intern|Scottsdale, AZ, United States",
     "first_seen": "2026-10-27T15:37:35.064089+00:00",
     "last_seen": "2026-10-28T07:51:41.947515+00:00"
+  },
+  {
+    "key": "jobhive|Fa Exxm Saasfaprod|Fire Alarm & Security Apprentice|Tampa, FL, United States",
+    "first_seen": "2026-10-27T15:37:35.064089+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Ip Global Career Site|Electrical/Instrumentation Intern|Bogalusa, LA, United States",
@@ -279612,7 +279627,7 @@
   {
     "key": "jobhive|Albertsons Companies|Front End Entry Level|Tacoma, WA, United States",
     "first_seen": "2026-10-28T07:51:41.947515+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "freehire|General Dynamics Mission Systems Inc|Software Engineer - Intern|Scottsdale, AZ, US",
@@ -279802,7 +279817,7 @@
   {
     "key": "jobhive|Amazon|Network Development Engineer Intern, 2027 Summer|Seattle, Washington, USA",
     "first_seen": "2026-10-28T14:51:26.743349+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Stantec|Entry Level Designer/Structural EIT|Las Cruces, NM, United States",
@@ -279823,6 +279838,11 @@
     "key": "jobhive|Bristol Myers Squibb|Product and Analytical Sciences Summer Intern|Warren, NJ, US",
     "first_seen": "2026-10-28T14:51:26.743349+00:00",
     "last_seen": "2026-10-30T09:14:16.910133+00:00"
+  },
+  {
+    "key": "jobhive|Aircontrolconcepts|Intern - Engineered Systems Specialist|Minneapolis, MN",
+    "first_seen": "2026-10-28T14:51:26.743349+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Perspectivetherapeutics|AI Innovation Intern|Seattle, WA",
@@ -280512,7 +280532,7 @@
   {
     "key": "jobhive|Amazon|Database Engineer Intern - Summer 2027|East Palo Alto, California, USA",
     "first_seen": "2026-10-28T14:56:55.245999+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Network Development Engineer Intern, 2027 Summer|Herndon, Virginia, USA",
@@ -281577,7 +281597,7 @@
   {
     "key": "jobhive|Amazon|Network Development Engineer Intern, 2027 Summer|Arlington, Virginia, USA",
     "first_seen": "2026-10-28T19:58:25.443121+00:00",
-    "last_seen": "2026-11-06T19:04:38.101109+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "ats|Auto Owners Insurance|Business Intelligence Developer Internship - Summer 2027|Lansing, MI",
@@ -286215,11 +286235,6 @@
     "last_seen": "2026-11-02T20:59:05.933972+00:00"
   },
   {
-    "key": "jobhive|EKKH|Live Production Intern-Feedmill -Atwater, MN; Medford, MN; or Barron, WI|Atwater, MN, United States",
-    "first_seen": "2026-10-29T14:47:10.144026+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
     "key": "jobhive|Hcog Cx 2001|Entry-Level Field Technician - Construction Materials Testing|Orlando, FL, United States",
     "first_seen": "2026-10-29T14:47:10.144026+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
@@ -286255,6 +286270,11 @@
     "last_seen": "2026-10-30T09:14:16.910133+00:00"
   },
   {
+    "key": "jobhive|Amazon|2027 Applied Science Internship - Robotics - United States|Bellevue, Washington, USA",
+    "first_seen": "2026-10-29T14:47:10.144026+00:00",
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
+  },
+  {
     "key": "jobhive|Fa Essf Saasfaprod|Intern (Technical Training)|Delmont, PA, United States",
     "first_seen": "2026-10-29T14:47:10.144026+00:00",
     "last_seen": "2026-10-30T09:14:16.910133+00:00"
@@ -286267,7 +286287,7 @@
   {
     "key": "jobhive|Amazon|Junior ASIC Design Verification Engineer, Amazon Leo|San Diego, California, USA",
     "first_seen": "2026-10-29T14:47:10.144026+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "freehire|ACLU|Spring 2027 Undergraduate Graphic Design Intern, Communications Department|United States",
@@ -287920,11 +287940,6 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Amazon|2027 Applied Science Internship - Robotics - United States|Seattle, Washington, USA",
-    "first_seen": "2026-10-29T15:02:26.514988+00:00",
-    "last_seen": "2026-11-07T00:00:13.385117+00:00"
-  },
-  {
     "key": "jobhive|EMIT|Early Career Civil/Structural Engineer - Renewables|Billings, MT, United States",
     "first_seen": "2026-10-29T15:02:26.514988+00:00",
     "last_seen": "2026-10-29T15:02:26.514988+00:00"
@@ -289000,6 +289015,11 @@
     "last_seen": "2026-10-30T01:26:36.538058+00:00"
   },
   {
+    "key": "jobhive|EKKH|Live Production Intern-Growout/Breeder Production - Byron/Rochester, MN; Perham, MN or Barron, WI area|Byron, MN, United States",
+    "first_seen": "2026-10-29T17:10:56.682904+00:00",
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
+  },
+  {
     "key": "jobhive|EMIT|Civil Engineering Intern- Summer 2027|Lawrenceville, NJ, United States",
     "first_seen": "2026-10-29T17:10:56.682904+00:00",
     "last_seen": "2026-10-30T02:15:01.272169+00:00"
@@ -289592,7 +289612,7 @@
   {
     "key": "jobhive|Amazon|2027 Applied Science Internship - Robotics - United States|North Reading, Massachusetts, USA",
     "first_seen": "2026-10-29T21:11:12.301460+00:00",
-    "last_seen": "2026-11-07T20:28:33.695300+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Emerson Career Site|Mechanical Engineering Co-op (Spring 2027)|Elyria, OH, United States",
@@ -292925,6 +292945,11 @@
     "last_seen": "2026-11-02T11:46:37.684846+00:00"
   },
   {
+    "key": "jobhive|Amazon|Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast|Lithia Springs, Georgia, USA",
+    "first_seen": "2026-10-30T15:07:23.468518+00:00",
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
+  },
+  {
     "key": "jobhive|Fa Essf Saasfaprod|Intern (Automation and Controls)|Bridgeport, WV, United States",
     "first_seen": "2026-10-30T15:07:23.468518+00:00",
     "last_seen": "2026-10-31T14:09:43.986585+00:00"
@@ -294717,7 +294742,7 @@
   {
     "key": "jobhive|Amazon|Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast|Dublin, Ohio, USA",
     "first_seen": "2026-10-30T20:16:21.033435+00:00",
-    "last_seen": "2026-11-07T19:06:05.491661+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Fa Essf Saasfaprod|Intern (Engineering Project Team III)|Bridgeport, WV, United States",
@@ -294817,7 +294842,7 @@
   {
     "key": "jobhive|Amazon|Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast|Austin, Texas, USA",
     "first_seen": "2026-10-30T20:48:14.636103+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "ats|Astera Labs|AI Product Management Intern|San Jose, CA",
@@ -298837,7 +298862,7 @@
   {
     "key": "jobhive|Stripe|PhD Machine Learning Engineer, Intern|San Francisco, New York City, Seattle",
     "first_seen": "2026-10-31T14:37:11.719997+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Securitycareers Aus|Security Officer - University Campus|Clearwater, FL, US",
@@ -298855,16 +298880,6 @@
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
   },
   {
-    "key": "jobhive|Securitycareers Aus|Security Officer Entry Level Full Time Weekday Mornings|Henrico, VA, US",
-    "first_seen": "2026-10-31T14:37:11.719997+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Securitycareers Aus|Security Officer Entry Level Enhanced Part Time|Sandston, VA, US",
-    "first_seen": "2026-10-31T14:37:11.719997+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
     "key": "jobhive|Kimley Horn|AutoCAD Design Intern - Development Services|Nashville, TN, US",
     "first_seen": "2026-10-31T14:37:11.719997+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -298873,6 +298888,11 @@
     "key": "jobhive|Jobgether|Apprentice Business Analyst|US",
     "first_seen": "2026-10-31T14:37:11.719997+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|GDEB|2027 Quality Assurance – Engineering Summer Internship|Groton, CT, US",
+    "first_seen": "2026-10-31T14:37:11.719997+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Cisco|Data Analyst I (Intern) - United States|San Jose, California, United States of America",
@@ -298920,14 +298940,9 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
-    "key": "jobhive|Amazon|Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast|Hilliard, Ohio, USA",
-    "first_seen": "2026-10-31T14:37:11.719997+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
-  },
-  {
     "key": "jobhive|Ibcjqy|Administrative Intern - IT|Saint Joseph, MO, United States",
     "first_seen": "2026-10-31T14:37:11.719997+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|Mcdermott External Career Site|Intern (Electrical)|Houston, TX, United States",
@@ -299675,9 +299690,9 @@
     "last_seen": "2026-11-04T03:43:29.056798+00:00"
   },
   {
-    "key": "jobhive|Amazon|Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027|San Diego, California, USA",
+    "key": "jobhive|Amazon|Software Development Engineer (Database) Early Career- 2027 (US)|East Palo Alto, California, USA",
     "first_seen": "2026-10-31T18:11:38.894082+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "md|META|Research Scientist Intern - Video RecSys - PhD|Menlo Park, CA",
@@ -300155,14 +300170,14 @@
     "last_seen": "2026-11-01T10:54:03.564222+00:00"
   },
   {
-    "key": "jobhive|Amazon|Software Development Engineer (Database) Early Career- 2027 (US)|Boston, Massachusetts, USA",
-    "first_seen": "2026-10-31T19:38:15.352841+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
-  },
-  {
     "key": "jobhive|Stantec|Civil/Environmental Engineering Intern/Co-op – Water (Summer 2027)|Pittsburgh, PA, United States",
     "first_seen": "2026-10-31T19:38:15.352841+00:00",
     "last_seen": "2026-11-02T19:53:53.419975+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027|Boston, Massachusetts, USA",
+    "first_seen": "2026-10-31T19:38:15.352841+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Oracle Cloud|Data Analytics Internship (Remote) – Summer 2027 (Undergraduate)|United States",
@@ -300277,7 +300292,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027|Arlington, Virginia, USA",
     "first_seen": "2026-10-31T22:00:54.695449+00:00",
-    "last_seen": "2026-11-07T05:48:23.306853+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|EMIT|Early Career Environmental Engineering|Minneapolis, MN, United States",
@@ -301322,7 +301337,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027|Austin, Texas, USA",
     "first_seen": "2026-11-01T15:32:39.621251+00:00",
-    "last_seen": "2026-11-06T19:04:38.101109+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|Amazon|Software Development Engineer (Database) Early Career- 2027 (US)|Seattle, Washington, USA",
@@ -302407,7 +302422,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer (Database) Early Career- 2027 (US)|Redmond, Washington, USA",
     "first_seen": "2026-11-01T17:24:42.590027+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "ecr|Commonwealth Fusion Systems|Intern - Scientific Software Engineer - Summer 2027|Devens, MA",
@@ -302722,7 +302737,7 @@
   {
     "key": "jobhive|Amazon|2027 Applied Science Internship - Robotics - United States|New York, New York, USA",
     "first_seen": "2026-11-02T01:08:04.561855+00:00",
-    "last_seen": "2026-11-05T07:30:20.619356+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|Hearstlab|Software Engineer Intern Winter 2026-2027|New York City, New York, United States",
@@ -303328,6 +303343,11 @@
     "key": "md|Charles River Associates|(2028 Bachelor's/Master's graduates) Accounting/Business/Finance Consulting Analyst/Associate Intern (Summer 2027)|Houston, TX, USA",
     "first_seen": "2026-11-02T11:46:37.684846+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
+  },
+  {
+    "key": "jobhive|Centrus Global Career Site|Project Controls Intern - Summer 2027|Piketon, OH, United States",
+    "first_seen": "2026-11-02T18:12:00.648766+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "ecr|HCSC|Cybersecurity Operations Intern|Chicago, IL",
@@ -303938,11 +303958,6 @@
     "key": "md|Jacobs|Entry Level Building Automation Systems (BAS) Engineer - Summer 2027|Conshohocken, PA, USA",
     "first_seen": "2026-11-02T19:53:53.419975+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
-  },
-  {
-    "key": "jobhive|Centrus Global Career Site|Project Controls Intern - 2027 (Piketon)|Piketon, OH, United States",
-    "first_seen": "2026-11-02T20:59:05.933972+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
   },
   {
     "key": "md|Zebra|2027 Summer Internship (US) - Software Engineer|Holtsville, New York",
@@ -308545,11 +308560,6 @@
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
   },
   {
-    "key": "jobhive|Albertsons Companies|Front End Entry Level|Susanville, CA, United States",
-    "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-03T10:14:33.942746+00:00"
-  },
-  {
     "key": "jobhive|Bnp Paribas|Stage - Analyste OPCI F/H|Puteaux, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
@@ -308613,6 +308623,11 @@
     "key": "jobhive|Oqoro|Business Developer / SDR - Stage -H/F 🏎️|Lyon, Auvergne-Rhone-Alpes, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
+  },
+  {
+    "key": "jobhive|Metyis Ag|Data  & Analytics Intern - January 2027|Barcelona, Catalunya [Cataluña], Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Cliniquesaint Jean|Student Tester and Go-Live Support Assistant EPIC|Bruxelles, be",
@@ -308725,6 +308740,11 @@
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
   },
   {
+    "key": "jobhive|Sopra Steria|Stage Développeur/se - Java - Energie & Telecom - Ile-de-France|Courbevoie, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Northwoodspace|Software Engineer, Platform (Early Career)|Torrance, CA",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
@@ -308770,6 +308790,11 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Soci T G N Rale|Assistant Analyste Risque de Crédit|Courbevoie, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Soci T G N Rale|Analyste risques sur opérations de marché|Courbevoie, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -308808,6 +308833,11 @@
     "key": "jobhive|Minist Re De La Culture|Stagiaire Chargé /Chargée de production de projets culturels|Paris, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
+  },
+  {
+    "key": "jobhive|Abb|Manufacturing Engineering Intern-Winter 2027|Dorval, Quebec, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Gehealthcare|Stage – Data Analysis & Power BI|Buc, Yvelines, France",
@@ -308920,6 +308950,11 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Alten|Stage Innovation : Ingénieur Robotique / Computer Vision|Sèvres, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Hootsuite|Junior Cyber Incident Response Analyst|Vancouver, British Columbia, Canada; Toronto, Ontario, Canada; Ottawa, Ontario, Canada",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -308973,6 +309008,11 @@
     "key": "jobhive|Tesla|电池热仿真实习生  Analysis Engineer Intern, Battery Team|浦东新区, 上海市, 中国",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
+  },
+  {
+    "key": "jobhive|Metyis Ag|Data  & Analytics Intern - January 2027|Madrid, Comunidad de Madrid, Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Experian|Junior Information Security Officer|London, gb",
@@ -309125,6 +309165,11 @@
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
   },
   {
+    "key": "jobhive|Thales|STAGE - Ingénieur Cloud DevOps & Résilience des Systèmes F/H|Rennes, Brittany, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Bouygues Telecom|Stage ingénieur IT - supervision, KPI et QoS F/H|Meudon, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
@@ -309193,6 +309238,11 @@
     "key": "jobhive|Bdobelgium|Data Engineer Junior Consultant (september 2027)|Zaventem, VBR, BE",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|2027 Software Dev Engineer Intern (Embedded Systems) - UK|London, England, GBR",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
   },
   {
     "key": "jobhive|Truckingpeople|Robotics Data Collection Technician – Entry Level|San Francisco, CA",
@@ -309340,9 +309390,24 @@
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
   },
   {
+    "key": "jobhive|Ovhcloud|Stage - Pre-Sales Engineer H/F/N|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Ntt Data|Junior Cybersecurity System Engineer|Milan, Lombardy, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Ntt Data|Junior SOC Analyst|Milan, Lombardy, Italy",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|Ntt Data|Junior RAN Engineer|Milan, Lombardy, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|CUBE|Junior Content Capture Analyst – Web Scraping|Colombo",
@@ -309363,6 +309428,11 @@
     "key": "jobhive|Naval Group Fr|STAGE -Data Scientist - H/F|Angoulême, Nouvelle-Aquitaine, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
+  },
+  {
+    "key": "jobhive|GE Aerospace|Internship - Production Control|Pomigliano D'Arco, Napoli, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Bcg|Working Student—IT Service Team|Berlin, Germany",
@@ -309445,6 +309515,11 @@
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
   },
   {
+    "key": "jobhive|Ovhcloud|Stage Software Engineer - H/F/N|Quimper, Brittany, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Nord Security|Security analyst | Internship in SOC|Vilnius",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
@@ -309493,11 +309568,6 @@
     "key": "jobhive|CIMA|Junior P&C/SCADA Junior Engineering professional|Edmonton, Alberta, ca",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
-  },
-  {
-    "key": "jobhive|Cr Dit Agricole Cib|Sectors & Advisory Analyst H/F|Montrouge, Ile-de-France, France",
-    "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
     "key": "jobhive|Salomon|STAGE - Merchandising Tools & Data Coordinator (M/F/X)|Annecy, fr",
@@ -309615,6 +309685,11 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
+    "key": "jobhive|Minist Re De L Int Rieur|DNPJ-SDAT-Data Analyst / Analyste de données (junior)|Levallois-Perret, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Abbvie|Manufacturing Engineering Apprentice|Sligo, SO, ie",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -309705,6 +309780,11 @@
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
   },
   {
+    "key": "jobhive|Arianegroup|STAGE - Ingénieure / Ingénieur en Informatique et Data Science|Saint-Médard-en-Jalles, Nouvelle-Aquitaine, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Arianegroup|STAGE - Ingénieure / Ingénieur en Gestion de Production|Saint-Médard-en-Jalles, Nouvelle-Aquitaine, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -309760,6 +309840,11 @@
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
   },
   {
+    "key": "jobhive|L Or Al Groupe|6-MONTH INTERNSHIP - Starting January 2027 - Research & Innovation - Scientific Valorization - Master's ½ - €1700/month|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|L Or Al Groupe|6-MONTH INTERNSHIP - Starting January/March 2027 - Research & Innovation - Open Innovation - Master's ½ - €1700/month|Clichy, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
@@ -309810,6 +309895,11 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
+    "key": "jobhive|Ovhcloud|AI Engineer - IT Audit - H/F/N|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Thales|STAGE - Ingénieur - Etude des évolutions Galileo et simulation sur ASIC existant pour le GNSS - F/H|Valence, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
@@ -309855,6 +309945,11 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
+    "key": "jobhive|CERN|Junior Distributed Storage Engineer (IT-SD-PDS-2026-246-GRAE)|Geneva, GENEVA, ch",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Eurofins|Internship in Data Visualization and Interactive Analytics- Sensory & Consumer Research|Aix-en-Provence, Provence-Alpes-Côte d'Azur, fr",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
@@ -309863,6 +309958,11 @@
     "key": "jobhive|Eurofins|Internship in Data Visualization and Interactive Analytics- Sensory & Consumer Research|Paris, IDF, fr",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
+  },
+  {
+    "key": "jobhive|Cr Dit Agricole|STAGE - Analyste Coverage H/F|Lyon, Auvergne-Rhone-Alpes, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Alarmcom|Junior Software Engineer|Kraków, Lesser Poland Voivodeship, Poland",
@@ -309965,6 +310065,11 @@
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
   },
   {
+    "key": "jobhive|Safran|STAGE - Ingénieur.e Production F/H|Tarnos, Nouvelle-Aquitaine, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Clanx|Junior Backend Engineer (Python) - Remote|Remote job",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -310040,9 +310145,19 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Coreso|Internship – Market Simulations & Power System Engineering|Brussels, Brussels, Belgium",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|SHOP|Specialista web marketing junior per campagne digitali|Grosseto, Italy",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
+  },
+  {
+    "key": "jobhive|Naval Group Fr|Stage Ingénieur systèmes embarqués (hardware/software) H/F|Brest, Brittany, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Abb|Junior Test Engineer|Aleksandrow Lodzki, Lodz, Poland",
@@ -310053,6 +310168,11 @@
     "key": "jobhive|Thales|STAGE- Ingénieur en IA et Automatisation des tests de satellites -F/H|Toulouse, Occitanie, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|PEBL|Software Engineering, Intern|Toronto, Ontario",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Dynatrace|Software Engineering - Summer Internships 2027 (m/f/x) / Upper Austria|Agen, Nouvelle-Aquitaine, France",
@@ -310290,6 +310410,11 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
+    "key": "jobhive|Soci T G N Rale|Analyste Risques Structurels - Reportings Prudentiels|Courbevoie, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|MALT|Stage - Support IT (Janvier 2027)|Paris, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -310410,6 +310535,11 @@
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
   },
   {
+    "key": "jobhive|Safran|Stage - Architecture SI & Transformation Digitale de la Qualité F/H|Gonfreville-l'Orcher, Normandy, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Deutschetelekomitsolutions|Technical Process Specialist Trainee (REF4819P)|Debrecen, hu",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
@@ -310446,11 +310576,6 @@
   },
   {
     "key": "jobhive|Henkel|Internship in Engineering, Digitalization and Maintenance|Scheemda, NL",
-    "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Cr Dit Agricole Cib|Business Analyst H/F|Saint-Quentin-en-Yvelines, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
@@ -310498,6 +310623,11 @@
     "key": "jobhive|Carbonengineering|Process Engineer Co-op (STRATOS)|Squamish, BC, Canada",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
+  },
+  {
+    "key": "jobhive|Solitics|Junior Data Integration Specialist|Ramat Gan, Ramat Gan, Israel",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Sopra Steria|Stage Ingénieur(e) Business Automation - Lille|Villeneuve-d'Ascq, Hauts-de-France, France",
@@ -310553,6 +310683,16 @@
     "key": "jobhive|BBA|Intern, Mechanical Engineering - Winter 2027|Mont-Saint-Hilaire, QC, CA",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
+  },
+  {
+    "key": "jobhive|Ornikar|Business Developer - stage|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Cr Dit Agricole Cib|Gestionnaire Shadow IT et Gouvernance SI H/F|Montrouge, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Kirloskar Oil Engines|Area Sales Officer-Junior Officer/Junior Engineer\\.MO6-I-Aftermarket Retail Department-Distribution and Aftermarket Business Unit-Yamunangar|Chandigarh, Chandigarh, Chandigarh, India",
@@ -310696,11 +310836,6 @@
   },
   {
     "key": "jobhive|Xange|Stage \"Analyste Venture Capital\" - starting Jan. 27 (H/F)|Paris, Ile-de-France, France",
-    "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Erste Digital Gmbh|Junior SAP Solution Analyst – Finance & Technology (all humans)|Vienna, Wien, Austria",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
@@ -310875,6 +311010,11 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
+    "key": "jobhive|Sopra Steria|Stage - Ingénieur(e) SysOps - Digital Platform Services - Biot|Biot, Provence-Alpes-Cote d'Azur, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Mbda France|Stage Système Embarqué : Développement d'un algorithme de traitement de signal radiologiciel F/H|Bourges, Centre-Val de Loire, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-03T10:14:33.942746+00:00"
@@ -310898,6 +311038,11 @@
     "key": "jobhive|Elevate|AI & Data Strategy - Stage|Paris, Ile-de-France, France",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|Kingandmoffatt|Trainee BMS Commissioning Engineer|Carrick-On-Shannon, LM, ie",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Ekimetrics|Stage PFE 2027 - AI/ML Engineer - 50% Client 50% R&D|Paris, Ile-de-France, France",
@@ -311280,6 +311425,11 @@
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
   },
   {
+    "key": "jobhive|Rocketlab|Avionics Engineering Intern Summer 2027|Long Beach, CA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|The Global Talent Co|Junior Full Stack Engineer – AI|South Africa - Gauteng (ZipRecruiter)",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
@@ -311303,6 +311453,21 @@
     "key": "jobhive|Arcadis|Summer Intern - Electrical Engineer APM|Dublin, D, IE",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|Artefact|Stage Data Consultant - Paris - H/F/X|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Artefact|Stage Software Engineer - Paris - H/F/X|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Artefact|Stage Data Scientist - Paris (H/F/X)|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Arcadis|Summer Intern - Mechanical HVAC Engineer APM|County Cork,IE",
@@ -311598,11 +311763,6 @@
     "key": "jobhive|Windborne Systems|Electrical Engineer Intern|Redwood City, CA",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
-  },
-  {
-    "key": "jobhive|Generalmatter|Software Engineer, New Grad|Los Angeles, CA",
-    "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-04T11:42:40.917396+00:00"
   },
   {
     "key": "jobhive|Proslide|Junior Cost Engineering Analyst|Ottawa, Ontario, Canada",
@@ -334960,6 +335120,11 @@
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
   },
   {
+    "key": "jobhive|Microsoft|Software Engineer: Internship Opportunities|Aliso Viejo, CA, US",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Securitycareers Aus|Security Officer Hospital Campus Foot Patrol|Modesto, CA, US",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -335040,6 +335205,11 @@
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
   },
   {
+    "key": "jobhive|Microsoft|Software Engineering Student Worker|Lyngby, DK",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Basikon|Développeur JS Full-Stack Junior (H/F)|Paris, Ile-de-France, France",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
@@ -335060,11 +335230,6 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
-    "key": "jobhive|Ho Chunk Inc|Junior Data Scientist|Fairfax, VA, US",
-    "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-07T23:29:12.575183+00:00"
-  },
-  {
     "key": "jobhive|Goldenstepsaba|Clinic Board Certified Behavior Analyst (BCBA)- Up to $24k in Student Loan Repayment!|Clarksville, TN, US",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -335073,6 +335238,11 @@
     "key": "jobhive|Jmp Sas|JMP 2027 Summer Internship; DevOps R&D|United States",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
+  },
+  {
+    "key": "jobhive|Allnativegroup|Junior Data Scientist|Fairfax, VA, US",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|ROKU|SW Engineer Intern, AI Engineering|San Jose, California",
@@ -335138,6 +335308,11 @@
     "key": "jobhive|Icbpjb|September 2027 - M&A intern - Large Cap Generalist / Technology team - Paris|France",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-04T11:42:40.917396+00:00"
+  },
+  {
+    "key": "jobhive|Resideo|Firmware Engineering Intern - Summer 2027|Aurora, IL, United States",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|Amazon|Data Center Infrastructure Engineer Internship 2027|London, England, GBR",
@@ -335210,29 +335385,14 @@
     "last_seen": "2026-11-04T03:43:29.056798+00:00"
   },
   {
-    "key": "jobhive|Costco It|CDS Intern - Client Hardware Administration|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
+    "key": "jobhive|The Safety Network|Stage(s) Learning & Development - Didactische innovatie & AI|Houten, Utrecht, Nederland",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Costco It|CDS Intern - Client Hardware Support|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
-    "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Costco It|CDS Intern - ECM Platform Management|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
-    "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Amazon|2027 Software Dev Engineer Intern (Embedded Systems) - UK|Cambridge, England, GBR",
-    "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|2027 Software Dev Engineer Intern (Machine Learning) - UK|Cambridge, England, GBR",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|Sopra Steria|Stage Développeur(se) Fullstack Java Angular- Services Financiers- Strasbourg|Strasbourg, France",
@@ -335268,11 +335428,6 @@
     "key": "jobhive|Waymo|2027 Summer Intern, BS/MS, Software Engineering, Commercialization|Mountain View, California, United States; San Francisco, California, United States",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
-  },
-  {
-    "key": "jobhive|On2it B V|Traineeship Cybersecurity|Zaltbommel, Gelderland, Netherlands",
-    "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-05T11:59:27.243316+00:00"
   },
   {
     "key": "jobhive|Salesvalley|Junior Business Developer B2B|Crema, Italy",
@@ -345530,11 +345685,6 @@
     "last_seen": "2026-11-05T08:44:17.691334+00:00"
   },
   {
-    "key": "jobhive|Resideo|Firmware Engineering Intern - Summer 2027|Golden Valley, MN, United States",
-    "first_seen": "2026-11-03T22:42:00.399985+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
     "key": "jobhive|Wspitaly|AI Trainee (Stage) - Torino, Italy|Turin, Italy",
     "first_seen": "2026-11-03T22:42:00.399985+00:00",
     "last_seen": "2026-11-03T23:45:38.281627+00:00"
@@ -350225,6 +350375,11 @@
     "last_seen": "2026-11-04T03:43:29.056798+00:00"
   },
   {
+    "key": "jobhive|JDI|Production Control Student/Co-op- Winter 2027|Halifax, NS, Canada",
+    "first_seen": "2026-11-04T03:43:29.056798+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
     "key": "jobhive|EMIT|Early Career Substation Engineer|Buffalo, NY, United States",
     "first_seen": "2026-11-04T03:43:29.056798+00:00",
     "last_seen": "2026-11-04T03:43:29.056798+00:00"
@@ -353785,6 +353940,11 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Thales|Stage – Designer / infographiste 3D – (H/F)|Sophia-Antipolis, Provence-Alpes-Cote d'Azur, France",
+    "first_seen": "2026-11-04T19:00:01.743499+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Carrefour|Analyste Financier (F/H) - en stage|Massy, Ile-de-France, France",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
     "last_seen": "2026-11-05T11:59:27.243316+00:00"
@@ -353808,6 +353968,11 @@
     "key": "jobhive|Aecom|Engineering Intern|New York, NY, us",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|Securitycareers Aus|Security Officer Entry Level Part Time Overnights|Roanoke, VA, US",
+    "first_seen": "2026-11-04T19:00:01.743499+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|TRI|Bridging Atomistic Modeling to Real Electrochemical Systems Modeling Intern|Los Altos, CA",
@@ -353887,7 +354052,7 @@
   {
     "key": "jobhive|Ericsson|Junior L1 Software Developer|Ontario, Canada",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "jobhive|Philips|Co-op – Mechanical/Process Engineer – Reedsville, PA – January-June 2027|Reedsville, Pennsylvania, United States, Pennsylvania, United States of America",
@@ -353932,7 +354097,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer (Embedded Systems) Early Career - 2027 (US)|Cupertino, California, USA",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Thales|Stage – Technicien – Développeur Web – (H/F)|Cannes, France",
@@ -353960,26 +354125,6 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Costco It|CDS Intern - Functional Analyst - WFM UKG|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
-    "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Costco It|CDS Intern - Central Engineering UX/UI Designer|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
-    "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Costco It|CDS Intern - Functional Analyst|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
-    "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
-    "key": "jobhive|Costco It|CDS Intern - Compliance Analyst|Issaquah (Seattle), WA, WA, {'name': 'US', '@type': 'Country'}",
-    "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
-  },
-  {
     "key": "jobhive|Groupe Sii|Stage Ingénieur IA & Machine Learning – Données de simulation (F/H)|Nantes, Loire Region, France",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -354003,6 +354148,11 @@
     "key": "jobhive|Mirakllabs|Software Engineer Intern - Ads|Paris, France",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Business Analyst Intern (6 and 12 months) - 2027|London, England, GBR",
+    "first_seen": "2026-11-04T19:00:01.743499+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Zuckerman Investment Group|Investment Analyst – MBA Internship|Chicago, IL",
@@ -355008,11 +355158,6 @@
     "key": "jobhive|EGUG|Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ|Phoenix, AZ, United States",
     "first_seen": "2026-11-05T00:11:33.145645+00:00",
     "last_seen": "2026-11-05T08:44:17.691334+00:00"
-  },
-  {
-    "key": "jobhive|Mayo Clinic|Undergraduate Engineering Intern - Microfabrication|Rochester, MN, United States",
-    "first_seen": "2026-11-05T00:11:33.145645+00:00",
-    "last_seen": "2026-11-05T00:11:33.145645+00:00"
   },
   {
     "key": "freehire|Artefact|Junior Data Scientist|Jakarta, Jakarta, Indonesia; Kuala Lumpur, Kuala Lumpur, Malaysia",
@@ -356623,11 +356768,6 @@
     "key": "jobhive|Mayo Clinic|Undergraduate Engineering Intern - Additive Manufacturing|Rochester, MN, United States",
     "first_seen": "2026-11-05T00:38:52.949199+00:00",
     "last_seen": "2026-11-05T08:44:17.691334+00:00"
-  },
-  {
-    "key": "jobhive|Amazon|Business Analyst Intern (6 and 12 months) - 2027|Manchester, England, GBR",
-    "first_seen": "2026-11-05T00:38:52.949199+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
   },
   {
     "key": "freehire|FEU|Machine Learning Engineer Intern, Data Trust & Safety (Rolling Intake)|Sydney, Australia",
@@ -360692,7 +360832,7 @@
   {
     "key": "jobhive|Resideo|Embedded Firmware Engineering Intern - Summer 2027|Melville, NY, United States",
     "first_seen": "2026-11-05T09:42:21.852061+00:00",
-    "last_seen": "2026-11-05T19:51:32.175845+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "freehire|Cloudqa|Software Engineer Intern|Hyderabad",
@@ -382200,6 +382340,21 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Aecom|Structural Engineering Intern|New York, NY, us",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Aecom|Structural Engineering Intern|Latham, NY, us",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Aecom|Civil Engineering Intern|Piscataway, NJ, us",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Wavestone|AI Strategy & Business Transformation – Consultant.e junior / Analyst (H/F)|Puteaux, IDF, fr",
     "first_seen": "2026-11-05T15:54:06.121710+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
@@ -382218,11 +382373,6 @@
     "key": "jobhive|Msxinternational|Junior Marketing Analyst|Madrid, es",
     "first_seen": "2026-11-05T15:54:06.121710+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
-  },
-  {
-    "key": "jobhive|Erste Digital Gmbh|Internship IT Workplace Support  (all humans)|Vienna, Wien, Austria",
-    "first_seen": "2026-11-05T15:54:06.121710+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
     "key": "jobhive|Securitycareers Aus|Security Officer Campus Patrol|Fort Worth, TX, US",
@@ -382277,12 +382427,22 @@
   {
     "key": "jobhive|Ford Global Career Site|Thermal Firmware Integration Engineer - Early Career Program, Advanced EV|Palo Alto, CA, United States",
     "first_seen": "2026-11-05T15:54:06.121710+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T11:45:40.048827+00:00"
   },
   {
     "key": "jobhive|Arcadis|HVAC Junior Project Engineer|Gent, Oost-Vlaanderen, Belgium",
     "first_seen": "2026-11-05T15:54:06.121710+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
+  },
+  {
+    "key": "jobhive|CACI|Software Engineering Co-op/Intern - Summer 2027|Rochester, NY, US",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|CACI|Systems Engineering Co-op/Intern - Summer 2027|Rochester, NY, US",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Stantec|Student – Transportation Planning & Traffic Engineering (Winter 2027) 4 Month Term|Vancouver, BC, Canada",
@@ -382305,9 +382465,9 @@
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
   },
   {
-    "key": "jobhive|JDI|Finance AI Analyst Student - Winter 2027|Dieppe, NB, Canada",
+    "key": "jobhive|Ipsos|Quantitative Research Intern - Corporate Reputation|Milano, Italy",
     "first_seen": "2026-11-05T15:54:06.121710+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Rippling|Software Engineer Intern - Backend Focused - Summer 2027|San Francisco, CA",
@@ -383308,11 +383468,6 @@
     "key": "jobhive|Icfcjb|Intern Bachelors Systems Eng|Kanata, ON, Canada",
     "first_seen": "2026-11-05T17:46:07.056685+00:00",
     "last_seen": "2026-11-05T17:46:07.056685+00:00"
-  },
-  {
-    "key": "jobhive|Fa Exxm Saasfaprod|Designer, Trainee|Las Vegas, NV, United States",
-    "first_seen": "2026-11-05T17:46:07.056685+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
   },
   {
     "key": "jobhive|Clean Harbors External Career Site|Electrical Engineer Intern - Summer 2027|Fallon, NV, United States",
@@ -384858,6 +385013,11 @@
     "key": "jobhive|Icfcjb|Intern Bachelors Embedded Eng|Kanata, ON, Canada",
     "first_seen": "2026-11-05T18:11:03.289931+00:00",
     "last_seen": "2026-11-06T13:28:01.892757+00:00"
+  },
+  {
+    "key": "jobhive|EMCM|Landfill Engineer Trainee|Morrisville, PA, United States",
+    "first_seen": "2026-11-05T18:11:03.289931+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "md|Geotab|Embedded Developer Intern - Engine Data Reliability|Oakville, ON, Canada",
@@ -387617,7 +387777,7 @@
   {
     "key": "jobhive|Resideo|Mechanical Engineering Intern - Summer 2027|Golden Valley, MN, United States",
     "first_seen": "2026-11-05T23:46:00.896178+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
     "key": "ats|Spacex|New Graduate Engineer, Electrical - Satellites (Starlink)|Redmond, WA",
@@ -391680,14 +391840,34 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
+    "key": "jobhive|Soci T G N Rale|Analyste Coverage Financial Sponsors|Courbevoie, Ile-de-France, France",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Soci T G N Rale|Data Scientist & AI Engineer - Business Intelligence|Courbevoie, Ile-de-France, France",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Soci T G N Rale|Analyste de crédit|Courbevoie, Ile-de-France, France",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Bnp Paribas|Stage - Chargé de Communication Data - H/F|Paris, Ile-de-France, France",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|BAE Systems|Combat Vehicles Electrical Engineering Kettering Co-Op-January 2027|Sterling Heights, Michigan, United States",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|BAE Systems|Technical Intern - Industrial Engineer - Systems Focus|Westminster, Colorado, United States",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|AXA|Data Scientist (F/H) - stage|Nanterre, France",
@@ -391715,6 +391895,16 @@
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
   },
   {
+    "key": "jobhive|Securitycareers Aus|Security Officer Entry Level Part Time|Norfolk, VA, US",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Ntt Data|Prácticas universitarias NTT DATA|Salamanca, Castilla and Leon, Spain",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|KCI|Engineering Co-op|Columbia | US-SC-Greenville, SC, US",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -391723,6 +391913,11 @@
     "key": "jobhive|Ericsson|Student Intern - AI and Automation|Skåne, Sweden",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
+  },
+  {
+    "key": "jobhive|Statestreet|Junior Quality Assurance and Automation Engineer, SA|Gdansk, Pomeranian, Poland",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|ELCN|Plumbing Design Intern|Maitland, FL, United States",
@@ -391742,12 +391937,22 @@
   {
     "key": "jobhive|EODR|Data Engineer Intern  – Summer 2027 – Onsite in Dallas, TX|Dallas, TX, United States",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
-    "last_seen": "2026-11-07T09:00:47.109646+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Randombit|Junior Enterprise Architect|Atlanta, GA",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
+  },
+  {
+    "key": "jobhive|Securitycareers Aus|Security Officer Hospital Campus Security|Atlanta, GA, US",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|CACI|Electrical Engineering Co-op/Intern - Summer 2027|Rochester, NY, US",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Rise Robotics|Mechanical & Test Engineering Intern (Spring 2027)|Somerville, Massachusetts, United States",
@@ -392487,7 +392692,7 @@
   {
     "key": "jobhive|Amazon|Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US)|Northridge, California, USA",
     "first_seen": "2026-11-06T19:04:38.101109+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|EMIT|Early Career Technician - Design Support|Baton Rouge, LA, United States",
@@ -393820,6 +394025,11 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
+    "key": "jobhive|Quest Diagnostics|IT Summer Intern|Secaucus, NJ, United States",
+    "first_seen": "2026-11-06T20:10:37.189275+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Fa Eoic Saasfaprod|STAGE - Assistant Directeur Concept Architecte Scénographe (H/F)|PARIS, Île-de-France, France",
     "first_seen": "2026-11-06T20:10:37.189275+00:00",
     "last_seen": "2026-11-07T09:00:47.109646+00:00"
@@ -393918,6 +394128,11 @@
     "key": "jobhive|Albertsons Companies|Front End Entry Level|Redlands, CA, United States",
     "first_seen": "2026-11-06T21:51:39.200515+00:00",
     "last_seen": "2026-11-06T21:51:39.200515+00:00"
+  },
+  {
+    "key": "jobhive|S C Minimal Career Site|Tool Design Engineer Intern|Chicago, IL, United States",
+    "first_seen": "2026-11-06T21:51:39.200515+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|EDBZ|Project Management & Product Engineering Intern m/f/d|Freising, Bayern, Germany",
@@ -398050,6 +398265,11 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
+    "key": "jobhive|Albertsons Companies|Front End Entry Level|Lakewood, CA, United States",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
     "key": "jobhive|Ericsson|Research Intern: Cyber-Physical Systems|Jorvas, Kirkkonummi, Finland",
     "first_seen": "2026-11-07T19:06:05.491661+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
@@ -398057,7 +398277,7 @@
   {
     "key": "jobhive|Ericsson|Entry level: Developer|Stockholm, Sweden",
     "first_seen": "2026-11-07T19:06:05.491661+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Ericsson|Entry Level: Baseband System Developer|Skåne, Sweden",
@@ -398065,14 +398285,14 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|EMIT|Early Career Traffic Engineer|Atlanta, GA, United States",
+    "key": "jobhive|Fa Espx Saasfaprod|Placement Student- Product Manager|Peterborough, Cambridgeshire, United Kingdom",
     "first_seen": "2026-11-07T19:06:05.491661+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Tulane|Student Research Aide 1 - TNBRC Summer Research Program|Covington, LA, United States",
     "first_seen": "2026-11-07T19:06:05.491661+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Automation Engineering Apprentice - North West (48-month fixed term contract)|Preston, England, GBR",
@@ -398080,9 +398300,24 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Amazon|Automation Engineering Apprentice - East Midlands (48-month fixed term contract)|Northampton, England, GBR",
+    "key": "jobhive|Amazon|Automation Engineering Apprentice - North East (48-month fixed term contract)|Gateshead, England, GBR",
     "first_seen": "2026-11-07T19:06:05.491661+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Data Centre Support Engineer Apprentice - London and Surrounding Areas (18-months Fixed Term Contract)|London, England, GBR",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Automation Engineering Apprentice - Yorkshire & Humber (48-month fixed term contract)|Leeds, England, GBR",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Haley Aldrich|Intern, Environmental Scientist, Environmental Engineer, or Geologist|Princeton, NJ, US",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "freehire|Deeplocal|Design Intern - Winter / Spring 2027|Pittsburgh",
@@ -398980,11 +399215,6 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Amazon|Automation Engineering Apprentice - North West (48-month fixed term contract)|Warrington, England, GBR",
-    "first_seen": "2026-11-07T20:15:24.899831+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
-  },
-  {
     "key": "breadth|Welo Global|Entry-Level AI Data Rater - Swedish (Sweden)|Sweden",
     "first_seen": "2026-11-07T20:15:24.899831+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
@@ -399245,14 +399475,9 @@
     "last_seen": "2026-11-07T20:15:24.899831+00:00"
   },
   {
-    "key": "jobhive|Amazon|Data Centre Support Engineer Apprentice - London and Surrounding Areas (18-months Fixed Term Contract)|Hemel Hempstead, England, GBR",
+    "key": "jobhive|Mayo Clinic|Graduate Intern - Neurology Research|Rochester, MN, United States",
     "first_seen": "2026-11-07T20:28:33.695300+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
-    "key": "jobhive|Costain Group|Junior Design Manager|London, London, United Kingdom",
-    "first_seen": "2026-11-07T20:28:33.695300+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Solutions Architect AGS-Tech, Early Career - 2027 (US)|Austin, Texas, USA",
@@ -399615,64 +399840,44 @@
     "last_seen": "2026-11-07T20:28:33.695300+00:00"
   },
   {
-    "key": "jobhive|Amazon|Automation Engineering Apprentice - North East (48-month fixed term contract)|Durham, England, GBR",
+    "key": "jobhive|Costain Group|Apprentice Quality Engineer|Camberley, Surrey, United Kingdom",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
-  },
-  {
-    "key": "jobhive|Amazon|Automation Engineering Apprentice - Yorkshire & Humber (48-month fixed term contract)|Wakefield, England, GBR",
-    "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Stripe|Product Design Intern|San Francisco, Seattle, New York City",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Fa Ewkd Dev1 Saasfaprod|Student Assistant - AI & Social Media|Tampa, FL, United States",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
-    "key": "jobhive|Quest Diagnostics|IT Summer Intern|Schaumburg, IL, United States",
-    "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
-    "key": "jobhive|Arcadis|Junior Interior Designer - Workplace Interiors|United States",
-    "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Stripe|Master's Machine Learning Engineer, Intern|San Francisco, New York City, Seattle",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
+    "key": "jobhive|EJWL|Internship Digital Marketing - Design Hotels|Berlin, Germany",
+    "first_seen": "2026-11-07T23:29:12.575183+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Stripe|PhD Data Scientist, Intern|New York, Seattle, South San Francisco HQ",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
-    "key": "jobhive|Icbpjb|July 2027 - M&A Internship - Telecom, Media & Entertainment team - Paris|France",
-    "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T00:02:53.166957+00:00"
-  },
-  {
-    "key": "jobhive|HDPC|2027 | EMEA | London | Engineering | Apprentice Programme|London, Greater London, England, United Kingdom",
-    "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Stripe|Software Engineer, New Grad|San Francisco, Seattle, New York",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Stripe|Software Engineer, Intern (Summer or Winter)|San Francisco, Seattle, New York City",
     "first_seen": "2026-11-07T23:29:12.575183+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   },
   {
     "key": "jobhive|Nokia|Service Router Test Student|Canada",
@@ -399680,28 +399885,48 @@
     "last_seen": "2026-11-07T23:39:22.744766+00:00"
   },
   {
-    "key": "jobhive|Fa Espx Saasfaprod|Placement Student - Data Analytics|Darlington, County Durham, United Kingdom",
-    "first_seen": "2026-11-07T23:39:22.744766+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
-  },
-  {
     "key": "jobhive|Bc Pensions|Junior Security Analyst Co-op|Victoria, BC, Canada",
     "first_seen": "2026-11-07T23:39:22.744766+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|EMIT|Junior Architect - WSP Architecture|London, London, United Kingdom",
+    "first_seen": "2026-11-07T23:39:22.744766+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Fa Ewkd Dev1 Saasfaprod|Graduate Student Assistant - Salesforce & Data Operations|Tampa, FL, United States",
     "first_seen": "2026-11-07T23:39:22.744766+00:00",
-    "last_seen": "2026-11-07T23:39:22.744766+00:00"
+    "last_seen": "2026-11-08T06:45:59.421088+00:00"
   },
   {
-    "key": "jobhive|EJWL|Brand Creative Internship  – Design Hotels|Berlin, Germany",
+    "key": "jobhive|Arcadis|Junior Rail Engineer|Amersfoort, Utrecht, Netherlands",
     "first_seen": "2026-11-07T23:39:22.744766+00:00",
-    "last_seen": "2026-11-08T06:04:41.551097+00:00"
+    "last_seen": "2026-11-08T06:39:37.889313+00:00"
+  },
+  {
+    "key": "jobhive|HDPC|2027 | EMEA | Birmingham | Engineering | Apprentice Programme|Birmingham, West Midlands, England, United Kingdom",
+    "first_seen": "2026-11-07T23:39:22.744766+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Automation Engineering Apprentice - East Midlands (48-month fixed term contract)|Coalville, England, GBR",
+    "first_seen": "2026-11-08T04:51:25.685067+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Automation Engineering Apprentice - North West (48-month fixed term contract)|Bolton, England, GBR",
+    "first_seen": "2026-11-08T04:51:25.685067+00:00",
+    "last_seen": "2026-11-08T13:55:54.289201+00:00"
   },
   {
     "key": "jobhive|Amazon|Solutions Architect AGS-Tech, Early Career - 2027 (US)|Seattle, Washington, USA",
     "first_seen": "2026-11-08T04:51:25.685067+00:00",
-    "last_seen": "2026-11-08T04:51:25.685067+00:00"
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
+  },
+  {
+    "key": "jobhive|Icbpjb|July 2027 - M&A Internship - Energy, Transport, and Infrastructure specialist team  - Paris|France",
+    "first_seen": "2026-11-08T04:51:25.685067+00:00",
+    "last_seen": "2026-11-08T13:28:39.936709+00:00"
   }
 ]
