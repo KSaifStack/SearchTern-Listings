@@ -1,0 +1,56 @@
+{
+ "generated_at": "2026-11-09T09:07:45.145200+00:00",
+ "policy": {
+  "ttl_hours": {
+   "priority_ats": 24,
+   "direct_ats": 48,
+   "jobhive": 24,
+   "markdown": 48,
+   "aggregators": 72,
+   "specialty": 168
+  },
+  "precedence": [
+   "direct_ats",
+   "priority_ats",
+   "jobhive",
+   "markdown",
+   "aggregators",
+   "specialty"
+  ],
+  "shrink_band": 0.3
+ },
+ "count": 2,
+ "fresh": [
+  "heavy",
+  "jobhive"
+ ],
+ "expired": [],
+ "rejected": [],
+ "rows_eligible": 60636,
+ "sources": {
+  "heavy": {
+   "class": "direct_ats",
+   "etag": "",
+   "fetched_at": "2026-11-09T09:27:11.265996+00:00",
+   "rejections": 0,
+   "rows": 16366,
+   "source": "heavy",
+   "status": "ok",
+   "ttl_hours": 48,
+   "age_hours": -0.32,
+   "fresh": true
+  },
+  "jobhive": {
+   "class": "jobhive",
+   "etag": "",
+   "fetched_at": "2026-11-09T09:27:20.924824+00:00",
+   "rejections": 0,
+   "rows": 44270,
+   "source": "jobhive",
+   "status": "ok",
+   "ttl_hours": 24,
+   "age_hours": -0.33,
+   "fresh": true
+  }
+ }
+}

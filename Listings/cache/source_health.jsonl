@@ -2578,3 +2578,6 @@
 {"ts": 1794209476.4823442, "source": "breadth:Working Nomads", "discovered": 17, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794209476.4823442, "source": "breadth:Remotive", "discovered": 13, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794209476.4823442, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794216451.0746965, "source": "jobhive-closure", "discovered": 57462, "valid": 57126, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794216451.0746965, "source": "ats-probe", "discovered": 213484, "valid": 16366, "new": 0, "seconds": 1137.244, "status": "ok"}
+{"ts": 1794216451.0746965, "source": "jobhive", "discovered": 0, "valid": 13108, "new": 0, "seconds": 0.0, "status": "ok"}

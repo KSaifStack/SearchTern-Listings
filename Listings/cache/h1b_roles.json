@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-09T00:13:01Z",
+ "built_at": "2026-11-09T09:27:23Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11070,6 +11070,17 @@
      "count": 2,
      "median_salary": 176663,
      "title": "PROGRAM MANAGER"
+    }
+   ]
+  },
+  "community health resources": {
+   "fetched_at": "2026-11-09T09:27:22Z",
+   "label": "Community Health Resources",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 56797,
+     "title": "LIC. OUTREACH THERAPIST - MULTI-SYSTEMIC THERAPY"
     }
    ]
   },
@@ -41294,6 +41305,11 @@
   "uscampus pepsico": {
    "fetched_at": "2026-10-27T15:39:27Z",
    "label": "uscampus-pepsico",
+   "titles": []
+  },
+  "uwmcareers": {
+   "fetched_at": "2026-11-09T09:27:23Z",
+   "label": "uwmcareers",
    "titles": []
   },
   "valeo": {
