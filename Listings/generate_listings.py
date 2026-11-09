@@ -49,6 +49,7 @@ import seen_index
 import shards
 import sitemap_sources
 import skillexchange
+import snapshots
 import source_health
 import source_selector
 from dedup import dedup_across as _dedup_across
@@ -208,15 +209,18 @@ def _load_cached(tier):
     return pd.DataFrame()
 
 
-def _save_cache(df, tier):
+def _save_cache(df, tier, etag=""):
     """Cache a tier through the canonical schema + verified atomic write.
 
     A write that fails (mixed dtypes, half-written file, disk full) leaves the
     previous cache in place instead of truncating it, and returns 0 so callers
-    can tell the cache did not advance.
+    can tell the cache did not advance. `snapshots.save` adds the snapshot
+    contract on top: an empty or collapsed parse is rejected instead of
+    replacing a good cache, and the sidecar records when and how much was
+    written (docs/reverse-engineering/snapshot-audit.md).
     """
-    written = canonical.write_parquet_atomic(df, _cache_path(tier))
-    if written is None:
+    written = snapshots.save(df, tier, _cache_path(tier), etag=etag)
+    if not written:
         return 0
     print(f"  Cached {tier} data: {written:,} rows")
     return written
@@ -2202,6 +2206,11 @@ def main(argv=None):
     # Kept before the tech and scope filters so closure can tell "delisted" from
     # "not published" (used by the seen-log block below).
     _seen_frame = listings_result.copy()
+    # The live fetch is a snapshot like any cached source: record what it
+    # returned so the publisher can tell "jobhive came back thin" from "jobhive
+    # was not fetched", and so a light run cannot pass its own fetch off as the
+    # whole of what we know.
+    snapshots.record("jobhive", len(_seen_frame), status="ok", path=_cache_path("jobhive"))
     searchtern_result = _feed_scope_filter(listings_result)
     listings_result = _feed_scope_filter(listings_result[tech_mask])
 
@@ -2455,6 +2464,15 @@ def main(argv=None):
     os.makedirs(os.path.join(root_dir, "pages"), exist_ok=True)
     with open(os.path.join(root_dir, "pages", "run_meta.json"), "w", encoding="utf-8") as f:
         json.dump(run_meta, f, indent=2, ensure_ascii=False)
+
+    # Snapshot ledger: per-source class, age, TTL, row count and the last
+    # rejection, so "how stale is this source" is answerable from the repo
+    # instead of from a run's stdout (audit findings F2 and F5).
+    _snap_report = snapshots.write_report(
+        os.path.join(root_dir, "pages", "snapshots.json"), CACHE_DIR, now=now)
+    print(f"  Snapshots: {len(_snap_report['fresh'])} fresh, "
+          f"{len(_snap_report['expired'])} expired, "
+          f"{len(_snap_report['rejected'])} rejected")
 
     # Per-source observability: what each adapter was handed, what survived, how
     # long it took and how many of its rows were genuinely new after dedup. The
