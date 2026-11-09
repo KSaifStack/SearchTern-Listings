@@ -5,49 +5,454 @@
       "discovered": 0,
       "valid": 13108,
       "seconds": 0.0,
-      "calls": 1,
+      "calls": 2,
       "status": "ok",
       "note": "60d README window / 90d listings window, age is its only liveness signal",
+      "new": 1,
+      "new_per_second": null
+    },
+    {
+      "source": "md:lilguy Live Feed",
+      "discovered": 8398,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
       "new": 0,
       "new_per_second": null
     },
     {
-      "source": "ats-probe",
-      "discovered": 1189,
-      "valid": 439,
-      "seconds": 170.978,
+      "source": "md:SimplifyJobs Off-Season 2027",
+      "discovered": 5185,
+      "valid": 0,
+      "seconds": 0.0,
       "calls": 1,
       "status": "ok",
-      "boards_ok": 202,
-      "boards_tried": 322,
-      "boards_skipped": 3881,
-      "truncated_boards": 14,
-      "note": "4203 boards in registry; 0 postings beyond caps",
       "new": 0,
-      "new_per_second": 0.0
+      "new_per_second": null
+    },
+    {
+      "source": "md:GodlyDonuts keryx Internships",
+      "discovered": 4993,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:aprameyak Summer 2027",
+      "discovered": 4012,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SimplifyJobs New Grad",
+      "discovered": 2558,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:vanshb03 Summer 2027",
+      "discovered": 2414,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:vanshb03 Summer 2026",
+      "discovered": 2414,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:vanshb03 New Grad 2027",
+      "discovered": 1924,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:cvrve New Grad",
+      "discovered": 1924,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SuryaHarikrishnan DS/AI",
+      "discovered": 1752,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SuryaHarikrishnan Other 2027",
+      "discovered": 1696,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SimplifyJobs Summer 2027",
+      "discovered": 1626,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SuryaHarikrishnan SWE Track",
+      "discovered": 1444,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:aprameyak New Grad 2027",
+      "discovered": 1432,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zshah101 Summer 2027 US",
+      "discovered": 1259,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:GodlyDonuts keryx New Grad",
+      "discovered": 1176,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:aprameyak Off-Cycle/Co-op",
+      "discovered": 1121,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SuryaHarikrishnan Hardware",
+      "discovered": 953,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply SWE New Grad USA",
+      "discovered": 855,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply SWE 2027",
+      "discovered": 834,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply SWE New Grad Intl",
+      "discovered": 800,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply AI 2027",
+      "discovered": 799,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:vanshb03 Off-Season",
+      "discovered": 796,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:negarprh Canada 2027",
+      "discovered": 734,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "jobspy (linkedin)",
+      "discovered": 620,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 4,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zapplyjobs Internships 2027",
+      "discovered": 600,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply AI Intern Intl",
+      "discovered": 588,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zapplyjobs New Grad 2027",
+      "discovered": 581,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zshah101 Automated List",
+      "discovered": 561,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply SWE 2027 Intern Intl",
+      "discovered": 556,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply AI New Grad USA",
+      "discovered": 513,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:speedyapply AI New Grad Intl",
+      "discovered": 493,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zapplyjobs New Grad SWE 2027",
+      "discovered": 478,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zapplyjobs New Grad Data Science 2027",
+      "discovered": 356,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:ApplyGuy New Grad",
+      "discovered": 293,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SuryaHarikrishnan Product",
+      "discovered": 261,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:SuryaHarikrishnan Quant",
+      "discovered": 221,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:LorenzoLaCorte EU Internships 2026",
+      "discovered": 168,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:sndsh404 Summer 2027",
+      "discovered": 124,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:zapplyjobs Canada 2027",
+      "discovered": 123,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:summer2026internships",
+      "discovered": 100,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "jobspy (indeed)",
+      "discovered": 86,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
     }
   ],
   "totals": {
-    "sources": 2,
-    "discovered": 1189,
-    "valid": 13547,
-    "new": 0,
-    "seconds": 170.978,
+    "sources": 43,
+    "discovered": 57821,
+    "valid": 13108,
+    "new": 1,
+    "seconds": 0.0,
     "failed": 0,
-    "closed": 15367,
+    "closed": 59282,
     "dead_links": 0
   },
   "notes": [],
-  "generated_at": "2026-11-09T00:13:02Z",
-  "elapsed_seconds": 213.9,
+  "generated_at": "2026-11-09T01:36:08Z",
+  "elapsed_seconds": 409.4,
   "run": {
-    "tier": "heavy",
+    "tier": "light",
     "workers": 12,
     "tiers_run": [
-      "heavy"
+      "light"
     ],
     "published": {
-      "listings": 9347,
+      "listings": 9346,
       "searchtern": 31449
     }
   }
