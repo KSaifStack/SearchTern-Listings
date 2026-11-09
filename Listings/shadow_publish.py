@@ -162,6 +162,11 @@ def build(pages_dir, cache_dir, now=None, production=None):
     # under several ATS types (we would publish it twice).
     conflicts = {}
     id_types = {}
+    # Seed from the production base too: a candidate clashing with a row the feed
+    # already publishes is exactly the conflict worth seeing.
+    for pair, key in zip(_ats_pairs(base), base_keys, strict=False):
+        conflicts.setdefault(pair, set()).add(key)
+        id_types.setdefault(pair[1], set()).add(pair[0])
     for pair, key in zip(_ats_pairs(kept_df), kept_keys, strict=False):
         conflicts.setdefault(pair, set()).add(key)
         id_types.setdefault(pair[1], set()).add(pair[0])

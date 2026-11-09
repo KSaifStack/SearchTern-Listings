@@ -130,6 +130,26 @@ def test_conflicting_ats_identity_is_reported(tmp_path):
     assert payload["summary"]["shadow_rows"] == 2
 
 
+def test_a_conflict_between_production_and_a_snapshot_is_reported(tmp_path):
+    """The feed row and the snapshot row disagree about one requisition id."""
+    cache = str(tmp_path / "cache")
+    pages = str(tmp_path / "pages")
+    os.makedirs(pages)
+    write_source(cache, "medium", rows(
+        [("Acme", "SWE Intern", "Austin, TX", "https://acme.test/2", "US",
+          "lever", "req-9")], source="medium"))
+    payload = shadow_publish.build(
+        pages, cache, now=NOW,
+        production=[{"company": "Acme", "role": "SWE Intern", "location": "Austin, TX",
+                     "link": "https://acme.test/1", "country_iso": "US",
+                     "source": "jobhive", "ats_type": "greenhouse", "ats_id": "req-9",
+                     "date": DATE}])
+    assert payload["summary"]["ats_conflicts"] == 1
+    conflict = payload["ats_conflicts"][0]
+    assert conflict["kind"] == "ats_id_under_multiple_ats_types"
+    assert conflict["ats_types"] == ["greenhouse", "lever"]
+
+
 def test_production_rows_are_never_re_filtered(tmp_path):
     """A feed row that aged past the inactivity threshold stays in shadow.
 
