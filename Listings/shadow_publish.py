@@ -7,6 +7,12 @@ the tiers that happened to run, and writes that comparison under
 snapshots are read-only inputs here; the only thing this module writes is its own
 directory.
 
+The shadow feed is passed through `readme_generation._build_json_records`, the
+same write-time filter production uses, because a row that filter would drop is
+not publishable and counting it as an addition would be a lie: the first version
+of this module compared pre-write frames and reported 45k markdown "additions"
+that production correctly refuses (no apply link, non-English, or inactive).
+
 The base of the shadow feed is the production feed the run just wrote, so the
 invariant is strict: shadow is a superset of production. Anything production had
 and shadow lost is a bug, reported as `unexplained` rather than excused.
@@ -20,6 +26,7 @@ import os
 import dedup
 import feed_scope
 import pandas as pd
+import readme_generation
 import snapshots
 
 KEEP = int(os.environ.get("SEARCHTERN_SHADOW_KEEP", "4") or 4)
@@ -62,26 +69,16 @@ def _ats_pairs(frame):
     return [(str(a), str(r)) for a, r in zip(ats[keep], req[keep], strict=False)]
 
 
+def _source_of(value):
+    return value if isinstance(value, str) and value else "production"
+
+
 def build(pages_dir, cache_dir, now=None, production=None):
     """Compute the shadow comparison. Pure with respect to everything but `pages/shadow`."""
     stamp = _stamp(now)
     if production is None:
         production = _read_json(os.path.join(pages_dir, "searchtern.json"))
     base = pd.DataFrame(production) if production else pd.DataFrame()
-
-    base_dupes = 0
-    if not base.empty:
-        deduped = dedup.dedupe(base)
-        base_dupes = len(base) - len(deduped)
-        base = deduped
-    base_keys = list(dedup.dedup_keys(base)) if not base.empty else []
-    key_source = dict.fromkeys(base_keys, "production")
-
-    conflicts = {}
-    id_types = {}
-    for pair, key in zip(_ats_pairs(base), base_keys, strict=False):
-        conflicts.setdefault(pair, set()).add(key)
-        id_types.setdefault(pair[1], set()).add(pair[0])
 
     sidecars = snapshots.collect(cache_dir, stamp)
     fresh = snapshots.eligible(sidecars, stamp)
@@ -99,62 +96,75 @@ def build(pages_dir, cache_dir, now=None, production=None):
 
     order = sorted(fresh, key=lambda n: (snapshots.PRECEDENCE.index(snapshots.class_of(n)), n))
     contributions = []
-    additions = {}
-    duplicates = {}
+    frames = []
     for name in order:
         if name == "jobhive":
             # The run's own live fetch is already the base; merging its snapshot
             # too would double-count the rows it contributed.
             continue
         frame = _source_frame(cache_dir, name)
-        rows_in = len(frame)
-        entry = {"source": name, "class": snapshots.class_of(name), "rows": rows_in,
-                 "rows_after_scope": 0, "added": 0, "duplicates": 0,
-                 "age_hours": sidecars[name].get("age_hours"),
-                 "stale": bool(sidecars[name].get("rejections"))}
-        if rows_in == 0:
-            contributions.append(entry)
-            continue
-
-        frame = feed_scope.scope(frame)
-        entry["rows_after_scope"] = len(frame)
-        frame = dedup.dedupe(frame)
-        keys = list(dedup.dedup_keys(frame))
-        entry["duplicates"] += len(frame) - len(set(keys))
-
-        for pair, key in zip(_ats_pairs(frame), keys, strict=False):
-            conflicts.setdefault(pair, set()).add(key)
-            id_types.setdefault(pair[1], set()).add(pair[0])
-
-        new = []
-        for key in keys:
-            if key in key_source:
-                entry["duplicates"] += 1
-                continue
-            key_source[key] = name
-            new.append(key)
-        entry["added"] = len(new)
-        if new:
-            additions[name] = sorted(new)
-        duplicates[name] = entry["duplicates"]
+        entry = {
+            "source": name,
+            "class": snapshots.class_of(name),
+            "rows": len(frame),
+            "rows_after_scope": 0,
+            "rows_publishable": 0,
+            "added": 0,
+            "duplicates": 0,
+            "age_hours": sidecars[name].get("age_hours"),
+            "stale": bool(sidecars[name].get("rejections")),
+        }
+        if len(frame):
+            frame = feed_scope.scope(frame)
+            entry["rows_after_scope"] = len(frame)
+            if len(frame):
+                frame = frame.copy()
+                frame["_shadow_source"] = name
+                frames.append(frame)
         contributions.append(entry)
 
-    shadow_keys = set(key_source)
-    removed = sorted(set(base_keys) - shadow_keys)
+    candidate = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
+    kept = readme_generation._build_json_records(candidate) if len(candidate) else []
+    kept_df = pd.DataFrame(kept)
+    kept_keys = list(dedup.dedup_keys(kept_df)) if len(kept_df) else []
 
-    added_by_source = [
-        {
-            "source": name,
-            "added": len(keys),
-            "samples": keys[:SAMPLES],
-            "samples_truncated": len(keys) > SAMPLES,
-        }
-        for name, keys in sorted(additions.items(), key=lambda kv: -len(kv[1]))
-    ]
+    # The production base is authoritative and is never re-filtered. A row the
+    # feed already carries stays in the shadow feed even if it crossed the
+    # inactivity threshold between the run writing it and this comparison.
+    base_keys = list(dedup.dedup_keys(base)) if len(base) else []
+    base_key_set = set(base_keys)
+    key_source = dict.fromkeys(base_keys, "production")
+    duplicate_keys = 0
+    for row, key in zip(kept, kept_keys, strict=False):
+        if key in key_source:
+            duplicate_keys += 1
+            continue
+        key_source[key] = _source_of(row.get("_shadow_source"))
+
+    kept_by_source = {}
+    for row in kept:
+        source = _source_of(row.get("_shadow_source"))
+        kept_by_source[source] = kept_by_source.get(source, 0) + 1
+
+    for entry in contributions:
+        entry["rows_publishable"] = kept_by_source.get(entry["source"], 0)
+        entry["added"] = sum(1 for key, source in key_source.items()
+                             if source == entry["source"] and key not in base_key_set)
+        entry["duplicates"] = max(entry["rows_publishable"] - entry["added"], 0)
+
+    additions = {}
+    for key, source in key_source.items():
+        if source != "production" and key not in base_key_set:
+            additions.setdefault(source, []).append(key)
+
     # Two shapes of disagreement: one identity key carrying several requisitions
     # (we would publish one and drop the rest), and one requisition id appearing
-    # under several ATS types (we would publish it twice). Both are reported with
-    # the rows that disagree so a human can decide which is right.
+    # under several ATS types (we would publish it twice).
+    conflicts = {}
+    id_types = {}
+    for pair, key in zip(_ats_pairs(kept_df), kept_keys, strict=False):
+        conflicts.setdefault(pair, set()).add(key)
+        id_types.setdefault(pair[1], set()).add(pair[0])
     conflict_rows = [
         {"kind": "ats_identity_split", "ats_type": pair[0], "ats_id": pair[1],
          "keys": sorted(keys), "count": len(keys)}
@@ -167,10 +177,23 @@ def build(pages_dir, cache_dir, now=None, production=None):
         if len(types) > 1
     ]
 
+    added_by_source = [
+        {
+            "source": name,
+            "added": len(keys),
+            "samples": sorted(keys)[:SAMPLES],
+            "samples_truncated": len(keys) > SAMPLES,
+        }
+        for name, keys in sorted(additions.items(), key=lambda kv: -len(kv[1]))
+    ]
+    shadow_keys = set(key_source)
+    removed = sorted(base_key_set - shadow_keys)
+    duplicates = duplicate_keys
+
     payload = {
         "generated_at": stamp.isoformat(),
         "base": {"path": "pages/searchtern.json", "rows": len(base),
-                 "duplicates_in_base": base_dupes, "identities": len(base_keys)},
+                 "identities": len(base_keys)},
         "policy": {"ttl_hours": dict(snapshots.TTL_HOURS),
                    "precedence": list(snapshots.PRECEDENCE),
                    "keep_runs": KEEP},
@@ -179,7 +202,8 @@ def build(pages_dir, cache_dir, now=None, production=None):
             "shadow_rows": len(shadow_keys),
             "added": len(shadow_keys) - len(base_keys),
             "removed": len(removed),
-            "duplicate_rows": sum(duplicates.values()) + base_dupes,
+            "duplicates": duplicates,
+            "dropped_at_write": len(candidate) - len(kept),
             "expired_snapshots": len(expired),
             "ats_conflicts": len(conflict_rows),
             "unexplained_removed": len(removed),
@@ -191,8 +215,18 @@ def build(pages_dir, cache_dir, now=None, production=None):
             "reason": "production base is merged first, so a loss here is a bug",
             "samples": removed[:SAMPLES],
         },
-        "duplicates": {"count": sum(duplicates.values()) + base_dupes,
-                       "by_source": dict(sorted(duplicates.items()))},
+        "duplicates": {"count": duplicates,
+                       "by_source": {c["source"]: c["duplicates"] for c in contributions
+                                     if c["duplicates"]}},
+        "dropped_at_write": {
+            "count": len(candidate) - len(kept),
+            "reason": "rows readme_generation._build_json_records refuses: no apply "
+                      "link, non-English text, inactive posting date, or a canonical "
+                      "URL already published",
+            "by_source": {c["source"]: max(c["rows_after_scope"] - c["rows_publishable"], 0)
+                          for c in contributions
+                          if c["rows_after_scope"] > c["rows_publishable"]},
+        },
         "expired": expired,
         "ats_conflicts": conflict_rows[:SAMPLES],
         "ats_conflicts_truncated": len(conflict_rows) > SAMPLES,

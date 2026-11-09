@@ -12,13 +12,17 @@ import shadow_publish
 import snapshots
 
 NOW = pd.Timestamp("2026-11-09T12:00:00Z")
+# The write-time filter drops inactive postings, so fixtures must be recent in
+# wall-clock terms, which is what _build_json_records compares against.
+DATE = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=2)).date().isoformat()
 COLUMNS = ["company", "role", "location", "link", "country_iso", "source",
-           "ats_type", "ats_id"]
+           "ats_type", "ats_id", "date"]
 
 
 def rows(specs, source="test"):
     return pd.DataFrame(
-        [[c, r, loc, link, iso, source, ats, req] for c, r, loc, link, iso, ats, req in specs],
+        [[c, r, loc, link, iso, source, ats, req, DATE]
+         for c, r, loc, link, iso, ats, req in specs],
         columns=COLUMNS,
     )
 
@@ -42,7 +46,8 @@ def write_source(cache_dir, name, frame, age_hours=1):
 def production(rows_spec):
     return [
         {"company": c, "role": r, "location": loc, "link": link,
-         "country_iso": iso, "source": "jobhive", "ats_type": ats, "ats_id": req}
+         "country_iso": iso, "source": "jobhive", "ats_type": ats, "ats_id": req,
+         "date": DATE}
         for c, r, loc, link, iso, ats, req in rows_spec
     ]
 
@@ -100,7 +105,8 @@ def test_a_duplicate_costs_nothing_and_is_counted(tmp_path):
                                    production=production(same))
     assert payload["summary"]["shadow_rows"] == 1
     assert payload["summary"]["added"] == 0
-    assert payload["summary"]["duplicate_rows"] == 1
+    assert payload["summary"]["duplicates"] == 1
+    assert payload["summary"]["dropped_at_write"] == 0
 
 
 def test_conflicting_ats_identity_is_reported(tmp_path):
@@ -122,6 +128,29 @@ def test_conflicting_ats_identity_is_reported(tmp_path):
     assert conflict["ats_id"] == "req-7"
     assert conflict["ats_types"] == ["greenhouse", "lever"]
     assert payload["summary"]["shadow_rows"] == 2
+
+
+def test_production_rows_are_never_re_filtered(tmp_path):
+    """A feed row that aged past the inactivity threshold stays in shadow.
+
+    Re-running the write filter over the production base dropped 232 rows that
+    had merely crossed the threshold since the run wrote them, which made the
+    superset invariant fail for reasons that had nothing to do with snapshots.
+    """
+    cache = str(tmp_path / "cache")
+    pages = str(tmp_path / "pages")
+    os.makedirs(pages)
+    old = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=400)).date().isoformat()
+    payload = shadow_publish.build(
+        pages, cache, now=NOW,
+        production=[{"company": "Acme", "role": "SWE Intern", "location": "Austin, TX",
+                     "link": "https://acme.test/1", "country_iso": "US",
+                     "source": "jobhive", "ats_type": "gh", "ats_id": "acme-1",
+                     "date": old}])
+    assert payload["summary"]["production_rows"] == 1
+    assert payload["summary"]["shadow_rows"] == 1
+    assert payload["summary"]["removed"] == 0
+    assert payload["summary"]["unexplained_removed"] == 0
 
 
 def test_scope_filter_is_applied_to_snapshot_rows(tmp_path):
