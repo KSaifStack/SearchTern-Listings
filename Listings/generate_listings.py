@@ -34,6 +34,7 @@ import discover_boards
 import echojobs
 import ecr_source
 import enrich
+import feed_scope
 import freshness
 import h1b_enrich
 import identity
@@ -46,6 +47,7 @@ import readme_generation
 import rss_source
 import runway_source
 import seen_index
+import shadow_publish
 import shards
 import sitemap_sources
 import skillexchange
@@ -57,7 +59,6 @@ from dedup import dedup_keys as _dedup_keys
 from dedup import dedupe as _dedupe
 from readme_utils import (
     SESSION,
-    canonical_url,
     clean_company_name,
     clean_location,
     http_get,
@@ -2177,25 +2178,7 @@ def main(argv=None):
 
     def _feed_scope_filter(df):
         """Keep located US, international, and remote roles; deduplicate by URL."""
-        df = df.fillna({"country_iso": ""})
-        remote = df["location"].str.contains(r"\bremote\b", case=False, na=False)
-        if "is_remote" in df.columns:
-            remote = remote | df["is_remote"].astype(str).str.lower().isin(["true", "1"])
-        df = df[
-            (df["country_iso"] != "")
-            | df["location"].str.contains(_us_loc_re, na=False)
-            | remote
-        ]
-        df = df[df["location"].notna() & (df["location"] != "")]
-        # Cross-source URL-canonical dedup (same posting from two sources collapses).
-        if not df.empty and "link" in df.columns:
-            _canon = df["link"].map(canonical_url)
-            _no_canon = _canon == ""
-            _with_canon = df[~_no_canon].copy()
-            _with_canon["_canon"] = _canon[~_no_canon]
-            _with_canon = _with_canon.drop_duplicates(subset="_canon", keep="first").drop(columns="_canon")
-            df = pd.concat([df[_no_canon], _with_canon], ignore_index=True)
-        return df
+        return feed_scope.scope(df)
 
 
     role_lower = listings_result["role"].str.lower()
@@ -2696,6 +2679,24 @@ def main(argv=None):
         readme_generation.write_priority_json(priority_df[_pri_window], output_dir="..")
 
     readme_generation.write_feed_xml(searchtern_result, output_dir="..")
+
+    # Shadow publication (phase 3 of the snapshot refactor): compute what the
+    # feed would hold if it were published from snapshots rather than from the
+    # tiers that ran, and diff it against what was just written. Reads production
+    # output, the seen log's inputs and the caches; writes only pages/shadow/.
+    # Production feeds and closure state are untouched, so a shadow failure is
+    # recorded and the run continues.
+    try:
+        _shadow = shadow_publish.run(
+            os.path.join(root_dir, "pages"), CACHE_DIR, now=now)
+        _s = _shadow["summary"]
+        print(f"  Shadow: {_s['shadow_rows']:,} rows vs {_s['production_rows']:,} "
+              f"production, +{_s['added']:,} / -{_s['removed']:,}, "
+              f"{_s['expired_snapshots']} expired snapshot(s), "
+              f"{_s['ats_conflicts']} ATS conflict(s)")
+    except Exception as _shadow_exc:  # noqa: BLE001 - shadow must not fail a run
+        print(f"  Shadow failed: {type(_shadow_exc).__name__}: {_shadow_exc}")
+        shadow_publish.write_error(os.path.join(root_dir, "pages"), _shadow_exc)
 
     # --- Output change detection ---
     _listings_path = os.path.join("..", "pages", "listings.json")
