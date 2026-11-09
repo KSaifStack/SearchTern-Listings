@@ -189,6 +189,33 @@ def test_scope_filter_is_applied_to_snapshot_rows(tmp_path):
     assert payload["summary"]["shadow_rows"] == 2
 
 
+def test_dropped_rows_name_the_predicate_that_refused_them(tmp_path):
+    """A drop count is not an explanation; the artifact carries the cause."""
+    cache = str(tmp_path / "cache")
+    pages = str(tmp_path / "pages")
+    os.makedirs(pages)
+    old = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=400)).date().isoformat()
+    frame = pd.DataFrame([
+        ["NoLink", "SWE Intern", "Austin, TX", "", "US", "medium", "gh", "1", DATE],
+        ["Beta", "Ingénieur logiciel", "Austin, TX", "https://beta.test/1", "US", "medium",
+         "gh", "2", DATE],
+        ["Old", "SWE Intern", "Austin, TX", "https://old.test/1", "US", "medium", "gh", "3", old],
+        ["Dup", "SWE Intern", "Austin, TX", "https://dup.test/1", "US", "medium", "gh", "4", DATE],
+        ["Keep", "SWE Intern", "Austin, TX", "https://keep.test/1", "US", "medium", "gh", "6", DATE],
+    ], columns=COLUMNS)
+    write_source(cache, "medium", frame)
+    # feed_scope already dedupes canonical URLs inside one frame, so the same
+    # posting only reaches the write filter when a second source mirrors it.
+    write_source(cache, "heavy", pd.DataFrame([
+        ["Dup", "Data Intern", "Austin, TX", "https://dup.test/1", "US", "heavy", "gh", "7", DATE],
+    ], columns=COLUMNS))
+    payload = shadow_publish.build(pages, cache, now=NOW, production=[])
+    reasons = payload["dropped_at_write"]["by_reason"]
+    assert reasons == {"duplicate_url": 1, "inactive": 1, "no_apply_link": 1, "non_english": 1}
+    assert payload["summary"]["dropped_at_write"] == 4
+    assert payload["summary"]["shadow_rows"] == 2
+
+
 def test_repeated_builds_are_idempotent(tmp_path):
     cache = str(tmp_path / "cache")
     pages = str(tmp_path / "pages")

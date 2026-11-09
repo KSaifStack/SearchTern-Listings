@@ -44,10 +44,20 @@ def _json_safe(value):
     return value
 
 
-def _build_json_records(dataframe):
-    """Apply the shared final filters and return the JSON-ready records."""
+def _build_json_records(dataframe, reasons=None):
+    """Apply the shared final filters and return the JSON-ready records.
+
+    `reasons` is an optional counter: when given, every refused row bumps the
+    predicate that refused it. Production passes nothing. The shadow publisher
+    does, because "27,366 rows dropped" is not an explanation and "21,235 of them
+    had no apply link" is.
+    """
     clean_records = []
     seen = set()
+
+    def drop(cause):
+        if reasons is not None:
+            reasons[cause] = reasons.get(cause, 0) + 1
 
     for _, row in dataframe.iterrows():
         company = str(row["company"]).strip()
@@ -56,6 +66,7 @@ def _build_json_records(dataframe):
         link = clean_link(row.get("link"))
 
         if not link.startswith(("http://", "https://")):
+            drop("no_apply_link")
             continue
 
         row = row.copy()
@@ -63,10 +74,13 @@ def _build_json_records(dataframe):
 
         cleaned_company = clean_company_name(company)
         if not cleaned_company:
+            drop("empty_company")
             continue
         if normalize_company(cleaned_company) in NORMALIZED_BLOCKED_COMPANIES:
+            drop("blocked_company")
             continue
         if not is_english(role) or not is_english(cleaned_company):
+            drop("non_english")
             continue
 
         try:
@@ -74,6 +88,7 @@ def _build_json_records(dataframe):
             if posted.tzinfo is None:
                 posted = posted.replace(tzinfo=UTC)
             if (datetime.now(UTC) - posted).days > INACTIVE_THRESHOLD_DAYS:
+                drop("inactive")
                 continue
         except Exception:
             pass
@@ -95,6 +110,7 @@ def _build_json_records(dataframe):
         key = canonical_url(link)
         if key:
             if key in seen:
+                drop("duplicate_url")
                 continue
             seen.add(key)
         clean_records.append(record)

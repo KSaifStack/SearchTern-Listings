@@ -124,7 +124,8 @@ def build(pages_dir, cache_dir, now=None, production=None):
         contributions.append(entry)
 
     candidate = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
-    kept = readme_generation._build_json_records(candidate) if len(candidate) else []
+    reasons = {}
+    kept = readme_generation._build_json_records(candidate, reasons) if len(candidate) else []
     kept_df = pd.DataFrame(kept)
     kept_keys = list(dedup.dedup_keys(kept_df)) if len(kept_df) else []
 
@@ -231,6 +232,7 @@ def build(pages_dir, cache_dir, now=None, production=None):
             "by_source": {c["source"]: max(c["rows_after_scope"] - c["rows_publishable"], 0)
                           for c in contributions
                           if c["rows_after_scope"] > c["rows_publishable"]},
+            "by_reason": dict(sorted(reasons.items())),
         },
         "expired": expired,
         "ats_conflicts": conflict_rows[:SAMPLES],
