@@ -1,9 +1,9 @@
 {
  "class": "direct_ats",
  "etag": "",
- "fetched_at": "2026-11-09T18:53:12.256320+00:00",
+ "fetched_at": "2026-11-09T19:08:32.865423+00:00",
  "rejections": 0,
- "rows": 798,
+ "rows": 801,
  "source": "ats_new",
  "status": "ok",
  "ttl_hours": 48
