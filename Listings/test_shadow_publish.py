@@ -290,6 +290,20 @@ def test_every_addition_and_removal_is_explained(tmp_path):
     }
 
 
+def test_artifacts_publish_no_apply_urls_by_default(tmp_path):
+    """Artifacts are committed publicly, so identity samples stay off."""
+    cache = str(tmp_path / "cache")
+    pages = str(tmp_path / "pages")
+    os.makedirs(pages)
+    write_source(cache, "medium", series("medium", 3))
+    payload = shadow_publish.build(pages, cache, now=NOW, production=[])
+    text = json.dumps(payload)
+    assert "http://" not in text and "https://" not in text
+    assert payload["summary"]["samples_published"] is False
+    assert all(entry["samples"] == [] for entry in payload["additions"])
+    assert payload["removals"]["samples"] == []
+
+
 def test_repeated_runs_overwrite_one_artifact(tmp_path):
     """Running twice at the same instant must not produce a second artifact."""
     cache = str(tmp_path / "cache")

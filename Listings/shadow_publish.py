@@ -30,7 +30,10 @@ import readme_generation
 import snapshots
 
 KEEP = int(os.environ.get("SEARCHTERN_SHADOW_KEEP", "4") or 4)
-SAMPLES = int(os.environ.get("SEARCHTERN_SHADOW_SAMPLES", "100") or 0)
+# Artifacts are committed to a public repo by the workflows (`git add pages/`),
+# so identity-key samples (canonical apply URLs) stay off unless explicitly asked
+# for. The comparison is complete without them: counts, causes and ATS identities.
+SAMPLES = int(os.environ.get("SEARCHTERN_SHADOW_SAMPLES", "0") or 0)
 
 
 def _stamp(now):
@@ -171,9 +174,11 @@ def build(pages_dir, cache_dir, now=None, production=None):
     for pair, key in zip(_ats_pairs(kept_df), kept_keys, strict=False):
         conflicts.setdefault(pair, set()).add(key)
         id_types.setdefault(pair[1], set()).add(pair[0])
+    # Identity keys are canonical apply URLs, so the report carries the ATS
+    # identity and the number of keys that disagree, never the keys themselves.
     conflict_rows = [
         {"kind": "ats_identity_split", "ats_type": pair[0], "ats_id": pair[1],
-         "keys": sorted(keys), "count": len(keys)}
+         "count": len(keys)}
         for pair, keys in sorted(conflicts.items())
         if len(keys) > 1
     ] + [
@@ -231,7 +236,7 @@ def build(pages_dir, cache_dir, now=None, production=None):
             "expired_snapshots": len(expired),
             "ats_conflicts": len(conflict_rows),
             "unexplained_removed": len(removed),
-            "samples_capped_at": SAMPLES,
+            "samples_published": SAMPLES > 0,
         },
         "explained": {
             "additions": {
@@ -268,8 +273,7 @@ def build(pages_dir, cache_dir, now=None, production=None):
             "by_reason": dict(sorted(reasons.items())),
         },
         "expired": expired,
-        "ats_conflicts": conflict_rows[:SAMPLES],
-        "ats_conflicts_truncated": len(conflict_rows) > SAMPLES,
+        "ats_conflicts": conflict_rows,
         "source_contributions": contributions,
     }
     return payload
