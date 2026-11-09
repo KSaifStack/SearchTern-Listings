@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 19:47:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:34:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Product Owner Junior - en stage (F/H) at Recrute1 Carrefour</title>
@@ -162,6 +162,13 @@
       <description>Dublin, D, Ireland | Software Engineering | internship</description>
     </item>
     <item>
+      <title>Junior Manufacturing Technician at Bota Systems Ag</title>
+      <link>https://bota-systems-ag.breezy.hr/p/ad6e036124e9-junior-manufacturing-technician</link>
+      <guid isPermaLink="true">https://bota-systems-ag.breezy.hr/p/ad6e036124e9-junior-manufacturing-technician</guid>
+      <pubDate>Sun, 08 Nov 2026 09:05:12 +0000</pubDate>
+      <description>Zürich, Switzerland | Operations/Supply | new_grad</description>
+    </item>
+    <item>
       <title>Sales Trainee at Redbull</title>
       <link>https://jobs.smartrecruiters.com/RedBull/744000160482479</link>
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/RedBull/744000160482479</guid>
@@ -218,41 +225,6 @@
       <description>Beavercreek, Ohio, United States of America | Construction/Trades | internship</description>
     </item>
     <item>
-      <title>Front End Entry Level at Albertsons Companies</title>
-      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790849</link>
-      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790849</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Helena, MT, United States | Other | new_grad</description>
-    </item>
-    <item>
-      <title>Meat Cutter Apprentice at Albertsons Companies</title>
-      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790884</link>
-      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/790884</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Hillsboro, OR, United States | Other | internship</description>
-    </item>
-    <item>
-      <title>Manager Trainee at Fa Evlf Saasfaprod</title>
-      <link>https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42601</link>
-      <guid isPermaLink="true">https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42601</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Kelowna, BC, Canada | Customer/Retail | internship</description>
-    </item>
-    <item>
-      <title>Ag Summer Student at Fa Esfc Saasfaprod</title>
-      <link>https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16898</link>
-      <guid isPermaLink="true">https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16898</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Lowe Farm, MB, Canada | Other | internship</description>
-    </item>
-    <item>
-      <title>Radiology Tech - Student Extern at EODR</title>
-      <link>https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028357</link>
-      <guid isPermaLink="true">https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028357</guid>
-      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
-      <description>West Palm Beach, FL, United States | Healthcare/Clinical | internship</description>
-    </item>
-    <item>
       <title>2027 Summer Internship: Law &amp; Leadership Program at Bristol Myers Squibb</title>
       <link>https://bms.eightfold.ai/careers/job/137484378634</link>
       <guid isPermaLink="true">https://bms.eightfold.ai/careers/job/137484378634</guid>
@@ -265,6 +237,34 @@
       <guid isPermaLink="true">https://americanincomelifeaokevinblomquist.applytojob.com/apply/jobs/details/ektPblJ26P</guid>
       <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
       <description>Remote | Other | new_grad</description>
+    </item>
+    <item>
+      <title>Front End Entry Level at Albertsons Companies</title>
+      <link>https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/789890</link>
+      <guid isPermaLink="true">https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/789890</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Anchorage, AK, United States | Other | new_grad</description>
+    </item>
+    <item>
+      <title>Radiology Tech - Student Extern at EODR</title>
+      <link>https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028357</link>
+      <guid isPermaLink="true">https://eodr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2603028357</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>West Palm Beach, FL, United States | Healthcare/Clinical | internship</description>
+    </item>
+    <item>
+      <title>Ag Summer Student at Fa Esfc Saasfaprod</title>
+      <link>https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16898</link>
+      <guid isPermaLink="true">https://fa-esfc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16898</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Lowe Farm, MB, Canada | Other | internship</description>
+    </item>
+    <item>
+      <title>Manager Trainee at Fa Evlf Saasfaprod</title>
+      <link>https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42601</link>
+      <guid isPermaLink="true">https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42601</guid>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Kelowna, BC, Canada | Customer/Retail | internship</description>
     </item>
     <item>
       <title>Store Manager Trainee. at JYSK</title>
@@ -358,18 +358,18 @@
       <description>Ukraine | Data/ML/AI | new_grad</description>
     </item>
     <item>
-      <title>Intern at Skanska</title>
-      <link>https://careers-skanska.icims.com/jobs/10022/intern/job?in_iframe=1</link>
-      <guid isPermaLink="true">https://careers-skanska.icims.com/jobs/10022/intern/job?in_iframe=1</guid>
-      <pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
-      <description>| US-MA-Western | Other | internship</description>
-    </item>
-    <item>
       <title>Summer 2027 - Technical Support Intern at SAS</title>
       <link>https://careers-sas.icims.com/jobs/46696/summer-2027---technical-support-intern/job?in_iframe=1</link>
       <guid isPermaLink="true">https://careers-sas.icims.com/jobs/46696/summer-2027---technical-support-intern/job?in_iframe=1</guid>
       <pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
       <description>Cary HQ, NC, States | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Intern at Skanska</title>
+      <link>https://careers-skanska.icims.com/jobs/10022/intern/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://careers-skanska.icims.com/jobs/10022/intern/job?in_iframe=1</guid>
+      <pubDate>Sat, 07 Nov 2026 05:00:00 +0000</pubDate>
+      <description>| US-MA-Western | Other | internship</description>
     </item>
     <item>
       <title>Embedded Engineer - COLUMBIA Missile Compartment Project Engineering Entry Level at GDEB</title>
@@ -512,11 +512,11 @@
       <description>United States | Sales/Business Dev | new_grad</description>
     </item>
     <item>
-      <title>Store Manager Trainee - Bench at Dollartree</title>
-      <link>https://careers.dollartree.com/job/R-367006</link>
-      <guid isPermaLink="true">https://careers.dollartree.com/job/R-367006</guid>
+      <title>Talent Acquisition Intern at Ericsson</title>
+      <link>https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=791248&amp;company=Ericsson</link>
+      <guid isPermaLink="true">https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=791248&amp;company=Ericsson</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Morrisville, Pennsylvania, United States of America | Customer/Retail | internship</description>
+      <description>Ontario, Canada | Human Resources | internship</description>
     </item>
     <item>
       <title>Store Manager Trainee at Dollartree</title>
@@ -526,18 +526,11 @@
       <description>Starkville, Mississippi, United States of America | Customer/Retail | internship</description>
     </item>
     <item>
-      <title>Talent Acquisition Intern at Ericsson</title>
-      <link>https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=791248&amp;company=Ericsson</link>
-      <guid isPermaLink="true">https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=791248&amp;company=Ericsson</guid>
+      <title>Store Manager Trainee - Bench at Dollartree</title>
+      <link>https://careers.dollartree.com/job/R-367006</link>
+      <guid isPermaLink="true">https://careers.dollartree.com/job/R-367006</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Ontario, Canada | Human Resources | internship</description>
-    </item>
-    <item>
-      <title>Entry Level Automotive Repair Technician - Store 1038 at Ibqmjb</title>
-      <link>https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/job/9293</link>
-      <guid isPermaLink="true">https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/job/9293</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Norfolk, VA, United States | Construction/Trades | new_grad</description>
+      <description>Morrisville, Pennsylvania, United States of America | Customer/Retail | internship</description>
     </item>
     <item>
       <title>2027 Spring Process Engineer Co-op - Doctorate (Gloucester, MA) at Applied Materials</title>
@@ -547,6 +540,13 @@
       <description>Gloucester, MA, States | Hardware/Embedded | internship</description>
     </item>
     <item>
+      <title>Entry Level Automotive Repair Technician - Store 1038 at Ibqmjb</title>
+      <link>https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/job/9293</link>
+      <guid isPermaLink="true">https://ibqmjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Monro-Careers/job/9293</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Norfolk, VA, United States | Construction/Trades | new_grad</description>
+    </item>
+    <item>
       <title>Apprentice Optician - STORE NAME at Fa Evdi Saasfaprod</title>
       <link>https://fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WarbyParkerCareers/job/5962</link>
       <guid isPermaLink="true">https://fa-evdi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WarbyParkerCareers/job/5962</guid>
@@ -554,18 +554,18 @@
       <description>Nashville, TN, United States | Other | internship</description>
     </item>
     <item>
-      <title>230 - Raley&#x27;s Apprentice Meat Cutter - Lincoln at Raley S</title>
-      <link>https://fa-epss-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1/job/16768</link>
-      <guid isPermaLink="true">https://fa-epss-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1/job/16768</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Lincoln, CA, United States | Other | internship</description>
-    </item>
-    <item>
       <title>Early Career Environmental Scientist at EMIT</title>
       <link>https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98991</link>
       <guid isPermaLink="true">https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98991</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <description>Gainesville, FL, United States | Research/Science | new_grad</description>
+    </item>
+    <item>
+      <title>230 - Raley&#x27;s Apprentice Meat Cutter - Lincoln at Raley S</title>
+      <link>https://fa-epss-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1/job/16768</link>
+      <guid isPermaLink="true">https://fa-epss-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_1/job/16768</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Lincoln, CA, United States | Other | internship</description>
     </item>
     <item>
       <title>Program Development &amp; Operations Intern (Boston) at Nory Co</title>
@@ -617,6 +617,13 @@
       <description>Wallingford, CT, States | Sales/Business Dev | internship</description>
     </item>
     <item>
+      <title>Junior Accountant at Goodwin</title>
+      <link>https://job-boards.greenhouse.io/goodwin/jobs/5287957007</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/goodwin/jobs/5287957007</guid>
+      <pubDate>Fri, 06 Nov 2026 18:07:02 -0500</pubDate>
+      <description>Columbus, Ohio | Accounting | new_grad</description>
+    </item>
+    <item>
       <title>Research Intern - AI &amp; Human Systems at Microsoft</title>
       <link>https://microsoft.eightfold.ai/careers/job/1970393557056017</link>
       <guid isPermaLink="true">https://microsoft.eightfold.ai/careers/job/1970393557056017</guid>
@@ -631,11 +638,25 @@
       <description>Hybrid - San Mateo, California | Data/ML/AI | internship</description>
     </item>
     <item>
+      <title>HVAC Maintenance Trainee Technician at Servicechampions</title>
+      <link>https://job-boards.greenhouse.io/servicechampions/jobs/5475917008</link>
+      <guid isPermaLink="true">https://job-boards.greenhouse.io/servicechampions/jobs/5475917008</guid>
+      <pubDate>Fri, 06 Nov 2026 17:52:31 -0500</pubDate>
+      <description>Brea, California, United States | Construction/Trades | internship</description>
+    </item>
+    <item>
       <title>Program Intern, Logistics at Pilotcompany</title>
       <link>https://jobs.smartrecruiters.com/pilotcompany/744000160309204</link>
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/pilotcompany/744000160309204</guid>
       <pubDate>Fri, 06 Nov 2026 22:47:53 +0000</pubDate>
       <description>Knoxville, TN, States | Operations/Supply | internship</description>
+    </item>
+    <item>
+      <title>Spring Public Relations Intern at Truepoint Communications</title>
+      <link>https://truepoint-communications.breezy.hr/p/77771503d12b-spring-public-relations-intern</link>
+      <guid isPermaLink="true">https://truepoint-communications.breezy.hr/p/77771503d12b-spring-public-relations-intern</guid>
+      <pubDate>Fri, 06 Nov 2026 22:34:42 +0000</pubDate>
+      <description>Dallas, TX | Marketing/Comms | internship</description>
     </item>
     <item>
       <title>Director, CMC Product Development - Late Stage, Operations at Abbvie</title>
@@ -820,6 +841,13 @@
       <description>Mountain View, California, United States | Data/ML/AI | internship</description>
     </item>
     <item>
+      <title>Junior Company Secretary at Gp Fund Solutions</title>
+      <link>https://gpfs.breezy.hr/p/e4df11f68ef1-junior-company-secretary</link>
+      <guid isPermaLink="true">https://gpfs.breezy.hr/p/e4df11f68ef1-junior-company-secretary</guid>
+      <pubDate>Fri, 06 Nov 2026 20:50:51 +0000</pubDate>
+      <description>Limerick, Ireland | Other | new_grad</description>
+    </item>
+    <item>
       <title>Bachelor&#x27;s Level Intern: Assertive Community Treatment Team- 7372 at Community Health Resources</title>
       <link>https://recruiting.ultipro.com/COM1063CHRI/JobBoard/b94848f1-373d-444d-80f0-e324dae8d006/OpportunityDetail?opportunityId=b9fea39e-d6a8-4d3d-9555-d0d3587dc4cb</link>
       <guid isPermaLink="true">https://recruiting.ultipro.com/COM1063CHRI/JobBoard/b94848f1-373d-444d-80f0-e324dae8d006/OpportunityDetail?opportunityId=b9fea39e-d6a8-4d3d-9555-d0d3587dc4cb</guid>
@@ -902,6 +930,27 @@
       <guid isPermaLink="true">https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005</guid>
       <pubDate>Fri, 06 Nov 2026 15:12:20 -0500</pubDate>
       <description>New York, NY | Software Engineering | internship</description>
+    </item>
+    <item>
+      <title>Entry Level Product Design Apprenticeship at Ux Woman</title>
+      <link>https://ux-woman.breezy.hr/p/b1559b3d4e6f-entry-level-product-design-apprenticeship</link>
+      <guid isPermaLink="true">https://ux-woman.breezy.hr/p/b1559b3d4e6f-entry-level-product-design-apprenticeship</guid>
+      <pubDate>Fri, 06 Nov 2026 20:11:33 +0000</pubDate>
+      <description>Philadelphia, PA | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Entry Level UX Design Apprenticeship at Ux Woman</title>
+      <link>https://ux-woman.breezy.hr/p/f0d6d79eac59-entry-level-ux-design-apprenticeship</link>
+      <guid isPermaLink="true">https://ux-woman.breezy.hr/p/f0d6d79eac59-entry-level-ux-design-apprenticeship</guid>
+      <pubDate>Fri, 06 Nov 2026 20:11:09 +0000</pubDate>
+      <description>Philadelphia, PA | Product/Design | internship</description>
+    </item>
+    <item>
+      <title>Entry Level UX Research Apprenticeship at Ux Woman</title>
+      <link>https://ux-woman.breezy.hr/p/977eb5a6b06d-entry-level-ux-research-apprenticeship</link>
+      <guid isPermaLink="true">https://ux-woman.breezy.hr/p/977eb5a6b06d-entry-level-ux-research-apprenticeship</guid>
+      <pubDate>Fri, 06 Nov 2026 20:09:22 +0000</pubDate>
+      <description>Philadelphia, PA | Product/Design | internship</description>
     </item>
     <item>
       <title>Sales Trainee at Redbull</title>
@@ -1009,6 +1058,13 @@
       <description>Toronto, Ontario, Canada, Vancouver, British Columbia, Canada | Software Engineering | new_grad</description>
     </item>
     <item>
+      <title>Controllership Intern at Stripe</title>
+      <link>https://stripe.com/jobs/search?gh_jid=8357739</link>
+      <guid isPermaLink="true">https://stripe.com/jobs/search?gh_jid=8357739</guid>
+      <pubDate>Fri, 06 Nov 2026 14:05:04 -0500</pubDate>
+      <description>Seattle, WA | Accounting | internship</description>
+    </item>
+    <item>
       <title>Materials Co-op Engineer/Intern (Fall 2027) at Applied Medical Technology Inc</title>
       <link>https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646730</link>
       <guid isPermaLink="true">https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646730</guid>
@@ -1086,18 +1142,18 @@
       <description>Lancaster, PA, States | Data/ML/AI | new_grad</description>
     </item>
     <item>
-      <title>Area Service Engineer-Junior Officer/Junior Engineer\.MO6-III-Service Department-Distribution and Aftermarket Business Unit-Kolkata at Kirloskar Oil Engines</title>
-      <link>https://koel.darwinbox.in/ms/candidate/careers/a6adeec6f80881</link>
-      <guid isPermaLink="true">https://koel.darwinbox.in/ms/candidate/careers/a6adeec6f80881</guid>
-      <pubDate>Fri, 06 Nov 2026 18:30:00 +0000</pubDate>
-      <description>Calcutta, Kolkata, West Bengal, India | Operations/Supply | new_grad</description>
-    </item>
-    <item>
       <title>Zonal Key Account Engineer-Junior Officer/Junior Engineer\.MO6-III-Service Department-Distribution and Aftermarket Business Unit-Delhi at Kirloskar Oil Engines</title>
       <link>https://koel.darwinbox.in/ms/candidate/careers/a6adeea0079c49</link>
       <guid isPermaLink="true">https://koel.darwinbox.in/ms/candidate/careers/a6adeea0079c49</guid>
       <pubDate>Fri, 06 Nov 2026 18:30:00 +0000</pubDate>
       <description>Delhi, Delhi, Delhi, India | Operations/Supply | new_grad</description>
+    </item>
+    <item>
+      <title>Area Service Engineer-Junior Officer/Junior Engineer\.MO6-III-Service Department-Distribution and Aftermarket Business Unit-Kolkata at Kirloskar Oil Engines</title>
+      <link>https://koel.darwinbox.in/ms/candidate/careers/a6adeec6f80881</link>
+      <guid isPermaLink="true">https://koel.darwinbox.in/ms/candidate/careers/a6adeec6f80881</guid>
+      <pubDate>Fri, 06 Nov 2026 18:30:00 +0000</pubDate>
+      <description>Calcutta, Kolkata, West Bengal, India | Operations/Supply | new_grad</description>
     </item>
     <item>
       <title>Entry-level Account Manager at Transperfect</title>
@@ -1247,6 +1303,13 @@
       <description>Luxembourg, Luxembourg | Data/ML/AI | internship</description>
     </item>
     <item>
+      <title>Software Engineer Intern - Summer 2027 at BELI</title>
+      <link>https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027</link>
+      <guid isPermaLink="true">https://beli.breezy.hr/p/2fc40eefdc15-software-engineer-intern-summer-2027</guid>
+      <pubDate>Fri, 06 Nov 2026 17:22:33 +0000</pubDate>
+      <description>New York, NY | Software Engineering | internship</description>
+    </item>
+    <item>
       <title>Intern Communications at Refresco</title>
       <link>https://recruiting.ultipro.com/REF1001RBUS/JobBoard/9dc59b6d-6dab-454e-883b-4c8c6d36d52d/OpportunityDetail?opportunityId=19104246-4200-4d0f-b8e6-b6bd590c5fbe</link>
       <guid isPermaLink="true">https://recruiting.ultipro.com/REF1001RBUS/JobBoard/9dc59b6d-6dab-454e-883b-4c8c6d36d52d/OpportunityDetail?opportunityId=19104246-4200-4d0f-b8e6-b6bd590c5fbe</guid>
@@ -1280,6 +1343,13 @@
       <guid isPermaLink="true">https://jobs.smartrecruiters.com/RedBull/744000160262278</guid>
       <pubDate>Fri, 06 Nov 2026 17:06:09 +0000</pubDate>
       <description>Royal Palm Beach, FL, States | Sales/Business Dev | internship</description>
+    </item>
+    <item>
+      <title>Project Engineer Intern - Summer 2027 at Knutson Construction</title>
+      <link>https://knutson-construction.breezy.hr/p/6130b39b1cb4-project-engineer-intern-summer-2027</link>
+      <guid isPermaLink="true">https://knutson-construction.breezy.hr/p/6130b39b1cb4-project-engineer-intern-summer-2027</guid>
+      <pubDate>Fri, 06 Nov 2026 17:04:04 +0000</pubDate>
+      <description>Minneapolis, MN | Software Engineering | internship</description>
     </item>
     <item>
       <title>Construction Intern - AECOM Tishman at Aecom</title>
@@ -1336,20 +1406,6 @@
       <guid isPermaLink="true">https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8933313002</guid>
       <pubDate>Fri, 06 Nov 2026 11:30:09 -0500</pubDate>
       <description>Canada, Ontario, Toronto | Product/Design | internship</description>
-    </item>
-    <item>
-      <title>Software Engineering Internship - San Francisco at Samsara</title>
-      <link>https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786</link>
-      <guid isPermaLink="true">https://www.samsara.com/company/careers/roles/8358786?gh_jid=8358786</guid>
-      <pubDate>Fri, 06 Nov 2026 11:29:49 -0500</pubDate>
-      <description>San Francisco - SF9 | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Media Monitoring and Insights Specialist Spring Internship at Truepoint Communications</title>
-      <link>https://truepoint-communications.breezy.hr/p/e4011e480cb4-media-monitoring-and-insights-specialist-spring-internship</link>
-      <guid isPermaLink="true">https://truepoint-communications.breezy.hr/p/e4011e480cb4-media-monitoring-and-insights-specialist-spring-internship</guid>
-      <pubDate>Fri, 06 Nov 2026 16:28:41 +0000</pubDate>
-      <description>United States | Other | internship</description>
     </item>
   </channel>
 </rss>
