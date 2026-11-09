@@ -2400,3 +2400,5 @@
 {"ts": 1794181673.1966774, "source": "breadth:Working Nomads", "discovered": 17, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794181673.1966774, "source": "breadth:Remotive", "discovered": 13, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794181673.1966774, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794183182.6239364, "source": "jobhive", "discovered": 0, "valid": 13108, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794183182.6239364, "source": "ats-probe", "discovered": 1189, "valid": 439, "new": 0, "seconds": 170.978, "status": "ok"}
