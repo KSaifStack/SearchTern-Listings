@@ -240,19 +240,72 @@ def test_shadow_writes_nothing_outside_its_directory(tmp_path):
         json.dump({"k": {"first": "2026-01-01", "last": "2026-11-01"}}, handle)
     cache_file = os.path.join(cache, "tier_medium.parquet")
     sidecar = os.path.join(cache, "snapshots", "medium.json")
+    probe_path = os.path.join(cache, "ats_probe_state.json")
+    with open(probe_path, "w", encoding="utf-8") as handle:
+        json.dump({"WorkdaySlugs|Acme": {"at": 1794000000, "slugs": []}}, handle)
+    # Closure state is a digest written beside the feed, not in the cache.
+    closed_path = os.path.join(pages, "digests", "closed-2026-11-09.json")
+    os.makedirs(os.path.dirname(closed_path))
+    with open(closed_path, "w", encoding="utf-8") as handle:
+        json.dump({"closed": ["k"]}, handle)
 
     def digest(path):
         with open(path, "rb") as handle:
             return hashlib.md5(handle.read()).hexdigest()
 
-    before = {p: digest(p) for p in (prod_path, seen_path, cache_file, sidecar)}
+    watched = (prod_path, seen_path, probe_path, closed_path, cache_file, sidecar)
+    before = {p: digest(p) for p in watched}
     mtimes = {p: os.stat(p).st_mtime_ns for p in before}
     shadow_publish.run(pages, cache, now=NOW)
     after = {p: digest(p) for p in before}
     assert before == after
     assert mtimes == {p: os.stat(p).st_mtime_ns for p in before}
-    assert set(os.listdir(cache)) == {"snapshots", "seen.json", "tier_medium.parquet"}
-    assert os.listdir(pages) == ["shadow", "searchtern.json"]
+    assert set(os.listdir(cache)) == {"snapshots", "seen.json", "tier_medium.parquet",
+                                      "ats_probe_state.json"}
+    assert set(os.listdir(pages)) == {"digests", "shadow", "searchtern.json"}
+
+
+def test_every_addition_and_removal_is_explained(tmp_path):
+    """No listing is merely counted: each addition and removal states its cause."""
+    cache = str(tmp_path / "cache")
+    pages = str(tmp_path / "pages")
+    os.makedirs(pages)
+    write_source(cache, "medium", series("medium", 3))
+    write_source(cache, "heavy", series("heavy", 2))
+    payload = shadow_publish.build(
+        pages, cache, now=NOW,
+        production=production([("Acme", "SWE Intern", "Austin, TX",
+                                "https://acme.test/1", "US", "gh", "acme-1")]))
+    explained = payload["explained"]
+    assert explained["additions"]["total"] == payload["summary"]["added"] == 5
+    assert explained["additions"]["attributed"] == 5
+    assert explained["additions"]["unattributed"] == 0
+    assert sum(a["added"] for a in payload["additions"]) == 5
+    assert explained["removals"] == {
+        "total": 0,
+        "explained": 0,
+        "unexplained": 0,
+        "reason": "production is merged first, so a removal is a bug",
+        "all": [],
+    }
+
+
+def test_repeated_runs_overwrite_one_artifact(tmp_path):
+    """Running twice at the same instant must not produce a second artifact."""
+    cache = str(tmp_path / "cache")
+    pages = str(tmp_path / "pages")
+    os.makedirs(pages)
+    write_source(cache, "medium", series("medium", 2))
+    first = shadow_publish.run(pages, cache, now=NOW, production=[])
+    first_path = os.path.join(pages, "shadow", first["artifact"])
+    with open(first_path, "rb") as handle:
+        first_bytes = handle.read()
+    second = shadow_publish.run(pages, cache, now=NOW, production=[])
+    with open(os.path.join(pages, "shadow", second["artifact"]), "rb") as handle:
+        second_bytes = handle.read()
+    assert second["artifact"] == first["artifact"]
+    assert first_bytes == second_bytes
+    assert os.listdir(os.path.join(pages, "shadow")) == [first["artifact"]]
 
 
 def test_only_the_newest_runs_are_kept(tmp_path):

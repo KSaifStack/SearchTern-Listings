@@ -196,6 +196,24 @@ def build(pages_dir, cache_dir, now=None, production=None):
     removed = sorted(base_key_set - shadow_keys)
     duplicates = duplicate_keys
 
+    # Every addition and every removal carries a stated cause rather than a
+    # 100-row sample, so the artifact reconciles instead of merely counting.
+    # Additions are explained by the source that first supplied the identity
+    # key. A removal means the superset invariant broke (production keys are
+    # seeded before any candidate), so each one is classified against the
+    # pre-filter candidate keys to say where the row went.
+    candidate_keys = set()
+    if removed and len(candidate):
+        candidate_keys = set(dedup.dedup_keys(candidate))
+    removal_rows = [
+        {"key": key,
+         "cause": ("refused_by_write_filter" if key in candidate_keys
+                   else "absent_from_every_fresh_snapshot")}
+        for key in removed
+    ]
+    added_total = len(shadow_keys) - len(base_keys)
+    attributed = sum(len(keys) for keys in additions.values())
+
     payload = {
         "generated_at": stamp.isoformat(),
         "base": {"path": "pages/searchtern.json", "rows": len(base),
@@ -214,6 +232,21 @@ def build(pages_dir, cache_dir, now=None, production=None):
             "ats_conflicts": len(conflict_rows),
             "unexplained_removed": len(removed),
             "samples_capped_at": SAMPLES,
+        },
+        "explained": {
+            "additions": {
+                "total": added_total,
+                "attributed": attributed,
+                "unattributed": added_total - attributed,
+                "reason": "the source that first supplied the identity key",
+            },
+            "removals": {
+                "total": len(removed),
+                "explained": sum(1 for r in removal_rows if r["cause"]),
+                "unexplained": sum(1 for r in removal_rows if not r["cause"]),
+                "reason": "production is merged first, so a removal is a bug",
+                "all": removal_rows,
+            },
         },
         "additions": added_by_source,
         "removals": {
