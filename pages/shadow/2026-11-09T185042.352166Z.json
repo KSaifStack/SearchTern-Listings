@@ -1,0 +1,530 @@
+{
+ "additions": [
+  {
+   "added": 16555,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "light"
+  },
+  {
+   "added": 5957,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "heavy"
+  },
+  {
+   "added": 2665,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "medium"
+  },
+  {
+   "added": 926,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "ecr"
+  },
+  {
+   "added": 561,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "ats_new"
+  },
+  {
+   "added": 90,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "jobspy"
+  },
+  {
+   "added": 20,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "breadth"
+  }
+ ],
+ "ats_conflicts": [
+  {
+   "ats_id": "135",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1393",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "14326",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1757",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1761",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2047",
+   "ats_types": [
+    "bamboohr",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21112",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21117",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21317",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2150",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2158",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2159",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2167",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2172",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21763",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2263",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2878",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "303",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3049",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "305",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3225",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "323",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3230",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3234",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3242",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3243",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3253",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "326",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "370",
+   "ats_types": [
+    "bamboohr",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3711",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3759",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "4501",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5128",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5974",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "83231",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  }
+ ],
+ "base": {
+  "identities": 13630,
+  "path": "pages/searchtern.json",
+  "rows": 13630
+ },
+ "dropped_at_write": {
+  "by_reason": {
+   "blocked_company": 1954,
+   "duplicate_url": 3793,
+   "empty_company": 37,
+   "inactive": 10974,
+   "no_apply_link": 10018,
+   "non_english": 3826
+  },
+  "by_source": {
+   "ats_new": 130,
+   "breadth": 7,
+   "ecr": 3662,
+   "heavy": 3067,
+   "jobspy": 22,
+   "light": 21457,
+   "medium": 2257
+  },
+  "count": 30602,
+  "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
+ },
+ "duplicates": {
+  "by_source": {
+   "ecr": 190,
+   "heavy": 265,
+   "light": 1435,
+   "medium": 160
+  },
+  "count": 2050
+ },
+ "expired": [],
+ "explained": {
+  "additions": {
+   "attributed": 26774,
+   "reason": "the source that first supplied the identity key",
+   "total": 26774,
+   "unattributed": 0
+  },
+  "removals": {
+   "all": [],
+   "explained": 0,
+   "reason": "production is merged first, so a removal is a bug",
+   "total": 0,
+   "unexplained": 0
+  }
+ },
+ "generated_at": "2026-11-09T18:50:42.352166+00:00",
+ "policy": {
+  "keep_runs": 4,
+  "precedence": [
+   "direct_ats",
+   "priority_ats",
+   "jobhive",
+   "markdown",
+   "aggregators",
+   "specialty"
+  ],
+  "ttl_hours": {
+   "aggregators": 72,
+   "direct_ats": 48,
+   "jobhive": 24,
+   "markdown": 48,
+   "priority_ats": 24,
+   "specialty": 168
+  }
+ },
+ "removals": {
+  "count": 0,
+  "reason": "production base is merged first, so a loss here is a bug",
+  "samples": []
+ },
+ "source_contributions": [
+  {
+   "added": 561,
+   "age_hours": -0.04,
+   "class": "direct_ats",
+   "duplicates": 0,
+   "rows": 798,
+   "rows_after_scope": 691,
+   "rows_publishable": 561,
+   "source": "ats_new",
+   "stale": false
+  },
+  {
+   "added": 5957,
+   "age_hours": 9.39,
+   "class": "direct_ats",
+   "duplicates": 265,
+   "rows": 16366,
+   "rows_after_scope": 9289,
+   "rows_publishable": 6222,
+   "source": "heavy",
+   "stale": false
+  },
+  {
+   "added": 16555,
+   "age_hours": 9.35,
+   "class": "markdown",
+   "duplicates": 1435,
+   "rows": 40568,
+   "rows_after_scope": 39447,
+   "rows_publishable": 17990,
+   "source": "light",
+   "stale": false
+  },
+  {
+   "added": 20,
+   "age_hours": -0.02,
+   "class": "aggregators",
+   "duplicates": 0,
+   "rows": 29,
+   "rows_after_scope": 27,
+   "rows_publishable": 20,
+   "source": "breadth",
+   "stale": false
+  },
+  {
+   "added": 926,
+   "age_hours": -0.01,
+   "class": "aggregators",
+   "duplicates": 190,
+   "rows": 5130,
+   "rows_after_scope": 4778,
+   "rows_publishable": 1116,
+   "source": "ecr",
+   "stale": false
+  },
+  {
+   "added": 90,
+   "age_hours": 9.32,
+   "class": "aggregators",
+   "duplicates": 0,
+   "rows": 114,
+   "rows_after_scope": 112,
+   "rows_publishable": 90,
+   "source": "jobspy",
+   "stale": false
+  },
+  {
+   "added": 2665,
+   "age_hours": -0.02,
+   "class": "aggregators",
+   "duplicates": 160,
+   "rows": 5371,
+   "rows_after_scope": 5082,
+   "rows_publishable": 2825,
+   "source": "medium",
+   "stale": false
+  }
+ ],
+ "summary": {
+  "added": 26774,
+  "ats_conflicts": 35,
+  "dropped_at_write": 30602,
+  "duplicates": 2050,
+  "expired_snapshots": 0,
+  "production_rows": 13630,
+  "removed": 0,
+  "samples_published": false,
+  "shadow_rows": 40404,
+  "unexplained_removed": 0
+ }
+}

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T09:29:07.372249+00:00",
+ "generated_at": "2026-11-09T18:50:42.352166+00:00",
  "policy": {
   "ttl_hours": {
    "priority_ats": 24,
@@ -19,26 +19,79 @@
   ],
   "shrink_band": 0.3
  },
- "count": 3,
+ "count": 8,
  "fresh": [
+  "ats_new",
+  "breadth",
+  "ecr",
+  "heavy",
   "jobhive",
   "jobspy",
-  "light"
+  "light",
+  "medium"
  ],
  "expired": [],
  "rejected": [],
- "rows_eligible": 85197,
+ "rows_eligible": 112745,
  "sources": {
+  "ats_new": {
+   "class": "direct_ats",
+   "etag": "",
+   "fetched_at": "2026-11-09T18:53:12.256320+00:00",
+   "rejections": 0,
+   "rows": 798,
+   "source": "ats_new",
+   "status": "ok",
+   "ttl_hours": 48,
+   "age_hours": -0.04,
+   "fresh": true
+  },
+  "breadth": {
+   "class": "aggregators",
+   "etag": "",
+   "fetched_at": "2026-11-09T18:51:43.947173+00:00",
+   "rejections": 0,
+   "rows": 29,
+   "source": "breadth",
+   "status": "ok",
+   "ttl_hours": 72,
+   "age_hours": -0.02,
+   "fresh": true
+  },
+  "ecr": {
+   "class": "aggregators",
+   "etag": "",
+   "fetched_at": "2026-11-09T18:51:14.822287+00:00",
+   "rejections": 0,
+   "rows": 5130,
+   "source": "ecr",
+   "status": "ok",
+   "ttl_hours": 72,
+   "age_hours": -0.01,
+   "fresh": true
+  },
+  "heavy": {
+   "class": "direct_ats",
+   "etag": "",
+   "fetched_at": "2026-11-09T09:27:11.265996+00:00",
+   "rejections": 0,
+   "rows": 16366,
+   "source": "heavy",
+   "status": "ok",
+   "ttl_hours": 48,
+   "age_hours": 9.39,
+   "fresh": true
+  },
   "jobhive": {
    "class": "jobhive",
    "etag": "",
-   "fetched_at": "2026-11-09T09:31:27.259190+00:00",
+   "fetched_at": "2026-11-09T18:53:25.906329+00:00",
    "rejections": 0,
-   "rows": 44515,
+   "rows": 44369,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": -0.04,
+   "age_hours": -0.05,
    "fresh": true
   },
   "jobspy": {
@@ -50,7 +103,7 @@
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.04,
+   "age_hours": 9.32,
    "fresh": true
   },
   "light": {
@@ -62,7 +115,19 @@
    "source": "light",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": -0.01,
+   "age_hours": 9.35,
+   "fresh": true
+  },
+  "medium": {
+   "class": "aggregators",
+   "etag": "",
+   "fetched_at": "2026-11-09T18:51:41.788751+00:00",
+   "rejections": 0,
+   "rows": 5371,
+   "source": "medium",
+   "status": "ok",
+   "ttl_hours": 72,
+   "age_hours": -0.02,
    "fresh": true
   }
  }
