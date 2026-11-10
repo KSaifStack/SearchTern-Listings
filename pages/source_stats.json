@@ -5,10 +5,10 @@
       "discovered": 0,
       "valid": 12854,
       "seconds": 0.0,
-      "calls": 2,
+      "calls": 1,
       "status": "ok",
       "note": "60d README window / 90d listings window, age is its only liveness signal",
-      "new": 1,
+      "new": 0,
       "new_per_second": null
     },
     {
@@ -23,7 +23,7 @@
     },
     {
       "source": "md:SimplifyJobs Off-Season 2027",
-      "discovered": 5181,
+      "discovered": 5185,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -33,7 +33,7 @@
     },
     {
       "source": "md:GodlyDonuts keryx Internships",
-      "discovered": 5119,
+      "discovered": 5025,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -53,7 +53,7 @@
     },
     {
       "source": "md:SimplifyJobs New Grad",
-      "discovered": 2567,
+      "discovered": 2570,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -63,7 +63,7 @@
     },
     {
       "source": "md:vanshb03 Summer 2027",
-      "discovered": 2528,
+      "discovered": 2547,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -73,17 +73,7 @@
     },
     {
       "source": "md:vanshb03 Summer 2026",
-      "discovered": 2528,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 1,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
-      "source": "md:vanshb03 New Grad 2027",
-      "discovered": 1936,
+      "discovered": 2547,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -93,7 +83,17 @@
     },
     {
       "source": "md:cvrve New Grad",
-      "discovered": 1936,
+      "discovered": 1948,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "md:vanshb03 New Grad 2027",
+      "discovered": 1948,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -123,7 +123,7 @@
     },
     {
       "source": "md:SimplifyJobs Summer 2027",
-      "discovered": 1590,
+      "discovered": 1586,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -153,7 +153,7 @@
     },
     {
       "source": "md:zshah101 Summer 2027 US",
-      "discovered": 1261,
+      "discovered": 1242,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -163,7 +163,7 @@
     },
     {
       "source": "md:GodlyDonuts keryx New Grad",
-      "discovered": 1176,
+      "discovered": 1150,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -203,7 +203,7 @@
     },
     {
       "source": "md:vanshb03 Off-Season",
-      "discovered": 826,
+      "discovered": 827,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -282,8 +282,8 @@
       "new_per_second": null
     },
     {
-      "source": "md:zshah101 Automated List",
-      "discovered": 558,
+      "source": "md:speedyapply SWE 2027 Intern Intl",
+      "discovered": 557,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -292,8 +292,8 @@
       "new_per_second": null
     },
     {
-      "source": "md:speedyapply SWE 2027 Intern Intl",
-      "discovered": 557,
+      "source": "md:zshah101 Automated List",
+      "discovered": 556,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -342,18 +342,8 @@
       "new_per_second": null
     },
     {
-      "source": "jobspy (linkedin)",
-      "discovered": 340,
-      "valid": 0,
-      "seconds": 0.0,
-      "calls": 4,
-      "status": "ok",
-      "new": 0,
-      "new_per_second": null
-    },
-    {
       "source": "md:ApplyGuy New Grad",
-      "discovered": 296,
+      "discovered": 298,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -403,7 +393,7 @@
     },
     {
       "source": "md:zapplyjobs Canada 2027",
-      "discovered": 120,
+      "discovered": 119,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
@@ -423,10 +413,20 @@
     },
     {
       "source": "jobspy (indeed)",
-      "discovered": 76,
+      "discovered": 78,
       "valid": 0,
       "seconds": 0.0,
       "calls": 1,
+      "status": "ok",
+      "new": 0,
+      "new_per_second": null
+    },
+    {
+      "source": "jobspy (linkedin)",
+      "discovered": 50,
+      "valid": 0,
+      "seconds": 0.0,
+      "calls": 2,
       "status": "ok",
       "new": 0,
       "new_per_second": null
@@ -434,17 +434,17 @@
   ],
   "totals": {
     "sources": 43,
-    "discovered": 58033,
+    "discovered": 57671,
     "valid": 12854,
-    "new": 1,
+    "new": 0,
     "seconds": 0.0,
     "failed": 0,
-    "closed": 20,
+    "closed": 181,
     "dead_links": 0
   },
   "notes": [],
-  "generated_at": "2026-11-10T03:29:37Z",
-  "elapsed_seconds": 269.4,
+  "generated_at": "2026-11-10T12:15:37Z",
+  "elapsed_seconds": 111.7,
   "run": {
     "tier": "light",
     "workers": 12,
