@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "company": "Albertsons Companies",
+    "role": "Front End Entry Level",
+    "location": "DeSoto, TX, United States",
+    "link": "https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#791404",
+    "source": "jobhive",
+    "observed_at": "2026-11-10T21:56:59.694845+00:00"
+  },
+  {
+    "company": "Amazon",
+    "role": "Automation Engineering Apprentice - Yorkshire & Humber (48-month fixed term contract)",
+    "location": "North Ferriby, England, GBR",
+    "link": "https://account.amazon.jobs/jobs/10598633/apply",
+    "source": "jobhive",
+    "observed_at": "2026-11-10T21:56:59.694845+00:00"
+  },
+  {
+    "company": "Emit",
+    "role": "Civil Engineering Intern- Summer 2027",
+    "location": "Atlanta, GA, United States",
+    "link": "https://emit.fa.ca3.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_2001#98920",
+    "source": "jobhive",
+    "observed_at": "2026-11-10T21:56:59.694845+00:00"
+  },
+  {
+    "company": "Ibanqy",
+    "role": "QA Co-op, Organic Meadow",
+    "location": "Guelph, ON, Canada",
+    "link": "https://ibanqy.fa.ocs.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_4#280",
+    "source": "jobhive",
+    "observed_at": "2026-11-10T21:56:59.694845+00:00"
+  }
+]

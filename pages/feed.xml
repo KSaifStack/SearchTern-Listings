@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:07:46 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Product Owner Junior - en stage (F/H) at Recrute1 Carrefour</title>
@@ -92,18 +92,18 @@
       <description>Burton Upon Trent, GB-STS, United Kingdom | Software Engineering | internship</description>
     </item>
     <item>
-      <title>Brewing Apprentice at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40189</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40189</guid>
-      <pubDate>Tue, 10 Nov 2026 00:42:38 +0000</pubDate>
-      <description>Burton Upon Trent, GB-STS, United Kingdom | Other | internship</description>
-    </item>
-    <item>
       <title>Data Insights Apprentice at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/40190</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/40190</guid>
       <pubDate>Tue, 10 Nov 2026 00:42:38 +0000</pubDate>
       <description>Burton on Trent, GB-STS, United Kingdom | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Brewing Apprentice at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/40189</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40189</guid>
+      <pubDate>Tue, 10 Nov 2026 00:42:38 +0000</pubDate>
+      <description>Burton Upon Trent, GB-STS, United Kingdom | Other | internship</description>
     </item>
     <item>
       <title>Sales Degree Apprentice at Molsoncoors</title>
@@ -148,25 +148,11 @@
       <description>Sunnyvale, CA, States | Hardware/Embedded | internship</description>
     </item>
     <item>
-      <title>Spring 2027 - AI &amp; Data Analytics Intern at HCTZ</title>
-      <link>https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</link>
-      <guid isPermaLink="true">https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Scottsdale, AZ, United States | Data/ML/AI | internship</description>
-    </item>
-    <item>
       <title>Environmental, Social and Governance (ESG) Co-op at Ibanqy</title>
       <link>https://ibanqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/277</link>
       <guid isPermaLink="true">https://ibanqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/277</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>Burnaby, BC, Canada | Research/Science | internship</description>
-    </item>
-    <item>
-      <title>Manager Trainee at Fa Evlf Saasfaprod</title>
-      <link>https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42296</link>
-      <guid isPermaLink="true">https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42296</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Plano, TX, United States | Customer/Retail | internship</description>
     </item>
     <item>
       <title>General Technician Apprentice Below Ground at EMJE</title>
@@ -176,11 +162,25 @@
       <description>Griffin, GA, United States | Other | internship</description>
     </item>
     <item>
+      <title>Spring 2027 - AI &amp; Data Analytics Intern at HCTZ</title>
+      <link>https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</link>
+      <guid isPermaLink="true">https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Scottsdale, AZ, United States | Data/ML/AI | internship</description>
+    </item>
+    <item>
       <title>Senior Education Support Intern - Birmingham Business School -  106425 -  Grade 5 at Uob Employee</title>
       <link>https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/job/10293</link>
       <guid isPermaLink="true">https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/job/10293</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>United Kingdom | Education | internship</description>
+    </item>
+    <item>
+      <title>Manager Trainee at Fa Evlf Saasfaprod</title>
+      <link>https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42296</link>
+      <guid isPermaLink="true">https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42296</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Plano, TX, United States | Customer/Retail | internship</description>
     </item>
     <item>
       <title>Electrical Engineering Intern at Intuitive</title>
@@ -342,6 +342,13 @@
       <guid isPermaLink="true">https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005</guid>
       <pubDate>Mon, 09 Nov 2026 17:26:15 -0500</pubDate>
       <description>New York, NY | Data/ML/AI | internship</description>
+    </item>
+    <item>
+      <title>Entry Level Sales at Home Genius Exteriors</title>
+      <link>https://home-genius-exteriors.breezy.hr/p/c6ae81dad206-entry-level-sales</link>
+      <guid isPermaLink="true">https://home-genius-exteriors.breezy.hr/p/c6ae81dad206-entry-level-sales</guid>
+      <pubDate>Mon, 09 Nov 2026 22:19:01 +0000</pubDate>
+      <description>Chicago, IL | Sales/Business Dev | new_grad</description>
     </item>
     <item>
       <title>Junior Operating Partner $800 Winter Bonus + $57k-$66k Potential(06267) - 255 Anglers Drive at Dominos</title>
@@ -575,18 +582,18 @@
       <description>South Africa | Operations/Supply | new_grad</description>
     </item>
     <item>
-      <title>Accounting Internship Winter 2027 at BAE Systems</title>
-      <link>https://jobs.baesystems.com/job/132387BR</link>
-      <guid isPermaLink="true">https://jobs.baesystems.com/job/132387BR</guid>
-      <pubDate>Mon, 09 Nov 2026 20:03:39 +0000</pubDate>
-      <description>Kingsport, Tennessee, United States | Accounting | internship</description>
-    </item>
-    <item>
       <title>Missile Test Engineer - Entry Level at BAE Systems</title>
       <link>https://jobs.baesystems.com/job/132296BR</link>
       <guid isPermaLink="true">https://jobs.baesystems.com/job/132296BR</guid>
       <pubDate>Mon, 09 Nov 2026 20:03:39 +0000</pubDate>
       <description>Rockville, Maryland, United States | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Accounting Internship Winter 2027 at BAE Systems</title>
+      <link>https://jobs.baesystems.com/job/132387BR</link>
+      <guid isPermaLink="true">https://jobs.baesystems.com/job/132387BR</guid>
+      <pubDate>Mon, 09 Nov 2026 20:03:39 +0000</pubDate>
+      <description>Kingsport, Tennessee, United States | Accounting | internship</description>
     </item>
     <item>
       <title>Sales Trainee at Redbull</title>
@@ -855,6 +862,13 @@
       <description>Zurich, Switzerland | Other | internship</description>
     </item>
     <item>
+      <title>Junior Software Engineer at Cscgeneration</title>
+      <link>https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185</link>
+      <guid isPermaLink="true">https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185</guid>
+      <pubDate>Mon, 09 Nov 2026 18:56:58 +0000</pubDate>
+      <description>Remote - Toronto | Software Engineering | new_grad</description>
+    </item>
+    <item>
       <title>Plumbing Safety Inspection Trainee at ASI</title>
       <link>https://job-boards.greenhouse.io/asi/jobs/5477135008</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/asi/jobs/5477135008</guid>
@@ -960,6 +974,13 @@
       <description>New York | Customer/Retail | new_grad</description>
     </item>
     <item>
+      <title>Entry Level Commercial Insurance Producer - Remote at Salesdraft Recruiting</title>
+      <link>https://salesdraft-recruiting.breezy.hr/p/e6763c6c720e-entry-level-commercial-insurance-producer-remote</link>
+      <guid isPermaLink="true">https://salesdraft-recruiting.breezy.hr/p/e6763c6c720e-entry-level-commercial-insurance-producer-remote</guid>
+      <pubDate>Mon, 09 Nov 2026 18:05:50 +0000</pubDate>
+      <description>United States | Finance/Quant | new_grad</description>
+    </item>
+    <item>
       <title>ATE - Field Apprentice at Automotive Technology Experts</title>
       <link>https://ate-crashchampions.icims.com/jobs/23984/ate---field-apprentice/job?in_iframe=1</link>
       <guid isPermaLink="true">https://ate-crashchampions.icims.com/jobs/23984/ate---field-apprentice/job?in_iframe=1</guid>
@@ -979,13 +1000,6 @@
       <guid isPermaLink="true">https://jobs.lever.co/aisle_and_abroad/a657572e-4f00-4a6a-a45c-6123d5463c82</guid>
       <pubDate>Mon, 09 Nov 2026 18:00:10 +0000</pubDate>
       <description>Illinois | Healthcare/Clinical | new_grad</description>
-    </item>
-    <item>
-      <title>Junior QA Engineer at Syteca</title>
-      <link>https://syteca.breezy.hr/p/a8e18141110901-junior-qa-engineer</link>
-      <guid isPermaLink="true">https://syteca.breezy.hr/p/a8e18141110901-junior-qa-engineer</guid>
-      <pubDate>Mon, 09 Nov 2026 17:54:56 +0000</pubDate>
-      <description>Kyiv, Ukraine | Software Engineering | new_grad</description>
     </item>
     <item>
       <title>Campus Rabbi at Brown RISD Hillel at Hillel</title>
@@ -1105,13 +1119,6 @@
       <guid isPermaLink="true">https://jobs.ashbyhq.com/kyra/0478aac5-34c7-40de-9f85-484bf216a163</guid>
       <pubDate>Mon, 09 Nov 2026 17:10:36 +0000</pubDate>
       <description>UK | Product/Design | new_grad</description>
-    </item>
-    <item>
-      <title>Trainee Sales Negotiator at Acorngroup</title>
-      <link>https://acorngroup.teamtailor.com/jobs/8692813-trainee-sales-negotiator</link>
-      <guid isPermaLink="true">https://acorngroup.teamtailor.com/jobs/8692813-trainee-sales-negotiator</guid>
-      <pubDate>Mon, 09 Nov 2026 17:07:02 +0000</pubDate>
-      <description>London, United Kingdom | Sales/Business Dev | internship</description>
     </item>
     <item>
       <title>Junior TV Media Specialist at Wppmedia</title>
@@ -1398,13 +1405,6 @@
       <link>https://job-boards.greenhouse.io/bgeinc/jobs/5476809008</link>
       <guid isPermaLink="true">https://job-boards.greenhouse.io/bgeinc/jobs/5476809008</guid>
       <pubDate>Mon, 09 Nov 2026 10:41:44 -0500</pubDate>
-      <description>2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | Other | internship</description>
-    </item>
-    <item>
-      <title>FRISCO - Energy Services, Internship at Bgeinccampus</title>
-      <link>https://job-boards.greenhouse.io/bgeinccampus/jobs/5476808008</link>
-      <guid isPermaLink="true">https://job-boards.greenhouse.io/bgeinccampus/jobs/5476808008</guid>
-      <pubDate>Mon, 09 Nov 2026 10:41:27 -0500</pubDate>
       <description>2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034 | Other | internship</description>
     </item>
   </channel>

@@ -1,323 +1,1506 @@
 [
   {
-    "key": "jobhive|Twosixtechnologies|Junior Product Designer|Remote, USA",
+    "key": "jobhive|Syteca|Junior QA Engineer|Kyiv, UA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "a8e18141110901"
+  },
+  {
+    "key": "jobhive|Huaweiresearchcentergermanyaustria|Intern - AI-driven Audio|München, Germany",
+    "first_seen": "2026-11-10T20:19:14.168399+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8690885"
+  },
+  {
+    "key": "jobhive|Hemeria|Stage: DevOps et processus CI/CD (F/H)|16000 Angoulême, Nouvelle-Aquitaine, France",
+    "first_seen": "2026-11-10T20:19:14.168399+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2819979"
+  },
+  {
+    "key": "jobhive|Bullfinch|Junior IT Helpdesk Specialist|Kyiv, UA",
+    "first_seen": "2026-11-07T20:15:24.899831+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "aa8d2773d5cd"
+  },
+  {
+    "key": "jobhive|Highlights Healthcare|Future BCBA? Hiring Student Analyst (Registered Behavior Technician) ABA Therapy (DUR)|Durham, NC",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "6978f237212b"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Junior Product Manager (IP/Datacom) | Dutch Speaking is pre) - Graduate Program|Rijswijk, Netherlands",
+    "first_seen": "2026-11-06T19:04:38.101109+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8674786"
+  },
+  {
+    "key": "jobhive|Koninklijk Nederlands Lucht En Ruimtevaartcentrum|Junior R&D Engineer Computational Mechanics (m/v/x)|Marknesse, Flevoland, Nederland",
+    "first_seen": "2026-11-06T19:04:38.101109+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2817441"
+  },
+  {
+    "key": "jobhive|Institut Mines T L Com|Stage : Construction automatique de modèles de processus hospitaliers multi- flux par grands modèles de langage (LLM)|Albi, Occitanie, France",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2817346"
+  },
+  {
+    "key": "jobhive|VIQI|Ingénieur(e) Production Junior - Industrie Santé|LYON, France",
+    "first_seen": "2026-11-06T19:04:38.101109+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8672501"
+  },
+  {
+    "key": "jobhive|German American Chambers Of Commerce|Apprenticeship Networks, Applicant Outreach and Event Coordination Internship (Start Date: December 2026/ January 2027)|Chicago, IL",
     "first_seen": "2026-11-05T15:54:06.121710+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "greenhouse",
-    "ats_id": "6241561004"
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "5766ea4f83e8"
   },
   {
-    "key": "jobhive|Sharkninjaoperatingllc|Spring 2027: Electrical Design Engineering Co-op, Advanced Development (January to June)|Needham, MA, United States",
+    "key": "jobhive|Erste Digital Gmbh|Internship IT Workplace Support  (all humans)|Vienna, Wien, Austria",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2815535"
+  },
+  {
+    "key": "jobhive|Huaweiresearchcentergermanyaustria|Intern - Software Engineer, Spatial AI Agent Platform|München, Germany",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8665769"
+  },
+  {
+    "key": "jobhive|Winid|Technical Product Internship|Barcelona, Spain",
     "first_seen": "2026-11-04T19:00:01.743499+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "greenhouse",
-    "ats_id": "4721665006"
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8660935"
   },
   {
-    "key": "jobhive|Shieldai|Summer 2027 Intern - Embedded Firmware - 5810|Dallas, Texas",
+    "key": "jobhive|Accso Accelerated Solutions Gmbh|Werkstudent* Software Engineering|Darmstadt, Hessen, Deutschland",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "lever",
-    "ats_id": "ac38d092-f435-4301-880b-48d0e92679a4"
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2805668"
   },
   {
-    "key": "jobhive|Altanova|Energy Engineer Intern|New York, NY",
-    "first_seen": "2026-10-31T18:11:38.894082+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "breezy",
-    "ats_id": "8528ddad35cf"
+    "key": "jobhive|Institut Mines T L Com|Offre de Stage : Ingénierie des électrodes pour les batteries résorbables à ions métalliques – “Electrode Engineering for Resorbable Metal-Ion Batteries “ -Stage de 4 à 6 mois|Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2805360"
   },
   {
-    "key": "jobhive|Thenewyorktimes|Backend Engineering Intern, Wirecutter|New York, NY",
-    "first_seen": "2026-10-31T14:37:11.719997+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "greenhouse",
-    "ats_id": "4748483005"
+    "key": "jobhive|Institut Mines T L Com|Offre de stage – Design et fabrication d’un circuit électronique flexible pour capteur de gaz portable – 5 à 6 mois|Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2805352"
   },
   {
-    "key": "jobhive|Zendar|PhD Research Intern — Learned End-to-End Driving and Actuation|Berkeley, CA",
+    "key": "jobhive|Koninklijk Nederlands Lucht En Ruimtevaartcentrum|Internship: Explainable AI for the qualification of aerospace algorithms|Amsterdam, Noord-Holland, Nederland",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2805025"
+  },
+  {
+    "key": "jobhive|Koninklijk Nederlands Lucht En Ruimtevaartcentrum|Internship: Designing a flexible robotics research platform|Amsterdam, Noord-Holland, Nederland",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2805019"
+  },
+  {
+    "key": "jobhive|Kruger Nearshore Llc Rekluti|QA JUNIOR - REPÚBLICA DOMINICANA|Remote job",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "breezy",
-    "ats_id": "16cbc991ca25"
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2804552"
   },
   {
-    "key": "jobhive|Fanduel|Canada Product Co-Op - Spring 2027|Toronto, Ontario, Canada",
+    "key": "jobhive|Clinchoice|Database Designer Intern - Canada|Canada",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
     "ats_type": "greenhouse",
-    "ats_id": "8285180"
+    "ats_id": "5021155101"
   },
   {
-    "key": "jobhive|Relativity|Sr Stage Development Engineer II, Vehicle Build|Long Beach, California, United States",
+    "key": "jobhive|Koninklijk Nederlands Lucht En Ruimtevaartcentrum|Junior R&D Engineer Trainingssystemen (m/v/x/)|Amsterdam, Noord-Holland, Nederland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2802945"
+  },
+  {
+    "key": "jobhive|Timestamp|Junior Java Developer|Lisboa, Portugal",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8638480"
+  },
+  {
+    "key": "jobhive|Danskindustri|Studentermedhjælper til DI Digital (AI for Alle)|København, Denmark",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8637120"
+  },
+  {
+    "key": "jobhive|Mthreerecruiting|Entry-Level Analyst – Product & Accounting Control|Montréal, Quebec, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "4725818006"
+  },
+  {
+    "key": "jobhive|4cassociates|Junior Technical Solutions Analyst - Anvil Analytical - Romania|Iasi, Romania",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8637147"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern Researcher- Computer Vision|Markham, Ontario, Canada",
+    "first_seen": "2026-11-04T19:00:01.743499+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2801253"
+  },
+  {
+    "key": "jobhive|Vdk Groep B V|Junior Accountmanager Software|Barendrecht, Zuid-Holland, Nederland",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2800467"
+  },
+  {
+    "key": "jobhive|Deephealth|Research Intern|Paris, Île-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2799483"
+  },
+  {
+    "key": "jobhive|Dfdsdenmark|Internship: Procurement Technology, Sustainability & Operations|København, Denmark",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8624860"
+  },
+  {
+    "key": "jobhive|Huaweiresearchcentergermanyaustria|PhD Student -  Multi-Tier Optical Circuit Switching for AI Datacenters|München, Germany",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8624057"
+  },
+  {
+    "key": "jobhive|Keplercheuvreux|INTERNSHIP - CREDIT RESEARCH SELL SIDE - PARIS|Paris, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8623232"
+  },
+  {
+    "key": "jobhive|Addepto|AI & Engineering Intern|Remote job",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2797292"
+  },
+  {
+    "key": "jobhive|Convotisiberia|Técnico/a de Selección IT Junior|Elche, Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8611086"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Junior ICT Engineer|Warszawa, Poland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8610210"
+  },
+  {
+    "key": "jobhive|Softswiss|Technical Operations Manager  – Junior|Poznań, Poland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8586650"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern Researcher- AI Agents|Montréal , Quebec, Canada",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2792914"
+  },
+  {
+    "key": "jobhive|Tecnicagroup|Junior Product Developer Moon Boot  (M/F/X)|Area Tecnica, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8579691"
+  },
+  {
+    "key": "jobhive|Wspcentraleurope|Intern / Graduate Structural Engineer (Stażysta w Dziale Konstrukcji)|Warsaw, Poland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8578797"
+  },
+  {
+    "key": "jobhive|Manomotion|Junior Embedded System Engineer|Stockholm, Sweden",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8573946"
+  },
+  {
+    "key": "jobhive|Khaite|Design Intern, Non-Apparel, Spring 2027|New York, NY",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5457663008"
+  },
+  {
+    "key": "jobhive|Lhigroup|Entry-Level Recruitment Consultant – Technology | Los Angeles, CA|Santa Monica, United States",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8571325"
+  },
+  {
+    "key": "jobhive|Lhigroup|Entry-Level SDR – Emerging Technology Recruitment | Los Angeles, CA|Santa Monica, United States",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8571302"
+  },
+  {
+    "key": "jobhive|Fireclay Partners|Analyst (Current Student - Remote)|Kansas City, MO",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "119260a3d4cd"
+  },
+  {
+    "key": "jobhive|Delair|Stage — Ingénieur Banc de Test & Caractérisation Optronique H/F|Labège, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8563087"
+  },
+  {
+    "key": "jobhive|Centric|Stage: Software Developer|Gouda, Zuid-Holland, Nederland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2784385"
+  },
+  {
+    "key": "jobhive|Interruptlabs|Junior Systems Administrator|Basingstoke, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8547229"
+  },
+  {
+    "key": "jobhive|Wearediverse|Information Technology Intern|London, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8546594"
+  },
+  {
+    "key": "jobhive|Interruptlabs|Vulnerability Research Summer Internship - 2027|Basingstoke, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8546434"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern - Researcher|Montreal, Quebec, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2782243"
+  },
+  {
+    "key": "jobhive|Ballast Nedam|Junior Project Engineer Wind|Utrecht, Utrecht, Nederland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2778883"
+  },
+  {
+    "key": "jobhive|IQM|Junior Quantum Engineer (PhD candidate)|München, Germany",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8522248"
+  },
+  {
+    "key": "jobhive|Winid|IT & Digital Transformation Internship Student|Barcelona, Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8522444"
+  },
+  {
+    "key": "jobhive|Winid|Product Marketing & Sales Analytics Internship|Barcelona, Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8517590"
+  },
+  {
+    "key": "jobhive|Winid|Engineering & Quality Operations Internship|Barcelona, Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8517059"
+  },
+  {
+    "key": "jobhive|BRPH|Junior Electrical Engineer|Phoenix, Arizona, United States",
     "first_seen": "2026-10-09T15:59:39.973224+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
     "ats_type": "greenhouse",
-    "ats_id": "8880576002"
+    "ats_id": "4438588009"
   },
   {
-    "key": "jobhive|Sharkninjaoperatingllc|Spring 2027:  Electrical Engineering Co-op (January to June)|Needham, MA, United States",
-    "first_seen": "2026-10-30T15:07:23.468518+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "greenhouse",
-    "ats_id": "4718702006"
-  },
-  {
-    "key": "jobhive|Intersystems|Micro-Intern: Web Development (IAP)|Boston, MA",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "greenhouse",
-    "ats_id": "7992646003"
-  },
-  {
-    "key": "jobhive|ZOOX|Contract Student Worker - Digital Engineer|Foster City, CA",
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern Researcher- Applied 3D AIGC|Markham, Ontario, Canada",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
-    "ats_type": "lever",
-    "ats_id": "cfb9dff3-844f-443e-9be8-46133eb9e656"
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2775366"
   },
   {
-    "key": "jobhive|Rocketlab|Fluid Systems Intern Spring 2027|Long Beach, CA",
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern Researcher- Audio, Speech & Acoustic AI|Markham, Ontario, Canada",
     "first_seen": "2026-11-03T10:14:33.942746+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2775350"
+  },
+  {
+    "key": "jobhive|Ravenpack|AI Automation Intern, Knowledge Graph (Internship)|Marbella, Spain",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8511613"
+  },
+  {
+    "key": "jobhive|Loavies|Internship: Digital Design - Feb 2027|Zwolle, Overijssel, Netherlands",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2774926"
+  },
+  {
+    "key": "jobhive|Shifttechnology|QA Engineer Intern (6 months)|France - Paris",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
     "ats_type": "greenhouse",
-    "ats_id": "7986788003"
+    "ats_id": "8014527003"
   },
   {
-    "key": "jobhive|Wadetrim|Engineer Summer Intern - #3017.08|Pittsburgh, PA",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
+    "key": "jobhive|Huaweidusseldorf|IP Network O&M Engineer (Extra-curricular Internship)|Roma, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8504972"
+  },
+  {
+    "key": "jobhive|Ecocert|Stage Data Engineer/Analyst Approvisionnement responsable (H/F)|Paris, Île-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2771202"
+  },
+  {
+    "key": "jobhive|Avisia|Stage de fin d'études - AI Engineer H/F - Paris|Paris, Île-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2770195"
+  },
+  {
+    "key": "jobhive|Avisia|Stage de fin d'études - Data Analyst / Scientist H/F - Paris|Paris, Île-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2770193"
+  },
+  {
+    "key": "jobhive|Avisia|Stage de fin d'études - Analytics Engineer H/F - Paris|Paris, Île-de-France, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2770191"
+  },
+  {
+    "key": "jobhive|Avisia|Stage de fin d'études - Consultant Data & IA H/F - Régions|Nantes, Pays de la Loire, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2770189"
+  },
+  {
+    "key": "jobhive|Softswiss|IT Support Engineer L1 - Junior|Poznań, Poland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8495392"
+  },
+  {
+    "key": "jobhive|Strict B V|Junior Business Developer Vitale Sectoren|Utrecht, Utrecht, Nederland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2769468"
+  },
+  {
+    "key": "jobhive|Highlights Healthcare|Future BCBA? Hiring Student Analyst (Registered Behavior Technician) ABA Therapy (CLT)|Charlotte, NC",
+    "first_seen": "2026-10-02T17:02:37.387188+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "95c6ca1af0a4"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Junior Telecommunications Engineer|Warszawa, Poland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8486339"
+  },
+  {
+    "key": "jobhive|Hemeria|Stage: Ingénieur développement full-stack (F/H)|Toulouse, Occitanie, France",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2766575"
+  },
+  {
+    "key": "jobhive|HCVT|Technology and Transformation MBA Internship|West Los Angeles, CA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
     "ats_type": "lever",
-    "ats_id": "c1d04bf2-b3f6-45ed-9aaf-d38b81cd9eac"
+    "ats_id": "e0656fa0-a44f-498f-a09e-84bc39b838bd"
   },
   {
-    "key": "jobhive|Wadetrim|Engineer Summer Intern - #3016.13|Tampa, FL",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
+    "key": "jobhive|HCVT|Technology and Transformation MBA Internship|Long Beach, CA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
     "ats_type": "lever",
-    "ats_id": "82244200-c804-42f3-b4a5-6a6ba29646c8"
+    "ats_id": "b0267a42-4e82-4ff4-91a6-8b2e9890018a"
   },
   {
-    "key": "jobhive|Wadetrim|Entry Level Civil/Environmental Engineer - #3009.13|Tampa, FL",
-    "first_seen": "2026-09-24T01:37:06.249449+00:00",
-    "last_seen": "2026-11-10T12:41:45.018892+00:00",
+    "key": "jobhive|HCVT|Technology and Transformation MBA Internship|Salt Lake City, UT",
+    "first_seen": "2026-10-01T14:57:46.867933+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
     "ats_type": "lever",
-    "ats_id": "749419bf-be5b-47cc-9c41-93cfeae3d12d"
+    "ats_id": "21c20020-4157-412c-a1c6-16475fb6a21e"
   },
   {
-    "key": "md|ZOOX|Contract Student Worker - Digital Engineer|Foster City, CA, US",
+    "key": "jobhive|HCVT|Technology and Transformation MBA Internship|Denver, CO",
+    "first_seen": "2026-10-01T14:57:46.867933+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "lever",
+    "ats_id": "bb799268-40c5-4ccd-a587-2ecdce5b0158"
+  },
+  {
+    "key": "jobhive|HCVT|Technology and Transformation MBA Internship|Irvine, CA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "lever",
+    "ats_id": "fe25c66f-7280-4aee-8a0a-2293ac2f1c55"
+  },
+  {
+    "key": "jobhive|Rh2 Engineering|Engineering Internship - Summer 2027|Bellevue, WA",
+    "first_seen": "2026-10-01T14:57:46.867933+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "5385fcadb9d4"
+  },
+  {
+    "key": "jobhive|Erste Digital Gmbh|Junior SAP Solution Analyst – Finance & Technology (all humans)|Vienna, Wien, Austria",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2765997"
+  },
+  {
+    "key": "jobhive|Fireclay Partners|Internship - Investment Banking Analyst (Summer 2027)|Kansas City, MO",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "7768f9e6d0cd"
+  },
+  {
+    "key": "jobhive|Vetsez|Junior Appian Integration Developer (Remote Opportunity)|Tampa, FL",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "breezy",
+    "ats_id": "18df3ec23bf901"
+  },
+  {
+    "key": "jobhive|BIHR|Junior Product Coordinator|Alfreton, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8439404"
+  },
+  {
+    "key": "jobhive|Silae Career|Stage de fin d'études- Ingénieur IA/LLM|Paris, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8439361"
+  },
+  {
+    "key": "jobhive|Belvederetrading|Early Career Talent Partner - Technology & Platform|Chicago, Illinois",
+    "first_seen": "2026-09-25T14:51:50.466519+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "lever",
+    "ats_id": "fd619115-ced7-4d59-bd2b-0948b5ee5fde"
+  },
+  {
+    "key": "jobhive|Axiscompany|Welding Engineer Intern|Walker, Michigan, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8832086002"
+  },
+  {
+    "key": "jobhive|Genevatrading|Trade Support Engineer Intern|Chicago Office",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5242190007"
+  },
+  {
+    "key": "jobhive|Satelliteoffice|Junior Compliance & Financial Crime Analyst|Pasig, Philippines",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8411338"
+  },
+  {
+    "key": "jobhive|Institut Mines T L Com|Internship in Stretchable Electronics & Optics for Artificial Skin Demonstrators - 4 to 6 months|Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2746987"
+  },
+  {
+    "key": "jobhive|Huaweifinlandrnd|Research Intern, Compiler Instrumentation with hardware assistance for Morphing|Helsinki, Finland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8380469"
+  },
+  {
+    "key": "jobhive|Keyence Canada Inc|Entry Level Technical Sales - Mississauga Office|Mississauga, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2743916"
+  },
+  {
+    "key": "jobhive|Omni Consulting Solutions|Junior Management and Program Analyst|Washington D.C, Virginia, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2742344"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Junior Product Manager (Network Solution) | Dutch Speaking) - Graduate Program|Rijswijk, Netherlands",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8361346"
+  },
+  {
+    "key": "jobhive|Abrio Gmbh|Junior Fullstack Developer|Frankfurt, Hessen, Deutschland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2742243"
+  },
+  {
+    "key": "jobhive|Theboundary|Junior Artist - Architectural Visualisation|Porto, Portugal",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8325658"
+  },
+  {
+    "key": "jobhive|Theboundary|Junior Artist - Architectural Visualisation|London, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8325640"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Enterprise Network Solution Sales Engineer (Extra-curricular Internship)|Milano, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8315901"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Network Solution Sales Engineer (Extra-curricular Internship)|Milano, Italy",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8315864"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern Researcher – Multimodal AI & Interaction|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2731774"
+  },
+  {
+    "key": "jobhive|Keyence Canada Inc|Entry Level Technical Sales - Burnaby Office|Burnaby, British Columbia, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2731721"
+  },
+  {
+    "key": "jobhive|Sparteo|Stage - Assistant.e de Production|Paris, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8303887"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Engineer - Computer Network for AI|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2729857"
+  },
+  {
+    "key": "jobhive|Imnoo Ag|Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior|Remote job",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2729198"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Junior IP/Datacom Technical Support Engineer|Dublin 4, Ireland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8290922"
+  },
+  {
+    "key": "jobhive|Bv Enersee|Junior Product Marketer|Antwerp, Antwerpen, Belgium",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2727264"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|IT Engineer (Extra-curricular Internship)|Milano, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8284771"
+  },
+  {
+    "key": "jobhive|Huaweidusseldorf|Optical Telecommunications Network Engineer (Extra-curricular Internship)|Milano, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8284685"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher – Agentic AI|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2720788"
+  },
+  {
+    "key": "jobhive|Ig H|Junior Consultant IT Strategie|Utrecht, Utrecht, Nederland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2720602"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Engineer|Ottawa, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2719131"
+  },
+  {
+    "key": "jobhive|Justergroupab|Junior Creative AI Operator / Developer|Gothenburg, Sweden",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8252590"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher - LLMs & Computer Vision|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2717708"
+  },
+  {
+    "key": "jobhive|Wearediverse|Junior Cloud Technology Engineer|London, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8247763"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher – LLM Post-Training & Agentic Coding|Edmonton, Alberta, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2715960"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher - Physical AI|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2715933"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher - Video Generation & 3D Computer Vision|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2715851"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher - Machine Learning, Speech & Audio AI|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2715751"
+  },
+  {
+    "key": "jobhive|Huaweiresearchcentergermanyaustria|Intern - Algorithm Development for Advanced Driving Systems|München, Germany",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8221749"
+  },
+  {
+    "key": "jobhive|Virtu|2027 Internship - FPGA Engineer|Dublin, Ireland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-10T21:04:19.777479+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8638124002"
+  },
+  {
+    "key": "jobhive|Belvederetrading|Early Career Talent Partner- Technology & Platform|Chicago, Illinois",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T14:16:10.862074+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Spacex|New Graduate Engineer, Software|Hawthorne, CA",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Drivetime|Database Engineer Intern|Tempe, AZ",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Johns Hopkins Applied Physics Laboratory|Electrical and Computer Engineer Intern - Miniature Device Technologies|Laurel, MD",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Honeywell Aerospace|Software Engineering Full Time Employee - Recent Grad 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern - Summer 2027|Dallas, TX, United States",
+    "first_seen": "2026-09-26T01:02:25.568127+00:00",
+    "last_seen": "2026-10-07T10:42:01.499821+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Worcester, MA, United States",
+    "first_seen": "2026-09-26T01:02:25.568127+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Chicago, IL, United States",
+    "first_seen": "2026-09-26T01:02:25.568127+00:00",
+    "last_seen": "2026-10-07T10:42:01.499821+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Philadelphia, PA, United States",
+    "first_seen": "2026-09-26T01:02:25.568127+00:00",
+    "last_seen": "2026-10-20T06:51:37.649095+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Lawrenceville, NJ, United States",
+    "first_seen": "2026-09-26T01:02:25.568127+00:00",
+    "last_seen": "2026-10-20T06:51:37.649095+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Spectrum|2027 Summer Intern: Associate QA Analyst (Customer Operations)|Maryland Heights, MO, United States",
+    "first_seen": "2026-09-26T18:48:16.392279+00:00",
+    "last_seen": "2026-10-19T21:51:46.136536+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Spectrum|2027 Summer Intern: Associate QA Analyst​ (Customer Operations)|Charlotte, NC, United States",
+    "first_seen": "2026-09-26T18:48:16.392279+00:00",
+    "last_seen": "2026-09-28T04:37:19.396986+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Spectrum|2027 Summer Intern: Associate QA Analyst​ (Customer Operations)|Maryland Heights, MO, United States",
+    "first_seen": "2026-09-26T21:41:41.141876+00:00",
+    "last_seen": "2026-10-18T03:43:36.987094+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Textron|Integration Test Engineer Intern - Marine|New Orleans, LA",
+    "first_seen": "2026-09-30T18:40:24.379246+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Electrical Engineering Internship - Summer 2027|Bellingham, WA, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|Nampa, ID, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|Tacoma, WA, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|East Wenatchee, WA, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|Bellingham, WA, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|Medford, OR, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|Bellevue, WA, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Rh2 Engineering|Engineering Internship - Summer 2027|Richland, WA, United States",
+    "first_seen": "2026-10-01T01:39:27.755526+00:00",
+    "last_seen": "2026-10-01T08:16:43.675769+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Capital One|MBA Product Intern - Summer 2027|McLean, VA",
+    "first_seen": "2026-10-01T14:57:46.867933+00:00",
+    "last_seen": "2026-10-04T00:14:12.301479+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Capital One|MBA Product Intern - Summer 2027|McLean, VA, United States",
+    "first_seen": "2026-10-01T20:04:06.703301+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Johns Hopkins Applied Physics Laboratory|Electrical and Computer Engineer Intern - Miniature Device Technologies|Laurel, MD, US",
     "first_seen": "2026-10-01T20:04:06.703301+00:00",
     "last_seen": "2026-10-03T17:41:20.634843+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "md|ZOOX|Contract Student Worker - Digital Engineer|Foster City, CA, States",
+    "key": "md|Drivetime|Database Engineer Intern|Tempe, AZ · 1720 W Rio Salado Pkwy Tempe, AZ 85281, US",
+    "first_seen": "2026-10-01T20:04:06.703301+00:00",
+    "last_seen": "2026-10-03T17:41:20.634843+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Textron|Integration Test Engineer Intern - Marine|New Orleans, LA, US",
+    "first_seen": "2026-10-01T20:04:06.703301+00:00",
+    "last_seen": "2026-10-03T17:41:20.634843+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Capital One|MBA Product Intern - Summer 2027|McLean, VA · 4 Locations · 4 locations McLean, VA · Richmond, VA · Chicago, IL · NYC, States",
     "first_seen": "2026-10-03T19:05:57.882657+00:00",
     "last_seen": "2026-10-24T18:39:39.446408+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "md|Fidelity Investments|Product Manager, Portfolio Construction Solutions|Durham, NC",
-    "first_seen": "2026-10-05T16:32:23.209438+00:00",
-    "last_seen": "2026-11-05T11:59:27.243316+00:00",
+    "key": "md|Johns Hopkins Applied Physics Laboratory|Electrical and Computer Engineer Intern - Miniature Device Technologies|Laurel, MD, States",
+    "first_seen": "2026-10-03T19:05:57.882657+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Astera Labs|Packaging Engineer Intern|San Jose, CA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "key": "md|Drivetime|Database Engineer Intern|Tempe, AZ · 1720 W Rio Salado Pkwy Tempe, AZ 85281, States",
+    "first_seen": "2026-10-03T19:05:57.882657+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Textron|Integration Test Engineer Intern - Marine|New Orleans, LA, States",
+    "first_seen": "2026-10-03T19:05:57.882657+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Valhalla, NY, United States",
+    "first_seen": "2026-10-05T22:58:16.395532+00:00",
+    "last_seen": "2026-10-20T06:51:37.649095+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Troy, NY, United States",
+    "first_seen": "2026-10-05T22:58:16.395532+00:00",
+    "last_seen": "2026-10-29T01:24:04.756534+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|New York, NY, United States",
+    "first_seen": "2026-10-12T23:19:38.778933+00:00",
+    "last_seen": "2026-10-13T08:42:41.622529+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Humana|Technology Intern - Society of Women Engineers Conference|Louisville, KY",
+    "first_seen": "2026-10-15T01:03:30.011108+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Humana|Technology Intern - Society of Women Engineers Conference|Louisville, KY, States",
+    "first_seen": "2026-10-15T03:51:24.133532+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Spacex|New Graduate Engineer, Software|Hawthorne, CA, USA",
+    "first_seen": "2026-10-16T12:48:15.559425+00:00",
     "last_seen": "2026-11-07T20:15:24.899831+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Olsson|Civil Engineering Internship - Industrial Environmental|Little Rock, AR; Overland Park, KS",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T03:08:29.025573+00:00",
+    "key": "md|Booz Allen Hamilton|Software Engineer, Junior|Albuquerque, NM, USA",
+    "first_seen": "2026-10-17T16:45:07.589371+00:00",
+    "last_seen": "2026-10-19T21:51:46.136536+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Rocket Lab|Avionics Engineering Intern Summer 2027|Long Beach, CA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T03:08:29.025573+00:00",
+    "key": "freehire|Spacex|New Graduate Engineer, Software|Hawthorne, CA",
+    "first_seen": "2026-10-18T23:46:57.170647+00:00",
+    "last_seen": "2026-10-31T22:00:54.695449+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Rocket Lab|Propulsion Design Intern Summer 2027|Long Beach, CA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-10-29T14:47:10.144026+00:00",
+    "key": "md|Wsp In The U S|Structural Engineering Intern - Summer 2027|Denver, CO, United States",
+    "first_seen": "2026-10-19T23:27:29.985376+00:00",
+    "last_seen": "2026-10-20T06:51:37.649095+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Commonwealth Fusion Systems|Intern - Industrial Engineer - Spring or Summer 2027|Devens, MA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|South Jordan, UT, United States",
+    "first_seen": "2026-10-19T23:27:29.985376+00:00",
+    "last_seen": "2026-10-20T06:51:37.649095+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Commonwealth Fusion Systems|Intern - Manufacturing Engineer - Spring or Summer 2027|Devens, MA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
+    "key": "md|Wsp In The U S|Structural Engineering Intern- Summer 2027|Baltimore, MD, United States",
+    "first_seen": "2026-10-19T23:27:29.985376+00:00",
+    "last_seen": "2026-10-20T06:51:37.649095+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Commonwealth Fusion Systems|Intern - Mechanical Engineer - Summer 2027|Milpitas, CA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
+    "key": "freehire|Khaite|Design Intern, Non-Apparel, Spring 2027|New York, NY",
+    "first_seen": "2026-10-20T00:49:09.078027+00:00",
+    "last_seen": "2026-10-20T14:26:03.790341+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Commonwealth Fusion Systems|Intern - Nuclear/Systems Engineer - Summer 2027|Devens, MA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
+    "key": "freehire|Accso Accelerated Solutions Gmbh|Werkstudent* Software Engineering|Darmstadt",
+    "first_seen": "2026-10-20T13:08:54.715824+00:00",
+    "last_seen": "2026-10-26T00:50:15.514528+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Walker Consultants|Structural Engineer Internship - Summer 2027|Portage, MI",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T03:08:29.025573+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|ZOOX|Contract Student Worker - Digital Engineer|Foster City, CA",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|Country Financial|Auto Product Analyst Intern|Bloomington, IL",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|Vermeer|Quality Engineer Intern - Summer 2027|Pella, Iowa, USA - Plant 3",
-    "first_seen": "2026-10-19T18:31:36.561671+00:00",
-    "last_seen": "2026-11-07T20:15:24.899831+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|Gilead Sciences|Intern - Research - Clinical Virology - AI|United States - California - Foster City",
-    "first_seen": "2026-10-20T15:26:30.836572+00:00",
-    "last_seen": "2026-10-30T20:16:21.033435+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|Micron Technology|Intern - ASIC Digital Design|Minneapolis, MN",
-    "first_seen": "2026-10-20T19:54:52.850437+00:00",
-    "last_seen": "2026-10-21T08:59:29.915610+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ecr|ZOOX|Contract Student Worker - Digital Engineer|Foster City, CA",
+    "key": "ecr|Capital One|MBA Product Intern - Summer 2027|McLean, VA · 4 Locations · 4 locations McLean, VA · Richmond, VA · Chicago, IL · NYC",
     "first_seen": "2026-10-24T20:09:26.664352+00:00",
     "last_seen": "2026-11-02T20:59:05.933972+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Minimed|Clinical Product Quality & Safety Intern Summer 2027|Northridge, California, United States of America",
-    "first_seen": "2026-10-28T14:51:26.743349+00:00",
+    "key": "ats|Booz Allen Hamilton|University - 2027 Summer Games Software Developer Intern - Albuquerque, NM|Albuquerque, NM",
+    "first_seen": "2026-10-26T23:39:02.603784+00:00",
     "last_seen": "2026-11-07T02:08:23.980860+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Commonwealth Fusion Systems|Intern - Materials Test Engineer - Summer 2027|Devens, MA",
-    "first_seen": "2026-10-28T20:41:30.541032+00:00",
-    "last_seen": "2026-11-02T05:06:48.263451+00:00",
+    "key": "ecr|Booz Allen Hamilton|University - 2027 Summer Games Software Developer Intern - Albuquerque, NM|Albuquerque, NM",
+    "first_seen": "2026-10-27T04:17:12.529341+00:00",
+    "last_seen": "2026-11-02T20:59:05.933972+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "md|Leidos|Alternate McMurdo Winter Research Associate|6314 Remote/Teleworker US",
-    "first_seen": "2026-10-28T20:51:47.173861+00:00",
+    "key": "md|Booz Allen Hamilton|University - 2027 Summer Games Software Developer Intern - Albuquerque, NM|Albuquerque, NM, USA",
+    "first_seen": "2026-10-27T18:31:41.928384+00:00",
+    "last_seen": "2026-11-02T20:59:05.933972+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Booz Allen Hamilton|University - 2027 Summer Games Software Developer Intern - Albuquerque, NM|Albuquerque, NM",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Gilead Sciences|Intern - Research - Discovery Sciences and Technologies - AI|United States - California - Foster City",
-    "first_seen": "2026-10-29T15:02:26.514988+00:00",
-    "last_seen": "2026-10-30T20:16:21.033435+00:00",
+    "key": "md|Caterpillar|Connected Asset Data Specialist – Regulatory Compliance|Peoria, Illinois",
+    "first_seen": "2026-10-28T19:58:25.443121+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Gilead Sciences|Intern - Research - Drug Metabolism - AI|United States - California - Foster City",
-    "first_seen": "2026-10-30T15:07:23.468518+00:00",
-    "last_seen": "2026-10-30T20:16:21.033435+00:00",
+    "key": "md|Schneider Electric|Graduate Product Management Intern|Nashville, TN",
+    "first_seen": "2026-10-31T14:09:43.986585+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Gilead Sciences|Intern - Research - Pathobiology - AI|United States - California - Foster City",
-    "first_seen": "2026-10-30T15:07:23.468518+00:00",
-    "last_seen": "2026-10-30T20:16:21.033435+00:00",
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Intern Researcher- AI Agents|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-05T11:59:27.243316+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Sierra Nevada Corporation|Program Financial Analyst Intern (Summer 2027)|Lone Tree, CO",
-    "first_seen": "2026-10-30T15:07:23.468518+00:00",
-    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "key": "jobhive|Huaweidusseldorf|Junior Product Manager (IP/Datacom) | Dutch Speaking) - Graduate Program|Rijswijk, Netherlands",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-06T13:28:01.892757+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|WSP|Mechanical Engineering (Transmission) Intern - Summer 2027|Portland, OR, United States",
+    "key": "md|T Mobile|Summer 2027 Industrial Engineering Internship|Irving, Texas",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|T Mobile|Product Operations Manager Intern|Bellevue, WA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pacific Northwest National Laboratory|NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference 🎓|Seattle, WA, Richland, WA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pacific Northwest National Laboratory|NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference 🎓|Seattle, WA, Richland, WA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|T Mobile|Summer 2027 Industrial Engineering Internship|Irving, TX, United States",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-03T22:42:00.399985+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pacific Northwest National Laboratory|NSIP Masters Intern - Artificial Intelligence & Data Analytics - SWE Conference|Seattle, WA, USA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-04T11:42:40.917396+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Teads|Junior Software Engineer  - DR Delivery Team|Ljubljana",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-04T11:42:40.917396+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Pacific Northwest National Laboratory|NSIP Masters Intern - Artificial Intelligence & Data Analytics - SWE Conference|Richland Campus",
     "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Globalfoundries|Device Engineering Intern, Silicon Photonics (Summer 2027)|USA - New York - Malta",
-    "first_seen": "2026-11-05T09:42:21.852061+00:00",
-    "last_seen": "2026-11-07T20:15:24.899831+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|Bristol Myers Squibb|Equipment Engineering Intern – Summer 2027|Indianapolis - RayzeBio - IN",
-    "first_seen": "2026-11-05T09:42:21.852061+00:00",
-    "last_seen": "2026-11-05T23:46:00.896178+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "ats|Caresource|2027 Summer Internship Program - Data Analyst|Remote",
-    "first_seen": "2026-11-05T23:46:00.896178+00:00",
-    "last_seen": "2026-11-07T20:15:24.899831+00:00",
-    "ats_type": "",
-    "ats_id": ""
-  },
-  {
-    "key": "md|Fidelity Investments|Product Manager, Portfolio Construction Solutions|Merrimack, NH",
-    "first_seen": "2026-11-06T00:54:34.944352+00:00",
+    "key": "freehire|Pacific Northwest National Laboratory|NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference|Richland Campus",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
     "last_seen": "2026-11-07T20:28:33.695300+00:00",
     "ats_type": "",
     "ats_id": ""
   },
   {
-    "key": "ats|Aerospace Corporation|2027 Software Engineering Grad Intern|El Segundo, CA",
+    "key": "breadth|Imnoo Ag|Machine Learning / Computer Graphics Engineer (remote part/full time) - Junior/Mid/Senior|Remote job",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-03T18:09:25.612010+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "breadth|Koninklijk Nederlands Lucht En Ruimtevaartcentrum|Internship: Explainable AI for the qualification of aerospace algorithms|Amsterdam, Noord-Holland, Nederland",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-03T18:09:25.612010+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ecr|T Mobile|Summer 2027 Industrial Engineering Internship|Irving, Texas",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pacific Northwest National Laboratory|NSIP Master's Intern - Artificial Intelligence & Data Analytics - SWE Conference|Seattle, WA, Richland, WA",
+    "first_seen": "2026-11-03T18:09:25.612010+00:00",
+    "last_seen": "2026-11-07T02:08:23.980860+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pacific Northwest National Laboratory|NSIP PhD Intern - Artificial Intelligence & Data Analytics - SWE Conference|Seattle, WA, Richland, WA",
+    "first_seen": "2026-11-03T18:09:25.612010+00:00",
+    "last_seen": "2026-11-07T02:08:23.980860+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Chicago Trading Company|Associate Engineer - 2027 Start|Chicago, IL, United States",
+    "first_seen": "2026-11-03T18:09:25.612010+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "breadth|Institut Mines T L Com|Offre de stage – Design et fabrication d’un circuit électronique flexible pour capteur de gaz portable – 5 à 6 mois|Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "first_seen": "2026-11-03T22:42:00.399985+00:00",
+    "last_seen": "2026-11-05T00:11:33.145645+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "breadth|Institut Mines T L Com|Offre de Stage : Ingénierie des électrodes pour les batteries résorbables à ions métalliques – “Electrode Engineering for Resorbable Metal-Ion Batteries “ -Stage de 4 à 6 mois|Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "first_seen": "2026-11-03T22:42:00.399985+00:00",
+    "last_seen": "2026-11-05T00:11:33.145645+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Tenet Healthcare|Workforce Data & Analytics Intern – Summer 2027 – Onsite in Dallas, TX|Dallas, TX, United States",
+    "first_seen": "2026-11-03T23:45:38.281627+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Leidos|Junior Software Engineer (SWE-1)|3325 Fort George G. Meade MD",
+    "first_seen": "2026-11-04T03:43:29.056798+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Booz Allen Hamilton|Software Engineer, Junior|Albuquerque, NM",
+    "first_seen": "2026-11-04T11:42:40.917396+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|T Mobile|Summer 2027 Industrial Engineering Internship|Irving, Texas",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Mthreerecruiting|Entry-Level Analyst – Product & Accounting Control|Montréal, Quebec, Canada",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Booz Allen Hamilton|Software Engineer, Junior|Albuquerque, NM",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-07T02:08:23.980860+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Leidos|Junior Software Engineer (SWE-1)|3325 Fort George G. Meade MD",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Impulse Space|Manufacturing Engineering Intern (Spring 2027)|Redondo Beach",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Huawei Technologies Canada Co Ltd|Co-op Researcher - LLMs & Computer Vision|Markham, Ontario, Canada",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Huaweiresearchcentergermanyaustria|Intern - Software Engineer, Spatial AI Agent Platform|München, DE",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-05T11:59:27.243316+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Strict B V|Junior Business Developer Vitale Sectoren|Utrecht, Utrecht, Nederland",
+    "first_seen": "2026-11-05T15:54:06.121710+00:00",
+    "last_seen": "2026-11-05T23:46:00.896178+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Tenet Healthcare|Mechanical Engineering Intern – Summer 2027 – Onsite in Dallas, TX|Dallas, TX, United States",
+    "first_seen": "2026-11-05T21:40:07.487312+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Huaweidusseldorf|Junior Product Manager (IP/Datacom) | Dutch Speaking is pre) - Graduate Program|Rijswijk, NL",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-05T23:46:00.896178+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|VIQI|Ingénieur(e) Production Junior - Industrie Santé|LYON, FR",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-05T23:46:00.896178+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Eversource Energy|2027 Summer: Distribution Engineering Intern (Hybrid Schedule)|Yarmouth, MA",
+    "first_seen": "2026-11-06T08:42:35.830014+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "breadth|Institut Mines T L Com|Stage : Construction automatique de modèles de processus hospitaliers multi- flux par grands modèles de langage (LLM)|Albi, Occitanie, France",
+    "first_seen": "2026-11-06T11:55:43.748830+00:00",
+    "last_seen": "2026-11-06T11:55:43.748830+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Huaweidusseldorf|IT Engineer (Extra-curricular Internship)|Milano, IT",
     "first_seen": "2026-11-06T16:05:58.286281+00:00",
     "last_seen": "2026-11-07T08:07:50.733609+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vdk Groep B V|Junior Accountmanager Software|Barendrecht, Zuid-Holland, Nederland",
+    "first_seen": "2026-11-06T16:05:58.286281+00:00",
+    "last_seen": "2026-11-07T08:07:50.733609+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Boeing|Software Engineer (Associate, Experienced or Lead)|USA - El Segundo, CA",
+    "first_seen": "2026-11-06T21:51:39.200515+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Abbott|Software Quality Engineer I|United States - California - Sylmar",
+    "first_seen": "2026-11-06T21:51:39.200515+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Federal Express Corporation|Summer Intern 2027 - Customer Experience Data Analytics|Miami, FL, United States",
+    "first_seen": "2026-11-07T00:00:13.385117+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ecr|KLA|Mechanical Engineer Intern|Milpitas, CA",
+    "first_seen": "2026-11-07T01:35:05.077648+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|KLA|Mechanical Engineer Intern|Milpitas, CA",
+    "first_seen": "2026-11-07T05:48:23.306853+00:00",
+    "last_seen": "2026-11-07T20:28:33.695300+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Erste Digital Gmbh|Internship IT Workplace Support  (all humans)|Vienna, Wien, Austria",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Erste Digital Gmbh|Junior Technical Analyst (all genders)|Bratislava, Bratislavský kraj, Slovakia",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Erste Digital Gmbh|Junior SAP Solution Analyst – Finance & Technology (all humans)|Bratislava, Bratislavský kraj, Slovakia",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Erste Digital Gmbh|Junior SAP Solution Analyst – Finance & Technology (all humans)|Vienna, Wien, Austria",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Erste Digital Gmbh|Student Part-time Technical Analyst (all humans)|Bratislava, Bratislavský kraj, Slovakia",
+    "first_seen": "2026-11-07T19:06:05.491661+00:00",
+    "last_seen": "2026-11-07T20:15:24.899831+00:00",
     "ats_type": "",
     "ats_id": ""
   }
