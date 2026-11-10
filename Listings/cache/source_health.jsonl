@@ -3150,3 +3150,6 @@
 {"ts": 1794344049.8660076, "source": "breadth:Remotive", "discovered": 13, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794344049.8660076, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794344049.8660076, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.224, "status": "ok"}
+{"ts": 1794346243.6867568, "source": "jobhive", "discovered": 0, "valid": 12909, "new": 3, "seconds": 0.0, "status": "ok"}
+{"ts": 1794346243.6867568, "source": "jobhive-closure", "discovered": 56630, "valid": 56372, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794346243.6867568, "source": "ats-probe", "discovered": 222453, "valid": 16162, "new": 0, "seconds": 1526.399, "status": "ok"}
