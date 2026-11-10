@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T20:19:14.168399+00:00",
+ "generated_at": "2026-11-10T20:51:27.749464+00:00",
  "policy": {
   "ttl_hours": {
    "priority_ats": 24,
@@ -33,42 +33,42 @@
  ],
  "expired": [],
  "rejected": [],
- "rows_eligible": 119068,
+ "rows_eligible": 119106,
  "sources": {
   "ats_new": {
    "class": "direct_ats",
    "etag": "",
-   "fetched_at": "2026-11-10T12:59:01.026387+00:00",
+   "fetched_at": "2026-11-10T20:53:41.491926+00:00",
    "rejections": 0,
-   "rows": 800,
+   "rows": 779,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": 7.34,
+   "age_hours": -0.04,
    "fresh": true
   },
   "breadth": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-10T12:57:53.807213+00:00",
+   "fetched_at": "2026-11-10T20:52:26.999201+00:00",
    "rejections": 0,
-   "rows": 37,
+   "rows": 47,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": 7.36,
+   "age_hours": -0.02,
    "fresh": true
   },
   "ecr": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-10T12:57:24.825198+00:00",
+   "fetched_at": "2026-11-10T20:52:00.181500+00:00",
    "rejections": 0,
-   "rows": 5206,
+   "rows": 5246,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": 7.36,
+   "age_hours": -0.01,
    "fresh": true
   },
   "heavy": {
@@ -80,19 +80,19 @@
    "source": "heavy",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": 6.97,
+   "age_hours": 7.51,
    "fresh": true
   },
   "jobhive": {
    "class": "jobhive",
    "etag": "",
-   "fetched_at": "2026-11-10T20:23:56.664448+00:00",
+   "fetched_at": "2026-11-10T20:53:54.557964+00:00",
    "rejections": 0,
    "rows": 43870,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": -0.08,
+   "age_hours": -0.04,
    "fresh": true
   },
   "jobspy": {
@@ -104,7 +104,7 @@
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.08,
+   "age_hours": 0.46,
    "fresh": true
   },
   "light": {
@@ -116,19 +116,19 @@
    "source": "light",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": -0.01,
+   "age_hours": 0.52,
    "fresh": true
   },
   "medium": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-10T12:57:51.588295+00:00",
+   "fetched_at": "2026-11-10T20:52:24.758908+00:00",
    "rejections": 0,
-   "rows": 5385,
+   "rows": 5394,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": 7.36,
+   "age_hours": -0.02,
    "fresh": true
   },
   "priority": {
@@ -140,7 +140,7 @@
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": 6.96,
+   "age_hours": 7.5,
    "fresh": true
   }
  }
