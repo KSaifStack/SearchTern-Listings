@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-10T02:48:44Z",
+ "built_at": "2026-11-10T03:07:40Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -35912,6 +35912,11 @@
     }
    ]
   },
+  "silvi": {
+   "fetched_at": "2026-11-10T03:07:38Z",
+   "label": "silvi",
+   "titles": []
+  },
   "simon property": {
    "fetched_at": "2026-10-26T04:10:38Z",
    "label": "Simon Property Group",
@@ -36386,6 +36391,67 @@
      "count": 1,
      "median_salary": 92893,
      "title": "STRUCTURAL DESIGNER"
+    }
+   ]
+  },
+  "solstice advanced materials": {
+   "fetched_at": "2026-11-10T03:07:39Z",
+   "label": "Solstice Advanced Materials",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 160713,
+     "title": "LEAD R&AMP;D ENGR SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "ADVANCED DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 160869,
+     "title": "FINANCE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "IT MANAGER ARCHITECT, MARKETING, ECOMMERCE AND PORTAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "IT MANAGER, COMMERCIAL TECHNOLOGIES"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SAP TECHNICAL IT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 153000,
+     "title": "SR ADVANCED R&AMP;D ENGINEER SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 147900,
+     "title": "SR ADVANCED R&AMP;D ENGR SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 141143,
+     "title": "SR HSE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 225536,
+     "title": "SR PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 181930,
+     "title": "SR R&AMP;D MANAGER"
     }
    ]
   },
@@ -40769,6 +40835,112 @@
      "count": 2,
      "median_salary": 131127,
      "title": "MANAGER, DATA SCIENCE"
+    }
+   ]
+  },
+  "university of new mexico": {
+   "fetched_at": "2026-11-10T03:07:40Z",
+   "label": "University of New Mexico",
+   "titles": [
+    {
+     "count": 47,
+     "median_salary": 126247,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 5,
+     "median_salary": 61008,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 3,
+     "median_salary": 64736,
+     "title": "DATA MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 110000,
+     "title": "LECTURER III"
+    },
+    {
+     "count": 3,
+     "median_salary": 86889,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 63194,
+     "title": "ACCOUNTANT 2"
+    },
+    {
+     "count": 2,
+     "median_salary": 238723,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 55354,
+     "title": "RESEARCH SCIENTIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 59243,
+     "title": "TECHNICAL ANALYST 2"
+    },
+    {
+     "count": 2,
+     "median_salary": 48308,
+     "title": "TRAINING AND DEVELOPMENT CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 106580,
+     "title": "APRN INPATIENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 38020,
+     "title": "ASSISTANT COACH"
+    },
+    {
+     "count": 1,
+     "median_salary": 38020,
+     "title": "ASSISTANT MEN&#39;S TENNIS COACH"
+    },
+    {
+     "count": 1,
+     "median_salary": 216874,
+     "title": "ASSISTANT PROFESSOR ATTENDING PSYCHIATRIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 56400,
+     "title": "ASSISTANT PROFESSOR OF PSYCHOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ATHLETIC MEDIA SPECIALIST, SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 80933,
+     "title": "BIOSTATISTICIAN SR"
+    },
+    {
+     "count": 1,
+     "median_salary": 67881,
+     "title": "HS ASSOCIATE SCIENTIST 2"
+    },
+    {
+     "count": 1,
+     "median_salary": 61008,
+     "title": "POST DOCTORAL FELLOW"
+    },
+    {
+     "count": 1,
+     "median_salary": 53851,
+     "title": "POST-DOCTORAL FELLOW"
     }
    ]
   },
