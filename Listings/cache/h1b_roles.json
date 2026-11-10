@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-10T13:25:06Z",
+ "built_at": "2026-11-10T20:24:08Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8353,6 +8353,17 @@
     }
    ]
   },
+  "careers michaels com": {
+   "fetched_at": "2026-11-10T20:23:58Z",
+   "label": "careers.michaels.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "careers molsoncoors com": {
    "fetched_at": "2026-10-25T02:20:24Z",
    "label": "careers.molsoncoors.com",
@@ -8378,6 +8389,17 @@
   "careers thalesgroup com": {
    "fetched_at": "2026-11-07T23:32:34Z",
    "label": "careers.thalesgroup.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers wbd com": {
+   "fetched_at": "2026-11-10T20:23:59Z",
+   "label": "careers.wbd.com",
    "titles": [
     {
      "count": 1,
@@ -10349,6 +10371,11 @@
     }
    ]
   },
+  "clera": {
+   "fetched_at": "2026-11-10T20:24:00Z",
+   "label": "clera",
+   "titles": []
+  },
   "cleveland cliffs https aksteel wd1 myworkdayjobs com careers job rockport works computer science engineering intern r13553": {
    "fetched_at": "2026-11-05T10:41:22Z",
    "label": "[Cleveland-Cliffs](https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553)",
@@ -10687,6 +10714,11 @@
      "title": "EMBEDDED SOFTWARE ENGINEER"
     }
    ]
+  },
+  "coffmanengineersinc": {
+   "fetched_at": "2026-11-10T20:24:01Z",
+   "label": "coffmanengineersinc",
+   "titles": []
   },
   "coherent corp us": {
    "fetched_at": "2026-11-09T00:12:56Z",
@@ -13475,6 +13507,11 @@
   "e on": {
    "fetched_at": "2026-11-06T16:44:50Z",
    "label": "E.ON",
+   "titles": []
+  },
+  "eastpennmanufacturing": {
+   "fetched_at": "2026-11-10T20:24:01Z",
+   "label": "eastpennmanufacturing",
    "titles": []
   },
   "eaton": {
@@ -20634,6 +20671,11 @@
   "hwkaufman": {
    "fetched_at": "2026-11-07T23:41:50Z",
    "label": "hwkaufman",
+   "titles": []
+  },
+  "iadugs": {
+   "fetched_at": "2026-11-10T20:24:02Z",
+   "label": "Iadugs",
    "titles": []
   },
   "iawmqy": {
@@ -32389,6 +32431,112 @@
     }
    ]
   },
+  "regent": {
+   "fetched_at": "2026-11-10T20:24:03Z",
+   "label": "regent",
+   "titles": [
+    {
+     "count": 40,
+     "median_salary": 116765,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 14,
+     "median_salary": 77589,
+     "title": "ASSISTANT PROJECT SCIENTIST"
+    },
+    {
+     "count": 8,
+     "median_salary": 74262,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 7,
+     "median_salary": 71769,
+     "title": "POSTDOC-EMPLOYEE"
+    },
+    {
+     "count": 6,
+     "median_salary": 63738,
+     "title": "POST-DOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 4,
+     "median_salary": 61300,
+     "title": "ASSISTANT SPECIALIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 74000,
+     "title": "RESEARCH PROFESSIONAL 5"
+    },
+    {
+     "count": 3,
+     "median_salary": 79200,
+     "title": "ASSOCIATE SPECIALIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 71769,
+     "title": "POSTDOC EMPLOYEE"
+    },
+    {
+     "count": 3,
+     "median_salary": 71769,
+     "title": "POSTDOCTORAL SCHOLAR -EMPLOYEE"
+    },
+    {
+     "count": 2,
+     "median_salary": 94578,
+     "title": "APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "ASSISTANT PROFESSOR OF TEACHING"
+    },
+    {
+     "count": 2,
+     "median_salary": 79200,
+     "title": "ASSOCIATED SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 53100,
+     "title": "JUNIOR SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 74425,
+     "title": "POSTDOC SCHOLAR EMPLOYEE"
+    },
+    {
+     "count": 2,
+     "median_salary": 71958,
+     "title": "POSTDOCTORAL RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 123800,
+     "title": "SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 80200,
+     "title": "VISITING ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 107763,
+     "title": "ACADEMIC COORDINATOR II"
+    },
+    {
+     "count": 1,
+     "median_salary": 49140,
+     "title": "ACCOUNTS PAYABLE AUDITOR"
+    }
+   ]
+  },
   "relx": {
    "fetched_at": "2026-10-26T17:51:05Z",
    "label": "RELX",
@@ -32498,6 +32646,11 @@
   "renault": {
    "fetched_at": "2026-11-06T00:34:16Z",
    "label": "Renault",
+   "titles": []
+  },
+  "renesaselectronics": {
+   "fetched_at": "2026-11-10T20:24:04Z",
+   "label": "renesaselectronics",
    "titles": []
   },
   "republic airways": {
@@ -35324,6 +35477,11 @@
     }
    ]
   },
+  "scoutmotors": {
+   "fetched_at": "2026-11-10T20:24:05Z",
+   "label": "scoutmotors",
+   "titles": []
+  },
   "seaspan": {
    "fetched_at": "2026-11-08T00:16:04Z",
    "label": "Seaspan",
@@ -35483,6 +35641,112 @@
      "count": 5,
      "median_salary": 253637,
      "title": "SENIOR MANAGER, SOFTWARE ENGINEERING MANAGEMENT"
+    }
+   ]
+  },
+  "seven retail": {
+   "fetched_at": "2026-11-10T20:24:06Z",
+   "label": "Seven Retail",
+   "titles": [
+    {
+     "count": 18,
+     "median_salary": 104593,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 116000,
+     "title": "ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 123000,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 44000,
+     "title": "ADMINISTRATIVE MANAGER AND EXECUTIVE SECRETARY"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "ASSOCIATE DENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141511,
+     "title": "INFORMATION SECURITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 380000,
+     "title": "PHYSICIAN - CRITICAL CARE HOSPITALIST INTENSIVIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 126500,
+     "title": "QUANTITATIVE DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 126589,
+     "title": "SENIOR DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "APPLICATION SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "APPLICATIONS ENGINEER - JAVA"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ATHLETIC DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95900,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 79500,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85530,
+     "title": "COMPUTER PROGRAMMER"
+    },
+    {
+     "count": 1,
+     "median_salary": 112923,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 77000,
+     "title": "FILM PRODUCER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "FOOD SAFETY AND QUALITY ASSURANCE MANAGER"
     }
    ]
   },
@@ -42664,6 +42928,112 @@
     }
    ]
   },
+  "wabtec": {
+   "fetched_at": "2026-11-10T20:24:07Z",
+   "label": "wabtec",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 106500,
+     "title": "PTC PRODUCT SUPPORT ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 125203,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 122600,
+     "title": "SENIOR TECHNICAL LEAD - IST ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "CUSTOMER SUPPORT SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 149458,
+     "title": "ENGINEERING TECHNICAL LEADER - MCA PLATFORM SOFTWARE"
+    },
+    {
+     "count": 2,
+     "median_salary": 127000,
+     "title": "LEAD DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 126808,
+     "title": "MACHINE VISION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 90000,
+     "title": "PROGRAM LEADER - REMAN VARIANCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 178000,
+     "title": "SENIOR STAFF DESIGN RESEARCHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125916,
+     "title": "SENIOR SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133000,
+     "title": "SOURCING APPLICATIONS, IT TECHNICAL PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "ADVANCED LEAD - CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 96411,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125087,
+     "title": "EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108622,
+     "title": "INVENTORY PROCESS EXCELLENCE LEADER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127927,
+     "title": "LEAD APPLICATION SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 122301,
+     "title": "LEAD ENGINEER - CUSTOMER APPLICATION ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 114084,
+     "title": "LEAD ENGINEER - TESTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 147488,
+     "title": "LEAD PRODUCT OWNER"
+    }
+   ]
+  },
   "wadetrim": {
    "fetched_at": "2026-10-25T23:03:03Z",
    "label": "wadetrim",
@@ -42855,6 +43225,82 @@
      "count": 1,
      "median_salary": 186000,
      "title": "BUSINESS SYSTEMS ANALYST"
+    }
+   ]
+  },
+  "wayne state university": {
+   "fetched_at": "2026-11-10T20:24:07Z",
+   "label": "Wayne State University",
+   "titles": [
+    {
+     "count": 23,
+     "median_salary": 112000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 10,
+     "median_salary": 59669,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 6,
+     "median_salary": 54517,
+     "title": "POST-DOCTORAL FELLOW"
+    },
+    {
+     "count": 5,
+     "median_salary": 55940,
+     "title": "RESEARCH ASSISTANT"
+    },
+    {
+     "count": 5,
+     "median_salary": 68389,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 152260,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 61936,
+     "title": "POST DOCTORAL FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 67650,
+     "title": "POST DOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 56714,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 1,
+     "median_salary": 57942,
+     "title": "ASSISTANT TRACK &AMP; FIELD COACH"
+    },
+    {
+     "count": 1,
+     "median_salary": 50000,
+     "title": "COMMUNITY DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 109180,
+     "title": "DIRECTOR, PROGRAMMING - WDET"
+    },
+    {
+     "count": 1,
+     "median_salary": 51355,
+     "title": "POST-DOC FELLOW"
+    },
+    {
+     "count": 1,
+     "median_salary": 59500,
+     "title": "POST-DOCTORAL RESEARCHER"
     }
    ]
   },
