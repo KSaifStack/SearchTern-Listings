@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T02:54:09.086783+00:00",
+ "generated_at": "2026-11-10T03:25:07.952401+00:00",
  "policy": {
   "ttl_hours": {
    "priority_ats": 24,
@@ -32,10 +32,8 @@
   "priority"
  ],
  "expired": [],
- "rejected": [
-  "jobspy"
- ],
- "rows_eligible": 108507,
+ "rejected": [],
+ "rows_eligible": 108729,
  "sources": {
   "ats_new": {
    "class": "direct_ats",
@@ -46,7 +44,7 @@
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": -0.03,
+   "age_hours": 0.48,
    "fresh": true
   },
   "breadth": {
@@ -58,7 +56,7 @@
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.01,
+   "age_hours": 0.5,
    "fresh": true
   },
   "ecr": {
@@ -70,7 +68,7 @@
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.01,
+   "age_hours": 0.51,
    "fresh": true
   },
   "heavy": {
@@ -82,43 +80,43 @@
    "source": "heavy",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": -0.19,
+   "age_hours": 0.33,
    "fresh": true
   },
   "jobhive": {
    "class": "jobhive",
    "etag": "",
-   "fetched_at": "2026-11-10T03:07:37.395821+00:00",
+   "fetched_at": "2026-11-10T03:29:28.502040+00:00",
    "rejections": 0,
-   "rows": 43829,
+   "rows": 44184,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": -0.22,
+   "age_hours": -0.07,
    "fresh": true
   },
   "jobspy": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-10T03:07:36.626304+00:00",
-   "rejections": 1,
-   "rows": 420,
+   "fetched_at": "2026-11-10T03:29:27.637008+00:00",
+   "rejections": 0,
+   "rows": 283,
    "source": "jobspy",
-   "status": "rejected:shrunken",
+   "status": "ok:recovered",
    "ttl_hours": 72,
-   "age_hours": -0.22,
+   "age_hours": -0.07,
    "fresh": true
   },
   "light": {
    "class": "markdown",
    "etag": "",
-   "fetched_at": "2026-11-10T03:05:54.265573+00:00",
+   "fetched_at": "2026-11-10T03:25:41.007590+00:00",
    "rejections": 0,
-   "rows": 40961,
+   "rows": 40965,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": -0.2,
+   "age_hours": -0.01,
    "fresh": true
   },
   "medium": {
@@ -130,7 +128,7 @@
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.01,
+   "age_hours": 0.5,
    "fresh": true
   },
   "priority": {
@@ -142,7 +140,7 @@
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": -0.19,
+   "age_hours": 0.32,
    "fresh": true
   }
  }
