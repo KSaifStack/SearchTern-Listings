@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-09T09:27:23Z",
+ "built_at": "2026-11-10T02:48:44Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7958,6 +7958,11 @@
    "label": "capitaland",
    "titles": []
   },
+  "captechconsulting": {
+   "fetched_at": "2026-11-10T02:48:41Z",
+   "label": "captechconsulting",
+   "titles": []
+  },
   "cardinal health https cardinalhealth wd1 myworkdayjobs com ext job oh dublin cardinal place data analytics internship summer 2027 20185913": {
    "fetched_at": "2026-11-05T10:41:20Z",
    "label": "[Cardinal Health](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Data---Analytics-Internship--Summer-2027-_20185913)",
@@ -15693,6 +15698,11 @@
    "label": "Fa Eoic Saasfaprod1",
    "titles": []
   },
+  "fa eomf saasfaprod1": {
+   "fetched_at": "2026-11-10T02:48:42Z",
+   "label": "Fa Eomf Saasfaprod1",
+   "titles": []
+  },
   "fa errt saasfaprod1": {
    "fetched_at": "2026-11-07T23:41:43Z",
    "label": "Fa Errt Saasfaprod1",
@@ -15736,6 +15746,11 @@
   "fa ewfi saasfaprod1": {
    "fetched_at": "2026-11-07T23:41:45Z",
    "label": "Fa Ewfi Saasfaprod1",
+   "titles": []
+  },
+  "fa ewgu saasfaprod1": {
+   "fetched_at": "2026-11-10T02:48:42Z",
+   "label": "Fa Ewgu Saasfaprod1",
    "titles": []
   },
   "fa ewqq saasfaprod1": {
@@ -22101,6 +22116,11 @@
   "jabil": {
    "fetched_at": "2026-10-27T20:47:13Z",
    "label": "Jabil",
+   "titles": []
+  },
+  "jdi": {
+   "fetched_at": "2026-11-10T02:48:43Z",
+   "label": "JDI",
    "titles": []
   },
   "jefferson health": {
@@ -33947,6 +33967,112 @@
      "count": 1,
      "median_salary": 122000,
      "title": "SR. SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "safran aircraft engines": {
+   "fetched_at": "2026-11-10T02:48:44Z",
+   "label": "Safran Aircraft Engines",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 103800,
+     "title": "DYNAMIC FEA ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 128065,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 89556,
+     "title": "MANUFACTURING ENGINEER 1"
+    },
+    {
+     "count": 2,
+     "median_salary": 134909,
+     "title": "MODELING &AMP; SIMULATION ENGINEER 2"
+    },
+    {
+     "count": 2,
+     "median_salary": 121761,
+     "title": "SENIOR PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 220000,
+     "title": "VICE PRESIDENT, PROGRAM MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ASSISTANT PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 66000,
+     "title": "BUYER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105851,
+     "title": "DESIGN ENGINEER 4"
+    },
+    {
+     "count": 1,
+     "median_salary": 73757,
+     "title": "DEVELOPMENT ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 206104,
+     "title": "DIRECTOR AIRWORTHINESS AND COMPLIANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 122300,
+     "title": "DYNAMIC FEA ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 88156,
+     "title": "ELECTRICAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 103792,
+     "title": "HEAD OF PROGRAMS NORTH AMERICA"
+    },
+    {
+     "count": 1,
+     "median_salary": 114266,
+     "title": "MANAGER, CUSTOMER SUPPORT"
+    },
+    {
+     "count": 1,
+     "median_salary": 162099,
+     "title": "MANAGER, DATA ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 135773,
+     "title": "MANAGER, DATA OPS"
+    },
+    {
+     "count": 1,
+     "median_salary": 129002,
+     "title": "MANAGER, QUALITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 142355,
+     "title": "PROJECT ENGINEER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 84698,
+     "title": "PROJECT MANAGER"
     }
    ]
   },
