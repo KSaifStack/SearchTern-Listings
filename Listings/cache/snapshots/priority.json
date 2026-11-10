@@ -1,9 +1,9 @@
 {
  "class": "priority_ats",
  "etag": "",
- "fetched_at": "2026-11-10T03:05:47.262764+00:00",
+ "fetched_at": "2026-11-10T13:21:25.308775+00:00",
  "rejections": 0,
- "rows": 355,
+ "rows": 354,
  "source": "priority",
  "status": "ok",
  "ttl_hours": 24

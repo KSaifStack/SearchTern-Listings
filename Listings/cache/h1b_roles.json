@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-10T03:07:40Z",
+ "built_at": "2026-11-10T13:25:06Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5851,6 +5851,92 @@
      "count": 1,
      "median_salary": 210000,
      "title": "HARDWARE ENGINEER"
+    }
+   ]
+  },
+  "benchmark space systems": {
+   "fetched_at": "2026-11-10T13:25:06Z",
+   "label": "Benchmark Space Systems",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 55383,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 120000,
+     "title": "LEAD ENGINEER, SITE RELIABILITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 99540,
+     "title": "SPEECH LANGUAGE PATHOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 110235,
+     "title": "ASSOCIATE PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 74200,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "CHIEF EXECUTIVE OFFICER"
+    },
+    {
+     "count": 1,
+     "median_salary": 2000,
+     "title": "CONSTRUCTION ESTIMATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 168000,
+     "title": "DIRECTOR, SITE RELIABILITY ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 115965,
+     "title": "ELECTRICAL ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 175386,
+     "title": "GENERAL PARTNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 89419,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 82500,
+     "title": "PRINCIPAL TECHNICAL SERVICES &AMP; PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113231,
+     "title": "PROGRAMMER ANALYST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 118000,
+     "title": "SENIOR FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "VIRTUAL DESIGN &AMP; CONSTRUCTION ENGINEER"
     }
    ]
   },
