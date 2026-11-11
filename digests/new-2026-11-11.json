@@ -2,25 +2,33 @@
   {
     "company": "Albertsons Companies",
     "role": "Front End Entry Level",
-    "location": "Falls Church, VA, United States",
-    "link": "https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#791672",
+    "location": "Wylie, TX, United States",
+    "link": "https://eofd.fa.us6.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#792409",
     "source": "jobhive",
-    "observed_at": "2026-11-11T07:02:49.171815+00:00"
+    "observed_at": "2026-11-11T16:34:27.398706+00:00"
   },
   {
     "company": "Amazon",
-    "role": "Software Development Engineer Intern - Summer 2027",
-    "location": "Arlington, Virginia, USA",
-    "link": "https://account.amazon.jobs/jobs/10597379/apply",
+    "role": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
+    "location": "Denver, Colorado, USA",
+    "link": "https://account.amazon.jobs/jobs/10601956/apply",
     "source": "jobhive",
-    "observed_at": "2026-11-11T07:02:49.171815+00:00"
+    "observed_at": "2026-11-11T16:34:27.398706+00:00"
   },
   {
-    "company": "Ericsson",
-    "role": "Telecom Data Scientist | Early Career Program",
-    "location": "Stockholm, Sweden",
-    "link": "https://career2.successfactors.eu/sfcareer/jobreqcareer?jobId=791456&company=Ericsson",
+    "company": "Edbz",
+    "role": "Product Marketing Eng Intern m/f/d",
+    "location": "Freising, Bayern, Germany",
+    "link": "https://edbz.fa.us2.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX#25012926",
     "source": "jobhive",
-    "observed_at": "2026-11-11T07:02:49.171815+00:00"
+    "observed_at": "2026-11-11T16:34:27.398706+00:00"
+  },
+  {
+    "company": "Ford Global Career Site",
+    "role": "Embedded Application Developer - Early Career Program, Advanced EV",
+    "location": "Palo Alto, CA, United States",
+    "link": "https://efds.fa.em5.oraclecloud.com/?keyword=&mode=jobs&lang=en&site_number=CX_1#73930",
+    "source": "jobhive",
+    "observed_at": "2026-11-11T16:34:27.398706+00:00"
   }
 ]

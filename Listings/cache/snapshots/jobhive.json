@@ -1,9 +1,9 @@
 {
  "class": "jobhive",
  "etag": "",
- "fetched_at": "2026-11-11T16:01:48.255941+00:00",
+ "fetched_at": "2026-11-11T17:05:39.154576+00:00",
  "rejections": 0,
- "rows": 43353,
+ "rows": 43184,
  "source": "jobhive",
  "status": "ok",
  "ttl_hours": 24
