@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-11T10:15:31Z",
+ "built_at": "2026-11-11T16:01:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -166,6 +166,11 @@
   "acuren": {
    "fetched_at": "2026-11-08T15:55:42Z",
    "label": "acuren",
+   "titles": []
+  },
+  "addepar1": {
+   "fetched_at": "2026-11-11T16:01:49Z",
+   "label": "addepar1",
    "titles": []
   },
   "adobe": {
@@ -8353,6 +8358,17 @@
     }
    ]
   },
+  "careers mastercard com": {
+   "fetched_at": "2026-11-11T16:01:50Z",
+   "label": "careers.mastercard.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "careers michaels com": {
    "fetched_at": "2026-11-10T20:23:58Z",
    "label": "careers.michaels.com",
@@ -8378,6 +8394,17 @@
   "careers roche com": {
    "fetched_at": "2026-10-25T02:20:25Z",
    "label": "careers.roche.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers statestreet com": {
+   "fetched_at": "2026-11-11T16:01:50Z",
+   "label": "careers.statestreet.com",
    "titles": [
     {
      "count": 1,
@@ -11944,6 +11971,11 @@
   "crystaldynamics": {
    "fetched_at": "2026-11-07T23:32:38Z",
    "label": "crystaldynamics",
+   "titles": []
+  },
+  "cssmerge": {
+   "fetched_at": "2026-11-11T16:01:51Z",
+   "label": "cssmerge",
    "titles": []
   },
   "cva": {
@@ -19022,6 +19054,11 @@
   "harvarduniversity": {
    "fetched_at": "2026-11-04T19:08:01Z",
    "label": "HarvardUniversity",
+   "titles": []
+  },
+  "hayselectricalservices": {
+   "fetched_at": "2026-11-11T16:01:52Z",
+   "label": "hayselectricalservices",
    "titles": []
   },
   "hcrb": {
@@ -31344,6 +31381,22 @@
    "label": "Q2",
    "titles": []
   },
+  "qima": {
+   "fetched_at": "2026-11-11T16:01:52Z",
+   "label": "qima",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 33779,
+     "title": "AGRICULTURAL INSPECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 63000,
+     "title": "GENERAL MANAGER"
+    }
+   ]
+  },
   "qorvo": {
    "fetched_at": "2026-10-25T18:39:24Z",
    "label": "Qorvo",
@@ -41965,6 +42018,11 @@
    "label": "uscampus-pepsico",
    "titles": []
   },
+  "uscareeropenings alliancelaundry": {
+   "fetched_at": "2026-11-11T16:01:53Z",
+   "label": "uscareeropenings-alliancelaundry",
+   "titles": []
+  },
   "uwmcareers": {
    "fetched_at": "2026-11-09T09:27:23Z",
    "label": "uwmcareers",
@@ -42577,6 +42635,11 @@
      "title": "SUPERVISOR, MECHANICAL ENGINEERING"
     }
    ]
+  },
+  "vestiairecollective": {
+   "fetched_at": "2026-11-11T16:01:54Z",
+   "label": "vestiairecollective",
+   "titles": []
   },
   "vinci construction": {
    "fetched_at": "2026-10-25T22:41:36Z",
