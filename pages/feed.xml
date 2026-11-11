@@ -5,7 +5,7 @@
     <link>https://searchtern.net</link>
     <description>Fresh software engineering internships and entry-level roles, posting by posting.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:31:39 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Product Owner Junior - en stage (F/H) at Recrute1 Carrefour</title>
@@ -92,18 +92,18 @@
       <description>Burton Upon Trent, GB-STS, United Kingdom | Software Engineering | internship</description>
     </item>
     <item>
-      <title>Data Insights Apprentice at Molsoncoors</title>
-      <link>https://careers.molsoncoors.com/job/40190</link>
-      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40190</guid>
-      <pubDate>Tue, 10 Nov 2026 00:42:38 +0000</pubDate>
-      <description>Burton on Trent, GB-STS, United Kingdom | Data/ML/AI | internship</description>
-    </item>
-    <item>
       <title>Brewing Apprentice at Molsoncoors</title>
       <link>https://careers.molsoncoors.com/job/40189</link>
       <guid isPermaLink="true">https://careers.molsoncoors.com/job/40189</guid>
       <pubDate>Tue, 10 Nov 2026 00:42:38 +0000</pubDate>
       <description>Burton Upon Trent, GB-STS, United Kingdom | Other | internship</description>
+    </item>
+    <item>
+      <title>Data Insights Apprentice at Molsoncoors</title>
+      <link>https://careers.molsoncoors.com/job/40190</link>
+      <guid isPermaLink="true">https://careers.molsoncoors.com/job/40190</guid>
+      <pubDate>Tue, 10 Nov 2026 00:42:38 +0000</pubDate>
+      <description>Burton on Trent, GB-STS, United Kingdom | Data/ML/AI | internship</description>
     </item>
     <item>
       <title>Sales Degree Apprentice at Molsoncoors</title>
@@ -148,20 +148,6 @@
       <description>Sunnyvale, CA, States | Hardware/Embedded | internship</description>
     </item>
     <item>
-      <title>QA Co-op, Organic Meadow at Ibanqy</title>
-      <link>https://ibanqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/280</link>
-      <guid isPermaLink="true">https://ibanqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/280</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Guelph, ON, Canada | Software Engineering | internship</description>
-    </item>
-    <item>
-      <title>Spring 2027 - AI &amp; Data Analytics Intern at HCTZ</title>
-      <link>https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</link>
-      <guid isPermaLink="true">https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Scottsdale, AZ, United States | Data/ML/AI | internship</description>
-    </item>
-    <item>
       <title>Manager Trainee at Fa Evlf Saasfaprod</title>
       <link>https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42296</link>
       <guid isPermaLink="true">https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/42296</guid>
@@ -169,11 +155,25 @@
       <description>Plano, TX, United States | Customer/Retail | internship</description>
     </item>
     <item>
+      <title>QA Co-op, Organic Meadow at Ibanqy</title>
+      <link>https://ibanqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/280</link>
+      <guid isPermaLink="true">https://ibanqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4/job/280</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Guelph, ON, Canada | Software Engineering | internship</description>
+    </item>
+    <item>
       <title>Senior Education Support Intern - Birmingham Business School -  106425 -  Grade 5 at Uob Employee</title>
       <link>https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/job/10293</link>
       <guid isPermaLink="true">https://edzz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6001/job/10293</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>United Kingdom | Education | internship</description>
+    </item>
+    <item>
+      <title>Spring 2027 - AI &amp; Data Analytics Intern at HCTZ</title>
+      <link>https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</link>
+      <guid isPermaLink="true">https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507010</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Scottsdale, AZ, United States | Data/ML/AI | internship</description>
     </item>
     <item>
       <title>General Technician Apprentice Below Ground at EMJE</title>
@@ -582,18 +582,18 @@
       <description>South Africa | Operations/Supply | new_grad</description>
     </item>
     <item>
-      <title>Accounting Internship Winter 2027 at BAE Systems</title>
-      <link>https://jobs.baesystems.com/job/132387BR</link>
-      <guid isPermaLink="true">https://jobs.baesystems.com/job/132387BR</guid>
-      <pubDate>Mon, 09 Nov 2026 20:03:39 +0000</pubDate>
-      <description>Kingsport, Tennessee, United States | Accounting | internship</description>
-    </item>
-    <item>
       <title>Missile Test Engineer - Entry Level at BAE Systems</title>
       <link>https://jobs.baesystems.com/job/132296BR</link>
       <guid isPermaLink="true">https://jobs.baesystems.com/job/132296BR</guid>
       <pubDate>Mon, 09 Nov 2026 20:03:39 +0000</pubDate>
       <description>Rockville, Maryland, United States | Software Engineering | new_grad</description>
+    </item>
+    <item>
+      <title>Accounting Internship Winter 2027 at BAE Systems</title>
+      <link>https://jobs.baesystems.com/job/132387BR</link>
+      <guid isPermaLink="true">https://jobs.baesystems.com/job/132387BR</guid>
+      <pubDate>Mon, 09 Nov 2026 20:03:39 +0000</pubDate>
+      <description>Kingsport, Tennessee, United States | Accounting | internship</description>
     </item>
     <item>
       <title>Sales Trainee at Redbull</title>
@@ -1233,13 +1233,6 @@
       <description>London, England, Kingdom | Other | new_grad</description>
     </item>
     <item>
-      <title>Intern, Financial Planning and Analysis at Singlife</title>
-      <link>https://singlife.darwinbox.com/ms/candidate/careers/a6af2775cc2439</link>
-      <guid isPermaLink="true">https://singlife.darwinbox.com/ms/candidate/careers/a6af2775cc2439</guid>
-      <pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
-      <description>Singapore, Singapore, Singapore | Finance/Quant | internship</description>
-    </item>
-    <item>
       <title>Intern, Savings at Singlife</title>
       <link>https://singlife.darwinbox.com/ms/candidate/careers/a6af28ea622a5e</link>
       <guid isPermaLink="true">https://singlife.darwinbox.com/ms/candidate/careers/a6af28ea622a5e</guid>
@@ -1247,11 +1240,11 @@
       <description>Singapore, Singapore, Singapore | Other | internship</description>
     </item>
     <item>
-      <title>PepsiCo Canada : Stage en Ventes Hors Foyer Hiver 2027 at Frenchcancareers Pepsico</title>
-      <link>https://frenchcancareers-pepsico.icims.com/jobs/472479/pepsico-canada%e2%80%af%3a-stage-en-ventes-hors-foyer-hiver-2027/job?in_iframe=1</link>
-      <guid isPermaLink="true">https://frenchcancareers-pepsico.icims.com/jobs/472479/pepsico-canada%e2%80%af%3a-stage-en-ventes-hors-foyer-hiver-2027/job?in_iframe=1</guid>
-      <pubDate>Mon, 09 Nov 2026 15:59:00 +0000</pubDate>
-      <description>Saint-Laurent, QC, CA | Other | internship</description>
+      <title>Intern, Financial Planning and Analysis at Singlife</title>
+      <link>https://singlife.darwinbox.com/ms/candidate/careers/a6af2775cc2439</link>
+      <guid isPermaLink="true">https://singlife.darwinbox.com/ms/candidate/careers/a6af2775cc2439</guid>
+      <pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+      <description>Singapore, Singapore, Singapore | Finance/Quant | internship</description>
     </item>
     <item>
       <title>PepsiCo Canada : Stage en Ventes Hors Foyer Hiver 2027 at Frenchcancareers Pepsico</title>
@@ -1259,6 +1252,13 @@
       <guid isPermaLink="true">https://frenchcancareers-pepsico.icims.com/jobs/472480/pepsico-canada%e2%80%af%3a-stage-en-ventes-hors-foyer-hiver-2027/job?in_iframe=1</guid>
       <pubDate>Mon, 09 Nov 2026 15:59:00 +0000</pubDate>
       <description>Laval, QC, CA | Other | internship</description>
+    </item>
+    <item>
+      <title>PepsiCo Canada : Stage en Ventes Hors Foyer Hiver 2027 at Frenchcancareers Pepsico</title>
+      <link>https://frenchcancareers-pepsico.icims.com/jobs/472479/pepsico-canada%e2%80%af%3a-stage-en-ventes-hors-foyer-hiver-2027/job?in_iframe=1</link>
+      <guid isPermaLink="true">https://frenchcancareers-pepsico.icims.com/jobs/472479/pepsico-canada%e2%80%af%3a-stage-en-ventes-hors-foyer-hiver-2027/job?in_iframe=1</guid>
+      <pubDate>Mon, 09 Nov 2026 15:59:00 +0000</pubDate>
+      <description>Saint-Laurent, QC, CA | Other | internship</description>
     </item>
     <item>
       <title>San Francisco - Strategic Finance Intern - 2027 at UBER</title>
