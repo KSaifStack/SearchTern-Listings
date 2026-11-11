@@ -4,22 +4,24 @@ import os
 from datetime import UTC, datetime
 
 import atomic_fs
+import company_names
 import feed_manifest
 from readme_utils import (
     APPLY_BUTTON,
     BASE_URL,
     COUNTRY_NAMES,
     MAX_COMPANY_LEN,
-    MAX_ROLE_LEN,
     NORMALIZED_BLOCKED_COMPANIES,
     build_table,
     clean_company_name,
     clean_link,
+    clean_role,
     days_display,
     format_company,
     format_location,
     is_english,
     normalize_company,
+    role_cell,
     truncate,
     visa_cell,
 )
@@ -90,8 +92,10 @@ def render_country_pages(dataframe, output_dir=".", generation=None):
             if normalize_company(cleaned_company) in NORMALIZED_BLOCKED_COMPANIES:
                 continue
 
-            company = truncate(cleaned_company, MAX_COMPANY_LEN)
-            role = truncate(str(row["role"]).strip(), MAX_ROLE_LEN)
+            employer = company_names.normalize(cleaned_company)
+            company = truncate(employer.display, MAX_COMPANY_LEN)
+            full_company = employer.display if company != employer.display else ""
+            role = clean_role(str(row["role"]).strip())
             location = str(row["location"]).strip()
             date = str(row["date"]).strip()
             link = clean_link(str(row["link"]).strip())
@@ -102,14 +106,15 @@ def render_country_pages(dataframe, output_dir=".", generation=None):
                 continue
 
             age = days_display(date)
-            company_cell = format_company(company, prev_company, age, prev_age, link)
+            company_cell = format_company(company, prev_company, age, prev_age, link,
+                                          title=full_company)
             prev_company = company
             prev_age = age
 
             rows_html.append(
                 "<tr>\n"
                 f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
-                f'<td style="word-break:break-word; overflow-wrap:anywhere;">{__import__("html").escape(role)}</td>\n'
+                f'{role_cell(role)}\n'
                 f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
                 f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{__import__("html").escape(link, quote=True)}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
                 f'<td style="white-space:nowrap;">{age}</td>\n'

@@ -571,8 +571,13 @@ def visa_cell(row) -> str:
     return ""
 
 
-def format_company(company: str, prev_company: str, age: str, prev_age: str, link: str | None = None) -> str:
-    """Return company HTML. Wraps in anchor when a job URL is provided."""
+def format_company(company: str, prev_company: str, age: str, prev_age: str,
+                   link: str | None = None, title: str = "") -> str:
+    """Return company HTML. Wraps in anchor when a job URL is provided.
+
+    ``title`` carries the untruncated display name, so a name clipped to the
+    table column is still readable on hover.
+    """
     escaped = html.escape(company)
     if company.lower() in FAANG_PLUS:
         base = f"🔥 <strong>{escaped}</strong>"
@@ -580,11 +585,81 @@ def format_company(company: str, prev_company: str, age: str, prev_age: str, lin
         base = f"<strong>{escaped}</strong>"
 
     cell = f"↳ {base}" if company == prev_company and age == prev_age else base
+    attrs = f' title="{html.escape(title, quote=True)}"' if title else ""
 
     if link:
         safe_link = html.escape(link, quote=True)
-        return f'<a href="{safe_link}">{cell}</a>'
+        return f'<a href="{safe_link}"{attrs}>{cell}</a>'
     return cell
+
+
+_ROLE_ACRONYMS = frozenset({
+    "ai", "api", "aws", "b2b", "b2c", "cad", "cna", "cnc", "cpa",
+    "cs", "dei", "dsp", "eeo", "ehs", "emt", "eu", "fpga", "gcp",
+    "gis", "hr", "hvac", "it", "lp", "lpn", "mba", "ml", "osha",
+    "phd", "pr", "qa", "rf", "rn", "saas", "sql", "stem", "ui",
+    "uk", "us", "usa", "ux",
+})
+_ROLE_ROMAN = frozenset({"i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x"})
+_ROLE_SMALL = frozenset({"a", "an", "and", "at", "by", "for", "in", "of", "on", "or", "the", "to", "with"})
+
+
+def _title_role_word(word: str, first: bool = False, last: bool = False) -> str:
+    if not any(character.isalpha() for character in word):
+        return word
+    low = word.lower()
+    if low in _ROLE_ACRONYMS or low in _ROLE_ROMAN:
+        return word.upper()
+    if low == "co-op":
+        return "Co-op"
+    if low in _ROLE_SMALL and not first and not last:
+        return low
+    parts = re.split(r"([-/])", word)
+    return "".join(
+        part if part in "-/" else part[:1].upper() + part[1:].lower()
+        for part in parts
+    )
+
+
+def clean_role(role) -> str:
+    """Repair a job title's presentation without changing its meaning.
+
+    Collapses whitespace, drops markup, entities and dangling separators, and
+    recases a title only when the whole title is shouting (all caps). Mixed-case
+    titles such as "iOS Developer" are left exactly as published, and no token
+    is added, removed or reordered, so internship, co-op, level and location
+    distinctions survive.
+    """
+    text = html.unescape(str(role or ""))
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = text.replace("\u00a0", " ").replace("\u200b", "").replace("\ufeff", "")
+    text = re.sub(r"\s*([|•·])\s*", r" \1 ", text)
+    text = re.sub(r"\s+", " ", text).strip()
+    text = text.strip(" -–—|•*·:;,/")
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return ""
+    words = text.split(" ")
+    # Only a wholly shouting title is repaired. A majority-caps rule rewrote
+    # legitimate titles such as "URO R&D Co-op (MAY- DEC) 2027" into
+    # "Uro R&d Co-op (may- Dec)" — month and acronym damage is worse than
+    # leaving the published casing alone.
+    shouting = any(character.isalpha() for character in text) and text == text.upper()
+    if shouting:
+        text = " ".join(
+            _title_role_word(word, first=index == 0, last=index == len(words) - 1)
+            for index, word in enumerate(words)
+        )
+    return text
+
+
+def role_cell(role: str) -> str:
+    """Table cell for a title: wraps, and exposes the full text when clipped."""
+    full = str(role or "").strip()
+    shown = truncate(full, MAX_ROLE_LEN)
+    attrs = f' title="{html.escape(full, quote=True)}"' if shown != full else ""
+    return (f'<td{attrs} style="word-break:break-word; overflow-wrap:anywhere;">'
+            f"{html.escape(shown)}</td>")
 
 
 def build_table(rows: list[str]) -> str:

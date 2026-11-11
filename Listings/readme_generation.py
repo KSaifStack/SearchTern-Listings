@@ -10,8 +10,10 @@ from datetime import UTC, datetime
 from email.utils import format_datetime
 
 import atomic_fs
+import company_names
 import coverage as coverage_report
 import feed_manifest
+import identity
 import readme_rendering
 import taxonomy
 from readme_rendering import build_header, generate_country_pages
@@ -20,7 +22,6 @@ from readme_utils import (
     GITHUB_FILE_SIZE_LIMIT,
     INACTIVE_THRESHOLD_DAYS,
     MAX_COMPANY_LEN,
-    MAX_ROLE_LEN,
     NORMALIZED_BLOCKED_COMPANIES,
     SIZE_BUFFER,
     build_table,
@@ -28,11 +29,13 @@ from readme_utils import (
     clean_company_name,
     clean_link,
     clean_location,
+    clean_role,
     days_display,
     format_company,
     format_location,
     is_english,
     normalize_company,
+    role_cell,
     truncate,
     visa_cell,
 )
@@ -68,15 +71,18 @@ def _build_json_records(dataframe, reasons=None, max_age_days=INACTIVE_THRESHOLD
     window for compatibility with existing consumers.
     """
     clean_records = []
-    seen = set()
+    seen_urls = set()
+    seen_ids = set()
+    identities = list(zip(*identity.pairs(dataframe), strict=False)) if len(dataframe) else []
 
     def drop(cause):
         if reasons is not None:
             reasons[cause] = reasons.get(cause, 0) + 1
 
-    for _, row in dataframe.iterrows():
+    for position, (_, row) in enumerate(dataframe.iterrows()):
         company = str(row["company"]).strip()
-        role = str(row["role"]).strip()
+        source_role = str(row["role"]).strip()
+        role = clean_role(source_role)
         date = str(row["date"]).strip()
         link = clean_link(row.get("link"))
 
@@ -115,8 +121,15 @@ def _build_json_records(dataframe, reasons=None, max_age_days=INACTIVE_THRESHOLD
         for k, v in record.items():
             if isinstance(v, float) and not math.isfinite(v):
                 record[k] = None
-        record["company"] = cleaned_company
+        employer = company_names.normalize(cleaned_company)
+        record["company"] = employer.display
+        record["company_key"] = employer.key
+        record["company_domain"] = employer.domain or None
+        if employer.display != cleaned_company:
+            record["company_raw"] = company
         record["role"] = role
+        if role != source_role:
+            record["role_raw"] = source_role
         # Industry is classified after eligibility, never instead of it. The
         # old code used one technology title filter for both decisions, so a
         # nursing or finance internship could only enter by looking technical.
@@ -136,14 +149,27 @@ def _build_json_records(dataframe, reasons=None, max_age_days=INACTIVE_THRESHOLD
         )
         record = {k: _json_safe(v) for k, v in record.items()}
 
-        # A link whose canonical form is empty is not a duplicate of every other
-        # such link. 7,920 markdown rows collapse onto one row otherwise (2026-11-07).
-        key = canonical_url(link)
-        if key:
-            if key in seen:
-                drop("duplicate_url")
-                continue
-            seen.add(key)
+        # Identity first, address second: the same requisition reaches us through
+        # a tracker and the employer's ATS, and one address can serve several
+        # locations of one requisition. A link whose canonical form is empty is
+        # not a duplicate of every other such link (7,920 markdown rows collapsed
+        # onto one row otherwise, 2026-11-07).
+        ats_type, ats_id = identities[position] if position < len(identities) else ("", "")
+        ats_type = str(ats_type or "").strip().lower()
+        ats_id = str(ats_id or "").strip().lower()
+        # Either signal wins: one requisition reached through two sources shares
+        # an id even when the tracker URL differs, and a mirrored row keeps the
+        # same apply URL even when the sources publish conflicting ids (the
+        # shadow fixture asserts that second case).
+        id_key = f"id|{ats_type}|{ats_id}" if ats_type and ats_id else ""
+        url_key = canonical_url(link)
+        if (id_key and id_key in seen_ids) or (url_key and url_key in seen_urls):
+            drop("duplicate_id" if id_key and id_key in seen_ids else "duplicate_url")
+            continue
+        if id_key:
+            seen_ids.add(id_key)
+        if url_key:
+            seen_urls.add(url_key)
         clean_records.append(record)
 
     return clean_records
@@ -371,7 +397,7 @@ def render_readme_pages(dataframe, output_dir=".", generation=None):
 
     for _, row in dataframe.iterrows():
         company = str(row["company"]).strip()
-        role = str(row["role"]).strip()
+        role = clean_role(str(row["role"]).strip())
         location = str(row["location"]).strip()
         date = str(row["date"]).strip()
         link = clean_link(row.get("link"))
@@ -403,17 +429,19 @@ def render_readme_pages(dataframe, output_dir=".", generation=None):
         except Exception:
             pass
 
-        company = truncate(cleaned_company, MAX_COMPANY_LEN)
-        role = truncate(role, MAX_ROLE_LEN)
+        employer = company_names.normalize(cleaned_company)
+        company = truncate(employer.display, MAX_COMPANY_LEN)
+        full_company = employer.display if company != employer.display else ""
         age = days_display(date)
-        company_cell = format_company(company, prev_company, age, prev_age, link)
+        company_cell = format_company(company, prev_company, age, prev_age, link,
+                                      title=full_company)
         prev_company = company
         prev_age = age
 
         all_rows.append(
             "<tr>\n"
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{company_cell}</td>\n'
-            f'<td style="word-break:break-word; overflow-wrap:anywhere;">{html.escape(role)}</td>\n'
+            f'{role_cell(role)}\n'
             f'<td style="word-break:break-word; overflow-wrap:anywhere;">{format_location(location)}</td>\n'
             f'<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="{html.escape(link, quote=True)}" style="display:inline-block; max-width:100%;"><img src="{APPLY_BUTTON}" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>\n'
             f'<td style="white-space:nowrap;">{age}</td>\n'

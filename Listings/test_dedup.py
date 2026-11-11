@@ -13,6 +13,47 @@ def frame(rows):
     )
 
 
+def test_employer_spellings_are_one_identity():
+    postings = pd.DataFrame([
+        {"company": "Andurilindustries", "role": "Software Engineer Intern",
+         "location": "Seattle, WA"},
+        {"company": "Anduril Industries", "role": "Software Engineer Intern",
+         "location": "Seattle, WA"},
+    ])
+    assert len(dedupe(postings)) == 1
+
+
+def test_distinct_employers_and_locations_survive():
+    postings = pd.DataFrame([
+        {"company": "General Dynamics", "role": "Engineering Intern",
+         "location": "Falls Church, VA"},
+        {"company": "General Dynamics Mission Systems", "role": "Engineering Intern",
+         "location": "Falls Church, VA"},
+        {"company": "Acme", "role": "Engineering Intern", "location": "Phoenix, AZ"},
+        {"company": "Acme", "role": "Engineering Intern", "location": "Tempe, AZ"},
+    ])
+    assert len(dedupe(postings)) == 4
+
+
+def test_requisition_id_outranks_a_shared_tracker_link():
+    same_link = pd.DataFrame([
+        {"company": "Acme", "role": "Intern", "location": "Remote",
+         "ats_type": "gh", "ats_id": "1", "link": "https://tracker.test/abc"},
+        {"company": "Acme", "role": "Intern", "location": "Remote",
+         "ats_type": "gh", "ats_id": "2", "link": "https://tracker.test/abc"},
+    ])
+    # One tracker address fronts two requisitions: both are real jobs.
+    assert len(dedupe(same_link)) == 2
+
+    same_job = pd.DataFrame([
+        {"company": "Acme", "role": "Intern", "location": "Remote",
+         "ats_type": "gh", "ats_id": "1", "link": "https://acme.test/1"},
+        {"company": "Acme", "role": "Intern", "location": "Remote",
+         "ats_type": "gh", "ats_id": "1", "link": "https://tracker.test/abc"},
+    ])
+    assert len(dedupe(same_job)) == 1
+
+
 def run_checks():
     df = frame(
         [

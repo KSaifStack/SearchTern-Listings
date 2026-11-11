@@ -1,3 +1,4 @@
+import company_names
 import identity
 from readme_utils import canonical_url
 
@@ -11,15 +12,19 @@ ID_COLUMNS = ("ats_type", "ats_id")
 
 
 def dedup_keys(df):
-    parts = [
+    # Employer spellings are an identity, not a string: "Andurilindustries" and
+    # "Anduril Industries", or "Morganmorganjobsapplynow" and "Morgan & Morgan",
+    # are the same employer reaching us through different sources. Keying on the
+    # raw text let both copies into the feed (2026-11-11 audit).
+    parts = [df["company"].map(company_names.key)] + [
         df[col]
         .astype(str)
         .str.replace(r"\s+", " ", regex=True)
         .str.strip()
         .str.casefold()
-        for col in DEDUP_SUBSET
+        for col in DEDUP_SUBSET[1:]
     ]
-    fallback = "details|" + parts[0].str.cat(parts[1:], sep="|")
+    fallback = "details|" + parts[0].astype(str).str.cat(parts[1:], sep="|")
     if "link" not in df.columns:
         return fallback
     links = df["link"].map(canonical_url)
