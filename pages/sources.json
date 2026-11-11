@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T16:34:27.398706+00:00",
+  "generated_at": "2026-11-11T17:56:15.539367+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,42 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 8971
+      "count": 9006
+    },
+    {
+      "name": "Early Career Radar",
+      "url": "https://earlycareerradar.com/summer-internships",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 3870
+    },
+    {
+      "name": "freehire.me",
+      "url": "https://freehire.me",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 3588
+    },
+    {
+      "name": "ATS career-page probe",
+      "url": "",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 517
+    },
+    {
+      "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
+      "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 517
+    },
+    {
+      "name": "Breadth feeds",
+      "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 9
     },
     {
       "name": "SimplifyJobs New Grad",
@@ -290,27 +325,6 @@
       "count": 0
     },
     {
-      "name": "freehire.me",
-      "url": "https://freehire.me",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 0
-    },
-    {
-      "name": "Breadth feeds",
-      "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 0
-    },
-    {
-      "name": "Early Career Radar",
-      "url": "https://earlycareerradar.com/summer-internships",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 0
-    },
-    {
       "name": "EchoJobs",
       "url": "https://echojobs.io",
       "type": "internship/tech",
@@ -321,20 +335,6 @@
       "name": "Jobspy (Indeed)",
       "url": "https://github.com/zanellia/jobspy",
       "type": "internship",
-      "season": "",
-      "count": 0
-    },
-    {
-      "name": "ATS career-page probe",
-      "url": "",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 0
-    },
-    {
-      "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
-      "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
-      "type": "internship/newgrad",
       "season": "",
       "count": 0
     },

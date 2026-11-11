@@ -1,14 +1,18 @@
 {
-  "generated_at": "2026-11-11T16:34:27.398706+00:00",
-  "total": 8971,
+  "generated_at": "2026-11-11T17:56:15.539367+00:00",
+  "total": 16990,
   "per_source": {
-    "jobhive": 8971
+    "jobhive": 9006,
+    "ecr": 3870,
+    "freehire": 3588,
+    "ats": 517,
+    "breadth": 9
   },
-  "new": 4,
-  "closed": 133,
-  "dead_links": 0,
-  "stale_checked": 0,
-  "stale_dead": 0,
+  "new": 3141,
+  "closed": 3000,
+  "dead_links": 1,
+  "stale_checked": 63,
+  "stale_dead": 1,
   "linkless_rows": 0,
   "linkless_by_source": {},
   "sources_this_run": {
@@ -18,169 +22,16 @@
     "rss": false,
     "ecr": true,
     "ats": true,
-    "priority": true,
-    "md": true
+    "priority": false,
+    "md": false
   },
-  "markdown_source_stats": [
-    {
-      "name": "speedyapply SWE 2027",
-      "rows": 820
-    },
-    {
-      "name": "zapplyjobs Canada 2027",
-      "rows": 122
-    },
-    {
-      "name": "speedyapply AI New Grad USA",
-      "rows": 515
-    },
-    {
-      "name": "zapplyjobs New Grad 2027",
-      "rows": 585
-    },
-    {
-      "name": "speedyapply SWE New Grad USA",
-      "rows": 843
-    },
-    {
-      "name": "sndsh404 Summer 2027",
-      "rows": 124
-    },
-    {
-      "name": "zapplyjobs Internships 2027",
-      "rows": 600
-    },
-    {
-      "name": "speedyapply AI 2027",
-      "rows": 803
-    },
-    {
-      "name": "zapplyjobs New Grad Data Science 2027",
-      "rows": 356
-    },
-    {
-      "name": "vanshb03 Summer 2027",
-      "rows": 2723
-    },
-    {
-      "name": "LorenzoLaCorte EU Internships 2026",
-      "rows": 168
-    },
-    {
-      "name": "zapplyjobs New Grad SWE 2027",
-      "rows": 478
-    },
-    {
-      "name": "vanshb03 Off-Season",
-      "rows": 859
-    },
-    {
-      "name": "SuryaHarikrishnan Product",
-      "rows": 274
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "rows": 2579
-    },
-    {
-      "name": "SuryaHarikrishnan Quant",
-      "rows": 217
-    },
-    {
-      "name": "SuryaHarikrishnan Hardware",
-      "rows": 924
-    },
-    {
-      "name": "SuryaHarikrishnan SWE Track",
-      "rows": 1458
-    },
-    {
-      "name": "summer2026internships",
-      "rows": 100
-    },
-    {
-      "name": "SuryaHarikrishnan DS/AI",
-      "rows": 1754
-    },
-    {
-      "name": "speedyapply AI Intern Intl",
-      "rows": 577
-    },
-    {
-      "name": "vanshb03 Summer 2026",
-      "rows": 2723
-    },
-    {
-      "name": "negarprh Canada 2027",
-      "rows": 737
-    },
-    {
-      "name": "speedyapply SWE 2027 Intern Intl",
-      "rows": 550
-    },
-    {
-      "name": "speedyapply AI New Grad Intl",
-      "rows": 493
-    },
-    {
-      "name": "speedyapply SWE New Grad Intl",
-      "rows": 793
-    },
-    {
-      "name": "SuryaHarikrishnan Other 2027",
-      "rows": 1799
-    },
-    {
-      "name": "aprameyak Off-Cycle/Co-op",
-      "rows": 1138
-    },
-    {
-      "name": "ApplyGuy New Grad",
-      "rows": 292
-    },
-    {
-      "name": "aprameyak New Grad 2027",
-      "rows": 1458
-    },
-    {
-      "name": "zshah101 Automated List",
-      "rows": 564
-    },
-    {
-      "name": "SimplifyJobs Summer 2027",
-      "rows": 1576
-    },
-    {
-      "name": "zshah101 Summer 2027 US",
-      "rows": 1257
-    },
-    {
-      "name": "vanshb03 New Grad 2027",
-      "rows": 2003
-    },
-    {
-      "name": "aprameyak Summer 2027",
-      "rows": 4154
-    },
-    {
-      "name": "cvrve New Grad",
-      "rows": 2003
-    },
-    {
-      "name": "SimplifyJobs Off-Season 2027",
-      "rows": 5201
-    },
-    {
-      "name": "GodlyDonuts keryx New Grad",
-      "rows": 1138
-    },
-    {
-      "name": "GodlyDonuts keryx Internships",
-      "rows": 5014
-    },
-    {
-      "name": "lilguy Live Feed",
-      "rows": 8398
-    }
-  ]
+  "markdown_source_stats": [],
+  "published": {
+    "listings": 10055,
+    "searchtern": 26765
+  },
+  "published_manifest": "pages/feed-manifest.json",
+  "total_stage": "pre_write_candidate_rows",
+  "generation": "20261111T175938Z-bd2da85866e7",
+  "publication_status": "published"
 }

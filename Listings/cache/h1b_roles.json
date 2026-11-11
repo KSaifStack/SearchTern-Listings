@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-11T16:01:54Z",
+ "built_at": "2026-11-11T17:58:45Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -276,6 +276,112 @@
      "count": 7,
      "median_salary": 189000,
      "title": "PRODUCT SECURITY ENGINEER"
+    }
+   ]
+  },
+  "advanced micro devices": {
+   "fetched_at": "2026-11-11T17:58:33Z",
+   "label": "Advanced Micro Devices, Inc",
+   "titles": [
+    {
+     "count": 96,
+     "median_salary": 140000,
+     "title": "SR. SILICON DESIGN ENGINEER"
+    },
+    {
+     "count": 89,
+     "median_salary": 151895,
+     "title": "MTS SILICON DESIGN ENGINEER"
+    },
+    {
+     "count": 87,
+     "median_salary": 171787,
+     "title": "SMTS SILICON DESIGN ENGINEER"
+    },
+    {
+     "count": 42,
+     "median_salary": 179976,
+     "title": "MTS SOFTWARE DEVELOPMENT ENG."
+    },
+    {
+     "count": 42,
+     "median_salary": 125000,
+     "title": "SILICON DESIGN ENGINEER"
+    },
+    {
+     "count": 31,
+     "median_salary": 176134,
+     "title": "PMTS SILICON DESIGN ENGINEER"
+    },
+    {
+     "count": 29,
+     "median_salary": 142000,
+     "title": "SR. SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 26,
+     "median_salary": 165000,
+     "title": "MTS SYSTEMS DESIGN ENG."
+    },
+    {
+     "count": 26,
+     "median_salary": 108973,
+     "title": "PRODUCT DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 25,
+     "median_salary": 225000,
+     "title": "SMTS SOFTWARE DEVELOPMENT ENG."
+    },
+    {
+     "count": 17,
+     "median_salary": 132267,
+     "title": "MTS PRODUCT DEVELOPMENT ENG."
+    },
+    {
+     "count": 17,
+     "median_salary": 190000,
+     "title": "SMTS SYSTEMS DESIGN ENG."
+    },
+    {
+     "count": 15,
+     "median_salary": 249037,
+     "title": "PMTS SOFTWARE DEVELOPMENT ENG."
+    },
+    {
+     "count": 14,
+     "median_salary": 121600,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 108160,
+     "title": "SR. PRODUCT DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 168450,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 10,
+     "median_salary": 127500,
+     "title": "SR. SYSTEMS DESIGN ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 118874,
+     "title": "SYSTEMS DESIGN ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 209000,
+     "title": "SMTS SOFTWARE SYSTEM DESIGN ENG."
+    },
+    {
+     "count": 7,
+     "median_salary": 154565,
+     "title": "SMTS PRODUCT DEVELOPMENT ENG."
     }
    ]
   },
@@ -566,6 +672,37 @@
    "fetched_at": "2026-10-24T20:11:11Z",
    "label": "aisle_and_abroad",
    "titles": []
+  },
+  "albertsons companies": {
+   "fetched_at": "2026-11-11T17:58:33Z",
+   "label": "Albertsons Companies",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 154950,
+     "title": "PHARMACY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "PRINCIPAL PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SR MANAGER ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 142500,
+     "title": "STAFF PHARMACIST"
+    }
+   ]
   },
   "alice bob": {
    "fetched_at": "2026-11-03T17:29:14Z",
@@ -8193,6 +8330,28 @@
     }
    ]
   },
+  "careers aspendental com": {
+   "fetched_at": "2026-11-11T17:58:34Z",
+   "label": "careers.aspendental.com",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
+  "careers baptisthealth net": {
+   "fetched_at": "2026-11-11T17:58:35Z",
+   "label": "careers.baptisthealth.net",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "careers bcg com": {
    "fetched_at": "2026-10-25T00:48:43Z",
    "label": "careers.bcg.com",
@@ -11353,6 +11512,17 @@
      "count": 1,
      "median_salary": 90522,
      "title": "CATEGORY PURCHASING SPECIALIST II"
+    }
+   ]
+  },
+  "convenientmd": {
+   "fetched_at": "2026-11-11T17:58:36Z",
+   "label": "convenientmd",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "HEAD OF BUSINESS ENABLEMENT"
     }
    ]
   },
@@ -15181,6 +15351,11 @@
     }
    ]
   },
+  "eodr": {
+   "fetched_at": "2026-11-11T17:58:36Z",
+   "label": "Eodr",
+   "titles": []
+  },
   "eofh": {
    "fetched_at": "2026-10-25T08:51:12Z",
    "label": "Eofh",
@@ -15903,6 +16078,11 @@
    "label": "Fa Evfm Saasfaprod1",
    "titles": []
   },
+  "fa evxo saasfaprod1": {
+   "fetched_at": "2026-11-11T17:58:37Z",
+   "label": "Fa Evxo Saasfaprod1",
+   "titles": []
+  },
   "fa ewfi saasfaprod1": {
    "fetched_at": "2026-11-07T23:41:45Z",
    "label": "Fa Ewfi Saasfaprod1",
@@ -15911,6 +16091,11 @@
   "fa ewgu saasfaprod1": {
    "fetched_at": "2026-11-10T02:48:42Z",
    "label": "Fa Ewgu Saasfaprod1",
+   "titles": []
+  },
+  "fa ewpe saasfaprod1": {
+   "fetched_at": "2026-11-11T17:58:38Z",
+   "label": "Fa Ewpe Saasfaprod1",
    "titles": []
   },
   "fa ewqq saasfaprod1": {
@@ -20923,6 +21108,112 @@
    "label": "indeedbtrbt",
    "titles": []
   },
+  "infineon": {
+   "fetched_at": "2026-11-11T17:58:39Z",
+   "label": "Infineon",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 94108,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 192298,
+     "title": "SENIOR MANAGER ACCOUNT MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 156721,
+     "title": "SENIOR STAFF APPLICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 162500,
+     "title": "SENIOR STAFF ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 165691,
+     "title": "SR STAFF SPECIALIST DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 129553,
+     "title": "STAFF ENGINEER YIELD &AMP; PRODUCT"
+    },
+    {
+     "count": 1,
+     "median_salary": 174686,
+     "title": "AGILE COACH"
+    },
+    {
+     "count": 1,
+     "median_salary": 165148,
+     "title": "APPS SYS ENGINEER - PRE &AMP; POST-SALES - NON-SALES PLAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 104950,
+     "title": "BUSINESS MANAGEMENT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 169840,
+     "title": "DIRECTOR OF MACHINE LEARNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 193954,
+     "title": "DIRECTOR, IT CONTRACT &AMP; VENDOR MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 214240,
+     "title": "DIRECTOR, SYSTEM APPLICATIONS ENGINEERING- SENSING, COMPUTE"
+    },
+    {
+     "count": 1,
+     "median_salary": 207976,
+     "title": "LEAD PRINCIPAL APP &AMP; ECOSYSTEM ENGINEER \u2013 MEMORY SYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 216770,
+     "title": "LEAD PRINCIPAL APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170470,
+     "title": "MANAGER IT SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 183018,
+     "title": "PRINCIPAL APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 178081,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175033,
+     "title": "PRINCIPAL ENGINEER APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "PRINCIPAL ENGINEER CAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 187001,
+     "title": "PRINCIPAL ENGINEER FAE"
+    }
+   ]
+  },
   "ing": {
    "fetched_at": "2026-11-05T12:13:04Z",
    "label": "ING",
@@ -22358,6 +22649,47 @@
   "jobs baesystems com": {
    "fetched_at": "2026-10-25T10:28:34Z",
    "label": "jobs.baesystems.com",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 81578,
+     "title": "PROGRAMMER ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 112000,
+     "title": "EMBEDDED ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 51600,
+     "title": "OPERATION ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 82680,
+     "title": "NETWORK AND COMPUTER SYSTEM ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 70564,
+     "title": "RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 83658,
+     "title": "SENIOR DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 182930,
+     "title": "SR. DIRECTOR, ADVANCED MANUFACTURING"
+    }
+   ]
+  },
+  "jobs cvshealth com": {
+   "fetched_at": "2026-11-11T17:58:39Z",
+   "label": "jobs.cvshealth.com",
    "titles": [
     {
      "count": 7,
@@ -24919,6 +25251,17 @@
    "label": "lunaagencies",
    "titles": []
   },
+  "lunar outpost": {
+   "fetched_at": "2026-11-11T17:58:40Z",
+   "label": "Lunar Outpost",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 163280,
+     "title": "PROCESS ENGINEERING MANAGER"
+    }
+   ]
+  },
   "lvmh2": {
    "fetched_at": "2026-10-25T14:02:38Z",
    "label": "LVMH2",
@@ -26201,6 +26544,17 @@
      "count": 1,
      "median_salary": 115000,
      "title": "SENIOR SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "meituan": {
+   "fetched_at": "2026-11-11T17:58:41Z",
+   "label": "Meituan",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 118414,
+     "title": "PRINCIPAL ENGINEER"
     }
    ]
   },
@@ -28597,6 +28951,11 @@
     }
    ]
   },
+  "nbc universal": {
+   "fetched_at": "2026-11-11T17:58:41Z",
+   "label": "NBC Universal",
+   "titles": []
+  },
   "nbcuniversal3": {
    "fetched_at": "2026-10-25T18:06:17Z",
    "label": "nbcuniversal3",
@@ -30983,6 +31342,11 @@
     }
    ]
   },
+  "placements24": {
+   "fetched_at": "2026-11-11T17:58:42Z",
+   "label": "Placements24",
+   "titles": []
+  },
   "plante moran": {
    "fetched_at": "2026-11-05T16:02:48Z",
    "label": "Plante Moran",
@@ -31134,6 +31498,11 @@
   "ppc partners": {
    "fetched_at": "2026-11-03T17:29:21Z",
    "label": "PPC Partners",
+   "titles": []
+  },
+  "primehealthcare": {
+   "fetched_at": "2026-11-11T17:58:43Z",
+   "label": "primehealthcare",
    "titles": []
   },
   "prismbiotech": {
@@ -39177,6 +39546,22 @@
    "label": "[The Aerospace Corporation](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Graduate-Intern_R016793)",
    "titles": []
   },
+  "the bernard": {
+   "fetched_at": "2026-11-11T17:58:43Z",
+   "label": "The Bernard Group",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 42037,
+     "title": "GENERAL ACCOUNTANT AND LEGAL CASE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 42037,
+     "title": "H2A DEPARTMENT HEAD AND LEGAL CASE MANAGER"
+    }
+   ]
+  },
   "the boeing": {
    "fetched_at": "2026-11-06T12:26:36Z",
    "label": "The Boeing Company",
@@ -42639,6 +43024,11 @@
   "vestiairecollective": {
    "fetched_at": "2026-11-11T16:01:54Z",
    "label": "vestiairecollective",
+   "titles": []
+  },
+  "vhchealth": {
+   "fetched_at": "2026-11-11T17:58:44Z",
+   "label": "vhchealth",
    "titles": []
   },
   "vinci construction": {
