@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T01:57:45.759982+00:00",
-  "total": 9200,
+  "generated_at": "2026-11-11T02:19:20.414926+00:00",
+  "total": 9152,
   "per_source": {
-    "jobhive": 9200
+    "jobhive": 9152
   },
-  "new": 2,
-  "closed": 7,
+  "new": 1,
+  "closed": 39,
   "dead_links": 0,
   "stale_checked": 0,
   "stale_dead": 0,
@@ -13,11 +13,11 @@
   "linkless_by_source": {},
   "sources_this_run": {
     "jobhive": true,
-    "freehire": true,
-    "breadth": true,
+    "freehire": false,
+    "breadth": false,
     "rss": false,
-    "ecr": true,
-    "ats": false,
+    "ecr": false,
+    "ats": true,
     "priority": false,
     "md": false
   },

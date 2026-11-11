@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T01:57:45.759982+00:00",
+ "generated_at": "2026-11-11T02:19:20.414926+00:00",
  "policy": {
   "ttl_hours": {
    "priority_ats": 24,
@@ -33,7 +33,7 @@
  ],
  "expired": [],
  "rejected": [],
- "rows_eligible": 104661,
+ "rows_eligible": 116134,
  "sources": {
   "ats_new": {
    "class": "direct_ats",
@@ -44,7 +44,7 @@
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": -0.03,
+   "age_hours": 0.33,
    "fresh": true
   },
   "breadth": {
@@ -56,7 +56,7 @@
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.02,
+   "age_hours": 0.34,
    "fresh": true
   },
   "ecr": {
@@ -68,31 +68,31 @@
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.01,
+   "age_hours": 0.35,
    "fresh": true
   },
   "heavy": {
    "class": "direct_ats",
    "etag": "",
-   "fetched_at": "2026-11-10T22:04:47.960835+00:00",
+   "fetched_at": "2026-11-11T02:40:00.686958+00:00",
    "rejections": 0,
-   "rows": 7810,
+   "rows": 19439,
    "source": "heavy",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": 3.88,
+   "age_hours": -0.34,
    "fresh": true
   },
   "jobhive": {
    "class": "jobhive",
    "etag": "",
-   "fetched_at": "2026-11-11T01:59:55.042060+00:00",
+   "fetched_at": "2026-11-11T02:40:10.320431+00:00",
    "rejections": 0,
-   "rows": 43677,
+   "rows": 43521,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": -0.04,
+   "age_hours": -0.35,
    "fresh": true
   },
   "jobspy": {
@@ -104,7 +104,7 @@
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": 0.84,
+   "age_hours": 1.2,
    "fresh": true
   },
   "light": {
@@ -116,7 +116,7 @@
    "source": "light",
    "status": "ok",
    "ttl_hours": 48,
-   "age_hours": 0.87,
+   "age_hours": 1.23,
    "fresh": true
   },
   "medium": {
@@ -128,7 +128,7 @@
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72,
-   "age_hours": -0.01,
+   "age_hours": 0.35,
    "fresh": true
   },
   "priority": {
@@ -140,7 +140,7 @@
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24,
-   "age_hours": 3.88,
+   "age_hours": 4.24,
    "fresh": true
   }
  }

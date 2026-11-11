@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-10T20:24:08Z",
+ "built_at": "2026-11-11T02:40:12Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -29160,6 +29160,11 @@
   "northrop grumman": {
    "fetched_at": "2026-10-25T18:39:15Z",
    "label": "Northrop Grumman",
+   "titles": []
+  },
+  "northwesternmedicine": {
+   "fetched_at": "2026-11-11T02:40:11Z",
+   "label": "northwesternmedicine",
    "titles": []
   },
   "novelis": {
