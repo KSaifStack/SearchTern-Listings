@@ -46,7 +46,25 @@ CLASS_OF = {
     "skill": "specialty",
     "startupjobs": "specialty",
     "runway": "specialty",
+    "rss": "specialty",
 }
+
+# Sources a complete run is expected to leave a sidecar for. Optional sources
+# are recorded when enabled, but their absence is not a degraded publication.
+EXPECTED_SOURCES = (
+    "jobhive",
+    "heavy",
+    "ats_new",
+    "priority",
+    "light",
+    "medium",
+    "breadth",
+    "ecr",
+    "echo",
+    "skill",
+    "jobspy",
+)
+OPTIONAL_SOURCES = ("sitemap", "runway", "rss")
 
 TTL_HOURS = {
     "priority_ats": 24,
@@ -128,12 +146,56 @@ def record(name, rows, status="ok", etag="", path=None, now=None, rejected=0):
         "class": class_of(name),
         "ttl_hours": ttl_hours(name),
         "fetched_at": _stamp(now).isoformat(),
+        "provenance": "fetch",
         "rows": int(rows),
         "status": str(status),
         "etag": str(etag or ""),
         "rejections": int(rejected),
     }
     return _write(name, path, payload)
+
+
+def seed(name, path, now=None):
+    """Create a sidecar for an existing cache that predates the ledger.
+
+    The cache's mtime is the only honest timestamp available, so it is used as
+    `fetched_at`; seeding must not make an old parquet look fresh. The status is
+    `seeded` so a consumer can distinguish a backfilled record from a fetch.
+    """
+    existing = read(name, path)
+    if existing:
+        return existing
+    if not os.path.exists(path):
+        return {}
+    try:
+        rows = len(pd.read_parquet(path))
+        stamp = pd.Timestamp.fromtimestamp(os.path.getmtime(path), tz="UTC")
+    except Exception as exc:  # noqa: BLE001 - an unreadable cache stays missing
+        print(f"  Snapshot seed {name} failed ({type(exc).__name__}: {exc})")
+        return {}
+    payload = record(name, rows, status="seeded", path=path, now=stamp)
+    payload["provenance"] = "cache_mtime"
+    payload["provenance_ok"] = False
+    _write(name, path, payload)
+    return read(name, path)
+
+
+def reconcile_rows(name, path, rows):
+    """Correct a sidecar's row count when it disagrees with the parquet.
+
+    The fetch timestamp and status are preserved: this repairs metadata, it does
+    not pretend the cache was refreshed.
+    """
+    side = read(name, path)
+    if not side:
+        return side
+    actual = int(rows)
+    recorded = int(side.get("rows") or 0)
+    if recorded == actual:
+        return side
+    side["rows"] = actual
+    side["rows_reconciled_from"] = recorded
+    return _write(name, path, side)
 
 
 def save(frame, name, path, etag="", now=None):
@@ -152,11 +214,13 @@ def save(frame, name, path, etag="", now=None):
     rows = 0 if frame is None else len(frame)
 
     reason = ""
-    if previous_rows > 0 and rejections < MAX_REJECTIONS:
-        if rows == 0:
-            reason = "empty"
-        elif rows < previous_rows * SHRINK_BAND:
-            reason = "shrunken"
+    if rows == 0:
+        # An empty fetch is never a successful snapshot, even on a first run.
+        # It must be visible as rejected rather than a fresh zero-row source.
+        reason = "empty"
+    elif (previous_rows > 0 and rejections < MAX_REJECTIONS
+          and rows < previous_rows * SHRINK_BAND):
+        reason = "shrunken"
 
     if reason:
         record(name, previous_rows, status=f"rejected:{reason}", etag=previous.get("etag", ""),
@@ -189,24 +253,66 @@ def age_hours(sidecar, now=None):
     return round(delta.total_seconds() / 3600.0, 2)
 
 
-def is_fresh(sidecar, now=None):
-    """True when the snapshot is inside its class TTL.
-
-    An expired snapshot is simply not eligible to be published. It is not a
-    closure signal: expiry says "we have not refreshed this lately", nothing
-    about whether the postings still exist.
-    """
-    age = age_hours(sidecar, now)
-    if age is None:
+def _provenance_ok(sidecar):
+    if str(sidecar.get("provenance") or "") != "fetch":
         return False
-    name = str((sidecar or {}).get("source") or "")
-    ttl = (sidecar or {}).get("ttl_hours") or ttl_hours(name)
-    return age <= float(ttl)
+    return sidecar.get("provenance_ok") is not False
+
+
+def _within_ttl(sidecar, now=None, name=None):
+    age = age_hours(sidecar, now)
+    if age is None or age < 0:
+        return False
+    source = str(name or sidecar.get("source") or "")
+    if not source:
+        return False
+    return age <= float(ttl_hours(source))
+
+
+def is_fresh(sidecar, now=None, name=None):
+    """True only for a successful, recent fetch.
+
+    A rejected parse is never fresh, even when its previous rows are still
+    servable: "fresh" answers "was this source refreshed", not "can we publish
+    something older". Seeded records, unknown statuses and cache mtimes are
+    always false. TTL comes from policy, never from the sidecar, so old
+    metadata cannot extend a cache's life.
+
+    An expired snapshot is not eligible to be published. It is not a closure
+    signal: expiry says "we have not refreshed this lately", nothing about
+    whether the postings still exist.
+    """
+    sidecar = sidecar or {}
+    if not _provenance_ok(sidecar):
+        return False
+    if str(sidecar.get("status") or "") not in ("ok", "ok:recovered"):
+        return False
+    return _within_ttl(sidecar, now, name)
+
+
+def is_servable(sidecar, now=None, name=None):
+    """True when a snapshot may contribute rows to a publication.
+
+    A rejected parse with previous rows inside TTL is served as the previous
+    snapshot and reported as rejected; an empty rejected parse has nothing to
+    serve. TTL expiry excludes it either way.
+    """
+    if is_fresh(sidecar, now, name):
+        return True
+    sidecar = sidecar or {}
+    if not _provenance_ok(sidecar):
+        return False
+    if not str(sidecar.get("status") or "").startswith("rejected:"):
+        return False
+    if int(sidecar.get("rows") or 0) <= 0:
+        return False
+    return _within_ttl(sidecar, now, name)
 
 
 def eligible(sidecars, now=None):
     """The subset of snapshots a publisher may read, keyed by source name."""
-    return {name: side for name, side in (sidecars or {}).items() if is_fresh(side, now)}
+    return {name: side for name, side in (sidecars or {}).items()
+            if is_servable(side, now)}
 
 
 def merge(sidecars, load, now=None):
@@ -256,9 +362,31 @@ def collect(cache_dir, now=None):
             continue
         if not isinstance(side, dict):
             continue
+        # The filename is the identity. A sidecar whose `source` disagrees with
+        # its filename has unknown provenance and must never be published under
+        # either name.
+        file_name = entry[:-5]
+        name = str(side.get("source") or file_name)
+        side["file_source"] = file_name
+        side["source_match"] = name == file_name
+        side["known"] = file_name in CLASS_OF
+        side["provenance_ok"] = bool(
+            side.get("provenance_ok", True)
+            and side["source_match"]
+            and side["known"]
+            and side.get("provenance") == "fetch"
+        )
+        # Policy is code, not metadata copied into an old sidecar. Override the
+        # class/TTL so a policy change cannot be defeated by a stale file.
+        side["class_match"] = side.get("class") in (None, "", class_of(file_name))
+        side["ttl_match"] = side.get("ttl_hours") in (None, "", ttl_hours(file_name))
+        side["class"] = class_of(file_name)
+        side["ttl_hours"] = ttl_hours(file_name)
+        side["seeded"] = str(side.get("status", "")) == "seeded"
         side["age_hours"] = age_hours(side, now)
-        side["fresh"] = is_fresh(side, now)
-        sources[str(side.get("source") or entry[:-5])] = side
+        side["fresh"] = side["provenance_ok"] and is_fresh(side, now, file_name)
+        side["servable"] = side["provenance_ok"] and is_servable(side, now, file_name)
+        sources[file_name] = side
     return sources
 
 
@@ -266,18 +394,38 @@ def report(cache_dir, now=None):
     """Payload for pages/snapshots.json: what each source has, and how old it is."""
     stamp = _stamp(now)
     sources = collect(cache_dir, stamp)
-    expired = sorted(n for n, s in sources.items() if not s["fresh"])
+    expired = sorted(
+        n for n, s in sources.items()
+        if not s["fresh"]
+        and str(s.get("status", "")) not in ("empty",)
+        and not str(s.get("status", "")).startswith("rejected:")
+    )
+    empty = sorted(n for n, s in sources.items()
+                   if str(s.get("status", "")) == "empty")
     rejected = sorted(n for n, s in sources.items()
                       if str(s.get("status", "")).startswith("rejected"))
+    invalid = sorted(n for n, s in sources.items() if not s.get("provenance_ok"))
+    expected = list(EXPECTED_SOURCES)
     return {
         "generated_at": stamp.isoformat(),
         "policy": {"ttl_hours": dict(TTL_HOURS), "precedence": list(PRECEDENCE),
                    "shrink_band": SHRINK_BAND},
         "count": len(sources),
+        "expected": expected,
+        "optional": list(OPTIONAL_SOURCES),
+        "missing": sorted(set(expected) - set(sources)),
+        "unexpected": sorted(set(sources) - set(expected) - set(OPTIONAL_SOURCES)),
         "fresh": sorted(n for n, s in sources.items() if s["fresh"]),
         "expired": expired,
+        "empty": empty,
         "rejected": rejected,
-        "rows_eligible": sum(int(s.get("rows") or 0) for s in sources.values() if s["fresh"]),
+        "invalid": invalid,
+        "seeded": sorted(n for n, s in sources.items() if s.get("seeded")),
+        "serving_previous": sorted(n for n, s in sources.items()
+                                  if s.get("servable") and not s["fresh"]),
+        "rows_fresh": sum(int(s.get("rows") or 0) for s in sources.values() if s["fresh"]),
+        "rows_eligible": sum(int(s.get("rows") or 0) for s in sources.values()
+                             if s.get("servable")),
         "sources": sources,
     }
 

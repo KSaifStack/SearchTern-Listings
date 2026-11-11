@@ -15,6 +15,7 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -31,6 +32,10 @@ jobs:
           python -m pip install requests
           python -m pip install python-jobspy
           python -m pip install protego requests-cache
+          python -m pip install pytest
+
+      - name: Run tests
+        run: cd Listings && python -m pytest -q
 
       # --ecr crawls ~6.4k ECR URLs (~30min). Only this 4-hourly run pays that
       # cost and refreshes Listings/cache/tier_ecr.parquet; the hourly light and
@@ -50,7 +55,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Explicitly excluding the priority fast-lane file: this run rebuilds
           # from tier caches and must not publish over the 15-minute lane.
-          git add README.md pages/ digests/ Listings/cache/ ':(exclude)pages/priority.json'
+          git add README.md pages/ countries/ digests/ Listings/cache/ ':(exclude)pages/priority.json'
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

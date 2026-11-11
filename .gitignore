@@ -9,3 +9,9 @@ __pycache__/
 # Raw sitemap fetch cache (requests-cache sqlite + response .body dumps).
 # Hundreds of MB, regenerated every run; never commit it (breaks GitHub's 100 MB limit).
 Listings/cache/sitemap/
+
+# Physical rollback copies. Runtime recovery data, not published content.
+pages/last-known-good/
+
+# Isolated validation runs and their virtualenv. Never published or committed.
+.staging/

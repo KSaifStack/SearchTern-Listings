@@ -1,7 +1,10 @@
+import contextlib
 import glob
 import os
 from datetime import UTC, datetime
 
+import atomic_fs
+import feed_manifest
 from readme_utils import (
     APPLY_BUTTON,
     BASE_URL,
@@ -50,16 +53,20 @@ def build_country_index(dataframe, total_rows: int) -> str:
 """
 
 
-def generate_country_pages(dataframe, output_dir="."):
-    """Generate a dedicated README page for each country."""
+def render_country_pages(dataframe, output_dir=".", generation=None):
+    """Render every country page without touching disk.
+
+    Returns ``(pending, stale, written)`` so the publication can stage the pages
+    with the feed in one transaction and remove pages that no longer exist. Each
+    page carries the generation marker, which makes a mixed surface detectable.
+    """
     if "country_iso" not in dataframe.columns:
-        return
+        return [], [], []
 
     countries_dir = os.path.join(output_dir, "countries")
-    os.makedirs(countries_dir, exist_ok=True)
-
-    for old in glob.glob(os.path.join(countries_dir, "*.md")):
-        os.remove(old)
+    marker = feed_manifest.marker(generation)
+    pending = []
+    written = []
 
     for code, group in dataframe.groupby("country_iso"):
         code = str(code).strip().upper()
@@ -118,15 +125,32 @@ def generate_country_pages(dataframe, output_dir="."):
             f"**{count:,} listings** as of {today}\n\n"
             f"[← Back to all listings]({BASE_URL}README.md)\n\n"
             + build_table(rows_html)
-            + "\n"
+            + "\n" + marker + "\n"
         )
 
         filepath = os.path.join(countries_dir, f"{code}.md")
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(content)
+        pending.append((filepath, content))
+        written.append(os.path.abspath(filepath))
 
-        print(f"Wrote countries/{code}.md — {len(rows_html):,} rows")
+    stale = [path for path in glob.glob(os.path.join(countries_dir, "*.md"))
+             if os.path.abspath(path) not in set(written)]
+    return pending, stale, written
 
+
+def generate_country_pages(dataframe, output_dir=".", generation=None):
+    """Write a dedicated README page for each country, atomically.
+
+    Stale pages are removed only after every new page is live, so a failure can
+    never leave a country directory with half a generation.
+    """
+    pending, stale, written = render_country_pages(dataframe, output_dir, generation)
+    atomic_fs.write_pairs(pending)
+    for path in stale:
+        with contextlib.suppress(OSError):
+            os.remove(path)
+    for path in written:
+        print(f"Wrote countries/{os.path.basename(path)}")
+    return written
 
 def build_nav(current_page: int, total_pages: int) -> str:
     """Build previous/next nav links."""

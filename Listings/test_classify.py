@@ -6,6 +6,7 @@ import re
 import sys
 
 import classify
+import taxonomy
 from readme_utils import canonical_url, clean_company_name
 
 TECH = re.compile(classify.TECH_KEYWORDS_RE, re.IGNORECASE)
@@ -36,7 +37,19 @@ checks = [
     ("'Senior Manager' excluded", EXCLUDE.search("Senior Manager") is not None),
     ("'Senior Software Engineer Intern' not excluded",
      EXCLUDE.search("Senior Software Engineer Intern") is None),
-    ("'Pharmacist' excluded", EXCLUDE.search("Pharmacist") is not None),
+    # Industry must not decide eligibility: these are legitimate early-career
+    # titles on a multi-industry platform.
+    ("'Pharmacist' no longer excluded", EXCLUDE.search("Pharmacist") is None),
+    ("'Marketing Intern' not excluded", EXCLUDE.search("Marketing Intern") is None),
+    ("'Nursing Intern' not excluded", EXCLUDE.search("Nursing Intern") is None),
+    ("'Human Resources Intern' not excluded",
+     EXCLUDE.search("Human Resources Intern") is None),
+    ("'internal audit internship' still excluded",
+     EXCLUDE.search("Internal Audit Internship") is not None),
+    ("nursing intern is eligible",
+     taxonomy.opportunity_eligibility("Nursing Intern", "internship")[0]),
+    ("director title is not eligible",
+     taxonomy.opportunity_eligibility("Director of Sales", "")[0] is False),
     # SQL conds derive from the same term lists as the Python regexes.
     ("intern SQL cond built", "\\bintern(?:ship)?\\b" in classify.intern_title_cond()),
     ("intern SQL has student term", "\\bstudent\\w*" in classify.intern_title_cond()),

@@ -91,19 +91,25 @@ LISTINGS_NEWGRAD_RE = "|".join(
     (NEWGRAD_SPECIAL_RE, _terms_pattern(NEWGRAD_TITLE_TERMS))
 )
 
+# Title refusals are about the *opportunity*, never the industry. The earlier
+# list also excluded pharmacist, nurse, teacher, dental, veterinary, pastor,
+# marketing intern, HR intern, "human resources", sales associate and sales
+# representative — all legitimate early-career titles on a platform that is
+# meant to cover every industry. Those entries silently deleted exactly the
+# non-technology careers the feed is supposed to carry (2026-11-11 audit).
+# What remains are false-positive guards ("internal only", "internal audit",
+# "internal medicine") and a seniority guard: a senior/executive title with no
+# intern/new-grad marker is not an early-career opportunity, while "Senior
+# Software Engineer Intern" still is. Industry is classified afterwards by
+# taxonomy.py and never decides eligibility.
 TITLE_EXCLUDE_RE = (
-    r"\bpharmacist\w*|\bpharmacy\b|\bdental\b|\bnurse\w*|\bphysician\w*"
-    r"|\bmedical\s+intern\b|\bclinical\s+intern\b|\binternal medicine\b"
-    r"|\binternal audit\b|\binternal\s+only\b|\binternal\s+security\b"
-    r"|\bsales\s+associate\w*|\bsales\s+representative\w*|\bveterinary\b"
-    r"|\bpastor\w*|\bteacher\w*"
-    r"|\bmarketing\s+intern\b|\bhr\s+intern\b|\bhuman\s+resources\b"
+    r"\binternal\s+only\b|\binternal\s+audit\b|\binternal\s+security\b"
+    r"|\binternal\s+medicine\b"
     r"|\bsenior\s+(?!.*(?:intern|co-op|apprentice|trainee))"
 )
 
 TITLE_EXCLUDE_TERMS = (
-    "pharmacist", "pharmacy", "dental", "nurse", "nursing", "physician",
-    "veterinary", "pastor", "teacher",
+    "internal only", "internal audit", "internal security",
 )
 
 # SQL regexp_matches variants of the above, for the manifest queries.
@@ -261,6 +267,11 @@ ROLE_CATEGORIES = {
         "engineering", "ios", "android", "mobile develop", "coder",
         "computer science", "it", "technology", "technical", "qa",
         "quality assurance", "software", "application develop",
+    ),
+    "Government/Public Service": (
+        "government", "public sector", "civil service", "municipal",
+        "federal", "county", "city of", "public policy", "policy analyst",
+        "public administration", "public service",
     ),
     "Other": (),
 }

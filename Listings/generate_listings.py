@@ -34,6 +34,7 @@ import discover_boards
 import echojobs
 import ecr_source
 import enrich
+import feed_manifest
 import feed_scope
 import freshness
 import h1b_enrich
@@ -43,6 +44,7 @@ import jobspy_source
 import markdown_sources
 import pandas as pd
 import priority_boards
+import publish as publication
 import readme_generation
 import rss_source
 import runway_source
@@ -141,6 +143,11 @@ def parse_args(argv=None):
         help="Force regeneration even if source data hasn't changed",
     )
     parser.add_argument(
+        "--recover",
+        action="store_true",
+        help="Restore pages/ from the physical last-known-good generation and exit",
+    )
+    parser.add_argument(
         "--sitemap",
         action="store_true",
         help="Also crawl career sitemaps for ATS vendors with no public API (light tier, opt-in)",
@@ -199,15 +206,45 @@ def _cache_path(tier):
 
 
 def _load_cached(tier):
+    """Load a cache only when its sidecar says it is inside TTL.
+
+    A parquet without a sidecar is seeded from its mtime first, so legacy caches
+    become inspectable without being made to look freshly fetched. Expired
+    caches are not loaded: they are withheld from this publication, not treated
+    as closures. A rejected latest parse still serves the previous snapshot,
+    but is reported as a degraded input.
+    """
     path = _cache_path(tier)
-    if os.path.exists(path):
-        try:
-            df = pd.read_parquet(path)
-            print(f"  Loaded cached {tier} data: {len(df):,} rows")
-            return df
-        except Exception as e:
-            print(f"  Could not load cached {tier} data ({e}); treating as empty")
-    return pd.DataFrame()
+    if not os.path.exists(path):
+        return pd.DataFrame()
+
+    side = snapshots.read(tier, path)
+    if not side:
+        side = snapshots.seed(tier, path)
+        if side:
+            print(f"  Seeded {tier} snapshot metadata from cache mtime")
+    if not side:
+        print(f"  Snapshot {tier} missing; not loading its cache")
+        return pd.DataFrame()
+    if not snapshots.is_servable(side, name=tier):
+        print(f"  Snapshot {tier} expired or unusable (age {side.get('age_hours')}h, "
+              f"ttl {side.get('ttl_hours')}h, status {side.get('status')}); not loading")
+        return pd.DataFrame()
+    status = str(side.get("status") or "")
+    if status.startswith("rejected") and int(side.get("rows") or 0) <= 0:
+        print(f"  Snapshot {tier} {status}; no previous rows to serve")
+        return pd.DataFrame()
+
+    try:
+        df = pd.read_parquet(path)
+    except Exception as e:
+        print(f"  Could not load cached {tier} data ({e}); treating as empty")
+        return pd.DataFrame()
+    if status.startswith("rejected"):
+        print(f"  Snapshot {tier} {status}; serving previous {len(df):,} rows")
+    snapshots.reconcile_rows(tier, path, len(df))
+    print(f"  Loaded cached {tier} data: {len(df):,} rows")
+    return df
 
 
 def _save_cache(df, tier, etag=""):
@@ -679,6 +716,17 @@ def main(argv=None):
     ARGS = parse_args(argv)
     WORKERS = ARGS.workers or int(os.environ.get("SEARCHTERN_WORKERS", "12"))
     RUN_TIERS = ALL_TIERS if ARGS.tier == TIER_ALL else [ARGS.tier]
+
+    if ARGS.recover:
+        _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
+        try:
+            _restored = feed_manifest.recover(_pages)
+        except Exception as _recover_exc:  # noqa: BLE001 - recovery failure is the message
+            print(f"Recovery failed: {type(_recover_exc).__name__}: {_recover_exc}")
+            return 1
+        print(f"Recovered last-known-good generation {_restored.get('generated_at')}")
+        return 0
+
     print(f"Running tier(s): {', '.join(RUN_TIERS)}")
 
     print("Fetching jobhive manifest...")
@@ -718,11 +766,19 @@ def main(argv=None):
     )
     listings_result = duckdb.execute(listings_query, [parquet_urls]).df()
     listings_result = listings_result[listings_result["job_type"] != "other"]
+    jobhive_live_count = len(listings_result)
     if "description" in listings_result.columns:
         listings_result["description"] = listings_result["description"].map(
             lambda v: _strip_html(v) if v is not None and str(v).strip() else None
         )
     listings_result = _stamp(listings_result, "jobhive", now)
+    # Record the live fetch before the union so its eligibility is visible to
+    # the publication guard. A zero-row fetch is `empty`, never `ok`.
+    snapshots.record(
+        "jobhive", jobhive_live_count,
+        status="ok" if jobhive_live_count else "empty",
+        path=_cache_path("jobhive"),
+    )
 
     # ── Sitemap discovery (opt-in) ────────────────────────────────────────────
     # Vendors that gate search behind a JS-only SPA still publish a career
@@ -1809,6 +1865,10 @@ def main(argv=None):
             readme_result = _dedupe(pd.concat([readme_result, r_for_readme], ignore_index=True))
             listings_result = _dedupe(pd.concat([listings_result, r_for_listings], ignore_index=True))
             print(f"  RSS added: {len(r_for_readme)} to README, {len(r_for_listings)} to listings")
+        snapshots.record(
+            "rss", len(rss_df), status="ok" if len(rss_df) else "empty",
+            path=_cache_path("rss"),
+        )
 
     # ── New ATS adapters (medium tier) ───────────────────────────────────────────
     # Eightfold, Oracle Recruiting Cloud, iCIMS, ADP, BambooHR. All public
@@ -2047,7 +2107,9 @@ def main(argv=None):
             sx_df = _classify_freehire(sx_df)
             sx_df = _stamp(sx_df, "skillexchange", now)
             print(f"  SkillExchange classified: {len(sx_df):,} rows")
-            _save_cache(sx_df, "skill")
+        # Empty is a failed snapshot, not a silent missing sidecar. The save
+        # gate keeps the previous parquet and records rejected:empty.
+        _save_cache(sx_df, "skill")
     else:
         sx_df = _load_cached("skill")
     print(f"  SkillExchange working set: {len(sx_df):,} rows")
@@ -2082,7 +2144,9 @@ def main(argv=None):
             ej_df = _classify_freehire(ej_df)
             ej_df = _stamp(ej_df, "echojobs", now)
             print(f"  EchoJobs classified: {len(ej_df):,} rows")
-            _save_cache(ej_df, "echo")
+        # Empty is a failed snapshot, not a silent missing sidecar. The save
+        # gate keeps the previous parquet and records rejected:empty.
+        _save_cache(ej_df, "echo")
     else:
         ej_df = _load_cached("echo")
     print(f"  EchoJobs working set: {len(ej_df):,} rows")
@@ -2149,7 +2213,9 @@ def main(argv=None):
             js_df = _classify_freehire(js_df)
             js_df = _stamp(js_df, "jobspy", now)
             print(f"  JobSpy classified: {len(js_df):,} rows")
-            _save_cache(js_df, "jobspy")
+        # Empty is a failed snapshot, not a silent missing sidecar. The save
+        # gate keeps the previous parquet and records rejected:empty.
+        _save_cache(js_df, "jobspy")
     else:
         js_df = _load_cached("jobspy")
     print(f"  JobSpy working set: {len(js_df):,} rows")
@@ -2174,6 +2240,23 @@ def main(argv=None):
         listings_result = _dedupe(listings_result)
         print(f"  JobSpy added: {len(js_for_readme)} to README, {len(js_for_listings)} to listings")
 
+    # Publication boundary: merge every eligible source snapshot, not just the
+    # tiers this run happened to fetch. The live frame is appended as a safety
+    # net for sources without a parquet (jobhive, RSS); duplicate identities keep
+    # the higher-precedence snapshot row.
+    _pre_union = len(listings_result)
+    # The snapshot union runs after every fetcher has written its sidecar. Use
+    # the post-fetch clock, not the run-start clock: a sidecar written minutes
+    # into a long run is not future-dated, and treating it as such silently
+    # drops the cached half of the union.
+    _union_now = pd.Timestamp.now('UTC')
+    listings_result = publication.build_publish_frame(
+        listings_result, CACHE_DIR, now=_union_now, load=_load_cached)
+    listings_result = closure.drop_internal_columns(listings_result)
+    if len(listings_result) != _pre_union:
+        print(f"  Publication union: {_pre_union:,} -> {len(listings_result):,} rows "
+              f"from eligible snapshots")
+
     _us_loc_re = re.compile(r'\b(?:US|USA|U\.S\.A\.|United States|California|Texas|New York|Washington|Seattle|San Francisco|SF|NYC|Austin|Chicago|Boston|Mountain View|Palo Alto|Sunnyvale|Los Angeles|Irvine|San Diego|Santa Clara|Cupertino|Menlo Park|Redmond|Kirkland|Bellevue|Arlington|McLean|Reston|Atlanta|Denver|Portland|Phoenix|Philadelphia|Pittsburgh|Minneapolis|Ann Arbor|Detroit|Miami|Orlando|Tampa|Dallas|Houston|Raleigh|Durham|Charlotte|Nashville|Salt Lake City|St Louis|Kansas City|Columbus|Indianapolis|Milwaukee|Baltimore|Portland)\b', re.IGNORECASE)
 
     def _feed_scope_filter(df):
@@ -2189,13 +2272,26 @@ def main(argv=None):
     # Kept before the tech and scope filters so closure can tell "delisted" from
     # "not published" (used by the seen-log block below).
     _seen_frame = listings_result.copy()
-    # The live fetch is a snapshot like any cached source: record what it
-    # returned so the publisher can tell "jobhive came back thin" from "jobhive
-    # was not fetched", and so a light run cannot pass its own fetch off as the
-    # whole of what we know.
-    snapshots.record("jobhive", len(_seen_frame), status="ok", path=_cache_path("jobhive"))
     searchtern_result = _feed_scope_filter(listings_result)
     listings_result = _feed_scope_filter(listings_result[tech_mask])
+
+    # Last-known-good gate: never replace the published feed with an empty or
+    # critical-source-missing result. The previous feed/manifest stay untouched.
+    # Use the time the assessment actually runs: a long fetch can finish after
+    # the run-start timestamp, which must not make a sidecar look future-dated.
+    _assessment_now = pd.Timestamp.now('UTC')
+    _assessment = publication.assess(CACHE_DIR, now=_assessment_now,
+                                     frame=searchtern_result)
+    if _assessment["status"] == "failed":
+        _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
+        publication.write_status(_pages, _assessment)
+        _blockers = ", ".join(
+            f"{b['source']}:{b['reason']}" for b in _assessment["blockers"]
+        )
+        print(f"  PUBLICATION BLOCKED: {_blockers}; previous feed left intact")
+        sys.exit(1)
+    print(f"  Publication status: {_assessment['status']} "
+          f"({len(searchtern_result):,} candidate rows)")
 
     # ── H-1B sponsor enrichment (Tier C) ────────────────────────────────────────
     # visa_sponsor column sourced from USCIS employer data; "" means no signal
@@ -2245,15 +2341,29 @@ def main(argv=None):
                               "priority", "rss") else "md"
 
 
+    # Closure votes follow the snapshot ledger, not the tier list. A cache that
+    # is expired or whose latest parse was rejected must not vote to close jobs.
+    _closure_sides = snapshots.collect(CACHE_DIR, now=_assessment_now)
+
+    def _snapshot_verified(*names):
+        for _name in names:
+            _side = _closure_sides.get(_name)
+            if (not _side or not _side.get("fresh")
+                    or str(_side.get("status") or "").startswith("rejected")
+                    or int(_side.get("rows") or 0) <= 0):
+                continue
+            return True
+        return False
+
     buckets_fresh = {
-        "jobhive": True,
-        "freehire": TIER_MEDIUM in RUN_TIERS,
-        "breadth": TIER_MEDIUM in RUN_TIERS,
-        "rss": bool(rss_source.configured()) and TIER_LIGHT in RUN_TIERS,
-        "ecr": TIER_MEDIUM in RUN_TIERS,
-        "ats": TIER_HEAVY in RUN_TIERS,
-        "priority": TIER_PRIORITY in RUN_TIERS,
-        "md": TIER_LIGHT in RUN_TIERS,
+        "jobhive": _snapshot_verified("jobhive"),
+        "freehire": _snapshot_verified("medium"),
+        "breadth": _snapshot_verified("breadth"),
+        "rss": _snapshot_verified("rss"),
+        "ecr": _snapshot_verified("ecr"),
+        "ats": _snapshot_verified("heavy", "ats_new"),
+        "priority": _snapshot_verified("priority"),
+        "md": _snapshot_verified("light"),
     }
 
     def _key_of(row):
@@ -2452,7 +2562,8 @@ def main(argv=None):
     # rejection, so "how stale is this source" is answerable from the repo
     # instead of from a run's stdout (audit findings F2 and F5).
     _snap_report = snapshots.write_report(
-        os.path.join(root_dir, "pages", "snapshots.json"), CACHE_DIR, now=now)
+        os.path.join(root_dir, "pages", "snapshots.json"), CACHE_DIR,
+        now=_assessment_now)
     print(f"  Snapshots: {len(_snap_report['fresh'])} fresh, "
           f"{len(_snap_report['expired'])} expired, "
           f"{len(_snap_report['rejected'])} rejected")
@@ -2650,10 +2761,36 @@ def main(argv=None):
     readme_role_lower = readme_result["role"].str.lower()
     readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
     readme_result = readme_result[readme_tech_mask]
-    readme_generation.generate_readme(readme_result, output_dir="..")
-    readme_generation.write_listings_json(
-        listings_result, output_dir="..", mirror_dataframe=searchtern_result
-    )
+    _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
+    try:
+        # One transaction writes the feed, manifest, README, country pages, RSS
+        # and reconciled count artifacts. Every one of them carries the same
+        # generation id, and audit() refuses the publication if they disagree.
+        _manifest = readme_generation.publish_generation(
+            listings_result, mirror_frame=searchtern_result,
+            readme_frame=readme_result, output_dir="..",
+            snapshots_report=_snap_report,
+            required_sources=publication.CRITICAL_SOURCES,
+        )
+        try:
+            feed_manifest.preserve(_pages)
+        except Exception as _lkg_exc:  # noqa: BLE001 - the new feed is already valid
+            print(f"  LKG snapshot skipped: {type(_lkg_exc).__name__}: {_lkg_exc}")
+        print(f"  Reconciliation: manifest {_manifest['published']['searchtern']['rows']:,} "
+              f"rows; README/run_meta/health/source_stats share generation "
+              f"{_manifest['run_id']}")
+    except readme_generation.PublicationRejected as _pub_exc:
+        # The run wrote candidate counts into run_meta/health/source_stats
+        # earlier. Repoint them at the last published generation so a refused
+        # run cannot advertise a feed that was never written.
+        feed_manifest.mark_blocked(_pages, str(_pub_exc))
+        publication.write_status(_pages, {
+            "status": "failed",
+            "blockers": [{"source": "feed", "reason": str(_pub_exc)}],
+            "report": _snap_report,
+        })
+        print(f"  PUBLICATION BLOCKED: {_pub_exc}; previous feed left intact")
+        sys.exit(1)
     # Compressed, streamable parts + manifest: clients can fetch one shard and
     # read counts/coverage/timestamps without downloading the whole feed.
     # Off by default, per docs/reverse-engineering/publication-migration.md: the
@@ -2677,8 +2814,6 @@ def main(argv=None):
     if not priority_df.empty:
         _pri_window = _to_dt(priority_df["date"]) >= now - pd.Timedelta(days=7)
         readme_generation.write_priority_json(priority_df[_pri_window], output_dir="..")
-
-    readme_generation.write_feed_xml(searchtern_result, output_dir="..")
 
     # Shadow publication (phase 3 of the snapshot refactor): compute what the
     # feed would hold if it were published from snapshots rather than from the

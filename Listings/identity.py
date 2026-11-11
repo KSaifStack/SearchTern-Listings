@@ -162,16 +162,20 @@ def pairs(frame):
     import pandas as pd
 
     blank = pd.Series([""] * len(frame), index=frame.index, dtype=object)
-    if "ats_type" in frame.columns:
-        ats = frame["ats_type"].astype(str).str.strip()
-        ats = ats.where(~ats.str.lower().isin(_BLANK), "")
-    else:
-        ats = blank.copy()
-    if "ats_id" in frame.columns:
-        req = frame["ats_id"].astype(str).str.strip()
-        req = req.where(~req.str.lower().isin(_BLANK), "")
-    else:
-        req = blank.copy()
+
+    def _column(name):
+        if name not in frame.columns:
+            return blank.copy()
+        # A frame concatenated with one that never had this column carries NA,
+        # not a string. astype(str) leaves that NA in place on pandas' string
+        # dtype, and NA then compares as a truthy "identified" value, collapsing
+        # every such row onto one key. Turn NA into "" before anything else.
+        series = frame[name]
+        series = series.where(~pd.isna(series), "").astype(str).str.strip()
+        return series.where(~series.str.lower().isin(_BLANK), "")
+
+    ats = _column("ats_type")
+    req = _column("ats_id")
 
     missing = (ats == "") | (req == "")
     if missing.any() and "link" in frame.columns:

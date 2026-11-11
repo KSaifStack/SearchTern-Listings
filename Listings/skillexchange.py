@@ -43,29 +43,56 @@ def _backslash_unescape(s):
     return "".join(out)
 
 
+def _balanced(text, start, opener, closer):
+    """Return the slice from `start` through its matching closer, or None."""
+    depth = 0
+    for i in range(start, len(text)):
+        c = text[i]
+        if c == opener:
+            depth += 1
+        elif c == closer:
+            depth -= 1
+            if depth == 0:
+                return text[start:i + 1]
+    return None
+
+
 def _extract_jobs(html):
     text = _backslash_unescape("".join(_PUSH_CHUNK_RE.findall(html)))
     jobs = []
+    seen = set()
+
+    def add(job):
+        if not isinstance(job, dict) or "slugId" not in job:
+            return
+        if job["slugId"] in seen:
+            return
+        seen.add(job["slugId"])
+        jobs.append(job)
+
+    # 2026-11-11: jobs moved into a React Query dehydrated payload
+    # ("state":{"data":{"jobs":[...]}}), so a card no longer begins with
+    # {"slugId": and anchoring there parsed 0 rows. Read the jobs array itself.
+    for m in re.finditer(r'"jobs"\s*:\s*\[', text):
+        chunk = _balanced(text, text.index("[", m.start()), "[", "]")
+        if chunk is None:
+            continue
+        with contextlib.suppress(json.JSONDecodeError):
+            for job in json.loads(chunk):
+                add(job)
+
+    # Legacy layout: each job card was its own {"slugId":...} object.
     start = 0
     while True:
         i = text.find('{"slugId":', start)
         if i < 0:
             break
-        depth = 0
-        j = i
-        while j < len(text):
-            if text[j] == "{":
-                depth += 1
-            elif text[j] == "}":
-                depth -= 1
-                if depth == 0:
-                    break
-            j += 1
-        if j >= len(text):
+        chunk = _balanced(text, i, "{", "}")
+        if chunk is None:
             break
         with contextlib.suppress(json.JSONDecodeError):
-            jobs.append(json.loads(text[i:j + 1]))
-        start = j + 1
+            add(json.loads(chunk))
+        start = i + 1
     return jobs
 
 

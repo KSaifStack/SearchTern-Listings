@@ -22,6 +22,7 @@ concurrency:
 jobs:
   priority:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -38,6 +39,10 @@ jobs:
           python -m pip install requests
           python -m pip install python-jobspy
           python -m pip install protego requests-cache
+          python -m pip install pytest
+
+      - name: Run tests
+        run: cd Listings && python -m pytest -q
 
       # Polls the priority boards with no cooldown (see Listings/priority_boards.py)
       # and rewrites pages/priority.json. The main feeds are rebuilt from the

@@ -71,6 +71,24 @@ def test_pairs_never_overwrites_a_published_id():
     assert ats.tolist() == ["Greenhouse"] and req.tolist() == ["from-api"]
 
 
+def test_pairs_fills_na_from_a_concatenated_frame():
+    # pandas 3 leaves a column the other frame never had as float NaN; NaN used
+    # to read as an identified id, collapsing every such row onto one dedup key.
+    with_ids = pd.DataFrame([{
+        "ats_type": "greenhouse", "ats_id": "1234567",
+        "link": "https://boards.greenhouse.io/acme/jobs/1234567",
+    }])
+    without_ids = pd.DataFrame([
+        {"link": "https://boards.greenhouse.io/beta/jobs/7654321"},
+        {"link": "https://jobs.lever.co/beta/0dfbe31e-89ef-4a1b-9c2d-1234567890ab"},
+    ])
+    merged = pd.concat([with_ids, without_ids], ignore_index=True)
+    ats, req = identity.pairs(merged)
+    assert ats.tolist() == ["greenhouse", "greenhouse", "lever"]
+    assert req.tolist()[1:] == [
+        "7654321", "0dfbe31e-89ef-4a1b-9c2d-1234567890ab"]
+
+
 def test_fill_and_coverage():
     uuid = "0dfbe31e-89ef-4a1b-9c2d-1234567890ab"
     frame = pd.DataFrame([

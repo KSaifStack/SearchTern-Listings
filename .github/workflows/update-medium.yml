@@ -15,6 +15,7 @@ concurrency:
 jobs:
   medium:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -30,6 +31,10 @@ jobs:
           python -m pip install duckdb pandas pyarrow
           python -m pip install requests
           python -m pip install protego requests-cache
+          python -m pip install pytest
+
+      - name: Run tests
+        run: cd Listings && python -m pytest -q
 
       - name: Run scraper (freehire API)
         # Shards stay off until the reader migrates: publishing both the
@@ -44,7 +49,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Explicitly excluding the priority fast-lane file: this tier rebuilds
           # from tier caches and must not publish over the 15-minute lane.
-          git add README.md pages/ Listings/cache/ ':(exclude)pages/priority.json'
+          git add README.md pages/ countries/ Listings/cache/ ':(exclude)pages/priority.json'
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
