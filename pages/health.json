@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-11T02:40:20Z",
+  "generated_at": "2026-11-11T07:12:44Z",
   "totals": {
-    "sources": 3,
-    "discovered": 375213,
-    "valid": 87888,
-    "new": 1,
-    "seconds": 1210.011,
-    "failed": 0,
-    "closed": 39,
+    "sources": 89,
+    "discovered": 220966,
+    "valid": 97295,
+    "new": 3,
+    "seconds": 446.138,
+    "failed": 3,
+    "closed": 161,
     "dead_links": 0
   },
   "run": {
-    "tier": "heavy",
+    "tier": "all",
     "workers": 12,
     "published": {
-      "listings": 9152,
-      "searchtern": 30686
+      "listings": 9181,
+      "searchtern": 30762
     }
   },
   "sources": [
     {
       "source": "jobhive",
       "rows": 12579,
-      "new": 1,
+      "new": 3,
       "share_of_new_pct": 100.0,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 1624
+      "new_7d": 1621
     },
     {
       "source": "jobhive-closure",
-      "rows": 55870,
+      "rows": 55983,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": null,
@@ -40,12 +40,872 @@
       "new_7d": 0
     },
     {
-      "source": "ats-probe",
-      "rows": 19439,
+      "source": "freehire-pages",
+      "rows": 7200,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 1210.011,
+      "seconds": 16.403,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "freehire",
+      "rows": 5409,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 1236
+    },
+    {
+      "source": "ecr",
+      "rows": 5287,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 485
+    },
+    {
+      "source": "ats-probe",
+      "rows": 5180,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 178.81,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "oracle:WSP",
+      "rows": 2000,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 32.498,
+      "status": "truncated",
+      "new_7d": 0
+    },
+    {
+      "source": "oracle:Stantec",
+      "rows": 1652,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 21.486,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "priority-probe",
+      "rows": 360,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 12.284,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "adp:Carolina Power",
+      "rows": 310,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 4.867,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "adp:Pennoni",
+      "rows": 233,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 5.065,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "eightfold:Applied Materials",
+      "rows": 229,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 33.129,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "eightfold:Qualcomm",
+      "rows": 127,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 18.918,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "eightfold:CACI",
+      "rows": 98,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 17.679,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Intuitive Machines",
+      "rows": 95,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 2.034,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "eightfold:Arcadis",
+      "rows": 75,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 12.016,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:North Wind",
+      "rows": 52,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.873,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Veterinary United",
+      "rows": 44,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.985,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:The Bernard Group",
+      "rows": 40,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.953,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Community Care Plan",
+      "rows": 39,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.563,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Drt Holdings",
+      "rows": 39,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.53,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Patriot Group International",
+      "rows": 35,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.535,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Pathstone",
+      "rows": 29,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.53,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Avalon",
+      "rows": 28,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.548,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "icims:Peraton",
+      "rows": 25,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 16.476,
+      "status": "truncated",
+      "new_7d": 0
+    },
+    {
+      "source": "icims:Novelis",
+      "rows": 25,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 16.737,
+      "status": "truncated",
+      "new_7d": 0
+    },
+    {
+      "source": "icims:General Dynamics Mission Systems",
+      "rows": 20,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 13.071,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "icims:Dewberry",
+      "rows": 20,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 13.014,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "icims:Sargent & Lundy",
+      "rows": 20,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 14.231,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Steinberg Diagnostic Medical Imaging",
+      "rows": 16,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.149,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "bamboohr:Lunar Outpost",
+      "rows": 11,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 7.753,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Meazure Learning",
+      "rows": 8,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.094,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Arcadia",
+      "rows": 8,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.072,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Curious Plot",
+      "rows": 7,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.091,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Carlos Rosario Public Charter School",
+      "rows": 6,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.091,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "eightfold:Starbucks",
+      "rows": 4,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 3.221,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:Canaccord Genuity",
+      "rows": 2,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.071,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:lilguy Live Feed",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SimplifyJobs Off-Season 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:GodlyDonuts keryx Internships",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:aprameyak Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 Summer 2026",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SimplifyJobs New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:cvrve New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 New Grad 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Other 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan DS/AI",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SimplifyJobs Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan SWE Track",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:aprameyak New Grad 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zshah101 Summer 2027 US",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:GodlyDonuts keryx New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:aprameyak Off-Cycle/Co-op",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Hardware",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 Off-Season",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE New Grad USA",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE New Grad Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:negarprh Canada 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs Internships 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs New Grad 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI Intern Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zshah101 Automated List",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE 2027 Intern Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI New Grad USA",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI New Grad Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs New Grad SWE 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "jobspy (linkedin)",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs New Grad Data Science 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:Arbeitnow",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:ApplyGuy New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Product",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Quant",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:LorenzoLaCorte EU Internships 2026",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "jobspy (indeed)",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:sndsh404 Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs Canada 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:summer2026internships",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:RemoteOK",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:Jobicy",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:Working Nomads",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:HN who-is-hiring",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:WeWorkRemotely",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:Himalayas",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:Remotive",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "breadth:TheMuse",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "icims:Kimley-Horn",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.361,
       "status": "ok",
       "new_7d": 0
     }
@@ -75,22 +935,37 @@
     {
       "kind": "quiet",
       "source": "ats",
-      "detail": "78.4h since last data"
+      "detail": "82.9h since last data"
     },
     {
       "kind": "quiet",
       "source": "breadth",
-      "detail": "78.4h since last data"
+      "detail": "82.9h since last data"
     },
     {
       "kind": "quiet",
       "source": "md",
-      "detail": "78.0h since last data"
+      "detail": "82.6h since last data"
     },
     {
       "kind": "quiet",
       "source": "priority",
-      "detail": "98.3h since last data"
+      "detail": "102.9h since last data"
+    },
+    {
+      "kind": "degraded",
+      "source": "oracle:WSP",
+      "detail": "truncated"
+    },
+    {
+      "kind": "degraded",
+      "source": "icims:Peraton",
+      "detail": "truncated"
+    },
+    {
+      "kind": "degraded",
+      "source": "icims:Novelis",
+      "detail": "truncated"
     }
   ],
   "healthy": false
