@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-11T17:58:45Z",
+ "built_at": "2026-11-12T00:49:43Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -35919,6 +35919,62 @@
    "label": "Seaspan",
    "titles": []
   },
+  "seatgeek": {
+   "fetched_at": "2026-11-12T00:49:41Z",
+   "label": "SeatGeek",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "MANAGER, RISK ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 147700,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 116900,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 191901,
+     "title": "LEAD PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 237000,
+     "title": "SENIOR DATA SCIENTIST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 73382,
+     "title": "SENIOR PRODUCT SUPPORT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 181600,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "SEO ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "UX RESEARCHER"
+    }
+   ]
+  },
   "secretariatadvisorsllc": {
    "fetched_at": "2026-10-25T20:25:01Z",
    "label": "secretariatadvisorsllc",
@@ -39967,6 +40023,11 @@
      "title": "VICE PRESIDENT, TDS OPERATIONS"
     }
    ]
+  },
+  "the trainee": {
+   "fetched_at": "2026-11-12T00:49:42Z",
+   "label": "The Trainee Company",
+   "titles": []
   },
   "the travelers companies": {
    "fetched_at": "2026-10-26T17:51:07Z",

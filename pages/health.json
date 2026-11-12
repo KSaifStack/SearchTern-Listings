@@ -1,84 +1,84 @@
 {
-  "generated_at": "2026-11-11T17:59:18Z",
+  "generated_at": "2026-11-12T00:50:14Z",
   "totals": {
     "sources": 46,
-    "discovered": 29847,
-    "valid": 38401,
-    "new": 3141,
-    "seconds": 293.269,
+    "discovered": 29958,
+    "valid": 38442,
+    "new": 207,
+    "seconds": 282.941,
     "failed": 3,
-    "closed": 3000,
+    "closed": 144,
     "dead_links": 1
   },
   "run": {
     "tier": "medium",
     "workers": 12,
     "published": {
-      "listings": 10055,
-      "searchtern": 26765
+      "listings": 10119,
+      "searchtern": 26770
     },
     "manifest": "pages/feed-manifest.json",
-    "generation": "20261111T175938Z-bd2da85866e7",
+    "generation": "20261112T005047Z-59887f66c044",
     "publication_status": "published"
   },
   "sources": [
     {
-      "source": "ecr",
-      "rows": 5285,
-      "new": 1934,
-      "share_of_new_pct": 61.57,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 2418
-    },
-    {
       "source": "freehire",
-      "rows": 5454,
-      "new": 1055,
-      "share_of_new_pct": 33.59,
+      "rows": 5464,
+      "new": 95,
+      "share_of_new_pct": 45.89,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 2290
+      "new_7d": 1991
     },
     {
-      "source": "ats",
-      "rows": 0,
-      "new": 114,
-      "share_of_new_pct": 3.63,
+      "source": "ecr",
+      "rows": 5363,
+      "new": 91,
+      "share_of_new_pct": 43.96,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 5088
-    },
-    {
-      "source": "jobhive",
-      "rows": 15133,
-      "new": 31,
-      "share_of_new_pct": 0.99,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 1925
+      "new_7d": 2378
     },
     {
       "source": "breadth",
       "rows": 0,
-      "new": 7,
-      "share_of_new_pct": 0.22,
+      "new": 16,
+      "share_of_new_pct": 7.73,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 78
+      "new_7d": 87
+    },
+    {
+      "source": "ats",
+      "rows": 0,
+      "new": 5,
+      "share_of_new_pct": 2.42,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 5078
+    },
+    {
+      "source": "jobhive",
+      "rows": 15095,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 1608
     },
     {
       "source": "freehire-pages",
-      "rows": 7206,
+      "rows": 7222,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 18.947,
+      "seconds": 18.801,
       "status": "ok",
       "new_7d": 0
     },
@@ -88,67 +88,67 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 34.799,
+      "seconds": 35.227,
       "status": "truncated",
       "new_7d": 0
     },
     {
       "source": "oracle:Stantec",
-      "rows": 1650,
+      "rows": 1654,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 24.246,
+      "seconds": 23.494,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "adp:Carolina Power",
-      "rows": 308,
+      "rows": 309,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 6.379,
+      "seconds": 6.495,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "adp:Pennoni",
-      "rows": 236,
+      "rows": 233,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 4.736,
+      "seconds": 4.67,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "eightfold:Applied Materials",
-      "rows": 226,
+      "rows": 227,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 31.35,
+      "seconds": 29.294,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "eightfold:Qualcomm",
-      "rows": 127,
+      "rows": 125,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 17.179,
+      "seconds": 16.636,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "eightfold:CACI",
-      "rows": 100,
+      "rows": 99,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 14.548,
+      "seconds": 14.374,
       "status": "ok",
       "new_7d": 0
     },
@@ -158,7 +158,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 2.297,
+      "seconds": 2.207,
       "status": "ok",
       "new_7d": 0
     },
@@ -168,7 +168,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 13.676,
+      "seconds": 13.536,
       "status": "ok",
       "new_7d": 0
     },
@@ -178,7 +178,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 1.245,
+      "seconds": 1.225,
       "status": "ok",
       "new_7d": 0
     },
@@ -188,17 +188,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 1.141,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:The Bernard Group",
-      "rows": 40,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 1.027,
+      "seconds": 1.054,
       "status": "ok",
       "new_7d": 0
     },
@@ -208,7 +198,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.651,
+      "seconds": 0.6,
       "status": "ok",
       "new_7d": 0
     },
@@ -218,17 +208,27 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.626,
+      "seconds": 0.609,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "wfn:The Bernard Group",
+      "rows": 39,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 0.613,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "wfn:Patriot Group International",
-      "rows": 35,
+      "rows": 37,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.59,
+      "seconds": 0.567,
       "status": "ok",
       "new_7d": 0
     },
@@ -238,27 +238,17 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.608,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "eightfold:Starbucks",
-      "rows": 29,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 4.938,
+      "seconds": 0.588,
       "status": "ok",
       "new_7d": 0
     },
     {
       "source": "wfn:Avalon",
-      "rows": 28,
+      "rows": 27,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.61,
+      "seconds": 0.6,
       "status": "ok",
       "new_7d": 0
     },
@@ -268,7 +258,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 22.606,
+      "seconds": 22.169,
       "status": "truncated",
       "new_7d": 0
     },
@@ -278,7 +268,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 23.753,
+      "seconds": 22.626,
       "status": "truncated",
       "new_7d": 0
     },
@@ -288,7 +278,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 18.153,
+      "seconds": 17.494,
       "status": "ok",
       "new_7d": 0
     },
@@ -298,7 +288,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 18.719,
+      "seconds": 17.66,
       "status": "ok",
       "new_7d": 0
     },
@@ -308,7 +298,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 20.165,
+      "seconds": 19.027,
       "status": "ok",
       "new_7d": 0
     },
@@ -318,7 +308,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.183,
+      "seconds": 0.157,
       "status": "ok",
       "new_7d": 0
     },
@@ -328,7 +318,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 8.922,
+      "seconds": 9.518,
       "status": "ok",
       "new_7d": 0
     },
@@ -338,7 +328,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.114,
+      "seconds": 0.115,
       "status": "ok",
       "new_7d": 0
     },
@@ -348,7 +338,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.125,
+      "seconds": 0.113,
       "status": "ok",
       "new_7d": 0
     },
@@ -358,7 +348,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.266,
+      "seconds": 0.111,
       "status": "ok",
       "new_7d": 0
     },
@@ -368,7 +358,17 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.105,
+      "seconds": 0.116,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "eightfold:Starbucks",
+      "rows": 4,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": 0.0,
+      "seconds": 2.774,
       "status": "ok",
       "new_7d": 0
     },
@@ -378,7 +378,7 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.107,
+      "seconds": 0.119,
       "status": "ok",
       "new_7d": 0
     },
@@ -478,13 +478,13 @@
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": 0.0,
-      "seconds": 0.458,
+      "seconds": 0.352,
       "status": "ok",
       "new_7d": 0
     }
   ],
   "stale": {
-    "checked": 63,
+    "checked": 3,
     "dead": 1,
     "days": 14
   },
@@ -508,12 +508,12 @@
     {
       "kind": "quiet",
       "source": "md",
-      "detail": "93.4h since last data"
+      "detail": "100.2h since last data"
     },
     {
       "kind": "quiet",
       "source": "priority",
-      "detail": "113.7h since last data"
+      "detail": "120.5h since last data"
     },
     {
       "kind": "degraded",
