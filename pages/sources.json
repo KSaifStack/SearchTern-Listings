@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:40:52.178924+00:00",
+  "generated_at": "2026-11-12T09:52:41.724096+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,21 +7,21 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 8060
+      "count": 8076
     },
     {
       "name": "ATS career-page probe",
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 6277
+      "count": 6278
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 6277
+      "count": 6278
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -35,7 +35,7 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3213
+      "count": 3216
     },
     {
       "name": "vanshb03 Summer 2027",
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/GodlyDonuts/keryx/main/internships/summer-2027.md",
       "type": "internship",
       "season": "2027",
-      "count": 1455
+      "count": 1454
     },
     {
       "name": "Early Career Radar",
@@ -105,7 +105,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 838
+      "count": 836
     },
     {
       "name": "vanshb03 Off-Season",
@@ -147,7 +147,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/hardware-engineering.md",
       "type": "internship",
       "season": "2027",
-      "count": 562
+      "count": 560
     },
     {
       "name": "speedyapply AI New Grad USA",
@@ -238,7 +238,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/product-management.md",
       "type": "internship",
       "season": "2027",
-      "count": 175
+      "count": 174
     },
     {
       "name": "LorenzoLaCorte EU Internships 2026",
@@ -266,7 +266,7 @@
       "url": "https://raw.githubusercontent.com/ApplyGuy/2027-New-Grad-Jobs/main/data/new-grad-jobs.json",
       "type": "newgrad",
       "season": "2027",
-      "count": 132
+      "count": 130
     },
     {
       "name": "zapplyjobs Canada 2027",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 20
+      "count": 21
     },
     {
       "name": "vanshb03 Summer 2026",

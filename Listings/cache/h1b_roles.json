@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-12T08:07:25Z",
+ "built_at": "2026-11-12T09:56:05Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2139,6 +2139,72 @@
      "count": 10,
      "median_salary": 124720,
      "title": "MANAGER, RISK MANAGEMENT"
+    }
+   ]
+  },
+  "american university": {
+   "fetched_at": "2026-11-12T09:56:05Z",
+   "label": "American University",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 98563,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 114088,
+     "title": "ASSISTANT PROFESSOR TENURE-TRACK, ECONOMICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 93300,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 70889,
+     "title": "ASSISTANT DIRECTOR OF STUDENT DEVELOPMENT AND ENGAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "ASSISTANT PROFESSOR LAW, TENURE-LINE"
+    },
+    {
+     "count": 1,
+     "median_salary": 101518,
+     "title": "ASSISTANT PROFESSOR POLITICAL SCIENCE, TENURE-LINE"
+    },
+    {
+     "count": 1,
+     "median_salary": 85533,
+     "title": "ASSISTANT PROFESSOR TENURE-LINE EARLY CHILDHOOD EDUCATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 117250,
+     "title": "ASSISTANT PROFESSOR TENURE-TRACK"
+    },
+    {
+     "count": 1,
+     "median_salary": 210417,
+     "title": "ASSISTANT PROFESSOR TENURE-TRACK, IT AND ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 96000,
+     "title": "ASSISTANT PROFESSOR TENURE-TRACK, PSYCHOLOGY"
+    },
+    {
+     "count": 1,
+     "median_salary": 91518,
+     "title": "MANAGER, E-LEARNING SUPPORT SERVICES"
+    },
+    {
+     "count": 1,
+     "median_salary": 84619,
+     "title": "SENIOR INSTRUCTIONAL DESIGNER"
     }
    ]
   },
