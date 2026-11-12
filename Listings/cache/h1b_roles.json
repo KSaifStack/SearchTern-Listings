@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-12T18:25:17Z",
+ "built_at": "2026-11-12T18:44:35Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -15281,6 +15281,22 @@
    "label": "Efet",
    "titles": []
   },
+  "egis": {
+   "fetched_at": "2026-11-12T18:44:29Z",
+   "label": "Egis Group",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 105456,
+     "title": "TRANSPORTATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 208240,
+     "title": "DEPUTY DIRECTOR OF BRIDGES AND STRUCTURES"
+    }
+   ]
+  },
   "egisgroup": {
    "fetched_at": "2026-11-03T17:29:16Z",
    "label": "EgisGroup",
@@ -21158,6 +21174,17 @@
      "count": 1,
      "median_salary": 68016,
      "title": "PLANNER II"
+    }
+   ]
+  },
+  "hantz": {
+   "fetched_at": "2026-11-12T18:44:30Z",
+   "label": "Hantz Group",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "SENIOR SOFTWARE ENGINEER"
     }
    ]
   },
@@ -32424,6 +32451,11 @@
    "label": "northwesternmedicine",
    "titles": []
   },
+  "nov": {
+   "fetched_at": "2026-11-12T18:44:31Z",
+   "label": "NOV",
+   "titles": []
+  },
   "novelis": {
    "fetched_at": "2026-10-25T18:39:15Z",
    "label": "novelis",
@@ -32850,6 +32882,37 @@
    "fetched_at": "2026-11-06T16:45:00Z",
    "label": "Own Retail",
    "titles": []
+  },
+  "pa consulting": {
+   "fetched_at": "2026-11-12T18:44:32Z",
+   "label": "PA Consulting",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 90000,
+     "title": "CONSULTANT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 137950,
+     "title": "SENIOR CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 153000,
+     "title": "PRINCIPAL CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SENIOR MECHANICAL ENGINEER"
+    }
+   ]
   },
   "paccar": {
    "fetched_at": "2026-11-03T10:23:52Z",
@@ -35184,6 +35247,11 @@
     }
    ]
   },
+  "re spec": {
+   "fetched_at": "2026-11-12T18:44:33Z",
+   "label": "RE/SPEC Inc.",
+   "titles": []
+  },
   "reckitt reckitt benckiser": {
    "fetched_at": "2026-11-12T08:07:16Z",
    "label": "Reckitt (Reckitt Benckiser)",
@@ -36158,6 +36226,112 @@
    "fetched_at": "2026-11-06T00:34:16Z",
    "label": "Renault",
    "titles": []
+  },
+  "renesas electronics": {
+   "fetched_at": "2026-11-12T18:44:34Z",
+   "label": "Renesas Electronics",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 101532,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 150710,
+     "title": "STAFF APPLICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 209791,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 120057,
+     "title": "SR. ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 125234,
+     "title": "SR. ENGINEER, ELECTRICAL DESIGN"
+    },
+    {
+     "count": 3,
+     "median_salary": 152500,
+     "title": "STAFF ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "ANALOG ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 84000,
+     "title": "ASSOCIATE FIELD APPLICATIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 195000,
+     "title": "CORPORATE COUNSEL"
+    },
+    {
+     "count": 2,
+     "median_salary": 115500,
+     "title": "DIGITAL MARKETING SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 103250,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 151024,
+     "title": "MANAGER, ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 124800,
+     "title": "SALES OPERATION ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 182821,
+     "title": "SR. STAFF APPLICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 136147,
+     "title": "STAFF ANALOG ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 182110,
+     "title": "STAFF SYSTEM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108160,
+     "title": "ANALOG &AMP; MIXED SIGNAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "APPLICATION AND SOLUTION MARKETING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "ASSISTANT MANAGER, ELECTRICAL ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "ASSOCIATE FIELD APPLICATIONS ENNGINEER"
+    }
+   ]
   },
   "renesaselectronics": {
    "fetched_at": "2026-11-10T20:24:04Z",
@@ -47734,6 +47908,97 @@
    "fetched_at": "2026-11-07T06:11:37Z",
    "label": "Walmart",
    "titles": []
+  },
+  "walter p moore": {
+   "fetched_at": "2026-11-12T18:44:34Z",
+   "label": "Walter P Moore",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 85750,
+     "title": "GRADUATE ENGINEER I - STRUCTURES"
+    },
+    {
+     "count": 4,
+     "median_salary": 88450,
+     "title": "GRADUATE ENGINEER II - STRUCTURES"
+    },
+    {
+     "count": 3,
+     "median_salary": 86000,
+     "title": "GRADUATE ENGINEER II - DIAGNOSTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 145600,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 97652,
+     "title": "ENGINEER - STRUCTURES"
+    },
+    {
+     "count": 2,
+     "median_salary": 78780,
+     "title": "GRADUATE ENGINEER I - DIAGNOSTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "COMPUTATIONAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 94611,
+     "title": "ENCLOSURE CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "ENCLOSURE CONSULTANT I - DIAGNOSTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 88434,
+     "title": "GRADUATE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 81016,
+     "title": "GRADUATE ENGINEER II - CIVIL"
+    },
+    {
+     "count": 1,
+     "median_salary": 90480,
+     "title": "GRADUATE ENGINEER II - TRAFFIC"
+    },
+    {
+     "count": 1,
+     "median_salary": 90072,
+     "title": "PARKING DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104552,
+     "title": "SENIOR COMPUTATIONAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "SOFTWARE DEVELOPER I"
+    }
+   ]
   },
   "walterpmoore": {
    "fetched_at": "2026-10-31T14:40:14Z",
