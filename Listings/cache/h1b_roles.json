@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-12T01:17:53Z",
+ "built_at": "2026-11-12T03:45:46Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5486,6 +5486,22 @@
    "fetched_at": "2026-11-03T22:44:20Z",
    "label": "backmarket",
    "titles": []
+  },
+  "bae systems": {
+   "fetched_at": "2026-11-12T03:45:45Z",
+   "label": "BAE Systems",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 129230,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 133432,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    }
+   ]
   },
   "baird": {
    "fetched_at": "2026-11-05T10:41:14Z",
@@ -17810,6 +17826,112 @@
     }
    ]
   },
+  "genentech": {
+   "fetched_at": "2026-11-12T03:45:45Z",
+   "label": "Genentech",
+   "titles": [
+    {
+     "count": 15,
+     "median_salary": 88670,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 12,
+     "median_salary": 126119,
+     "title": "SCIENTIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 128398,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 197616,
+     "title": "INTEGRATED INSIGHTS LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 144481,
+     "title": "ANALYTICAL DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 124051,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 114800,
+     "title": "CRYOEM SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 158612,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152236,
+     "title": "MACHINE LEARNING DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 164458,
+     "title": "MARKET ANALYST, STRATEGIC ANALYTICS &AMP; INTELLIGENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 175386,
+     "title": "P&AMP;C BUSINESS PARTNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 157000,
+     "title": "PHARMACOVIGILANCE SCIENTIST, US PATIENT SAFETY DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 138101,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 142854,
+     "title": "PROJECT MANAGER PACKAGING AND EQUIPMENT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 120202,
+     "title": "SCIENTIST 3"
+    },
+    {
+     "count": 2,
+     "median_salary": 94806,
+     "title": "SCIENTIST, PURIFICATION DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 181049,
+     "title": "SENIOR BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 165600,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 123000,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 181205,
+     "title": "SENIOR IAM ENGINEER"
+    }
+   ]
+  },
   "generac": {
    "fetched_at": "2026-11-07T06:11:29Z",
    "label": "Generac",
@@ -29382,6 +29504,112 @@
    "fetched_at": "2026-11-11T17:58:41Z",
    "label": "NBC Universal",
    "titles": []
+  },
+  "nbcuniversal": {
+   "fetched_at": "2026-11-12T03:45:46Z",
+   "label": "NBCUniversal",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 158974,
+     "title": "SR. SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 152131,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 76180,
+     "title": "ASSOCIATE SOFTWARE ENGINEER, CLOUD OBSERVABILITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 238525,
+     "title": "DIRECTOR, DATA SCIENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "LEAD, DATA SCIENTIST DEEP LEARNING"
+    },
+    {
+     "count": 2,
+     "median_salary": 127400,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 137093,
+     "title": "BUSINESS SOLUTIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 143250,
+     "title": "DATA ENGINEER, CONSUMER DATA"
+    },
+    {
+     "count": 1,
+     "median_salary": 96720,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 101712,
+     "title": "DATA SCIENTIST DEEP LEARNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 126942,
+     "title": "DEVSECOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 223642,
+     "title": "DIRECTOR OF SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 194709,
+     "title": "DIRECTOR, ENTERPRISE ARCHITECTURE"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "DIRECTOR, PLANNING AND ANALYTICS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "DIRECTOR, SAP APPLICATION DEVELOPMENT &AMP; INNOVATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 119038,
+     "title": "LEAD, PRODUCT EXPERIMENTATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 151694,
+     "title": "MANAGER DATA ENGINEERING - TVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 152984,
+     "title": "MANAGER, NETWORK OPERATIONS ENGINEERING"
+    }
+   ]
   },
   "nbcuniversal3": {
    "fetched_at": "2026-10-25T18:06:17Z",
