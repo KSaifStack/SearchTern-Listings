@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-12T09:56:05Z",
+ "built_at": "2026-11-12T10:35:58Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6765,6 +6765,112 @@
      "count": 1,
      "median_salary": 200000,
      "title": "VICE PRESDENT"
+    }
+   ]
+  },
+  "bloom energy": {
+   "fetched_at": "2026-11-12T10:35:52Z",
+   "label": "Bloom Energy",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 160632,
+     "title": "INDUSTRIAL ENGINEER MES APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 157385,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 165500,
+     "title": "FIELD SERVICE PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 215250,
+     "title": "SENIOR COMMODITY MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 157500,
+     "title": "SENIOR NETWORK ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 180180,
+     "title": "SR. LINUX SYSTEMS ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 157293,
+     "title": "SR. STAFF ENGINEER, QUALITY"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "CONSTRUCTION PROJECT COST ESTIMATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "DIRECTOR, ADVANCED MANUFACTURING"
+    },
+    {
+     "count": 1,
+     "median_salary": 255000,
+     "title": "FACTORY ENGINEERING DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 181293,
+     "title": "IT PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 129300,
+     "title": "MECHANICAL ENGINEER, CFD"
+    },
+    {
+     "count": 1,
+     "median_salary": 157975,
+     "title": "MODELING, CONTROLS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 217500,
+     "title": "PROCESS ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114750,
+     "title": "PROGRAM MANAGEMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147950,
+     "title": "SALES OPERATIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 166000,
+     "title": "SENIOR ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 171741,
+     "title": "SENIOR ENERGY TRANSITION CHAMPION"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SENIOR FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 213042,
+     "title": "SENIOR MANAGER, IT"
     }
    ]
   },
@@ -17364,6 +17470,37 @@
     }
    ]
   },
+  "flagship pioneering": {
+   "fetched_at": "2026-11-12T10:35:52Z",
+   "label": "Flagship Pioneering",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "ASSOCIATE DIRECTOR, PORTFOLIO ANALYTICS"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "ASSOCIATE DIRECTOR, STRATEGIC ANALYTICS AND OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 107500,
+     "title": "ASSOCIATE SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 126000,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SENIOR SCIENTIST, TRANSLATIONAL SCIENCE"
+    }
+   ]
+  },
   "flagship pioneering https job boards greenhouse io fspco op012325 jobs 8783960002": {
    "fetched_at": "2026-10-25T19:01:32Z",
    "label": "[Flagship Pioneering](https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002)",
@@ -26009,6 +26146,92 @@
     }
    ]
   },
+  "lightmatter": {
+   "fetched_at": "2026-11-12T10:35:53Z",
+   "label": "Lightmatter",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 172744,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 205000,
+     "title": "STAFF THERMAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "SR. STAFF EMBEDDED QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SR. DESIGN CHARACTERIZATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SR. ENTERPRISE APPLICATIONS ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "SR. PHOTONICS DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 165000,
+     "title": "SR. RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "SR. STAFF ANALOG DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 195000,
+     "title": "SR. STAFF EMBEDDED SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 258000,
+     "title": "SR. STAFF FIELD APPLICATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 221000,
+     "title": "SR. STAFF PHOTONICS DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "STAFF ANALOG IC DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "STAFF DATA PLATFORM ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 197360,
+     "title": "STAFF MECHANICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "STAFF PHOTONIC HARDWARE VALIDATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "STAFF THERMO-MECHANICAL ENGINEER"
+    }
+   ]
+  },
   "lila sciences": {
    "fetched_at": "2026-10-31T20:02:37Z",
    "label": "Lila Sciences",
@@ -27724,6 +27947,62 @@
    "label": "mci",
    "titles": []
   },
+  "medpace": {
+   "fetched_at": "2026-11-12T10:35:54Z",
+   "label": "Medpace",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 122050,
+     "title": "STATISTICAL ANALYST III"
+    },
+    {
+     "count": 4,
+     "median_salary": 147300,
+     "title": "BIOSTATISTICIAN II"
+    },
+    {
+     "count": 3,
+     "median_salary": 90900,
+     "title": "BIOANALYTICAL SCIENTIST I"
+    },
+    {
+     "count": 2,
+     "median_salary": 94900,
+     "title": "DATA ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 86019,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 95550,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 115675,
+     "title": "SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 147600,
+     "title": "BIOINFORMATICS SCIENTIST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 166700,
+     "title": "PRINCIPAL STATISTICAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 92750,
+     "title": "STATISTICAL ANALYST II"
+    }
+   ]
+  },
   "medtronic": {
    "fetched_at": "2026-11-05T16:02:43Z",
    "label": "Medtronic",
@@ -28815,6 +29094,11 @@
   "militaryjobs mci": {
    "fetched_at": "2026-10-26T15:03:51Z",
    "label": "militaryjobs-mci",
+   "titles": []
+  },
+  "minerals technologies": {
+   "fetched_at": "2026-11-12T10:35:55Z",
+   "label": "Minerals Technologies",
    "titles": []
   },
   "mineralstech": {
@@ -32764,6 +33048,112 @@
     }
    ]
   },
+  "pepsico": {
+   "fetched_at": "2026-11-12T10:35:56Z",
+   "label": "PepsiCo",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 95400,
+     "title": "CTO ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 153000,
+     "title": "ENTERPRISE DATA OPERATIONS SR ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 102800,
+     "title": "SC MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 156998,
+     "title": "SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152037,
+     "title": "CTO SR MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 164950,
+     "title": "ENTERPRISE DATA OPERATIONS ASSOC MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 103324,
+     "title": "STRATEGY &AMP; ECOSYSTEM SR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 91270,
+     "title": "ANALYTICS SR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 153317,
+     "title": "APPLICATION ARCHITECT SR. MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127600,
+     "title": "COMMERCIALIZATION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 114700,
+     "title": "COMMUNICATIONS SR SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 124426,
+     "title": "CTO MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144600,
+     "title": "CTO SR ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 163966,
+     "title": "DATA MANAGEMENT &AMP; OPS. MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135907,
+     "title": "DATA MGMT. &AMP; OPS. ASSOC MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 141773,
+     "title": "DATA SCIENCE ASSOCIATE PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 114400,
+     "title": "DISCOVERY &AMP; APP ASSOC PRINCIPAL SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 74568,
+     "title": "ECOM GRAPHIC DESIGN ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 131560,
+     "title": "ECOM PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105100,
+     "title": "ECOM TECH DEV ASSOCIATE"
+    }
+   ]
+  },
   "peraton": {
    "fetched_at": "2026-10-25T19:01:40Z",
    "label": "peraton",
@@ -35085,6 +35475,112 @@
      "count": 1,
      "median_salary": 90800,
      "title": "SENIOR DATA ANALYST"
+    }
+   ]
+  },
+  "riot games": {
+   "fetched_at": "2026-11-12T10:35:57Z",
+   "label": "Riot Games",
+   "titles": [
+    {
+     "count": 16,
+     "median_salary": 176134,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 9,
+     "median_salary": 151549,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 176134,
+     "title": "SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 4,
+     "median_salary": 132100,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 138486,
+     "title": "GAME PRODUCER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 94058,
+     "title": "ILLUSTRATION ARTIST II"
+    },
+    {
+     "count": 3,
+     "median_salary": 123531,
+     "title": "INSIGHTS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 237120,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 135543,
+     "title": "INSIGHTS ANALYST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 141045,
+     "title": "RIGGING TECHNICAL ARTIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 172713,
+     "title": "SENIOR GAME PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 251576,
+     "title": "SR. DIRECTOR, PS PRODUCTION"
+    },
+    {
+     "count": 2,
+     "median_salary": 237141,
+     "title": "SR. PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 137259,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 134669,
+     "title": "TECHNICAL PRODUCER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 138101,
+     "title": "TECHNOLOGY STRATEGIST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 111708,
+     "title": "VISUAL DESIGN ARTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 161907,
+     "title": "3D ENVIRONMENT ARTIST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 134742,
+     "title": "ANIMATION ARTIST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 184995,
+     "title": "DATA ENGINEER III"
     }
    ]
   },
@@ -42389,6 +42885,52 @@
    "fetched_at": "2026-11-03T17:29:25Z",
    "label": "togetherai",
    "titles": []
+  },
+  "toll brothers": {
+   "fetched_at": "2026-11-12T10:35:58Z",
+   "label": "Toll Brothers",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 100842,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 6000,
+     "title": "MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "APPLICATION INTEGRATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 9000,
+     "title": "MARKETING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 178500,
+     "title": "PRODUCT DEVELOPMENT MANAGER - TOLLING AND MOBILITY SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 114900,
+     "title": "PROJECT CONTROL PROFESSIONAL - VDC"
+    },
+    {
+     "count": 1,
+     "median_salary": 106517,
+     "title": "QUALITY TEST LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 105997,
+     "title": "SOFTWARE ENGINEER"
+    }
+   ]
   },
   "toyota": {
    "fetched_at": "2026-10-26T18:40:25Z",
