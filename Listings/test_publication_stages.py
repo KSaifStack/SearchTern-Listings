@@ -136,6 +136,20 @@ def test_publish_writes_one_coherent_generation(tmp_path):
         assert scoped["publication_status"] == "published"
 
 
+def test_release_delivery_audit_ignores_stale_checkout_copy(tmp_path, monkeypatch):
+    monkeypatch.setenv("SEARCHTERN_FEED_DELIVERY", "release")
+    monkeypatch.setenv("SEARCHTERN_RELEASE_TAG", "feed-test")
+    monkeypatch.setenv("SEARCHTERN_REPO", "owner/repo")
+    report = _setup(str(tmp_path))
+    manifest = _publish(str(tmp_path), report)
+
+    pages = tmp_path / "pages"
+    assert manifest["delivery"]["mode"] == "release"
+    (pages / "searchtern.json").write_text("stale", encoding="utf-8")
+    (pages / "listings.json").write_text("stale", encoding="utf-8")
+    feed_manifest.audit(str(tmp_path), check_rows=True)
+
+
 def test_multipage_readme_rows_and_pages_reconcile(tmp_path, monkeypatch):
     report = _setup(str(tmp_path))
     monkeypatch.setattr(readme_generation, "GITHUB_FILE_SIZE_LIMIT", 12_000)

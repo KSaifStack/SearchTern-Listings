@@ -2,9 +2,10 @@
 """SearchTern MCP server (stdio, stdlib only).
 
 Exposes the published SearchTern job feed to any MCP client as four read-only
-tools: search_jobs, recent_jobs, company_jobs, stats. Reads pages/searchtern.json
-from this repo by default; SEARCHTERN_DATA (file path) or SEARCHTERN_DATA_URL
-(http URL) override the source.
+tools: search_jobs, recent_jobs, company_jobs, stats. Resolves the feed from
+pages/feed-manifest.json (release asset) by default, falling back to
+pages/searchtern.json; SEARCHTERN_DATA (file path), SEARCHTERN_DATA_URL, or
+SEARCHTERN_MANIFEST_URL override the source.
 
 Run:  python searchtern_mcp.py
 Wire into a client, e.g. Claude Code / opencode:
@@ -21,8 +22,9 @@ from datetime import UTC, datetime
 PROTOCOL_VERSION = "2024-11-05"
 SERVER_NAME = "searchtern"
 SERVER_VERSION = "1.0.0"
-DEFAULT_DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                            "..", "pages", "searchtern.json")
+PAGES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
+DEFAULT_DATA = os.path.join(PAGES_DIR, "searchtern.json")
+DEFAULT_MANIFEST = os.path.join(PAGES_DIR, "feed-manifest.json")
 DESCRIPTION_CHARS = 400
 
 TOOLS = [
@@ -84,15 +86,42 @@ TOOLS = [
 _DATA = None
 
 
-def _load_data():
-    url = os.environ.get("SEARCHTERN_DATA_URL")
-    path = os.environ.get("SEARCHTERN_DATA") or DEFAULT_DATA
-    if url:
-        with urllib.request.urlopen(url, timeout=60) as resp:
+def _read_manifest(source):
+    if source.startswith(("http://", "https://")):
+        with urllib.request.urlopen(source, timeout=30) as resp:
             raw = resp.read().decode("utf-8")
     else:
-        with open(path, encoding="utf-8") as f:
+        with open(source, encoding="utf-8") as f:
             raw = f.read()
+    payload = json.loads(raw)
+    return payload if isinstance(payload, dict) else {}
+
+
+def _load_data():
+    explicit_path = os.environ.get("SEARCHTERN_DATA")
+    explicit_url = os.environ.get("SEARCHTERN_DATA_URL")
+    if explicit_path:
+        with open(explicit_path, encoding="utf-8") as f:
+            raw = f.read()
+    elif explicit_url:
+        with urllib.request.urlopen(explicit_url, timeout=60) as resp:
+            raw = resp.read().decode("utf-8")
+    else:
+        manifest_source = os.environ.get("SEARCHTERN_MANIFEST_URL") or DEFAULT_MANIFEST
+        if (os.path.exists(manifest_source)
+                or manifest_source.startswith(("http://", "https://"))):
+            manifest = _read_manifest(manifest_source)
+        else:
+            manifest = {}
+        published = manifest.get("published") if isinstance(manifest, dict) else {}
+        entry = published.get("searchtern") if isinstance(published, dict) else {}
+        asset = entry.get("url") if isinstance(entry, dict) else None
+        if str((manifest.get("delivery") or {}).get("mode") or "") == "release" and asset:
+            with urllib.request.urlopen(asset, timeout=60) as resp:
+                raw = resp.read().decode("utf-8")
+        else:
+            with open(DEFAULT_DATA, encoding="utf-8") as f:
+                raw = f.read()
     records = json.loads(raw)
     return [r for r in records if isinstance(r, dict)]
 

@@ -360,6 +360,15 @@ moving the full artifact out of git.
 
 Pre-existing working-tree changes not written here: `Listings/identity.py`, `Listings/test_identity.py`, and the four workflow files that stage `countries/`.
 
+## 2026-11-11 release-asset deployment
+
+The first post-fix light run failed after the scraper and five push retries while the
+feed was 88.95 MB. The release-asset migration is now implemented; see
+[release-assets-2026-11-11.md](release-assets-2026-11-11.md). The feed pair is
+uploaded to the rolling `feed-latest` release, verified by hash, and excluded from
+the commit; only the manifest and small surface are committed. The backend consumer
+migration is still external.
+
 ## Next step
 
 The 2026-11-11 validation phase ([validation-2026-11-11.md](validation-2026-11-11.md))

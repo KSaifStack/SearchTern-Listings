@@ -173,6 +173,12 @@ def build_nav(current_page: int, total_pages: int) -> str:
     return " | ".join(links)
 
 
+def _full_feed_url():
+    if feed_manifest.delivery_mode() == "release":
+        return feed_manifest.asset_url("searchtern.json")
+    return "https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/searchtern.json"
+
+
 def build_header(current_page: int, total_pages: int, total_rows: int, dataframe=None) -> str:
     today = datetime.now(UTC).strftime("%B %d, %Y")
     nav = build_nav(current_page, total_pages)
@@ -225,7 +231,7 @@ labor-condition applications for this job title, `company` means it sponsors H-1
 this exact title, and blank means no signal. Full employer and job-title data lives in
 [pages/h1b.json](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/h1b.json).
 
-**Machine-readable feeds:** [full feed](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/searchtern.json) ·
+**Machine-readable feeds:** [full feed]({_full_feed_url()}) ·
 [15-minute fast lane](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/priority.json) ·
 [H-1B sponsorship data](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/h1b.json) ·
 [RSS (newest 200)](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml).

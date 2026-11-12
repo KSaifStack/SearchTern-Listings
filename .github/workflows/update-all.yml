@@ -47,7 +47,41 @@ jobs:
         # monolithic JSON and 14.5 MB of parts would grow .git by ~170 MB/day.
         env:
           SEARCHTERN_SHARDS: "0"
+          SEARCHTERN_FEED_DELIVERY: "release"
+          SEARCHTERN_RELEASE_TAG: "feed-latest"
+          SEARCHTERN_REPO: ${{ github.repository }}
         run: cd Listings && python generate_listings.py --tier all --ecr
+
+      - name: Publish feed assets
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SEARCHTERN_RELEASE_TAG: "feed-latest"
+        run: |
+          set -euo pipefail
+          tag="$SEARCHTERN_RELEASE_TAG"
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --title "SearchTern feed" \
+              --notes "Rolling latest generated feed assets." --target "$GITHUB_SHA"
+          fi
+          gh release upload "$tag" pages/searchtern.json pages/listings.json --clobber
+          rm -rf /tmp/searchtern-assets && mkdir -p /tmp/searchtern-assets
+          gh release download "$tag" --pattern searchtern.json --dir /tmp/searchtern-assets --clobber
+          gh release download "$tag" --pattern listings.json --dir /tmp/searchtern-assets --clobber
+          python - <<'PY'
+          import hashlib, json, pathlib
+          manifest = json.load(open("pages/feed-manifest.json", encoding="utf-8"))
+          for name in ("searchtern", "listings"):
+              entry = manifest["published"][name]
+              raw = (pathlib.Path("/tmp/searchtern-assets") / f"{name}.json").read_bytes()
+              if len(raw) != int(entry["bytes"]):
+                  raise SystemExit(f"{name}: downloaded {len(raw)} bytes != manifest {entry['bytes']}")
+              if hashlib.sha256(raw).hexdigest() != entry["sha256"]:
+                  raise SystemExit(f"{name}: downloaded sha256 does not match manifest")
+          print("release assets verified against manifest")
+          PY
+          # The feed is a release asset now; restore the compatibility copy so
+          # the commit contains only the small manifest/README/cache surface.
+          git checkout -- pages/searchtern.json pages/listings.json
 
       - name: Commit and push updates
         run: |
@@ -55,7 +89,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           # Explicitly excluding the priority fast-lane file: this run rebuilds
           # from tier caches and must not publish over the 15-minute lane.
-          git add README.md pages/ countries/ digests/ Listings/cache/ ':(exclude)pages/priority.json'
+          git add README.md pages/ countries/ digests/ Listings/cache/ \
+            ':(exclude)pages/priority.json' \
+            ':(exclude)pages/searchtern.json' \
+            ':(exclude)pages/listings.json'
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

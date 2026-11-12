@@ -17,6 +17,7 @@ import glob
 import hashlib
 import json
 import os
+import re
 import shutil
 import tempfile
 import time
@@ -25,6 +26,12 @@ from atomic_fs import write_pairs
 
 MANIFEST_NAME = "feed-manifest.json"
 PUBLISHED_ARTIFACTS = ("listings", "searchtern")
+DELIVERY_ENV = "SEARCHTERN_FEED_DELIVERY"
+RELEASE_TAG_ENV = "SEARCHTERN_RELEASE_TAG"
+RELEASE_REPO_ENV = "SEARCHTERN_REPO"
+DEFAULT_RELEASE_TAG = "feed-latest"
+DEFAULT_RELEASE_REPO = "KSaifStack/SearchTern-Listings"
+SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 LKG_DIR = "last-known-good"
 LKG_CURRENT = "current.json"
 LKG_ARTIFACTS = (*[f"{name}.json" for name in PUBLISHED_ARTIFACTS], MANIFEST_NAME)
@@ -65,6 +72,55 @@ def make_run_id(generated_at, digest):
 
 def marker(generation):
     return GENERATION_MARKER.format(generation=generation or "unknown")
+
+
+def delivery_mode():
+    """Where the feed pair lives: the git checkout (local) or a release asset."""
+    requested = os.environ.get(DELIVERY_ENV, "").strip().lower()
+    return "release" if requested == "release" else "local"
+
+
+def release_tag():
+    return os.environ.get(RELEASE_TAG_ENV, "").strip() or DEFAULT_RELEASE_TAG
+
+
+def release_repo():
+    return os.environ.get(RELEASE_REPO_ENV, "").strip() or DEFAULT_RELEASE_REPO
+
+
+def asset_url(name):
+    """Stable public URL for one rolling feed asset."""
+    return f"https://github.com/{release_repo()}/releases/download/{release_tag()}/{name}"
+
+
+def delivery_descriptor():
+    if delivery_mode() == "release":
+        return {
+            "mode": "release",
+            "repository": release_repo(),
+            "tag": release_tag(),
+        }
+    return {"mode": "local"}
+
+
+def _is_release(manifest):
+    return str((manifest.get("delivery") or {}).get("mode") or "") == "release"
+
+
+def _verify_release_artifact(name, entry):
+    """Validate the metadata that the workflow verifies byte-for-byte after upload."""
+    url = str(entry.get("url") or "").strip()
+    if not url.startswith("https://") or not url.endswith(f"/{name}.json"):
+        raise ManifestMismatch(f"published.{name}.url is not a feed asset URL")
+    try:
+        byte_count = int(entry.get("bytes"))
+        rows = int(entry.get("rows"))
+    except (TypeError, ValueError) as exc:
+        raise ManifestMismatch(f"published.{name} has invalid bytes/rows") from exc
+    if byte_count <= 0 or rows < 0:
+        raise ManifestMismatch(f"published.{name} has invalid bytes/rows")
+    if not SHA256_RE.fullmatch(str(entry.get("sha256") or "").lower()):
+        raise ManifestMismatch(f"published.{name} has an invalid sha256")
 
 
 def _root_of(pages_dir):
@@ -351,10 +407,14 @@ def verify(pages_dir, manifest=None, check_rows=False):
     if not isinstance(published, dict):
         raise ManifestMismatch("manifest has no published section")
 
+    release = _is_release(manifest)
     for name in PUBLISHED_ARTIFACTS:
         entry = published.get(name)
         if not isinstance(entry, dict):
             raise ManifestMismatch(f"manifest has no published.{name}")
+        if release:
+            _verify_release_artifact(name, entry)
+            continue
         path = os.path.join(pages_dir, f"{name}.json")
         try:
             with open(path, encoding="utf-8") as handle:

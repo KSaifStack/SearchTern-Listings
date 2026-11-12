@@ -291,24 +291,31 @@ def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
     generated_at = datetime.now(UTC)
     mirror_digest = hashlib.sha256(mirror_text.encode("utf-8")).hexdigest()
     run_id = feed_manifest.make_run_id(generated_at, mirror_digest)
+    delivery = feed_manifest.delivery_descriptor()
+    release = delivery["mode"] == "release"
     manifest = {
         "schema_version": 1,
         "run_id": run_id,
         "generated_at": generated_at.isoformat(),
         "status": "degraded" if degraded else "ok",
         "publication_status": "published",
+        "delivery": delivery,
         "published": {
             "listings": {
                 "path": "pages/listings.json",
                 "rows": len(clean_records),
                 "bytes": len(listing_text.encode("utf-8")),
                 "sha256": hashlib.sha256(listing_text.encode("utf-8")).hexdigest(),
+                "url": (feed_manifest.asset_url("listings.json")
+                        if release else None),
             },
             "searchtern": {
                 "path": "pages/searchtern.json",
                 "rows": len(mirror_records),
                 "bytes": len(mirror_text.encode("utf-8")),
                 "sha256": mirror_digest,
+                "url": (feed_manifest.asset_url("searchtern.json")
+                        if release else None),
             },
         },
         "required_sources": list(required_sources),
