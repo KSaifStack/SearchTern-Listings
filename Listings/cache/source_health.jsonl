@@ -4066,3 +4066,49 @@
 {"ts": 1794504385.208753, "source": "breadth:Remotive", "discovered": 14, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794504385.208753, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794504385.208753, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.308, "status": "ok"}
+{"ts": 1794507949.406129, "source": "freehire", "discovered": 7268, "valid": 5472, "new": 9, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "ecr", "discovered": 9625, "valid": 5392, "new": 7, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "jobhive", "discovered": 0, "valid": 15305, "new": 5, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth", "discovered": 0, "valid": 0, "new": 3, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "ats", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "freehire-pages", "discovered": 7300, "valid": 7268, "new": 0, "seconds": 22.052, "status": "ok"}
+{"ts": 1794507949.406129, "source": "oracle:WSP", "discovered": 2000, "valid": 2000, "new": 0, "seconds": 35.737, "status": "truncated"}
+{"ts": 1794507949.406129, "source": "oracle:Stantec", "discovered": 1656, "valid": 1656, "new": 0, "seconds": 23.899, "status": "ok"}
+{"ts": 1794507949.406129, "source": "adp:Carolina Power", "discovered": 327, "valid": 327, "new": 0, "seconds": 17.333, "status": "ok"}
+{"ts": 1794507949.406129, "source": "adp:Pennoni", "discovered": 234, "valid": 234, "new": 0, "seconds": 5.723, "status": "ok"}
+{"ts": 1794507949.406129, "source": "eightfold:Applied Materials", "discovered": 224, "valid": 224, "new": 0, "seconds": 30.114, "status": "ok"}
+{"ts": 1794507949.406129, "source": "eightfold:Qualcomm", "discovered": 125, "valid": 125, "new": 0, "seconds": 17.5, "status": "ok"}
+{"ts": 1794507949.406129, "source": "eightfold:CACI", "discovered": 101, "valid": 101, "new": 0, "seconds": 14.965, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Intuitive Machines", "discovered": 93, "valid": 93, "new": 0, "seconds": 2.249, "status": "ok"}
+{"ts": 1794507949.406129, "source": "eightfold:Arcadis", "discovered": 78, "valid": 78, "new": 0, "seconds": 15.024, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:North Wind", "discovered": 52, "valid": 52, "new": 0, "seconds": 1.285, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Veterinary United", "discovered": 44, "valid": 44, "new": 0, "seconds": 1.093, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Drt Holdings", "discovered": 40, "valid": 40, "new": 0, "seconds": 1.102, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Community Care Plan", "discovered": 39, "valid": 39, "new": 0, "seconds": 0.608, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:The Bernard Group", "discovered": 39, "valid": 39, "new": 0, "seconds": 0.616, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Patriot Group International", "discovered": 36, "valid": 36, "new": 0, "seconds": 0.648, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Pathstone", "discovered": 36, "valid": 36, "new": 0, "seconds": 0.747, "status": "ok"}
+{"ts": 1794507949.406129, "source": "eightfold:Starbucks", "discovered": 28, "valid": 28, "new": 0, "seconds": 4.986, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Avalon", "discovered": 27, "valid": 27, "new": 0, "seconds": 0.584, "status": "ok"}
+{"ts": 1794507949.406129, "source": "icims:Peraton", "discovered": 25, "valid": 25, "new": 0, "seconds": 23.568, "status": "truncated"}
+{"ts": 1794507949.406129, "source": "icims:Novelis", "discovered": 25, "valid": 25, "new": 0, "seconds": 23.71, "status": "truncated"}
+{"ts": 1794507949.406129, "source": "icims:General Dynamics Mission Systems", "discovered": 20, "valid": 20, "new": 0, "seconds": 18.127, "status": "ok"}
+{"ts": 1794507949.406129, "source": "icims:Dewberry", "discovered": 20, "valid": 20, "new": 0, "seconds": 19.293, "status": "ok"}
+{"ts": 1794507949.406129, "source": "icims:Sargent & Lundy", "discovered": 20, "valid": 20, "new": 0, "seconds": 20.423, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Steinberg Diagnostic Medical Imaging", "discovered": 15, "valid": 15, "new": 0, "seconds": 0.151, "status": "ok"}
+{"ts": 1794507949.406129, "source": "bamboohr:Lunar Outpost", "discovered": 11, "valid": 11, "new": 0, "seconds": 9.052, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Meazure Learning", "discovered": 10, "valid": 10, "new": 0, "seconds": 0.119, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Arcadia", "discovered": 9, "valid": 9, "new": 0, "seconds": 0.123, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Curious Plot", "discovered": 7, "valid": 7, "new": 0, "seconds": 0.111, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Carlos Rosario Public Charter School", "discovered": 5, "valid": 5, "new": 0, "seconds": 0.105, "status": "ok"}
+{"ts": 1794507949.406129, "source": "wfn:Canaccord Genuity", "discovered": 2, "valid": 2, "new": 0, "seconds": 0.106, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:Arbeitnow", "discovered": 300, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:RemoteOK", "discovered": 98, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:Jobicy", "discovered": 50, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:Working Nomads", "discovered": 37, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:HN who-is-hiring", "discovered": 33, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:Remotive", "discovered": 14, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794507949.406129, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.442, "status": "ok"}

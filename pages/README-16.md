@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 16
 
-**Page 16 of 36 — 17,716 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 16 of 36 — 17,758 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-17.md)
 
@@ -24,6 +24,182 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/4986346101">↳ <strong>Fever Up</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Production / Stage Assistant (Freelance)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sofia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/feverup/jobs/4986346101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Assago-Via-del-Mulino-11a/Stage-Finance-Business-Analyst---ERP-Microsoft-Dynamics-365_R00314254"><strong>Avanade</strong></a></td>
+<td title="Stage Finance Business Analyst - ERP Microsoft Dynamics 365" style="word-break:break-word; overflow-wrap:anywhere;">Stage Finance Business Analyst - ERP Microsof...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2 Locations</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Assago-Via-del-Mulino-11a/Stage-Finance-Business-Analyst---ERP-Microsoft-Dynamics-365_R00314254" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624"><strong>Avanade</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer | Microsoft Azure</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2 Locations</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Stockholm/Junior-Data-Engineer-Microsoft-Fabric---Azure_R00362624" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037"><strong>Avanade</strong></a></td>
+<td title="Junior M365 Developer (SharePoint / SPFx / React)" style="word-break:break-word; overflow-wrap:anywhere;">Junior M365 Developer (SharePoint / SPFx / Re...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">3 Locations</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Madrid-Castellana-85/Junior-M365-Developer--SharePoint---SPFx---React-_R00368037" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Dusseldorf/AI-Workforce-Junior-Academy---AI-Consultant--m-w-x-_R00366486">↳ <strong>Avanade</strong></a></td>
+<td title="Dusseldorf AI Workforce Junior Academy - AI Consultant (m/w/x)" style="word-break:break-word; overflow-wrap:anywhere;">Dusseldorf AI Workforce Junior Academy - AI C...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dusseldorf</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Dusseldorf/AI-Workforce-Junior-Academy---AI-Consultant--m-w-x-_R00366486" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Kronberg-Campus-Kronberg-1/AI-Workforce-Junior-Academy---AI-Consultant--m-w-x-_R00366492">↳ <strong>Avanade</strong></a></td>
+<td title="Kronberg AI Workforce Junior Academy - AI Consultant (m/w/x)" style="word-break:break-word; overflow-wrap:anywhere;">Kronberg AI Workforce Junior Academy - AI Con...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kronberg<br>Campus Kronberg 1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Kronberg-Campus-Kronberg-1/AI-Workforce-Junior-Academy---AI-Consultant--m-w-x-_R00366492" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Voecklamarkt/AI-Workforce-Junior-Academy---AI-Consultant--m-w-x-_R00366529">↳ <strong>Avanade</strong></a></td>
+<td title="Voecklamarkt AI Workforce Junior Academy - AI Consultant (m/w/x)" style="word-break:break-word; overflow-wrap:anywhere;">Voecklamarkt AI Workforce Junior Academy - AI...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Voecklamarkt</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Voecklamarkt/AI-Workforce-Junior-Academy---AI-Consultant--m-w-x-_R00366529" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217"><strong>Avanade</strong></a></td>
+<td title="Internship Data &amp; AI / AI-Powered Internal Business Assistant" style="word-break:break-word; overflow-wrap:anywhere;">Internship Data &amp; AI / AI-Powered Internal Bu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brussels</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship-Data---AI---AI-Powered-Internal-Business-Assistant_R00366217" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">20d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937"><strong>Avanade</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Exchange 106</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Kuala-Lumpur-Exchange-106/Software-Engineer-Intern_R00347937" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">27d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529"><strong>Avanade</strong></a></td>
+<td title="Internship: Software Engineer Avanade Agentic Engineering Factory" style="word-break:break-word; overflow-wrap:anywhere;">Internship: Software Engineer Avanade Agentic...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brussels</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship--Software-Engineer-Avanade-Agentic-Engineering-Factory_R00363529" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280">↳ <strong>Avanade</strong></a></td>
+<td title="Internship: Azure Platform Engineer Avanade Agentic Engineering Factory" style="word-break:break-word; overflow-wrap:anywhere;">Internship: Azure Platform Engineer Avanade A...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brussels</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Internship--Azure-Platform-Engineer-Avanade-Agentic-Engineering-Factory_R00363280" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Graduation-Internship-in-Dynamics-365--Contact-Center-and-Power-Platform_R00363123">↳ <strong>Avanade</strong></a></td>
+<td title="Graduation Internship in Dynamics 365 Contact Center and Power Platform" style="word-break:break-word; overflow-wrap:anywhere;">Graduation Internship in Dynamics 365 Contact...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brussels</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Graduation-Internship-in-Dynamics-365--Contact-Center-and-Power-Platform_R00363123" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110">↳ <strong>Avanade</strong></a></td>
+<td title="Graduation Internship in ERP Functional Consulting: AI Powered Dynamics 365 ERP" style="word-break:break-word; overflow-wrap:anywhere;">Graduation Internship in ERP Functional Consu...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brussels</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Graduation-Internship-in-ERP-Functional--Consulting--AI-Powered-Dynamics-365-ERP_R00363110" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212">↳ <strong>Avanade</strong></a></td>
+<td title="Graduation Internship in Customer Engagement: AI Powered Power Platform Solution Governance" style="word-break:break-word; overflow-wrap:anywhere;">Graduation Internship in Customer Engagement:...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brussels</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Brussels/Graduation-Internship-in-Customer--Engagement--AI-Powered-Power-Platform--Solution-Governance_R00363212" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Tokyo/Oct-2027-Avanade-New-Graduate-Program-for-Engineer--Boston-Career-Forum-2026-_R00349949">↳ <strong>Avanade</strong></a></td>
+<td title="Oct 2027 Avanade New Graduate Program for Engineer (Boston Career Forum 2026)" style="word-break:break-word; overflow-wrap:anywhere;">Oct 2027 Avanade New Graduate Program for Eng...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tokyo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Tokyo/Oct-2027-Avanade-New-Graduate-Program-for-Engineer--Boston-Career-Forum-2026-_R00349949" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Tokyo/April-2028-Avanade-New-Graduate-Program-for-Engineer--Boston-Career-Forum-2026-_R00349956">↳ <strong>Avanade</strong></a></td>
+<td title="April 2028 Avanade New Graduate Program for Engineer (Boston Career Forum 2026)" style="word-break:break-word; overflow-wrap:anywhere;">April 2028 Avanade New Graduate Program for E...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tokyo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Tokyo/April-2028-Avanade-New-Graduate-Program-for-Engineer--Boston-Career-Forum-2026-_R00349956" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Singapore/Product-Development---Business-Analysis-Intern_R00360609">↳ <strong>Avanade</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Development &amp; Business Analysis Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Singapore/Product-Development---Business-Analysis-Intern_R00360609" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1">↳ <strong>Avanade</strong></a></td>
+<td title="Junior Software Engineer (.NET / Java / AI / DevOps)(Categorie Protette - L.68/99)" style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer (.NET / Java / AI / ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">6 Locations</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Bologna/Junior-Developer--Categorie-Protette---L68-99-_R00306070-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Singapore/Digital-Business-Analyst-Intern_R00299106">↳ <strong>Avanade</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Digital Business Analyst Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Singapore/Digital-Business-Analyst-Intern_R00299106" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409">↳ <strong>Avanade</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Secure Cloud Platform Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2 Locations</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Assago-Via-del-Mulino-11a/Secure-Cloud-Platform-Intern_R00297409" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Perugia-Euroimpresa-Avanade/Stage-ERP-Developer_R00313548">↳ <strong>Avanade</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Stage ERP Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Perugia<br>Euroimpresa<br>Avanade</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://accenture.wd103.myworkdayjobs.com/job/Perugia-Euroimpresa-Avanade/Stage-ERP-Developer_R00313548" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://geaerospace.wd5.myworkdayjobs.com/job/Bengaluru/Data-Science-Intern_R5040035-1"><strong>Ge Aerospace</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://geaerospace.wd5.myworkdayjobs.com/job/Bengaluru/Data-Science-Intern_R5040035-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://geaerospace.wd5.myworkdayjobs.com/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1"><strong>Ge Aerospace</strong></a></td>
 <td title="Design Engineering Intern - Bohemia, NY - Summer 2027" style="word-break:break-word; overflow-wrap:anywhere;">Design Engineering Intern - Bohemia, NY - Sum...</td>
@@ -3480,176 +3656,8 @@
 <td style="white-space:nowrap;">Today</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Mississauga-Milverton-Drive/QA-Student-Intern_451338"><strong>GSK</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">QA Student Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mississauga Milverton Drive</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Mississauga-Milverton-Drive/QA-Student-Intern_451338" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/MSAT-Engineer-Trainee--Attach-and-Train-Programme-_451229"><strong>GSK</strong></a></td>
-<td title="MSAT Engineer Trainee (Attach and Train Programme)" style="word-break:break-word; overflow-wrap:anywhere;">MSAT Engineer Trainee (Attach and Train Progr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Tuas</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/MSAT-Engineer-Trainee--Attach-and-Train-Programme-_451229" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Jurong/Career-Conversion-Programme---Manufacturing-Engineer--Value-Stream-3-_428940"><strong>GSK</strong></a></td>
-<td title="Manufacturing Engineer Trainee (Attach and Train Programme)" style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Engineer Trainee (Attach and Tr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Jurong</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Jurong/Career-Conversion-Programme---Manufacturing-Engineer--Value-Stream-3-_428940" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Jurong/Career-Conversion-Programme--AnT----Instrument-Engineer_437758"><strong>GSK</strong></a></td>
-<td title="Instrument Engineer Trainee (Attach and Train Programme)" style="word-break:break-word; overflow-wrap:anywhere;">Instrument Engineer Trainee (Attach and Train...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Jurong</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Jurong/Career-Conversion-Programme--AnT----Instrument-Engineer_437758" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661">↳ <strong>GSK</strong></a></td>
-<td title="Polytechnic Internship - QA Operations, Singapore (March to August/November 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Polytechnic Internship - QA Operations, Singa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Tuas</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/Polytechnic-Internship---QA-Operations--Singapore--March-2027-to-August-2027-_450661" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/MSAT-Engineer-Product-Specialist-Trainee--Attach-and-Train-Programme-_448991"><strong>GSK</strong></a></td>
-<td title="MSAT Engineer Product Specialist Trainee (Attach and Train Programme)" style="word-break:break-word; overflow-wrap:anywhere;">MSAT Engineer Product Specialist Trainee (Att...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Tuas</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/MSAT-Engineer-Product-Specialist-Trainee--Attach-and-Train-Programme-_448991" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Petaling-Jaya-Horizon-Penthouse/Internship---Oncology-Marketing---Product-Management--Feb-Mar-2027-to-Aug-Sept-2027-_449612-1"><strong>GSK</strong></a></td>
-<td title="Internship - Oncology Marketing &amp; Product Management (Feb/Mar 2027 to Aug/Sept 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Internship - Oncology Marketing &amp; Product Man...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Petaling Jaya Horizon Penthouse</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Petaling-Jaya-Horizon-Penthouse/Internship---Oncology-Marketing---Product-Management--Feb-Mar-2027-to-Aug-Sept-2027-_449612-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Close---Control----Feb-Mar-2027-to-Aug-Sept-2027_449241-1">↳ <strong>GSK</strong></a></td>
-<td title="Internship - Finance Analyst (Close &amp; Control) - Feb/Mar 2027 to Aug/Sept 2027" style="word-break:break-word; overflow-wrap:anywhere;">Internship - Finance Analyst (Close &amp; Control...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Malaysia - Petaling Jaya</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Close---Control----Feb-Mar-2027-to-Aug-Sept-2027_449241-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Financial-Planning---Forecasting----Feb-Mar-2027-to-Aug-Sept-2027_449240">↳ <strong>GSK</strong></a></td>
-<td title="Internship - Finance Analyst (Financial Planning &amp; Forecasting) - Feb/Mar 2027 to Aug/Sept 2027" style="word-break:break-word; overflow-wrap:anywhere;">Internship - Finance Analyst (Financial Plann...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Malaysia - Petaling Jaya</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Financial-Planning---Forecasting----Feb-Mar-2027-to-Aug-Sept-2027_449240" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Purchase-to-Pay----Feb-Mar-2027-to-Aug-Sept-2027_449238-1">↳ <strong>GSK</strong></a></td>
-<td title="Internship - Finance Analyst (Purchase to Pay) - Feb/Mar 2027 to Aug/Sept 2027" style="word-break:break-word; overflow-wrap:anywhere;">Internship - Finance Analyst (Purchase to Pay...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Malaysia - Petaling Jaya</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Malaysia---Petaling-Jaya/Internship---Finance-Analyst--Purchase-to-Pay----Feb-Mar-2027-to-Aug-Sept-2027_449238-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/Career-Conversion-Programme---Value-Stream-Engineer_437165">↳ <strong>GSK</strong></a></td>
-<td title="Value Stream Engineer Trainee (Attach and Train Programme)" style="word-break:break-word; overflow-wrap:anywhere;">Value Stream Engineer Trainee (Attach and Tra...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore - Tuas</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://gsk.wd5.myworkdayjobs.com/job/Singapore---Tuas/Career-Conversion-Programme---Value-Stream-Engineer_437165" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Health-Management-and-Predictive-Analytics-Engineer-Internship_JR10457290"><strong>Airbus</strong></a></td>
-<td title="#Discover I 2027-2028 Health Management and Predictive Analytics Engineer Internship" style="word-break:break-word; overflow-wrap:anywhere;">#Discover I 2027-2028 Health Management and P...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Getafe Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Health-Management-and-Predictive-Analytics-Engineer-Internship_JR10457290" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Manching/Junior-Simulation-Software-Developer-C-C----m-f-d-_JR10445861">↳ <strong>Airbus</strong></a></td>
-<td title="Junior Simulation Software Developer C/C++ (m/f/d)" style="word-break:break-word; overflow-wrap:anywhere;">Junior Simulation Software Developer C/C++ (m...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manching</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Manching/Junior-Simulation-Software-Developer-C-C----m-f-d-_JR10445861" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Safety-Engineer-Internship_JR10457408">↳ <strong>Airbus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">#Discover I 2027-2028 Safety Engineer Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Getafe Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/XMLNAME--Discover-I-2027-2028-Safety-Engineer-Internship_JR10457408" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/Discover-I-2027-2028-INTERNSHIP-in-Structural-Test-Laboratory---Systems-Area_JR10453849">↳ <strong>Airbus</strong></a></td>
-<td title="Discover I 2027-2028 INTERNSHIP in Structural Test Laboratory &amp; Systems Area" style="word-break:break-word; overflow-wrap:anywhere;">Discover I 2027-2028 INTERNSHIP in Structural...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Getafe Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/Discover-I-2027-2028-INTERNSHIP-in-Structural-Test-Laboratory---Systems-Area_JR10453849" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/XMLNAME--Discover-I-2027-2028---Digital-Transformation---Data-Strategy_JR10455853">↳ <strong>Airbus</strong></a></td>
-<td title="#Discover I 2027-2028 - Digital Transformation &amp; Data Strategy Internship" style="word-break:break-word; overflow-wrap:anywhere;">#Discover I 2027-2028 - Digital Transformatio...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Getafe Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Getafe-Area/XMLNAME--Discover-I-2027-2028---Digital-Transformation---Data-Strategy_JR10455853" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Mnchen-Area/Master-Thesis-Student--d-f-m--on-Cloud-Data-Analytics---Pipelines_JR10453344">↳ <strong>Airbus</strong></a></td>
-<td title="Master Thesis Student (d/f/m) on Cloud Data Analytics &amp; Pipelines" style="word-break:break-word; overflow-wrap:anywhere;">Master Thesis Student (d/f/m) on Cloud Data A...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">München Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Mnchen-Area/Master-Thesis-Student--d-f-m--on-Cloud-Data-Analytics---Pipelines_JR10453344" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Eurodrone-Process-Engineer-Intern_JR10455451">↳ <strong>Airbus</strong></a></td>
-<td title="#Discover I 2027-2028 Eurodrone Process Engineer Intern" style="word-break:break-word; overflow-wrap:anywhere;">#Discover I 2027-2028 Eurodrone Process Engin...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sevilla - Tablada</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-Eurodrone-Process-Engineer-Intern_JR10455451" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Bremen-Area/Werkstudent--d-m-w--im-Bereich-Space-Systems-Quality_JR10445156">↳ <strong>Airbus</strong></a></td>
-<td title="Werkstudent (d/m/w) im Bereich Space Systems Quality" style="word-break:break-word; overflow-wrap:anywhere;">Werkstudent (d/m/w) im Bereich Space Systems ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bremen Area</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Bremen-Area/Werkstudent--d-m-w--im-Bereich-Space-Systems-Quality_JR10445156" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Immenstaad-am-Bodensee/Internship--d-f-m----Electrical-Engineering-and-Test_JR10454974"><strong>Airbus</strong></a></td>
-<td title="Internship (d/f/m) - Electrical Engineering and Test" style="word-break:break-word; overflow-wrap:anywhere;">Internship (d/f/m) - Electrical Engineering a...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Immenstaad am Bodensee</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Immenstaad-am-Bodensee/Internship--d-f-m----Electrical-Engineering-and-Test_JR10454974" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ag.wd3.myworkdayjobs.com/job/Manching/Working-Student--d-f-m--Simulation-Control-UI-Software-Infrastructure_JR10434146">↳ <strong>Airbus</strong></a></td>
-<td title="Working Student (d/f/m) Simulation Control UI Software Infrastructure" style="word-break:break-word; overflow-wrap:anywhere;">Working Student (d/f/m) Simulation Control UI...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manching</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ag.wd3.myworkdayjobs.com/job/Manching/Working-Student--d-f-m--Simulation-Control-UI-Software-Infrastructure_JR10434146" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
 </tbody>
 </table>
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-15.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-17.md)
-<!-- searchtern:generation 20261112T172712Z-0009667804fa -->
+<!-- searchtern:generation 20261112T182646Z-6c04ec8c4d80 -->
