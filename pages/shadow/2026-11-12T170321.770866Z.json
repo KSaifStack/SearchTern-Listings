@@ -2,6 +2,15 @@
  "additions": [],
  "ats_conflicts": [
   {
+   "ats_id": "104563",
+   "ats_types": [
+    "cornerstone",
+    "ycombinator"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "10999",
    "ats_types": [
     "phenom",
@@ -47,15 +56,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "135",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "13575",
    "ats_types": [
     "icims",
@@ -68,15 +68,6 @@
    "ats_id": "1393",
    "ats_types": [
     "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1470",
-   "ats_types": [
-    "bamboohr",
     "icims"
    ],
    "count": 2,
@@ -138,6 +129,15 @@
   },
   {
    "ats_id": "18263",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "18392",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -353,28 +353,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "303",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "3049",
    "ats_types": [
     "cornerstone",
     "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "305",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -416,15 +398,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3242",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "3243",
    "ats_types": [
     "cornerstone",
@@ -438,15 +411,6 @@
    "ats_types": [
     "cornerstone",
     "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "326",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -470,21 +434,13 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "332",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "370",
    "ats_types": [
     "bamboohr",
+    "cornerstone",
     "taleo"
    ],
-   "count": 2,
+   "count": 3,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -524,24 +480,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4120",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "4121",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "4125",
    "ats_types": [
     "cornerstone",
@@ -555,6 +493,15 @@
    "ats_types": [
     "cornerstone",
     "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "434",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -615,9 +562,9 @@
   }
  ],
  "base": {
-  "identities": 56595,
+  "identities": 54385,
   "path": "pages/searchtern.json",
-  "rows": 56595
+  "rows": 54385
  },
  "dropped_at_write": {
   "by_reason": {},
@@ -631,21 +578,21 @@
  },
  "expired": [
   {
-   "age_hours": -0.03,
-   "rows": 785,
+   "age_hours": -0.04,
+   "rows": 714,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.02,
-   "rows": 60,
+   "rows": 47,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.4,
+   "age_hours": -0.23,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
@@ -653,56 +600,56 @@
   },
   {
    "age_hours": -0.01,
-   "rows": 5375,
+   "rows": 5378,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.38,
-   "rows": 23373,
+   "age_hours": -0.21,
+   "rows": 11311,
    "source": "heavy",
-   "status": "ok",
+   "status": "ok:recovered",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.01,
-   "rows": 46885,
+   "rows": 46989,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.43,
-   "rows": 133,
+   "age_hours": -0.36,
+   "rows": 745,
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.39,
-   "rows": 41871,
+   "age_hours": -0.22,
+   "rows": 41967,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.01,
-   "rows": 5471,
+   "rows": 5467,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.38,
+   "age_hours": -0.22,
    "rows": 365,
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.4,
-   "rows": 11,
+   "age_hours": -0.23,
+   "rows": 9,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168
@@ -712,8 +659,8 @@
   "additions": {
    "attributed": 0,
    "reason": "the source that first supplied the identity key",
-   "total": -126,
-   "unattributed": -126
+   "total": -131,
+   "unattributed": -131
   },
   "removals": {
    "all": [],
@@ -723,7 +670,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-12T07:40:52.178924+00:00",
+ "generated_at": "2026-11-12T17:03:21.770866+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -750,15 +697,15 @@
  },
  "source_contributions": [],
  "summary": {
-  "added": -126,
-  "ats_conflicts": 68,
+  "added": -131,
+  "ats_conflicts": 62,
   "dropped_at_write": 0,
   "duplicates": 0,
   "expired_snapshots": 11,
-  "production_rows": 56595,
+  "production_rows": 54385,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 56469,
+  "shadow_rows": 54254,
   "unexplained_removed": 0
  }
 }

@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-12T10:35:58Z",
+ "built_at": "2026-11-12T17:25:42Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -153,6 +153,11 @@
    "label": "AccorHotel",
    "titles": []
   },
+  "aclu internships": {
+   "fetched_at": "2026-11-12T17:25:22Z",
+   "label": "ACLU - Internships",
+   "titles": []
+  },
   "aclu kentucky": {
    "fetched_at": "2026-10-28T15:08:11Z",
    "label": "ACLU Kentucky",
@@ -162,6 +167,82 @@
    "fetched_at": "2026-10-24T20:11:04Z",
    "label": "acluinternships",
    "titles": []
+  },
+  "actalent services": {
+   "fetched_at": "2026-11-12T17:25:23Z",
+   "label": "Actalent Services",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 89940,
+     "title": "PROJECT LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 105576,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 79373,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97032,
+     "title": "EMBEDDED ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "ENGINEER - DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 82400,
+     "title": "ENGINEER - MECHANICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 69880,
+     "title": "ENGINEER-MECHANICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 88712,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90100,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90920,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110402,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97032,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 99280,
+     "title": "SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99560,
+     "title": "SR. PROJECT ENGINEER"
+    }
+   ]
   },
   "actalentservices": {
    "fetched_at": "2026-10-24T20:11:05Z",
@@ -390,6 +471,17 @@
     }
    ]
   },
+  "aecom": {
+   "fetched_at": "2026-11-12T17:25:24Z",
+   "label": "AECOM",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 305000,
+     "title": "VICE PRESIDENT OF AI &AMP; AUTOMATION"
+    }
+   ]
+  },
   "aecom2": {
    "fetched_at": "2026-10-24T20:11:07Z",
    "label": "aecom2",
@@ -567,6 +659,47 @@
    "label": "aia",
    "titles": []
   },
+  "ail": {
+   "fetched_at": "2026-11-12T17:25:25Z",
+   "label": "AIL",
+   "titles": []
+  },
+  "air liquide": {
+   "fetched_at": "2026-11-12T17:25:25Z",
+   "label": "Air Liquide",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 71115,
+     "title": "DATA ENGINEER ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 138403,
+     "title": "QUALITY ADVANCE PROCESS CONTROLS PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 135512,
+     "title": "EMPLOYEE EXPERIENCE PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 126589,
+     "title": "HEAD SCM"
+    },
+    {
+     "count": 1,
+     "median_salary": 115398,
+     "title": "PRODUCT DELIVERY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 136802,
+     "title": "SENIOR PROJECT ENGINEER"
+    }
+   ]
+  },
   "airbus": {
    "fetched_at": "2026-11-05T10:41:12Z",
    "label": "Airbus",
@@ -676,6 +809,11 @@
   "aisle and abroad": {
    "fetched_at": "2026-10-24T20:11:11Z",
    "label": "aisle_and_abroad",
+   "titles": []
+  },
+  "aisles abroad": {
+   "fetched_at": "2026-11-12T17:25:27Z",
+   "label": "Aisles & Abroad",
    "titles": []
   },
   "albertsons companies": {
@@ -1234,6 +1372,11 @@
      "title": "DIR - SOFTWARE ENG LEAD"
     }
    ]
+  },
+  "alphabe insight": {
+   "fetched_at": "2026-11-12T17:25:28Z",
+   "label": "Alphabe Insight Inc",
+   "titles": []
   },
   "alphabeinsightinc": {
    "fetched_at": "2026-10-24T20:11:12Z",
@@ -2816,6 +2959,11 @@
     }
    ]
   },
+  "ao globe life": {
+   "fetched_at": "2026-11-12T17:25:29Z",
+   "label": "AO Globe Life",
+   "titles": []
+  },
   "aogarciaagency": {
    "fetched_at": "2026-10-24T22:23:14Z",
    "label": "aogarciaagency",
@@ -3863,6 +4011,22 @@
      "count": 6,
      "median_salary": 124456,
      "title": "MECHANICAL ARCHITECT 2"
+    }
+   ]
+  },
+  "aspen dental": {
+   "fetched_at": "2026-11-12T17:25:30Z",
+   "label": "Aspen Dental",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 182000,
+     "title": "DENTIST ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 169000,
+     "title": "DENTIST MANAGING CLINICAL DIRECTOR"
     }
    ]
   },
@@ -6251,6 +6415,17 @@
     }
    ]
   },
+  "bayada home health care": {
+   "fetched_at": "2026-11-12T17:25:31Z",
+   "label": "BAYADA Home Health Care",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 159500,
+     "title": "SUPERVISOR, TECHNICAL LEAD, SOFTWARE ENGINEER"
+    }
+   ]
+  },
   "bayer": {
    "fetched_at": "2026-10-25T00:48:29Z",
    "label": "Bayer",
@@ -6990,6 +7165,11 @@
      "title": "ENTERPRISE COUNSEL, COMMERCIAL LAUNCH AND INTERNATIONAL"
     }
    ]
+  },
+  "bmo financial": {
+   "fetched_at": "2026-11-12T17:25:32Z",
+   "label": "BMO Financial Group",
+   "titles": []
   },
   "bny": {
    "fetched_at": "2026-11-03T10:23:41Z",
@@ -9269,6 +9449,17 @@
     }
    ]
   },
+  "careers in travel destination planners": {
+   "fetched_at": "2026-11-12T17:25:33Z",
+   "label": "Careers In Travel | Destination Planners",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "DIRECTOR OF PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "careers itw com": {
    "fetched_at": "2026-10-25T02:20:20Z",
    "label": "careers.itw.com",
@@ -9511,6 +9702,11 @@
      "title": "ADJUNCT PROFESSOR"
     }
    ]
+  },
+  "carousell": {
+   "fetched_at": "2026-11-12T17:25:34Z",
+   "label": "Carousell Group",
+   "titles": []
   },
   "carousellgroup": {
    "fetched_at": "2026-10-25T02:20:28Z",
@@ -11357,6 +11553,112 @@
    "fetched_at": "2026-11-10T20:24:00Z",
    "label": "clera",
    "titles": []
+  },
+  "cleveland cliffs": {
+   "fetched_at": "2026-11-12T17:25:35Z",
+   "label": "Cleveland-Cliffs",
+   "titles": [
+    {
+     "count": 42,
+     "median_salary": 66453,
+     "title": "GRADUATE PHYSICIAN TRAINEE"
+    },
+    {
+     "count": 20,
+     "median_salary": 57285,
+     "title": "BILINGUAL ELEMENTARY TEACHER"
+    },
+    {
+     "count": 18,
+     "median_salary": 71369,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 14,
+     "median_salary": 285000,
+     "title": "HOSPITAL MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 12,
+     "median_salary": 315000,
+     "title": "NEUROLOGIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 98652,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 6,
+     "median_salary": 64482,
+     "title": "MEDICAL RESEARCH SCIENTIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 115128,
+     "title": "CARDIOVASCULAR AND THORACIC SURGEON"
+    },
+    {
+     "count": 4,
+     "median_salary": 530000,
+     "title": "ASSOCIATE STAFF, ANESTHESIOLOGY"
+    },
+    {
+     "count": 4,
+     "median_salary": 72322,
+     "title": "BIOSTATISTICIAN"
+    },
+    {
+     "count": 4,
+     "median_salary": 480597,
+     "title": "CARDIOLOGIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 390000,
+     "title": "PULMONARY CRITICAL CARE PHYSICIAN"
+    },
+    {
+     "count": 4,
+     "median_salary": 412500,
+     "title": "RADIOLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 520000,
+     "title": "ANESTHESIOLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 490000,
+     "title": "ASSOCIATE STAFF, UROLOGIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 700033,
+     "title": "NEUROSURGEON"
+    },
+    {
+     "count": 3,
+     "median_salary": 245000,
+     "title": "PEDIATRICIAN"
+    },
+    {
+     "count": 3,
+     "median_salary": 380000,
+     "title": "STAFF PHYSICIAN"
+    },
+    {
+     "count": 3,
+     "median_salary": 575000,
+     "title": "UROLOGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 82250,
+     "title": "ASSISTANT COLLEGE LECTURER"
+    }
+   ]
   },
   "cleveland cliffs https aksteel wd1 myworkdayjobs com careers job rockport works computer science engineering intern r13553": {
    "fetched_at": "2026-11-05T10:41:22Z",
@@ -13834,10 +14136,46 @@
     }
    ]
   },
+  "dhl": {
+   "fetched_at": "2026-11-12T17:25:36Z",
+   "label": "DHL",
+   "titles": []
+  },
   "dhpace": {
    "fetched_at": "2026-10-25T16:11:05Z",
    "label": "dhpace",
    "titles": []
+  },
+  "didi global": {
+   "fetched_at": "2026-11-12T17:25:37Z",
+   "label": "DiDi Global",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 156847,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 129189,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 200000,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 194400,
+     "title": "AI STRATEGY PRINCIPAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 119594,
+     "title": "AUTONOMY SYSTEMS ENGINEER II"
+    }
+   ]
   },
   "didiglobal": {
    "fetched_at": "2026-10-25T04:07:17Z",
@@ -14075,6 +14413,112 @@
    "fetched_at": "2026-11-07T23:32:38Z",
    "label": "doctolib",
    "titles": []
+  },
+  "domino s": {
+   "fetched_at": "2026-11-12T17:25:38Z",
+   "label": "Domino's",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 100000,
+     "title": "SOFTWARE ARCHITECT"
+    },
+    {
+     "count": 4,
+     "median_salary": 126504,
+     "title": "SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 3,
+     "median_salary": 60000,
+     "title": "MARKETING SPECIALIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 95000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "SOFTWARE JAVA CLOUD DEVELOPER ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 93000,
+     "title": "SOFTWARE QUALITY ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 104500,
+     "title": "ERP SYSTEMS ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 152750,
+     "title": "SENIOR DATA SCIENTIST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 227000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 88244,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 134000,
+     "title": "SOFTWARE ENGINEER IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 130700,
+     "title": "ARCHITECT IV"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "COMPUTER NETWORK ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 107598,
+     "title": "DATA SCIENTIST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 112000,
+     "title": "DB DESIGN AND ANALYSIS ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "DB DESIGN AND ANALYSIS ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "DB DESIGN AND ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 193500,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 97500,
+     "title": "ERP SYSTEM ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "IT BUSINESS ANALYST II"
+    }
+   ]
   },
   "dominos": {
    "fetched_at": "2026-10-25T05:37:53Z",
@@ -17096,6 +17540,42 @@
    "label": "federatedinsurance",
    "titles": []
   },
+  "fehr peers": {
+   "fetched_at": "2026-11-12T17:25:39Z",
+   "label": "Fehr & Peers",
+   "titles": [
+    {
+     "count": 8,
+     "median_salary": 76000,
+     "title": "TRANSPORTATION PLANNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 76500,
+     "title": "CIVIL ENGINEER STRUCTURAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 103620,
+     "title": "SENIOR TRANSPORTATION PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 69500,
+     "title": "CIVIL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "MUNICIPAL CIVIL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 109854,
+     "title": "TRANSPORTATION STAFF ENGINEER"
+    }
+   ]
+  },
   "fehrandpeers": {
    "fetched_at": "2026-10-25T08:51:27Z",
    "label": "fehrandpeers",
@@ -18094,6 +18574,22 @@
    "fetched_at": "2026-11-05T12:12:54Z",
    "label": "FOX",
    "titles": []
+  },
+  "fox rehabilitation": {
+   "fetched_at": "2026-11-12T17:25:40Z",
+   "label": "Fox Rehabilitation",
+   "titles": [
+    {
+     "count": 15,
+     "median_salary": 95139,
+     "title": "PHYSICAL THERAPIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 98465,
+     "title": "OCCUPATIONAL THERAPIST"
+    }
+   ]
   },
   "framatome": {
    "fetched_at": "2026-10-26T15:03:50Z",
@@ -19205,6 +19701,11 @@
      "title": "SERVICE MANAGEMENT SPECIALIST"
     }
    ]
+  },
+  "gft": {
+   "fetched_at": "2026-11-12T17:25:41Z",
+   "label": "GFT",
+   "titles": []
   },
   "global foundries": {
    "fetched_at": "2026-11-12T08:07:09Z",
