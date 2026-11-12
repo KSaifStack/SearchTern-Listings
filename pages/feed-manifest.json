@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "run_id": "20261112T005047Z-59887f66c044",
-  "generated_at": "2026-11-12T00:50:47.671147+00:00",
+  "run_id": "20261112T011836Z-a3ea97b5768f",
+  "generated_at": "2026-11-12T01:18:36.902365+00:00",
   "status": "degraded",
   "publication_status": "published",
   "delivery": {
@@ -12,51 +12,53 @@
   "published": {
     "listings": {
       "path": "pages/listings.json",
-      "rows": 10119,
-      "bytes": 32817041,
-      "sha256": "68de7185504eabc2ef82f07f227d35f38f82006735cf97b14c5b01735e4601d1",
+      "rows": 12010,
+      "bytes": 36501634,
+      "sha256": "1240ef31b4ec1cdd41c3c20c270d19fe1c92e0fd73be92d20eda88f92f8ed542",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
     },
     "searchtern": {
       "path": "pages/searchtern.json",
-      "rows": 26770,
-      "bytes": 90646544,
-      "sha256": "59887f66c0440fa8b2eeefcf0e7f5d994f177d8024f18e6301c7318a93e3a58b",
+      "rows": 32852,
+      "bytes": 101354664,
+      "sha256": "a3ea97b5768ff320cd75497ae71745ba044cd3b5f37bb00d1819dcf480bff923",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
     },
     "readme": {
       "path": "README.md",
       "window_days": 60,
-      "rows": 7731,
-      "pages": 16,
-      "generation": "20261112T005047Z-59887f66c044"
+      "rows": 11038,
+      "pages": 23,
+      "generation": "20261112T011836Z-a3ea97b5768f"
     }
   },
   "required_sources": [
     "jobhive"
   ],
   "last_known_good": {
-    "generated_at": "2026-11-11T17:59:38.163525+00:00",
-    "run_id": "20261111T175938Z-bd2da85866e7",
+    "generated_at": "2026-11-12T00:50:47.671147+00:00",
+    "run_id": "20261112T005047Z-59887f66c044",
     "published": {
       "listings": {
         "path": "pages/listings.json",
-        "rows": 10055,
-        "bytes": 32138616,
-        "sha256": "c7c893fcdb7bf5802241e8ec072f54815640357e00018cd8b8ac4d46a06edd89"
+        "rows": 10119,
+        "bytes": 32817041,
+        "sha256": "68de7185504eabc2ef82f07f227d35f38f82006735cf97b14c5b01735e4601d1",
+        "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
       },
       "searchtern": {
         "path": "pages/searchtern.json",
-        "rows": 26765,
-        "bytes": 88951778,
-        "sha256": "bd2da85866e715eb47868d8fd4c9ca3fd2e1e7c8f7d4a0fad187b3d26460133d"
+        "rows": 26770,
+        "bytes": 90646544,
+        "sha256": "59887f66c0440fa8b2eeefcf0e7f5d994f177d8024f18e6301c7318a93e3a58b",
+        "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
       },
       "readme": {
         "path": "README.md",
         "window_days": 60,
-        "rows": 7721,
-        "pages": 15,
-        "generation": "20261111T175938Z-bd2da85866e7"
+        "rows": 7731,
+        "pages": 16,
+        "generation": "20261112T005047Z-59887f66c044"
       }
     },
     "path": "pages/last-known-good",
@@ -67,15 +69,15 @@
     "manifest": "pages/last-known-good/current.json"
   },
   "source_counts": {
-    "ats": 635,
+    "ats": 8095,
     "breadth": 39,
-    "ecr": 3928,
-    "freehire": 3063,
-    "jobhive": 19105
+    "ecr": 3465,
+    "freehire": 2924,
+    "jobhive": 18329
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-12T00:49:41.565384+00:00",
+      "generated_at": "2026-11-12T01:17:39.257730+00:00",
       "count": 11,
       "expected": [
         "jobhive",
@@ -94,12 +96,12 @@
         "ats_new",
         "breadth",
         "ecr",
+        "heavy",
         "jobhive",
         "medium"
       ],
       "expired": [
         "echo",
-        "heavy",
         "jobspy",
         "light",
         "priority",
@@ -110,7 +112,6 @@
       "rejected": [],
       "invalid": [
         "echo",
-        "heavy",
         "jobspy",
         "light",
         "priority",
@@ -127,21 +128,21 @@
     "scheme": "career-family-v1"
   },
   "career_families": {
-    "Software Engineering & Technology": 10005,
-    "Other Professional": 4144,
-    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 3304,
-    "Healthcare, Clinical & Public Health": 3059,
-    "Sales & Customer Success": 2362,
-    "Design, UX/UI & Creative": 1371,
-    "Operations & Project Management": 1077,
-    "Finance, Accounting & Banking": 1070,
-    "Supply Chain, Procurement & Logistics": 961,
-    "Business Analysis, Consulting & Administration": 803,
-    "Marketing, Communications & PR": 696,
-    "Scientific Research, Lab & Biotech": 553,
-    "Legal & Compliance": 432,
-    "Human Resources & Recruiting": 295,
-    "Education & Teaching": 129,
-    "Government & Public Service": 70
+    "Software Engineering & Technology": 11781,
+    "Other Professional": 5522,
+    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 4204,
+    "Healthcare, Clinical & Public Health": 3245,
+    "Sales & Customer Success": 2959,
+    "Finance, Accounting & Banking": 1664,
+    "Design, UX/UI & Creative": 1614,
+    "Operations & Project Management": 1365,
+    "Supply Chain, Procurement & Logistics": 1287,
+    "Marketing, Communications & PR": 966,
+    "Business Analysis, Consulting & Administration": 953,
+    "Scientific Research, Lab & Biotech": 664,
+    "Legal & Compliance": 528,
+    "Human Resources & Recruiting": 407,
+    "Education & Teaching": 158,
+    "Government & Public Service": 89
   }
 }

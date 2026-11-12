@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T00:47:14.369080+00:00",
-  "total": 17045,
+  "generated_at": "2026-11-12T01:05:05.991285+00:00",
+  "total": 19591,
   "per_source": {
-    "jobhive": 8967,
-    "ecr": 3933,
-    "freehire": 3606,
-    "ats": 517,
+    "jobhive": 8595,
+    "ats": 4051,
+    "ecr": 3469,
+    "freehire": 3454,
     "breadth": 22
   },
-  "new": 207,
-  "closed": 144,
-  "dead_links": 1,
-  "stale_checked": 3,
-  "stale_dead": 1,
+  "new": 518,
+  "closed": 111,
+  "dead_links": 60,
+  "stale_checked": 15,
+  "stale_dead": 6,
   "linkless_rows": 0,
   "linkless_by_source": {},
   "sources_this_run": {
@@ -27,11 +27,11 @@
   },
   "markdown_source_stats": [],
   "published": {
-    "listings": 10119,
-    "searchtern": 26770
+    "listings": 12010,
+    "searchtern": 32852
   },
   "published_manifest": "pages/feed-manifest.json",
   "total_stage": "pre_write_candidate_rows",
-  "generation": "20261112T005047Z-59887f66c044",
+  "generation": "20261112T011836Z-a3ea97b5768f",
   "publication_status": "published"
 }

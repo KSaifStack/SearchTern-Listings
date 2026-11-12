@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-12T00:49:43Z",
+ "built_at": "2026-11-12T01:17:53Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -9,6 +9,11 @@
   "3dayblindssales": {
    "fetched_at": "2026-10-25T16:10:49Z",
    "label": "3dayblindssales",
+   "titles": []
+  },
+  "3m": {
+   "fetched_at": "2026-11-12T01:17:39Z",
+   "label": "3m",
    "titles": []
   },
   "48forty": {
@@ -926,6 +931,11 @@
      "title": "FUND ADMINISTRATION ANALYST"
     }
    ]
+  },
+  "alliancewd": {
+   "fetched_at": "2026-11-12T01:17:40Z",
+   "label": "alliancewd",
+   "titles": []
   },
   "allstate": {
    "fetched_at": "2026-10-25T04:07:02Z",
@@ -5493,6 +5503,22 @@
     }
    ]
   },
+  "baird https baird wd1 myworkdayjobs com careers job wi milwaukee internship capital markets compliance data analytics year round r2026962 2": {
+   "fetched_at": "2026-11-12T01:17:42Z",
+   "label": "[Baird](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2)",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 63669,
+     "title": "EPIDEMIOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 51168,
+     "title": "MARKETING SPECIALIST"
+    }
+   ]
+  },
   "baker hughes": {
    "fetched_at": "2026-11-05T10:41:15Z",
    "label": "Baker Hughes",
@@ -5622,6 +5648,112 @@
      "count": 1,
      "median_salary": 88063,
      "title": "SPECIALIST-IC DEVELOPMENT"
+    }
+   ]
+  },
+  "bank of montreal https bmo wd3 myworkdayjobs com external job toronto on can ux ui designer winter 2027 co op internship 8 months r260026951 1": {
+   "fetched_at": "2026-11-12T01:17:43Z",
+   "label": "[Bank of Montreal](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1)",
+   "titles": [
+    {
+     "count": 106,
+     "median_salary": 156874,
+     "title": "VICE PRESIDENT; SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 65,
+     "median_salary": 157000,
+     "title": "VICE PRESIDENT; FEATURE LEAD - TECHNOLOGY"
+    },
+    {
+     "count": 28,
+     "median_salary": 95000,
+     "title": "OFFICER; TECH ANALYST PROGRAM"
+    },
+    {
+     "count": 28,
+     "median_salary": 149781,
+     "title": "VICE PRESIDENT; SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 24,
+     "median_salary": 180994,
+     "title": "SENIOR VICE PRESIDENT; SENIOR TECHNOLOGY MANAGER"
+    },
+    {
+     "count": 24,
+     "median_salary": 146450,
+     "title": "VICE PRESIDENT; QUANTITATIVE FINANCE ANALYST"
+    },
+    {
+     "count": 17,
+     "median_salary": 164600,
+     "title": "VICE PRESIDENT; TECHNOLOGY MANAGER"
+    },
+    {
+     "count": 15,
+     "median_salary": 132000,
+     "title": "ASSISTANT VICE PRESIDENT; QUANTITATIVE FINANCE ANALYST"
+    },
+    {
+     "count": 15,
+     "median_salary": 147563,
+     "title": "ASSISTANT VICE PRESIDENT; SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 14,
+     "median_salary": 200000,
+     "title": "ASSOCIATE; GLOBAL FINANCIAL CRIMES SPECIALIST"
+    },
+    {
+     "count": 14,
+     "median_salary": 95000,
+     "title": "OFFICER; QUANTITATIVE MGMT ASSOCIATE"
+    },
+    {
+     "count": 11,
+     "median_salary": 258000,
+     "title": "DIRECTOR; SENIOR TECHNOLOGY MANAGER"
+    },
+    {
+     "count": 10,
+     "median_salary": 73632,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 10,
+     "median_salary": 112500,
+     "title": "OFFICER; SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 10,
+     "median_salary": 151115,
+     "title": "VICE PRESIDENT; DATA ENGINEER III"
+    },
+    {
+     "count": 9,
+     "median_salary": 151820,
+     "title": "ASSISTANT VICE PRESIDENT; SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 9,
+     "median_salary": 178500,
+     "title": "VICE PRESIDENT; SENIOR TECHNOLOGY MANAGER"
+    },
+    {
+     "count": 9,
+     "median_salary": 150012,
+     "title": "VICE PRESIDENT; TECHNOLOGY SERVICES LEAD"
+    },
+    {
+     "count": 8,
+     "median_salary": 149760,
+     "title": "ASSISTANT VICE PRESIDENT; PRODUCTION SERVICES SPECIALIST II"
+    },
+    {
+     "count": 8,
+     "median_salary": 182770,
+     "title": "SENIOR VICE PRESIDENT; SENIOR ARCHITECT"
     }
    ]
   },
@@ -5865,6 +5997,22 @@
      "count": 1,
      "median_salary": 163000,
      "title": "TECHNICAL PROGRAM MANAGER"
+    }
+   ]
+  },
+  "bask": {
+   "fetched_at": "2026-11-12T01:17:44Z",
+   "label": "Bask",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 110000,
+     "title": "SENIOR TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "SOFTWARE TEST ENGINEER"
     }
    ]
   },
@@ -13285,6 +13433,11 @@
    "label": "doordashusa",
    "titles": []
   },
+  "dow": {
+   "fetched_at": "2026-11-12T01:17:45Z",
+   "label": "Dow",
+   "titles": []
+  },
   "dow jones": {
    "fetched_at": "2026-10-25T16:11:07Z",
    "label": "Dow Jones",
@@ -16290,6 +16443,57 @@
    "label": "fehrandpeers",
    "titles": []
   },
+  "ferrovial": {
+   "fetched_at": "2026-11-12T01:17:45Z",
+   "label": "Ferrovial",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 110000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 81506,
+     "title": "DESIGN ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 80000,
+     "title": "STRUCTURES ENGINEER IN TRAINING EIT"
+    },
+    {
+     "count": 1,
+     "median_salary": 117500,
+     "title": "COST CONTROL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 73000,
+     "title": "FIELD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 75816,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 139995,
+     "title": "QUALITY MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106692,
+     "title": "STRUCTURES PROJECT ENGINEER"
+    }
+   ]
+  },
   "fhlbank chicago https fhlbc wd1 myworkdayjobs com search job chicago summer internship ai intern r2600477": {
    "fetched_at": "2026-10-26T21:00:33Z",
    "label": "[FHLBank Chicago](https://fhlbc.wd1.myworkdayjobs.com/search/job/Chicago/Summer-Internship---AI-Intern_R2600477)",
@@ -17394,6 +17598,102 @@
    "label": "[GE Aerospace](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1)",
    "titles": []
   },
+  "ge healthcare": {
+   "fetched_at": "2026-11-12T01:17:46Z",
+   "label": "GE HealthCare",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 150100,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 132503,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 109170,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 172550,
+     "title": "SENIOR STAFF SOFTWARE ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 155100,
+     "title": "STAFF DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 236500,
+     "title": "DIRECTOR, RESEARCH &AMP; SCIENTIFIC AFFAIRS - CALIFORNIA"
+    },
+    {
+     "count": 1,
+     "median_salary": 147000,
+     "title": "LEAD ENGINEER - SYSTEMS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 107812,
+     "title": "SENIOR BUILD &AMP; RELEASE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 178500,
+     "title": "SENIOR PRODUCT MANAGEMENT MANAGER - DIGITAL PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 141500,
+     "title": "SENIOR SOFTWARE ENGINEER - JAVA"
+    },
+    {
+     "count": 1,
+     "median_salary": 154000,
+     "title": "SENIOR SOFTWARE SERVICES MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 198300,
+     "title": "SENIOR STAFF CLOUD ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 162900,
+     "title": "SENIOR STAFF SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 161200,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180900,
+     "title": "SENIOR STAFF TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147500,
+     "title": "STAFF DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 134000,
+     "title": "STAFF QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 123500,
+     "title": "STAFF TECHNICAL PROJECT MANAGER"
+    }
+   ]
+  },
   "ge healthcare https gehc wd5 myworkdayjobs com gehc externalsite job waukesha electrical engineering technician co op r4046982 1": {
    "fetched_at": "2026-11-06T00:34:11Z",
    "label": "[GE Healthcare](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Electrical-Engineering-Technician-Co-op_R4046982-1)",
@@ -18270,6 +18570,112 @@
      "count": 2,
      "median_salary": 96900,
      "title": "PRODUCT MARKETING MANAGER"
+    }
+   ]
+  },
+  "globe": {
+   "fetched_at": "2026-11-12T01:17:47Z",
+   "label": "globe",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 93101,
+     "title": "SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 107283,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 86736,
+     "title": "COMPUTER SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 91739,
+     "title": "IT SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 120000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 104261,
+     "title": "SOFTWARE ENGINEER DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 155605,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 106558,
+     "title": "ANGULAR DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85010,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "BRAND &AMP; GROWTH STRATEGY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 69784,
+     "title": "BUSINESS DEVELOPMENT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 75500,
+     "title": "BUSINESS OPERATIONS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 82763,
+     "title": "CLINICAL DATA MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 87173,
+     "title": "CLOUD DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 74318,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 92040,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 92040,
+     "title": "ETL DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 123656,
+     "title": "FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "GRC SECURITY ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "INVESTMENT ANALYST AND ASSISTANT TRADER"
     }
    ]
   },
@@ -20024,6 +20430,11 @@
      "title": "DATA SCIENTIST III"
     }
    ]
+  },
+  "hfecorp": {
+   "fetched_at": "2026-11-12T01:17:48Z",
+   "label": "hfecorp",
+   "titles": []
   },
   "highmark health": {
    "fetched_at": "2026-10-26T18:40:09Z",
@@ -25567,6 +25978,22 @@
     }
    ]
   },
+  "manulife financial https manulife wd3 myworkdayjobs com en us mfcjh adminjobs job waterloo ontario winter co op 2027 data engineering jr26081660 1": {
+   "fetched_at": "2026-11-12T01:17:49Z",
+   "label": "[Manulife Financial](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081660-1)",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 102760,
+     "title": "PROPERTY PORTFOLIO MANAGEMENT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 67074,
+     "title": "RESOURCE ANALYST"
+    }
+   ]
+  },
   "mapei": {
    "fetched_at": "2026-10-29T01:25:56Z",
    "label": "Mapei",
@@ -29065,6 +29492,17 @@
      "count": 1,
      "median_salary": 120000,
      "title": "TEST ENGINEER"
+    }
+   ]
+  },
+  "newyork presbyterian": {
+   "fetched_at": "2026-11-12T01:17:50Z",
+   "label": "NewYork-Presbyterian",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 106200,
+     "title": "PODIATRY RESIDENT"
     }
    ]
   },
@@ -37399,6 +37837,52 @@
    "label": "SpaceX",
    "titles": []
   },
+  "spartannash": {
+   "fetched_at": "2026-11-12T01:17:51Z",
+   "label": "SpartanNash",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 159723,
+     "title": "BI ADMINISTRATOR ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 114504,
+     "title": "LEAD, IT APPLICATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 114504,
+     "title": "MANAGER 2 ETL DATA INTEGRATION &AMP; WAREHOUSE"
+    },
+    {
+     "count": 1,
+     "median_salary": 122741,
+     "title": "PROGRAMMER ANALYST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 169520,
+     "title": "SENIOR MANAGER, APPLICATIONS MANAGED SERVICES"
+    },
+    {
+     "count": 1,
+     "median_salary": 175386,
+     "title": "SENIOR MANAGER, IT SERVICE MANAGEMENT &AMP; ENTERPRISE TOOL"
+    },
+    {
+     "count": 1,
+     "median_salary": 169520,
+     "title": "SENIOR MANAGER, SECURITY OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 61818,
+     "title": "SPECIALIST, BENEFITS"
+    }
+   ]
+  },
   "spieldennerfinancialgroup": {
    "fetched_at": "2026-10-25T22:12:12Z",
    "label": "spieldennerfinancialgroup",
@@ -41353,6 +41837,11 @@
     }
    ]
   },
+  "u haul": {
+   "fetched_at": "2026-11-12T01:17:52Z",
+   "label": "U-Haul",
+   "titles": []
+  },
   "uapinc": {
    "fetched_at": "2026-11-08T00:01:37Z",
    "label": "UAPInc",
@@ -43449,6 +43938,102 @@
      "count": 1,
      "median_salary": 201323,
      "title": "SENIOR MANAGER APO SUPPLY CHAIN SYSTEMS AND PROCESSES"
+    }
+   ]
+  },
+  "vizient": {
+   "fetched_at": "2026-11-12T01:17:53Z",
+   "label": "Vizient",
+   "titles": [
+    {
+     "count": 13,
+     "median_salary": 140000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 94496,
+     "title": "SENIOR ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 154795,
+     "title": "ENGINEERING TEAM LEAD"
+    },
+    {
+     "count": 2,
+     "median_salary": 136484,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "SENIOR QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 72800,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 166981,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 139181,
+     "title": "LEAD AGILE PRODUCT OWNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "LEAD BUSINESS TECHNOLOGY PRODUCT OWNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 157216,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "PRINCIPAL R&AMP;D UI UX DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 89576,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 101496,
+     "title": "SENIOR ANALYTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88850,
+     "title": "SENIOR ASSOCIATE, DATA OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 117976,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 131925,
+     "title": "SENIOR SOFTWARE QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "SENIOR SPEND MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170775,
+     "title": "STAFF ENGINEER"
     }
    ]
   },
