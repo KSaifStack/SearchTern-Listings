@@ -1,16 +1,16 @@
 {
  "additions": [
   {
-   "added": 276,
-   "samples": [],
-   "samples_truncated": true,
-   "source": "medium"
-  },
-  {
-   "added": 234,
+   "added": 246,
    "samples": [],
    "samples_truncated": true,
    "source": "ecr"
+  },
+  {
+   "added": 207,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "medium"
   }
  ],
  "ats_conflicts": [
@@ -90,6 +90,24 @@
    "ats_id": "1470",
    "ats_types": [
     "bamboohr",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1720",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1729",
+   "ats_types": [
+    "cornerstone",
     "icims"
    ],
    "count": 2,
@@ -339,6 +357,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "2878",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "303",
    "ats_types": [
     "bamboohr",
@@ -483,6 +510,33 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3759",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3767",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3768",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "4120",
    "ats_types": [
     "cornerstone",
@@ -574,39 +628,41 @@
   }
  ],
  "base": {
-  "identities": 54957,
+  "identities": 57096,
   "path": "pages/searchtern.json",
-  "rows": 54957
+  "rows": 57096
  },
  "dropped_at_write": {
   "by_reason": {
-   "blocked_company": 107,
-   "duplicate_id": 651,
-   "duplicate_url": 503,
+   "blocked_company": 163,
+   "duplicate_id": 1364,
+   "duplicate_url": 328,
    "empty_company": 25,
-   "inactive": 2852,
-   "no_apply_link": 560,
-   "non_english": 2503
+   "inactive": 2386,
+   "no_apply_link": 2226,
+   "non_english": 1683
   },
   "by_source": {
    "ats_new": 138,
-   "breadth": 7,
-   "ecr": 2109,
-   "heavy": 3000,
-   "medium": 1947
+   "breadth": 9,
+   "ecr": 2668,
+   "heavy": 3002,
+   "medium": 2083,
+   "priority": 275
   },
-  "count": 7201,
+  "count": 8175,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
   "by_source": {
-   "ats_new": 540,
+   "ats_new": 539,
    "breadth": 39,
-   "ecr": 2640,
-   "heavy": 6526,
-   "medium": 2931
+   "ecr": 2075,
+   "heavy": 10742,
+   "medium": 2867,
+   "priority": 83
   },
-  "count": 12676
+  "count": 16345
  },
  "expired": [
   {
@@ -624,29 +680,22 @@
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.09,
-   "rows": 438,
+   "age_hours": -0.11,
+   "rows": 570,
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72
   },
   {
    "age_hours": -0.01,
-   "rows": 41858,
+   "rows": 41905,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": 10.67,
-   "rows": 366,
-   "source": "priority",
-   "status": "ok",
-   "ttl_hours": 24
-  },
-  {
    "age_hours": -0.02,
-   "rows": 14,
+   "rows": 11,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168
@@ -654,10 +703,10 @@
  ],
  "explained": {
   "additions": {
-   "attributed": 510,
+   "attributed": 453,
    "reason": "the source that first supplied the identity key",
-   "total": 359,
-   "unattributed": -151
+   "total": 321,
+   "unattributed": -132
   },
   "removals": {
    "all": [],
@@ -667,7 +716,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-12T03:39:55.512355+00:00",
+ "generated_at": "2026-11-12T12:16:50.760393+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -695,70 +744,81 @@
  "source_contributions": [
   {
    "added": 0,
-   "age_hours": 2.84,
+   "age_hours": 2.37,
    "class": "direct_ats",
-   "duplicates": 540,
-   "rows": 787,
-   "rows_after_scope": 678,
-   "rows_publishable": 540,
+   "duplicates": 539,
+   "rows": 786,
+   "rows_after_scope": 677,
+   "rows_publishable": 539,
    "source": "ats_new",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 2.38,
+   "age_hours": 1.7,
    "class": "direct_ats",
-   "duplicates": 6526,
-   "rows": 16197,
-   "rows_after_scope": 9526,
-   "rows_publishable": 6526,
+   "duplicates": 10742,
+   "rows": 23373,
+   "rows_after_scope": 13744,
+   "rows_publishable": 10742,
    "source": "heavy",
+   "stale": true
+  },
+  {
+   "added": 0,
+   "age_hours": 4.22,
+   "class": "priority_ats",
+   "duplicates": 83,
+   "rows": 365,
+   "rows_after_scope": 358,
+   "rows_publishable": 83,
+   "source": "priority",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 2.86,
+   "age_hours": 2.39,
    "class": "aggregators",
    "duplicates": 39,
-   "rows": 53,
-   "rows_after_scope": 46,
+   "rows": 60,
+   "rows_after_scope": 48,
    "rows_publishable": 39,
    "source": "breadth",
    "stale": false
   },
   {
-   "added": 234,
-   "age_hours": 2.87,
+   "added": 246,
+   "age_hours": 2.39,
    "class": "aggregators",
-   "duplicates": 2640,
-   "rows": 5363,
-   "rows_after_scope": 4983,
-   "rows_publishable": 2874,
+   "duplicates": 2075,
+   "rows": 5371,
+   "rows_after_scope": 4989,
+   "rows_publishable": 2321,
    "source": "ecr",
    "stale": false
   },
   {
-   "added": 276,
-   "age_hours": 2.86,
+   "added": 207,
+   "age_hours": 2.39,
    "class": "aggregators",
-   "duplicates": 2931,
-   "rows": 5464,
-   "rows_after_scope": 5154,
-   "rows_publishable": 3207,
+   "duplicates": 2867,
+   "rows": 5473,
+   "rows_after_scope": 5157,
+   "rows_publishable": 3074,
    "source": "medium",
    "stale": false
   }
  ],
  "summary": {
-  "added": 359,
-  "ats_conflicts": 62,
-  "dropped_at_write": 7201,
-  "duplicates": 12676,
-  "expired_snapshots": 6,
-  "production_rows": 54957,
+  "added": 321,
+  "ats_conflicts": 68,
+  "dropped_at_write": 8175,
+  "duplicates": 16345,
+  "expired_snapshots": 5,
+  "production_rows": 57096,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 55316,
+  "shadow_rows": 57417,
   "unexplained_removed": 0
  }
 }
