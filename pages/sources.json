@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:20:19.209444+00:00",
+  "generated_at": "2026-11-13T23:37:07.513593+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 8506
+      "count": 8508
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -21,7 +21,7 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3272
+      "count": 3294
     },
     {
       "name": "vanshb03 Summer 2027",
@@ -49,7 +49,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 2025
+      "count": 2026
     },
     {
       "name": "cvrve New Grad",
@@ -63,14 +63,14 @@
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1833
+      "count": 1825
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1833
+      "count": 1825
     },
     {
       "name": "SuryaHarikrishnan Other 2027",
@@ -84,14 +84,14 @@
       "url": "https://raw.githubusercontent.com/GodlyDonuts/keryx/main/internships/summer-2027.md",
       "type": "internship",
       "season": "2027",
-      "count": 1516
+      "count": 1517
     },
     {
       "name": "Early Career Radar",
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1497
+      "count": 1496
     },
     {
       "name": "aprameyak New Grad 2027",
@@ -227,16 +227,16 @@
       "count": 399
     },
     {
-      "name": "zapplyjobs New Grad Data Science 2027",
-      "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 319
-    },
-    {
       "name": "SimplifyJobs Summer 2027",
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
       "type": "internship",
+      "season": "2027",
+      "count": 320
+    },
+    {
+      "name": "zapplyjobs New Grad Data Science 2027",
+      "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027/main/README.md",
+      "type": "newgrad",
       "season": "2027",
       "count": 319
     },
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 7
+      "count": 9
     },
     {
       "name": "vanshb03 Summer 2026",
