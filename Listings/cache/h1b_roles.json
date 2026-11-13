@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-13T00:19:49Z",
+ "built_at": "2026-11-13T01:41:30Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11309,6 +11309,112 @@
      "count": 18,
      "median_salary": 161550,
      "title": "BUSINESS ANALYTICS LEAD ANALYST"
+    }
+   ]
+  },
+  "citizens energy": {
+   "fetched_at": "2026-11-13T01:41:27Z",
+   "label": "Citizens Energy Group",
+   "titles": [
+    {
+     "count": 22,
+     "median_salary": 128612,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 151757,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 155688,
+     "title": "PRINCIPAL ARCHITECT"
+    },
+    {
+     "count": 6,
+     "median_salary": 96449,
+     "title": "DATA MANAGEMENT SPECIALIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 97440,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 6,
+     "median_salary": 124540,
+     "title": "SR DATA ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 182178,
+     "title": "MANAGER SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 5,
+     "median_salary": 72342,
+     "title": "MEDICAL LABORATORY SCIENTIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 93038,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 119641,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 85000,
+     "title": "SOFTWARE ENGINEER - INTERMEDIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 104645,
+     "title": "BUSINESS INSIGHTS SR ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 98072,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 176987,
+     "title": "MGR SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 154669,
+     "title": "PRINCIPAL DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 137920,
+     "title": "PRINCIPAL DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 99114,
+     "title": "SENIOR DATA ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 125409,
+     "title": "SENIOR NETWORK ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 119920,
+     "title": "SENIOR SOLUTION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 85835,
+     "title": "BI ANALYST"
     }
    ]
   },
@@ -23364,6 +23470,22 @@
     }
    ]
   },
+  "insomniac games": {
+   "fetched_at": "2026-11-13T01:41:28Z",
+   "label": "Insomniac Games",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 137300,
+     "title": "ADVANCED GAMEPLAY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 139000,
+     "title": "SENIOR ANIMATOR"
+    }
+   ]
+  },
   "insomniac games https job boards greenhouse io insomniac jobs 6226611004": {
    "fetched_at": "2026-10-28T15:08:12Z",
    "label": "[Insomniac Games](https://job-boards.greenhouse.io/insomniac/jobs/6226611004)",
@@ -25577,6 +25699,17 @@
    "fetched_at": "2026-11-03T17:29:20Z",
    "label": "keenfootwear",
    "titles": []
+  },
+  "kensington": {
+   "fetched_at": "2026-11-13T01:41:28Z",
+   "label": "Kensington",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 110800,
+     "title": "SALES MANAGER"
+    }
+   ]
   },
   "kensingtontours": {
    "fetched_at": "2026-11-03T10:23:49Z",
@@ -31864,6 +31997,112 @@
    "fetched_at": "2026-11-08T00:15:58Z",
    "label": "nex",
    "titles": []
+  },
+  "nike": {
+   "fetched_at": "2026-11-13T01:41:29Z",
+   "label": "Nike",
+   "titles": [
+    {
+     "count": 52,
+     "median_salary": 160000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 30,
+     "median_salary": 195350,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 153918,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 15,
+     "median_salary": 161257,
+     "title": "SOFTWARE ENGINEER III"
+    },
+    {
+     "count": 10,
+     "median_salary": 161874,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 7,
+     "median_salary": 177598,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 125794,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 247925,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 186069,
+     "title": "LEAD PRODUCT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 199964,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 157242,
+     "title": "SENIOR TECHNICAL PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 232523,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 194021,
+     "title": "LEAD, INSIGHTS &AMP; ANALYTICS MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 197302,
+     "title": "MANAGER, DATA ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 144612,
+     "title": "SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 116499,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 226944,
+     "title": "DIRECTOR, TECHNICAL PROJECT MANAGEMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 210405,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 124435,
+     "title": "LEAD DESIGNER, ENERGY - NBHD APPAREL PRODUCT DESIGN"
+    }
+   ]
   },
   "nintendo": {
    "fetched_at": "2026-10-29T21:13:59Z",
@@ -39386,6 +39625,42 @@
      "count": 1,
      "median_salary": 90400,
      "title": "SOFTWARE DEVELOPER"
+    }
+   ]
+  },
+  "scout motors": {
+   "fetched_at": "2026-11-13T01:41:30Z",
+   "label": "Scout Motors",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "LEAD ENGINEER, INTEGRATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "QUALITY MANAGER, BODY"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "SENIOR DIAGNOSTIC SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 187741,
+     "title": "SENIOR SOFTWARE ENGINEER, BACKEND"
+    },
+    {
+     "count": 1,
+     "median_salary": 123000,
+     "title": "SPECIALIST TOE VEHICLE SOFTWARE AND ELECTRICAL ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "SPECIALIST, ANALYSIS"
     }
    ]
   },
