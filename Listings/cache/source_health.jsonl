@@ -4633,3 +4633,9 @@
 {"ts": 1794601684.2100878, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794601684.2100878, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794601684.2100878, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.349, "status": "ok"}
+{"ts": 1794609251.2864437, "source": "ats", "discovered": 0, "valid": 0, "new": 32, "seconds": 0.0, "status": "ok"}
+{"ts": 1794609251.2864437, "source": "md", "discovered": 0, "valid": 0, "new": 9, "seconds": 0.0, "status": "ok"}
+{"ts": 1794609251.2864437, "source": "ecr", "discovered": 0, "valid": 0, "new": 3, "seconds": 0.0, "status": "ok"}
+{"ts": 1794609251.2864437, "source": "jobhive-closure", "discovered": 80022, "valid": 80022, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794609251.2864437, "source": "jobhive", "discovered": 0, "valid": 15259, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794609251.2864437, "source": "ats-probe", "discovered": 75973, "valid": 6540, "new": 0, "seconds": 925.635, "status": "ok"}

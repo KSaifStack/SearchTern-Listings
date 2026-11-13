@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-13T20:27:07Z",
+ "built_at": "2026-11-13T22:33:38Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13871,6 +13871,87 @@
      "count": 2,
      "median_salary": 218295,
      "title": "ENGINEERING MANAGER"
+    }
+   ]
+  },
+  "dayton freight": {
+   "fetched_at": "2026-11-13T22:33:37Z",
+   "label": "Dayton Freight",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 61682,
+     "title": "MEDICAL TECHNOLOGIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 57357,
+     "title": "BILINGUAL ELEMENTARY TEACHER"
+    },
+    {
+     "count": 3,
+     "median_salary": 342310,
+     "title": "CHILD PEDIATRIC EMERGENCY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 2,
+     "median_salary": 62960,
+     "title": "MEDICAL RESIDENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 81109,
+     "title": "PHYSICAL THERAPIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 111020,
+     "title": "ASSISTANT NURSE MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 268425,
+     "title": "CHILD PEDIATRIC NEUROLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 111342,
+     "title": "CONTROLS &AMP; POWER SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 40000,
+     "title": "HEAD COOK"
+    },
+    {
+     "count": 1,
+     "median_salary": 67340,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104520,
+     "title": "JDE PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 72000,
+     "title": "MARKET INSIGHT AND PLANNING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 308780,
+     "title": "PEDIATRIC EMERGENCY MEDICINE PHYSICIAN"
+    },
+    {
+     "count": 1,
+     "median_salary": 56910,
+     "title": "SCIENCE TEACHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 53339,
+     "title": "TESOL TEACHER"
     }
    ]
   },
@@ -37930,6 +38011,112 @@
      "count": 2,
      "median_salary": 63149,
      "title": "POST DOCTORAL RESEARCHER"
+    }
+   ]
+  },
+  "rocket companies": {
+   "fetched_at": "2026-11-13T22:33:37Z",
+   "label": "Rocket Companies",
+   "titles": [
+    {
+     "count": 21,
+     "median_salary": 120500,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 19,
+     "median_salary": 85000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 106000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 10,
+     "median_salary": 103000,
+     "title": "DATA ENGINEER II"
+    },
+    {
+     "count": 5,
+     "median_salary": 103000,
+     "title": "SENIOR DATA ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 130707,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 133500,
+     "title": "TEAM LEADER, ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 87200,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 180000,
+     "title": "DIRECTOR, ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 120500,
+     "title": "SENIOR APPLICATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 147950,
+     "title": "SENIOR DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 156998,
+     "title": "SOFTWARE ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 144630,
+     "title": "ASSOCIATE MANAGER, BUSINESS APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 96278,
+     "title": "DATA ENGINEER I"
+    },
+    {
+     "count": 2,
+     "median_salary": 102250,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 112500,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 181145,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 215000,
+     "title": "LEAD PRODUCT DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152523,
+     "title": "MANAGER, MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 156750,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
     }
    ]
   },
