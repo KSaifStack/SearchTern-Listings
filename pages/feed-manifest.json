@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "run_id": "20261113T014316Z-dfddebe2613a",
-  "generated_at": "2026-11-13T01:43:16.105568+00:00",
+  "run_id": "20261113T075443Z-1474bba51497",
+  "generated_at": "2026-11-13T07:54:43.435420+00:00",
   "status": "degraded",
   "publication_status": "published",
   "delivery": {
@@ -12,53 +12,53 @@
   "published": {
     "listings": {
       "path": "pages/listings.json",
-      "rows": 27511,
-      "bytes": 65228890,
-      "sha256": "e5cc2efa1d0d3c6a3ab5bd54f94c7abd3098a872fe7787fd454dd9dd45b38b7c",
+      "rows": 26025,
+      "bytes": 60360770,
+      "sha256": "d5d51cd61b7a56eed44ac2dc478907a8a4dcf5827f8e88113b881e81cbda975f",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
     },
     "searchtern": {
       "path": "pages/searchtern.json",
-      "rows": 57948,
-      "bytes": 142822483,
-      "sha256": "dfddebe2613ae302a187ad6dfcacc478a71d786583379cdf0827460fec7ff0b9",
+      "rows": 55657,
+      "bytes": 137208889,
+      "sha256": "1474bba51497381edc56a6d356aa1e2e8693f5ee54177eb53d865e57555bf78b",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
     },
     "readme": {
       "path": "README.md",
       "window_days": 60,
-      "rows": 16011,
-      "pages": 32,
-      "generation": "20261113T014316Z-dfddebe2613a"
+      "rows": 18784,
+      "pages": 38,
+      "generation": "20261113T075443Z-1474bba51497"
     }
   },
   "required_sources": [
     "jobhive"
   ],
   "last_known_good": {
-    "generated_at": "2026-11-13T01:11:20.901332+00:00",
-    "run_id": "20261113T011120Z-73d7e25dec7d",
+    "generated_at": "2026-11-13T01:43:16.105568+00:00",
+    "run_id": "20261113T014316Z-dfddebe2613a",
     "published": {
       "listings": {
         "path": "pages/listings.json",
-        "rows": 27486,
-        "bytes": 65288839,
-        "sha256": "b74a90f4bf4ae40c6dee7fca1b720d0213b422ad144d68964f92b4efa4cefc03",
+        "rows": 27511,
+        "bytes": 65228890,
+        "sha256": "e5cc2efa1d0d3c6a3ab5bd54f94c7abd3098a872fe7787fd454dd9dd45b38b7c",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
       },
       "searchtern": {
         "path": "pages/searchtern.json",
-        "rows": 57789,
-        "bytes": 142226683,
-        "sha256": "73d7e25dec7d21f381720ed90b9cca922306b6c28f313e736f662c3c6cea8d0f",
+        "rows": 57948,
+        "bytes": 142822483,
+        "sha256": "dfddebe2613ae302a187ad6dfcacc478a71d786583379cdf0827460fec7ff0b9",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
       },
       "readme": {
         "path": "README.md",
         "window_days": 60,
-        "rows": 20036,
-        "pages": 41,
-        "generation": "20261113T011120Z-73d7e25dec7d"
+        "rows": 16011,
+        "pages": 32,
+        "generation": "20261113T014316Z-dfddebe2613a"
       }
     },
     "path": "pages/last-known-good",
@@ -69,57 +69,57 @@
     "manifest": "pages/last-known-good/current.json"
   },
   "source_counts": {
-    "ApplyGuy New Grad": 131,
-    "GodlyDonuts keryx Internships": 1426,
-    "GodlyDonuts keryx New Grad": 165,
+    "ApplyGuy New Grad": 132,
+    "GodlyDonuts keryx Internships": 1483,
+    "GodlyDonuts keryx New Grad": 244,
     "LorenzoLaCorte EU Internships 2026": 146,
-    "SimplifyJobs New Grad": 381,
-    "SimplifyJobs Off-Season 2027": 37,
-    "SimplifyJobs Summer 2027": 117,
-    "SuryaHarikrishnan DS/AI": 922,
-    "SuryaHarikrishnan Hardware": 580,
+    "SimplifyJobs New Grad": 391,
+    "SimplifyJobs Off-Season 2027": 46,
+    "SimplifyJobs Summer 2027": 126,
+    "SuryaHarikrishnan DS/AI": 988,
+    "SuryaHarikrishnan Hardware": 670,
     "SuryaHarikrishnan Other 2027": 1821,
-    "SuryaHarikrishnan Product": 176,
-    "SuryaHarikrishnan Quant": 144,
-    "SuryaHarikrishnan SWE Track": 802,
-    "aprameyak New Grad 2027": 1088,
-    "aprameyak Off-Cycle/Co-op": 633,
-    "aprameyak Summer 2027": 1907,
-    "ats": 12609,
+    "SuryaHarikrishnan Product": 192,
+    "SuryaHarikrishnan Quant": 157,
+    "SuryaHarikrishnan SWE Track": 867,
+    "aprameyak New Grad 2027": 1096,
+    "aprameyak Off-Cycle/Co-op": 670,
+    "aprameyak Summer 2027": 1981,
+    "ats": 8260,
     "breadth": 27,
     "echojobs": 79,
-    "ecr": 1228,
-    "freehire": 2670,
-    "jobhive": 17379,
+    "ecr": 1399,
+    "freehire": 2645,
+    "jobhive": 18014,
     "jobspy": 682,
-    "lilguy Live Feed": 5140,
+    "lilguy Live Feed": 5276,
     "negarprh Canada 2027": 1,
-    "priority": 81,
+    "priority": 353,
     "skillexchange": 13,
-    "sndsh404 Summer 2027": 75,
-    "speedyapply AI 2027": 426,
-    "speedyapply AI Intern Intl": 381,
-    "speedyapply AI New Grad Intl": 406,
-    "speedyapply AI New Grad USA": 507,
-    "speedyapply SWE 2027": 343,
-    "speedyapply SWE 2027 Intern Intl": 356,
-    "speedyapply SWE New Grad Intl": 559,
-    "speedyapply SWE New Grad USA": 824,
+    "sndsh404 Summer 2027": 80,
+    "speedyapply AI 2027": 541,
+    "speedyapply AI Intern Intl": 391,
+    "speedyapply AI New Grad Intl": 400,
+    "speedyapply AI New Grad USA": 516,
+    "speedyapply SWE 2027": 489,
+    "speedyapply SWE 2027 Intern Intl": 399,
+    "speedyapply SWE New Grad Intl": 560,
+    "speedyapply SWE New Grad USA": 829,
     "summer2026internships": 87,
     "vanshb03 New Grad 2027": 709,
     "vanshb03 Off-Season": 476,
     "vanshb03 Summer 2027": 1791,
-    "zapplyjobs Canada 2027": 24,
-    "zapplyjobs Internships 2027": 39,
+    "zapplyjobs Canada 2027": 23,
+    "zapplyjobs Internships 2027": 40,
     "zapplyjobs New Grad 2027": 42,
-    "zapplyjobs New Grad Data Science 2027": 62,
-    "zapplyjobs New Grad SWE 2027": 70,
-    "zshah101 Automated List": 93,
-    "zshah101 Summer 2027 US": 293
+    "zapplyjobs New Grad Data Science 2027": 61,
+    "zapplyjobs New Grad SWE 2027": 72,
+    "zshah101 Automated List": 97,
+    "zshah101 Summer 2027 US": 295
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-13T01:41:26.667799+00:00",
+      "generated_at": "2026-11-13T07:53:23.836064+00:00",
       "count": 11,
       "expected": [
         "jobhive",
@@ -138,6 +138,7 @@
         "ats_new",
         "breadth",
         "ecr",
+        "heavy",
         "jobhive",
         "jobspy",
         "light",
@@ -149,8 +150,7 @@
       "empty": [],
       "missing": [],
       "rejected": [
-        "echo",
-        "heavy"
+        "echo"
       ],
       "invalid": [],
       "seeded": []
@@ -161,21 +161,21 @@
     "scheme": "career-family-v1"
   },
   "career_families": {
-    "Software Engineering & Technology": 28490,
-    "Other Professional": 7456,
-    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 6450,
-    "Healthcare, Clinical & Public Health": 4240,
-    "Sales & Customer Success": 3388,
-    "Finance, Accounting & Banking": 3092,
-    "Design, UX/UI & Creative": 2540,
-    "Operations & Project Management": 2256,
-    "Supply Chain, Procurement & Logistics": 1985,
-    "Business Analysis, Consulting & Administration": 1558,
-    "Marketing, Communications & PR": 1524,
-    "Scientific Research, Lab & Biotech": 1376,
-    "Legal & Compliance": 646,
-    "Human Resources & Recruiting": 638,
-    "Education & Teaching": 192,
-    "Government & Public Service": 150
+    "Software Engineering & Technology": 27735,
+    "Other Professional": 6984,
+    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 6193,
+    "Healthcare, Clinical & Public Health": 4199,
+    "Sales & Customer Success": 3494,
+    "Finance, Accounting & Banking": 2727,
+    "Design, UX/UI & Creative": 2509,
+    "Operations & Project Management": 2175,
+    "Supply Chain, Procurement & Logistics": 1735,
+    "Business Analysis, Consulting & Administration": 1439,
+    "Marketing, Communications & PR": 1418,
+    "Scientific Research, Lab & Biotech": 1269,
+    "Legal & Compliance": 603,
+    "Human Resources & Recruiting": 557,
+    "Education & Teaching": 182,
+    "Government & Public Service": 142
   }
 }
