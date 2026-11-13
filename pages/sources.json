@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:12:13.423741+00:00",
+  "generated_at": "2026-11-13T09:34:35.052994+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,21 +7,21 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 8318
+      "count": 8319
     },
     {
       "name": "ATS career-page probe",
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3977
+      "count": 3984
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3977
+      "count": 3984
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -35,7 +35,7 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3191
+      "count": 3212
     },
     {
       "name": "vanshb03 Summer 2027",
@@ -91,7 +91,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1399
+      "count": 1397
     },
     {
       "name": "aprameyak New Grad 2027",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 7
+      "count": 6
     },
     {
       "name": "vanshb03 Summer 2026",
