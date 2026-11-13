@@ -28,20 +28,16 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install duckdb pandas pyarrow
-          python -m pip install requests
-          python -m pip install python-jobspy
-          python -m pip install protego requests-cache
-          python -m pip install pytest
+          python -m pip install -r Listings/requirements-dev.txt
 
       - name: Run tests
         run: cd Listings && python -m pytest -q
 
       - name: Run scraper (no API calls)
-        # Shards stay off until the reader migrates: publishing both the
-        # monolithic JSON and 14.5 MB of parts would grow .git by ~170 MB/day.
+        # Shards ship beside the monolithic feed as release assets. They are
+        # no longer committed, so the extra ~14.5 MB costs the repo nothing.
         env:
-          SEARCHTERN_SHARDS: "0"
+          SEARCHTERN_SHARDS: "1"
           SEARCHTERN_FEED_DELIVERY: "release"
           SEARCHTERN_RELEASE_TAG: "feed-latest"
           SEARCHTERN_REPO: ${{ github.repository }}
@@ -58,7 +54,11 @@ jobs:
             gh release create "$tag" --title "SearchTern feed" \
               --notes "Rolling latest generated feed assets." --target "$GITHUB_SHA"
           fi
-          gh release upload "$tag" pages/searchtern.json pages/listings.json --clobber
+          assets=(pages/searchtern.json pages/listings.json)
+          if [ -f pages/manifest.json ]; then
+            assets+=(pages/manifest.json pages/shards/*.json.gz)
+          fi
+          gh release upload "$tag" "${assets[@]}" --clobber
           rm -rf /tmp/searchtern-assets && mkdir -p /tmp/searchtern-assets
           gh release download "$tag" --pattern searchtern.json --dir /tmp/searchtern-assets --clobber
           gh release download "$tag" --pattern listings.json --dir /tmp/searchtern-assets --clobber
@@ -74,9 +74,7 @@ jobs:
                   raise SystemExit(f"{name}: downloaded sha256 does not match manifest")
           print("release assets verified against manifest")
           PY
-          # The feed is a release asset now; restore the compatibility copy so
-          # the commit contains only the small manifest/README/cache surface.
-          git checkout -- pages/searchtern.json pages/listings.json
+          # The feed is a release asset only; the checkout no longer carries it.
 
       - name: Commit and push updates
         run: |
@@ -85,9 +83,7 @@ jobs:
           # Explicitly excluding the priority fast-lane file: this tier rebuilds
           # from tier caches and must not publish over the 15-minute lane.
           git add README.md pages/ countries/ Listings/cache/ \
-            ':(exclude)pages/priority.json' \
-            ':(exclude)pages/searchtern.json' \
-            ':(exclude)pages/listings.json'
+            ':(exclude)pages/priority.json'
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

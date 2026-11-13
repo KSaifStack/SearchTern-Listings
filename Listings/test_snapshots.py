@@ -233,7 +233,14 @@ def test_ttl_is_policy_not_sidecar_metadata():
     assert snapshots.is_fresh(shortened, NOW) is True
 
 
-def test_unknown_provenance_and_source_mismatch_are_not_publishable(tmp_path):
+def test_legacy_ok_sidecar_is_read_as_a_fetch(tmp_path):
+    """A pre-provenance sidecar with status ok is a fetch, not a failure.
+
+    heavy/light/priority/jobspy were fetched and inside TTL but reported
+    `provenance_ok: false` only because the field did not exist when their
+    sidecar was written. Refusing them published the aggregator copy of jobs
+    already crawled at the employer.
+    """
     cache = tmp_path / "cache"
     path = str(cache / "tier_heavy.parquet")
     os.makedirs(cache)
@@ -241,15 +248,41 @@ def test_unknown_provenance_and_source_mismatch_are_not_publishable(tmp_path):
     sidecar = snapshots.read("heavy", path)
     sidecar.pop("provenance")
     snapshots._write("heavy", path, sidecar)
+
     report = snapshots.report(str(cache), NOW)
+
+    assert report["fresh"] == ["heavy"]
+    assert report["legacy_provenance"] == ["heavy"]
+    assert report["invalid"] == []
+
+
+def test_cache_mtime_provenance_is_never_publishable(tmp_path):
+    cache = tmp_path / "cache"
+    path = str(cache / "tier_heavy.parquet")
+    os.makedirs(cache)
+    snapshots.record("heavy", 3, path=path, now=NOW)
+    sidecar = snapshots.read("heavy", path)
+    sidecar["provenance"] = "cache_mtime"
+    sidecar["status"] = "seeded"
+    snapshots._write("heavy", path, sidecar)
+
+    report = snapshots.report(str(cache), NOW)
+
     assert report["fresh"] == []
     assert "heavy" in report["invalid"]
 
+
+def test_source_mismatch_is_not_publishable(tmp_path):
+    cache = tmp_path / "cache"
+    path = str(cache / "tier_heavy.parquet")
+    os.makedirs(cache)
     snapshots.record("heavy", 3, path=path, now=NOW)
     sidecar = snapshots.read("heavy", path)
     sidecar["source"] = "medium"
     snapshots._write("heavy", path, sidecar)
+
     collected = snapshots.collect(str(cache), NOW)["heavy"]
+
     assert collected["source_match"] is False
     assert collected["fresh"] is False
     assert "heavy" in snapshots.report(str(cache), NOW)["invalid"]

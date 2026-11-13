@@ -1,0 +1,17 @@
+# Everything the pipeline and its test suite need, in one place.
+#
+# Workflows install this file so a local run and CI cannot drift. The feed
+# pipeline and the tests are pure Python; no service or system package is
+# required. Floor versions match what CI has been running successfully.
+duckdb>=1.0
+pandas>=2.0
+pyarrow>=14.0
+requests>=2.31
+python-jobspy>=1.1
+protego>=0.3
+requests-cache>=1.1
+
+# Test tooling and lint. Without these the suite cannot run outside CI
+# (2026-11-13: `import pandas` failed and ruff/pytest were absent locally).
+pytest>=8.0
+ruff>=0.5

@@ -1,7 +1,22 @@
 # SearchTern-Listings — implementation backlog
 
 **Date:** 2026-11-10  
-**Status:** planning only. Nothing in this backlog was implemented, deployed, committed, or pushed for this review.
+**Status:** implemented 2026-11-13 (P0 and P1-1..P1-3); see the note below.
+
+> **Implementation status — 2026-11-13.** P0-1..P0-6 and P1-1..P1-3 are in the
+> tree: the publisher unions every eligible snapshot, writes one atomic
+> generation with a physical last-known-good fallback and a reconciled
+> manifest, and the monolithic feed pair is a release asset rather than a
+> committed file. The 16-item audit of the 2026-11-11 feed is closed as
+> follows, mapped to this backlog: P0-1 sidecar provenance (a pre-provenance
+> `ok` record is read as a fetch by `snapshots.collect` and reported as
+> `legacy_provenance`); P0-2 needed no further change; P0-3 already called
+> `publish.build_publish_frame`; P0-4 adds `status_reasons`/`degradation` to the
+> manifest; P1-5 `id`; P1-6 `closed_at`; P1-7 `company_key`/`company_domain`;
+> P2-8 `apply_link_rejections`; P2-9 rotating stale verification and
+> `snapshot_fresh` naming; P3-10 `coverage.fields`; P4-11 shards on and
+> uploaded; P4-12 feed untracked; P4-13/14 coverage counts and the fallback
+> family; P5-15 this note; P5-16 `Listings/requirements-dev.txt`.
 
 ## How to read this
 

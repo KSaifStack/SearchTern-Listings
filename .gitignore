@@ -15,3 +15,11 @@ pages/last-known-good/
 
 # Isolated validation runs and their virtualenv. Never published or committed.
 .staging/
+
+# Published feed artifacts. Served from the GitHub release (see
+# pages/feed-manifest.json); committing them is what made the feed a
+# multi-megabyte churn every run. The manifest and small diagnostics stay.
+pages/searchtern.json
+pages/listings.json
+pages/manifest.json
+pages/shards/

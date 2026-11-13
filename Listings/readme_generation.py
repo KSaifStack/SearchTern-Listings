@@ -142,7 +142,14 @@ def _build_json_records(dataframe, reasons=None, max_age_days=INACTIVE_THRESHOLD
         record["career_reason"] = tax["reason"]
         record["location"] = clean_location(record.get("location", ""))
         record["source_posted_at"] = str(record.get("date") or "")
-        record["closed_at"] = ""
+        # Closure is computed upstream and must survive export. This used to be
+        # hardcoded to "", so a closed posting's date was dropped at the last
+        # step even though run_meta and digests/closed-*.json had it.
+        closed_at = record.get("closed_at")
+        closed_text = "" if closed_at is None else str(closed_at).strip()
+        record["closed_at"] = (
+            "" if closed_text.lower() in ("nan", "nat", "none", "null") else closed_text
+        )
         record["last_verified_at"] = str(record.get("verified_at") or "")
         record["verification_status"] = (
             "verified" if record["last_verified_at"].strip() else "observed"
@@ -155,14 +162,29 @@ def _build_json_records(dataframe, reasons=None, max_age_days=INACTIVE_THRESHOLD
         # not a duplicate of every other such link (7,920 markdown rows collapsed
         # onto one row otherwise, 2026-11-07).
         ats_type, ats_id = identities[position] if position < len(identities) else ("", "")
-        ats_type = str(ats_type or "").strip().lower()
-        ats_id = str(ats_id or "").strip().lower()
+        ats_type = str(ats_type or "").strip()
+        ats_id = str(ats_id or "").strip()
+        ats_key, ats_req = ats_type.lower(), ats_id.lower()
+        id_key = f"id|{ats_key}|{ats_req}" if ats_key and ats_req else ""
+        url_key = canonical_url(link)
+        # The feed owns the requisition's identity instead of leaving every
+        # consumer to re-derive it from the link. `id` is the stable key the
+        # sitemap's /jobs/<id> and any client-side detail lookup need; a row
+        # without an ATS id still gets a content-stable key from its canonical
+        # apply URL, which is what the MCP server had to derive on its own.
+        # Published ats_type/ats_id keep the source's casing — only the key is
+        # normalised. Resolving them from the link also fills the 4,858 blanks.
+        record["ats_type"] = ats_type or None
+        record["ats_id"] = ats_id or None
+        record["id"] = (
+            f"{ats_key}:{ats_req}" if id_key
+            else (f"url:{hashlib.sha1(url_key.encode('utf-8')).hexdigest()[:16]}"
+                  if url_key else "")
+        )
         # Either signal wins: one requisition reached through two sources shares
         # an id even when the tracker URL differs, and a mirrored row keeps the
         # same apply URL even when the sources publish conflicting ids (the
         # shadow fixture asserts that second case).
-        id_key = f"id|{ats_type}|{ats_id}" if ats_type and ats_id else ""
-        url_key = canonical_url(link)
         if (id_key and id_key in seen_ids) or (url_key and url_key in seen_urls):
             drop("duplicate_id" if id_key and id_key in seen_ids else "duplicate_url")
             continue
@@ -194,7 +216,7 @@ def _json_text(records):
 
 def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
                           snapshots_report=None, required_sources=(), minimum_rows=1,
-                          mirror_max_age_days=None):
+                          mirror_max_age_days=None, liveness=None):
     """Build the feed and manifest text and gate them, without writing anything.
 
     Everything a publication needs is decided here: the final row filters, the
@@ -255,23 +277,61 @@ def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
         "invalid": list((snapshots_report or {}).get("invalid", []) or []),
         "seeded": list((snapshots_report or {}).get("seeded", []) or []),
     }
-    degraded = bool(snapshot_summary["missing"] or snapshot_summary["expired"]
-                    or snapshot_summary["rejected"] or snapshot_summary["invalid"]
-                    or snapshot_summary["empty"])
+    # A degraded generation must say which *kind* of gap caused it. The old
+    # boolean could not distinguish "a specialty source aged out" from "a tier
+    # never ran", so every run reported a bare `degraded`.
+    seeded = set(snapshot_summary["seeded"])
+    degradation = {
+        "never_fetched": sorted(seeded),
+        "snapshot_missing": list(snapshot_summary["missing"]),
+        "snapshot_expired": [n for n in snapshot_summary["expired"] if n not in seeded],
+        "snapshot_rejected": list(snapshot_summary["rejected"]),
+        "snapshot_invalid": [n for n in snapshot_summary["invalid"] if n not in seeded],
+        "snapshot_empty": list(snapshot_summary["empty"]),
+    }
+    status_reasons = [
+        f"{label}:{name}"
+        for key, label in (("never_fetched", "never_fetched"),
+                           ("snapshot_missing", "missing"),
+                           ("snapshot_expired", "expired"),
+                           ("snapshot_rejected", "rejected"),
+                           ("snapshot_invalid", "invalid_provenance"),
+                           ("snapshot_empty", "empty"))
+        for name in degradation[key]
+    ]
+    degraded = bool(status_reasons)
     # Preserve the verified previous generation before replacing it. If the
     # previous feed is torn, prepare() restores its physical LKG first.
     feed_manifest.prepare(pages_dir)
     previous = _read_manifest(manifest_path)
     previous_published = previous.get("published") if isinstance(
         previous.get("published"), dict) else {}
-    last_known_good = (
-        {"generated_at": previous.get("generated_at"),
-         "run_id": previous.get("run_id"),
-         "published": previous_published,
-         "path": f"pages/{feed_manifest.LKG_DIR}",
-         "manifest": f"pages/{feed_manifest.LKG_DIR}/{feed_manifest.LKG_CURRENT}"}
-        if previous_published else None
-    )
+    # The manifest may only advertise a recovery copy that physically exists.
+    # `last_known_good` was null on every production run while `recovery` still
+    # pointed at pages/last-known-good, which never existed: a fallback claim
+    # with nothing behind it.
+    lkg_available = feed_manifest.has_last_known_good(pages_dir)
+    lkg_pointer = feed_manifest.read_last_known_good(pages_dir) if lkg_available else {}
+    if lkg_pointer.get("generation"):
+        last_known_good = {
+            "generated_at": lkg_pointer.get("generated_at"),
+            "run_id": lkg_pointer.get("run_id"),
+            "published": lkg_pointer.get("published") or previous_published,
+            "path": f"pages/{feed_manifest.LKG_DIR}/{lkg_pointer['generation']}",
+            "manifest": f"pages/{feed_manifest.LKG_DIR}/{feed_manifest.LKG_CURRENT}",
+            "available": True,
+        }
+    elif previous_published:
+        last_known_good = {
+            "generated_at": previous.get("generated_at"),
+            "run_id": previous.get("run_id"),
+            "published": previous_published,
+            "path": f"pages/{feed_manifest.LKG_DIR}",
+            "manifest": f"pages/{feed_manifest.LKG_DIR}/{feed_manifest.LKG_CURRENT}",
+            "available": False,
+        }
+    else:
+        last_known_good = None
 
     # A partial or failed run must never replace a larger valid publication with
     # a smaller one: the snapshot ledger can be empty on a fresh checkout, in
@@ -298,6 +358,8 @@ def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
         "run_id": run_id,
         "generated_at": generated_at.isoformat(),
         "status": "degraded" if degraded else "ok",
+        "status_reasons": status_reasons,
+        "degradation": degradation,
         "publication_status": "published",
         "delivery": delivery,
         "published": {
@@ -323,6 +385,7 @@ def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
         "recovery": {
             "path": f"pages/{feed_manifest.LKG_DIR}",
             "manifest": f"pages/{feed_manifest.LKG_DIR}/{feed_manifest.LKG_CURRENT}",
+            "available": lkg_available,
         },
         "source_counts": dict(sorted(source_counts.items())),
         "inputs": {"snapshots": snapshot_summary},
@@ -336,6 +399,7 @@ def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
             **{f"searchtern:{k}": v for k, v in mirror_reasons.items()},
             **{f"listings:{k}": v for k, v in listing_reasons.items()},
         },
+        liveness=liveness,
     )
     manifest["career_families"] = {
         row["name"]: row["total"] for row in coverage_payload["career_families"]
@@ -359,7 +423,7 @@ def prepare_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
 
 def write_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
                         snapshots_report=None, required_sources=(), minimum_rows=1,
-                        mirror_max_age_days=None):
+                        mirror_max_age_days=None, liveness=None):
     """Write the feed pair and manifest in one atomic transaction.
 
     Kept as the feed-only entry point used by tests and the shadow tooling. A
@@ -370,6 +434,7 @@ def write_listings_json(dataframe, output_dir=".", mirror_dataframe=None,
         dataframe, output_dir=output_dir, mirror_dataframe=mirror_dataframe,
         snapshots_report=snapshots_report, required_sources=required_sources,
         minimum_rows=minimum_rows, mirror_max_age_days=mirror_max_age_days,
+        liveness=liveness,
     )
     _atomic_write_pairs(prepared["pairs"])
 
@@ -540,7 +605,7 @@ def generate_readme(dataframe, output_dir=".", generation=None):
 def publish_generation(listings_frame, mirror_frame=None, readme_frame=None,
                        output_dir=".", snapshots_report=None, required_sources=(),
                        minimum_rows=1, include_feed_xml=True,
-                       mirror_max_age_days=None):
+                       mirror_max_age_days=None, liveness=None):
     """Publish one coherent generation: feed, manifest, README, health, RSS.
 
     Every file that describes the publication is staged and replaced in one
@@ -553,6 +618,7 @@ def publish_generation(listings_frame, mirror_frame=None, readme_frame=None,
         listings_frame, output_dir=output_dir, mirror_dataframe=mirror_frame,
         snapshots_report=snapshots_report, required_sources=required_sources,
         minimum_rows=minimum_rows, mirror_max_age_days=mirror_max_age_days,
+        liveness=liveness,
     )
     pages_dir = prepared["pages_dir"]
     generation = prepared["manifest"]["run_id"]
@@ -610,8 +676,9 @@ def publish_generation(listings_frame, mirror_frame=None, readme_frame=None,
           f"— {prepared['counts']['searchtern']:,} published rows")
     families = prepared["coverage"]["totals"]
     print(f"Coverage: {families['career_families']} career families, "
-          f"{families['unclassified']:,} unclassified, "
-          f"{families['verified']:,}/{families['published']:,} verified this run")
+          f"{families['other_professional']:,} other professional, "
+          f"{families['snapshot_fresh']:,}/{families['published']:,} "
+          "rows from a freshly fetched snapshot")
     print(f"README: {readme_stats['total_rows']:,} rows over "
           f"{readme_stats['total_pages']} page(s), generation {generation}")
     return prepared["manifest"]

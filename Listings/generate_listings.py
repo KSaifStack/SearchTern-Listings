@@ -62,6 +62,7 @@ from dedup import dedupe as _dedupe
 from readme_utils import (
     SESSION,
     clean_company_name,
+    clean_link,
     clean_location,
     http_get,
 )
@@ -660,6 +661,30 @@ def _save_seen(seen):
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(seen, f)
     os.replace(tmp, _seen_path())
+
+
+def _verify_cursor_path():
+    return os.path.join(CACHE_DIR, "verify_cursor.json")
+
+
+def _load_verify_cursor():
+    """Last stale key checked, so each run rechecks a different slice."""
+    try:
+        with open(_verify_cursor_path(), encoding="utf-8") as handle:
+            return str((json.load(handle) or {}).get("key") or "")
+    except (OSError, ValueError, AttributeError):
+        return ""
+
+
+def _save_verify_cursor(key):
+    try:
+        os.makedirs(CACHE_DIR, exist_ok=True)
+        temp = _verify_cursor_path() + ".tmp"
+        with open(temp, "w", encoding="utf-8") as handle:
+            json.dump({"key": str(key or "")}, handle)
+        os.replace(temp, _verify_cursor_path())
+    except OSError:
+        pass
 
 
 def _verify_link(u):
@@ -2455,11 +2480,24 @@ def main(argv=None):
     stale_horizon = (now - pd.Timedelta(days=stale_days)).isoformat()
     stale_checked = stale_dead = 0
     stale_closed = []
+    stale_candidates = []
     if stale_cap > 0:
-        stale = sorted(
+        stale_candidates = sorted(
             (str(meta.get("last", "")), key) for key, meta in seen.items()
             if key in current_by_key and str(meta.get("last", "")) < stale_horizon
-        )[:stale_cap]
+        )
+        # Rotate through the whole stale set. Re-checking the same oldest 150
+        # every run left 63 of 26,765 rows probed forever, so "verified" was
+        # never evidence. The cursor makes coverage accumulate across runs.
+        _cursor = _load_verify_cursor()
+        _start = next(
+            (i + 1 for i, (_last, key) in enumerate(stale_candidates)
+             if key == _cursor), 0,
+        )
+        _rotated = stale_candidates[_start:] + stale_candidates[:_start]
+        stale = _rotated[:stale_cap]
+        if stale:
+            _save_verify_cursor(stale[-1][1])
         probe = [
             (key, str(current_by_key[key].get("link") or ""))
             for _last, key in stale
@@ -2498,8 +2536,14 @@ def main(argv=None):
         live_keys=live_keys, live_pairs=live_pairs,
     )
     closed.extend(stale_closed)
-    _first_by_index = {current_by_key[k].name: first
-                       for k, first in _first_by_key.items() if k in current_by_key}
+    # Closure used to be computed and then dropped at export: the digest had
+    # keys and dates but no time, and the feed hardcoded closed_at="".
+    for _closed_entry in closed:
+        _closed_entry.setdefault("closed_at", obs)
+    # The seen log commits only the published technology subset; the broader
+    # feed is matched by requisition id below, so a non-tech row still inherits
+    # the first-seen date of the same posting.
+    _seen_by_id = seen_index.seen_ids(seen)
     _save_seen(seen)
     _new_index = {current_by_key[k].name for k in is_new if k in current_by_key}
 
@@ -2533,13 +2577,28 @@ def main(argv=None):
     # state, every one marked closed by its own source) cannot be published or
     # identified. They used to vanish into the "Skipped (Oracle URLs)" counter;
     # counting them per source is what makes the remaining gap measurable.
-    _link_col = final["link"].astype(str).str.strip() if "link" in final.columns else None
-    _linkless_mask = (~_link_col.str.match(r"^https?://", na=False)) if _link_col is not None else None
-    _linkless_total = int(_linkless_mask.sum()) if _linkless_mask is not None else 0
+    # `linkless_rows` used to count only a raw link that was not http(s), which
+    # reported 0 while the export refused 10,256 rows under `no_apply_link`.
+    # The export's predicate is `clean_link()`; use the same one and split the
+    # two causes so the number is actionable instead of mislabelled.
+    if "link" in final.columns:
+        _link_col = final["link"].astype(str).str.strip()
+        _raw_http = _link_col.str.match(r"^https?://", na=False)
+        _clean_ok = _link_col.map(lambda v: bool(clean_link(v)))
+    else:
+        _raw_http = pd.Series(dtype=bool)
+        _clean_ok = pd.Series(dtype=bool)
+    _linkless_mask = ~_clean_ok
+    _linkless_total = int(_linkless_mask.sum()) if len(_linkless_mask) else 0
     _linkless_by_source = (
         {str(k): int(v) for k, v in final.loc[_linkless_mask, "source"].value_counts().items()}
         if _linkless_total else {}
     )
+    _link_rejections = {
+        "no_http_link": int((~_raw_http).sum()) if len(_raw_http) else 0,
+        "unusable_http_link": (int((_raw_http & ~_clean_ok).sum())
+                              if len(_raw_http) else 0),
+    }
     run_meta = {
         "generated_at": obs,
         "total": len(listings_result),
@@ -2551,6 +2610,15 @@ def main(argv=None):
         "stale_dead": stale_dead,
         "linkless_rows": _linkless_total,
         "linkless_by_source": _linkless_by_source,
+        "apply_link_rejections": _link_rejections,
+        "verification": {
+            "new_checked": len(checked),
+            "new_dead": len(dead_keys),
+            "stale_eligible": len(stale_candidates),
+            "stale_checked": stale_checked,
+            "stale_dead": stale_dead,
+            "rotating": stale_cap > 0,
+        },
         "sources_this_run": buckets_fresh,
         "markdown_source_stats": [{"name": n, "rows": c} for n, c in md_source_stats],
     }
@@ -2680,7 +2748,13 @@ def main(argv=None):
                 (str(row["company"]).strip().lower(), str(row["role"]).strip().lower())
             )
 
-        listings_result["description"] = listings_result.apply(_fill_desc, axis=1)
+        # Both published feeds need the description. Filling only the tech
+        # subset left searchtern.json at 71.6% description coverage while
+        # listings.json looked healthy.
+        for _desc_frame in (listings_result, searchtern_result):
+            if "description" not in _desc_frame.columns or _desc_frame.empty:
+                continue
+            _desc_frame["description"] = _desc_frame.apply(_fill_desc, axis=1)
         n_with_desc = listings_result["description"].notna().sum()
         print(f"  Description coverage: {n_with_desc:,}/{len(listings_result):,} rows")
 
@@ -2719,11 +2793,15 @@ def main(argv=None):
         )
 
 
-    if "description" in listings_result.columns:
-        empty = listings_result["description"].isna() | (
-            listings_result["description"].astype(str).str.strip() == ""
+    for _desc_frame in (listings_result, searchtern_result):
+        if "description" not in _desc_frame.columns or _desc_frame.empty:
+            continue
+        empty = _desc_frame["description"].isna() | (
+            _desc_frame["description"].astype(str).str.strip() == ""
         )
-        listings_result.loc[empty, "description"] = listings_result.loc[empty].apply(_synthesize_desc, axis=1)
+        _desc_frame.loc[empty, "description"] = _desc_frame.loc[empty].apply(
+            _synthesize_desc, axis=1)
+    if "description" in listings_result.columns:
         print(
             f"  Description after synthesize: {listings_result['description'].notna().sum():,}/{len(listings_result):,} rows"
         )
@@ -2735,10 +2813,35 @@ def main(argv=None):
     def _bucket_of_row(row):
         return _seen_bucket(_row_source(row))
 
+    def _first_seen_map(frame):
+        """index -> first-seen date, computed from this frame's own rows.
+
+        `feed_scope` re-indexes, so a map built from another frame's labels
+        hands one row's date to a different row. That is why first_seen_at was
+        only 32% populated and partly wrong for the broader feed.
+        """
+        if frame is None or len(frame) == 0:
+            return {}
+        ats_series, req_series = identity.pairs(frame)
+        out = {}
+        for (idx, row), ats, req in zip(frame.iterrows(), ats_series, req_series,
+                                        strict=False):
+            first = (seen.get(_key_of(row)) or {}).get("first", "")
+            if not first:
+                prior_key = _seen_by_id.get(
+                    (str(ats or "").strip().lower(),
+                     str(req or "").strip().lower()))
+                if prior_key:
+                    first = (seen.get(prior_key) or {}).get("first", "")
+            out[idx] = first or ""
+        return out
+
     listings_result = freshness.attach_row_times(
-        listings_result, _first_by_index, obs, _fresh_buckets, _row_source, _bucket_of_row)
+        listings_result, _first_seen_map(listings_result), obs, _fresh_buckets,
+        _row_source, _bucket_of_row)
     searchtern_result = freshness.attach_row_times(
-        searchtern_result, _first_by_index, obs, _fresh_buckets, _row_source, _bucket_of_row)
+        searchtern_result, _first_seen_map(searchtern_result), obs, _fresh_buckets,
+        _row_source, _bucket_of_row)
     for _name, _cov_frame in (("listings", listings_result), ("searchtern", searchtern_result)):
         _cov = identity.coverage(_cov_frame)
         print(f"  Identity in {_name}: {_cov['identified']:,}/{_cov['rows']:,} rows "
@@ -2761,6 +2864,10 @@ def main(argv=None):
     readme_role_lower = readme_result["role"].str.lower()
     readme_tech_mask = readme_role_lower.str.contains(TECH_KEYWORDS_RE, regex=True, na=False)
     readme_result = readme_result[readme_tech_mask]
+    _liveness = {
+        "checked": len(checked) + stale_checked,
+        "dead": len(dead_keys) + stale_dead,
+    }
     _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
     try:
         # One transaction writes the feed, manifest, README, country pages, RSS
@@ -2771,6 +2878,7 @@ def main(argv=None):
             readme_frame=readme_result, output_dir="..",
             snapshots_report=_snap_report,
             required_sources=publication.CRITICAL_SOURCES,
+            liveness=_liveness,
         )
         try:
             feed_manifest.preserve(_pages)
@@ -2793,13 +2901,12 @@ def main(argv=None):
         sys.exit(1)
     # Compressed, streamable parts + manifest: clients can fetch one shard and
     # read counts/coverage/timestamps without downloading the whole feed.
-    # Off by default, per docs/reverse-engineering/publication-migration.md: the
-    # pipeline still commits the monolithic JSON, so publishing the parts too
-    # adds ~14.5 MB per run (~170 MB/day at the current schedule) until the
-    # site reads the manifest. Set SEARCHTERN_SHARDS=1 after that reader swap.
-    if os.environ.get("SEARCHTERN_SHARDS", "0") == "1":
+    # On by default now that the feed leaves git (P1-3): the parts ship as
+    # release assets and never add repository churn. SEARCHTERN_SHARDS=0 turns
+    # them off for a local run.
+    if os.environ.get("SEARCHTERN_SHARDS", "1") == "1":
         _pages = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "pages")
-        _manifest = shards.publish(searchtern_result, _pages, name="listings")
+        _manifest = shards.publish(searchtern_result, _pages, name="searchtern")
         if _manifest:
             print(f"  Shards: {len(_manifest['shards'])} parts, {_manifest['rows']:,} rows, "
                   f"{_manifest['bytes'] / 1e6:.1f} MB gz, manifest.json")

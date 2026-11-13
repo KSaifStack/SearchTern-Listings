@@ -144,12 +144,19 @@ def assess(cache_dir, now=None, frame=None):
     if rows == 0 and not blockers:
         blockers.append({"source": "feed", "reason": "empty"})
 
-    degraded = bool(report.get("missing") or report.get("expired")
-                    or report.get("empty") or report.get("rejected")
-                    or report.get("invalid"))
+    # "Degraded" alone cannot distinguish a specialty source that aged out from
+    # a tier that never ran. Report the reason per source so an operator does not
+    # have to diff two ledgers to find out which feed is thin.
+    reasons = []
+    for key, label in (("missing", "missing"), ("expired", "expired"),
+                       ("empty", "empty"), ("rejected", "rejected"),
+                       ("invalid", "invalid_provenance")):
+        reasons.extend(f"{label}:{name}" for name in report.get(key) or [])
+    degraded = bool(reasons)
     status = "failed" if blockers else ("degraded" if degraded else "ok")
     return {
         "status": status,
+        "status_reasons": reasons,
         "blockers": blockers,
         "rows": rows,
         "report": report,
@@ -163,6 +170,7 @@ def write_status(pages_dir, assessment):
     payload = {
         "generated_at": datetime.now(UTC).isoformat(),
         "status": assessment.get("status", "failed"),
+        "status_reasons": assessment.get("status_reasons", []),
         "blockers": assessment.get("blockers", []),
         "rows": assessment.get("rows"),
         "snapshots": {

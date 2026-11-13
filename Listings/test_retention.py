@@ -74,4 +74,7 @@ def test_publication_carries_coverage_for_the_same_generation(tmp_path):
     assert coverage["totals"]["published"] == manifest["published"]["searchtern"]["rows"]
     assert any(row["name"] == "Finance, Accounting & Banking"
                for row in coverage["career_families"])
-    assert coverage["verification"]["verified"] == coverage["totals"]["verified"]
+    assert coverage["verification"]["snapshot_fresh"] == coverage["totals"]["snapshot_fresh"]
+    # `verified` must not be reported where the policy says it is not liveness.
+    assert "verified" not in coverage["verification"]
+    assert coverage["totals"]["career_families"] == len(coverage["career_families"])

@@ -108,12 +108,37 @@ def _sidecar_path(name, path):
     return os.path.join(_dir(path), f"{name}.json")
 
 
+def _normalize_sidecar(side):
+    """Read a pre-provenance `ok` record as the fetch it was.
+
+    `ok`/`ok:recovered` are only ever written by a successful fetch; seeded
+    records say `seeded` and cache-mtime records say `cache_mtime`. The field
+    did not always exist, and refusing those records blocked freshly fetched
+    sources (heavy, light, priority, jobspy on 2026-11-11) while their parquet
+    was valid. It is read as a fetch and reported as legacy, never silently.
+    """
+    if not isinstance(side, dict):
+        return {}
+    legacy = (
+        "provenance" not in side
+        and str(side.get("status") or "") in ("ok", "ok:recovered")
+    )
+    if legacy:
+        side["provenance"] = "fetch"
+        side["provenance_legacy"] = True
+    else:
+        # Sticky: `provenance` may have been synthesized by an earlier read, so
+        # a persisted `true` is the only record that the fetch was inferred.
+        side["provenance_legacy"] = bool(side.get("provenance_legacy"))
+    return side
+
+
 def read(name, path):
     """The sidecar recorded for this cache, or an empty dict."""
     try:
         with open(_sidecar_path(name, path), encoding="utf-8") as handle:
             data = json.load(handle)
-        return data if isinstance(data, dict) else {}
+        return _normalize_sidecar(data) if isinstance(data, dict) else {}
     except (OSError, ValueError):
         return {}
 
@@ -370,6 +395,7 @@ def collect(cache_dir, now=None):
         side["file_source"] = file_name
         side["source_match"] = name == file_name
         side["known"] = file_name in CLASS_OF
+        _normalize_sidecar(side)
         side["provenance_ok"] = bool(
             side.get("provenance_ok", True)
             and side["source_match"]
@@ -421,6 +447,8 @@ def report(cache_dir, now=None):
         "rejected": rejected,
         "invalid": invalid,
         "seeded": sorted(n for n, s in sources.items() if s.get("seeded")),
+        "legacy_provenance": sorted(n for n, s in sources.items()
+                                   if s.get("provenance_legacy")),
         "serving_previous": sorted(n for n, s in sources.items()
                                   if s.get("servable") and not s["fresh"]),
         "rows_fresh": sum(int(s.get("rows") or 0) for s in sources.values() if s["fresh"]),
