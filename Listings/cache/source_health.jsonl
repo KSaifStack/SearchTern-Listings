@@ -4399,3 +4399,95 @@
 {"ts": 1794562671.275268, "source": "breadth:Remotive", "discovered": 14, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794562671.275268, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794562671.275268, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.242, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "freehire", "discovered": 7303, "valid": 5476, "new": 83, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md", "discovered": 0, "valid": 0, "new": 33, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "ats", "discovered": 0, "valid": 0, "new": 33, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth", "discovered": 0, "valid": 0, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "jobhive-closure", "discovered": 95630, "valid": 95300, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "ats-probe", "discovered": 349247, "valid": 24364, "new": 0, "seconds": 1302.904, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "jobhive", "discovered": 0, "valid": 15259, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "freehire-pages", "discovered": 7400, "valid": 7303, "new": 0, "seconds": 20.797, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "ecr", "discovered": 9685, "valid": 5411, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "oracle:WSP", "discovered": 2000, "valid": 2000, "new": 0, "seconds": 37.335, "status": "truncated"}
+{"ts": 1794575350.8813128, "source": "oracle:Stantec", "discovered": 1648, "valid": 1648, "new": 0, "seconds": 23.176, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "priority-probe", "discovered": 10578, "valid": 362, "new": 0, "seconds": 9.999, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "adp:Carolina Power", "discovered": 327, "valid": 327, "new": 0, "seconds": 7.886, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "adp:Pennoni", "discovered": 234, "valid": 234, "new": 0, "seconds": 4.626, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "eightfold:Applied Materials", "discovered": 224, "valid": 224, "new": 0, "seconds": 28.522, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "eightfold:Qualcomm", "discovered": 125, "valid": 125, "new": 0, "seconds": 16.93, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "eightfold:CACI", "discovered": 103, "valid": 103, "new": 0, "seconds": 14.533, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Intuitive Machines", "discovered": 97, "valid": 97, "new": 0, "seconds": 2.237, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "eightfold:Arcadis", "discovered": 75, "valid": 75, "new": 0, "seconds": 13.25, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Patriot Group International", "discovered": 54, "valid": 54, "new": 0, "seconds": 1.045, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:North Wind", "discovered": 52, "valid": 52, "new": 0, "seconds": 1.292, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Veterinary United", "discovered": 44, "valid": 44, "new": 0, "seconds": 1.094, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Community Care Plan", "discovered": 43, "valid": 43, "new": 0, "seconds": 1.065, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Drt Holdings", "discovered": 39, "valid": 39, "new": 0, "seconds": 0.637, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:The Bernard Group", "discovered": 38, "valid": 38, "new": 0, "seconds": 0.602, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Pathstone", "discovered": 35, "valid": 35, "new": 0, "seconds": 0.628, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "eightfold:Starbucks", "discovered": 28, "valid": 28, "new": 0, "seconds": 4.928, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Avalon", "discovered": 26, "valid": 26, "new": 0, "seconds": 0.6, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "icims:Peraton", "discovered": 25, "valid": 25, "new": 0, "seconds": 20.463, "status": "truncated"}
+{"ts": 1794575350.8813128, "source": "icims:Novelis", "discovered": 25, "valid": 25, "new": 0, "seconds": 22.641, "status": "truncated"}
+{"ts": 1794575350.8813128, "source": "icims:General Dynamics Mission Systems", "discovered": 20, "valid": 20, "new": 0, "seconds": 17.557, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "icims:Dewberry", "discovered": 20, "valid": 20, "new": 0, "seconds": 17.738, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "icims:Sargent & Lundy", "discovered": 20, "valid": 20, "new": 0, "seconds": 19.352, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Steinberg Diagnostic Medical Imaging", "discovered": 15, "valid": 15, "new": 0, "seconds": 0.168, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "bamboohr:Lunar Outpost", "discovered": 11, "valid": 11, "new": 0, "seconds": 8.784, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Arcadia", "discovered": 10, "valid": 10, "new": 0, "seconds": 0.12, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Meazure Learning", "discovered": 9, "valid": 9, "new": 0, "seconds": 0.371, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Curious Plot", "discovered": 8, "valid": 8, "new": 0, "seconds": 0.122, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Carlos Rosario Public Charter School", "discovered": 5, "valid": 5, "new": 0, "seconds": 0.114, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "wfn:Canaccord Genuity", "discovered": 2, "valid": 2, "new": 0, "seconds": 0.118, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:lilguy Live Feed", "discovered": 8398, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SimplifyJobs Off-Season 2027", "discovered": 5192, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:GodlyDonuts keryx Internships", "discovered": 5073, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:aprameyak Summer 2027", "discovered": 4228, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:vanshb03 Summer 2027", "discovered": 2883, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:vanshb03 Summer 2026", "discovered": 2883, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SimplifyJobs New Grad", "discovered": 2595, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:vanshb03 New Grad 2027", "discovered": 2045, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:cvrve New Grad", "discovered": 2045, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SuryaHarikrishnan Other 2027", "discovered": 1854, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SuryaHarikrishnan DS/AI", "discovered": 1775, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SimplifyJobs Summer 2027", "discovered": 1552, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:aprameyak New Grad 2027", "discovered": 1481, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SuryaHarikrishnan SWE Track", "discovered": 1476, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zshah101 Summer 2027 US", "discovered": 1278, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:GodlyDonuts keryx New Grad", "discovered": 1236, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:aprameyak Off-Cycle/Co-op", "discovered": 1149, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply SWE New Grad USA", "discovered": 925, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SuryaHarikrishnan Hardware", "discovered": 915, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "jobspy (linkedin)", "discovered": 900, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:vanshb03 Off-Season", "discovered": 889, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply SWE 2027", "discovered": 861, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply AI 2027", "discovered": 816, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply SWE New Grad Intl", "discovered": 802, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:negarprh Canada 2027", "discovered": 766, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply SWE 2027 Intern Intl", "discovered": 641, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zapplyjobs Internships 2027", "discovered": 600, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply AI Intern Intl", "discovered": 596, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zapplyjobs New Grad 2027", "discovered": 594, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zshah101 Automated List", "discovered": 566, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply AI New Grad USA", "discovered": 547, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:speedyapply AI New Grad Intl", "discovered": 505, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zapplyjobs New Grad SWE 2027", "discovered": 485, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zapplyjobs New Grad Data Science 2027", "discovered": 352, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:ApplyGuy New Grad", "discovered": 304, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:Arbeitnow", "discovered": 300, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SuryaHarikrishnan Product", "discovered": 280, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:SuryaHarikrishnan Quant", "discovered": 216, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "jobspy (indeed)", "discovered": 191, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:LorenzoLaCorte EU Internships 2026", "discovered": 168, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:sndsh404 Summer 2027", "discovered": 124, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:zapplyjobs Canada 2027", "discovered": 123, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:RemoteOK", "discovered": 98, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:Jobicy", "discovered": 50, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:Working Nomads", "discovered": 35, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:HN who-is-hiring", "discovered": 35, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:Remotive", "discovered": 14, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794575350.8813128, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.428, "status": "ok"}

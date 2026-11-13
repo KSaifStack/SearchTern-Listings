@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-13T07:53:27Z",
+ "built_at": "2026-11-13T13:08:29Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -46316,6 +46316,112 @@
   "university of rochester https rochester wd5 myworkdayjobs com ur staff job laboratory for laser energetics co op research student 1 r273410": {
    "fetched_at": "2026-11-07T06:11:36Z",
    "label": "[University of Rochester](https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Research-Student-1_R273410)",
+   "titles": [
+    {
+     "count": 1748,
+     "median_salary": 115000,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 371,
+     "median_salary": 74425,
+     "title": "POSTDOCTORAL SCHOLAR"
+    },
+    {
+     "count": 214,
+     "median_salary": 62116,
+     "title": "POSTDOCTORAL RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 214,
+     "median_salary": 63000,
+     "title": "POSTDOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 190,
+     "median_salary": 84000,
+     "title": "ASSISTANT PROJECT SCIENTIST"
+    },
+    {
+     "count": 175,
+     "median_salary": 216000,
+     "title": "CLINICAL ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 164,
+     "median_salary": 63120,
+     "title": "POSTDOCTORAL ASSOCIATE"
+    },
+    {
+     "count": 127,
+     "median_salary": 62652,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 126,
+     "median_salary": 68182,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 121,
+     "median_salary": 73368,
+     "title": "LECTURER"
+    },
+    {
+     "count": 117,
+     "median_salary": 68869,
+     "title": "RESEARCH SCIENTIST"
+    },
+    {
+     "count": 115,
+     "median_salary": 79706,
+     "title": "RESEARCH ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 110,
+     "median_salary": 139914,
+     "title": "ASSOCIATE PROFESSOR"
+    },
+    {
+     "count": 90,
+     "median_salary": 87620,
+     "title": "GLIDE TEAM REGISTERED NURSE 2 INPATIENT"
+    },
+    {
+     "count": 84,
+     "median_salary": 77030,
+     "title": "POSTDOCTORAL SCHOLAR EMPLOYEE"
+    },
+    {
+     "count": 77,
+     "median_salary": 68964,
+     "title": "INSTRUCTOR"
+    },
+    {
+     "count": 69,
+     "median_salary": 80700,
+     "title": "ASSOCIATE SPECIALIST"
+    },
+    {
+     "count": 67,
+     "median_salary": 88303,
+     "title": "ASSISTANT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 66,
+     "median_salary": 75727,
+     "title": "POSTDOCTORAL SCHOLAR-EMPLOYEE"
+    },
+    {
+     "count": 59,
+     "median_salary": 68141,
+     "title": "MEDICAL RESIDENT"
+    }
+   ]
+  },
+  "university of texas at austin https utaustin wd1 myworkdayjobs com utstudent job austin tx undergraduate research assistant r 00044725": {
+   "fetched_at": "2026-11-13T13:08:28Z",
+   "label": "[University of Texas at Austin](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/AUSTIN-TX/Undergraduate-Research-Assistant_R_00044725)",
    "titles": [
     {
      "count": 1748,

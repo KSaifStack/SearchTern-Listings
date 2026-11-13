@@ -526,9 +526,9 @@
   }
  ],
  "base": {
-  "identities": 57948,
+  "identities": 57793,
   "path": "pages/searchtern.json",
-  "rows": 57948
+  "rows": 57793
  },
  "dropped_at_write": {
   "by_reason": {},
@@ -542,21 +542,21 @@
  },
  "expired": [
   {
-   "age_hours": -0.03,
-   "rows": 756,
+   "age_hours": -0.04,
+   "rows": 789,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.01,
-   "rows": 50,
+   "age_hours": -0.02,
+   "rows": 40,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.08,
+   "age_hours": -0.42,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
@@ -564,16 +564,16 @@
   },
   {
    "age_hours": -0.01,
-   "rows": 5435,
+   "rows": 5411,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.07,
-   "rows": 23423,
+   "age_hours": -0.4,
+   "rows": 24364,
    "source": "heavy",
-   "status": "rejected:shrunken",
+   "status": "ok",
    "ttl_hours": 48
   },
   {
@@ -584,36 +584,36 @@
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.22,
-   "rows": 737,
+   "age_hours": -0.54,
+   "rows": 748,
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.07,
-   "rows": 42147,
+   "age_hours": -0.4,
+   "rows": 42170,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.01,
-   "rows": 5473,
+   "age_hours": -0.02,
+   "rows": 5476,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.07,
+   "age_hours": -0.4,
    "rows": 362,
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.08,
-   "rows": 13,
+   "age_hours": -0.41,
+   "rows": 12,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168
@@ -623,8 +623,8 @@
   "additions": {
    "attributed": 0,
    "reason": "the source that first supplied the identity key",
-   "total": -125,
-   "unattributed": -125
+   "total": -129,
+   "unattributed": -129
   },
   "removals": {
    "all": [],
@@ -634,7 +634,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-13T01:28:02.581422+00:00",
+ "generated_at": "2026-11-13T12:35:19.326998+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -661,15 +661,15 @@
  },
  "source_contributions": [],
  "summary": {
-  "added": -125,
+  "added": -129,
   "ats_conflicts": 58,
   "dropped_at_write": 0,
   "duplicates": 0,
   "expired_snapshots": 11,
-  "production_rows": 57948,
+  "production_rows": 57793,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 57823,
+  "shadow_rows": 57664,
   "unexplained_removed": 0
  }
 }
