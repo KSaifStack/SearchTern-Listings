@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-13T16:55:42Z",
+ "built_at": "2026-11-13T20:27:07Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6417,6 +6417,22 @@
   "bask health": {
    "fetched_at": "2026-11-12T18:25:02Z",
    "label": "Bask Health",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 110000,
+     "title": "SENIOR TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "SOFTWARE TEST ENGINEER"
+    }
+   ]
+  },
+  "bask health https apply workable com bask health 1 j e81c7f7d3b apply": {
+   "fetched_at": "2026-11-13T20:27:06Z",
+   "label": "[Bask Health](https://apply.workable.com/bask-health-1/j/E81C7F7D3B/apply)",
    "titles": [
     {
      "count": 3,
