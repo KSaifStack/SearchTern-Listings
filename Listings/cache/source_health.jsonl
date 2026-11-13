@@ -4491,3 +4491,8 @@
 {"ts": 1794575350.8813128, "source": "breadth:Remotive", "discovered": 14, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794575350.8813128, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794575350.8813128, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.428, "status": "ok"}
+{"ts": 1794588972.9052663, "source": "ats", "discovered": 0, "valid": 0, "new": 10, "seconds": 0.0, "status": "ok"}
+{"ts": 1794588972.9052663, "source": "freehire", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1794588972.9052663, "source": "jobhive-closure", "discovered": 73624, "valid": 73474, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794588972.9052663, "source": "jobhive", "discovered": 0, "valid": 15259, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794588972.9052663, "source": "ats-probe", "discovered": 16806, "valid": 2631, "new": 0, "seconds": 307.193, "status": "ok"}

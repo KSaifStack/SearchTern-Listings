@@ -1,6 +1,6 @@
 #  SearchTern Internship Listings — Page 13
 
-**Page 13 of 41 — 20,030 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
+**Page 13 of 33 — 16,366 total listings** | [← Back to main listing](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md)
 
@@ -24,6 +24,86 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002"><strong>Flagship Pioneering</strong></a></td>
+<td title="Pioneering Intelligence: Data Science Co-Op (Embedded Science Team)" style="word-break:break-word; overflow-wrap:anywhere;">Pioneering Intelligence: Data Science Co-Op (...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cambridge<br>MA USA</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8783960002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/spin/jobs/4749193005"><strong>SPIN</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IC2 - Business Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">México</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/spin/jobs/4749193005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/eulerity/jobs/4726901006"><strong>Eulerity</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Finance [Big] Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>NY</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/eulerity/jobs/4726901006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ledfaststart.phenompro.com/global/en/job/LEFAGLOBAL342915EXTERNALENGLOBAL"><strong>Saronic</strong></a></td>
+<td title="2027 Intern - Software Engineer (Crewed Land) - Slidell, LA" style="word-break:break-word; overflow-wrap:anywhere;">2027 Intern - Software Engineer (Crewed Land)...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Slidell<br>Louisiana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ledfaststart.phenompro.com/global/en/job/LEFAGLOBAL342915EXTERNALENGLOBAL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://opportunities.ledfaststart.com/global/en/job/LEFAGLOBAL342915EXTERNALENGLOBAL"><strong>Louisiananow</strong></a></td>
+<td title="2027 Intern - Software Engineer (Crewed Land) - Slidell, LA" style="word-break:break-word; overflow-wrap:anywhere;">2027 Intern - Software Engineer (Crewed Land)...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Slidell<br>Louisiana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://opportunities.ledfaststart.com/global/en/job/LEFAGLOBAL342915EXTERNALENGLOBAL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stripe.com/jobs/search?gh_jid=6176758">🔥 <strong>Stripe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Backend/API Engineer, Money as a Service</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=6176758" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stripe.com/jobs/search?gh_jid=6606581">↳ 🔥 <strong>Stripe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Engineer, Money as a Service</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">In-person</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=6606581" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4486071885/" title="Invidi Technologies Corporation"><strong>Invidi Technologi...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4486071885/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4486018971/" title="Nexivo Consulting Zoho Premium Partner"><strong>Nexivo Consulting...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Zoho Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Serilingampalli</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4486018971/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lsg.breezy.hr/p/16f5fda316a5-intern-graphic-design-and-visual-communications"><strong>LSG</strong></a></td>
+<td title="Intern - Graphic Design and Visual Communications" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Graphic Design and Visual Communicat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>United States</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lsg.breezy.hr/p/16f5fda316a5-intern-graphic-design-and-visual-communications" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4464058017/"><strong>Rubrik</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer (CPD) - Winter Intern</td>
@@ -117,7 +197,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Project Controls Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">London (Hybrid)</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gradcracker.com/hub/41/jacobs/work-placement-internship/87525/project-controls-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -125,7 +205,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -133,7 +213,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Test Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Palo Alto<br>California</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wing.com/careers/8918078002?gh_jid=8918078002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -141,7 +221,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Systems Analyst Internship - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Marshall<br>Minnesota<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/schwansconfidential/cx/job/5001235871706" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -149,7 +229,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Quantitative Developer/Researcher, Graduate</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/winton/jobs/4986765101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -157,7 +237,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 June Co-op - Hardware Test - #6426</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dallas<br>Texas</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -165,7 +245,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Internship, May-August</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/vl5vd56at3jl1uirnlev/jobs/8627678002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -173,7 +253,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8611307002?gh_jid=8611307002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -181,7 +261,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Researcher</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -189,7 +269,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8599644002?gh_jid=8599644002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -197,7 +277,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineer (FPGA/ASIC)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -205,7 +285,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8631973002?gh_jid=8631973002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -213,7 +293,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8632723002?gh_jid=8632723002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -221,7 +301,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -229,7 +309,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong<br>Hong Kong</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -237,7 +317,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Operations Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong<br>Hong Kong</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8641377002?gh_jid=8641377002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -245,7 +325,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Network Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -253,7 +333,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Support Internship - Summer 2027</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Jacksonville<br>Florida<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/rfsmart/jobs/5407220008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -261,7 +341,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Boston<br>Massachusetts<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/plymouthrock/cx/job/5001235825600" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -269,7 +349,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Plano<br>Texas<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ericsson.com/careers/job/563121777025507-data-analyst-intern-plano-texas-united-states?domain=ericsson.com" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -277,7 +357,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Digital Designer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Silver Stream</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.publicisgroupe.com/jobs/180819?lang=en-us" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -285,7 +365,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Multimedia Designer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Silver Stream</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.publicisgroupe.com/jobs/180828?lang=en-us" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -293,7 +373,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI &amp; Software Development Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4486829630/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -301,7 +381,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ranchi</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484660721/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1261,7 +1341,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Merchandising &amp; Product Data Analytics Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Portland<br>OR</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.keenfootwear.com/careers-list.html?4748595005&amp;gh_jid=4748595005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1269,7 +1349,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist, Intern (PhD)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA; New York<br>NY</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8893030002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1277,7 +1357,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager, MBA Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pittsburgh<br>PA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888266002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1285,7 +1365,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Telecommuter<br>Washington<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/symetraexternal/cx/job/5001229331006" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1293,7 +1373,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">New Grad Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York<br>New York<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1301,7 +1381,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Truss Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Wrightstown (Truss)<br>WI</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4632384" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1309,7 +1389,7 @@
 <td title="Railroad Track Design - Civil Engineering Internship" style="word-break:break-word; overflow-wrap:anywhere;">Railroad Track Design - Civil Engineering Int...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>6 locations</strong></summary>Milwaukee<br>WI; Naperville<br>IL; Omaha<br>NE; Charlotte<br>NC; Raleigh<br>NC</details></td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.benesch.com/job-openings/5240157007?gh_jid=5240157007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1317,7 +1397,7 @@
 <td title="Structural Design Engineering Intern (Summer 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Structural Design Engineering Intern (Summer ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Washington<br>Missouri<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/cscexternalcareersite/cx/job/5001235133300" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1325,7 +1405,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Commercial Data Science Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/2165194" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1333,7 +1413,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Summer Business Analyst (Intern) - ATL/CHI/NYC</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4445762" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1341,7 +1421,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/enterpret/jobs/7723230003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1349,7 +1429,7 @@
 <td title="AI Developer Intern - Portfolio Trading / Asset Management" style="word-break:break-word; overflow-wrap:anywhere;">AI Developer Intern - Portfolio Trading / Ass...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">London<br>United Kingdom</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.corumbutler.com/jobs/8635156-ai-developer-intern-portfolio-trading-asset-management/applications/new?promotion=2276414-welcome-to-the-jungle" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1357,7 +1437,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 - Internship, Business Data Analytics</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">London</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1365,7 +1445,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors Software Eng</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Hyderabad</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4486139484/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1373,7 +1453,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484323532/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1381,7 +1461,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484305722/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1389,11 +1469,11 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campbellsport<br>WI</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4631796" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4631773" title="Drexel Building Supply"><strong>Drexel Building S...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4631773" title="Drexel Building Supply">↳ <strong>Drexel Building S...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Panel Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Amherst<br>WI</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4631773" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -1773,7 +1853,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Surat</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-ai-ml-intern-arham-web-works-surat-0-to-2-years-311026502404" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1781,7 +1861,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Go Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://t.me/young_intern/2009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1789,7 +1869,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Analog Design Engineer (Graduate)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">UK Remote<br>United Kingdom</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://analogueinsight.careers.hibob.com/jobs/17a0dcbf-8b0f-4db4-b61d-eb6a5657ac67" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1797,7 +1877,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Web Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485187696/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1805,7 +1885,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Front End Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485191594/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1813,7 +1893,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Healthcare Data Analyst Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485183723/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1821,7 +1901,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Embedded and IoT Developer Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Andhra Pradesh</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485402117/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1829,7 +1909,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Intern, Document Intelligence</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sholinganallur</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485416052/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1837,7 +1917,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Backend Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483982419/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1845,7 +1925,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">MERN Stack Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485183745/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2077,7 +2157,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist Intern (Antifraud)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://t.me/it_interns/2158" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2085,7 +2165,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern Technical Product Manager (TPM)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lagos</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://t.me/tohire_ng/10506" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2093,7 +2173,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pune Division</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485682758/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2101,7 +2181,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485140408/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2109,7 +2189,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485142396/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2117,7 +2197,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Backend &amp; AI Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483938429/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -2125,7 +2205,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Development Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4485136418/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3605,7 +3685,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Walk-in | | Soc Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-soc-analyst-indmax-it-services-hyderabad-1-to-3-years-301026037184" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3613,7 +3693,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tucson<br>Arizona<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/van1006vanwe/JobBoard/b7df6c2b-0d36-4e50-a977-a238206970e7/OpportunityDetail?opportunityId=a49dacca-a73f-4e7b-8072-4f25249198c8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3621,7 +3701,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Software Developer Intern- 2026</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ahmedabad<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://solvative.breezy.hr/p/2bef443159b0-full-stack-software-developer-intern-2026" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3629,7 +3709,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Operations Technician I</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Rutland<br>Vermont<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://recruiting.ultipro.com/her1011hffcu/JobBoard/d64f3cb7-3474-43f1-8096-3e8e40b9ffff/OpportunityDetail?opportunityId=6c51bf86-0e0e-4f34-971f-b5d76dbec5fa" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3637,7 +3717,7 @@
 <td title="2027 Summer Internship Programme - Software Engineering" style="word-break:break-word; overflow-wrap:anywhere;">2027 Summer Internship Programme - Software E...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">London</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3645,7 +3725,7 @@
 <td title="Manufacturing Design Engineering Internship - Spring 2027" style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Design Engineering Internship -...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>Ohio</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8911569002?gh_jid=8911569002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3653,7 +3733,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Design Engineering Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Columbus<br>Ohio</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8911570002?gh_jid=8911570002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3933,7 +4013,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer I</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Vergennes<br>Vermont<br>United States</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://myjobs.adp.com/cpimpp/cx/job/5001234587406" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3941,7 +4021,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Database Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.netradyne.com/company/careers?gh_jid=4729961005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -3949,7 +4029,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Web Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ahmedabad</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-web-developer-intern-hiringlink-solutions-ahmedabad-0-to-1-years-301026030530" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3957,83 +4037,11 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sahibzada Ajit Singh Nagar</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-business-analyst-electrovese-solutions-pvt-ltd-sahibzada-ajit-singh-nagar-0-to-1-years-301026502849" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-ai-ml-intern-build-formula-ahmedabad-0-to-2-years-301026505833"><strong>Build Formula</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ahmedabad</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-ai-ml-intern-build-formula-ahmedabad-0-to-2-years-301026505833" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.tower-research.com/open-positions/?gh_jid=8299894" title="Tower Research Capital"><strong>Tower Research Ca...</strong></a></td>
-<td title="Software Engineer, C++ - 6 Month Internship Opportunity" style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, C++ - 6 Month Internship O...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.tower-research.com/open-positions/?gh_jid=8299894" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/drweng/jobs/8176064"><strong>DRW</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer - Research Technology</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/drweng/jobs/8176064" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.tower-research.com/open-positions/?gh_jid=8245433" title="Tower Research Capital"><strong>Tower Research Ca...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, C++ - Graduate Opportunity</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hong Kong<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.tower-research.com/open-positions/?gh_jid=8245433" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.interstates.com/careers/jobs?gh_jid=4452276009&amp;gh_jid=4452276009"><strong>Interstates</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cyber Security Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sioux Falls<br>SD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.interstates.com/careers/jobs?gh_jid=4452276009&amp;gh_jid=4452276009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.interstates.com/careers/jobs?gh_jid=4452428009&amp;gh_jid=4452428009">↳ <strong>Interstates</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sioux Falls<br>SD</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.interstates.com/careers/jobs?gh_jid=4452428009&amp;gh_jid=4452428009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.tower-research.com/open-positions/?gh_jid=8167234" title="Tower Research Capital"><strong>Tower Research Ca...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New York</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.tower-research.com/open-positions/?gh_jid=8167234" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://th.jobsdb.com/job/95611868" title="Nri Consulting Solutions Thailand Co Ltd"><strong>Nri Consulting So...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst (Japanese Speaking)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bangkok</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://th.jobsdb.com/job/95611868" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4484837194/"><strong>The Leapfrog Network</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4484837194/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">13d</td>
+<td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 </tbody>
 </table>
 
 [← Previous page](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-12.md) | [Next page →](https://github.com/KSaifStack/jobscraper/blob/main/pages/README-14.md)
-<!-- searchtern:generation 20261113T131000Z-b962ad4888a3 -->
+<!-- searchtern:generation 20261113T165654Z-ef9784132bb1 -->

@@ -1,6 +1,6 @@
 # 🇲🇽 Mexico — SearchTern Listings
 
-**110 listings** as of November 13, 2026
+**75 listings** as of November 13, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -61,7 +61,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Design Intern (Apodaca, N.L.)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico-Nuevo León-Apodaca</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.se.com/jobs/139973?lang=en-us" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -153,103 +153,7 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://barclays.wd3.myworkdayjobs.com/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430"><strong>Barclays</strong></a></td>
-<td title="Trading Analyst Summer Internship Program 2027 Mexico City" style="word-break:break-word; overflow-wrap:anywhere;">Trading Analyst Summer Internship Program 202...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Avenida Paseo de la Reforma 505</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://barclays.wd3.myworkdayjobs.com/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Trading-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000134430" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://barclays.wd3.myworkdayjobs.com/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Banking-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000130188">↳ <strong>Barclays</strong></a></td>
-<td title="Banking Analyst Summer Internship Program 2027 Mexico City" style="word-break:break-word; overflow-wrap:anywhere;">Banking Analyst Summer Internship Program 202...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Avenida Paseo de la Reforma 505</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://barclays.wd3.myworkdayjobs.com/job/Mexico-City-Avenida-Paseo-de-la-Reforma-505/Banking-Analyst-Summer-Internship-Program-2027-Mexico-City_JR-0000130188" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://capitalone.wd12.myworkdayjobs.com/job/Mexico-City-Mexico/Technology-Internship-Program---Mexico---2027_R1004783"><strong>Capital One</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Technology Internship Program - Mexico - 2027</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://capitalone.wd12.myworkdayjobs.com/job/Mexico-City-Mexico/Technology-Internship-Program---Mexico---2027_R1004783" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Signal-Integrity-Intern_JR0288518">🔥 <strong>Intel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Signal Integrity Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico<br>Guadalajara</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Signal-Integrity-Intern_JR0288518" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647">🔥 <strong>Intel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Silicon Design - Flows and Methodology Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico<br>Guadalajara</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://intel.wd1.myworkdayjobs.com/job/Mexico-Guadalajara/Silicon-Design---Flows-and-Methodology-Intern_JR0286647" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aptiv.wd5.myworkdayjobs.com/job/Saltillo-Mexico/Product-Engineer----Student--STC-_J000663894"><strong>Aptiv</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineer - Student (STC)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Saltillo<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aptiv.wd5.myworkdayjobs.com/job/Saltillo-Mexico/Product-Engineer----Student--STC-_J000663894" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iqvia.wd1.myworkdayjobs.com/job/Mexico-City-Mexico/Junior-Strategy-Consulting-Analyst--Temporary-_R1571331"><strong>Iqvia</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Strategy Consulting Analyst (Temporary)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://iqvia.wd1.myworkdayjobs.com/job/Mexico-City-Mexico/Junior-Strategy-Consulting-Analyst--Temporary-_R1571331" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sbdinc.wd1.myworkdayjobs.com/job/Ciudad-Apodaca-Nuevo-Len-Mexico/Engineering-Co-op---Summer-Intern_REQ-1000052355"><strong>Stanley Black Decker</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Co-op / Summer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ciudad Apodaca<br>Nuevo León<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sbdinc.wd1.myworkdayjobs.com/job/Ciudad-Apodaca-Nuevo-Len-Mexico/Engineering-Co-op---Summer-Intern_REQ-1000052355" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469"><strong>HP</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analysis and Systems Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kyndryl.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/OpenShift-Junior-Platform-Support-Engineer_R-66432-1"><strong>Kyndryl</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">OpenShift Junior Platform Support Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Distrito Federal<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kyndryl.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/OpenShift-Junior-Platform-Support-Engineer_R-66432-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jabil.wd5.myworkdayjobs.com/job/Guadalajara/Product-Engineer-Intern_J2471423"><strong>Jabil</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guadalajara</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jabil.wd5.myworkdayjobs.com/job/Guadalajara/Product-Engineer-Intern_J2471423" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jabil.wd5.myworkdayjobs.com/job/Guadalajara/Product-Engineer-Intern_J2470106"><strong>Jabil</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guadalajara</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jabil.wd5.myworkdayjobs.com/job/Guadalajara/Product-Engineer-Intern_J2470106" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213761"><strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213761" title="Hewlett Packard Enterprise"><strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213761" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -257,7 +161,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213762">↳ <strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213762" title="Hewlett Packard Enterprise">↳ <strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213762" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -265,7 +169,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213756">↳ <strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213756" title="Hewlett Packard Enterprise">↳ <strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213756" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -273,7 +177,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213764"><strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213764" title="Hewlett Packard Enterprise"><strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Special Pricing Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213764" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -281,7 +185,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Intern-Data-Analyst_1216605"><strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Intern-Data-Analyst_1216605" title="Hewlett Packard Enterprise"><strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Intern-Data-Analyst_1216605" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -289,7 +193,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213749"><strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213749" title="Hewlett Packard Enterprise"><strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Financial Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Financial-Analyst---Internship_1213749" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -297,7 +201,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Credit-Analyst---Internship_1213750">↳ <strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Credit-Analyst---Internship_1213750" title="Hewlett Packard Enterprise">↳ <strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Credit Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Credit-Analyst---Internship_1213750" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -305,7 +209,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213751">↳ <strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213751" title="Hewlett Packard Enterprise">↳ <strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Special Pricing Analyst - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Special-Pricing-Analyst---Internship_1213751" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -313,7 +217,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Process-automation-and-AI--HR-and-Finance----Internship_1216002"><strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Process-automation-and-AI--HR-and-Finance----Internship_1216002" title="Hewlett Packard Enterprise"><strong>Hewlett Packard E...</strong></a></td>
 <td title="Process automation and AI (HR and Finance) - Internship" style="word-break:break-word; overflow-wrap:anywhere;">Process automation and AI (HR and Finance) - ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Process-automation-and-AI--HR-and-Finance----Internship_1216002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -321,7 +225,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/IT-Certification---Internship_1216578">↳ <strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/IT-Certification---Internship_1216578" title="Hewlett Packard Enterprise">↳ <strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Certification - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/IT-Certification---Internship_1216578" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -329,7 +233,7 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Finance-Engineer---Internship_1216577">↳ <strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Finance-Engineer---Internship_1216577" title="Hewlett Packard Enterprise">↳ <strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Finance Engineer - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Distrito Federal<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Finance-Engineer---Internship_1216577" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -337,171 +241,27 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Systems-engineer---Internship_1214215"><strong>Juniper Networks</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Systems-engineer---Internship_1214215" title="Hewlett Packard Enterprise"><strong>Hewlett Packard E...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Systems engineer - Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Distrito Federal<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hpe.wd5.myworkdayjobs.com/job/Mexico-City-Distrito-Federal-Mexico/Systems-engineer---Internship_1214215" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Automation-Trainee_REQ2026082967"><strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Automation Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Automation-Trainee_REQ2026082967" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Production-Trainee-3_REQ2026081678"><strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Trainee 3</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Production-Trainee-3_REQ2026081678" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Production-Trainee-5_REQ2026081679">↳ <strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Trainee 5</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Production-Trainee-5_REQ2026081679" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Industrial-Engineering-Trainee_REQ2026082640">↳ <strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Industrial-Engineering-Trainee_REQ2026082640" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Industrial-Engineering-Trainee_REQ2026082638">↳ <strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Industrial Engineering Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Industrial-Engineering-Trainee_REQ2026082638" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Electronics-Trainee_REQ2026079825"><strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electronics Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Electronics-Trainee_REQ2026079825" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Production-Trainee_REQ2026077430">↳ <strong>Valeo</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Queretaro</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://valeo.wd3.myworkdayjobs.com/job/Queretaro/Production-Trainee_REQ2026077430" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469-1"><strong>Hewlett Packard</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analysis and Systems Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jalisco<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.wd5.myworkdayjobs.com/job/Tlaquepaque-Jalisco-Mexico/Data-Analysis-and-Systems-Internship_3169469-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://plexus.wd504.myworkdayjobs.com/job/Guadalajara-Mexico/Intern---Engineer_R043478"><strong>Plexus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guadalajara<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://plexus.wd504.myworkdayjobs.com/job/Guadalajara-Mexico/Intern---Engineer_R043478" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://plexus.wd504.myworkdayjobs.com/job/Guadalajara-Mexico/Intern---Manufacturing-engineering_R043411"><strong>Plexus</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Manufacturing engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guadalajara<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://plexus.wd504.myworkdayjobs.com/job/Guadalajara-Mexico/Intern---Manufacturing-engineering_R043411" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4474299009"><strong>Loenbro</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Apprentice Electrical</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4474299009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4397930009">↳ <strong>Loenbro</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Electrical Apprentice</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/loenbro/jobs/4397930009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://selinc.wd1.myworkdayjobs.com/job/Mexico---San-Luis-Potosi/R-D-Engineering-Intern_2026-19958"><strong>SEL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico - San Luis Potosi</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://selinc.wd1.myworkdayjobs.com/job/Mexico---San-Luis-Potosi/R-D-Engineering-Intern_2026-19958" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://selinc.wd1.myworkdayjobs.com/job/Mexico---San-Luis-Potosi/Engineering-Intern_2026-19534">↳ <strong>SEL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico - San Luis Potosi</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://selinc.wd1.myworkdayjobs.com/job/Mexico---San-Luis-Potosi/Engineering-Intern_2026-19534" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://crownholdings.wd501.myworkdayjobs.com/job/Nuevo-Len/Production-Line-Operator-Intern_JR101884"><strong>Crown Holdings</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Production Line Operator Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Nuevo León</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://crownholdings.wd501.myworkdayjobs.com/job/Nuevo-Len/Production-Line-Operator-Intern_JR101884" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://clarios.wd5.myworkdayjobs.com/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Digital-Product_WD50646-2"><strong>Clarios</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Digital Product</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico<br>Nuevo León<br>San Pedro Garza Garcia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://clarios.wd5.myworkdayjobs.com/job/Mexico-Nuevo-Len-San-Pedro-Garza-Garcia/Intern---Digital-Product_WD50646-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ingredion.wd1.myworkdayjobs.com/job/San-Juan-del-Ro-MX/Wet-Mill-Intern-Engineer_Req-38677"><strong>Ingredion</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wet Mill Intern Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">San Juan del Río<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ingredion.wd1.myworkdayjobs.com/job/San-Juan-del-Ro-MX/Wet-Mill-Intern-Engineer_Req-38677" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ingredion.wd1.myworkdayjobs.com/job/Guadalajara-JAL/SCH-Data-Analytics-Intern_Req-20946">↳ <strong>Ingredion</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SCH Data Analytics Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Guadalajara<br>JAL</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ingredion.wd1.myworkdayjobs.com/job/Guadalajara-JAL/SCH-Data-Analytics-Intern_Req-20946" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pwc.wd3.myworkdayjobs.com/job/Mexico---Reforma-445/IT---Intern--Trainee_741625WD-1"><strong>PWC</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IT - Intern/ Trainee</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico - Reforma 445</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pwc.wd3.myworkdayjobs.com/job/Mexico---Reforma-445/IT---Intern--Trainee_741625WD-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8342075002" title="Linkedin Job Wrapping"><strong>Linkedin Job Wrap...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Marketing Analyst Spanish LATAM</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/pocketfm/9de8a84c-533e-48af-8c0a-be1d443c50dd" title="Pocket Entertainment Corp"><strong>Pocket Entertainm...</strong></a></td>
+<td title="Junior Writer: Spanish Proofreading &amp; AI Localization (Latam)" style="word-break:break-word; overflow-wrap:anywhere;">Junior Writer: Spanish Proofreading &amp; AI Loca...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8342075002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/pocketfm/9de8a84c-533e-48af-8c0a-be1d443c50dd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://blackrock.wd1.myworkdayjobs.com/job/Mexico-City-Mexico/XMLNAME-2027-Operating-Platform-Intern-Mexico_R265183"><strong>Blackrock</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Operating Platform Intern Mexico</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Mexico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://blackrock.wd1.myworkdayjobs.com/job/Mexico-City-Mexico/XMLNAME-2027-Operating-Platform-Intern-Mexico_R265183" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -509,7 +269,7 @@
 <td title="Software Engineer Intern, Backend (Summer 2027 - Mexico)" style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Backend (Summer 202...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8767715002?gh_jid=8767715002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -517,7 +277,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern, Frontend (Summer 2027)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mexico City<br>Mexico</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/lyft/job/8797819002?gh_jid=8797819002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -770,4 +530,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261113T131000Z-b962ad4888a3 -->
+<!-- searchtern:generation 20261113T165654Z-ef9784132bb1 -->
