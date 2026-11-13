@@ -1,9 +1,14 @@
 {
- "built_at": "2026-11-12T18:44:35Z",
+ "built_at": "2026-11-13T00:19:49Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
    "label": "1Password",
+   "titles": []
+  },
+  "3 day blinds sales": {
+   "fetched_at": "2026-11-13T00:19:44Z",
+   "label": "3 Day Blinds (Sales)",
    "titles": []
   },
   "3dayblindssales": {
@@ -2958,6 +2963,11 @@
      "title": "VICE PRESIDENT, SQL DEVELOPMENT"
     }
    ]
+  },
+  "ao garcia agency": {
+   "fetched_at": "2026-11-13T00:19:45Z",
+   "label": "AO Garcia Agency",
+   "titles": []
   },
   "ao globe life": {
    "fetched_at": "2026-11-12T17:25:29Z",
@@ -14151,6 +14161,11 @@
      "title": "GIS TECHNICAL LEAD"
     }
    ]
+  },
+  "dh pace": {
+   "fetched_at": "2026-11-13T00:19:46Z",
+   "label": "DH Pace",
+   "titles": []
   },
   "dhl": {
    "fetched_at": "2026-11-12T17:25:36Z",
@@ -41976,6 +41991,27 @@
     }
    ]
   },
+  "studs": {
+   "fetched_at": "2026-11-13T00:19:47Z",
+   "label": "STUDS",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "MARKET RESEARCH ANALYST AND MARKETING SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "MARKETING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 275000,
+     "title": "SENIOR VICE PRESIDENT, FINANCE"
+    }
+   ]
+  },
   "studsinc": {
    "fetched_at": "2026-10-26T18:40:19Z",
    "label": "studsinc",
@@ -48613,6 +48649,112 @@
      "count": 3,
      "median_salary": 117645,
      "title": "MANAGER 2, PROGRAM MANAGEMENT"
+    }
+   ]
+  },
+  "western veterinary partners": {
+   "fetched_at": "2026-11-13T00:19:48Z",
+   "label": "Western Veterinary Partners, LLC",
+   "titles": [
+    {
+     "count": 35,
+     "median_salary": 134383,
+     "title": "STAFF ENGINEER, HARDWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 27,
+     "median_salary": 200000,
+     "title": "DENTIST"
+    },
+    {
+     "count": 16,
+     "median_salary": 158693,
+     "title": "PRINCIPAL ENGINEER, HARDWARE DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 15,
+     "median_salary": 128750,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 66500,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 12,
+     "median_salary": 108629,
+     "title": "SENIOR ENGINEER, DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 12,
+     "median_salary": 130416,
+     "title": "STAFF ENGINEER, DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 9,
+     "median_salary": 92976,
+     "title": "SENIOR ENGINEER, INDUSTRIAL ENGINEERING"
+    },
+    {
+     "count": 9,
+     "median_salary": 144200,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 169328,
+     "title": "ANALYST 4, BUSINESS APPLICATIONS"
+    },
+    {
+     "count": 7,
+     "median_salary": 87500,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 42256,
+     "title": "DUAL LANGUAGE TEACHER"
+    },
+    {
+     "count": 7,
+     "median_salary": 165900,
+     "title": "SENIOR ARCHITECT, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 90376,
+     "title": "SENIOR ENGINEER, ASIC DEVELOPMENT ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 117291,
+     "title": "SENIOR ENGINEER, DATA ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 155709,
+     "title": "APPLICATION ARCHITECT"
+    },
+    {
+     "count": 6,
+     "median_salary": 143543,
+     "title": "SCIENTIST 2, DATA SCIENCE"
+    },
+    {
+     "count": 5,
+     "median_salary": 182160,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 5,
+     "median_salary": 128100,
+     "title": "INVESTMENT RISK ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 134800,
+     "title": "PRINCIPAL ENGINEER, DEVELOPMENT ENGINEERING"
     }
    ]
   },

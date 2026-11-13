@@ -4162,3 +4162,8 @@
 {"ts": 1794516725.8836246, "source": "md:sndsh404 Summer 2027", "discovered": 124, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794516725.8836246, "source": "md:zapplyjobs Canada 2027", "discovered": 124, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794516725.8836246, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794529239.7042248, "source": "ats", "discovered": 0, "valid": 0, "new": 263, "seconds": 0.0, "status": "ok"}
+{"ts": 1794529239.7042248, "source": "jobhive", "discovered": 0, "valid": 15305, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1794529239.7042248, "source": "md", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1794529239.7042248, "source": "jobhive-closure", "discovered": 96171, "valid": 95887, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794529239.7042248, "source": "ats-probe", "discovered": 341513, "valid": 23423, "new": 0, "seconds": 1321.513, "status": "ok"}
