@@ -65,7 +65,8 @@ this exact title, and blank means no signal. Full employer and job-title data li
 [H-1B sponsorship data](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/h1b.json) ·
 [RSS (newest 200)](https://raw.githubusercontent.com/KSaifStack/SearchTern-Listings/main/pages/feed.xml).
 Agents can query the same data through the bundled MCP server (`Listings/searchtern_mcp.py`:
-`search_jobs`, `recent_jobs`, `company_jobs`, `stats`).
+`search_jobs`, `get_job`, `recent_jobs`, `company_jobs`, `company_profile`, `stats` — free-text
+search over descriptions, structured filters, and paginated results).
 
 > jobhive does the heavy lifting — if you find it useful, ⭐ [stapply-ai/ats-scrapers](https://github.com/stapply-ai/ats-scrapers)
 
