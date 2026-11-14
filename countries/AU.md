@@ -1,6 +1,6 @@
 # 🇦🇺 Australia — SearchTern Listings
 
-**62 listings** as of November 14, 2026
+**64 listings** as of November 14, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -29,7 +29,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate (Software Development)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney T.4 Innovation</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.sita.aero/jobs/11845?lang=en-us" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">Today</td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Creative Design Internship</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>VIC<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.pyjamahr.com/ace-talent-recruitment/creative-design-internship" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@
 <td title="Quality Assurance &amp; Continuous Improvement Engineering Internship" style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance &amp; Continuous Improvement En...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>VIC<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.pyjamahr.com/ace-talent-recruitment/quality-assurance-continuous-improvement-engineering-internship-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
+<td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Business Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Parramatta<br>Sydney NSW</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/95635809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -161,6 +161,14 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pwc.wd3.myworkdayjobs.com/job/Sydney/FY27---Sydney---Coop-Unpaid---Advisory---Digital---Cybersecurity---Privacy_773953WD"><strong>PWC</strong></a></td>
+<td title="FY27 - Sydney - Coop Unpaid - Advisory - Digital - Cybersecurity &amp; Privacy" style="word-break:break-word; overflow-wrap:anywhere;">FY27 - Sydney - Coop Unpaid - Advisory - Digi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pwc.wd3.myworkdayjobs.com/job/Sydney/FY27---Sydney---Coop-Unpaid---Advisory---Digital---Cybersecurity---Privacy_773953WD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4703289006"><strong>STR</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Reverse Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia +1</td>
@@ -182,46 +190,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">28d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f"><strong>Sitemate</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Full Stack Engineer - Hybrid</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203" title="Reserve Bank Of Australia"><strong>Reserve Bank Of A...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Network DevOps Engineer FTC 30/04/2028</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/recordpoint/65811c7e-96fc-4c9f-aca9-05a935f3e971"><strong>Recordpoint</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/recordpoint/65811c7e-96fc-4c9f-aca9-05a935f3e971" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/axon/jobs/8001665003"><strong>AXON</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Site Reliability Engineer - Australia</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Melbourne<br>Australia +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/axon/jobs/8001665003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/maincode/129767f8-4e81-4998-b71b-0807d516ea12"><strong>Maincode</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/maincode/129767f8-4e81-4998-b71b-0807d516ea12" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -272,6 +240,46 @@
 <td style="white-space:nowrap;">30d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f"><strong>Sitemate</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Full Stack Engineer - Hybrid</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">18d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203" title="Reserve Bank Of Australia"><strong>Reserve Bank Of A...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Network DevOps Engineer FTC 30/04/2028</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rba.wd105.myworkdayjobs.com/en-US/rba_careers/job/Sydney/Network-DevOps-Engineer_JR5203" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">24d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/recordpoint/65811c7e-96fc-4c9f-aca9-05a935f3e971"><strong>Recordpoint</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/recordpoint/65811c7e-96fc-4c9f-aca9-05a935f3e971" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">30d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/axon/jobs/8001665003"><strong>AXON</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Site Reliability Engineer - Australia</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Melbourne<br>Australia +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/axon/jobs/8001665003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/maincode/129767f8-4e81-4998-b71b-0807d516ea12"><strong>Maincode</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/maincode/129767f8-4e81-4998-b71b-0807d516ea12" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261114T024921Z-5676281606a3 -->
+<!-- searchtern:generation 20261114T052936Z-d9ea0b4184a6 -->
