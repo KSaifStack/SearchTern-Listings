@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-14T06:30:44Z",
+ "built_at": "2026-11-14T09:39:21Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -19099,6 +19099,112 @@
      "count": 1,
      "median_salary": 92144,
      "title": "THERMAL-MECHANICAL ENGINEER - ENGINEER II"
+    }
+   ]
+  },
+  "franklin electric https franklin electric pinpointhq com en postings a8e0afdd 63ce 4817 aaca 056018010f06 ats pinpointhq": {
+   "fetched_at": "2026-11-14T09:39:19Z",
+   "label": "[Franklin Electric](https://franklin-electric.pinpointhq.com/en/postings/a8e0afdd-63ce-4817-aaca-056018010f06?ats=pinpointhq)",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 110800,
+     "title": "SALES MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 130501,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87435,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 55112,
+     "title": "ASSISTANT PROFESSOR OF MATH"
+    },
+    {
+     "count": 2,
+     "median_salary": 53000,
+     "title": "ELEMENTARY TEACHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 50826,
+     "title": "ESL TEACHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145184,
+     "title": "GLOBAL BRAND MARKETING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133818,
+     "title": "JAVA DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 133000,
+     "title": "SALESFORCE CLOUD UI DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 98500,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 177736,
+     "title": "SOFTWARE DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 146307,
+     "title": "SOFTWARE DEVELOPMENT SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 52993,
+     "title": "SPANISH TEACHER"
+    },
+    {
+     "count": 2,
+     "median_salary": 66197,
+     "title": "TEACHER OF ITALIAN LANGUAGE AND CULTURE"
+    },
+    {
+     "count": 2,
+     "median_salary": 245000,
+     "title": "VP SENIOR RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 106000,
+     "title": ".NET FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 53643,
+     "title": "ACCOUNTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 60000,
+     "title": "ACCOUNTS PAYABLE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 63170,
+     "title": "ACCOUNTS PAYABLE ANALYST FINANCIAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 60570,
+     "title": "COMMUNICATIONS SPECIALIST"
     }
    ]
   },
@@ -44872,6 +44978,11 @@
     }
    ]
   },
+  "the kendall": {
+   "fetched_at": "2026-11-14T09:39:20Z",
+   "label": "The Kendall Group",
+   "titles": []
+  },
   "the new school": {
    "fetched_at": "2026-11-05T17:49:15Z",
    "label": "The New School",
@@ -45690,6 +45801,11 @@
   "tkda": {
    "fetched_at": "2026-11-08T00:16:07Z",
    "label": "tkda",
+   "titles": []
+  },
+  "tmx": {
+   "fetched_at": "2026-11-14T09:39:20Z",
+   "label": "TMX Group",
    "titles": []
   },
   "together ai": {
