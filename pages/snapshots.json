@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:14:04.355502+00:00",
+ "generated_at": "2026-11-14T15:10:34.728123+00:00",
  "policy": {
   "ttl_hours": {
    "priority_ats": 24,
@@ -63,16 +63,16 @@
   "echo",
   "heavy"
  ],
- "rows_fresh": 101651,
- "rows_eligible": 106779,
+ "rows_fresh": 101520,
+ "rows_eligible": 106648,
  "sources": {
   "ats_new": {
    "class": "direct_ats",
    "etag": "",
-   "fetched_at": "2026-11-14T11:46:19.708104+00:00",
+   "fetched_at": "2026-11-14T15:09:47.649803+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 799,
+   "rows": 687,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48,
@@ -83,17 +83,17 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 1.46,
+   "age_hours": 0.01,
    "fresh": true,
    "servable": true
   },
   "breadth": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-14T11:45:15.205521+00:00",
+   "fetched_at": "2026-11-14T15:08:44.783507+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 36,
+   "rows": 39,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72,
@@ -104,7 +104,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 1.48,
+   "age_hours": 0.03,
    "fresh": true,
    "servable": true
   },
@@ -125,17 +125,17 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.11,
+   "age_hours": 2.05,
    "fresh": false,
    "servable": true
   },
   "ecr": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-14T11:44:54.441941+00:00",
+   "fetched_at": "2026-11-14T15:08:15.999912+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 5498,
+   "rows": 5496,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72,
@@ -146,7 +146,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 1.49,
+   "age_hours": 0.04,
    "fresh": true,
    "servable": true
   },
@@ -167,14 +167,14 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 1.43,
+   "age_hours": 3.38,
    "fresh": false,
    "servable": true
   },
   "jobhive": {
    "class": "jobhive",
    "etag": "",
-   "fetched_at": "2026-11-14T13:06:17.550155+00:00",
+   "fetched_at": "2026-11-14T15:08:10.187983+00:00",
    "provenance": "fetch",
    "rejections": 0,
    "rows": 46680,
@@ -188,7 +188,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.13,
+   "age_hours": 0.04,
    "fresh": true,
    "servable": true
   },
@@ -209,7 +209,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.01,
+   "age_hours": 1.95,
    "fresh": true,
    "servable": true
   },
@@ -230,17 +230,17 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.12,
+   "age_hours": 2.07,
    "fresh": true,
    "servable": true
   },
   "medium": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-14T11:45:10.867267+00:00",
+   "fetched_at": "2026-11-14T15:08:41.719941+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 5483,
+   "rows": 5463,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72,
@@ -251,7 +251,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 1.48,
+   "age_hours": 0.03,
    "fresh": true,
    "servable": true
   },
@@ -272,7 +272,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 1.43,
+   "age_hours": 3.37,
    "fresh": true,
    "servable": true
   },
@@ -293,7 +293,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.11,
+   "age_hours": 2.06,
    "fresh": true,
    "servable": true
   }
