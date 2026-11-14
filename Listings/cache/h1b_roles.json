@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-14T13:14:05Z",
+ "built_at": "2026-11-14T18:50:35Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -11475,6 +11475,67 @@
    "label": "CityOfNewYork",
    "titles": []
   },
+  "clarios": {
+   "fetched_at": "2026-11-14T18:50:33Z",
+   "label": "Clarios",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 132121,
+     "title": "IT SR SYSTEM ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 147000,
+     "title": "DATA SCIENTIST AND ANALYTICS LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 162000,
+     "title": "DIRECTOR OF QUALITY-US CA"
+    },
+    {
+     "count": 1,
+     "median_salary": 124000,
+     "title": "HARDWARE REQUIREMENTS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "IBM MAXIMO MAS TECHNO FUNCTIONAL LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 129000,
+     "title": "LEAD REQUIREMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 149000,
+     "title": "MANAGER, MASTER DATA MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 119018,
+     "title": "POLY RECYCLING SME"
+    },
+    {
+     "count": 1,
+     "median_salary": 121500,
+     "title": "SENIOR REQUIREMENTS ANALYSIS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 144000,
+     "title": "SOFTWARE PROJECT MANAGER"
+    }
+   ]
+  },
   "clean harbors": {
    "fetched_at": "2026-11-03T18:17:49Z",
    "label": "Clean Harbors",
@@ -17256,6 +17317,112 @@
    "fetched_at": "2026-10-30T01:27:57Z",
    "label": "Eqtm",
    "titles": []
+  },
+  "equifax": {
+   "fetched_at": "2026-11-14T18:50:34Z",
+   "label": "Equifax",
+   "titles": [
+    {
+     "count": 43,
+     "median_salary": 125845,
+     "title": "SOFTWARE ENGINEER - CAREER"
+    },
+    {
+     "count": 21,
+     "median_salary": 123531,
+     "title": "SITE RELIABILITY ENGINEER - CAREER"
+    },
+    {
+     "count": 18,
+     "median_salary": 149760,
+     "title": "SOFTWARE ENGINEER - SPECIALIST"
+    },
+    {
+     "count": 11,
+     "median_salary": 96406,
+     "title": "SOFTWARE ENGINEER - INTERMEDIATE"
+    },
+    {
+     "count": 10,
+     "median_salary": 149760,
+     "title": "SITE RELIABILITY ENGINEER - SPECIALIST"
+    },
+    {
+     "count": 9,
+     "median_salary": 112362,
+     "title": "QUALITY AUTOMATION ENGINEER SDET - CAREER"
+    },
+    {
+     "count": 8,
+     "median_salary": 153050,
+     "title": "SOFTWARE ENGINEER - MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 112362,
+     "title": "QUALITY AUTOMATION ENGINEER SDET - SPECIALIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 121248,
+     "title": "DATA ENGINEER - CAREER"
+    },
+    {
+     "count": 4,
+     "median_salary": 142646,
+     "title": "DATA ENGINEER - SPECIALIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 119176,
+     "title": "DATA SCIENTIST - CAREER"
+    },
+    {
+     "count": 4,
+     "median_salary": 128653,
+     "title": "SOFTWARE ENGINEER \u2013 CAREER"
+    },
+    {
+     "count": 3,
+     "median_salary": 134493,
+     "title": "DATA SCIENTIST - SPECIALIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 140046,
+     "title": "PLATFORM ENGINEER - CAREER"
+    },
+    {
+     "count": 2,
+     "median_salary": 77095,
+     "title": "D&AMP;A ROTATIONAL DEVELOPMENT PROGRAM ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 118401,
+     "title": "DATA ANALYST ANALYTICS - CAREER"
+    },
+    {
+     "count": 2,
+     "median_salary": 79466,
+     "title": "DATA ANALYST ANALYTICS - ENTRY"
+    },
+    {
+     "count": 2,
+     "median_salary": 93080,
+     "title": "DATA ANALYST ANALYTICS - INTERMEDIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 170123,
+     "title": "DATA ENGINEERING - SENIOR MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 179940,
+     "title": "DATA SCIENCES - SENIOR MANAGER"
+    }
+   ]
   },
   "ericsson": {
    "fetched_at": "2026-10-25T08:51:15Z",
@@ -45250,6 +45417,112 @@
   "thermo fisher": {
    "fetched_at": "2026-11-12T18:25:14Z",
    "label": "Thermo Fisher",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 151288,
+     "title": "STAFF ENGINEER, SOFTWARE"
+    },
+    {
+     "count": 11,
+     "median_salary": 108826,
+     "title": "ENGINEER III, SOFTWARE"
+    },
+    {
+     "count": 9,
+     "median_salary": 131581,
+     "title": "SR. DEVELOPER"
+    },
+    {
+     "count": 8,
+     "median_salary": 111831,
+     "title": "DEVELOPER III"
+    },
+    {
+     "count": 5,
+     "median_salary": 127421,
+     "title": "MANAGER, IT"
+    },
+    {
+     "count": 5,
+     "median_salary": 113069,
+     "title": "SCIENTIST III, DATA SCIENCES"
+    },
+    {
+     "count": 5,
+     "median_salary": 95202,
+     "title": "SCIENTIST III, FIELD APPLICATIONS"
+    },
+    {
+     "count": 5,
+     "median_salary": 120973,
+     "title": "SR DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 200907,
+     "title": "SR. MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 126443,
+     "title": "ADVANCED PRODUCT DESIGN SPECIALIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 190000,
+     "title": "DIRECTOR, IT"
+    },
+    {
+     "count": 3,
+     "median_salary": 88442,
+     "title": "ENGINEER III, QA"
+    },
+    {
+     "count": 3,
+     "median_salary": 114379,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 115253,
+     "title": "PRODUCT SPECIALIST III"
+    },
+    {
+     "count": 3,
+     "median_salary": 71137,
+     "title": "SCIENTIST II, CELL BIOLOGY"
+    },
+    {
+     "count": 3,
+     "median_salary": 89107,
+     "title": "SCIENTIST II, FIELD APPLICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 85197,
+     "title": "SCIENTIST II, MOLECULAR BIOLOGY"
+    },
+    {
+     "count": 3,
+     "median_salary": 88442,
+     "title": "SCIENTIST III, MANUFACTURING SCIENCES"
+    },
+    {
+     "count": 3,
+     "median_salary": 110000,
+     "title": "SR BUSINESS ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 114982,
+     "title": "SR SYSTEMS ANALYST"
+    }
+   ]
+  },
+  "thermo fisher scientific": {
+   "fetched_at": "2026-11-14T18:50:35Z",
+   "label": "Thermo Fisher Scientific",
    "titles": [
     {
      "count": 12,

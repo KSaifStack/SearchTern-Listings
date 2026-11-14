@@ -56,6 +56,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "1729",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "1757",
    "ats_types": [
     "cornerstone",
@@ -308,6 +317,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "2878",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "3049",
    "ats_types": [
     "cornerstone",
@@ -408,6 +426,33 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3759",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3767",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3768",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "4125",
    "ats_types": [
     "cornerstone",
@@ -481,9 +526,9 @@
   }
  ],
  "base": {
-  "identities": 52531,
+  "identities": 54477,
   "path": "pages/searchtern.json",
-  "rows": 52531
+  "rows": 54477
  },
  "dropped_at_write": {
   "by_reason": {},
@@ -498,20 +543,20 @@
  "expired": [
   {
    "age_hours": -0.03,
-   "rows": 799,
+   "rows": 796,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.01,
-   "rows": 36,
+   "age_hours": -0.02,
+   "rows": 40,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.08,
+   "age_hours": -0.23,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
@@ -519,16 +564,16 @@
   },
   {
    "age_hours": -0.01,
-   "rows": 5498,
+   "rows": 5477,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.06,
-   "rows": 5036,
+   "age_hours": -0.21,
+   "rows": 12598,
    "source": "heavy",
-   "status": "rejected:shrunken",
+   "status": "ok",
    "ttl_hours": 48
   },
   {
@@ -539,35 +584,35 @@
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.21,
-   "rows": 723,
+   "age_hours": -0.36,
+   "rows": 725,
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.07,
-   "rows": 42267,
+   "age_hours": -0.22,
+   "rows": 42305,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.01,
-   "rows": 5483,
+   "rows": 5466,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.06,
+   "age_hours": -0.22,
    "rows": 358,
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.07,
+   "age_hours": -0.23,
    "rows": 11,
    "source": "skill",
    "status": "ok",
@@ -578,8 +623,8 @@
   "additions": {
    "attributed": 0,
    "reason": "the source that first supplied the identity key",
-   "total": -124,
-   "unattributed": -124
+   "total": -126,
+   "unattributed": -126
   },
   "removals": {
    "all": [],
@@ -589,7 +634,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-14T11:44:25.332209+00:00",
+ "generated_at": "2026-11-14T18:28:22.151465+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -616,15 +661,15 @@
  },
  "source_contributions": [],
  "summary": {
-  "added": -124,
-  "ats_conflicts": 53,
+  "added": -126,
+  "ats_conflicts": 58,
   "dropped_at_write": 0,
   "duplicates": 0,
   "expired_snapshots": 11,
-  "production_rows": 52531,
+  "production_rows": 54477,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 52407,
+  "shadow_rows": 54351,
   "unexplained_removed": 0
  }
 }
