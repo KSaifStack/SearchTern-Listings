@@ -1,0 +1,4110 @@
+[
+  {
+    "key": "md|Hewlett Packard Enterprise|Software Engineer 1|Roseville, CA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Royal Bank Of Canada|Data Engineer – New Grad|Toronto, ON, Canada",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|American Century Investments|Sustainable Research Intern|New York, New York",
+    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "americancentury/R0005745"
+  },
+  {
+    "key": "ats|Onsemi|Spring 2027 - Applications Engineer Intern (DC-DC)|San Jose, CA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Onsemi|Spring 2027 - Semiconductor AI Specialist Intern|Gresham, OR, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Onsemi|Spring 2027 - Manufacturing Engineer Intern|Nampa, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Onsemi|2027 Rotational Field Sales Engineer|Livonia, MI, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Ge Healthcare|Stage - Ingénieur(e) Techniques Avancées en Deep Learning / IA en Imagerie 3D|Buc",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "gehc/R4049256-1"
+  },
+  {
+    "key": "ats|WTW|Early Careers: Data Analyst Internship|New York, NY, United States",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Product Engineering Failure Analysis Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Analog Design Eng Intern - Power|Dallas, TX, United States",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Quality Engineering Intern - Santa Clara|United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Layout Design Intern-Dallas,TX|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Process Engineering Intern|Lehi, UT, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Process Development Engineer Intern - DLP|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Analog Design Engineering Intern - ATD|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Portfolio Marketing Engineering Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Smart Manufacturing and Automation Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Web Marketing Intern - Digital Experience Operations|Dallas, TX, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Systems Marketing Engineering Intern (SEM)|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Facilities Civil, Structural, Architectural Internship|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Program Management Engineer Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Product Marketing Engineering Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Utah: Manufacturing Engineering Intern|Lehi, UT, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|North Texas: Manufacturing Engineering Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Maine: Manufacturing Engineering Intern|South Portland, ME, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|North Texas: Industrial Engineer Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Facilities Controls and Automation Engineering Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Analog IC Design Engineering Intern - Bachelors|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Analog IC Design Engineering Intern - MS/PhD|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Design Verification Engineering Intern - Bachelors|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Design Verification Engineering Intern - MS/PhD|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Digital IC Design Engineering Intern - Bachelors|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Digital IC Design Engineering Intern - MS/PhD|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Packaging Engineering Intern MS/PhD|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Process Development Engineer Intern - MS/PhD – Dallas|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Process Development Engineer Intern - MS/PhD – Lehi|Lehi, UT, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Quality Engineering Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Texas Instruments|Sales Engineering Intern (Waltham, MA)|Waltham, MA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Dell Technologies|Dell Technologies Services Undergraduate Engineering   Intern|TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Dell Technologies|Inside Sales Product Specialist - Early Career|Round Rock, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Dell Technologies|Global Operations Supplier Process Engineer Co-Op|Franklin, MA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|High School Intern (AZ) - Assembly & Test Technician (US Persons)|Phoenix, AZ, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|ISC University Relations Development Program (URDP) - Engineering - Summer 2027 Intern Minneapolis, MN and Clearwater, FL (U.S. Citizen Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|ISC URDP - Engineering - Summer 2027 Intern Phoenix AZ (U.S. Person Required)|Phoenix, AZ, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Honeywell Aerospace Early Career – IT Analyst|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Honeywell Aerospace IT Intern / Co-Op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Information Systems, IT, Data Science Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Manufacturing & Industrial Engineering Intern - Summer 2027 (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Manufacturing & Industrial Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Information Systems, IT, Data Science Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Cyber Security Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|ISC University Relations Development Program (URDP) - HSE Engineering - Summer 2027 Intern (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Electrical Engineering - Summer 2027 Intern (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Mechanical Engineering Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Systems Engineering Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Software Engineering Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Embedded Engineering Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Electrical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Mechanical Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Systems Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Software Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Test Engineering Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Semiconductor Engineering Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Software AI Intern - Summer 2027 (U.S. Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Test Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Semiconductor Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Software AI Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Embedded Engineering Intern - Summer 2027|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Jefferson Health|Assistant Professor, College of Architecture, Design and Engineering, Landscape Architecture, Thomas Jefferson University, East Falls Campus|Philadelphia, PA",
+    "first_seen": "2026-11-07T08:07:50.733609+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "jeffersonhealth/REQ-0040103-2"
+  },
+  {
+    "key": "ats|Jefferson Health|Assistant Professor in Architecture, College of Architecture, Design & Engineering, Thomas Jefferson University, East Falls Campus|Philadelphia, PA",
+    "first_seen": "2026-11-07T08:07:50.733609+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "jeffersonhealth/REQ-0038894-1"
+  },
+  {
+    "key": "ats|Jefferson Health|Chair and Associate/Full Professor, Department of Architecture, College of Architecture, Design, & Engineering, Thomas Jefferson University, East Falls Campus|Philadelphia, PA",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "jeffersonhealth/REQ-0028207-1"
+  },
+  {
+    "key": "ats|Honeywell Aerospace|High School Intern (AZ) - Assembly & Test Technician (US Persons)|Phoenix, AZ, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Aerospace|Honeywell Aerospace Early Career – IT Analyst|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Aerospace|Honeywell Aerospace IT Intern / Co-Op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Java Developer Junior|Ashburn, VA, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Java Developer / Automation Test Engineer Junior|Ashburn, VA, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Java Backend Developer Junior|Ashburn, VA, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Junior Configuration Analyst|Middletown, RI, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|MACH-TB Junior Mission Systems Engineer|Crane, IN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Information Technology (IT) Continuity of Operations (COOP) Exercise Planner (SETA)|Chantilly, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Junior Facilities and Project analyst|Arlington, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|SAIC|Junior Modeling Simulation Software Engineer|El Segundo, CA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Clean Harbors|Mechanical Engineering Intern Industrial Services | Summer 2027|Canal Fulton, OH, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Clean Harbors|Chemistry or Engineering Intern Industrial Services|Sumter, SC, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Product Management Intern (MBA)|Atlanta, GA, United States",
+    "first_seen": "2026-11-07T09:00:47.109646+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Summer 2027 Honeywell Building Automation Strategy and M&A Manager (MBA Intern)|Atlanta, GA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Field Service Technician I - Fire Alarms Systems (Entry Level)|Miami, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Chemistry Lab Process Engineering Intern - Bachelor's|Shreveport, LA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Building Automation Early Career Sales Program- Recent Grad/Full Time|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Spring 2027 Software Engineering Co-op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Spring 2027 Artificial Intelligence/Machine Learning Co-Op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Spring 2027 Engineering Co-Op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Future IT Leaders - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Software Engineer Co-Op - Spring/Summer 2027|Pittsford, NY, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Future IT Leaders - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Building Automation Supply Chain Development Program (URDP) - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Artificial Intelligence/Machine Learning - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Chemical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Chemical Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Electrical Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Electrical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Materials Engineering/Materials Science - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Software Engineer & Computer Science - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Embedded Engineer - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Embedded Engineer - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Mechanical Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Mechanical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Manufacturing & Industrial Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell Technologies|Manufacturing & Industrial Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Product Management Intern (MBA)|Atlanta, GA, United States",
+    "first_seen": "2026-11-07T09:00:47.109646+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Summer 2027 Honeywell Building Automation Strategy and M&A Manager (MBA Intern)|Atlanta, GA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Field Service Technician I - Fire Alarms Systems (Entry Level)|Miami, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Chemistry Lab Process Engineering Intern - Bachelor's|Shreveport, LA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Building Automation Early Career Sales Program- Recent Grad/Full Time|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Spring 2027 Software Engineering Co-op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Spring 2027 Artificial Intelligence/Machine Learning Co-Op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Spring 2027 Engineering Co-Op|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Future IT Leaders - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Software Engineer Co-Op - Spring/Summer 2027|Pittsford, NY, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Future IT Leaders - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Building Automation Supply Chain Development Program (URDP) - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Artificial Intelligence/Machine Learning - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Chemical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Chemical Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Electrical Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Electrical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Materials Engineering/Materials Science - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Materials Engineering/Materials Science - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Information Systems, IT, Cyber Engineer & Data Science - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Software Engineer & Computer Science - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Software Engineer & Computer Science - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Embedded Engineer - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Embedded Engineer - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Mechanical Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Mechanical Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Manufacturing & Industrial Engineering - Summer 2027 Intern (US Person Required)|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Honeywell International|Manufacturing & Industrial Engineering - Summer 2027 Intern|United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Junior Production Scheduler|Knoxville, TN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Mechanical Engineer Co-op July-December|Mansfield, MA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Technical Marketing and Business Management Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Software Engineering Intern - ADG System R&D|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Software Engineering Co-Op (Jan-Aug 2027)|Eden Prairie, MN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Test Engineering Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Early Career Project Engineer, Power & Water Solutions|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Early Career Field Service Engineer, Power & Water Solutions|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Project Engineering Co-op - Spring 2027|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Research & Development Engineering Co-Op - Spring 2027|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Software Engineering Co-op (Jun-Dec 2027)|Eden Prairie, MN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson Electric|Sales Development Engineering Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|RF Engineering Co-op (Jul - Dec 2027)|Santa Rosa, CA, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Junior Production Scheduler|Knoxville, TN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Mechanical Engineer Co-op July-December|Mansfield, MA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Software Engineering Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T11:59:27.243316+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Technical Marketing and Business Management Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Software Engineering Intern - ADG System R&D|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Software Engineering Co-Op (Jan-Aug 2027)|Eden Prairie, MN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Analog Hardware Design Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Test Engineering Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Early Career Project Engineer, Power & Water Solutions|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Early Career Field Service Engineer, Power & Water Solutions|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Project Engineering Co-op - Spring 2027|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Research & Development Engineering Co-Op - Spring 2027|Pittsburgh, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Software Product Management Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Systems Integration Intern|Round Rock, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Software Engineering Co-op (Jun-Dec 2027)|Eden Prairie, MN, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Sales Development Engineering Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Emerson|Application Engineering Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|EXP|Junior Structural Engineer|Maitland, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Ul Solutions|RF Wireless Testing Internship (PM Shift)|Fremont, CA, United States",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Ul Solutions|Mechanical Engineering Intern|Atlanta, GA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Ul Solutions|Electrical Engineering Intern|Atlanta, GA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Ul Solutions|2027 Summer Intern: Product Management Intern|Northbrook, IL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Molina|Provider Network  & Operations  Internship – Summer 2027 (Undergraduate)|WI, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Molina Healthcare|Provider Network  & Operations  Internship – Summer 2027 (Undergraduate)|WI, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Data Analytics Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|UI/UX Design Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Energy Storage Product Management Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Software Engineering Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Technical Innovation Intern (Summer 2027)|Columbus, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Technical Innovation Intern (Summer 2027)|Westerville, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|UX Design Intern (Summer 2027)|Westerville, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Design Engineering Internship (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Design Engineering Intern (Graduate-Level) (Summer 2027)|Fort Lauderdale, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Technical Writing Intern (Summer 2027)|Westerville, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Service Technology Engineering Intern - Graduate Level (Summer 2027)|Westerville, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Firmware Engineer Intern (Graduate Level) (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|DC Power Product Management MBA Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|STV|Architecture Intern - Summer 2027|South Flower Street, Los Angeles, California",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "stvinc/JR6442"
+  },
+  {
+    "key": "ats|STV|Architecture Intern - Summer 2027|Montgomery Street, San Francisco, California",
+    "first_seen": "2026-10-30T15:07:23.468518+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "stvinc/JR6435"
+  },
+  {
+    "key": "ats|STV|Architecture Intern - Summer 2027|Vermont Avenue, Washington, District of Columbia",
+    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "stvinc/JR6256"
+  },
+  {
+    "key": "ats|STV|Civil Engineering Intern - Spring 2027|Harrisburg, Pennsylvania",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "stvinc/JR6108"
+  },
+  {
+    "key": "ats|Standard Aero|Engineering Co-Op - Summer|Hillsboro, OH, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Standard Aero|Summer Engineering Intern|San Antonio, TX, United States",
+    "first_seen": "2026-11-07T09:00:47.109646+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Standard Aero|Commercial Analyst Intern|San Antonio, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Standard Aero|Co-op, IT Analyst: Spring|Cincinnati, OH, United States",
+    "first_seen": "2026-11-05T17:46:07.056685+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Standard Aero|Intern, Engineer: Summer|Cincinnati, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Standard Aero|Intern, IT Analyst: Summer|Cincinnati, OH, United States",
+    "first_seen": "2026-11-05T17:46:07.056685+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|American Express|Campus Undergraduate Full-Time Associate - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY|New York, NY, United States",
+    "first_seen": "2026-11-12T18:38:28.975769+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Sherwin Williams|2027 R&D Product Engineering Co-Op|Brecksville, OH, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Sherwin Williams|2027 R&D Product Systems Internship- Cleveland|Cleveland, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Sherwin Williams|R&D GSC Architectural Paint Lab Internship- Brecksville, OH|Brecksville, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Historical Research Specialist - Summer Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Early Career Spaceflight Hardware Propulsion Engineer P1 – Space Systems|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|IMR System Design Engineering Intern|Houston, TX, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Intern II - Engineering|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|C++ Robotics Algorithm Developer Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Power Platform Developer Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Software Asset Management Analyst Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Mechanical Engineering Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|IT Finance Analyst Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Production Technician (Rotational Shift)|Panama City, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|IT SCM Business Analyst Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|Mechanical Engineering Intern|Morgan City, LA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|AI Governance Intern|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oceaneering|C++ Software Intern|Austin, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|AI Paid Intern ( full time or part time)|Salt Lake City, UT, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Oracle Cloud|Paid Intern - HQF Space Data & Facilities Planning|Salt Lake City, UT, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|The Church Of Jesus Christ Of Latter Day Saints|AI Paid Intern ( full time or part time)|Salt Lake City, UT, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|The Church Of Jesus Christ Of Latter Day Saints|Paid Intern - HQF Space Data & Facilities Planning|Salt Lake City, UT, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Watts Water|Electrical Engineering Co-Op, Jan-Jun 2027|Menomonee Falls, WI",
+    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Watts Water|Product Management Co-op, Jan-June 2027|Menomonee Falls, WI",
+    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Watts Water|Manufacturing Engineer Co-Op, Jan-June 2027|Germantown, WI",
+    "first_seen": "2026-10-20T19:54:52.850437+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Watts Water|Sustaining Engineer Co-Op, Jan-Jun 2027|Franklin, NH",
+    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Staff Procurement Analyst|Fort Worth, TX, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - IT Audit|Arlington, TX, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Software Development Engineer|Arlington, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Operations Analyst|Fort Worth, TX, United States",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Cloud Engineer|Irving, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Data Engineer|Arlington, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Oracle Application Developer|Irving, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Credit Analyst|Boston, MA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Pricing Analytics & Product Development|Fort Worth, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Cybersecurity|Irving, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Cybersecurity|Arlington, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Business Automation|Fort Worth, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Technology Innovation Lab|Arlington, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - IT Support Technician|Arlington, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial United States|Intern - Data Science|Fort Worth, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Arconic|Electrical Engineer Intern - MTE|Alcoa, TN, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Arconic|Electrical Engineer- Co-op|Davenport, IA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Arconic|Mechanical Engineer - Co-op|Davenport, IA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Berkshire Hathaway Energy|Intern - Renewable Generation Engineering|Des Moines, IA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Berkshire Hathaway Energy|Intern (Engineering/Drafting)|Leesburg, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Berkshire Hathaway Energy|Intern (Environmental Engineer)|Charleroi, PA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Berkshire Hathaway Energy|Intern (Automation and Controls)|Bridgeport, WV, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|VISA|SW Engineer Intern|PL - Warsaw, Poland",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|VISA|SW Engineer Intern|IN - Bengaluru, India",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|VISA|Global Products & Solutions Intern|AR - Buenos Aires, Argentina",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|VISA|Software Engineering Intern|IN - Bengaluru, India",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Intern - Year Round (AI Engineering)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|DoW SkillBridge Fellowship - Threat Intel Analyst|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Operations Analyst)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Decision Quality & Portfolio Signal Effectiveness)|Pensacola, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Data Engineer)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Associate Data Engineer)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Product Strategist)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Business Systems Analyst)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Consumer Lending Business Intelligence Analyst)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Enterprise Risk - Data Risk Governance)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Security Automation)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Financial Risk Analyst)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Lending Automation Technology & Solutions)|Pensacola, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Product Strategist - Student Loans)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Risk Analyst)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Penetration Testing)|Pensacola, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Security Workflow Engineer)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Credit Risk Analyst)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Payments AI Engineer)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Security Standards Governance)|Vienna, VA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Instructional Designer)|Pensacola, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Product Strategist/Business Analyst)|Pensacola, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Navy Federal|Summer Associate Internship (Data Storytelling & Visual Communications)|Pensacola, FL, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial|Intern - Staff Procurement Analyst|Fort Worth, TX, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial|Intern - Operations Analyst|Fort Worth, TX, United States",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial|Intern - Credit Analyst|Boston, MA, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial|Intern - Technology Innovation Lab|Arlington, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Gm Financial|Intern - Data Science|Fort Worth, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Plante Moran|2027 Managed IT Consulting Intern|Denver Tech Center",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "plantemoran/JR-03129"
+  },
+  {
+    "key": "ats|Tallgrass|Intern- Project Controls|Houston, TX, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Tallgrass|Intern-IEC Engineer|Lakewood, CO, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Tallgrass|Intern-Reliability Engineer|Lakewood, CO, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Tallgrass|Intern-Information Governance Analyst|Lakewood, CO, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|ESH&Q Technology Project & Operations Internship - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|Cybersecurity Vulnerability Assessment Internship - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-12T18:38:28.975769+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|ATR Engineering Intern - Summer 2027- Pressure Relief & PM Analysis|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|MFC Engineering Technology & Operations Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|Fire Protection Engineer Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|Computer Security Research Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Idaho National Laboratory|Cyber Security Research Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|ESH&Q Technology Project & Operations Internship - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|Cybersecurity Vulnerability Assessment Internship - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-12T18:38:28.975769+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|ATR Engineering Intern - Summer 2027- Pressure Relief & PM Analysis|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|MFC Engineering Technology & Operations Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|Fire Protection Engineer Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|Computer Security Research Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|INL|Cyber Security Research Intern - Summer 2027|Idaho Falls, ID, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Astrazeneca|Summer 2027 Automation Technician Intern|Cambridge, Massachusetts, United States of America",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Miron Construction|Youth Apprentice - Information Technology|Neenah, WI, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|ICD|Summer 2027 Human Resources Data & Analytics Internship|New York, NY, United States",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Power Electronics Engineering Intern|Menomonee Falls, Wisconsin, USA, 53051",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Engineering Intern|Minden, Louisiana, USA, 71055",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|R&D Engineering Intern|Cleveland, Tennessee, USA, 37312",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Internship Program: Switchgear Modernization Engineer|Houston, Texas, USA, 77040",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Internship Program: Field Service Engineer|Moon Township, Pennsylvania, USA, 15108",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Internship Program: Technical Sales|Moon Township, Pennsylvania, USA, 15108",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Electrical Engineer Internship / Co-op|Peachtree City, Georgia, USA, 30269",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Airfield Lighting Product Junior Field Technician|Windsor, Connecticut, USA, 06095",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Mechanical Engineer Internship / Co-op|Moon Township, Pennsylvania, USA, 15108",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Eaton|Internship Program: Applications Engineering|Arden, North Carolina, USA, 28704",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Microsoft|Research Intern - AI Coding Agents|United States, Washington, Redmond",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Ericsson|Networks NPI Intern|Bellevue,Washington,United States",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Cirrus Aircraft|Manufacturing Engineering Intern|Duluth, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cirrusaircraft/5918"
+  },
+  {
+    "key": "ats|Cirrus Aircraft|Grand Forks Manufacturing Engineering Intern|Grand Forks, ND, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cirrusaircraft/5923"
+  },
+  {
+    "key": "ats|Cirrus Aircraft|Pre-Production Assembly Trainee|Duluth, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cirrusaircraft/5940"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Network & Cloud Infrastructure Intern|Atlanta, GA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14068"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Cybersecurity Architect Intern|Atlanta, GA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14063"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Infrastructure Development & Automation Intern|Atlanta, GA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14064"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Software Development Engineer in Test Intern|Atlanta, GA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14066"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Corporate Systems Analyst Intern|Atlanta, GA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14067"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Agentic AI Data Science Intern|Jacksonville, FL, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14070"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Infrastructure Observability Intern|Jacksonville, FL, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14074"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Software Engineering Intern|Jacksonville, FL, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14077"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Software Developer Intern|Jacksonville, FL, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14076"
+  },
+  {
+    "key": "ats|Intercontinental Exchange Holdings|Summer Internship Program 2027 - Application Security Intern|Jacksonville, FL, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ice/14082"
+  },
+  {
+    "key": "ats|United Parcel Service Ups|2027 Industrial Engineering Summer Internship - Phoenix, AZ|US - PHOENIX HUB (AZPHO)",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "hcmportal/R26039747"
+  },
+  {
+    "key": "ats|United Parcel Service Ups|2027 Industrial Engineering Summer Internship - Denver, CO|US - COMMERCE CITY (CODEN)",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "hcmportal/R26039749"
+  },
+  {
+    "key": "ats|All Native Group|Junior Data Scientist|Fairfax, VA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "allnativegroup/10863"
+  },
+  {
+    "key": "ats|Unavailable|Automation/Controls Engineering Internship|Columbus, MS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "aluminumdynamics/7971"
+  },
+  {
+    "key": "ats|Unavailable|Mechanical Engineering Internship|Columbus, MS, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "aluminumdynamics/8026"
+  },
+  {
+    "key": "ats|Unavailable|Electrical Engineering Internship|Columbus, MS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "aluminumdynamics/8027"
+  },
+  {
+    "key": "ats|Delta Electronics Americas|Technical Service Engineer – Entry Level (UPS / HVAC) - Ohio, Indiana, or Houston, TX|UNAVAILABLE, UNAVAILABLE, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "delta-americas/1413"
+  },
+  {
+    "key": "ats|Delta Electronics Americas|Technical Service Engineer – Entry Level (UPS / HVAC) - Indiana/ Houston, TX/ Ohio|UNAVAILABLE, UNAVAILABLE, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "delta-americas/1414"
+  },
+  {
+    "key": "ats|Delta Electronics Americas|Technical Service Engineer – Entry Level (UPS / HVAC) - Houston, TX/ Ohio/ Indiana|UNAVAILABLE, UNAVAILABLE, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "delta-americas/1415"
+  },
+  {
+    "key": "ats|Delta Electronics Americas|Technical Service Technician – Entry Level (UPS / HVAC) - Ohio, Indiana, or Houston, TX|UNAVAILABLE, UNAVAILABLE, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "delta-americas/1435"
+  },
+  {
+    "key": "ats|Delta Electronics Americas|Technical Service Technician – Entry Level (UPS / HVAC) - Indiana/ Houston, TX/ Ohio|UNAVAILABLE, UNAVAILABLE, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "delta-americas/1436"
+  },
+  {
+    "key": "ats|Delta Electronics Americas|Technical Service Technician – Entry Level (UPS / HVAC) - Houston, TX/ Ohio/ Indiana|UNAVAILABLE, UNAVAILABLE, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "delta-americas/1437"
+  },
+  {
+    "key": "ats|E2 Optics|Junior Project Engineer|Cedar Rapids, IA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "e2optics/3996"
+  },
+  {
+    "key": "ats|Electric Power Engineers|Software Power Systems Engineering Intern|Austin, TX, US",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "epeconsulting/2448"
+  },
+  {
+    "key": "ats|Filtration Group|Mechanical Engineering Intern|Buffalo, NY, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "filtrationgroupcorp/7576"
+  },
+  {
+    "key": "ats|Unavailable|Unpaid Research Intern - School Credit Only - Temporary|Seattle, WA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "fhcrc/32122"
+  },
+  {
+    "key": "ats|Kleinfelder|Entry-Level Geotechnical Engineer or Engineering Geologist|Exton, PA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kleinfelder/10512"
+  },
+  {
+    "key": "ats|Kleinfelder|Entry Level Water Resources Engineer|Boston, MA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kleinfelder/10553"
+  },
+  {
+    "key": "ats|Kleinfelder|Geotechnical Engineering Intern/Co-Op|Exton, PA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kleinfelder/10688"
+  },
+  {
+    "key": "ats|Kleinfelder|Mining/Civil Engineering Intern|Cary, NC, US",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kleinfelder/10793"
+  },
+  {
+    "key": "ats|Kleinfelder|Entry-Level Geotechnical Engineer|Rancho Cordova, CA, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kleinfelder/10859"
+  },
+  {
+    "key": "ats|Kleinfelder|Entry-Level Electrical Controls Engineer|Perrysburg, OH, US",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kleinfelder/11061"
+  },
+  {
+    "key": "ats|Nikkiso Cryogenic Industries|Engineering Intern I|North Las Vegas, NV, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "nikkiso/4336"
+  },
+  {
+    "key": "ats|Minerals Technologies|Research & Development Intern|Easton, PA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "mineralstech/4904"
+  },
+  {
+    "key": "ats|National Louis University|Part-Time Security Guard - Tampa Campus|Tampa, FL, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "nl/1842"
+  },
+  {
+    "key": "ats|Posillico Civil|2027 Summer Engineering Internship - New York/New Jersey|Farmingdale, NY, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "posillicoinc/1826"
+  },
+  {
+    "key": "ats|Posillico Civil|2027 Summer Internship Program (Office / Non-Engineering - NY)|Farmingdale, NY, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "posillicoinc/1827"
+  },
+  {
+    "key": "ats|Posillico Civil|2027 Summer Engineering Internship - Texas|Houston, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "posillicoinc/1828"
+  },
+  {
+    "key": "ats|Posillico Civil|2027 Summer Engineering Internship - Florida / Virginia|West Palm Beach, FL, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "posillicoinc/1829"
+  },
+  {
+    "key": "ats|Posillico Civil|2027 Summer Engineering Internship - Falls Church-VA|Falls Church, VA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "posillicoinc/1849"
+  },
+  {
+    "key": "ats|Pulice|Field Engineer Intern|Phoenix, AZ, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "pulice/9203"
+  },
+  {
+    "key": "ats|Pulice|Field Engineer Intern|Austin, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "pulice/9205"
+  },
+  {
+    "key": "ats|Pulice|Field Engineer Intern|Dallas, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "pulice/9206"
+  },
+  {
+    "key": "ats|Pulice|Field Engineer Intern|San Antonio, TX, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "pulice/9208"
+  },
+  {
+    "key": "ats|Pulice|Field Engineer Intern|Columbus, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "pulice/9209"
+  },
+  {
+    "key": "ats|Peopletec|Junior Missile Defense Systems Analyst – Architecture and Assessment|Fort Belvoir, VA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "peopletec/5403"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Spring 2027|Thousand Oaks, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2121"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Thousand Oaks, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2122"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Carlsbad, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2123"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Walnut Creek, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2124"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Spring 2027|Peachtree City, GA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2125"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Peachtree City, GA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2126"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Spring 2027|Holly Springs, NC, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2127"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Holly Springs, NC, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2128"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Spring 2027|Houston, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2130"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Houston, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2131"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Spring 2027|Aurora, OH, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2132"
+  },
+  {
+    "key": "ats|Rovisys|Engineering Co-op - Summer 2027|Aurora, OH, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rovisys/2137"
+  },
+  {
+    "key": "ats|Quantum Sky|Junior Technical Acquisition Program Manager|El Segundo, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "quantumsky/2213"
+  },
+  {
+    "key": "ats|Simventions|2027 Engineering Intern – Systems and Test|Fredericksburg, VA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "simventions/1635"
+  },
+  {
+    "key": "ats|Steel Dynamics|Entry-Level Production|Butler, IN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "steeldynamics/8248"
+  },
+  {
+    "key": "ats|Steel Dynamics|Environmental Engineering Intern|Columbus, MS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "steeldynamics/8346"
+  },
+  {
+    "key": "ats|Steel Dynamics|Mechanical Engineering Internship|Columbus, MS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "steeldynamics/8428"
+  },
+  {
+    "key": "ats|Steel Dynamics|Electrical Engineering Internship|Sinton, TX, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "steeldynamics/8431"
+  },
+  {
+    "key": "ats|Shermco Industries|SkillBridge Internship: Electrical Engineer – Power Studies|Irving, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "us-shermco/2647"
+  },
+  {
+    "key": "ats|Tighe Bond|Entry Level Staff Engineer - Waterfront & Coastal Design - Summer 2027|Portsmouth, NH, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "tighebond/1849"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Quality Engineer Intern - Summer 2027|Dassel, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6491"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Chemical Engineer Intern - Summer 2027|Dassel, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6492"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Manufacturing Engineer Intern - Summer 2027|Dassel, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6493"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Engineering Co-Op - Materials Science R&D|Dassel, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6494"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Manufacturing Engineer Intern - Summer 2027|Brooklyn Park, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6497"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Industrial Engineering Intern (Stamping) Summer 2027|Brooklyn Park, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6499"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Automation Intern - Summer 2027|Brooklyn Park, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6501"
+  },
+  {
+    "key": "ats|Cretex Medical Component And Device Technologies|Quality Engineering Intern - Summer 2027|Brooklyn Park, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cretexmedicalcdt-cretex/6509"
+  },
+  {
+    "key": "ats|Unavailable|Junior Cybersecurity Systems Administrator|Colorado Springs, CO, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "futurecareers-peopletec/5397"
+  },
+  {
+    "key": "ats|URBN|URBN Junior Industrial Engineer|Gap, PA, US",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "homeoffice-na-urbn/36818"
+  },
+  {
+    "key": "ats|Toll Brothers|2027 Internship Program - Architecture Intern|Dallas, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "tollbrothers/25780"
+  },
+  {
+    "key": "ats|Toll Brothers|2027 Internship Program: Architecture Intern|Fort Washington, PA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "tollbrothers/25781"
+  },
+  {
+    "key": "ats|Element Materials Technology|Engineering Intern|Fairfield, OH, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "element-ext-us/20371"
+  },
+  {
+    "key": "ats|Flagger Force|Client Solutions and Billing Analyst 1 (Entry Level)|Hummelstown, PA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "office-flaggerforce/2504"
+  },
+  {
+    "key": "ats|RMS|Manufacturing Engineer Intern - Summer 2027 - rms Company|Coon Rapids, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rms-cretex/6515"
+  },
+  {
+    "key": "ats|RMS|Quality Engineer Intern - Summer 2027 - rms Company|Coon Rapids, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rms-cretex/6516"
+  },
+  {
+    "key": "ats|RMS|Chemical Engineer Intern - Summer 2027 - rms Company|Coon Rapids, MN, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "rms-cretex/6528"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Manufacturing Engineering Intern - Lehigh Valley, PA|Coopersburg, PA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5613"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Manufacturing Engineering Intern - Austin, TX|Austin, TX, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5615"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Manufacturing Engineering Intern - Ashland, VA|Ashland, VA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5617"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Packaging Engineering Intern - Austin, TX|Austin, TX, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5724"
+  },
+  {
+    "key": "ats|Marvin|Spring 2027 Manufacturing Engineer Intern|Kansas City, KS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "marvin/11186"
+  },
+  {
+    "key": "ats|Ho Chunk|Junior Data Scientist|Fairfax, VA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "ho-chunk/10863"
+  },
+  {
+    "key": "ats|Envoy Air|College Intern - Finance Analyst|Irving, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "us-envoyair/13098"
+  },
+  {
+    "key": "ats|Envoy Air|College Intern - Administrative Process Automation (LAX)|Los Angeles, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "us-envoyair/13101"
+  },
+  {
+    "key": "ats|Envoy Air|College Intern - Technical Publications Editor|Irving, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "us-envoyair/13102"
+  },
+  {
+    "key": "ats|Envoy Air|College Intern - HR Information Systems Analyst|Irving, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "us-envoyair/13106"
+  },
+  {
+    "key": "ats|Unavailable|Electrician Electrical Controls Specialist, Junior Technician (Union)|STENNIS SPACE CENTER, MS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "nsscareers-chugach/10596"
+  },
+  {
+    "key": "ats|Cook Group|COOK Medical Summer 2027 R&D, iMRI Engineering Co-op|Bloomington, IN, US",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "americas-cookmedical/21034"
+  },
+  {
+    "key": "ats|The Cadmus Group|Junior Energy Data Analyst|New York, NY, US",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cadmusgroup/3241"
+  },
+  {
+    "key": "ats|The Cadmus Group|Water Policy Junior Analyst – Entry Level|Arlington, VA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "cadmusgroup/3251"
+  },
+  {
+    "key": "ats|Carollo Engineers|Civil/Environmental Engineering Intern - Summer 2027|Dallas, TX, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "carollo/4656"
+  },
+  {
+    "key": "ats|Carollo Engineers|Civil/Environmental Engineering Intern|Portland, OR, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "carollo/4674"
+  },
+  {
+    "key": "ats|Carollo Engineers|Water/Wastewater Engineering Intern|Seattle, WA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "carollo/4682"
+  },
+  {
+    "key": "ats|Carollo Engineers|Entry Level Planning Engineer|Walnut Creek, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "carollo/4692"
+  },
+  {
+    "key": "ats|Wieland|Mechanical Engineer - INTERN|Buffalo, NY, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "chasebrass/4469"
+  },
+  {
+    "key": "ats|Wieland|Electrical Engineer - INTERN|Buffalo, NY, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "chasebrass/4470"
+  },
+  {
+    "key": "ats|GFT|Intern - Structural Engineering|Mechanicsburg, PA, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "gannettfleming/15189"
+  },
+  {
+    "key": "ats|E2 Consulting Engineers Lp|Substation Design Engineer Intern –Part Time|San Diego, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "e2/6378"
+  },
+  {
+    "key": "ats|Harpercollins Publishers|Junior Analyst, Business Process Reengineering (NYC Hybrid)|New York, NY, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "harpercollins/5499"
+  },
+  {
+    "key": "ats|Kci Technologies|Transportation Engineering Intern|Duluth, GA, US",
+    "first_seen": "2026-11-13T22:16:22.999829+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "kci/8252"
+  },
+  {
+    "key": "ats|Unavailable|Architecture Student Intern|Seattle, WA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "mg2/14555"
+  },
+  {
+    "key": "ats|San Diego State University Research Foundation|NIWC - Undergraduate II (Junior/Senior) and Graduate I - Emergent Research for Innovative Strategies (ERIS) Project (Task No: 71-3827279)|San Diego, CA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "sdsurf/21819"
+  },
+  {
+    "key": "ats|Tek Systems|Technical Recruiter Intern (Summer 2027)|Conshohocken, PA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "teksystems/13957"
+  },
+  {
+    "key": "ats|Tek Systems|Technical Recruiter Intern (Summer 2027)|Grand Rapids, MI, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "teksystems/13962"
+  },
+  {
+    "key": "ats|Swca Environmental Consultants|Environmental Engineering Intern|Lombard, IL, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "swca/15863"
+  },
+  {
+    "key": "ats|United Wholesale Mortgage|Entry Level Security Officer|Pontiac, MI, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "uwmcareers/16062"
+  },
+  {
+    "key": "ats|National Beef|Engineering Summer Internship|Dodge City, KS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "corporate-nationalbeef/5251"
+  },
+  {
+    "key": "ats|National Beef|Engineering Summer Internship|Liberal, KS, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "corporate-nationalbeef/5252"
+  },
+  {
+    "key": "ats|Flad Architects|Healthcare Planning and Research Fellowship|Tampa, FL, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "external-fladarchitects/2086"
+  },
+  {
+    "key": "ats|Stryten Energy|Mechanical Engineer Co-Op|Alpharetta, GA, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "external-stryten/5989"
+  },
+  {
+    "key": "ats|By Light Professional It Services|Apprentice Optical Network Installation Technician, Level 1 (AOT)|Remote w/ Travel, UNAVAILABLE, US",
+    "first_seen": "2026-11-05T23:46:00.896178+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "bylight/12071"
+  },
+  {
+    "key": "ats|United Engines|Junior Inventory Analyst|Oklahoma City, OK, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "unitedcareers-kirbycorp/4564"
+  },
+  {
+    "key": "ats|Alliance Laundry System|Embedded Firmware Co-op|Ripon, WI, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "uscareeropenings-alliancelaundry/13348"
+  },
+  {
+    "key": "ats|Alliance Laundry System|Mechanical Engineer Intern|Ripon, WI, US",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "uscareeropenings-alliancelaundry/13565"
+  },
+  {
+    "key": "ats|Marvin Composites|Mechanical Engineer Intern|Fargo, ND, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "composite-jobs-marvin/10526"
+  },
+  {
+    "key": "ats|Sedarotech|DevOps Intern|Arlington, Virginia",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "bamboohr",
+    "ats_id": "sedarotech/96"
+  },
+  {
+    "key": "ats|J P Morgan|AI Junior Designer - Associate|New York, NY, United States",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Product Management Intern - MBA (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Thermal Engineering Intern  (Summer 2027)|Westerville, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Vertiv|Test Engineering Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Akamai Technologies|Intern - Business Operations Analyst (UAE Nationals Only)|United Arab Emirates",
+    "first_seen": "2026-11-12T01:05:05.991285+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Frisco Isd|Campus Data Clerk - Elementary - General Interest|Frisco, TX, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "auxiliary-fisd/2385"
+  },
+  {
+    "key": "ats|Frisco Isd|Campus Data Clerk - Middle School - General Interest|Frisco, TX, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "auxiliary-fisd/2386"
+  },
+  {
+    "key": "ats|Frisco Isd|Campus Data Clerk - High School - General Interest|Frisco, TX, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "auxiliary-fisd/2387"
+  },
+  {
+    "key": "ats|Riverside Research Institute|Junior Cyber Security Scientist|Beavercreek, OH, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "riversideresearch/4339"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Electrical Engineering Intern - Lehigh Valley, PA|Coopersburg, PA, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5422"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Industrial Engineering Intern - Ashland, VA|Ashland, VA, US",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5528"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Electrical Engineering Intern - Austin, TX|Austin, TX, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5533"
+  },
+  {
+    "key": "ats|Lutron|Summer 2027 - Electrical Engineering Intern - Boynton Beach, FL|Boynton Beach, FL, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "studentopportunities-lutron/5535"
+  },
+  {
+    "key": "ats|Unavailable|Intern, Technical Support (Tool & Design)|Lincoln, NE, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "gd-ots/37561"
+  },
+  {
+    "key": "ats|Unavailable|2027 Summer Intern (Engineering)|St Petersburg, FL, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "gd-ots/37566"
+  },
+  {
+    "key": "ats|Susquehanna International Group Llp|Associate Network Engineer - New Grad|Bala Cynwyd (Philadelphia Area), PA, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "sig/8137"
+  },
+  {
+    "key": "ats|Susquehanna International Group Llp|Associate Linux/Windows Engineer - New Grad|Bala Cynwyd (Philadelphia Area), PA, US",
+    "first_seen": "2026-11-13T07:26:14.336256+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "icims",
+    "ats_id": "sig/9408"
+  },
+  {
+    "key": "jobhive|Clinchoice|Junior Statistical Programmer Analyst-FTE|United States",
+    "first_seen": "2026-11-11T15:55:18.288231+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "4983020101"
+  },
+  {
+    "key": "jobhive|Eleks|AON, Trainee JavaScript Developer, JR905|Lviv",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "lever",
+    "ats_id": "905d0f8e-092b-4639-9983-d1eed9477555"
+  },
+  {
+    "key": "jobhive|Atoms Careers Page|AI Research Intern  (BS/MS)|Mountain View, CA",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8919606002"
+  },
+  {
+    "key": "jobhive|Atoms Careers Page|AI Research Intern (PhD)|San Francisco, CA",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8909115002"
+  },
+  {
+    "key": "jobhive|Relativity Space|Manufacturing Engineer I, Stage Forming|Long Beach, California, United States",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8900745002"
+  },
+  {
+    "key": "jobhive|Relativity Space|Senior Manufacturing Engineer, Stage Forming|Long Beach, California, United States",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8900742002"
+  },
+  {
+    "key": "jobhive|Bge Inc|AUSTIN - Junior Instrumentation and Controls Engineer|101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5454657008"
+  },
+  {
+    "key": "jobhive|Bge Inc|FRISCO -  Junior Instrumentation and Controls Engineer|2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5454647008"
+  },
+  {
+    "key": "jobhive|Bge Inc|AUSTIN - Junior Electrical Power Engineer|101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5454641008"
+  },
+  {
+    "key": "jobhive|Bge Inc|FRISCO - Junior Electrical Power Engineer|2595 Dallas Pkwy., Suite 101, Frisco, Texas 75034",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5454634008"
+  },
+  {
+    "key": "jobhive|Relativity Space|Manufacturing Engineer II, Stage Forming|Long Beach, California, United States",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8892579002"
+  },
+  {
+    "key": "jobhive|Atoms Careers Page|Software Engineering Intern - 2027 Winter Term|Los Angeles, CA",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8888411002"
+  },
+  {
+    "key": "jobhive|Bge Inc|CHARLOTTE - Planning & Landscape Architecture, Internship|1111 Metropolitan Avenue, Suite 250, ​Charlotte, North Carolina 28204",
+    "first_seen": "2026-10-14T14:47:25.615959+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5451646008"
+  },
+  {
+    "key": "jobhive|Panthalassa|Summer 2027 Engineering Internship|Portland, OR",
+    "first_seen": "2026-10-06T11:06:20.169605+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "6217929004"
+  },
+  {
+    "key": "jobhive|Atoms Careers Page|Electrical Engineering Intern|San Francisco, CA",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8869098002"
+  },
+  {
+    "key": "jobhive|Atoms Careers Page|MBA Technical Strategy and Operations Intern|San Francisco, CA",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8868466002"
+  },
+  {
+    "key": "jobhive|Eleks|EagleSTAR, Trainee FE Developer, JR820|Remote (Ukraine)",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "lever",
+    "ats_id": "3640629b-ee2d-49b4-92c5-8f33e0df2521"
+  },
+  {
+    "key": "jobhive|Olsson|Entry-Level Telecom Permit Technician|Dallas, TX; Fort Worth, TX; Kansas - Remote; Lincoln, NE; Missouri - Remote; North Kansas City, MO; Omaha, NE; Overland Park, KS; Texas - Remote",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5439829008"
+  },
+  {
+    "key": "jobhive|Dlr Group|Architectural Designer, Entry-Level|Minneapolis, Minnesota, United States",
+    "first_seen": "2026-09-29T16:11:55.607069+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5425278008"
+  },
+  {
+    "key": "jobhive|Pediatricsplus|ABA Student Analyst - Sherwood|Sherwood, Arkansas, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "4715497006"
+  },
+  {
+    "key": "jobhive|Pediatrics Plus|ABA Student Analyst - Sherwood|Sherwood, Arkansas, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "4715496006"
+  },
+  {
+    "key": "jobhive|Dlr Group|Entry-Level; Architectural Designer|Omaha, Nebraska, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5409557008"
+  },
+  {
+    "key": "jobhive|Bge Inc|AUSTIN - Electrical Engineer-Power Systems, New Grad|101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5416971008"
+  },
+  {
+    "key": "jobhive|Bge Inc|HOUSTON - Planning & Landscape Architecture, Internship|10777 Westheimer Road, Suite 400, Houston, Texas 77042",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5415804008"
+  },
+  {
+    "key": "jobhive|Faraday Future|Finance & AI Automation Internship|El Segundo, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "welcometothejungle",
+    "ats_id": "07cc9fda-674a-4e0c-8023-fa2038fde78d"
+  },
+  {
+    "key": "md|Sierra Nevada Corporation|Software Engineer I (For 2026 Interns Only)|Lone Tree, CO",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|National Interstate Insurance|Data Engineering Intern – Summer 2027|Cincinnati, OH",
+    "first_seen": "2026-10-27T22:44:30.770886+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|National Interstate Insurance|DevOps Developer Intern - Summer 2027|Cincinnati, OH",
+    "first_seen": "2026-10-29T22:10:02.061984+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|NREL|Graduate (10-12 weeks) Intern - AI/ML for Cybersecurity|Golden, CO",
+    "first_seen": "2026-10-15T17:40:53.259092+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Sierra Nevada Corporation|Systems Engineer Intern|Southern Pines, NC",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Sierra Nevada Corporation|Systems Engineer I|Lone Tree, CO",
+    "first_seen": "2026-11-03T23:45:38.281627+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|NREL|Undergraduate or Graduate (Year Round) Intern – Building Systems Engineering|Golden, CO",
+    "first_seen": "2026-10-21T20:59:31.329821+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Generac|Micro-Grid Systems Engineering Summer Intern|USA - CO Fort Collins",
+    "first_seen": "2026-10-19T20:52:53.572373+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Generac|Micro-Grid Systems Engineering Co-Op|USA - CO Fort Collins",
+    "first_seen": "2026-10-06T21:20:59.377821+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Carnegie Mellon University|Academic Program Coordinator - College of Engineering - Department of Materials Science and...|Pittsburgh, PA",
+    "first_seen": "2026-11-06T19:04:38.101109+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Fortinet|Software Dev QA - FortiSASE|Sunnyvale, CA, United States",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Sierra Nevada Corporation|Project Engineer I|Lone Tree, CO",
+    "first_seen": "2026-09-30T22:42:03.720034+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|ASML|Wilton Factory Optics Fabrication Technician - CWW Back End Days|Wilton, CT, USA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Barclays|Equity Research Software, AVP|New York, 745 7th Avenue",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|National Interstate Insurance|IT Summer Internship Program Event Coordinator Intern - Summer 2027|Cincinnati, OH",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|National Interstate Insurance|Cloud Data Platform Intern - Summer 2027|Cincinnati, OH",
+    "first_seen": "2026-10-27T22:44:30.770886+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|ZAYO|Technical Product Manager|United States",
+    "first_seen": "2026-10-09T00:03:05.516677+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|University Of Miami|Assistant Professor in Computer Science - Artificial Intelligence|Coral Gables, Florida",
+    "first_seen": "2026-11-07T00:00:13.385117+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|NREL|Undergraduate / Graduate (Spring / Summer) Intern - Cyber Security Research – 5G|Golden, CO",
+    "first_seen": "2026-10-05T16:32:23.209438+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Crane Co|Manufacturing Engineer I|Burbank, California",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Eaton|Production Technician (1st Shift)|Hayward, California, USA, 94545",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|GDIT|Systems Technician - TS/SCI W/Poly|USA DC Washington",
+    "first_seen": "2026-11-13T09:12:13.423741+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Northeastern University|Postdoctoral Research Associate|Burlington, MA",
+    "first_seen": "2026-10-08T00:32:09.110714+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Wash U|RN Research Nurse Coordinator l (Hybrid) - Neurology|Washington University Medical",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Generac|Model Maker (Industrial Design)|Waukesha, WI - USA",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Northrop Grumman|Aircraft Systems Mechanic - Entry & Level 1|United States-California-Palmdale",
+    "first_seen": "2026-10-21T01:05:58.999474+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Drivetime|Instructional Designer|1720 W Rio Salado Pkwy Tempe,...",
+    "first_seen": "2026-10-20T04:05:18.295809+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|HNTB|Engineer I - Transportation|Austin, TX",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Boeing|Product Acceptance Specialist (Product Acceptance)|USA - Jacksonville, FL",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Amentum|Project Controls Manager|MD-Baltimore",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Abbott|Instrumentation/Automation Service Engineer I|United States > Madison : 1...",
+    "first_seen": "2026-10-14T08:07:20.944460+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Abbott|Instrumentation/Automation Service Engineer I|United States - Wisconsin -...",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Barry Wehmiller|VDC Specialist, AI|St Louis, MO",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Warner Bros Discovery|Advanced Designer, Narrative|UT Salt Lake City 175 East 400...",
+    "first_seen": "2026-10-21T12:32:05.463209+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|T Rowe Price|Associate Analyst - Financials|Baltimore, MD",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Brunswick|Mercury Marine: Industrial Design Intern|Fond du Lac, WI",
+    "first_seen": "2026-11-06T19:04:38.101109+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Micron Technology|Intern - Design Architecture, HBM|Richardson, TX",
+    "first_seen": "2026-10-05T22:58:16.395532+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Micron|Intern - DRAM Device Engineer|Boise, Idaho, United States of...",
+    "first_seen": "2026-11-13T17:33:32.567589+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Micron|Intern - Enterprise SSD Architecture|Boise, Idaho, United States of...",
+    "first_seen": "2026-11-13T17:33:32.567589+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Texas Instruments|Product Engineering Failure Analysis Intern|Dallas, TX, United States",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Hormel Foods|Production Management Intern- Summer 2027 (Multiple Locations)- Campus Recruiting|Austin, MN, United States",
+    "first_seen": "2026-11-13T17:33:32.567589+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Microsoft|Software Engineering - Commercial Engineering & AI (CEAI)|Redmond, WA",
+    "first_seen": "2026-10-08T06:46:36.845062+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Microsoft|Software Engineering|Redmond, WA",
+    "first_seen": "2026-11-12T12:16:50.760393+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Microsoft|Software Engineering|US",
+    "first_seen": "2026-10-05T22:58:16.395532+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|HPE|OEM Systems Software Engineer I|Spring, TX",
+    "first_seen": "2026-10-01T16:47:29.049663+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|CACI|Software Engineering Co-op/Intern - Spring 2027|Rochester, NY",
+    "first_seen": "2026-10-29T22:10:02.061984+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Marvell Technology|AI Data Science Intern, MS - Summer 2027|Santa Clara, CA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Cox Enterprises|Cybersecurity Intern - Summer 2027|Atlanta, GA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "cox/R202683372"
+  },
+  {
+    "key": "md|Hilton Worldwide|Corporate Summer Internship - Technology, Software Engineering and Cyber|Dallas, TX",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Jpmorgan Chase|Code for Good Hackathon - Software Engineer Program - 2027 Summer Internship – United States|Chicago, IL Columbus, OH Houston, TX Jersey City, NJ New York, NY Palo Alto, CA Plano, TX Wilmington, DE Tampa, FL",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Jpmorgan Chase|Data for Good Hackathon - Data & AI Program - 2027 Summer Internship - United States|Chicago, IL Columbus, OH Wilmington, DE Plano, TX New York, NY Jersey City, NJ Palo Alto, CA Newark, DE",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pella|IT Infrastructure Intern - Summer 2027|Pella, IA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|CIBC|Software Engineer Intern|Chicago, IL",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Cigna Group|AI Engineer Intern|Austin, TX",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|First National Bank|Data Science Intern|Pittsburgh, PA",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Marvell Technology|SRAM Software Engineer Intern, BS - Summer 2027|Burlington, VT",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Motorola Solutions|Android Platform Software Engineering Intern|Plantation, FL",
+    "first_seen": "2026-10-24T20:09:26.664352+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "motorolasolutions/R68363"
+  },
+  {
+    "key": "md|Auto Owners|Business Intelligence Developer Internship|Lansing, MI",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|F N B Corporation|Summer 2027 AI and Innovation Intern|Pittsburgh, PA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|F N B Corporation|Summer 2027 AI/ML Modeler Intern|Pittsburgh, PA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Grant Thornton|Cybersecurity and Privacy Intern|New York, NY",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Montenson|Artificial Intelligence Intern|Minneapolis, MN",
+    "first_seen": "2026-11-12T20:41:14.033391+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|HP|Software and Engineering Intern Roles...|Corvallis, OR",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Jpmorgan Chase|2027 Quantitative Research - Markets - Summer Internship - Analyst|New York, NY",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Jpmorgan Chase|2027 Quantitative Research - Markets - Summer Internship - Associate|New York, NY",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Jpmorgan Chase|2027 Quantitative Research - Asset Management - Summer Internship - Analyst|New York, NY",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Pulsesync Pte Ltd|Intern (Software Development) – SG|Lane County, OR, USA",
+    "first_seen": "2026-11-13T12:35:19.326998+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Fics Financial Industry Computer Systems Inc|Junior C# Software Developer - Mortgage Platform|Addison, TX, USA",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Biospace|2027 Summer Intern Biostatistics Interactive Benchmarking Platform  Cambridge MA|Cambridge, MA, USA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Samsung Electronics America|Samsung Care AI Data Analytic Intern|Plano, TX, USA",
+    "first_seen": "2026-11-07T00:00:13.385117+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Fics Inc|Junior C# Software Developer - Mortgage Platform|Addison, TX, USA",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Thales Group|Software Engineer Intern — Agile, Hands-on Dev (C/C++, Python)|Italy",
+    "first_seen": "2026-11-13T23:37:07.513593+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Amazon Com Inc|DevOps Apprentice - London Locations (24 Months Fixed Term Contract)|London, United Kingdom",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Ericsson|Cloud Infrastructure Engineer Intern|Milan,Milan,Italy",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Keysight Technologies Inc|Software Engineering Intern|Malaysia",
+    "first_seen": "2026-11-13T12:35:19.326998+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Stanley Stella|Supply Chain & Data Analyst Intern|Belgium (HQ)",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Crown Equipment Corporation|Software Developer Co-Op - Summer 2027 - Indefinite Work Authorization Required|New Bremen, OH, US, 45869",
+    "first_seen": "2026-11-05T00:38:52.949199+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Guruschools|Junior DevOps Engineer|New Johnsonville, TN, USA",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|IMEG|Technology Designer New Graduate | St. Louis, MO|St. Louis, MO",
+    "first_seen": "2026-11-05T11:59:27.243316+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ecr|Capital One|Software Engineering Intern|Bangalore, IN",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "capitalone/R1004749"
+  },
+  {
+    "key": "ecr|Thrivent|IT Application Engineer Intern, Investments - Summer 2027|Mpls-Investments Office · Minneapolis, MN",
+    "first_seen": "2026-11-13T23:37:07.513593+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "workday",
+    "ats_id": "thrivent/REQ-48511-3"
+  },
+  {
+    "key": "ecr|Barnes Thornburg|2027 BT RISE Internship - Information Security|Indianapolis, Indiana, United States",
+    "first_seen": "2026-11-03T22:42:00.399985+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ecr|IBM|Hardware Developer Intern 2027 -Tucson, AZ|United States",
+    "first_seen": "2026-11-11T17:56:15.539367+00:00",
+    "last_seen": "2026-11-13T23:37:07.513593+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Ericsson|Core Network Engineer Intern|Rome,Rome,Italy",
+    "first_seen": "2026-11-13T20:02:43.611672+00:00",
+    "last_seen": "2026-11-13T23:20:19.209444+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Texas Instruments|Quality Engineering Intern - Santa Clara|United States",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-13T22:16:22.999829+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Kraft Heinz|Product design intern|Nijmegen",
+    "first_seen": "2026-11-12T17:03:21.770866+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "workday",
+    "ats_id": "heinz/R-108404"
+  },
+  {
+    "key": "ats|Kraft Heinz|Research and Development Intern|Balıkesir-Susurluk",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "workday",
+    "ats_id": "heinz/R-105052"
+  },
+  {
+    "key": "ats|Kraft Heinz|Packaging Development & Technology  Intern|Nijmegen",
+    "first_seen": "2026-11-05T09:42:21.852061+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "workday",
+    "ats_id": "heinz/R-102107-1"
+  },
+  {
+    "key": "ats|VISA|Global Products & Solutions Intern|PA - Panama City, Panama",
+    "first_seen": "2026-10-19T18:31:36.561671+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Gm Financial United States|Intern - Data Engineer|Arlington, TX, United States",
+    "first_seen": "2026-10-31T01:19:43.220610+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|SCOR|Actuarial Internship – Reserving, Modelling and Data Analytics|Morocco",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "freehire|Unipol|Intern | Product Owner Junior|MILANO, LOMBARDIA, Italy",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-13T20:02:43.611672+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "ats|Generac|Micro-Grid Systems Engineering Co-Op|USA - CO Fort Collins",
+    "first_seen": "2026-11-05T11:59:27.243316+00:00",
+    "last_seen": "2026-11-13T09:34:35.052994+00:00",
+    "ats_type": "workday",
+    "ats_id": "generac/JR17249"
+  },
+  {
+    "key": "md|K2 Space|Software Engineering Intern - Summer 2027|Los Angeles, CA · LA, US",
+    "first_seen": "2026-10-01T20:04:06.703301+00:00",
+    "last_seen": "2026-10-03T17:41:20.634843+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|K2 Space|Software Engineering Intern - Summer 2027|Los Angeles, CA · LA, States",
+    "first_seen": "2026-10-03T19:05:57.882657+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
+    "ats_type": "",
+    "ats_id": ""
+  },
+  {
+    "key": "md|Optiver|Quantitative Research Intern (PhD, Austin)|Austin, TX",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-29T23:38:51.107543+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "md|Optiver|Software Engineer Intern (Austin)|Austin, TX",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T23:15:01.511388+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "md|Formlabs|Manufacturing Test Software Intern (Winter/Spring 2027)|Somerville, MA",
+    "first_seen": "2026-10-22T22:00:14.882714+00:00",
+    "last_seen": "2026-10-27T18:31:41.928384+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "ats|ABB|Systems Engineering Intern - Summer 2027|USA, OH, Cleveland",
+    "first_seen": "2026-10-02T00:17:50.214112+00:00",
+    "last_seen": "2026-10-02T18:46:34.876117+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "md|Dedalus Labs|Systems Engineer / Product Manager Intern (Summer 2027)|San Francisco, CA",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T23:15:01.511388+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "md|Optiver|Software Engineer Intern (Chicago)|Chicago, IL",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T23:15:01.511388+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "md|Optiver|Quantitative Research Intern (PhD, Chicago)|Chicago, IL",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-29T23:38:51.107543+00:00",
+    "reason": "link_dead"
+  },
+  {
+    "key": "ats|ABB|Multiphysics & Engineering Intern- Summer 2027|USA, NC, Raleigh",
+    "first_seen": "2026-10-03T07:13:52.525833+00:00",
+    "last_seen": "2026-10-05T01:22:04.906869+00:00",
+    "reason": "link_dead"
+  }
+]

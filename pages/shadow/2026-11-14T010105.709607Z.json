@@ -526,9 +526,9 @@
   }
  ],
  "base": {
-  "identities": 53766,
+  "identities": 53465,
   "path": "pages/searchtern.json",
-  "rows": 53766
+  "rows": 53465
  },
  "dropped_at_write": {
   "by_reason": {},
@@ -543,7 +543,7 @@
  "expired": [
   {
    "age_hours": -0.04,
-   "rows": 804,
+   "rows": 799,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
@@ -556,7 +556,7 @@
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.26,
+   "age_hours": -0.17,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
@@ -564,55 +564,55 @@
   },
   {
    "age_hours": -0.01,
-   "rows": 5429,
+   "rows": 5477,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.24,
-   "rows": 9758,
+   "age_hours": -0.15,
+   "rows": 7907,
    "source": "heavy",
-   "status": "ok:recovered",
+   "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.01,
-   "rows": 46737,
+   "rows": 46680,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.4,
-   "rows": 740,
+   "age_hours": -0.3,
+   "rows": 724,
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.25,
-   "rows": 42260,
+   "age_hours": -0.16,
+   "rows": 42342,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.02,
-   "rows": 5473,
+   "rows": 5472,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.25,
-   "rows": 359,
+   "age_hours": -0.15,
+   "rows": 358,
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.26,
+   "age_hours": -0.16,
    "rows": 12,
    "source": "skill",
    "status": "ok",
@@ -623,8 +623,8 @@
   "additions": {
    "attributed": 0,
    "reason": "the source that first supplied the identity key",
-   "total": -119,
-   "unattributed": -119
+   "total": -134,
+   "unattributed": -134
   },
   "removals": {
    "all": [],
@@ -634,7 +634,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-13T20:02:43.611672+00:00",
+ "generated_at": "2026-11-14T01:01:05.709607+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -661,15 +661,15 @@
  },
  "source_contributions": [],
  "summary": {
-  "added": -119,
+  "added": -134,
   "ats_conflicts": 58,
   "dropped_at_write": 0,
   "duplicates": 0,
   "expired_snapshots": 11,
-  "production_rows": 53766,
+  "production_rows": 53465,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 53647,
+  "shadow_rows": 53331,
   "unexplained_removed": 0
  }
 }

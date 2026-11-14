@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-13T22:33:38Z",
+ "built_at": "2026-11-14T01:19:43Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13389,6 +13389,112 @@
     }
    ]
   },
+  "crowe advisory": {
+   "fetched_at": "2026-11-14T01:19:41Z",
+   "label": "Crowe Advisory",
+   "titles": [
+    {
+     "count": 18,
+     "median_salary": 75587,
+     "title": "AUDIT ASSOCIATE"
+    },
+    {
+     "count": 7,
+     "median_salary": 75000,
+     "title": "LEAD TAX SERVICES ASSOCIATE"
+    },
+    {
+     "count": 5,
+     "median_salary": 175000,
+     "title": "FINANCIAL CRIME TESTING MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 82500,
+     "title": "STATE AND LOCAL TAX ASSOCIATE"
+    },
+    {
+     "count": 3,
+     "median_salary": 75675,
+     "title": "TRANSACTION SERVICES ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 178924,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 2,
+     "median_salary": 94374,
+     "title": "FINANCIAL CRIME TECHNOLOGY SENIOR CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 130000,
+     "title": "IT ASSURANCE MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 103500,
+     "title": "TECHNOLOGY ADVISORY SENIOR CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 83000,
+     "title": "VALUATION SERVICES CONSULTANT"
+    },
+    {
+     "count": 1,
+     "median_salary": 44949,
+     "title": "ASSOCIATE LAW CLERK"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "AUDIT ASSOOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 113900,
+     "title": "AUDIT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98600,
+     "title": "AUDIT SENIOR ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 107500,
+     "title": "AUDIT SENIOR STAFF"
+    },
+    {
+     "count": 1,
+     "median_salary": 103000,
+     "title": "BUSINESS PROCESS, RISK AND CONTROLS SENIOR CONSULT"
+    },
+    {
+     "count": 1,
+     "median_salary": 220530,
+     "title": "BUSINESS PROCESS, RISK AND CONTROLS SENIOR MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 190320,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "EXPERIENCED TAX ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 89000,
+     "title": "FEDERAL TAX SERVICES SENIOR ASSOCIATE"
+    }
+   ]
+  },
   "crystaldynamics": {
    "fetched_at": "2026-11-07T23:32:38Z",
    "label": "crystaldynamics",
@@ -16544,6 +16650,17 @@
      "count": 1,
      "median_salary": 145000,
      "title": "STRATEGIC OPERATIONS ANALYST"
+    }
+   ]
+  },
+  "emery sapp sons": {
+   "fetched_at": "2026-11-14T01:19:41Z",
+   "label": "Emery Sapp & Sons",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "ASSOCIATE"
     }
    ]
   },
@@ -42760,6 +42877,17 @@
      "count": 1,
      "median_salary": 145000,
      "title": "RESEARCH ASSOCIATE III"
+    }
+   ]
+  },
+  "storage scholars": {
+   "fetched_at": "2026-11-14T01:19:42Z",
+   "label": "Storage Scholars",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "RESEARCH SCIENTIST"
     }
    ]
   },
