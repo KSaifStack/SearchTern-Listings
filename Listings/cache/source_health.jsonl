@@ -1,7 +1,3 @@
-{"ts": 1793764336.3752315, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793764688.5103638, "source": "freehire", "discovered": 6939, "valid": 5227, "new": 426, "seconds": 0.0, "status": "ok"}
-{"ts": 1793764688.5103638, "source": "ecr", "discovered": 8404, "valid": 4847, "new": 15, "seconds": 0.0, "status": "ok"}
-{"ts": 1793764688.5103638, "source": "jobhive", "discovered": 0, "valid": 13569, "new": 3, "seconds": 0.0, "status": "ok"}
 {"ts": 1793764688.5103638, "source": "md", "discovered": 0, "valid": 0, "new": 3, "seconds": 0.0, "status": "ok"}
 {"ts": 1793764688.5103638, "source": "breadth", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
 {"ts": 1793764688.5103638, "source": "ats", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4994,7 @@
 {"ts": 1794689288.8855054, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794689288.8855054, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794689288.8855054, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.32, "status": "ok"}
+{"ts": 1794690591.3299239, "source": "ats", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1794690591.3299239, "source": "jobhive-closure", "discovered": 72666, "valid": 72666, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794690591.3299239, "source": "jobhive", "discovered": 0, "valid": 14486, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794690591.3299239, "source": "ats-probe", "discovered": 13464, "valid": 1872, "new": 0, "seconds": 509.521, "status": "ok"}
