@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-14T01:19:43Z",
+ "built_at": "2026-11-14T02:48:04Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -32261,6 +32261,17 @@
     }
    ]
   },
+  "natural resources defense council": {
+   "fetched_at": "2026-11-14T02:48:02Z",
+   "label": "Natural Resources Defense Council, Inc.",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR ANALYST, REGULATORY AND ECONOMIC POLICY"
+    }
+   ]
+  },
   "navy federal": {
    "fetched_at": "2026-10-25T14:47:34Z",
    "label": "Navy Federal",
@@ -39661,6 +39672,112 @@
     }
    ]
   },
+  "samsung semiconductor": {
+   "fetched_at": "2026-11-14T02:48:03Z",
+   "label": "Samsung Semiconductor",
+   "titles": [
+    {
+     "count": 22,
+     "median_salary": 147276,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 21,
+     "median_salary": 177154,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 194937,
+     "title": "SENIOR STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 185120,
+     "title": "STAFF ENGINEER, DRAM"
+    },
+    {
+     "count": 2,
+     "median_salary": 113308,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 126422,
+     "title": "FIELD APPLICATION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 159785,
+     "title": "MANAGER, SSIC STRATEGY &AMP; INTELLIGENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 211920,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 240931,
+     "title": "SENIOR MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 81890,
+     "title": "ASSOCIATE MANAGER, GRAPHIC DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 105893,
+     "title": "ASSOCIATE MANAGER, MARKET INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 119434,
+     "title": "CELLULAR ENGINEER - 5G 4G LAB FIELD TEST"
+    },
+    {
+     "count": 1,
+     "median_salary": 157414,
+     "title": "DIGITAL TRANSFORMATION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132183,
+     "title": "ENGINEER, FIRMWARE"
+    },
+    {
+     "count": 1,
+     "median_salary": 139722,
+     "title": "ENGINEER, FIRMWARE DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 139495,
+     "title": "ENGINEER, HIGH PERFORMANCE COMPUTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 143462,
+     "title": "ENGINEER, MULTIMEDIA SYSTEM"
+    },
+    {
+     "count": 1,
+     "median_salary": 126880,
+     "title": "ENGINEER, RF EMBEDDED SW FW"
+    },
+    {
+     "count": 1,
+     "median_salary": 126880,
+     "title": "ENGINEER, SOFTWARE APPLICATION TOOLS"
+    },
+    {
+     "count": 1,
+     "median_salary": 162926,
+     "title": "ESG MANAGER"
+    }
+   ]
+  },
   "sanofi": {
    "fetched_at": "2026-10-31T22:57:46Z",
    "label": "Sanofi",
@@ -46197,6 +46314,112 @@
      "count": 1,
      "median_salary": 300265,
      "title": "SR. DIRECTOR, BUSINESS INTELLIGENCE &AMP; ANALYTICS HQ"
+    }
+   ]
+  },
+  "twitch": {
+   "fetched_at": "2026-11-14T02:48:04Z",
+   "label": "Twitch",
+   "titles": [
+    {
+     "count": 6,
+     "median_salary": 166800,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER II"
+    },
+    {
+     "count": 6,
+     "median_salary": 162700,
+     "title": "TECHNICAL BUSINESS DEVELOPER III"
+    },
+    {
+     "count": 5,
+     "median_salary": 198000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER III"
+    },
+    {
+     "count": 4,
+     "median_salary": 214800,
+     "title": "SYSTEM DEV ENGINEER III"
+    },
+    {
+     "count": 3,
+     "median_salary": 225000,
+     "title": "DATA SCIENTIST III"
+    },
+    {
+     "count": 2,
+     "median_salary": 190750,
+     "title": "APPLIED SCIENTIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 183200,
+     "title": "DATA SCIENTIST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 110986,
+     "title": "FINANCIAL ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 238600,
+     "title": "MANAGER III, SOFTWARE DEVELOPMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 227400,
+     "title": "SOFTWARE DEV ENGINEER III"
+    },
+    {
+     "count": 2,
+     "median_salary": 164802,
+     "title": "TECHNICAL PROGRAM MANAGER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 195000,
+     "title": "APPLIED SCIENTIST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 259100,
+     "title": "APPLIED SCIENTIST III"
+    },
+    {
+     "count": 1,
+     "median_salary": 171200,
+     "title": "DATA ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 150500,
+     "title": "DATA SCIENTIST I"
+    },
+    {
+     "count": 1,
+     "median_salary": 177200,
+     "title": "INFORMATION TECHNOLOGY PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 236000,
+     "title": "MANAGER III, TECHNICAL PROGRAM MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 206900,
+     "title": "PRINCIPAL, PRODUCT MANAGEMENT-TECHNICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 194400,
+     "title": "SOFTWARE DEV ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 174800,
+     "title": "SYSTEM DEVELOPMENT ENGINEER II"
     }
    ]
   },

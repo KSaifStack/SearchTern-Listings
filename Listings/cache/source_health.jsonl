@@ -4821,3 +4821,6 @@
 {"ts": 1794619220.620655, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794619220.620655, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794619220.620655, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.502, "status": "ok"}
+{"ts": 1794624510.6188025, "source": "jobhive-closure", "discovered": 70009, "valid": 70005, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794624510.6188025, "source": "jobhive", "discovered": 0, "valid": 14486, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794624510.6188025, "source": "ats-probe", "discovered": 42, "valid": 1, "new": 0, "seconds": 111.908, "status": "ok"}
