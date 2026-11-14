@@ -1,9 +1,3 @@
-{"ts": 1793729899.936025, "source": "md:speedyapply SWE New Grad Intl", "discovered": 784, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793729899.936025, "source": "md:speedyapply AI 2027", "discovered": 780, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793729899.936025, "source": "md:negarprh Canada 2027", "discovered": 725, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793729899.936025, "source": "md:vanshb03 Off-Season", "discovered": 704, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793729899.936025, "source": "md:zapplyjobs Internships 2027", "discovered": 600, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793729899.936025, "source": "md:zapplyjobs New Grad 2027", "discovered": 591, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793729899.936025, "source": "md:speedyapply AI Intern Intl", "discovered": 585, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793729899.936025, "source": "md:speedyapply SWE 2027 Intern Intl", "discovered": 577, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793729899.936025, "source": "md:zshah101 Automated List", "discovered": 562, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4992,9 @@
 {"ts": 1794669069.9801645, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794669069.9801645, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794669069.9801645, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.579, "status": "ok"}
+{"ts": 1794675533.898246, "source": "ats", "discovered": 0, "valid": 0, "new": 13, "seconds": 0.0, "status": "ok"}
+{"ts": 1794675533.898246, "source": "md", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1794675533.898246, "source": "freehire", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1794675533.898246, "source": "jobhive-closure", "discovered": 90141, "valid": 89805, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794675533.898246, "source": "ats-probe", "discovered": 241730, "valid": 16499, "new": 0, "seconds": 633.671, "status": "ok"}
+{"ts": 1794675533.898246, "source": "jobhive", "discovered": 0, "valid": 14486, "new": 0, "seconds": 0.0, "status": "ok"}
