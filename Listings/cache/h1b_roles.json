@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-14T02:48:04Z",
+ "built_at": "2026-11-14T06:30:44Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -3698,6 +3698,37 @@
      "count": 1,
      "median_salary": 145000,
      "title": "SENIOR ELECTRICAL ENGINEER"
+    }
+   ]
+  },
+  "ardian": {
+   "fetched_at": "2026-11-14T06:30:41Z",
+   "label": "Ardian",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "ANALYST, CO-INVESTMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "CLIENT SOLUTIONS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 230000,
+     "title": "DIRECTOR, CO-INVESTMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR ASSOCIATE, FINANCE AND OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 200000,
+     "title": "SENIOR INVESTMENT MANAGER"
     }
    ]
   },
@@ -27727,6 +27758,112 @@
     }
    ]
   },
+  "live nation entertainment": {
+   "fetched_at": "2026-11-14T06:30:42Z",
+   "label": "Live Nation Entertainment",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 78624,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 135000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 90896,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 76044,
+     "title": "DATA ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 153768,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 117000,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "ORACLE SENIOR ANALYST LEAD, FINANCE TECHNOLOGY"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 191380,
+     "title": "SOFTWARE ENGINEERING - SENIOR ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145000,
+     "title": "BI DATA ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 191500,
+     "title": "DATA SCIENTIST - MODELS &AMP; ANALYTICS \u2013 MEASUREMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 265000,
+     "title": "ENGINEERING DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 70252,
+     "title": "FINANCIAL ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 72000,
+     "title": "INTERIOR DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 232313,
+     "title": "LEAD ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 105997,
+     "title": "MANAGER JC50"
+    },
+    {
+     "count": 2,
+     "median_salary": 168000,
+     "title": "ORACLE CLOUD ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 201400,
+     "title": "PRINCIPAL SOLUTIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87000,
+     "title": "PRODUCTION SCHEDULER"
+    },
+    {
+     "count": 2,
+     "median_salary": 65000,
+     "title": "PROJECT MANAGER"
+    }
+   ]
+  },
   "live nation entertainment https livenation wd503 myworkdayjobs com lnexternalsite job chicago il usa venue analytics intern jr 93773 2": {
    "fetched_at": "2026-11-07T02:21:20Z",
    "label": "[Live Nation Entertainment](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Chicago-IL-USA/Venue-Analytics-Intern_JR-93773-2)",
@@ -34707,6 +34844,17 @@
     }
    ]
   },
+  "pediatrics plus": {
+   "fetched_at": "2026-11-14T06:30:43Z",
+   "label": "Pediatrics Plus",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 175507,
+     "title": "PEDIATRICIAN"
+    }
+   ]
+  },
   "pella windows doors": {
    "fetched_at": "2026-10-25T19:01:39Z",
    "label": "Pella Windows & Doors",
@@ -35512,6 +35660,22 @@
      "count": 1,
      "median_salary": 275000,
      "title": "AI ENGINEER, L S"
+    }
+   ]
+  },
+  "power digital": {
+   "fetched_at": "2026-11-14T06:30:43Z",
+   "label": "Power Digital",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 80000,
+     "title": "GROWTH LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 65000,
+     "title": "JUNIOR DATA ANALYST"
     }
    ]
   },

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "run_id": "20261114T052936Z-d9ea0b4184a6",
-  "generated_at": "2026-11-14T05:29:36.353177+00:00",
+  "run_id": "20261114T063240Z-dea5011281b9",
+  "generated_at": "2026-11-14T06:32:40.801530+00:00",
   "status": "degraded",
   "publication_status": "published",
   "delivery": {
@@ -12,53 +12,53 @@
   "published": {
     "listings": {
       "path": "pages/listings.json",
-      "rows": 25800,
-      "bytes": 62442324,
-      "sha256": "7ac42dbe28d54cd518b2ae5427d296f764797534a9b195949e73d62d65112f0e",
+      "rows": 25822,
+      "bytes": 62484518,
+      "sha256": "4c461f550b3cc16e4fa8351ee50a360424169c5348fd76a2da1825e28bc8bf51",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
     },
     "searchtern": {
       "path": "pages/searchtern.json",
-      "rows": 53495,
-      "bytes": 135859520,
-      "sha256": "d9ea0b4184a6adb467a1e12ff51885387e8f709ef55e95fb911b9e361f5853f4",
+      "rows": 53512,
+      "bytes": 135872654,
+      "sha256": "dea5011281b9dda58dd30ea85ba1df32d976a9797718478c8d585a816de2694c",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
     },
     "readme": {
       "path": "README.md",
       "window_days": 60,
-      "rows": 17085,
+      "rows": 17100,
       "pages": 34,
-      "generation": "20261114T052936Z-d9ea0b4184a6"
+      "generation": "20261114T063240Z-dea5011281b9"
     }
   },
   "required_sources": [
     "jobhive"
   ],
   "last_known_good": {
-    "generated_at": "2026-11-14T02:49:21.353809+00:00",
-    "run_id": "20261114T024921Z-5676281606a3",
+    "generated_at": "2026-11-14T05:29:36.353177+00:00",
+    "run_id": "20261114T052936Z-d9ea0b4184a6",
     "published": {
       "listings": {
         "path": "pages/listings.json",
-        "rows": 25903,
-        "bytes": 62347284,
-        "sha256": "9ddb4fe8c93992df550d7e5bb87f2fa0cd3d4fb0041b22e1fc260b7192aee677",
+        "rows": 25800,
+        "bytes": 62442324,
+        "sha256": "7ac42dbe28d54cd518b2ae5427d296f764797534a9b195949e73d62d65112f0e",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
       },
       "searchtern": {
         "path": "pages/searchtern.json",
-        "rows": 53533,
-        "bytes": 135909043,
-        "sha256": "5676281606a3496175781115cb62fdbe2649813499ddf52825b75f36cab75526",
+        "rows": 53495,
+        "bytes": 135859520,
+        "sha256": "d9ea0b4184a6adb467a1e12ff51885387e8f709ef55e95fb911b9e361f5853f4",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
       },
       "readme": {
         "path": "README.md",
         "window_days": 60,
-        "rows": 15722,
-        "pages": 31,
-        "generation": "20261114T024921Z-5676281606a3"
+        "rows": 17085,
+        "pages": 34,
+        "generation": "20261114T052936Z-d9ea0b4184a6"
       }
     },
     "path": "pages/last-known-good",
@@ -76,7 +76,7 @@
     "SimplifyJobs New Grad": 384,
     "SimplifyJobs Off-Season 2027": 36,
     "SimplifyJobs Summer 2027": 105,
-    "SuryaHarikrishnan DS/AI": 1103,
+    "SuryaHarikrishnan DS/AI": 1102,
     "SuryaHarikrishnan Hardware": 682,
     "SuryaHarikrishnan Other 2027": 1835,
     "SuryaHarikrishnan Product": 219,
@@ -84,13 +84,13 @@
     "SuryaHarikrishnan SWE Track": 914,
     "aprameyak New Grad 2027": 1119,
     "aprameyak Off-Cycle/Co-op": 679,
-    "aprameyak Summer 2027": 2117,
+    "aprameyak Summer 2027": 2118,
     "ats": 6473,
-    "breadth": 23,
+    "breadth": 19,
     "echojobs": 79,
-    "ecr": 1431,
-    "freehire": 2719,
-    "jobhive": 17476,
+    "ecr": 1433,
+    "freehire": 2737,
+    "jobhive": 17477,
     "jobspy": 682,
     "lilguy Live Feed": 5196,
     "negarprh Canada 2027": 1,
@@ -119,7 +119,7 @@
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-14T05:28:17.209269+00:00",
+      "generated_at": "2026-11-14T06:30:41.453959+00:00",
       "count": 11,
       "expected": [
         "jobhive",
@@ -161,19 +161,19 @@
     "scheme": "career-family-v1"
   },
   "career_families": {
-    "Software Engineering & Technology": 27338,
-    "Other Professional": 6446,
-    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 5845,
-    "Healthcare, Clinical & Public Health": 4086,
-    "Sales & Customer Success": 3134,
-    "Finance, Accounting & Banking": 2645,
-    "Design, UX/UI & Creative": 2395,
-    "Operations & Project Management": 2032,
+    "Software Engineering & Technology": 27361,
+    "Other Professional": 6447,
+    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 5848,
+    "Healthcare, Clinical & Public Health": 4084,
+    "Sales & Customer Success": 3125,
+    "Finance, Accounting & Banking": 2646,
+    "Design, UX/UI & Creative": 2390,
+    "Operations & Project Management": 2033,
     "Supply Chain, Procurement & Logistics": 1639,
-    "Business Analysis, Consulting & Administration": 1410,
-    "Marketing, Communications & PR": 1314,
-    "Scientific Research, Lab & Biotech": 1277,
-    "Legal & Compliance": 554,
+    "Business Analysis, Consulting & Administration": 1413,
+    "Marketing, Communications & PR": 1312,
+    "Scientific Research, Lab & Biotech": 1278,
+    "Legal & Compliance": 555,
     "Human Resources & Recruiting": 527,
     "Education & Teaching": 163,
     "Government & Public Service": 137
