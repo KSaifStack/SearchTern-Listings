@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-15T10:38:07Z",
+ "built_at": "2026-11-15T16:09:05Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -18146,6 +18146,112 @@
    "fetched_at": "2026-10-25T08:51:26Z",
    "label": "Fa Exvu Saasfaprod1 (CX_1)",
    "titles": []
+  },
+  "fanatics collectibles": {
+   "fetched_at": "2026-11-15T16:09:04Z",
+   "label": "Fanatics Collectibles",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 156000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 133594,
+     "title": "DESIGNER III UX"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "PRODUCT MANAGER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 210000,
+     "title": "SENIOR MANAGER OF ENTERPRISE LOYALTY STRATEGY AND OPS"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "SENIOR PRODUCT DATA ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 225000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 250000,
+     "title": "SENIOR SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 224867,
+     "title": "SENIOR STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 174474,
+     "title": "SR. MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 174173,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "DATA ENGINEER 3"
+    },
+    {
+     "count": 1,
+     "median_salary": 235000,
+     "title": "DIRECTOR ENTERPRISE RESOURCE PLANNING ERP \u201cFINANCE SYSTEMS"
+    },
+    {
+     "count": 1,
+     "median_salary": 329729,
+     "title": "DIRECTOR OF DATA SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "DIRECTOR OF SUPPLY CHAIN - STRATEGIC PROJECTS PMO"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "DIRECTOR OF SUPPLY CHAIN ANALYTICS - CAPACITY PLANNING"
+    },
+    {
+     "count": 1,
+     "median_salary": 215000,
+     "title": "DIRECTOR OF SUPPLY CHAIN ANALYTICS - PARCEL ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "DIRECTOR PROJECT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 273915,
+     "title": "DIRECTOR, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "HCM TECH LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 190000,
+     "title": "INVENTORY SCIENCE PRODUCT MANAGER"
+    }
+   ]
   },
   "fda": {
    "fetched_at": "2026-11-07T23:41:46Z",
