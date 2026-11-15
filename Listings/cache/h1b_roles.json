@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-15T17:31:59Z",
+ "built_at": "2026-11-15T21:44:21Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13475,6 +13475,112 @@
      "count": 1,
      "median_salary": 155625,
      "title": "IT PRODUCT MANAGER"
+    }
+   ]
+  },
+  "corewell health": {
+   "fetched_at": "2026-11-15T21:44:21Z",
+   "label": "Corewell Health",
+   "titles": [
+    {
+     "count": 10,
+     "median_salary": 92238,
+     "title": "DATA ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 103563,
+     "title": "LEAD APPLICATION DEVELOPMENT ANALYST"
+    },
+    {
+     "count": 5,
+     "median_salary": 81557,
+     "title": "APPLICATION DEVELOPMENT ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 109085,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 105466,
+     "title": "SR. APPLICATION DEVELOPMENT ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 104135,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 59883,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 45900,
+     "title": "MEDICAL LAB TECHNOLOGIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 85384,
+     "title": "MEG CLINICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 64085,
+     "title": "RESEARCH FELLOW"
+    },
+    {
+     "count": 2,
+     "median_salary": 89721,
+     "title": "SR. SECURITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 76918,
+     "title": "TECHNICAL ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 64584,
+     "title": "AGILE PRODUCT OWNER, SR."
+    },
+    {
+     "count": 1,
+     "median_salary": 84094,
+     "title": "APPLICATION DEVELOPMENT ANALYST, SR."
+    },
+    {
+     "count": 1,
+     "median_salary": 66726,
+     "title": "APPLICATION DEVELOPMENT ASSOCIATE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 63440,
+     "title": "BIOSTATISTICIAN ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 80933,
+     "title": "BUSINESS SYSTEMS LEAD ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 150883,
+     "title": "LEAD SECURITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 48940,
+     "title": "MEDICAL LABORATORY TECHNOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 56000,
+     "title": "REGISTERED NURSE"
     }
    ]
   },
