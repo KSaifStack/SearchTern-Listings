@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-15T16:09:05Z",
+ "built_at": "2026-11-15T17:16:55Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -172,6 +172,92 @@
    "fetched_at": "2026-10-24T20:11:04Z",
    "label": "acluinternships",
    "titles": []
+  },
+  "actalent": {
+   "fetched_at": "2026-11-15T17:16:43Z",
+   "label": "Actalent",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 89940,
+     "title": "PROJECT LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 105576,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 79373,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 74200,
+     "title": "HARDWARE IN THE LOOP ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 108900,
+     "title": "EDRIVE PCB LAYOUT AND VALIDATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97032,
+     "title": "EMBEDDED ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 98000,
+     "title": "ENGINEER - DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 82400,
+     "title": "ENGINEER - MECHANICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 69880,
+     "title": "ENGINEER-MECHANICAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 88712,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90100,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 90920,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110402,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97032,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 99280,
+     "title": "SOFTWARE TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99560,
+     "title": "SR. PROJECT ENGINEER"
+    }
+   ]
   },
   "actalent services": {
    "fetched_at": "2026-11-12T17:25:23Z",
@@ -4813,6 +4899,17 @@
     }
    ]
   },
+  "aston carter": {
+   "fetched_at": "2026-11-15T17:16:44Z",
+   "label": "Aston Carter",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 102159,
+     "title": "REPORT DEVELOPER ANALYST"
+    }
+   ]
+  },
   "astranis": {
    "fetched_at": "2026-10-24T22:23:24Z",
    "label": "Astranis",
@@ -4923,6 +5020,11 @@
      "title": "ASSOCIATE DIRECTOR, COMMERCIAL LEARNING CVRM"
     }
    ]
+  },
+  "ati": {
+   "fetched_at": "2026-11-15T17:16:44Z",
+   "label": "ATI Inc.",
+   "titles": []
   },
   "atkinsr alis": {
    "fetched_at": "2026-11-06T00:34:04Z",
@@ -10282,6 +10384,42 @@
     }
    ]
   },
+  "center for strategic and international studies": {
+   "fetched_at": "2026-11-15T17:16:45Z",
+   "label": "Center for Strategic and International Studies, Inc.",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 85723,
+     "title": "ASSOCIATE FELLOW"
+    },
+    {
+     "count": 1,
+     "median_salary": 83200,
+     "title": "ASSOCIATE FELLOW-AFRICA PROGRAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 101640,
+     "title": "DEPUTY DIRECTOR FOR LEARNING &AMP; DEVELOPMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 75712,
+     "title": "FELLOW-RENEWING AMERICAN INNOVATION PROJECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 70200,
+     "title": "RESEARCH ASSOCIATE-ASIA MARITIME TRANSPARENCY INITIATIVE"
+    },
+    {
+     "count": 1,
+     "median_salary": 90854,
+     "title": "RESEARCH ASSOCIATE-ENERGY SECURITY &AMP; CLIMATE CHANGE"
+    }
+   ]
+  },
   "cerity partners": {
    "fetched_at": "2026-10-25T04:07:06Z",
    "label": "Cerity Partners",
@@ -15055,6 +15193,112 @@
    "label": "doctolib",
    "titles": []
   },
+  "docusign": {
+   "fetched_at": "2026-11-15T17:16:46Z",
+   "label": "Docusign",
+   "titles": [
+    {
+     "count": 62,
+     "median_salary": 155579,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 44,
+     "median_salary": 185723,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 40,
+     "median_salary": 184267,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 18,
+     "median_salary": 218650,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 206937,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 9,
+     "median_salary": 200304,
+     "title": "MANAGER, ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 213512,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 173638,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 209913,
+     "title": "LEAD SALESFORCE DEVELOPER"
+    },
+    {
+     "count": 4,
+     "median_salary": 207400,
+     "title": "LEAD TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 180581,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 227885,
+     "title": "SR. MANAGER, ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 159400,
+     "title": "SR. SDET"
+    },
+    {
+     "count": 4,
+     "median_salary": 171900,
+     "title": "STRATEGY AND OPERATIONS LEAD"
+    },
+    {
+     "count": 3,
+     "median_salary": 216600,
+     "title": "LEAD DATA ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 203500,
+     "title": "LEAD PRODUCT MANAGER, ONBOARDING &AMP; ADOPTION PLG"
+    },
+    {
+     "count": 3,
+     "median_salary": 195850,
+     "title": "SR. PRODUCT DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 225000,
+     "title": "APPLIED SCIENTIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 203150,
+     "title": "BACKEND SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 274456,
+     "title": "DIRECTOR, APPLICATION PRODUCT MANAGEMENT"
+    }
+   ]
+  },
   "domino s": {
    "fetched_at": "2026-11-12T17:25:38Z",
    "label": "Domino's",
@@ -15732,6 +15976,17 @@
    "fetched_at": "2026-10-25T05:37:59Z",
    "label": "Ebxs",
    "titles": []
+  },
+  "eclipse automation": {
+   "fetched_at": "2026-11-15T17:16:46Z",
+   "label": "Eclipse Automation",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "PROJECT MANAGER"
+    }
+   ]
   },
   "ecolab": {
    "fetched_at": "2026-11-05T10:41:25Z",
@@ -20728,6 +20983,83 @@
    "label": "generalmatter",
    "titles": []
   },
+  "genesis global": {
+   "fetched_at": "2026-11-15T17:16:47Z",
+   "label": "Genesis Global Group",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 105860,
+     "title": "CLOUD ADMINISTRATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 95493,
+     "title": "SOFTWARE ENGINEER II"
+    }
+   ]
+  },
+  "genmab": {
+   "fetched_at": "2026-11-15T17:16:47Z",
+   "label": "Genmab",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 204699,
+     "title": "PRINCIPAL TECH LEAD, SAP APP DEVELOPMENT, ENABLING FUNCTIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 261500,
+     "title": "SENIOR DIRECTOR, DATA PRODUCTS, RESEARCH &AMP; ENABLING FUNCTION"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "ASSOCIATE CORPORATE COUNSEL"
+    },
+    {
+     "count": 1,
+     "median_salary": 158974,
+     "title": "ASSOCIATE DIRECTOR - US MARKET SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 194742,
+     "title": "ASSOCIATE DIRECTOR, DIGITAL SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 186022,
+     "title": "ASSOCIATE DIRECTOR, GLOBAL DRUG SAFETY AND PHARMACOVIGILANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 232920,
+     "title": "DIRECTOR OF COMMERCIAL DATA SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 232920,
+     "title": "DIRECTOR, COMMERCIAL DATA SCIENCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 189660,
+     "title": "SENIOR COMMERCIAL DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175781,
+     "title": "SENIOR MANAGER, BIOSTATISTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 152397,
+     "title": "SENIOR MANAGER, REAL WORLD DATA &AMP; EPIDEMIOLOGY ANALYTICS"
+    }
+   ]
+  },
   "geotab": {
    "fetched_at": "2026-10-29T21:13:58Z",
    "label": "Geotab",
@@ -22245,6 +22577,17 @@
      "count": 1,
      "median_salary": 140000,
      "title": "SALESFORCE LEAD DEVELOPER"
+    }
+   ]
+  },
+  "h2m architects engineers": {
+   "fetched_at": "2026-11-15T17:16:48Z",
+   "label": "H2M architects + engineers",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 105040,
+     "title": "SR. PROJECT DESIGNER 2"
     }
    ]
   },
@@ -26986,6 +27329,27 @@
    "label": "[KLA](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325)",
    "titles": []
   },
+  "klein tools": {
+   "fetched_at": "2026-11-15T17:16:48Z",
+   "label": "Klein Tools",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 95091,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 64948,
+     "title": "ECOMMERCE SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 79540,
+     "title": "MAINTENANCE TECHNICIAN II"
+    }
+   ]
+  },
   "kleinfelder": {
    "fetched_at": "2026-11-03T22:44:21Z",
    "label": "kleinfelder",
@@ -27729,6 +28093,11 @@
   "lawrence livermore national laboratory llnl": {
    "fetched_at": "2026-10-25T14:02:33Z",
    "label": "Lawrence Livermore National Laboratory (LLNL)",
+   "titles": []
+  },
+  "lcmc health": {
+   "fetched_at": "2026-11-15T17:16:49Z",
+   "label": "LCMC Health",
    "titles": []
   },
   "ledcor": {
@@ -33277,6 +33646,112 @@
    "label": "nex",
    "titles": []
   },
+  "niagara bottling": {
+   "fetched_at": "2026-11-15T17:16:50Z",
+   "label": "Niagara Bottling",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 134000,
+     "title": "IT SYSTEMS FUNCTIONAL II"
+    },
+    {
+     "count": 3,
+     "median_salary": 100000,
+     "title": "MANUFACTURING TECHNOLOGY ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 134480,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 195000,
+     "title": "SR. MANAGER OF SUPPLY CHAIN SOLUTIONS, CI"
+    },
+    {
+     "count": 2,
+     "median_salary": 162145,
+     "title": "ASSISTANT PLANT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 238050,
+     "title": "DIRECTOR OF PROCUREMENT"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "IT ADMINISTRATOR &AMP; AUTOMATION II"
+    },
+    {
+     "count": 2,
+     "median_salary": 170000,
+     "title": "IT ARCHITECT EPM"
+    },
+    {
+     "count": 2,
+     "median_salary": 177556,
+     "title": "IT MANAGER - APPLICATIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 100000,
+     "title": "IT SYSTEMS FUNCTIONAL I"
+    },
+    {
+     "count": 2,
+     "median_salary": 129025,
+     "title": "MANUFACTURING TECHNOLOGY PROJECT SERVICES MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 129220,
+     "title": "PLANT ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 89750,
+     "title": "PROCUREMENT ANALYST II"
+    },
+    {
+     "count": 2,
+     "median_salary": 122033,
+     "title": "SR. ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 131424,
+     "title": "SR. ENGINEER - PACKAGING DESIGN"
+    },
+    {
+     "count": 2,
+     "median_salary": 122720,
+     "title": "SR. ENGINEER - PRODUCT ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 147128,
+     "title": "SR. IT SYSTEMS FUNCTIONAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 123000,
+     "title": "SR. PROCUREMENT ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 113355,
+     "title": "SR. SUPPLY CHAIN SOLUTIONS ANALYST - AI"
+    },
+    {
+     "count": 2,
+     "median_salary": 147657,
+     "title": "STAFF ENGINEER"
+    }
+   ]
+  },
   "nike": {
    "fetched_at": "2026-11-13T01:41:29Z",
    "label": "Nike",
@@ -34099,6 +34574,112 @@
    "fetched_at": "2026-10-25T18:39:16Z",
    "label": "nrdc",
    "titles": []
+  },
+  "ntt data": {
+   "fetched_at": "2026-11-15T17:16:50Z",
+   "label": "NTT DATA",
+   "titles": [
+    {
+     "count": 42,
+     "median_salary": 116089,
+     "title": "SOFTWARE DEVELOPMENT SENIOR SPECIALIST"
+    },
+    {
+     "count": 40,
+     "median_salary": 110198,
+     "title": "SOFTWARE DEVELOPMENT SPECIALIST"
+    },
+    {
+     "count": 31,
+     "median_salary": 126131,
+     "title": "SOFTWARE DEVELOPMENT ADVISOR"
+    },
+    {
+     "count": 27,
+     "median_salary": 129022,
+     "title": "SOFTWARE DEVELOPMENT SPECIALIST ADVISOR"
+    },
+    {
+     "count": 12,
+     "median_salary": 108357,
+     "title": "DIGITAL ENGINEERING LEAD ENGINEER"
+    },
+    {
+     "count": 12,
+     "median_salary": 89273,
+     "title": "SOFTWARE DEVELOPMENT SENIOR ANALYST"
+    },
+    {
+     "count": 9,
+     "median_salary": 114680,
+     "title": "APPLICATION MANAGEMENT SENIOR SPECIALIST"
+    },
+    {
+     "count": 9,
+     "median_salary": 140109,
+     "title": "DIGITAL SOLUTION CNSLT. LEAD CONSULTANT"
+    },
+    {
+     "count": 7,
+     "median_salary": 115324,
+     "title": "BUSINESS INTELLIGENCE SENIOR SPECIALIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 103917,
+     "title": "BUSINESS INTELLIGENCE SPECIALIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 86923,
+     "title": "DIGITAL ENGINEERING SR. ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 138176,
+     "title": "ENTERPRISE RESOURCE PLANNING ADVISOR"
+    },
+    {
+     "count": 7,
+     "median_salary": 109898,
+     "title": "ERP SENIOR SPECIALIST"
+    },
+    {
+     "count": 7,
+     "median_salary": 133515,
+     "title": "SOFTWARE DEVELOPMENT ASSOCIATE DIRECTOR"
+    },
+    {
+     "count": 6,
+     "median_salary": 98446,
+     "title": "APPLICATION MANAGEMENT SENIOR ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 114204,
+     "title": "SYSTEMS INTEGRATION SENIOR SPECIALIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 115796,
+     "title": "BUSINESS SYS. ANALYSIS SENIOR SPECIALIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 152000,
+     "title": "DATA MIGRATION LEAD"
+    },
+    {
+     "count": 5,
+     "median_salary": 102669,
+     "title": "SOFTWARE QUALITY ASSURANCE SPECIALIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 126131,
+     "title": "SYSTEMS INTEGRATION ADVISOR"
+    }
+   ]
   },
   "nvidia": {
    "fetched_at": "2026-10-25T18:39:17Z",
@@ -36552,6 +37133,57 @@
    "label": "PwC",
    "titles": []
   },
+  "pwc us": {
+   "fetched_at": "2026-11-15T17:16:51Z",
+   "label": "PwC US",
+   "titles": [
+    {
+     "count": 133,
+     "median_salary": 171000,
+     "title": "MANAGER"
+    },
+    {
+     "count": 97,
+     "median_salary": 131000,
+     "title": "SENIOR ASSOCIATE"
+    },
+    {
+     "count": 58,
+     "median_salary": 195500,
+     "title": "SENIOR MANAGER"
+    },
+    {
+     "count": 25,
+     "median_salary": 86000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 14,
+     "median_salary": 264500,
+     "title": "DIRECTOR"
+    },
+    {
+     "count": 13,
+     "median_salary": 400000,
+     "title": "PRINCIPAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 400000,
+     "title": "ENGAGEMENT LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 400000,
+     "title": "MANAGING DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "PARTNER"
+    }
+   ]
+  },
   "q2": {
    "fetched_at": "2026-10-25T18:39:23Z",
    "label": "Q2",
@@ -36920,6 +37552,17 @@
      "count": 1,
      "median_salary": 178006,
      "title": "PRINCIPAL SYSTEMS ENGINEER"
+    }
+   ]
+  },
+  "rdo equipment": {
+   "fetched_at": "2026-11-15T17:16:52Z",
+   "label": "RDO Equipment",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 90000,
+     "title": "ACCOUNT MANAGER CE TECHNOLOGY"
     }
    ]
   },
@@ -38143,6 +38786,77 @@
      "count": 1,
      "median_salary": 90000,
      "title": "HRIS ANALYST"
+    }
+   ]
+  },
+  "republic finance": {
+   "fetched_at": "2026-11-15T17:16:52Z",
+   "label": "Republic Finance, LLC",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "SDET MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 142500,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "BI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "CREDIT RISK ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 147860,
+     "title": "MANAGER OF DATA SCIENCE &AMP; ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 134971,
+     "title": "MULESOFT DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 97562,
+     "title": "SENIOR BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 99404,
+     "title": "SENIOR BUSINESS INTELLIGENCE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 101803,
+     "title": "SENIOR DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 92820,
+     "title": "SENIOR PORTFOLIO RISK ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 85776,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 138000,
+     "title": "TECHNICAL PRODUCT MANAGER II"
     }
    ]
   },
@@ -40570,6 +41284,11 @@
     }
    ]
   },
+  "sap it business systeme": {
+   "fetched_at": "2026-11-15T17:16:53Z",
+   "label": "SAP IT Business Systeme",
+   "titles": []
+  },
   "sargent lundy": {
    "fetched_at": "2026-11-12T18:25:11Z",
    "label": "Sargent & Lundy",
@@ -41928,6 +42647,27 @@
      "count": 1,
      "median_salary": 137758,
      "title": "MANAGER, IT BUSINESS APPLICATIONS"
+    }
+   ]
+  },
+  "siemens healthineers": {
+   "fetched_at": "2026-11-15T17:16:54Z",
+   "label": "Siemens Healthineers",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "PRINCIPAL QUALITY PROFESSIONAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 137156,
+     "title": "SENIOR QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 107909,
+     "title": "SOFTWARE DEVELOPER"
     }
    ]
   },
@@ -44615,6 +45355,112 @@
    "label": "[TD Bank](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/US-Graduate-Leadership-Program--Commercial-Banking_R_1508612)",
    "titles": []
   },
+  "teksystems": {
+   "fetched_at": "2026-11-15T17:16:54Z",
+   "label": "TEKsystems",
+   "titles": [
+    {
+     "count": 16,
+     "median_salary": 157116,
+     "title": "PRACTICE ARCHITECT"
+    },
+    {
+     "count": 16,
+     "median_salary": 128346,
+     "title": "SENIOR DATA ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 165000,
+     "title": "PRACTICE ARCHITECT II"
+    },
+    {
+     "count": 8,
+     "median_salary": 116210,
+     "title": "DEVELOPER"
+    },
+    {
+     "count": 8,
+     "median_salary": 97570,
+     "title": "DEVELOPER-RISK COMP"
+    },
+    {
+     "count": 6,
+     "median_salary": 128313,
+     "title": "LEAD DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 108100,
+     "title": "ANGULAR FULL STACK DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 124000,
+     "title": "BUSINESS INTELLIGENCE ANALYST II"
+    },
+    {
+     "count": 3,
+     "median_salary": 60000,
+     "title": "FIELD SERVICES TECHNICIAN"
+    },
+    {
+     "count": 3,
+     "median_salary": 141001,
+     "title": "LEAD CLOUD ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 155358,
+     "title": "LEAD DEVELOPER"
+    },
+    {
+     "count": 3,
+     "median_salary": 86000,
+     "title": "SECURITY ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "BATTERY COMPLIANCE SAFETY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "COMPUTER SYSTEMS ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 115140,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 182320,
+     "title": "LEAD ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 124000,
+     "title": "LEAD BI ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "PRODUCT SAFETY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "ANALYTICAL CHEMIST"
+    }
+   ]
+  },
   "teledyne": {
    "fetched_at": "2026-10-26T17:51:06Z",
    "label": "Teledyne",
@@ -46089,6 +46935,112 @@
      "count": 1,
      "median_salary": 146089,
      "title": "LEAD SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "thornton tomasetti": {
+   "fetched_at": "2026-11-15T17:16:55Z",
+   "label": "Thornton Tomasetti",
+   "titles": [
+    {
+     "count": 12,
+     "median_salary": 90500,
+     "title": "SENIOR ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 102000,
+     "title": "PROJECT ENGINEER - STRUCTURE"
+    },
+    {
+     "count": 5,
+     "median_salary": 112000,
+     "title": "SENIOR PROJECT ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 83750,
+     "title": "ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 103000,
+     "title": "PROJECT DIRECTOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 95000,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 85000,
+     "title": "SENIOR DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125000,
+     "title": "ASSOCIATE, RENEWAL"
+    },
+    {
+     "count": 2,
+     "median_salary": 76669,
+     "title": "DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 79400,
+     "title": "FINANCIAL SYSTEMS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 94500,
+     "title": "SENIOR ENGINEER - STRUCTURE"
+    },
+    {
+     "count": 1,
+     "median_salary": 112000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 121500,
+     "title": "ASSOCIATE \u2013 RENEWAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 80500,
+     "title": "COST ESTIMATOR - FORENSICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "ENGINEER - RENEWAL"
+    },
+    {
+     "count": 1,
+     "median_salary": 102000,
+     "title": "PROJECT DIRECTOR, FORENSICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "PROJECT ENGINEER, STRUCTURE"
+    },
+    {
+     "count": 1,
+     "median_salary": 78400,
+     "title": "SENIOR COMPUTATIONAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 107500,
+     "title": "SENIOR ENGINEER - FACADE"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "SENIOR ENGINEER - FORENSICS"
     }
    ]
   },
