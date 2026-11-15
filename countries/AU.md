@@ -1,6 +1,6 @@
 # 🇦🇺 Australia — SearchTern Listings
 
-**71 listings** as of November 15, 2026
+**69 listings** as of November 15, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -161,30 +161,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://pwc.wd3.myworkdayjobs.com/job/Sydney/FY27---Sydney---Coop-Unpaid---Advisory---Digital---Cybersecurity---Privacy_773953WD"><strong>PWC</strong></a></td>
-<td title="FY27 - Sydney - Coop Unpaid - Advisory - Digital - Cybersecurity &amp; Privacy" style="word-break:break-word; overflow-wrap:anywhere;">FY27 - Sydney - Coop Unpaid - Advisory - Digi...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://pwc.wd3.myworkdayjobs.com/job/Sydney/FY27---Sydney---Coop-Unpaid---Advisory---Digital---Cybersecurity---Privacy_773953WD" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tencent.wd1.myworkdayjobs.com/job/Australia-New-South-Wales-Sydney/Unreal-Engine-Programmer-Intern_R108327-1"><strong>Tencent</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Unreal Engine Programmer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Australia-New South Wales-Sydney</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tencent.wd1.myworkdayjobs.com/job/Australia-New-South-Wales-Sydney/Unreal-Engine-Programmer-Intern_R108327-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tencent.wd1.myworkdayjobs.com/job/Australia-New-South-Wales-Sydney/Controllable-Video-Generation-Research-Intern_R108305-1"><strong>Tencent</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Controllable Video Generation Research Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Australia-New South Wales-Sydney</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tencent.wd1.myworkdayjobs.com/job/Australia-New-South-Wales-Sydney/Controllable-Video-Generation-Research-Intern_R108305-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4703289006"><strong>STR</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Reverse Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia +1</td>
@@ -322,4 +298,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261115T093353Z-227580e385a9 -->
+<!-- searchtern:generation 20261115T101305Z-a43fdb46ecb3 -->

@@ -1,8 +1,3 @@
-{"ts": 1793894598.1005852, "source": "jobhive", "discovered": 0, "valid": 13754, "new": 268, "seconds": 0.0, "status": "ok"}
-{"ts": 1793894598.1005852, "source": "md", "discovered": 0, "valid": 0, "new": 140, "seconds": 0.0, "status": "ok"}
-{"ts": 1793894598.1005852, "source": "ats", "discovered": 0, "valid": 0, "new": 50, "seconds": 0.0, "status": "ok"}
-{"ts": 1793894598.1005852, "source": "ecr", "discovered": 0, "valid": 0, "new": 5, "seconds": 0.0, "status": "ok"}
-{"ts": 1793894598.1005852, "source": "freehire", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
 {"ts": 1793894598.1005852, "source": "md:lilguy Live Feed", "discovered": 8398, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793894598.1005852, "source": "md:SimplifyJobs Off-Season 2027", "discovered": 5189, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793894598.1005852, "source": "md:GodlyDonuts keryx Internships", "discovered": 4835, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4993,8 @@
 {"ts": 1794735200.5655186, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794735200.5655186, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794735200.5655186, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.351, "status": "ok"}
+{"ts": 1794737546.86282, "source": "md", "discovered": 0, "valid": 0, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1794737546.86282, "source": "ats", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1794737546.86282, "source": "jobhive-closure", "discovered": 82103, "valid": 82034, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794737546.86282, "source": "jobhive", "discovered": 0, "valid": 14165, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794737546.86282, "source": "ats-probe", "discovered": 102184, "valid": 8913, "new": 0, "seconds": 705.06, "status": "ok"}
