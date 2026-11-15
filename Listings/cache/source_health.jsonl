@@ -1,6 +1,3 @@
-{"ts": 1793839290.7279162, "source": "eightfold:Arcadis", "discovered": 88, "valid": 88, "new": 0, "seconds": 13.193, "status": "ok"}
-{"ts": 1793839290.7279162, "source": "eightfold:Starbucks", "discovered": 32, "valid": 32, "new": 0, "seconds": 5.889, "status": "ok"}
-{"ts": 1793839290.7279162, "source": "icims:Kimley-Horn", "discovered": 25, "valid": 25, "new": 0, "seconds": 14.525, "status": "truncated"}
 {"ts": 1793839290.7279162, "source": "icims:Peraton", "discovered": 25, "valid": 25, "new": 0, "seconds": 15.153, "status": "truncated"}
 {"ts": 1793839290.7279162, "source": "icims:Novelis", "discovered": 25, "valid": 25, "new": 0, "seconds": 15.1, "status": "truncated"}
 {"ts": 1793839290.7279162, "source": "icims:General Dynamics Mission Systems", "discovered": 20, "valid": 20, "new": 0, "seconds": 12.067, "status": "ok"}
@@ -4998,3 +4995,6 @@
 {"ts": 1794708077.0153134, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794708077.0153134, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794708077.0153134, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.335, "status": "ok"}
+{"ts": 1794709001.5438533, "source": "jobhive-closure", "discovered": 69779, "valid": 69771, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794709001.5438533, "source": "jobhive", "discovered": 0, "valid": 14165, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794709001.5438533, "source": "ats-probe", "discovered": 614, "valid": 159, "new": 0, "seconds": 117.61, "status": "ok"}

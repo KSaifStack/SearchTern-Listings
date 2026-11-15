@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-14T21:09:25Z",
+ "built_at": "2026-11-15T02:16:17Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13370,6 +13370,17 @@
    "label": "crb",
    "titles": []
   },
+  "crestwood behavioral health": {
+   "fetched_at": "2026-11-15T02:16:16Z",
+   "label": "Crestwood Behavioral Health",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 340000,
+     "title": "HOSPITALIST"
+    }
+   ]
+  },
   "crestwoodcareers": {
    "fetched_at": "2026-11-03T10:23:43Z",
    "label": "crestwoodcareers",
@@ -22011,6 +22022,17 @@
      "count": 1,
      "median_salary": 68016,
      "title": "PLANNER II"
+    }
+   ]
+  },
+  "h w kaufman": {
+   "fetched_at": "2026-11-15T02:16:16Z",
+   "label": "H.W. Kaufman Group",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SALESFORCE LEAD DEVELOPER"
     }
    ]
   },
@@ -38154,6 +38176,11 @@
      "title": "DATA ENGINEER III"
     }
    ]
+  },
+  "riotgames": {
+   "fetched_at": "2026-11-15T02:16:17Z",
+   "label": "riotgames",
+   "titles": []
   },
   "rivian": {
    "fetched_at": "2026-10-25T18:39:26Z",
