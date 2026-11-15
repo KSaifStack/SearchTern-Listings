@@ -1,9 +1,3 @@
-{"ts": 1793954992.499733, "source": "md:SuryaHarikrishnan Hardware", "discovered": 968, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793954992.499733, "source": "md:speedyapply SWE New Grad USA", "discovered": 852, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793954992.499733, "source": "md:speedyapply SWE 2027", "discovered": 831, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793954992.499733, "source": "md:speedyapply AI 2027", "discovered": 788, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793954992.499733, "source": "md:speedyapply SWE New Grad Intl", "discovered": 782, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1793954992.499733, "source": "md:vanshb03 Off-Season", "discovered": 767, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793954992.499733, "source": "md:negarprh Canada 2027", "discovered": 734, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793954992.499733, "source": "jobspy (linkedin)", "discovered": 680, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1793954992.499733, "source": "md:zapplyjobs Internships 2027", "discovered": 600, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4992,9 @@
 {"ts": 1794783327.2934, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794783327.2934, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794783327.2934, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.301, "status": "ok"}
+{"ts": 1794785600.709441, "source": "md", "discovered": 0, "valid": 0, "new": 10, "seconds": 0.0, "status": "ok"}
+{"ts": 1794785600.709441, "source": "ats", "discovered": 0, "valid": 0, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1794785600.709441, "source": "jobhive", "discovered": 0, "valid": 17035, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1794785600.709441, "source": "ecr", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1794785600.709441, "source": "jobhive-closure", "discovered": 92911, "valid": 92873, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1794785600.709441, "source": "ats-probe", "discovered": 110775, "valid": 9745, "new": 0, "seconds": 1030.259, "status": "ok"}
