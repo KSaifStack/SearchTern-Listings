@@ -1,7 +1,7 @@
 {
  "additions": [
   {
-   "added": 662,
+   "added": 515,
    "samples": [],
    "samples_truncated": true,
    "source": "light"
@@ -533,71 +533,71 @@
   }
  ],
  "base": {
-  "identities": 54491,
+  "identities": 52654,
   "path": "pages/searchtern.json",
-  "rows": 54491
+  "rows": 52654
  },
  "dropped_at_write": {
   "by_reason": {
-   "blocked_company": 1916,
-   "duplicate_id": 906,
-   "duplicate_url": 251,
-   "inactive": 8539,
-   "no_apply_link": 10181,
-   "non_english": 1738
+   "blocked_company": 1983,
+   "duplicate_id": 498,
+   "duplicate_url": 297,
+   "inactive": 9048,
+   "no_apply_link": 10182,
+   "non_english": 2190
   },
   "by_source": {
-   "heavy": 429,
-   "jobspy": 44,
-   "light": 22975,
-   "priority": 83
+   "heavy": 1482,
+   "jobspy": 37,
+   "light": 22594,
+   "priority": 85
   },
-  "count": 23531,
+  "count": 24198,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
   "by_source": {
    "echo": 79,
-   "heavy": 5625,
-   "jobspy": 680,
-   "light": 17544,
-   "priority": 268,
-   "skill": 11
+   "heavy": 3231,
+   "jobspy": 690,
+   "light": 18050,
+   "priority": 266,
+   "skill": 10
   },
-  "count": 24207
+  "count": 22326
  },
  "expired": [
   {
    "age_hours": -0.03,
-   "rows": 797,
+   "rows": 688,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.01,
-   "rows": 36,
+   "age_hours": -0.02,
+   "rows": 34,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
    "age_hours": -0.01,
-   "rows": 5460,
+   "rows": 5451,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
    "age_hours": -0.01,
-   "rows": 46680,
+   "rows": 46667,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
   },
   {
    "age_hours": -0.01,
-   "rows": 5464,
+   "rows": 5470,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
@@ -605,10 +605,10 @@
  ],
  "explained": {
   "additions": {
-   "attributed": 662,
+   "attributed": 515,
    "reason": "the source that first supplied the identity key",
-   "total": 536,
-   "unattributed": -126
+   "total": 388,
+   "unattributed": -127
   },
   "removals": {
    "all": [],
@@ -618,7 +618,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-14T20:44:43.235239+00:00",
+ "generated_at": "2026-11-15T01:57:58.220621+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -646,51 +646,51 @@
  "source_contributions": [
   {
    "added": 0,
-   "age_hours": 2.06,
+   "age_hours": 1.59,
    "class": "direct_ats",
-   "duplicates": 5625,
-   "rows": 12598,
-   "rows_after_scope": 6054,
-   "rows_publishable": 5625,
+   "duplicates": 3231,
+   "rows": 5750,
+   "rows_after_scope": 4713,
+   "rows_publishable": 3231,
    "source": "heavy",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 2.06,
+   "age_hours": 1.59,
    "class": "priority_ats",
-   "duplicates": 268,
+   "duplicates": 266,
    "rows": 358,
    "rows_after_scope": 351,
-   "rows_publishable": 268,
+   "rows_publishable": 266,
    "source": "priority",
    "stale": false
   },
   {
-   "added": 662,
-   "age_hours": 2.05,
+   "added": 515,
+   "age_hours": 1.58,
    "class": "markdown",
-   "duplicates": 17544,
-   "rows": 42305,
-   "rows_after_scope": 41181,
-   "rows_publishable": 18206,
+   "duplicates": 18050,
+   "rows": 42283,
+   "rows_after_scope": 41159,
+   "rows_publishable": 18565,
    "source": "light",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 1.91,
+   "age_hours": 1.44,
    "class": "aggregators",
-   "duplicates": 680,
-   "rows": 725,
-   "rows_after_scope": 724,
-   "rows_publishable": 680,
+   "duplicates": 690,
+   "rows": 728,
+   "rows_after_scope": 727,
+   "rows_publishable": 690,
    "source": "jobspy",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 2.04,
+   "age_hours": 1.57,
    "class": "specialty",
    "duplicates": 79,
    "rows": 92,
@@ -701,26 +701,26 @@
   },
   {
    "added": 0,
-   "age_hours": 2.04,
+   "age_hours": 1.57,
    "class": "specialty",
-   "duplicates": 11,
-   "rows": 11,
-   "rows_after_scope": 11,
-   "rows_publishable": 11,
+   "duplicates": 10,
+   "rows": 10,
+   "rows_after_scope": 10,
+   "rows_publishable": 10,
    "source": "skill",
    "stale": false
   }
  ],
  "summary": {
-  "added": 536,
+  "added": 388,
   "ats_conflicts": 58,
-  "dropped_at_write": 23531,
-  "duplicates": 24207,
+  "dropped_at_write": 24198,
+  "duplicates": 22326,
   "expired_snapshots": 5,
-  "production_rows": 54491,
+  "production_rows": 52654,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 55027,
+  "shadow_rows": 53042,
   "unexplained_removed": 0
  }
 }
