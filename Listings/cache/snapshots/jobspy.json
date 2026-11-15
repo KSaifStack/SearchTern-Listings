@@ -1,10 +1,10 @@
 {
  "class": "aggregators",
  "etag": "",
- "fetched_at": "2026-11-15T21:43:53.749229+00:00",
+ "fetched_at": "2026-11-15T22:44:01.319513+00:00",
  "provenance": "fetch",
  "rejections": 0,
- "rows": 710,
+ "rows": 707,
  "source": "jobspy",
  "status": "ok",
  "ttl_hours": 72
