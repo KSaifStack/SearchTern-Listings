@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T22:34:18.766741+00:00",
-  "total": 50113,
+  "generated_at": "2026-11-15T22:51:14.658265+00:00",
+  "total": 50103,
   "per_source": {
     "jobhive": 9570,
     "ats": 5871,
     "SimplifyJobs Off-Season 2027": 3532,
-    "freehire": 3275,
+    "freehire": 3264,
     "vanshb03 Summer 2027": 2798,
     "lilguy Live Feed": 2079,
     "aprameyak Summer 2027": 2072,
@@ -13,7 +13,7 @@
     "vanshb03 New Grad 2027": 1928,
     "SuryaHarikrishnan Other 2027": 1774,
     "GodlyDonuts keryx Internships": 1378,
-    "ecr": 1263,
+    "ecr": 1264,
     "aprameyak New Grad 2027": 1143,
     "vanshb03 Off-Season": 849,
     "speedyapply SWE New Grad USA": 837,
@@ -50,9 +50,9 @@
     "breadth": 6
   },
   "new": 13,
-  "closed": 57,
+  "closed": 50,
   "dead_links": 171,
-  "stale_checked": 42,
+  "stale_checked": 32,
   "stale_dead": 31,
   "linkless_rows": 7931,
   "linkless_by_source": {
@@ -77,174 +77,13 @@
     "priority": true,
     "md": true
   },
-  "markdown_source_stats": [
-    {
-      "name": "speedyapply AI New Grad USA",
-      "rows": 568
-    },
-    {
-      "name": "zapplyjobs New Grad Data Science 2027",
-      "rows": 353
-    },
-    {
-      "name": "zapplyjobs Canada 2027",
-      "rows": 124
-    },
-    {
-      "name": "speedyapply SWE New Grad USA",
-      "rows": 924
-    },
-    {
-      "name": "zapplyjobs New Grad 2027",
-      "rows": 596
-    },
-    {
-      "name": "speedyapply AI 2027",
-      "rows": 840
-    },
-    {
-      "name": "speedyapply SWE 2027",
-      "rows": 853
-    },
-    {
-      "name": "zapplyjobs Internships 2027",
-      "rows": 600
-    },
-    {
-      "name": "SimplifyJobs New Grad",
-      "rows": 2572
-    },
-    {
-      "name": "sndsh404 Summer 2027",
-      "rows": 124
-    },
-    {
-      "name": "vanshb03 Summer 2027",
-      "rows": 2938
-    },
-    {
-      "name": "LorenzoLaCorte EU Internships 2026",
-      "rows": 168
-    },
-    {
-      "name": "zapplyjobs New Grad SWE 2027",
-      "rows": 486
-    },
-    {
-      "name": "SuryaHarikrishnan Hardware",
-      "rows": 898
-    },
-    {
-      "name": "vanshb03 Off-Season",
-      "rows": 902
-    },
-    {
-      "name": "summer2026internships",
-      "rows": 100
-    },
-    {
-      "name": "SuryaHarikrishnan Product",
-      "rows": 277
-    },
-    {
-      "name": "SuryaHarikrishnan Quant",
-      "rows": 193
-    },
-    {
-      "name": "SuryaHarikrishnan DS/AI",
-      "rows": 1787
-    },
-    {
-      "name": "SuryaHarikrishnan Other 2027",
-      "rows": 1841
-    },
-    {
-      "name": "negarprh Canada 2027",
-      "rows": 771
-    },
-    {
-      "name": "vanshb03 Summer 2026",
-      "rows": 2938
-    },
-    {
-      "name": "SuryaHarikrishnan SWE Track",
-      "rows": 1443
-    },
-    {
-      "name": "speedyapply SWE 2027 Intern Intl",
-      "rows": 637
-    },
-    {
-      "name": "speedyapply SWE New Grad Intl",
-      "rows": 794
-    },
-    {
-      "name": "speedyapply AI Intern Intl",
-      "rows": 605
-    },
-    {
-      "name": "speedyapply AI New Grad Intl",
-      "rows": 510
-    },
-    {
-      "name": "SimplifyJobs Summer 2027",
-      "rows": 1451
-    },
-    {
-      "name": "aprameyak Summer 2027",
-      "rows": 4331
-    },
-    {
-      "name": "aprameyak Off-Cycle/Co-op",
-      "rows": 1163
-    },
-    {
-      "name": "aprameyak New Grad 2027",
-      "rows": 1501
-    },
-    {
-      "name": "zshah101 Automated List",
-      "rows": 566
-    },
-    {
-      "name": "SimplifyJobs Off-Season 2027",
-      "rows": 5184
-    },
-    {
-      "name": "ApplyGuy New Grad",
-      "rows": 288
-    },
-    {
-      "name": "zshah101 Summer 2027 US",
-      "rows": 1271
-    },
-    {
-      "name": "GodlyDonuts keryx New Grad",
-      "rows": 1228
-    },
-    {
-      "name": "vanshb03 New Grad 2027",
-      "rows": 2064
-    },
-    {
-      "name": "cvrve New Grad",
-      "rows": 2064
-    },
-    {
-      "name": "GodlyDonuts keryx Internships",
-      "rows": 5009
-    },
-    {
-      "name": "lilguy Live Feed",
-      "rows": 8398
-    }
-  ],
+  "markdown_source_stats": [],
   "published": {
-    "listings": 28044,
-    "searchtern": 62788
+    "listings": 28047,
+    "searchtern": 62796
   },
   "published_manifest": "pages/feed-manifest.json",
   "total_stage": "pre_write_candidate_rows",
-  "generation": "20261115T224530Z-bf2606624e52",
+  "generation": "20261115T225639Z-727a71f0d82d",
   "publication_status": "published"
 }
