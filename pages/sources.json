@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T17:13:39.043505+00:00",
+  "generated_at": "2026-11-15T17:28:02.051022+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 9849
+      "count": 9836
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -35,14 +35,14 @@
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 2306
+      "count": 2335
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 2306
+      "count": 2335
     },
     {
       "name": "lilguy Live Feed",
@@ -84,7 +84,7 @@
       "url": "https://raw.githubusercontent.com/GodlyDonuts/keryx/main/internships/summer-2027.md",
       "type": "internship",
       "season": "2027",
-      "count": 1569
+      "count": 1568
     },
     {
       "name": "Early Career Radar",
@@ -105,14 +105,14 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/software-engineering.md",
       "type": "internship",
       "season": "2027",
-      "count": 891
+      "count": 889
     },
     {
       "name": "SuryaHarikrishnan DS/AI",
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/data-science-ai-machine-learning.md",
       "type": "internship",
       "season": "2027",
-      "count": 880
+      "count": 879
     },
     {
       "name": "vanshb03 Off-Season",
@@ -231,7 +231,7 @@
       "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
       "type": "internship",
       "season": "2027",
-      "count": 339
+      "count": 338
     },
     {
       "name": "zapplyjobs New Grad Data Science 2027",
@@ -252,7 +252,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/product-management.md",
       "type": "internship",
       "season": "2027",
-      "count": 207
+      "count": 206
     },
     {
       "name": "GodlyDonuts keryx New Grad",
@@ -308,7 +308,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/quantitative-finance.md",
       "type": "internship",
       "season": "2027",
-      "count": 86
+      "count": 85
     },
     {
       "name": "EchoJobs",
