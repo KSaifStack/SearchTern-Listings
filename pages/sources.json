@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:59:00.454872+00:00",
+  "generated_at": "2026-11-15T10:28:44.146963+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,14 +7,14 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 8368
+      "count": 8374
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README-Off-Season.md",
       "type": "internship",
       "season": "2027",
-      "count": 3541
+      "count": 3544
     },
     {
       "name": "freehire.me",
@@ -28,7 +28,7 @@
       "url": "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 2780
+      "count": 2781
     },
     {
       "name": "ATS career-page probe",
@@ -52,13 +52,6 @@
       "count": 2145
     },
     {
-      "name": "aprameyak Summer 2027",
-      "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/SUMMER.md",
-      "type": "internship",
-      "season": "2027",
-      "count": 2112
-    },
-    {
       "name": "SimplifyJobs New Grad",
       "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md",
       "type": "newgrad",
@@ -66,8 +59,15 @@
       "count": 2008
     },
     {
-      "name": "cvrve New Grad",
-      "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
+      "name": "aprameyak Summer 2027",
+      "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/SUMMER.md",
+      "type": "internship",
+      "season": "2027",
+      "count": 1979
+    },
+    {
+      "name": "vanshb03 New Grad 2027",
+      "url": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/master/README.md",
       "type": "newgrad",
       "season": "2027",
       "count": 1926
@@ -98,7 +98,7 @@
       "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/NEWGRAD.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 1153
+      "count": 1119
     },
     {
       "name": "SuryaHarikrishnan DS/AI",
@@ -126,7 +126,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 850
+      "count": 849
     },
     {
       "name": "SuryaHarikrishnan Hardware",
@@ -140,21 +140,14 @@
       "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/OFFCYCLE.md",
       "type": "internship",
       "season": "2027",
-      "count": 642
+      "count": 632
     },
     {
       "name": "speedyapply SWE New Grad Intl",
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_INTL.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 592
-    },
-    {
-      "name": "Jobspy (Indeed)",
-      "url": "https://github.com/zanellia/jobspy",
-      "type": "internship",
-      "season": "",
-      "count": 572
+      "count": 591
     },
     {
       "name": "speedyapply AI 2027",
@@ -162,6 +155,13 @@
       "type": "internship",
       "season": "2027",
       "count": 571
+    },
+    {
+      "name": "Jobspy (Indeed)",
+      "url": "https://github.com/zanellia/jobspy",
+      "type": "internship",
+      "season": "",
+      "count": 568
     },
     {
       "name": "speedyapply AI New Grad USA",
@@ -196,7 +196,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/NEW_GRAD_INTL.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 428
+      "count": 429
     },
     {
       "name": "speedyapply AI Intern Intl",
@@ -210,14 +210,7 @@
       "url": "https://raw.githubusercontent.com/zapplyjobs/Internships-2027/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 407
-    },
-    {
-      "name": "zapplyjobs New Grad 2027",
-      "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2027/main/README.md",
-      "type": "newgrad",
-      "season": "2027",
-      "count": 407
+      "count": 404
     },
     {
       "name": "speedyapply SWE 2027 Intern Intl",
@@ -225,6 +218,20 @@
       "type": "internship",
       "season": "2027",
       "count": 400
+    },
+    {
+      "name": "zapplyjobs New Grad 2027",
+      "url": "https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2027/main/README.md",
+      "type": "newgrad",
+      "season": "2027",
+      "count": 397
+    },
+    {
+      "name": "zshah101 Summer 2027 US",
+      "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
+      "type": "internship",
+      "season": "2027",
+      "count": 329
     },
     {
       "name": "zapplyjobs New Grad Data Science 2027",
@@ -239,13 +246,6 @@
       "type": "all roles, refreshed every 15 min",
       "season": "",
       "count": 277
-    },
-    {
-      "name": "zshah101 Summer 2027 US",
-      "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
-      "type": "internship",
-      "season": "2027",
-      "count": 196
     },
     {
       "name": "SuryaHarikrishnan Product",
@@ -273,28 +273,28 @@
       "url": "https://raw.githubusercontent.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 143
+      "count": 153
     },
     {
       "name": "ApplyGuy New Grad",
       "url": "https://raw.githubusercontent.com/ApplyGuy/2027-New-Grad-Jobs/main/data/new-grad-jobs.json",
       "type": "newgrad",
       "season": "2027",
-      "count": 119
+      "count": 151
     },
     {
       "name": "zapplyjobs Canada 2027",
       "url": "https://raw.githubusercontent.com/zapplyjobs/Canada-Internships-2027/main/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 113
+      "count": 112
     },
     {
       "name": "SimplifyJobs Summer 2027",
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 98
+      "count": 99
     },
     {
       "name": "sndsh404 Summer 2027",
@@ -339,8 +339,8 @@
       "count": 0
     },
     {
-      "name": "vanshb03 New Grad 2027",
-      "url": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/master/README.md",
+      "name": "cvrve New Grad",
+      "url": "https://raw.githubusercontent.com/cvrve/New-Grad/dev/README.md",
       "type": "newgrad",
       "season": "2027",
       "count": 0

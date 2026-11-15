@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-15T07:31:54Z",
+ "built_at": "2026-11-15T10:38:07Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -8978,6 +8978,112 @@
      "count": 4,
      "median_salary": 69381,
      "title": "PROJECT ENGINEER"
+    }
+   ]
+  },
+  "cadence design systems": {
+   "fetched_at": "2026-11-15T10:38:07Z",
+   "label": "Cadence Design Systems",
+   "titles": [
+    {
+     "count": 17,
+     "median_salary": 139235,
+     "title": "LEAD APPLICATION ENGINEER"
+    },
+    {
+     "count": 17,
+     "median_salary": 167024,
+     "title": "PRINCIPAL APPLICATION ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 148536,
+     "title": "LEAD SOFTWARE ENGINEER"
+    },
+    {
+     "count": 16,
+     "median_salary": 159402,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 11,
+     "median_salary": 137259,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 10,
+     "median_salary": 109326,
+     "title": "SR. SOLUTIONS ENGINEER - AE"
+    },
+    {
+     "count": 9,
+     "median_salary": 132331,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 108722,
+     "title": "APPLICATION ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 126807,
+     "title": "LEAD DESIGN ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 149293,
+     "title": "PRINCIPAL DESIGN ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 167016,
+     "title": "PRINCIPAL PRODUCT ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 186865,
+     "title": "SR. PRINCIPAL APPLICATION ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 119630,
+     "title": "SR. APPLICATION ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 180960,
+     "title": "SR. PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 107026,
+     "title": "DESIGN ENGINEER II"
+    },
+    {
+     "count": 6,
+     "median_salary": 137569,
+     "title": "LEAD PRODUCT ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 139956,
+     "title": "PRINCIPAL SOLUTIONS ENGINEER - AE"
+    },
+    {
+     "count": 6,
+     "median_salary": 190434,
+     "title": "SOFTWARE ARCHITECT"
+    },
+    {
+     "count": 6,
+     "median_salary": 157872,
+     "title": "SR. PRINCIPAL DESIGN ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 167109,
+     "title": "SR. PRINCIPAL PRODUCT ENGINEER"
     }
    ]
   },
