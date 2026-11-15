@@ -1,10 +1,10 @@
 {
  "class": "markdown",
  "etag": "",
- "fetched_at": "2026-11-15T02:28:01.319211+00:00",
+ "fetched_at": "2026-11-15T07:22:55.308670+00:00",
  "provenance": "fetch",
  "rejections": 0,
- "rows": 42314,
+ "rows": 42285,
  "source": "light",
  "status": "ok",
  "ttl_hours": 48
