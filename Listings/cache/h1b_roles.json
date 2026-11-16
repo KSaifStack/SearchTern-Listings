@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-16T18:39:34Z",
+ "built_at": "2026-11-16T19:01:41Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -7136,6 +7136,11 @@
   "bge": {
    "fetched_at": "2026-11-07T00:19:24Z",
    "label": "BGE",
+   "titles": []
+  },
+  "bge inc campus recruiting": {
+   "fetched_at": "2026-11-16T19:01:40Z",
+   "label": "BGE Inc.  Campus Recruiting",
    "titles": []
   },
   "bgeinc": {
@@ -51009,6 +51014,11 @@
      "title": "OPERATIONS &AMP; LOGISTICS SUPERVISOR-WEST COAST"
     }
    ]
+  },
+  "varda": {
+   "fetched_at": "2026-11-16T19:01:41Z",
+   "label": "Varda",
+   "titles": []
   },
   "varda space": {
    "fetched_at": "2026-10-25T22:41:31Z",
