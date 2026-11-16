@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-16T07:26:29Z",
+ "built_at": "2026-11-16T18:39:34Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -157,6 +157,42 @@
    "fetched_at": "2026-10-24T20:11:03Z",
    "label": "AccorHotel",
    "titles": []
+  },
+  "aces": {
+   "fetched_at": "2026-11-16T18:39:23Z",
+   "label": "ACES",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 83000,
+     "title": "BOARD CERTIFIED BEHAVIORAL ANALYST SUPERVISOR III"
+    },
+    {
+     "count": 3,
+     "median_salary": 96350,
+     "title": "CLINICAL MANAGER, TREATMENT INITIATION"
+    },
+    {
+     "count": 2,
+     "median_salary": 72940,
+     "title": "MARKET RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 109000,
+     "title": "CLINICAL DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 36000,
+     "title": "MARKETING ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "PROGRAM SUPERVISOR"
+    }
+   ]
   },
   "aclu internships": {
    "fetched_at": "2026-11-12T17:25:22Z",
@@ -3075,6 +3111,11 @@
    "label": "aoglobelifesholaadebayo",
    "titles": []
   },
+  "aon": {
+   "fetched_at": "2026-11-16T18:39:24Z",
+   "label": "Aon",
+   "titles": []
+  },
   "apple": {
    "fetched_at": "2026-10-24T22:23:18Z",
    "label": "Apple",
@@ -3815,6 +3856,97 @@
      "count": 1,
      "median_salary": 200000,
      "title": "SENIOR INVESTMENT MANAGER"
+    }
+   ]
+  },
+  "ardurra": {
+   "fetched_at": "2026-11-16T18:39:25Z",
+   "label": "Ardurra",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 79087,
+     "title": "ENGINEER I"
+    },
+    {
+     "count": 3,
+     "median_salary": 120000,
+     "title": "ENGINEER III CIVIL"
+    },
+    {
+     "count": 2,
+     "median_salary": 80000,
+     "title": "CIVIL ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 126679,
+     "title": "ENGINEER IV"
+    },
+    {
+     "count": 2,
+     "median_salary": 122000,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 89216,
+     "title": "ASSISTANT CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 88200,
+     "title": "CIVIL DESIGN ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 93169,
+     "title": "ENGINEER -1"
+    },
+    {
+     "count": 1,
+     "median_salary": 76000,
+     "title": "ENGINEER I CIVIL"
+    },
+    {
+     "count": 1,
+     "median_salary": 55120,
+     "title": "ENGINEER I LAND SURVEYING &AMP; GEOMATICS ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 60630,
+     "title": "ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "FIELD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 81390,
+     "title": "PROJECT CLOSEOUT MANAGER ENGINEER 1"
+    },
+    {
+     "count": 1,
+     "median_salary": 79581,
+     "title": "PROJECT CONTROLS SPECIALIST ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 130520,
+     "title": "SENIOR TRAFFIC ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84000,
+     "title": "WATER WASTEWATER ENGINEER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 125080,
+     "title": "WATER WASTEWATER PROJECT MANAGER"
     }
    ]
   },
@@ -9378,6 +9510,112 @@
    "label": "captechconsulting",
    "titles": []
   },
+  "cardinal": {
+   "fetched_at": "2026-11-16T18:39:26Z",
+   "label": "Cardinal Group",
+   "titles": [
+    {
+     "count": 20,
+     "median_salary": 138590,
+     "title": "SR. ENGINEER, APPLICATION DEVELOPMENT AND MAINTENANCE"
+    },
+    {
+     "count": 18,
+     "median_salary": 112923,
+     "title": "ENGINEER, APPLICATION DEVELOPMENT AND MAINTENANCE"
+    },
+    {
+     "count": 8,
+     "median_salary": 136739,
+     "title": "SR. DATA ENGINEER, DATA ENGINEERING"
+    },
+    {
+     "count": 7,
+     "median_salary": 105976,
+     "title": "STAFF ENGINEER, COMMERCIAL TECHNOLOGIES SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 6,
+     "median_salary": 105591,
+     "title": "ENGINEER, APPLICATION DEVELOPMENT &AMP; MAINTENANCE"
+    },
+    {
+     "count": 5,
+     "median_salary": 112923,
+     "title": "ENGINEER, SOFTWARE INFO PLATFORM"
+    },
+    {
+     "count": 5,
+     "median_salary": 137405,
+     "title": "SR. ENGINEER, INFORMATION SECURITY &AMP; RISK"
+    },
+    {
+     "count": 4,
+     "median_salary": 99424,
+     "title": "CONSULTANT, BUSINESS ANALYSIS"
+    },
+    {
+     "count": 4,
+     "median_salary": 123073,
+     "title": "MANAGER, DATA &AMP; ANALYTICS MANAGEMENT"
+    },
+    {
+     "count": 3,
+     "median_salary": 96678,
+     "title": "DATA SCIENTIST, DATA SCIENCE"
+    },
+    {
+     "count": 3,
+     "median_salary": 106558,
+     "title": "ENGINEER, CLOUD ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 105997,
+     "title": "ENGINEER, IT INFRASTRUCTURE AND SYSTEM ADMINISTRATION"
+    },
+    {
+     "count": 3,
+     "median_salary": 100339,
+     "title": "ENGINEER, IT NETWORK AND TELECOMMUNICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 147202,
+     "title": "MANAGER, COMMERCIAL TECHNOLOGIES SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 140026,
+     "title": "SR. ENGINEER, APPLICATION DEVELOPMENT &AMP; MAINTENANCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 81536,
+     "title": "ADVISOR, SUPPLY CHAIN PLANNING"
+    },
+    {
+     "count": 2,
+     "median_salary": 66468,
+     "title": "ARTICLE 31 CLINICIAN MENTAL HEALTH HUB CLINICIAN"
+    },
+    {
+     "count": 2,
+     "median_salary": 80900,
+     "title": "CONSULTANT, BUSINESS PERFORMANCE PARTNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 109616,
+     "title": "DATA ENGINEER, DATA ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 101972,
+     "title": "ENGINEER, INFORMATION SECURITY &AMP; RISK"
+    }
+   ]
+  },
   "cardinal health": {
    "fetched_at": "2026-11-12T08:07:05Z",
    "label": "Cardinal Health",
@@ -12519,6 +12757,11 @@
     }
    ]
   },
+  "cloudcommerce": {
+   "fetched_at": "2026-11-16T18:39:27Z",
+   "label": "CloudCommerce",
+   "titles": []
+  },
   "cnh industrial": {
    "fetched_at": "2026-10-27T20:20:55Z",
    "label": "CNH Industrial",
@@ -12857,6 +13100,11 @@
      "title": "INDUSTRIAL SYSTEMS ENGINEER"
     }
    ]
+  },
+  "coldwell banker": {
+   "fetched_at": "2026-11-16T18:39:28Z",
+   "label": "Coldwell Banker",
+   "titles": []
   },
   "collins aerospace": {
    "fetched_at": "2026-10-25T04:07:10Z",
@@ -14114,6 +14362,11 @@
   "cssmerge": {
    "fetched_at": "2026-11-11T16:01:51Z",
    "label": "cssmerge",
+   "titles": []
+  },
+  "cti": {
+   "fetched_at": "2026-11-16T18:39:29Z",
+   "label": "CTI",
    "titles": []
   },
   "cva": {
@@ -21430,6 +21683,112 @@
     }
    ]
   },
+  "genuine foods": {
+   "fetched_at": "2026-11-16T18:39:30Z",
+   "label": "GENUINE FOODS",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 110000,
+     "title": "SENIOR ENGINEER - SOFTWARE"
+    },
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 3,
+     "median_salary": 105000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 79851,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 70000,
+     "title": "ANALYST, PRICING SCIENCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 58500,
+     "title": "CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "LEAD ENGINEER, ORACLE CLOUD"
+    },
+    {
+     "count": 2,
+     "median_salary": 152131,
+     "title": "LEAD ENGINEER, SRE"
+    },
+    {
+     "count": 2,
+     "median_salary": 62500,
+     "title": "MONTESSORI PRIMARY GUIDE"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "PRINCIPAL ENGINEER - ECOMMERCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "SENIOR ENGINEER - DATA EDA"
+    },
+    {
+     "count": 2,
+     "median_salary": 115000,
+     "title": "SENIOR ENGINEER - SOFTWARE, B2B"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "SENIOR UX DESIGNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 102720,
+     "title": "SOFTWARE ENGINEER DEVOPS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "STAFF ENGINEER, SALES DATA"
+    },
+    {
+     "count": 1,
+     "median_salary": 90896,
+     "title": "AI ML ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 84094,
+     "title": "ANALYST, DIGITAL ANALYTICS"
+    },
+    {
+     "count": 1,
+     "median_salary": 70000,
+     "title": "ANALYST, PRICING ARCHITECTURE"
+    },
+    {
+     "count": 1,
+     "median_salary": 113000,
+     "title": "APPLICATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 113000,
+     "title": "APPLICATION TESTER DEVELOPER"
+    }
+   ]
+  },
   "geotab": {
    "fetched_at": "2026-10-29T21:13:58Z",
    "label": "Geotab",
@@ -24906,6 +25265,17 @@
      "count": 1,
      "median_salary": 51411,
      "title": "TRIO ADVISOR PLANNER"
+    }
+   ]
+  },
+  "idea public schools": {
+   "fetched_at": "2026-11-16T18:39:30Z",
+   "label": "IDEA Public Schools",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 64999,
+     "title": "SPECIAL EDUCATION RISE TEACHER"
     }
    ]
   },
@@ -29291,6 +29661,11 @@
      "title": "PROJECT MANAGER"
     }
    ]
+  },
+  "lja": {
+   "fetched_at": "2026-11-16T18:39:31Z",
+   "label": "LJA",
+   "titles": []
   },
   "llnl": {
    "fetched_at": "2026-10-25T14:02:37Z",
@@ -35396,6 +35771,22 @@
     }
    ]
   },
+  "one medical": {
+   "fetched_at": "2026-11-16T18:39:32Z",
+   "label": "One Medical",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 360560,
+     "title": "IN-OFFICE PROVIDER"
+    },
+    {
+     "count": 1,
+     "median_salary": 230000,
+     "title": "MEDICAL DOCTOR"
+    }
+   ]
+  },
   "oneok https oneok wd1 myworkdayjobs com oneok early careers job dallas tx engineering intern dallas tx r8156": {
    "fetched_at": "2026-10-27T20:57:00Z",
    "label": "[ONEOK](https://oneok.wd1.myworkdayjobs.com/ONEOK_Early_Careers/job/Dallas-TX/Engineering-Intern---Dallas--TX_R8156)",
@@ -41263,6 +41654,82 @@
      "count": 1,
      "median_salary": 82500,
      "title": "TAX CUMULATING AND ACCOUNTS MANAGER"
+    }
+   ]
+  },
+  "salas o brien": {
+   "fetched_at": "2026-11-16T18:39:33Z",
+   "label": "Salas O\u2019Brien",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 98077,
+     "title": "PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "ELECTRICAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "LIGHTING DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "NYSERDA PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 73000,
+     "title": "PLUMBING AND FIRE PROTECTION DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79022,
+     "title": "PLUMBING AND FIRE PROTECTION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "PLUMBING ENGINEERING LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 60000,
+     "title": "PUBLIC RELATIONS SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 161782,
+     "title": "SENIOR ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "SENIOR SUSTAINABILITY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 71300,
+     "title": "STRUCTURAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 94000,
+     "title": "STRUCTURAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "STRUCTURAL PROJECT MANAGER"
     }
    ]
   },
@@ -53220,6 +53687,87 @@
      "count": 1,
      "median_salary": 128000,
      "title": "PROJECT MANAGER II"
+    }
+   ]
+  },
+  "yanfeng": {
+   "fetched_at": "2026-11-16T18:39:34Z",
+   "label": "Yanfeng",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 82500,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 87029,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "ADVANCE MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 93544,
+     "title": "CHANGE MANAGEMENT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "CONTINUOUS IMPROVEMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 81000,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 118810,
+     "title": "LEAD QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127840,
+     "title": "MANAGER COSTING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155000,
+     "title": "MANAGER IT, ERP APPLICATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 195700,
+     "title": "MANAGER, CUSTOMER QUALITY AND AUDIT"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79373,
+     "title": "MANUFACTURING ENGINEERING SYSTEMS MES ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92412,
+     "title": "PRODUCT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "SENIOR QUALITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79373,
+     "title": "SERVICE DESK AND SERVICE OPERATIONS SOFTWARE ENGINEER"
     }
    ]
   },
