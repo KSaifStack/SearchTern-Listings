@@ -1,25 +1,25 @@
 {
   "scheme": "career-family-v1",
-  "generation": "20261116T190255Z-5b2498ed66cf",
-  "generated_at": "2026-11-16T19:02:56.365305+00:00",
+  "generation": "20261116T205705Z-b15cdfb5eb71",
+  "generated_at": "2026-11-16T20:57:07.431573+00:00",
   "run": {
-    "generation": "20261116T190255Z-5b2498ed66cf",
+    "generation": "20261116T205705Z-b15cdfb5eb71",
     "published": {
-      "listings": 27826,
-      "searchtern": 65344
+      "listings": 27377,
+      "searchtern": 64917
     },
     "publication_status": "published"
   },
   "totals": {
-    "published": 65344,
-    "technology_subset": 27826,
-    "verified": 65344,
+    "published": 64917,
+    "technology_subset": 27377,
+    "verified": 64917,
     "observed": 0,
     "career_families": 15,
-    "unclassified": 10884
+    "unclassified": 10877
   },
   "verification": {
-    "verified": 65344,
+    "verified": 64917,
     "observed": 0,
     "verified_pct": 100.0,
     "policy": "verified = the row's source snapshot was re-fetched inside its TTL this run; observed = republished from a still-valid snapshot without a fresh fetch. Neither is a claim of employer-side liveness."
@@ -27,100 +27,100 @@
   "career_families": [
     {
       "name": "Software Engineering & Technology",
-      "total": 29169,
-      "verified": 22044,
-      "share_pct": 44.64,
-      "verified_pct": 75.57
+      "total": 28756,
+      "verified": 21666,
+      "share_pct": 44.3,
+      "verified_pct": 75.34
     },
     {
       "name": "Other Professional",
-      "total": 10884,
-      "verified": 10884,
-      "share_pct": 16.66,
+      "total": 10877,
+      "verified": 10877,
+      "share_pct": 16.76,
       "verified_pct": 100.0
     },
     {
       "name": "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)",
-      "total": 7466,
-      "verified": 7136,
-      "share_pct": 11.43,
-      "verified_pct": 95.58
+      "total": 7431,
+      "verified": 7100,
+      "share_pct": 11.45,
+      "verified_pct": 95.55
     },
     {
       "name": "Healthcare, Clinical & Public Health",
-      "total": 4618,
-      "verified": 4513,
-      "share_pct": 7.07,
-      "verified_pct": 97.73
+      "total": 4617,
+      "verified": 4515,
+      "share_pct": 7.11,
+      "verified_pct": 97.79
     },
     {
       "name": "Sales & Customer Success",
-      "total": 4544,
-      "verified": 4210,
-      "share_pct": 6.95,
-      "verified_pct": 92.65
+      "total": 4550,
+      "verified": 4216,
+      "share_pct": 7.01,
+      "verified_pct": 92.66
     },
     {
       "name": "Finance, Accounting & Banking",
-      "total": 3102,
-      "verified": 2951,
-      "share_pct": 4.75,
-      "verified_pct": 95.13
+      "total": 3098,
+      "verified": 2946,
+      "share_pct": 4.77,
+      "verified_pct": 95.09
     },
     {
       "name": "Design, UX/UI & Creative",
-      "total": 2690,
-      "verified": 2690,
-      "share_pct": 4.12,
+      "total": 2693,
+      "verified": 2693,
+      "share_pct": 4.15,
       "verified_pct": 100.0
     },
     {
       "name": "Operations & Project Management",
-      "total": 2611,
-      "verified": 2611,
-      "share_pct": 4.0,
+      "total": 2606,
+      "verified": 2606,
+      "share_pct": 4.01,
       "verified_pct": 100.0
     },
     {
       "name": "Supply Chain, Procurement & Logistics",
-      "total": 2194,
-      "verified": 2194,
-      "share_pct": 3.36,
+      "total": 2191,
+      "verified": 2191,
+      "share_pct": 3.38,
       "verified_pct": 100.0
     },
     {
       "name": "Business Analysis, Consulting & Administration",
-      "total": 1638,
-      "verified": 1638,
-      "share_pct": 2.51,
+      "total": 1643,
+      "verified": 1643,
+      "share_pct": 2.53,
       "verified_pct": 100.0
     },
     {
       "name": "Marketing, Communications & PR",
-      "total": 1590,
-      "verified": 1244,
-      "share_pct": 2.43,
-      "verified_pct": 78.24
+      "total": 1593,
+      "verified": 1242,
+      "share_pct": 2.45,
+      "verified_pct": 77.97
     },
     {
       "name": "Scientific Research, Lab & Biotech",
-      "total": 1421,
-      "verified": 1421,
+      "total": 1409,
+      "verified": 1409,
       "share_pct": 2.17,
       "verified_pct": 100.0
     },
     {
       "name": "Legal & Compliance",
-      "total": 640,
-      "verified": 640,
-      "share_pct": 0.98,
+      "total": 643,
+      "verified": 643,
+      "share_pct": 0.99,
       "verified_pct": 100.0
     },
     {
       "name": "Human Resources & Recruiting",
-      "total": 615,
-      "verified": 615,
-      "share_pct": 0.94,
+      "total": 617,
+      "verified": 617,
+      "share_pct": 0.95,
       "verified_pct": 100.0
     },
     {
@@ -141,114 +141,114 @@
   "industries": [
     {
       "name": "Technology",
-      "total": 22044,
+      "total": 21666,
       "verified": 0,
-      "share_pct": 33.74,
+      "share_pct": 33.37,
       "verified_pct": 0.0
     },
     {
       "name": "Unclassified",
-      "total": 10884,
+      "total": 10877,
       "verified": 0,
-      "share_pct": 16.66,
+      "share_pct": 16.76,
       "verified_pct": 0.0
     },
     {
       "name": "Healthcare",
-      "total": 4513,
+      "total": 4515,
       "verified": 0,
-      "share_pct": 6.91,
+      "share_pct": 6.96,
       "verified_pct": 0.0
     },
     {
       "name": "Engineering",
-      "total": 3886,
+      "total": 3853,
       "verified": 0,
-      "share_pct": 5.95,
+      "share_pct": 5.94,
       "verified_pct": 0.0
     },
     {
       "name": "Construction & Trades",
-      "total": 3250,
+      "total": 3247,
       "verified": 0,
-      "share_pct": 4.97,
+      "share_pct": 5.0,
       "verified_pct": 0.0
     },
     {
       "name": "Financial Services",
-      "total": 2951,
+      "total": 2946,
       "verified": 0,
-      "share_pct": 4.52,
+      "share_pct": 4.54,
       "verified_pct": 0.0
     },
     {
       "name": "Design & Creative",
-      "total": 2690,
+      "total": 2693,
       "verified": 0,
-      "share_pct": 4.12,
+      "share_pct": 4.15,
       "verified_pct": 0.0
     },
     {
       "name": "Operations",
-      "total": 2611,
+      "total": 2606,
       "verified": 0,
-      "share_pct": 4.0,
+      "share_pct": 4.01,
       "verified_pct": 0.0
     },
     {
       "name": "Sales",
-      "total": 2318,
+      "total": 2319,
       "verified": 0,
-      "share_pct": 3.55,
+      "share_pct": 3.57,
       "verified_pct": 0.0
     },
     {
       "name": "Logistics & Manufacturing",
-      "total": 2194,
+      "total": 2191,
       "verified": 0,
-      "share_pct": 3.36,
+      "share_pct": 3.38,
       "verified_pct": 0.0
     },
     {
       "name": "Retail & Hospitality",
-      "total": 1892,
+      "total": 1897,
       "verified": 0,
-      "share_pct": 2.9,
+      "share_pct": 2.92,
       "verified_pct": 0.0
     },
     {
       "name": "Business Services",
-      "total": 1638,
+      "total": 1643,
       "verified": 0,
-      "share_pct": 2.51,
+      "share_pct": 2.53,
       "verified_pct": 0.0
     },
     {
       "name": "Research & Science",
-      "total": 1421,
+      "total": 1409,
       "verified": 0,
       "share_pct": 2.17,
       "verified_pct": 0.0
     },
     {
       "name": "Marketing & Media",
-      "total": 1244,
+      "total": 1242,
       "verified": 0,
-      "share_pct": 1.9,
+      "share_pct": 1.91,
       "verified_pct": 0.0
     },
     {
       "name": "Legal Services",
-      "total": 640,
+      "total": 643,
       "verified": 0,
-      "share_pct": 0.98,
+      "share_pct": 0.99,
       "verified_pct": 0.0
     },
     {
       "name": "Human Resources",
-      "total": 615,
+      "total": 617,
       "verified": 0,
-      "share_pct": 0.94,
+      "share_pct": 0.95,
       "verified_pct": 0.0
     },
     {
@@ -267,148 +267,142 @@
     }
   ],
   "job_types": {
-    "internship": 49999,
-    "new_grad": 13913,
-    "unknown": 1432
+    "internship": 49632,
+    "new_grad": 13854,
+    "unknown": 1431
   },
   "sources": [
     {
       "source": "jobhive",
-      "rows": 31858,
-      "share_pct": 48.75,
-      "verified": 31858
+      "rows": 31899,
+      "share_pct": 49.14,
+      "verified": 31899
     },
     {
       "source": "lilguy Live Feed",
       "rows": 5241,
-      "share_pct": 8.02,
+      "share_pct": 8.07,
       "verified": 5241
     },
     {
       "source": "ats",
       "rows": 4204,
-      "share_pct": 6.43,
+      "share_pct": 6.48,
       "verified": 4204
     },
     {
       "source": "freehire",
       "rows": 2711,
-      "share_pct": 4.15,
+      "share_pct": 4.18,
       "verified": 2711
     },
     {
       "source": "aprameyak Summer 2027",
-      "rows": 2341,
-      "share_pct": 3.58,
-      "verified": 2341
+      "rows": 2286,
+      "share_pct": 3.52,
+      "verified": 2286
     },
     {
       "source": "SuryaHarikrishnan Other 2027",
       "rows": 1794,
-      "share_pct": 2.75,
+      "share_pct": 2.76,
       "verified": 1794
     },
     {
       "source": "vanshb03 Summer 2027",
-      "rows": 1740,
-      "share_pct": 2.66,
-      "verified": 1740
+      "rows": 1742,
+      "share_pct": 2.68,
+      "verified": 1742
     },
     {
       "source": "ecr",
-      "rows": 1432,
-      "share_pct": 2.19,
-      "verified": 1432
+      "rows": 1431,
+      "share_pct": 2.2,
+      "verified": 1431
     },
     {
       "source": "GodlyDonuts keryx Internships",
-      "rows": 1362,
-      "share_pct": 2.08,
-      "verified": 1362
+      "rows": 1394,
+      "share_pct": 2.15,
+      "verified": 1394
     },
     {
       "source": "aprameyak New Grad 2027",
       "rows": 1122,
-      "share_pct": 1.72,
+      "share_pct": 1.73,
       "verified": 1122
     },
     {
       "source": "SuryaHarikrishnan DS/AI",
       "rows": 1065,
-      "share_pct": 1.63,
+      "share_pct": 1.64,
       "verified": 1065
     },
     {
       "source": "SuryaHarikrishnan SWE Track",
       "rows": 906,
-      "share_pct": 1.39,
+      "share_pct": 1.4,
       "verified": 906
     },
     {
       "source": "speedyapply SWE New Grad USA",
       "rows": 832,
-      "share_pct": 1.27,
+      "share_pct": 1.28,
       "verified": 832
     },
     {
-      "source": "aprameyak Off-Cycle/Co-op",
-      "rows": 701,
-      "share_pct": 1.07,
-      "verified": 701
-    },
-    {
       "source": "cvrve New Grad",
-      "rows": 700,
-      "share_pct": 1.07,
-      "verified": 700
+      "rows": 698,
+      "share_pct": 1.08,
+      "verified": 698
     },
     {
-      "source": "jobspy",
+      "source": "aprameyak Off-Cycle/Co-op",
       "rows": 693,
-      "share_pct": 1.06,
+      "share_pct": 1.07,
       "verified": 693
     },
     {
-      "source": "SuryaHarikrishnan Hardware",
-      "rows": 649,
-      "share_pct": 0.99,
-      "verified": 649
-    },
-    {
       "source": "speedyapply AI 2027",
-      "rows": 594,
+      "rows": 590,
       "share_pct": 0.91,
-      "verified": 594
+      "verified": 590
     },
     {
       "source": "speedyapply SWE New Grad Intl",
       "rows": 565,
-      "share_pct": 0.86,
+      "share_pct": 0.87,
       "verified": 565
     },
     {
       "source": "speedyapply AI New Grad USA",
       "rows": 532,
-      "share_pct": 0.81,
+      "share_pct": 0.82,
       "verified": 532
     },
     {
       "source": "speedyapply SWE 2027",
-      "rows": 529,
+      "rows": 526,
       "share_pct": 0.81,
-      "verified": 529
+      "verified": 526
+    },
+    {
+      "source": "SuryaHarikrishnan Hardware",
+      "rows": 523,
+      "share_pct": 0.81,
+      "verified": 523
     },
     {
       "source": "vanshb03 Off-Season",
-      "rows": 464,
+      "rows": 462,
       "share_pct": 0.71,
-      "verified": 464
+      "verified": 462
     },
     {
       "source": "speedyapply AI Intern Intl",
-      "rows": 414,
+      "rows": 406,
       "share_pct": 0.63,
-      "verified": 414
+      "verified": 406
     },
     {
       "source": "speedyapply AI New Grad Intl",
@@ -418,33 +412,45 @@
     },
     {
       "source": "speedyapply SWE 2027 Intern Intl",
-      "rows": 383,
-      "share_pct": 0.59,
-      "verified": 383
+      "rows": 377,
+      "share_pct": 0.58,
+      "verified": 377
     },
     {
       "source": "SimplifyJobs New Grad",
-      "rows": 369,
-      "share_pct": 0.56,
-      "verified": 369
+      "rows": 368,
+      "share_pct": 0.57,
+      "verified": 368
     },
     {
-      "source": "zshah101 Summer 2027 US",
-      "rows": 260,
-      "share_pct": 0.4,
-      "verified": 260
+      "source": "jobspy",
+      "rows": 268,
+      "share_pct": 0.41,
+      "verified": 268
+    },
+    {
+      "source": "SimplifyJobs Summer 2027",
+      "rows": 224,
+      "share_pct": 0.35,
+      "verified": 224
     },
     {
       "source": "SuryaHarikrishnan Product",
-      "rows": 214,
+      "rows": 213,
       "share_pct": 0.33,
-      "verified": 214
+      "verified": 213
+    },
+    {
+      "source": "zshah101 Summer 2027 US",
+      "rows": 180,
+      "share_pct": 0.28,
+      "verified": 180
     },
     {
       "source": "GodlyDonuts keryx New Grad",
-      "rows": 153,
-      "share_pct": 0.23,
-      "verified": 153
+      "rows": 165,
+      "share_pct": 0.25,
+      "verified": 165
     },
     {
       "source": "LorenzoLaCorte EU Internships 2026",
@@ -454,21 +460,21 @@
     },
     {
       "source": "SuryaHarikrishnan Quant",
-      "rows": 126,
-      "share_pct": 0.19,
-      "verified": 126
+      "rows": 134,
+      "share_pct": 0.21,
+      "verified": 134
     },
     {
       "source": "ApplyGuy New Grad",
-      "rows": 121,
-      "share_pct": 0.19,
-      "verified": 121
+      "rows": 120,
+      "share_pct": 0.18,
+      "verified": 120
     },
     {
-      "source": "SimplifyJobs Summer 2027",
-      "rows": 104,
-      "share_pct": 0.16,
-      "verified": 104
+      "source": "zshah101 Automated List",
+      "rows": 95,
+      "share_pct": 0.15,
+      "verified": 95
     },
     {
       "source": "summer2026internships",
@@ -496,15 +502,9 @@
     },
     {
       "source": "zapplyjobs New Grad SWE 2027",
-      "rows": 64,
+      "rows": 63,
       "share_pct": 0.1,
-      "verified": 64
-    },
-    {
-      "source": "zapplyjobs New Grad Data Science 2027",
-      "rows": 54,
-      "share_pct": 0.08,
-      "verified": 54
+      "verified": 63
     },
     {
       "source": "zapplyjobs Internships 2027",
@@ -513,16 +513,22 @@
       "verified": 53
     },
     {
-      "source": "zapplyjobs New Grad 2027",
-      "rows": 41,
-      "share_pct": 0.06,
-      "verified": 41
+      "source": "zapplyjobs New Grad Data Science 2027",
+      "rows": 48,
+      "share_pct": 0.07,
+      "verified": 48
     },
     {
       "source": "SimplifyJobs Off-Season 2027",
       "rows": 36,
       "share_pct": 0.06,
       "verified": 36
+    },
+    {
+      "source": "zapplyjobs New Grad 2027",
+      "rows": 33,
+      "share_pct": 0.05,
+      "verified": 33
     },
     {
       "source": "zapplyjobs Canada 2027",
@@ -537,34 +543,34 @@
       "verified": 21
     },
     {
-      "source": "negarprh Canada 2027",
-      "rows": 1,
+      "source": "skillexchange",
+      "rows": 2,
       "share_pct": 0.0,
-      "verified": 1
+      "verified": 2
     },
     {
-      "source": "skillexchange",
+      "source": "negarprh Canada 2027",
       "rows": 1,
       "share_pct": 0.0,
       "verified": 1
     }
   ],
   "rejections": {
-    "searchtern:no_apply_link": 20596,
-    "searchtern:non_english": 6954,
-    "searchtern:blocked_company": 2911,
+    "searchtern:no_apply_link": 20622,
+    "searchtern:non_english": 6992,
+    "searchtern:blocked_company": 2908,
     "searchtern:empty_company": 36,
-    "searchtern:duplicate_url": 175,
-    "listings:no_apply_link": 12149,
-    "listings:non_english": 2404,
-    "listings:inactive": 7940,
-    "listings:blocked_company": 412,
-    "listings:duplicate_url": 153,
+    "searchtern:duplicate_url": 166,
+    "listings:no_apply_link": 12175,
+    "listings:non_english": 2435,
+    "listings:inactive": 7946,
+    "listings:blocked_company": 411,
+    "listings:duplicate_url": 144,
     "listings:empty_company": 25
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-16T19:01:39.551423+00:00",
+      "generated_at": "2026-11-16T20:55:54.123226+00:00",
       "count": 11,
       "expected": [
         "jobhive",
@@ -585,6 +591,7 @@
         "ecr",
         "heavy",
         "jobhive",
+        "jobspy",
         "light",
         "medium",
         "priority",
@@ -594,8 +601,7 @@
       "empty": [],
       "missing": [],
       "rejected": [
-        "echo",
-        "jobspy"
+        "echo"
       ],
       "invalid": [],
       "seeded": []
