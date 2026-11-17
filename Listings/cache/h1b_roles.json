@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-17T03:00:37Z",
+ "built_at": "2026-11-17T03:16:19Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -26477,6 +26477,112 @@
   "intuitive": {
    "fetched_at": "2026-11-03T10:23:47Z",
    "label": "Intuitive",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 161000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 112300,
+     "title": "MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 138410,
+     "title": "QUALITY ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 155043,
+     "title": "MECHANICAL ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 115877,
+     "title": "REGULATORY AFFAIRS SPECIALIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 121264,
+     "title": "SUPPLIER ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 137249,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 4,
+     "median_salary": 118913,
+     "title": "INDUSTRIAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 151849,
+     "title": "MECHANICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 166962,
+     "title": "SENIOR SUPPLIER ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 222317,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 150100,
+     "title": "CLINICAL DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 102500,
+     "title": "DATA ANALYST GLOBAL PATIENT DATA STRGY"
+    },
+    {
+     "count": 3,
+     "median_salary": 156624,
+     "title": "FPGA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165422,
+     "title": "LEAD IT APPLICATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 145400,
+     "title": "SENIOR MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 178312,
+     "title": "SENIOR MECHANICAL DESIGN ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 167400,
+     "title": "SENIOR PROJECT MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 129688,
+     "title": "SOFTWARE DATA ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 180400,
+     "title": "SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "intuitive machines": {
+   "fetched_at": "2026-11-17T03:16:18Z",
+   "label": "Intuitive Machines",
    "titles": [
     {
      "count": 7,
