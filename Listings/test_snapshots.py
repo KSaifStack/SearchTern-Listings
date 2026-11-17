@@ -206,7 +206,10 @@ def test_seed_uses_cache_mtime_and_cannot_freshen_an_old_cache(tmp_path):
     os.makedirs(cache)
     good = frame([("Acme", "SWE Intern", "Austin, TX", "https://acme.test/1")])
     good.to_parquet(path, index=False)
-    old = time.time() - 10 * 24 * 3600
+    # Age the file relative to NOW, not the wall clock: seeding compares the
+    # mtime to `now`, so a wall-clock mtime made this assertion pass only while
+    # the real date stayed within NOW + 8 days (it went red on 2026-11-17).
+    old = (NOW - pd.Timedelta(days=10)).timestamp()
     os.utime(path, (old, old))
 
     side = snapshots.seed("heavy", str(path), now=NOW)
