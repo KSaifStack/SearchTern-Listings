@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-16T19:01:41Z",
+ "built_at": "2026-11-17T03:00:37Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -20494,6 +20494,11 @@
   "gaf https gafsgi wd5 myworkdayjobs com gaf careers job parsippany nj data management intern 26425": {
    "fetched_at": "2026-10-27T14:22:01Z",
    "label": "[GAF](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/Data-Management-Intern_26425)",
+   "titles": []
+  },
+  "gaf https gafsgi wd5 myworkdayjobs com gaf careers job parsippany nj r d commercial product development engineer intern 26417": {
+   "fetched_at": "2026-11-17T03:00:36Z",
+   "label": "[GAF](https://gafsgi.wd5.myworkdayjobs.com/GAF_Careers/job/Parsippany-NJ/R-D-Commercial-Product-Development-Engineer-Intern_26417)",
    "titles": []
   },
   "gannettfleming": {
@@ -45791,6 +45796,17 @@
    "fetched_at": "2026-10-29T05:15:57Z",
    "label": "STV",
    "titles": []
+  },
+  "subcom": {
+   "fetched_at": "2026-11-17T03:00:36Z",
+   "label": "SubCom",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "MEMBER OF TECHNICAL STAFF SENIOR SOFTWARE SYSTEM ENGINEER"
+    }
+   ]
   },
   "sun life": {
    "fetched_at": "2026-10-28T05:05:43Z",

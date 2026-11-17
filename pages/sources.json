@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:51:00.131031+00:00",
+  "generated_at": "2026-11-17T02:57:20.766442+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 12729
+      "count": 12671
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -21,7 +21,7 @@
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3323
+      "count": 3455
     },
     {
       "name": "vanshb03 Summer 2027",
@@ -35,21 +35,21 @@
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 2339
+      "count": 2341
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 2339
+      "count": 2341
     },
     {
       "name": "aprameyak Summer 2027",
       "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/SUMMER.md",
       "type": "internship",
       "season": "2027",
-      "count": 2139
+      "count": 2140
     },
     {
       "name": "lilguy Live Feed",
@@ -84,14 +84,14 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1432
+      "count": 1493
     },
     {
       "name": "GodlyDonuts keryx Internships",
       "url": "https://raw.githubusercontent.com/GodlyDonuts/keryx/main/internships/summer-2027.md",
       "type": "internship",
       "season": "2027",
-      "count": 1417
+      "count": 1421
     },
     {
       "name": "aprameyak New Grad 2027",
@@ -126,14 +126,14 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 844
+      "count": 845
     },
     {
       "name": "aprameyak Off-Cycle/Co-op",
       "url": "https://raw.githubusercontent.com/aprameyak/2027-tech-jobs/main/OFFCYCLE.md",
       "type": "internship",
       "season": "2027",
-      "count": 630
+      "count": 631
     },
     {
       "name": "speedyapply AI 2027",
@@ -168,7 +168,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/hardware-engineering.md",
       "type": "internship",
       "season": "2027",
-      "count": 496
+      "count": 497
     },
     {
       "name": "negarprh Canada 2027",
@@ -231,7 +231,7 @@
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md",
       "type": "internship",
       "season": "2027",
-      "count": 225
+      "count": 226
     },
     {
       "name": "SuryaHarikrishnan Product",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 12
+      "count": 8
     },
     {
       "name": "vanshb03 Summer 2026",
