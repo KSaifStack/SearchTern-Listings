@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-17T22:31:11Z",
+ "built_at": "2026-11-17T22:58:22Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -19188,6 +19188,11 @@
    "label": "Fa Ewqq Saasfaprod1",
    "titles": []
   },
+  "fa exdu saasfaprod1": {
+   "fetched_at": "2026-11-17T22:58:21Z",
+   "label": "Fa Exdu Saasfaprod1",
+   "titles": []
+  },
   "fa exhh saasfaprod1 staplescanada": {
    "fetched_at": "2026-11-08T15:55:43Z",
    "label": "Fa Exhh Saasfaprod1 (StaplesCanada)",
@@ -25841,6 +25846,11 @@
      "title": "SR. ELECTRICAL ENGINEER"
     }
    ]
+  },
+  "inl": {
+   "fetched_at": "2026-11-17T22:58:21Z",
+   "label": "INL",
+   "titles": []
   },
   "innovativ pharma": {
    "fetched_at": "2026-11-07T08:10:14Z",
