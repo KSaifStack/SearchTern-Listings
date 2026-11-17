@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-17T22:58:22Z",
+ "built_at": "2026-11-17T23:53:55Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -21362,6 +21362,22 @@
      "count": 1,
      "median_salary": 132500,
      "title": "SOFTWARE DEVELOPMENT ENGINEER III"
+    }
+   ]
+  },
+  "general atomics": {
+   "fetched_at": "2026-11-17T23:53:54Z",
+   "label": "General Atomics",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 100568,
+     "title": "ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 80226,
+     "title": "SCIENTIST II"
     }
    ]
   },
@@ -48684,6 +48700,52 @@
      "count": 1,
      "median_salary": 146089,
      "title": "LEAD SOFTWARE DEVELOPMENT ENGINEER"
+    }
+   ]
+  },
+  "thorlabs": {
+   "fetched_at": "2026-11-17T23:53:55Z",
+   "label": "Thorlabs",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 129215,
+     "title": "LEAD OPTICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 129215,
+     "title": "PHOTONICS ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 81600,
+     "title": "PHOTONICS LEARNING SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 110968,
+     "title": "ELECTRICAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 133037,
+     "title": "ELECTRICAL ENGINEERING SUPERVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 138747,
+     "title": "FIBER LASER DESIGN ENGINEER III"
+    },
+    {
+     "count": 1,
+     "median_salary": 111000,
+     "title": "MECHANICAL ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 104510,
+     "title": "OPTO-ELECTRONICS MANUFACTURING ENGINEER"
     }
    ]
   },
