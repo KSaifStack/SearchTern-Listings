@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-17T03:16:19Z",
+ "built_at": "2026-11-17T21:43:35Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6839,6 +6839,112 @@
     }
    ]
   },
+  "bechtel": {
+   "fetched_at": "2026-11-17T21:43:29Z",
+   "label": "Bechtel",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 159444,
+     "title": "ANALYST, FINANCIAL PLANNING &AMP; ANALYSIS"
+    },
+    {
+     "count": 2,
+     "median_salary": 121602,
+     "title": "ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 145248,
+     "title": "FIELD ENGINEER - INSTRUMENTATION"
+    },
+    {
+     "count": 2,
+     "median_salary": 202728,
+     "title": "GLOBAL MANAGER OF STRATEGIC RELATIONSHIPS"
+    },
+    {
+     "count": 2,
+     "median_salary": 107500,
+     "title": "HEAVY CIVIL ESTIMATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 119100,
+     "title": "INVENTORY SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 196608,
+     "title": "MANAGER OF STRATEGIC RELATIONSHIPS"
+    },
+    {
+     "count": 2,
+     "median_salary": 95772,
+     "title": "MATERIALS PLANNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 174558,
+     "title": "SENIOR PIPE STRESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190404,
+     "title": "SOFTWARE ENGINEER SENIOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 110010,
+     "title": "SOFTWARE ENGINEERING STAFF"
+    },
+    {
+     "count": 1,
+     "median_salary": 102504,
+     "title": "AI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 176532,
+     "title": "APE \u201c I&AMP;C RESIDENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127200,
+     "title": "ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 170400,
+     "title": "AREA PLANNER AND SCHEDULER-UPSTREAM"
+    },
+    {
+     "count": 1,
+     "median_salary": 177096,
+     "title": "AREA PROJECT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 143148,
+     "title": "ASSET INFORMATION MANAGER AIM"
+    },
+    {
+     "count": 1,
+     "median_salary": 93996,
+     "title": "CIVIL FIELD ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145920,
+     "title": "CSA RESIDENTIAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 240000,
+     "title": "CSU - STARTUP MANAGER \u201c LNG"
+    }
+   ]
+  },
   "bedrock robotics": {
    "fetched_at": "2026-10-25T14:02:18Z",
    "label": "Bedrock Robotics",
@@ -8378,6 +8484,52 @@
      "count": 1,
      "median_salary": 80000,
      "title": "STAFF SCIENTIST III"
+    }
+   ]
+  },
+  "bread financial": {
+   "fetched_at": "2026-11-17T21:43:29Z",
+   "label": "Bread Financial",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 133500,
+     "title": "ENGINEER, I"
+    },
+    {
+     "count": 1,
+     "median_salary": 197741,
+     "title": "ENGINEER, III"
+    },
+    {
+     "count": 1,
+     "median_salary": 67189,
+     "title": "FINANCIAL QUANTITATIVE DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 143380,
+     "title": "LEAD DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 143500,
+     "title": "LEAD, CREDIT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 150521,
+     "title": "RPA SOLUTION ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 131138,
+     "title": "SR. FINANCIAL BUSINESS ANALYST II"
+    },
+    {
+     "count": 1,
+     "median_salary": 152591,
+     "title": "SR. SOFTWARE DEVELOPER - INNOVATION"
     }
    ]
   },
@@ -10260,6 +10412,112 @@
      "count": 1,
      "median_salary": 88880,
      "title": "ADJUNCT PROFESSOR"
+    }
+   ]
+  },
+  "carnival": {
+   "fetched_at": "2026-11-17T21:43:30Z",
+   "label": "Carnival Corporation",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 63669,
+     "title": "ANALYST, TECHNICAL PROJECTS &AMP; MARINE PLANNING"
+    },
+    {
+     "count": 3,
+     "median_salary": 61963,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 119371,
+     "title": "MANAGER, ENERGY EFFICIENCY"
+    },
+    {
+     "count": 3,
+     "median_salary": 110947,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 94588,
+     "title": "DOT NET DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 125445,
+     "title": "MANAGER, DELIVERY AND SUPPORT"
+    },
+    {
+     "count": 2,
+     "median_salary": 149906,
+     "title": "MANAGER, NETWORK SOLUTIONS"
+    },
+    {
+     "count": 2,
+     "median_salary": 116251,
+     "title": "SENIOR DATABASE ADMINISTRATOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 110115,
+     "title": "SENIOR TECHNICAL ENGINEER SUPPORT"
+    },
+    {
+     "count": 2,
+     "median_salary": 106028,
+     "title": "SENIOR WEB DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 110947,
+     "title": "SOFTWARE ENGINEER, GLOBAL SYSTEMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 113901,
+     "title": "SUPERVISOR OF BUSINESS SYSTEMS ANALYSIS"
+    },
+    {
+     "count": 1,
+     "median_salary": 83387,
+     "title": "ANALYST, GLOBAL WORKFORCE DATA"
+    },
+    {
+     "count": 1,
+     "median_salary": 97157,
+     "title": "BUSINESS INTELLIGENCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 103834,
+     "title": "DATA WAREHOUSE INFORMATICA ADMINISTRATOR, SENIOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 110094,
+     "title": "DIGITAL PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 219918,
+     "title": "DIRECTOR, PROJECT FINANCIAL CONTROLS &AMP; STRATEGIC INITIATIVES"
+    },
+    {
+     "count": 1,
+     "median_salary": 91520,
+     "title": "DRYDOCK PMO PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 83429,
+     "title": "FINANCIAL DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 132974,
+     "title": "FINANCIAL REPORTING MANAGER"
     }
    ]
   },
@@ -13383,6 +13641,22 @@
      "count": 1,
      "median_salary": 56797,
      "title": "LIC. OUTREACH THERAPIST - MULTI-SYSTEMIC THERAPY"
+    }
+   ]
+  },
+  "consigli construction": {
+   "fetched_at": "2026-11-17T21:43:30Z",
+   "label": "Consigli Construction",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 144914,
+     "title": "COST PLANNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "SENIOR M E P MANAGER"
     }
    ]
   },
@@ -16712,6 +16986,11 @@
   "egup": {
    "fetched_at": "2026-10-25T05:38:02Z",
    "label": "Egup",
+   "titles": []
+  },
+  "eicl": {
+   "fetched_at": "2026-11-17T21:43:31Z",
+   "label": "Eicl",
    "titles": []
   },
   "ejhp": {
@@ -27561,6 +27840,112 @@
     }
    ]
   },
+  "johns hopkins university": {
+   "fetched_at": "2026-11-17T21:43:32Z",
+   "label": "Johns Hopkins University",
+   "titles": [
+    {
+     "count": 73,
+     "median_salary": 153750,
+     "title": "ASSISTANT PROFESSOR"
+    },
+    {
+     "count": 58,
+     "median_salary": 72442,
+     "title": "RESEARCH ASSOCIATE"
+    },
+    {
+     "count": 53,
+     "median_salary": 70000,
+     "title": "POSTDOCTORAL FELLOW"
+    },
+    {
+     "count": 53,
+     "median_salary": 68964,
+     "title": "POSTDOCTORAL RESEARCH FELLOW"
+    },
+    {
+     "count": 25,
+     "median_salary": 77126,
+     "title": "ASSISTANT RESEARCH SCIENTIST"
+    },
+    {
+     "count": 10,
+     "median_salary": 95142,
+     "title": "ASSOCIATE RESEARCH SCIENTIST"
+    },
+    {
+     "count": 10,
+     "median_salary": 73135,
+     "title": "RESIDENT"
+    },
+    {
+     "count": 9,
+     "median_salary": 72624,
+     "title": "SR. RESEARCH DATA ANALYST"
+    },
+    {
+     "count": 7,
+     "median_salary": 65000,
+     "title": "RESEARCH DATA ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 120000,
+     "title": "SENIOR LECTURER"
+    },
+    {
+     "count": 6,
+     "median_salary": 70000,
+     "title": "SR. RESEARCH SPECIALIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 94000,
+     "title": "ASSISTANT SCIENTIST"
+    },
+    {
+     "count": 5,
+     "median_salary": 71000,
+     "title": "LECTURER"
+    },
+    {
+     "count": 5,
+     "median_salary": 210000,
+     "title": "RESEARCH SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 82000,
+     "title": "SR. PROGRAMMER ANALYST"
+    },
+    {
+     "count": 4,
+     "median_salary": 89997,
+     "title": "CLINICAL FELLOW"
+    },
+    {
+     "count": 4,
+     "median_salary": 49460,
+     "title": "POSTDOCTORAL TEACHING FELLOW"
+    },
+    {
+     "count": 4,
+     "median_salary": 97400,
+     "title": "SR. BIOSTATISTICIAN"
+    },
+    {
+     "count": 4,
+     "median_salary": 121767,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 223600,
+     "title": "ASSISTANT PROFESSOR OF PRACTICE"
+    }
+   ]
+  },
   "johnson controls": {
    "fetched_at": "2026-11-05T12:13:08Z",
    "label": "Johnson Controls",
@@ -34485,6 +34870,112 @@
     }
    ]
   },
+  "netapp": {
+   "fetched_at": "2026-11-17T21:43:32Z",
+   "label": "NetApp",
+   "titles": [
+    {
+     "count": 110,
+     "median_salary": 153584,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 142139,
+     "title": "SOFTWARE QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 123719,
+     "title": "BUSINESS SYSTEMS ANALYST"
+    },
+    {
+     "count": 6,
+     "median_salary": 196351,
+     "title": "MANAGER, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 196606,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 130000,
+     "title": "SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 178726,
+     "title": "SYSTEMS ARCHITECT"
+    },
+    {
+     "count": 3,
+     "median_salary": 140000,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 135000,
+     "title": "INFORMATION SYSTEMS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 134491,
+     "title": "CUSTOMER SUCCESS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 193232,
+     "title": "STRATEGY &AMP; OPERATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115035,
+     "title": "ACCOUNT TECHNOLOGY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 117439,
+     "title": "BUSINESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 143000,
+     "title": "BUSINESS PROCESS ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 134493,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 255967,
+     "title": "DIRECTOR OF BUSINESS STRATEGY AND PRICING"
+    },
+    {
+     "count": 1,
+     "median_salary": 218000,
+     "title": "DIRECTOR, PRICING OPERATIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 255000,
+     "title": "DIRECTOR, PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 286270,
+     "title": "DIRECTOR, SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80554,
+     "title": "FINANCIAL ANALYST"
+    }
+   ]
+  },
   "neuralink": {
    "fetched_at": "2026-10-25T18:06:18Z",
    "label": "Neuralink",
@@ -38500,6 +38991,11 @@
   "ralliant": {
    "fetched_at": "2026-11-08T00:16:01Z",
    "label": "Ralliant",
+   "titles": []
+  },
+  "raydar": {
+   "fetched_at": "2026-11-17T21:43:33Z",
+   "label": "Raydar",
    "titles": []
   },
   "raytheon": {
@@ -44447,6 +44943,22 @@
      "count": 1,
      "median_salary": 210000,
      "title": "DIRECTOR, ENTERPRISE SYSTEMS"
+    }
+   ]
+  },
+  "slb": {
+   "fetched_at": "2026-11-17T21:43:34Z",
+   "label": "SLB",
+   "titles": []
+  },
+  "smartroof": {
+   "fetched_at": "2026-11-17T21:43:34Z",
+   "label": "SmartRoof",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 77106,
+     "title": "ADMINISTRATOR OF STRATEGIC INITIATIVES"
     }
    ]
   },

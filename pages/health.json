@@ -1,46 +1,66 @@
 {
-  "generated_at": "2026-11-17T03:43:35Z",
+  "generated_at": "2026-11-17T21:44:25Z",
   "totals": {
-    "sources": 44,
-    "discovered": 59585,
-    "valid": 18509,
-    "new": 20,
+    "sources": 46,
+    "discovered": 60360,
+    "valid": 21048,
+    "new": 1560,
     "seconds": 0.0,
     "failed": 0,
-    "closed": 85,
-    "dead_links": 2
+    "closed": 671,
+    "dead_links": 0
   },
   "run": {
     "tier": "light",
     "workers": 12,
     "published": {
-      "listings": 26869,
-      "searchtern": 64703
+      "listings": 27895,
+      "searchtern": 69040
     },
     "manifest": "pages/feed-manifest.json",
-    "generation": "20261117T034428Z-d40747d792e6",
+    "generation": "20261117T214550Z-c64318f59766",
     "publication_status": "published"
   },
   "sources": [
     {
-      "source": "md",
-      "rows": 0,
-      "new": 19,
-      "share_of_new_pct": 95.0,
+      "source": "jobhive",
+      "rows": 21048,
+      "new": 1132,
+      "share_of_new_pct": 72.56,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 13725
+      "new_7d": 6192
     },
     {
-      "source": "jobhive",
-      "rows": 18509,
-      "new": 1,
-      "share_of_new_pct": 5.0,
+      "source": "md",
+      "rows": 0,
+      "new": 425,
+      "share_of_new_pct": 27.24,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 5337
+      "new_7d": 14150
+    },
+    {
+      "source": "ecr",
+      "rows": 0,
+      "new": 2,
+      "share_of_new_pct": 0.13,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 2278
+    },
+    {
+      "source": "freehire",
+      "rows": 0,
+      "new": 1,
+      "share_of_new_pct": 0.06,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 3076
     },
     {
       "source": "md:lilguy Live Feed",
@@ -113,7 +133,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:cvrve New Grad",
+      "source": "md:vanshb03 New Grad 2027",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -123,7 +143,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:vanshb03 New Grad 2027",
+      "source": "md:cvrve New Grad",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -233,6 +253,16 @@
       "new_7d": 0
     },
     {
+      "source": "jobspy (linkedin)",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
       "source": "md:SuryaHarikrishnan Hardware",
       "rows": 0,
       "new": 0,
@@ -243,7 +273,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:speedyapply SWE 2027",
+      "source": "md:speedyapply AI 2027",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -253,7 +283,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:speedyapply AI 2027",
+      "source": "md:speedyapply SWE 2027",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -293,16 +323,6 @@
       "new_7d": 0
     },
     {
-      "source": "md:speedyapply AI Intern Intl",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
       "source": "md:zapplyjobs Internships 2027",
       "rows": 0,
       "new": 0,
@@ -323,7 +343,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:speedyapply AI New Grad USA",
+      "source": "md:speedyapply AI Intern Intl",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -334,6 +354,16 @@
     },
     {
       "source": "md:zshah101 Automated List",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI New Grad USA",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -403,16 +433,6 @@
       "new_7d": 0
     },
     {
-      "source": "jobspy (linkedin)",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
       "source": "md:LorenzoLaCorte EU Internships 2026",
       "rows": 0,
       "new": 0,
@@ -443,7 +463,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:summer2026internships",
+      "source": "jobspy (indeed)",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -453,7 +473,7 @@
       "new_7d": 0
     },
     {
-      "source": "jobspy (indeed)",
+      "source": "md:summer2026internships",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -464,11 +484,11 @@
     }
   ],
   "stale": {
-    "checked": 16,
-    "dead": 6,
+    "checked": 149,
+    "dead": 10,
     "days": 14
   },
-  "linkless": 8085,
+  "linkless": 12686,
   "alerts": [
     {
       "kind": "failing",
@@ -493,7 +513,7 @@
     {
       "kind": "quiet",
       "source": "breadth:TheMuse",
-      "detail": "49.7h since last data"
+      "detail": "67.7h since last data"
     }
   ],
   "healthy": false
