@@ -20,6 +20,23 @@ def test_every_publisher_runs_pytest_before_the_scraper():
         assert text.index("python -m pytest -q") < text.index("generate_listings.py"), name
 
 
+def test_rejected_push_merges_instead_of_rebasing_the_binary_caches():
+    """A lost push race must not kill the step.
+
+    Heavy #259-#261 failed at the commit step after 6-21s: the push was
+    rejected because a shorter run published mid-scrape, and the unguarded
+    `git pull --rebase` that followed could not merge the binary cache parquet
+    files. `run:` is bash -e, so the non-zero pull ended the step before a
+    single retry ran. Merge, and keep the remote copy of a file both runs
+    rewrote.
+    """
+    for name in PUBLISHERS:
+        text = (WORKFLOWS / name).read_text(encoding="utf-8")
+        assert "git pull --rebase" not in text, name
+        assert "git merge --no-edit -X theirs origin/main" in text, name
+        assert "git checkout --theirs" in text, name
+
+
 def test_feed_publishers_upload_assets_and_do_not_commit_the_feed():
     for name in FEED_PUBLISHERS:
         text = (WORKFLOWS / name).read_text(encoding="utf-8")

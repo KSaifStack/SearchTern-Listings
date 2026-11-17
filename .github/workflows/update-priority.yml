@@ -64,8 +64,22 @@ jobs:
                 echo "Push succeeded."
                 exit 0
               fi
-              echo "Push failed (attempt $i/5), pulling remote changes and retrying in 20s..."
-              git pull --rebase --autostash -X theirs origin main
+              echo "Push rejected (attempt $i/5); merging origin/main and retrying in 20s..."
+              # A shorter run lands its commit while this one is still scraping,
+              # so losing the push race is normal. Never rebase here: the cache
+              # parquet files are binary, a rebase over a concurrent run cannot
+              # merge them, and because `run:` is bash -e the failed pull killed
+              # the whole step in ~10s instead of retrying (heavy #259-#261).
+              # Merge and keep the remote copy of anything both runs rewrote;
+              # the next run rebuilds these caches anyway.
+              git fetch origin main || true
+              if ! git merge --no-edit -X theirs origin/main; then
+                while read -r path; do
+                  git checkout --theirs -- "$path" 2>/dev/null || git rm -q -f -- "$path"
+                done < <(git diff --name-only --diff-filter=U)
+                git add -A || true
+                git commit --no-edit --no-verify || true
+              fi
               sleep 20
             done
             echo "Push failed after 5 attempts."
