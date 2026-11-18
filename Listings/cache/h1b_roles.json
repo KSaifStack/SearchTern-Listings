@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-18T17:21:26Z",
+ "built_at": "2026-11-18T22:31:56Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -5732,6 +5732,42 @@
      "count": 2,
      "median_salary": 132631,
      "title": "MARKETING SPECIALIST"
+    }
+   ]
+  },
+  "autonation": {
+   "fetched_at": "2026-11-18T22:31:54Z",
+   "label": "AutoNation",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 105987,
+     "title": "ASSOCIATE PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80000,
+     "title": "BUSINESS INTELLIGENCE ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "DEVOPS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 115000,
+     "title": "DEVOPS SENIOR ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 105000,
+     "title": "LEAD QUALITY ASSURANCE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 150000,
+     "title": "STAFF SOFTWARE ENGINEER"
     }
    ]
   },
@@ -39986,6 +40022,22 @@
     }
    ]
   },
+  "reliable robotics": {
+   "fetched_at": "2026-11-18T22:31:54Z",
+   "label": "Reliable Robotics Corporation",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 230000,
+     "title": "SR. ELECTRICAL MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "SYSTEM INTEGRATION ENGINEER"
+    }
+   ]
+  },
   "relx": {
    "fetched_at": "2026-10-26T17:51:05Z",
    "label": "RELX",
@@ -46459,6 +46511,47 @@
      "count": 1,
      "median_salary": 95000,
      "title": "MEMBER OF TECHNICAL STAFF SENIOR SOFTWARE SYSTEM ENGINEER"
+    }
+   ]
+  },
+  "sullivan tire auto service": {
+   "fetched_at": "2026-11-18T22:31:56Z",
+   "label": "Sullivan Tire & Auto Service",
+   "titles": [
+    {
+     "count": 20,
+     "median_salary": 225000,
+     "title": "LAW CLERK"
+    },
+    {
+     "count": 14,
+     "median_salary": 225000,
+     "title": "ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 250000,
+     "title": "CORPORATE ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 210500,
+     "title": "DENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "ESTIMATOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 56000,
+     "title": "LABORATORY TECHNOLOGIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 54760,
+     "title": "NURSING QUALITY,SAFETY &AMP; NURSE ASSISTANT MANAGER"
     }
    ]
   },
