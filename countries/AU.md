@@ -1,6 +1,6 @@
 # 🇦🇺 Australia — SearchTern Listings
 
-**79 listings** as of November 18, 2026
+**78 listings** as of November 18, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -330,4 +330,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261118T125021Z-033d01949baf -->
+<!-- searchtern:generation 20261118T134409Z-d9d361708dbc -->

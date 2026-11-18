@@ -1,8 +1,3 @@
-{"ts": 1794144658.3478682, "source": "wfn:Steinberg Diagnostic Medical Imaging", "discovered": 18, "valid": 18, "new": 0, "seconds": 0.163, "status": "ok"}
-{"ts": 1794144658.3478682, "source": "wfn:Meazure Learning", "discovered": 12, "valid": 12, "new": 0, "seconds": 0.112, "status": "ok"}
-{"ts": 1794144658.3478682, "source": "bamboohr:Lunar Outpost", "discovered": 11, "valid": 11, "new": 0, "seconds": 9.068, "status": "ok"}
-{"ts": 1794144658.3478682, "source": "wfn:Arcadia", "discovered": 9, "valid": 9, "new": 0, "seconds": 0.124, "status": "ok"}
-{"ts": 1794144658.3478682, "source": "wfn:Curious Plot", "discovered": 7, "valid": 7, "new": 0, "seconds": 0.114, "status": "ok"}
 {"ts": 1794144658.3478682, "source": "wfn:Carlos Rosario Public Charter School", "discovered": 7, "valid": 7, "new": 0, "seconds": 0.102, "status": "ok"}
 {"ts": 1794144658.3478682, "source": "wfn:Canaccord Genuity", "discovered": 2, "valid": 2, "new": 0, "seconds": 0.112, "status": "ok"}
 {"ts": 1794144658.3478682, "source": "breadth:Arbeitnow", "discovered": 300, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4993,8 @@
 {"ts": 1795006153.9128509, "source": "md:zapplyjobs Canada 2027", "discovered": 125, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795006153.9128509, "source": "md:sndsh404 Summer 2027", "discovered": 124, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795006153.9128509, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795009380.6034133, "source": "ats", "discovered": 0, "valid": 0, "new": 50, "seconds": 0.0, "status": "ok"}
+{"ts": 1795009380.6034133, "source": "md", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1795009380.6034133, "source": "jobhive-closure", "discovered": 106145, "valid": 105289, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795009380.6034133, "source": "jobhive", "discovered": 0, "valid": 20715, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795009380.6034133, "source": "ats-probe", "discovered": 177362, "valid": 11097, "new": 0, "seconds": 576.136, "status": "ok"}
