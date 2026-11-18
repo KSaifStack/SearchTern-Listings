@@ -1,6 +1,6 @@
 # 🇦🇺 Australia — SearchTern Listings
 
-**72 listings** as of November 18, 2026
+**79 listings** as of November 18, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -97,6 +97,22 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntt.phenompeople.com/global/en/job/NTT1GLOBALR152370EXTERNALENGLOBAL"><strong>Ntt Data</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer (Phyton) Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jakarta Selatan<br>Jakarta Raya</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntt.phenompeople.com/global/en/job/NTT1GLOBALR152370EXTERNALENGLOBAL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntt.phenompeople.com/global/en/job/NTT1GLOBALR152368EXTERNALENGLOBAL">↳ <strong>Ntt Data</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">.NET Backend Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jakarta Selatan<br>Jakarta Raya</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntt.phenompeople.com/global/en/job/NTT1GLOBALR152368EXTERNALENGLOBAL" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">13d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/online-remote-jobs/job/L4R4Y86V"><strong>Remote Career</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Business Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Perth<br>WA<br>Australia</td>
@@ -145,6 +161,14 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/95637160" title="Howden Insurance Brokers"><strong>Howden Insurance ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/95637160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/95790715"><strong>Byd Automotive</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Specialist</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mulgrave<br>Melbourne VIC</td>
@@ -167,14 +191,6 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Junior-SOC-Analyst_R-00196321-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">13d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/95637160" title="Howden Insurance Brokers"><strong>Howden Insurance ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/95637160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4703289006"><strong>STR</strong></a></td>
@@ -257,6 +273,22 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7698366333909698869">🔥 <strong>Tiktok</strong></a></td>
+<td title="Algorithm Engineer Project Intern - TikTok Live Revenue - 2027 start - Project Intern - TikTok Global LIVE - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">Algorithm Engineer Project Intern - TikTok Li...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7698366333909698869" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">29d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002"><strong>Octagon</strong></a></td>
+<td title="Sports Consultancy and Data Analyst Intern - Futures Sport &amp; Entertainment" style="word-break:break-word; overflow-wrap:anywhere;">Sports Consultancy and Data Analyst Intern - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045606">🔥 <strong>Microsoft</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist - Computer Vision-PhD Graduate</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
@@ -296,22 +328,6 @@
 <td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7698366333909698869">🔥 <strong>Tiktok</strong></a></td>
-<td title="Algorithm Engineer Project Intern - TikTok Live Revenue - 2027 start - Project Intern - TikTok Global LIVE - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">Algorithm Engineer Project Intern - TikTok Li...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7698366333909698869" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">29d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002"><strong>Octagon</strong></a></td>
-<td title="Sports Consultancy and Data Analyst Intern - Futures Sport &amp; Entertainment" style="word-break:break-word; overflow-wrap:anywhere;">Sports Consultancy and Data Analyst Intern - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261118T073905Z-e4b9e72f55c9 -->
+<!-- searchtern:generation 20261118T080857Z-329c5bcbe712 -->
