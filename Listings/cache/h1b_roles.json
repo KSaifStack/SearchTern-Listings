@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-18T03:59:53Z",
+ "built_at": "2026-11-18T17:21:26Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -16534,6 +16534,11 @@
   "dvtrading": {
    "fetched_at": "2026-11-07T23:32:39Z",
    "label": "dvtrading",
+   "titles": []
+  },
+  "dwyeromega": {
+   "fetched_at": "2026-11-18T17:21:25Z",
+   "label": "DwyerOmega",
    "titles": []
   },
   "dxc technology": {

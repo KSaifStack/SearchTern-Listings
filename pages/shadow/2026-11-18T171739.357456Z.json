@@ -11,14 +11,41 @@
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 21908,
+   "count": 21650,
    "kind": "ats_identity_split"
+  },
+  {
+   "ats_id": "104563",
+   "ats_types": [
+    "cornerstone",
+    "ycombinator"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "10810",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
   },
   {
    "ats_id": "10822",
    "ats_types": [
     "cornerstone",
     "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "10826",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -123,10 +150,37 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "13575",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "13668",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "1376",
    "ats_types": [
     "cornerstone",
     "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1393",
+   "ats_types": [
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -159,9 +213,9 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "14407",
+   "ats_id": "14461",
    "ats_types": [
-    "cornerstone",
+    "icims",
     "taleo"
    ],
    "count": 2,
@@ -213,7 +267,7 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "15684",
+   "ats_id": "15683",
    "ats_types": [
     "icims",
     "taleo"
@@ -295,6 +349,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "15783",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "15882",
    "ats_types": [
     "icims",
@@ -317,6 +380,15 @@
    "ats_types": [
     "cornerstone",
     "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "16021",
+   "ats_types": [
+    "cornerstone",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -349,15 +421,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1689",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "1702",
    "ats_types": [
     "cornerstone",
@@ -371,6 +434,24 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1714",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1729",
+   "ats_types": [
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -395,6 +476,15 @@
   },
   {
    "ats_id": "1752",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1753",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -457,7 +547,7 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "18263",
+   "ats_id": "18392",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -467,6 +557,15 @@
   },
   {
    "ats_id": "189",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "190",
    "ats_types": [
     "bamboohr",
     "cornerstone"
@@ -512,6 +611,24 @@
   },
   {
    "ats_id": "2063",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21111",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21112",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -611,6 +728,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "2183",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "2184",
    "ats_types": [
     "cornerstone",
@@ -630,6 +756,15 @@
   },
   {
    "ats_id": "2187",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2193",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -710,6 +845,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "30955",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "3133",
    "ats_types": [
     "icims",
@@ -737,6 +881,33 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3223",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "32324",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "32328",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "324",
    "ats_types": [
     "bamboohr",
@@ -746,10 +917,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "326",
+   "ats_id": "3253",
    "ats_types": [
-    "bamboohr",
-    "cornerstone"
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -782,10 +953,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "35782",
+   "ats_id": "340",
    "ats_types": [
-    "icims",
-    "phenom"
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -798,6 +969,15 @@
     "taleo"
    ],
    "count": 3,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3711",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -829,6 +1009,15 @@
   },
   {
    "ats_id": "3768",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3845",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -873,19 +1062,28 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "486",
+   "ats_id": "4501",
    "ats_types": [
-    "bamboohr",
-    "taleo"
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4939",
+   "ats_id": "4682",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "486",
    "ats_types": [
     "bamboohr",
-    "cornerstone"
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -909,6 +1107,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "5104",
+   "ats_types": [
+    "bamboohr",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "5110",
    "ats_types": [
     "bamboohr",
@@ -922,6 +1129,33 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5128",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5130",
+   "ats_types": [
+    "bamboohr",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5135",
+   "ats_types": [
+    "bamboohr",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -963,6 +1197,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "6525",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "6642",
    "ats_types": [
     "cornerstone",
@@ -981,7 +1224,16 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "7950",
+   "ats_id": "75514",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "8235",
    "ats_types": [
     "icims",
     "phenom"
@@ -1081,71 +1333,71 @@
   }
  ],
  "base": {
-  "identities": 70910,
+  "identities": 72714,
   "path": "pages/searchtern.json",
-  "rows": 70910
+  "rows": 72714
  },
  "dropped_at_write": {
   "by_reason": {
-   "blocked_company": 1931,
-   "duplicate_id": 739,
-   "duplicate_url": 651,
-   "inactive": 10664,
-   "no_apply_link": 10565,
-   "non_english": 1630
+   "blocked_company": 1925,
+   "duplicate_id": 811,
+   "duplicate_url": 677,
+   "inactive": 10672,
+   "no_apply_link": 10644,
+   "non_english": 1670
   },
   "by_source": {
-   "heavy": 2182,
-   "jobspy": 46,
-   "light": 23683,
+   "echo": 79,
+   "heavy": 2310,
+   "jobspy": 41,
+   "light": 23700,
    "priority": 269
   },
-  "count": 26180,
+  "count": 26399,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
   "by_source": {
-   "echo": 79,
-   "heavy": 5441,
-   "jobspy": 676,
-   "light": 17299,
-   "priority": 75,
-   "skill": 6
+   "heavy": 5655,
+   "jobspy": 262,
+   "light": 17258,
+   "priority": 74,
+   "skill": 5
   },
-  "count": 23576
+  "count": 23254
  },
  "expired": [
   {
-   "age_hours": -0.04,
-   "rows": 698,
+   "age_hours": -0.05,
+   "rows": 694,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.03,
-   "rows": 28,
+   "rows": 31,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.01,
-   "rows": 5532,
+   "age_hours": -0.02,
+   "rows": 5504,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
    "age_hours": -0.01,
-   "rows": 65385,
+   "rows": 67647,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.02,
-   "rows": 5757,
+   "age_hours": -0.03,
+   "rows": 5849,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
@@ -1155,8 +1407,8 @@
   "additions": {
    "attributed": 593,
    "reason": "the source that first supplied the identity key",
-   "total": 476,
-   "unattributed": -117
+   "total": 463,
+   "unattributed": -130
   },
   "removals": {
    "all": [],
@@ -1166,7 +1418,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-18T07:32:35.152204+00:00",
+ "generated_at": "2026-11-18T17:17:39.357456+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1194,81 +1446,81 @@
  "source_contributions": [
   {
    "added": 0,
-   "age_hours": 3.56,
+   "age_hours": 3.6,
    "class": "direct_ats",
-   "duplicates": 5441,
-   "rows": 10873,
-   "rows_after_scope": 7623,
-   "rows_publishable": 5441,
+   "duplicates": 5655,
+   "rows": 11097,
+   "rows_after_scope": 7965,
+   "rows_publishable": 5655,
    "source": "heavy",
-   "stale": true
+   "stale": false
   },
   {
    "added": 0,
-   "age_hours": 7.8,
+   "age_hours": 9.28,
    "class": "priority_ats",
-   "duplicates": 75,
-   "rows": 353,
-   "rows_after_scope": 344,
-   "rows_publishable": 75,
+   "duplicates": 74,
+   "rows": 352,
+   "rows_after_scope": 343,
+   "rows_publishable": 74,
    "source": "priority",
    "stale": false
   },
   {
    "added": 593,
-   "age_hours": 4.15,
+   "age_hours": 4.55,
    "class": "markdown",
-   "duplicates": 17299,
-   "rows": 42716,
-   "rows_after_scope": 41575,
-   "rows_publishable": 17892,
+   "duplicates": 17258,
+   "rows": 42689,
+   "rows_after_scope": 41551,
+   "rows_publishable": 17851,
    "source": "light",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 4.11,
+   "age_hours": 4.49,
    "class": "aggregators",
-   "duplicates": 676,
-   "rows": 724,
-   "rows_after_scope": 722,
-   "rows_publishable": 676,
+   "duplicates": 262,
+   "rows": 303,
+   "rows_after_scope": 303,
+   "rows_publishable": 262,
    "source": "jobspy",
-   "stale": true
+   "stale": false
   },
   {
    "added": 0,
-   "age_hours": 4.14,
+   "age_hours": 4.54,
    "class": "specialty",
-   "duplicates": 79,
+   "duplicates": 0,
    "rows": 92,
    "rows_after_scope": 79,
-   "rows_publishable": 79,
+   "rows_publishable": 0,
    "source": "echo",
    "stale": true
   },
   {
    "added": 0,
-   "age_hours": 4.14,
+   "age_hours": 4.54,
    "class": "specialty",
-   "duplicates": 6,
-   "rows": 6,
-   "rows_after_scope": 6,
-   "rows_publishable": 6,
+   "duplicates": 5,
+   "rows": 5,
+   "rows_after_scope": 5,
+   "rows_publishable": 5,
    "source": "skill",
    "stale": false
   }
  ],
  "summary": {
-  "added": 476,
-  "ats_conflicts": 119,
-  "dropped_at_write": 26180,
-  "duplicates": 23576,
+  "added": 463,
+  "ats_conflicts": 147,
+  "dropped_at_write": 26399,
+  "duplicates": 23254,
   "expired_snapshots": 5,
-  "production_rows": 70910,
+  "production_rows": 72714,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 71386,
+  "shadow_rows": 73177,
   "unexplained_removed": 0
  }
 }
