@@ -1,76 +1,76 @@
 {
-  "generated_at": "2026-11-18T17:17:39.357456+00:00",
-  "total": 53556,
+  "generated_at": "2026-11-18T17:31:22.704788+00:00",
+  "total": 53554,
   "per_source": {
-    "jobhive": 13743,
-    "ats": 3913,
-    "freehire": 3623,
+    "jobhive": 13645,
+    "ats": 4142,
+    "freehire": 3649,
     "SimplifyJobs Off-Season 2027": 3610,
-    "vanshb03 Summer 2027": 2879,
-    "aprameyak Summer 2027": 2183,
+    "vanshb03 Summer 2027": 2880,
+    "aprameyak Summer 2027": 2189,
     "lilguy Live Feed": 2115,
-    "SimplifyJobs New Grad": 1990,
-    "cvrve New Grad": 1954,
-    "SuryaHarikrishnan Other 2027": 1762,
-    "ecr": 1509,
-    "GodlyDonuts keryx Internships": 1409,
-    "aprameyak New Grad 2027": 1180,
+    "SimplifyJobs New Grad": 1988,
+    "cvrve New Grad": 1958,
+    "SuryaHarikrishnan Other 2027": 1763,
+    "ecr": 1506,
+    "GodlyDonuts keryx Internships": 1410,
+    "aprameyak New Grad 2027": 1145,
     "vanshb03 Off-Season": 862,
-    "SuryaHarikrishnan SWE Track": 824,
-    "speedyapply SWE New Grad USA": 823,
-    "SuryaHarikrishnan DS/AI": 807,
-    "aprameyak Off-Cycle/Co-op": 681,
-    "speedyapply AI 2027": 577,
+    "speedyapply SWE New Grad USA": 818,
+    "SuryaHarikrishnan SWE Track": 811,
+    "SuryaHarikrishnan DS/AI": 797,
+    "aprameyak Off-Cycle/Co-op": 671,
+    "speedyapply AI 2027": 573,
     "speedyapply SWE New Grad Intl": 567,
-    "SuryaHarikrishnan Hardware": 562,
+    "SuryaHarikrishnan Hardware": 553,
     "speedyapply AI New Grad USA": 514,
-    "speedyapply SWE 2027": 506,
+    "speedyapply SWE 2027": 505,
     "negarprh Canada 2027": 446,
-    "zapplyjobs New Grad SWE 2027": 433,
-    "speedyapply AI New Grad Intl": 421,
-    "zapplyjobs Internships 2027": 410,
-    "zapplyjobs New Grad 2027": 393,
+    "zapplyjobs New Grad SWE 2027": 438,
+    "speedyapply AI New Grad Intl": 425,
+    "zapplyjobs Internships 2027": 413,
+    "zapplyjobs New Grad 2027": 394,
     "speedyapply SWE 2027 Intern Intl": 385,
     "speedyapply AI Intern Intl": 385,
-    "zapplyjobs New Grad Data Science 2027": 314,
-    "jobspy": 232,
-    "zshah101 Summer 2027 US": 201,
-    "SuryaHarikrishnan Product": 181,
+    "zapplyjobs New Grad Data Science 2027": 317,
+    "zshah101 Summer 2027 US": 200,
+    "SuryaHarikrishnan Product": 179,
+    "ApplyGuy New Grad": 164,
+    "zshah101 Automated List": 164,
     "GodlyDonuts keryx New Grad": 162,
     "LorenzoLaCorte EU Internships 2026": 153,
-    "zshah101 Automated List": 153,
-    "ApplyGuy New Grad": 129,
-    "zapplyjobs Canada 2027": 114,
-    "SimplifyJobs Summer 2027": 94,
-    "sndsh404 Summer 2027": 92,
-    "SuryaHarikrishnan Quant": 90,
+    "zapplyjobs Canada 2027": 115,
+    "SimplifyJobs Summer 2027": 96,
+    "jobspy": 95,
+    "sndsh404 Summer 2027": 91,
+    "SuryaHarikrishnan Quant": 86,
     "echojobs": 76,
     "priority": 55,
     "summer2026internships": 36,
     "breadth": 6,
     "skillexchange": 2
   },
-  "new": 1309,
-  "closed": 771,
-  "dead_links": 4,
-  "stale_checked": 28,
+  "new": 127,
+  "closed": 309,
+  "dead_links": 5,
+  "stale_checked": 23,
   "stale_dead": 6,
-  "linkless_rows": 12698,
+  "linkless_rows": 12776,
   "linkless_by_source": {
-    "SimplifyJobs Off-Season 2027": 3575,
+    "SimplifyJobs Off-Season 2027": 3578,
     "jobhive": 2449,
     "SimplifyJobs New Grad": 1607,
-    "cvrve New Grad": 1167,
-    "vanshb03 Summer 2027": 990,
-    "freehire": 689,
+    "cvrve New Grad": 1169,
+    "vanshb03 Summer 2027": 998,
+    "freehire": 720,
     "negarprh Canada 2027": 445,
     "vanshb03 Off-Season": 393,
-    "zapplyjobs New Grad SWE 2027": 346,
-    "zapplyjobs New Grad 2027": 320,
-    "zapplyjobs Internships 2027": 318,
-    "zapplyjobs New Grad Data Science 2027": 244,
-    "zapplyjobs Canada 2027": 79,
-    "jobspy": 28,
+    "zapplyjobs New Grad SWE 2027": 351,
+    "zapplyjobs New Grad 2027": 331,
+    "zapplyjobs Internships 2027": 325,
+    "zapplyjobs New Grad Data Science 2027": 251,
+    "zapplyjobs Canada 2027": 80,
+    "jobspy": 31,
     "ats": 25,
     "speedyapply AI New Grad Intl": 7,
     "aprameyak New Grad 2027": 6,
@@ -82,14 +82,14 @@
     "breadth": 1
   },
   "apply_link_rejections": {
-    "no_http_link": 8212,
-    "unusable_http_link": 4486
+    "no_http_link": 8225,
+    "unusable_http_link": 4551
   },
   "verification": {
-    "new_checked": 200,
-    "new_dead": 4,
-    "stale_eligible": 28,
-    "stale_checked": 28,
+    "new_checked": 131,
+    "new_dead": 5,
+    "stale_eligible": 23,
+    "stale_checked": 23,
     "stale_dead": 6,
     "rotating": true
   },
@@ -103,13 +103,174 @@
     "priority": true,
     "md": true
   },
-  "markdown_source_stats": [],
+  "markdown_source_stats": [
+    {
+      "name": "zapplyjobs Canada 2027",
+      "rows": 126
+    },
+    {
+      "name": "speedyapply AI New Grad USA",
+      "rows": 555
+    },
+    {
+      "name": "sndsh404 Summer 2027",
+      "rows": 124
+    },
+    {
+      "name": "speedyapply SWE 2027",
+      "rows": 831
+    },
+    {
+      "name": "zapplyjobs New Grad Data Science 2027",
+      "rows": 354
+    },
+    {
+      "name": "zapplyjobs Internships 2027",
+      "rows": 600
+    },
+    {
+      "name": "speedyapply AI 2027",
+      "rows": 833
+    },
+    {
+      "name": "speedyapply SWE New Grad USA",
+      "rows": 913
+    },
+    {
+      "name": "zapplyjobs New Grad 2027",
+      "rows": 600
+    },
+    {
+      "name": "SimplifyJobs New Grad",
+      "rows": 2588
+    },
+    {
+      "name": "vanshb03 Summer 2027",
+      "rows": 3025
+    },
+    {
+      "name": "zapplyjobs New Grad SWE 2027",
+      "rows": 487
+    },
+    {
+      "name": "LorenzoLaCorte EU Internships 2026",
+      "rows": 168
+    },
+    {
+      "name": "vanshb03 Off-Season",
+      "rows": 916
+    },
+    {
+      "name": "SuryaHarikrishnan SWE Track",
+      "rows": 1401
+    },
+    {
+      "name": "SuryaHarikrishnan Hardware",
+      "rows": 872
+    },
+    {
+      "name": "summer2026internships",
+      "rows": 100
+    },
+    {
+      "name": "SuryaHarikrishnan Quant",
+      "rows": 210
+    },
+    {
+      "name": "negarprh Canada 2027",
+      "rows": 784
+    },
+    {
+      "name": "SuryaHarikrishnan Other 2027",
+      "rows": 1829
+    },
+    {
+      "name": "SuryaHarikrishnan Product",
+      "rows": 270
+    },
+    {
+      "name": "speedyapply SWE 2027 Intern Intl",
+      "rows": 622
+    },
+    {
+      "name": "speedyapply SWE New Grad Intl",
+      "rows": 795
+    },
+    {
+      "name": "speedyapply AI New Grad Intl",
+      "rows": 517
+    },
+    {
+      "name": "SuryaHarikrishnan DS/AI",
+      "rows": 1750
+    },
+    {
+      "name": "speedyapply AI Intern Intl",
+      "rows": 596
+    },
+    {
+      "name": "vanshb03 Summer 2026",
+      "rows": 3025
+    },
+    {
+      "name": "SimplifyJobs Summer 2027",
+      "rows": 1320
+    },
+    {
+      "name": "zshah101 Automated List",
+      "rows": 558
+    },
+    {
+      "name": "aprameyak Off-Cycle/Co-op",
+      "rows": 1170
+    },
+    {
+      "name": "ApplyGuy New Grad",
+      "rows": 276
+    },
+    {
+      "name": "aprameyak New Grad 2027",
+      "rows": 1531
+    },
+    {
+      "name": "aprameyak Summer 2027",
+      "rows": 4379
+    },
+    {
+      "name": "cvrve New Grad",
+      "rows": 2095
+    },
+    {
+      "name": "GodlyDonuts keryx New Grad",
+      "rows": 1223
+    },
+    {
+      "name": "zshah101 Summer 2027 US",
+      "rows": 1243
+    },
+    {
+      "name": "SimplifyJobs Off-Season 2027",
+      "rows": 5211
+    },
+    {
+      "name": "vanshb03 New Grad 2027",
+      "rows": 2095
+    },
+    {
+      "name": "GodlyDonuts keryx Internships",
+      "rows": 5098
+    },
+    {
+      "name": "lilguy Live Feed",
+      "rows": 8398
+    }
+  ],
   "published": {
-    "listings": 28720,
-    "searchtern": 72714
+    "listings": 28747,
+    "searchtern": 72757
   },
   "published_manifest": "pages/feed-manifest.json",
   "total_stage": "pre_write_candidate_rows",
-  "generation": "20261118T172320Z-f10ca65c0ceb",
+  "generation": "20261118T174206Z-4fb25f8a2b7d",
   "publication_status": "published"
 }

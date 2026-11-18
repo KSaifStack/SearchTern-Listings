@@ -4,14 +4,23 @@
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 19529,
+   "count": 21442,
    "kind": "ats_identity_split"
   },
   {
-   "ats_id": "10596",
+   "ats_id": "104563",
    "ats_types": [
-    "eightfold",
-    "icims"
+    "cornerstone",
+    "ycombinator"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "10810",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -21,6 +30,15 @@
    "ats_types": [
     "cornerstone",
     "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "10826",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -116,15 +134,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "13103",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "135",
    "ats_types": [
     "bamboohr",
@@ -135,6 +144,15 @@
   },
   {
    "ats_id": "13575",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "13668",
    "ats_types": [
     "icims",
     "phenom"
@@ -188,9 +206,9 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "14407",
+   "ats_id": "14461",
    "ats_types": [
-    "cornerstone",
+    "icims",
     "taleo"
    ],
    "count": 2,
@@ -200,15 +218,6 @@
    "ats_id": "15406",
    "ats_types": [
     "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1546",
-   "ats_types": [
-    "bamboohr",
     "icims"
    ],
    "count": 2,
@@ -251,7 +260,7 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "15684",
+   "ats_id": "15683",
    "ats_types": [
     "icims",
     "taleo"
@@ -333,6 +342,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "15783",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "15882",
    "ats_types": [
     "icims",
@@ -360,6 +378,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "16021",
+   "ats_types": [
+    "cornerstone",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "16242",
    "ats_types": [
     "cornerstone",
@@ -379,15 +406,6 @@
   },
   {
    "ats_id": "1683",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1689",
    "ats_types": [
     "bamboohr",
     "cornerstone"
@@ -459,6 +477,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "1753",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "1756",
    "ats_types": [
     "cornerstone",
@@ -513,7 +540,7 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "18263",
+   "ats_id": "18392",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -531,18 +558,18 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1978",
+   "ats_id": "190",
    "ats_types": [
     "bamboohr",
-    "icims"
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1987",
+   "ats_id": "1978",
    "ats_types": [
-    "cornerstone",
+    "bamboohr",
     "icims"
    ],
    "count": 2,
@@ -585,6 +612,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "21111",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "21112",
    "ats_types": [
     "cornerstone",
@@ -595,15 +631,6 @@
   },
   {
    "ats_id": "21117",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "21408",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -628,15 +655,6 @@
     "taleo"
    ],
    "count": 3,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "21518",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -685,15 +703,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21763",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "2181",
    "ats_types": [
     "cornerstone",
@@ -704,6 +713,15 @@
   },
   {
    "ats_id": "2182",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2183",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -731,6 +749,15 @@
   },
   {
    "ats_id": "2187",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2193",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -811,6 +838,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "30955",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "3133",
    "ats_types": [
     "icims",
@@ -838,6 +874,33 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3223",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "32324",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "32328",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "324",
    "ats_types": [
     "bamboohr",
@@ -851,15 +914,6 @@
    "ats_types": [
     "cornerstone",
     "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "326",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -892,28 +946,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3469",
+   "ats_id": "340",
    "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3471",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "35782",
-   "ats_types": [
-    "icims",
-    "phenom"
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1001,24 +1037,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4125",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "4178",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "44167",
    "ats_types": [
     "eightfold",
@@ -1064,15 +1082,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4939",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "494",
    "ats_types": [
     "bamboohr",
@@ -1086,15 +1095,6 @@
    "ats_types": [
     "icims",
     "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "5101",
-   "ats_types": [
-    "bamboohr",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1190,15 +1190,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "6463",
-   "ats_types": [
-    "icims",
-    "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "6525",
    "ats_types": [
     "icims",
@@ -1226,10 +1217,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "7950",
+   "ats_id": "75514",
    "ats_types": [
-    "icims",
-    "phenom"
+    "eightfold",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1335,9 +1326,9 @@
   }
  ],
  "base": {
-  "identities": 67849,
+  "identities": 72757,
   "path": "pages/searchtern.json",
-  "rows": 67849
+  "rows": 72757
  },
  "dropped_at_write": {
   "by_reason": {},
@@ -1351,78 +1342,78 @@
  },
  "expired": [
   {
-   "age_hours": -0.04,
-   "rows": 816,
+   "age_hours": -0.06,
+   "rows": 807,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.02,
-   "rows": 28,
+   "age_hours": -0.04,
+   "rows": 32,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.1,
+   "age_hours": -0.11,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
    "ttl_hours": 168
   },
   {
-   "age_hours": -0.01,
-   "rows": 5523,
+   "age_hours": -0.03,
+   "rows": 5504,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.08,
-   "rows": 3922,
+   "age_hours": -0.09,
+   "rows": 11097,
    "source": "heavy",
-   "status": "ok:recovered",
+   "status": "rejected:shrunken",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.01,
-   "rows": 65385,
+   "age_hours": -0.03,
+   "rows": 67647,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.18,
-   "rows": 475,
+   "age_hours": -0.14,
+   "rows": 200,
    "source": "jobspy",
-   "status": "ok:recovered",
+   "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.09,
-   "rows": 42736,
+   "age_hours": -0.1,
+   "rows": 42708,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.02,
-   "rows": 5822,
+   "age_hours": -0.04,
+   "rows": 5837,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.09,
+   "age_hours": -0.1,
    "rows": 352,
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.1,
-   "rows": 7,
+   "age_hours": -0.11,
+   "rows": 5,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168
@@ -1432,8 +1423,8 @@
   "additions": {
    "attributed": 0,
    "reason": "the source that first supplied the identity key",
-   "total": -102,
-   "unattributed": -102
+   "total": -126,
+   "unattributed": -126
   },
   "removals": {
    "all": [],
@@ -1443,7 +1434,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-18T07:55:16.171078+00:00",
+ "generated_at": "2026-11-18T17:31:22.704788+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1470,15 +1461,15 @@
  },
  "source_contributions": [],
  "summary": {
-  "added": -102,
-  "ats_conflicts": 148,
+  "added": -126,
+  "ats_conflicts": 147,
   "dropped_at_write": 0,
   "duplicates": 0,
   "expired_snapshots": 11,
-  "production_rows": 67849,
+  "production_rows": 72757,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 67747,
+  "shadow_rows": 72631,
   "unexplained_removed": 0
  }
 }
