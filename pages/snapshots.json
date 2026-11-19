@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T02:11:40.214940+00:00",
+ "generated_at": "2026-11-19T03:02:44.579986+00:00",
  "policy": {
   "ttl_hours": {
    "priority_ats": 24,
@@ -63,8 +63,8 @@
  "serving_previous": [
   "echo"
  ],
- "rows_fresh": 128589,
- "rows_eligible": 128681,
+ "rows_fresh": 128490,
+ "rows_eligible": 128582,
  "sources": {
   "ats_new": {
    "class": "direct_ats",
@@ -84,7 +84,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.15,
+   "age_hours": 1.0,
    "fresh": true,
    "servable": true
   },
@@ -106,16 +106,16 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.16,
+   "age_hours": 1.02,
    "fresh": true,
    "servable": true
   },
   "echo": {
    "class": "specialty",
    "etag": "",
-   "fetched_at": "2026-11-19T02:07:27.817900+00:00",
+   "fetched_at": "2026-11-19T03:00:02.629156+00:00",
    "provenance": "fetch",
-   "rejections": 40,
+   "rejections": 41,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
@@ -128,7 +128,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.07,
+   "age_hours": 0.04,
    "fresh": false,
    "servable": true
   },
@@ -150,7 +150,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.18,
+   "age_hours": 1.03,
    "fresh": true,
    "servable": true
   },
@@ -172,14 +172,14 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.09,
+   "age_hours": 0.94,
    "fresh": true,
    "servable": true
   },
   "jobhive": {
    "class": "jobhive",
    "etag": "",
-   "fetched_at": "2026-11-19T02:00:46.192916+00:00",
+   "fetched_at": "2026-11-19T02:58:52.445264+00:00",
    "provenance": "fetch",
    "rejections": 0,
    "rows": 67352,
@@ -194,17 +194,17 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.18,
+   "age_hours": 0.06,
    "fresh": true,
    "servable": true
   },
   "jobspy": {
    "class": "aggregators",
    "etag": "",
-   "fetched_at": "2026-11-19T02:11:08.167340+00:00",
+   "fetched_at": "2026-11-19T03:02:12.619387+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 368,
+   "rows": 269,
    "source": "jobspy",
    "status": "ok",
    "ttl_hours": 72,
@@ -223,10 +223,10 @@
   "light": {
    "class": "markdown",
    "etag": "",
-   "fetched_at": "2026-11-19T02:06:37.667179+00:00",
+   "fetched_at": "2026-11-19T02:59:18.834283+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 43045,
+   "rows": 43046,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48,
@@ -238,7 +238,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.08,
+   "age_hours": 0.06,
    "fresh": true,
    "servable": true
   },
@@ -260,7 +260,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.17,
+   "age_hours": 1.02,
    "fresh": true,
    "servable": true
   },
@@ -282,17 +282,17 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.09,
+   "age_hours": 0.94,
    "fresh": true,
    "servable": true
   },
   "skill": {
    "class": "specialty",
    "etag": "",
-   "fetched_at": "2026-11-19T02:07:18.274495+00:00",
+   "fetched_at": "2026-11-19T02:59:53.315968+00:00",
    "provenance": "fetch",
    "rejections": 0,
-   "rows": 5,
+   "rows": 4,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168,
@@ -304,7 +304,7 @@
    "class_match": true,
    "ttl_match": true,
    "seeded": false,
-   "age_hours": 0.07,
+   "age_hours": 0.05,
    "fresh": true,
    "servable": true
   }
