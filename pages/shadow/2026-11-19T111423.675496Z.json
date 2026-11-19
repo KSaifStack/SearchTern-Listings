@@ -1,20 +1,24 @@
 {
- "additions": [],
+ "additions": [
+  {
+   "added": 235,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "medium"
+  },
+  {
+   "added": 189,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "ecr"
+  }
+ ],
  "ats_conflicts": [
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 19834,
+   "count": 21222,
    "kind": "ats_identity_split"
-  },
-  {
-   "ats_id": "10596",
-   "ats_types": [
-    "eightfold",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
   },
   {
    "ats_id": "10810",
@@ -125,15 +129,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "13103",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "135",
    "ats_types": [
     "bamboohr",
@@ -218,15 +213,6 @@
    "ats_id": "15406",
    "ats_types": [
     "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1546",
-   "ats_types": [
-    "bamboohr",
     "icims"
    ],
    "count": 2,
@@ -585,15 +571,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1987",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "201",
    "ats_types": [
     "bamboohr",
@@ -657,15 +634,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21408",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "2147",
    "ats_types": [
     "cornerstone",
@@ -682,15 +650,6 @@
     "taleo"
    ],
    "count": 3,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "21518",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -731,15 +690,6 @@
   },
   {
    "ats_id": "2172",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "21763",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -1000,24 +950,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3469",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3471",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "370",
    "ats_types": [
     "bamboohr",
@@ -1100,24 +1032,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4125",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "4178",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "44167",
    "ats_types": [
     "eightfold",
@@ -1176,15 +1090,6 @@
    "ats_types": [
     "icims",
     "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "5101",
-   "ats_types": [
-    "bamboohr",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1275,15 +1180,6 @@
    "ats_types": [
     "cornerstone",
     "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "6463",
-   "ats_types": [
-    "icims",
-    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1425,55 +1321,49 @@
   }
  ],
  "base": {
-  "identities": 71654,
+  "identities": 71188,
   "path": "pages/searchtern.json",
-  "rows": 71654
+  "rows": 71188
  },
  "dropped_at_write": {
-  "by_reason": {},
-  "by_source": {},
-  "count": 0,
+  "by_reason": {
+   "blocked_company": 17,
+   "duplicate_id": 169,
+   "duplicate_url": 497,
+   "empty_company": 28,
+   "inactive": 3296,
+   "no_apply_link": 725,
+   "non_english": 1124
+  },
+  "by_source": {
+   "ats_new": 174,
+   "breadth": 11,
+   "ecr": 2087,
+   "heavy": 1381,
+   "medium": 2120,
+   "priority": 83
+  },
+  "count": 5856,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
-  "by_source": {},
-  "count": 0
+  "by_source": {
+   "ats_new": 540,
+   "breadth": 23,
+   "ecr": 2897,
+   "heavy": 1464,
+   "medium": 3066,
+   "priority": 254
+  },
+  "count": 8244
  },
  "expired": [
   {
-   "age_hours": -0.05,
-   "rows": 821,
-   "source": "ats_new",
-   "status": "ok",
-   "ttl_hours": 48
-  },
-  {
    "age_hours": -0.03,
-   "rows": 30,
-   "source": "breadth",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.12,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
    "ttl_hours": 168
-  },
-  {
-   "age_hours": -0.01,
-   "rows": 5565,
-   "source": "ecr",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.1,
-   "rows": 5247,
-   "source": "heavy",
-   "status": "ok:recovered",
-   "ttl_hours": 48
   },
   {
    "age_hours": -0.01,
@@ -1483,36 +1373,22 @@
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.19,
-   "rows": 368,
+   "age_hours": -0.03,
+   "rows": 269,
    "source": "jobspy",
-   "status": "ok",
+   "status": "rejected:shrunken",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.11,
-   "rows": 43045,
+   "age_hours": -0.02,
+   "rows": 42976,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.03,
-   "rows": 5810,
-   "source": "medium",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.11,
-   "rows": 346,
-   "source": "priority",
-   "status": "ok",
-   "ttl_hours": 24
-  },
-  {
-   "age_hours": -0.12,
-   "rows": 5,
+   "rows": 4,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168
@@ -1520,10 +1396,10 @@
  ],
  "explained": {
   "additions": {
-   "attributed": 0,
+   "attributed": 424,
    "reason": "the source that first supplied the identity key",
-   "total": -124,
-   "unattributed": -124
+   "total": 303,
+   "unattributed": -121
   },
   "removals": {
    "all": [],
@@ -1533,7 +1409,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-19T01:59:59.759624+00:00",
+ "generated_at": "2026-11-19T11:14:23.675496+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1558,17 +1434,84 @@
   "reason": "production base is merged first, so a loss here is a bug",
   "samples": []
  },
- "source_contributions": [],
+ "source_contributions": [
+  {
+   "added": 0,
+   "age_hours": 0.79,
+   "class": "direct_ats",
+   "duplicates": 540,
+   "rows": 823,
+   "rows_after_scope": 714,
+   "rows_publishable": 540,
+   "source": "ats_new",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 7.16,
+   "class": "direct_ats",
+   "duplicates": 1464,
+   "rows": 5721,
+   "rows_after_scope": 2845,
+   "rows_publishable": 1464,
+   "source": "heavy",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 9.13,
+   "class": "priority_ats",
+   "duplicates": 254,
+   "rows": 346,
+   "rows_after_scope": 337,
+   "rows_publishable": 254,
+   "source": "priority",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 0.8,
+   "class": "aggregators",
+   "duplicates": 23,
+   "rows": 34,
+   "rows_after_scope": 34,
+   "rows_publishable": 23,
+   "source": "breadth",
+   "stale": false
+  },
+  {
+   "added": 189,
+   "age_hours": 0.81,
+   "class": "aggregators",
+   "duplicates": 2897,
+   "rows": 5555,
+   "rows_after_scope": 5173,
+   "rows_publishable": 3086,
+   "source": "ecr",
+   "stale": false
+  },
+  {
+   "added": 235,
+   "age_hours": 0.81,
+   "class": "aggregators",
+   "duplicates": 3066,
+   "rows": 5833,
+   "rows_after_scope": 5421,
+   "rows_publishable": 3301,
+   "source": "medium",
+   "stale": false
+  }
+ ],
  "summary": {
-  "added": -124,
-  "ats_conflicts": 158,
-  "dropped_at_write": 0,
-  "duplicates": 0,
-  "expired_snapshots": 11,
-  "production_rows": 71654,
+  "added": 303,
+  "ats_conflicts": 145,
+  "dropped_at_write": 5856,
+  "duplicates": 8244,
+  "expired_snapshots": 5,
+  "production_rows": 71188,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 71530,
+  "shadow_rows": 71491,
   "unexplained_removed": 0
  }
 }
