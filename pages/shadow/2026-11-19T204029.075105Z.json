@@ -1,7 +1,7 @@
 {
  "additions": [
   {
-   "added": 623,
+   "added": 706,
    "samples": [],
    "samples_truncated": true,
    "source": "light"
@@ -11,8 +11,17 @@
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 21296,
+   "count": 20561,
    "kind": "ats_identity_split"
+  },
+  {
+   "ats_id": "10596",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
   },
   {
    "ats_id": "10810",
@@ -123,6 +132,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "13103",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "135",
    "ats_types": [
     "bamboohr",
@@ -207,6 +225,15 @@
    "ats_id": "15406",
    "ats_types": [
     "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1546",
+   "ats_types": [
+    "bamboohr",
     "icims"
    ],
    "count": 2,
@@ -565,6 +592,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "1987",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "201",
    "ats_types": [
     "bamboohr",
@@ -628,6 +664,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "21408",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "2147",
    "ats_types": [
     "cornerstone",
@@ -644,6 +689,15 @@
     "taleo"
    ],
    "count": 3,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21518",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -684,6 +738,15 @@
   },
   {
    "ats_id": "2172",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21763",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -944,6 +1007,24 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3469",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3471",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "370",
    "ats_types": [
     "bamboohr",
@@ -1026,6 +1107,24 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "4125",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "4178",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "44167",
    "ats_types": [
     "eightfold",
@@ -1084,6 +1183,15 @@
    "ats_types": [
     "icims",
     "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5101",
+   "ats_types": [
+    "bamboohr",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1174,6 +1282,15 @@
    "ats_types": [
     "cornerstone",
     "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "6463",
+   "ats_types": [
+    "icims",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1315,57 +1432,57 @@
   }
  ],
  "base": {
-  "identities": 71149,
+  "identities": 70707,
   "path": "pages/searchtern.json",
-  "rows": 71149
+  "rows": 70707
  },
  "dropped_at_write": {
   "by_reason": {
-   "blocked_company": 1921,
-   "duplicate_id": 64,
-   "duplicate_url": 493,
-   "inactive": 9872,
-   "no_apply_link": 10666,
-   "non_english": 1416
+   "blocked_company": 1905,
+   "duplicate_id": 194,
+   "duplicate_url": 247,
+   "inactive": 9328,
+   "no_apply_link": 12789,
+   "non_english": 1477
   },
   "by_source": {
    "echo": 79,
-   "heavy": 1055,
-   "jobspy": 54,
-   "light": 23161,
-   "priority": 83
+   "heavy": 2693,
+   "jobspy": 47,
+   "light": 23036,
+   "priority": 85
   },
-  "count": 24432,
+  "count": 25940,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
   "by_source": {
-   "heavy": 1790,
-   "jobspy": 213,
-   "light": 18057,
-   "priority": 254,
-   "skill": 4
+   "heavy": 1271,
+   "jobspy": 138,
+   "light": 18137,
+   "priority": 251,
+   "skill": 3
   },
-  "count": 20318
+  "count": 19800
  },
  "expired": [
   {
    "age_hours": -0.04,
-   "rows": 823,
+   "rows": 825,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.02,
-   "rows": 34,
+   "rows": 40,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
    "age_hours": -0.01,
-   "rows": 5555,
+   "rows": 5558,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
@@ -1379,7 +1496,7 @@
   },
   {
    "age_hours": -0.02,
-   "rows": 5833,
+   "rows": 5810,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
@@ -1387,10 +1504,10 @@
  ],
  "explained": {
   "additions": {
-   "attributed": 623,
+   "attributed": 706,
    "reason": "the source that first supplied the identity key",
-   "total": 505,
-   "unattributed": -118
+   "total": 580,
+   "unattributed": -126
   },
   "removals": {
    "all": [],
@@ -1400,7 +1517,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-19T10:24:42.567020+00:00",
+ "generated_at": "2026-11-19T20:40:29.075105+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1428,51 +1545,51 @@
  "source_contributions": [
   {
    "added": 0,
-   "age_hours": 6.33,
+   "age_hours": 6.73,
    "class": "direct_ats",
-   "duplicates": 1790,
-   "rows": 5721,
-   "rows_after_scope": 2845,
-   "rows_publishable": 1790,
+   "duplicates": 1271,
+   "rows": 4182,
+   "rows_after_scope": 3964,
+   "rows_publishable": 1271,
    "source": "heavy",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 8.3,
+   "age_hours": 6.73,
    "class": "priority_ats",
-   "duplicates": 254,
-   "rows": 346,
-   "rows_after_scope": 337,
-   "rows_publishable": 254,
+   "duplicates": 251,
+   "rows": 345,
+   "rows_after_scope": 336,
+   "rows_publishable": 251,
    "source": "priority",
    "stale": false
   },
   {
-   "added": 623,
-   "age_hours": 7.42,
+   "added": 706,
+   "age_hours": 0.58,
    "class": "markdown",
-   "duplicates": 18057,
-   "rows": 43046,
-   "rows_after_scope": 41841,
-   "rows_publishable": 18680,
+   "duplicates": 18137,
+   "rows": 43075,
+   "rows_after_scope": 41879,
+   "rows_publishable": 18843,
    "source": "light",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 7.37,
+   "age_hours": 0.54,
    "class": "aggregators",
-   "duplicates": 213,
-   "rows": 269,
-   "rows_after_scope": 267,
-   "rows_publishable": 213,
+   "duplicates": 138,
+   "rows": 185,
+   "rows_after_scope": 185,
+   "rows_publishable": 138,
    "source": "jobspy",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 7.41,
+   "age_hours": 0.57,
    "class": "specialty",
    "duplicates": 0,
    "rows": 92,
@@ -1483,26 +1600,26 @@
   },
   {
    "added": 0,
-   "age_hours": 7.41,
+   "age_hours": 0.57,
    "class": "specialty",
-   "duplicates": 4,
-   "rows": 4,
-   "rows_after_scope": 4,
-   "rows_publishable": 4,
+   "duplicates": 3,
+   "rows": 3,
+   "rows_after_scope": 3,
+   "rows_publishable": 3,
    "source": "skill",
    "stale": false
   }
  ],
  "summary": {
-  "added": 505,
-  "ats_conflicts": 145,
-  "dropped_at_write": 24432,
-  "duplicates": 20318,
+  "added": 580,
+  "ats_conflicts": 158,
+  "dropped_at_write": 25940,
+  "duplicates": 19800,
   "expired_snapshots": 5,
-  "production_rows": 71149,
+  "production_rows": 70707,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 71654,
+  "shadow_rows": 71287,
   "unexplained_removed": 0
  }
 }
