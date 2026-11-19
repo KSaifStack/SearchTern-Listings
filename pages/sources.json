@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T03:53:56.016083+00:00",
+  "generated_at": "2026-11-19T10:24:42.567020+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,14 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 14820
+      "count": 14819
+    },
+    {
+      "name": "freehire.me",
+      "url": "https://freehire.me",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 3667
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -15,13 +22,6 @@
       "type": "internship",
       "season": "2027",
       "count": 3611
-    },
-    {
-      "name": "freehire.me",
-      "url": "https://freehire.me",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 3512
     },
     {
       "name": "vanshb03 Summer 2027",
@@ -70,21 +70,21 @@
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1701
+      "count": 1702
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1701
+      "count": 1702
     },
     {
       "name": "Early Career Radar",
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1537
+      "count": 1536
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 8
+      "count": 14
     },
     {
       "name": "vanshb03 Summer 2026",

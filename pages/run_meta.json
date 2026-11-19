@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-19T03:53:56.016083+00:00",
-  "total": 53047,
+  "generated_at": "2026-11-19T10:24:42.567020+00:00",
+  "total": 53207,
   "per_source": {
-    "jobhive": 14820,
+    "jobhive": 14819,
+    "freehire": 3667,
     "SimplifyJobs Off-Season 2027": 3611,
-    "freehire": 3512,
     "vanshb03 Summer 2027": 2886,
     "lilguy Live Feed": 2163,
     "aprameyak Summer 2027": 2103,
     "SimplifyJobs New Grad": 1999,
     "vanshb03 New Grad 2027": 1960,
     "SuryaHarikrishnan Other 2027": 1751,
-    "ats": 1701,
-    "ecr": 1537,
+    "ats": 1702,
+    "ecr": 1536,
     "GodlyDonuts keryx Internships": 1467,
     "aprameyak New Grad 2027": 1212,
     "vanshb03 Off-Season": 877,
@@ -47,22 +47,22 @@
     "SimplifyJobs Summer 2027": 89,
     "echojobs": 76,
     "summer2026internships": 36,
-    "breadth": 8,
+    "breadth": 14,
     "skillexchange": 1
   },
-  "new": 44,
-  "closed": 298,
-  "dead_links": 5,
-  "stale_checked": 12,
+  "new": 251,
+  "closed": 318,
+  "dead_links": 4,
+  "stale_checked": 9,
   "stale_dead": 7,
-  "linkless_rows": 12703,
+  "linkless_rows": 12760,
   "linkless_by_source": {
     "SimplifyJobs Off-Season 2027": 3578,
     "jobhive": 2431,
     "SimplifyJobs New Grad": 1607,
     "vanshb03 New Grad 2027": 1182,
     "vanshb03 Summer 2027": 1011,
-    "freehire": 612,
+    "freehire": 669,
     "negarprh Canada 2027": 445,
     "vanshb03 Off-Season": 408,
     "zapplyjobs New Grad SWE 2027": 361,
@@ -82,13 +82,13 @@
   },
   "apply_link_rejections": {
     "no_http_link": 8241,
-    "unusable_http_link": 4462
+    "unusable_http_link": 4519
   },
   "verification": {
-    "new_checked": 49,
-    "new_dead": 5,
-    "stale_eligible": 12,
-    "stale_checked": 12,
+    "new_checked": 200,
+    "new_dead": 4,
+    "stale_eligible": 9,
+    "stale_checked": 9,
     "stale_dead": 7,
     "rotating": true
   },
@@ -104,11 +104,11 @@
   },
   "markdown_source_stats": [],
   "published": {
-    "listings": 27905,
-    "searchtern": 71090
+    "listings": 28160,
+    "searchtern": 71149
   },
   "published_manifest": "pages/feed-manifest.json",
   "total_stage": "pre_write_candidate_rows",
-  "generation": "20261119T040820Z-4e510883f8aa",
+  "generation": "20261119T103104Z-cccabbbba82d",
   "publication_status": "published"
 }
