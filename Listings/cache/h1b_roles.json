@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-19T02:11:42Z",
+ "built_at": "2026-11-19T20:08:49Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -27350,6 +27350,11 @@
     }
    ]
   },
+  "itp media": {
+   "fetched_at": "2026-11-19T20:08:47Z",
+   "label": "ITP Media Group",
+   "titles": []
+  },
   "itron": {
    "fetched_at": "2026-10-25T18:06:11Z",
    "label": "Itron",
@@ -38398,6 +38403,42 @@
    "fetched_at": "2026-11-11T17:58:43Z",
    "label": "primehealthcare",
    "titles": []
+  },
+  "princess cruises": {
+   "fetched_at": "2026-11-19T20:08:48Z",
+   "label": "Princess Cruises",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 66560,
+     "title": "ANALYST, REVENUE PRODUCT MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 82000,
+     "title": "INFORMATION SYSTEMS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110053,
+     "title": "PRINCIPAL SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 126942,
+     "title": "SENIOR DEVELOPER, SOFTWARE GLOBAL TECHNOLOGY SERVICES"
+    },
+    {
+     "count": 1,
+     "median_salary": 131997,
+     "title": "SENIOR SOFTWARE DEVELOPER UI"
+    },
+    {
+     "count": 1,
+     "median_salary": 165547,
+     "title": "SENIOR SOLUTIONS ARCHITECT"
+    }
+   ]
   },
   "prism biotech": {
    "fetched_at": "2026-11-13T16:55:42Z",
