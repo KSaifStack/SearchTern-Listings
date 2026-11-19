@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-19T20:08:49Z",
+ "built_at": "2026-11-19T23:21:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -152,6 +152,112 @@
    "fetched_at": "2026-11-04T03:57:47Z",
    "label": "ABEX Excellence Pvt Ltd",
    "titles": []
+  },
+  "accenture": {
+   "fetched_at": "2026-11-19T23:21:53Z",
+   "label": "Accenture",
+   "titles": [
+    {
+     "count": 447,
+     "median_salary": 118102,
+     "title": "PACKAGED APP DEVELOPMENT ASSOC MANAGER"
+    },
+    {
+     "count": 266,
+     "median_salary": 140300,
+     "title": "PACKAGED APP DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 138,
+     "median_salary": 94100,
+     "title": "PACKAGED APP DEVELOPMENT SPECIALIST"
+    },
+    {
+     "count": 110,
+     "median_salary": 162565,
+     "title": "BUSINESS ARCHITECTURE MANAGER"
+    },
+    {
+     "count": 92,
+     "median_salary": 115131,
+     "title": "CUSTOM SOFTWARE ENGINEERING ASSOC MGR"
+    },
+    {
+     "count": 76,
+     "median_salary": 127500,
+     "title": "TECH ARCHITECTURE ASSOC MANAGER"
+    },
+    {
+     "count": 72,
+     "median_salary": 127050,
+     "title": "BUSINESS ARCHITECTURE ASSOCIATE MANAGER"
+    },
+    {
+     "count": 62,
+     "median_salary": 90667,
+     "title": "PACKAGED APP DEVELOPMENT TEAM LEAD"
+    },
+    {
+     "count": 61,
+     "median_salary": 158200,
+     "title": "TECH ARCHITECTURE MANAGER"
+    },
+    {
+     "count": 53,
+     "median_salary": 196600,
+     "title": "BUSINESS ARCHITECTURE SENIOR MANAGER"
+    },
+    {
+     "count": 48,
+     "median_salary": 149700,
+     "title": "CUSTOM SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 48,
+     "median_salary": 108700,
+     "title": "QUALITY ENGINEERING ASSOCIATE MANAGER"
+    },
+    {
+     "count": 45,
+     "median_salary": 130100,
+     "title": "DATA ENG, MGMT AND GOVERNANCE ASSOC MGR"
+    },
+    {
+     "count": 35,
+     "median_salary": 184300,
+     "title": "PACKAGED APP DEVELOPMENT SR MANAGER"
+    },
+    {
+     "count": 34,
+     "median_salary": 104050,
+     "title": "CUSTOM SOFTWARE ENGINEERING SPECIALIST"
+    },
+    {
+     "count": 34,
+     "median_salary": 170900,
+     "title": "DATA ENG, MGMT AND GOVERNANCE MANAGER"
+    },
+    {
+     "count": 33,
+     "median_salary": 114500,
+     "title": "DATA ENG, MGMT AND GOVERNANCE SPECIALIST"
+    },
+    {
+     "count": 31,
+     "median_salary": 109500,
+     "title": "DATA ENG, MGMT &AMP; GOVERNANCE SPECIALIST"
+    },
+    {
+     "count": 30,
+     "median_salary": 104853,
+     "title": "BUSINESS ARCHITECTURE SPECIALIST"
+    },
+    {
+     "count": 30,
+     "median_salary": 130100,
+     "title": "DATA ENG, MGMT &AMP; GOVERNANCE ASSOC MGR"
+    }
+   ]
   },
   "accorhotel": {
    "fetched_at": "2026-10-24T20:11:03Z",

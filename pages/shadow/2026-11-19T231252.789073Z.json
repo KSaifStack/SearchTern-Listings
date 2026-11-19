@@ -4,7 +4,7 @@
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 19944,
+   "count": 21790,
    "kind": "ats_identity_split"
   },
   {
@@ -138,15 +138,6 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "13575",
-   "ats_types": [
-    "icims",
-    "phenom"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -441,24 +432,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1714",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1729",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "1732",
    "ats_types": [
     "cornerstone",
@@ -639,15 +612,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21112",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "21117",
    "ats_types": [
     "cornerstone",
@@ -802,15 +766,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "2193",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "2263",
    "ats_types": [
     "cornerstone",
@@ -919,15 +874,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3223",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "32324",
    "ats_types": [
     "eightfold",
@@ -950,15 +896,6 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3253",
-   "ats_types": [
-    "cornerstone",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1073,15 +1010,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3845",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "38474",
    "ats_types": [
     "cornerstone",
@@ -1136,24 +1064,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4501",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "4682",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "486",
    "ats_types": [
     "bamboohr",
@@ -1190,15 +1100,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "5104",
-   "ats_types": [
-    "bamboohr",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "5110",
    "ats_types": [
     "bamboohr",
@@ -1220,24 +1121,6 @@
    "ats_id": "5128",
    "ats_types": [
     "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "5130",
-   "ats_types": [
-    "bamboohr",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "5135",
-   "ats_types": [
-    "bamboohr",
     "icims"
    ],
    "count": 2,
@@ -1281,15 +1164,6 @@
   },
   {
    "ats_id": "6463",
-   "ats_types": [
-    "icims",
-    "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "6525",
    "ats_types": [
     "icims",
     "taleo"
@@ -1425,9 +1299,9 @@
   }
  ],
  "base": {
-  "identities": 70485,
+  "identities": 73250,
   "path": "pages/searchtern.json",
-  "rows": 70485
+  "rows": 73250
  },
  "dropped_at_write": {
   "by_reason": {},
@@ -1442,20 +1316,20 @@
  "expired": [
   {
    "age_hours": -0.04,
-   "rows": 812,
+   "rows": 829,
    "source": "ats_new",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.03,
-   "rows": 40,
+   "age_hours": -0.02,
+   "rows": 34,
    "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.12,
+   "age_hours": -0.09,
    "rows": 92,
    "source": "echo",
    "status": "rejected:empty",
@@ -1463,16 +1337,16 @@
   },
   {
    "age_hours": -0.01,
-   "rows": 5546,
+   "rows": 5576,
    "source": "ecr",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.1,
-   "rows": 4182,
+   "age_hours": -0.07,
+   "rows": 10762,
    "source": "heavy",
-   "status": "ok",
+   "status": "rejected:shrunken",
    "ttl_hours": 48
   },
   {
@@ -1484,35 +1358,35 @@
   },
   {
    "age_hours": -0.14,
-   "rows": 161,
+   "rows": 334,
    "source": "jobspy",
-   "status": "ok:recovered",
+   "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.11,
-   "rows": 42980,
+   "age_hours": -0.08,
+   "rows": 43182,
    "source": "light",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.03,
-   "rows": 5804,
+   "age_hours": -0.02,
+   "rows": 5869,
    "source": "medium",
    "status": "ok",
    "ttl_hours": 72
   },
   {
-   "age_hours": -0.1,
-   "rows": 345,
+   "age_hours": -0.07,
+   "rows": 348,
    "source": "priority",
    "status": "ok",
    "ttl_hours": 24
   },
   {
-   "age_hours": -0.11,
-   "rows": 4,
+   "age_hours": -0.09,
+   "rows": 3,
    "source": "skill",
    "status": "ok",
    "ttl_hours": 168
@@ -1522,8 +1396,8 @@
   "additions": {
    "attributed": 0,
    "reason": "the source that first supplied the identity key",
-   "total": -123,
-   "unattributed": -123
+   "total": -134,
+   "unattributed": -134
   },
   "removals": {
    "all": [],
@@ -1533,7 +1407,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-19T13:50:41.015132+00:00",
+ "generated_at": "2026-11-19T23:12:52.789073+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1560,15 +1434,15 @@
  },
  "source_contributions": [],
  "summary": {
-  "added": -123,
-  "ats_conflicts": 158,
+  "added": -134,
+  "ats_conflicts": 144,
   "dropped_at_write": 0,
   "duplicates": 0,
   "expired_snapshots": 11,
-  "production_rows": 70485,
+  "production_rows": 73250,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 70362,
+  "shadow_rows": 73116,
   "unexplained_removed": 0
  }
 }
