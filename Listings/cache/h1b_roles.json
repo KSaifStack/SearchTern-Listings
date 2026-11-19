@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-18T22:31:56Z",
+ "built_at": "2026-11-19T02:11:42Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -14666,6 +14666,112 @@
      "count": 1,
      "median_salary": 89000,
      "title": "FEDERAL TAX SERVICES SENIOR ASSOCIATE"
+    }
+   ]
+  },
+  "crusoe": {
+   "fetched_at": "2026-11-19T02:11:40Z",
+   "label": "Crusoe",
+   "titles": [
+    {
+     "count": 14,
+     "median_salary": 250000,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 165000,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 185000,
+     "title": "SENIOR CRM BUSINESS SYSTEMS ADMINISTRATOR"
+    },
+    {
+     "count": 4,
+     "median_salary": 235000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 188000,
+     "title": "COST CONTROLS MANAGER"
+    },
+    {
+     "count": 3,
+     "median_salary": 165000,
+     "title": "SENIOR CLOUD SUPPORT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 210000,
+     "title": "SENIOR SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 220000,
+     "title": "SENIOR BUSINESS OPERATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 225000,
+     "title": "SENIOR CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 205000,
+     "title": "SENIOR NETWORK ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SR. CUSTOMER SUCCESS ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SR. CUSTOMER SUCCESS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 262000,
+     "title": "STAFF SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "ASSOCIATE PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 130000,
+     "title": "CONSTRUCTION PROJECT SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 310000,
+     "title": "DIRECTOR, COST CONTROLS"
+    },
+    {
+     "count": 1,
+     "median_salary": 285000,
+     "title": "ENGINEERING MANAGER, MANAGED ORCHESTRATION"
+    },
+    {
+     "count": 1,
+     "median_salary": 282000,
+     "title": "GROUP PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "LEAD TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "PRE-CONSTRUCTION SENIOR MANAGER"
     }
    ]
   },
@@ -54243,6 +54349,112 @@
      "count": 4,
      "median_salary": 160100,
      "title": "SR MACHINE LEARNING ENGINEER"
+    }
+   ]
+  },
+  "woven care": {
+   "fetched_at": "2026-11-19T02:11:41Z",
+   "label": "Woven Care",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 200000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 220698,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 227500,
+     "title": "SENIOR MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 155000,
+     "title": "SOFTWARE QUALITY AND COMPLIANCE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 180000,
+     "title": "APPLICATION SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 230000,
+     "title": "SENIOR PRODUCT MANAGER, AUTONOMY"
+    },
+    {
+     "count": 3,
+     "median_salary": 209100,
+     "title": "TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 208000,
+     "title": "PERCEPTION SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 210094,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 184127,
+     "title": "SECURITY OPERATIONS ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SENIOR PROJECT MANAGER, QUALITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "SENIOR SAFETY ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 236627,
+     "title": "SENIOR SOFTWARE ENGINEER, VEHICLE PLATFORMS"
+    },
+    {
+     "count": 2,
+     "median_salary": 186370,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 2,
+     "median_salary": 175310,
+     "title": "SOFTWARE ENGINEER, MOTION PLANNING"
+    },
+    {
+     "count": 2,
+     "median_salary": 225000,
+     "title": "STAFF PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 74800,
+     "title": "VALIDATION ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "AUTONOMOUS SYSTEMS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 188466,
+     "title": "DEEP LEARNING ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 159908,
+     "title": "DEVOPS ENGINEER"
     }
    ]
   },
