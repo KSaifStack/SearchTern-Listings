@@ -1,33 +1,33 @@
 {
   "scheme": "career-family-v1",
-  "generation": "20261120T182739Z-7a3d186fb719",
-  "generated_at": "2026-11-20T18:27:41.371750+00:00",
+  "generation": "20261120T215653Z-f11013b0bfbc",
+  "generated_at": "2026-11-20T21:56:55.383285+00:00",
   "run": {
-    "generation": "20261120T182739Z-7a3d186fb719",
+    "generation": "20261120T215653Z-f11013b0bfbc",
     "published": {
-      "listings": 28503,
-      "searchtern": 75110
+      "listings": 29457,
+      "searchtern": 75645
     },
     "publication_status": "published"
   },
   "totals": {
-    "published": 75110,
-    "technology_subset": 28503,
-    "snapshot_fresh": 75110,
+    "published": 75645,
+    "technology_subset": 29457,
+    "snapshot_fresh": 75645,
     "republished": 0,
     "career_families": 16,
-    "other_professional": 13220,
-    "low_confidence": 13218,
-    "liveness_checked": 54,
-    "liveness_dead": 14
+    "other_professional": 13271,
+    "low_confidence": 13269,
+    "liveness_checked": 183,
+    "liveness_dead": 15
   },
   "verification": {
-    "snapshot_fresh": 75110,
+    "snapshot_fresh": 75645,
     "republished": 0,
     "snapshot_fresh_pct": 100.0,
     "liveness": {
-      "checked": 54,
-      "dead": 14,
+      "checked": 183,
+      "dead": 15,
       "policy": "liveness = the posting URL was requested this run (new rows plus a rotating stale slice) and answered. checked=0 means no evidence was gathered this run, not that every row is alive."
     },
     "policy": "snapshot_fresh = the row's source snapshot was re-fetched inside its TTL this run; republished = served from a still-valid snapshot without a fresh fetch. Neither is a claim of employer-side liveness — see verification.liveness."
@@ -35,68 +35,68 @@
   "fields": [
     {
       "field": "id",
-      "filled": 75109,
+      "filled": 75644,
       "pct": 100.0
     },
     {
       "field": "company",
-      "filled": 75110,
+      "filled": 75645,
       "pct": 100.0
     },
     {
       "field": "company_key",
-      "filled": 75110,
+      "filled": 75645,
       "pct": 100.0
     },
     {
       "field": "role",
-      "filled": 75110,
+      "filled": 75645,
       "pct": 100.0
     },
     {
       "field": "location",
-      "filled": 75065,
-      "pct": 99.94
+      "filled": 75569,
+      "pct": 99.9
     },
     {
       "field": "date",
-      "filled": 66617,
-      "pct": 88.69
+      "filled": 67152,
+      "pct": 88.77
     },
     {
       "field": "link",
-      "filled": 75110,
+      "filled": 75645,
       "pct": 100.0
     },
     {
       "field": "description",
-      "filled": 75109,
+      "filled": 75644,
       "pct": 100.0
     },
     {
       "field": "salary_min",
-      "filled": 3099,
-      "pct": 4.13
+      "filled": 3199,
+      "pct": 4.23
     },
     {
       "field": "first_seen_at",
-      "filled": 38206,
-      "pct": 50.87
+      "filled": 38688,
+      "pct": 51.14
     },
     {
       "field": "country_iso",
-      "filled": 69960,
-      "pct": 93.14
+      "filled": 70552,
+      "pct": 93.27
     },
     {
       "field": "job_type",
-      "filled": 73561,
-      "pct": 97.94
+      "filled": 74052,
+      "pct": 97.89
     },
     {
       "field": "ats_id",
-      "filled": 54773,
-      "pct": 72.92
+      "filled": 54537,
+      "pct": 72.1
     },
     {
       "field": "closed_at",
@@ -107,100 +107,100 @@
   "career_families": [
     {
       "name": "Software Engineering & Technology",
-      "total": 30963,
-      "snapshot_fresh": 23034,
-      "share_pct": 41.22,
-      "snapshot_fresh_pct": 74.39
+      "total": 31424,
+      "snapshot_fresh": 23438,
+      "share_pct": 41.54,
+      "snapshot_fresh_pct": 74.59
     },
     {
       "name": "Other Professional",
-      "total": 13220,
-      "snapshot_fresh": 13220,
-      "share_pct": 17.6,
+      "total": 13271,
+      "snapshot_fresh": 13271,
+      "share_pct": 17.54,
       "snapshot_fresh_pct": 100.0,
       "fallback": true
     },
     {
       "name": "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)",
-      "total": 8670,
-      "snapshot_fresh": 8302,
+      "total": 8731,
+      "snapshot_fresh": 8356,
       "share_pct": 11.54,
-      "snapshot_fresh_pct": 95.76
+      "snapshot_fresh_pct": 95.7
     },
     {
       "name": "Sales & Customer Success",
-      "total": 5930,
-      "snapshot_fresh": 5556,
-      "share_pct": 7.9,
-      "snapshot_fresh_pct": 93.69
+      "total": 5938,
+      "snapshot_fresh": 5565,
+      "share_pct": 7.85,
+      "snapshot_fresh_pct": 93.72
     },
     {
       "name": "Healthcare, Clinical & Public Health",
-      "total": 5806,
-      "snapshot_fresh": 5681,
-      "share_pct": 7.73,
-      "snapshot_fresh_pct": 97.85
+      "total": 5809,
+      "snapshot_fresh": 5682,
+      "share_pct": 7.68,
+      "snapshot_fresh_pct": 97.81
     },
     {
       "name": "Finance, Accounting & Banking",
-      "total": 3536,
-      "snapshot_fresh": 3382,
-      "share_pct": 4.71,
-      "snapshot_fresh_pct": 95.64
+      "total": 3555,
+      "snapshot_fresh": 3393,
+      "share_pct": 4.7,
+      "snapshot_fresh_pct": 95.44
     },
     {
       "name": "Design, UX/UI & Creative",
-      "total": 3082,
-      "snapshot_fresh": 3082,
-      "share_pct": 4.1,
+      "total": 3050,
+      "snapshot_fresh": 3050,
+      "share_pct": 4.03,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Operations & Project Management",
-      "total": 3023,
-      "snapshot_fresh": 3023,
-      "share_pct": 4.02,
+      "total": 3022,
+      "snapshot_fresh": 3022,
+      "share_pct": 3.99,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Supply Chain, Procurement & Logistics",
-      "total": 2560,
-      "snapshot_fresh": 2560,
-      "share_pct": 3.41,
+      "total": 2570,
+      "snapshot_fresh": 2570,
+      "share_pct": 3.4,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Marketing, Communications & PR",
-      "total": 1968,
-      "snapshot_fresh": 1567,
+      "total": 1979,
+      "snapshot_fresh": 1569,
       "share_pct": 2.62,
-      "snapshot_fresh_pct": 79.62
+      "snapshot_fresh_pct": 79.28
     },
     {
       "name": "Business Analysis, Consulting & Administration",
-      "total": 1844,
-      "snapshot_fresh": 1844,
+      "total": 1862,
+      "snapshot_fresh": 1862,
       "share_pct": 2.46,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Scientific Research, Lab & Biotech",
-      "total": 1559,
-      "snapshot_fresh": 1559,
-      "share_pct": 2.08,
+      "total": 1560,
+      "snapshot_fresh": 1560,
+      "share_pct": 2.06,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Legal & Compliance",
-      "total": 835,
-      "snapshot_fresh": 835,
+      "total": 840,
+      "snapshot_fresh": 840,
       "share_pct": 1.11,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Human Resources & Recruiting",
-      "total": 767,
-      "snapshot_fresh": 767,
+      "total": 770,
+      "snapshot_fresh": 770,
       "share_pct": 1.02,
       "snapshot_fresh_pct": 100.0
     },
@@ -213,122 +213,122 @@
     },
     {
       "name": "Government & Public Service",
-      "total": 200,
-      "snapshot_fresh": 200,
-      "share_pct": 0.27,
+      "total": 199,
+      "snapshot_fresh": 199,
+      "share_pct": 0.26,
       "snapshot_fresh_pct": 100.0
     }
   ],
   "industries": [
     {
       "name": "Technology",
-      "total": 23034,
-      "snapshot_fresh": 23034,
-      "share_pct": 30.67,
+      "total": 23438,
+      "snapshot_fresh": 23438,
+      "share_pct": 30.98,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Unclassified",
-      "total": 13220,
-      "snapshot_fresh": 13220,
-      "share_pct": 17.6,
+      "total": 13271,
+      "snapshot_fresh": 13271,
+      "share_pct": 17.54,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Healthcare",
-      "total": 5681,
-      "snapshot_fresh": 5681,
-      "share_pct": 7.56,
+      "total": 5682,
+      "snapshot_fresh": 5682,
+      "share_pct": 7.51,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Engineering",
-      "total": 4283,
-      "snapshot_fresh": 4283,
-      "share_pct": 5.7,
+      "total": 4329,
+      "snapshot_fresh": 4329,
+      "share_pct": 5.72,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Construction & Trades",
-      "total": 4019,
-      "snapshot_fresh": 4019,
-      "share_pct": 5.35,
+      "total": 4027,
+      "snapshot_fresh": 4027,
+      "share_pct": 5.32,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Financial Services",
-      "total": 3382,
-      "snapshot_fresh": 3382,
-      "share_pct": 4.5,
+      "total": 3393,
+      "snapshot_fresh": 3393,
+      "share_pct": 4.49,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Design & Creative",
-      "total": 3082,
-      "snapshot_fresh": 3082,
-      "share_pct": 4.1,
+      "total": 3050,
+      "snapshot_fresh": 3050,
+      "share_pct": 4.03,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Operations",
-      "total": 3023,
-      "snapshot_fresh": 3023,
-      "share_pct": 4.02,
+      "total": 3022,
+      "snapshot_fresh": 3022,
+      "share_pct": 3.99,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Sales",
-      "total": 2955,
-      "snapshot_fresh": 2955,
-      "share_pct": 3.93,
+      "total": 2958,
+      "snapshot_fresh": 2958,
+      "share_pct": 3.91,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Retail & Hospitality",
-      "total": 2601,
-      "snapshot_fresh": 2601,
-      "share_pct": 3.46,
+      "total": 2607,
+      "snapshot_fresh": 2607,
+      "share_pct": 3.45,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Logistics & Manufacturing",
-      "total": 2560,
-      "snapshot_fresh": 2560,
-      "share_pct": 3.41,
+      "total": 2570,
+      "snapshot_fresh": 2570,
+      "share_pct": 3.4,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Business Services",
-      "total": 1844,
-      "snapshot_fresh": 1844,
+      "total": 1862,
+      "snapshot_fresh": 1862,
       "share_pct": 2.46,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Marketing & Media",
-      "total": 1567,
-      "snapshot_fresh": 1567,
-      "share_pct": 2.09,
+      "total": 1569,
+      "snapshot_fresh": 1569,
+      "share_pct": 2.07,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Research & Science",
-      "total": 1559,
-      "snapshot_fresh": 1559,
-      "share_pct": 2.08,
+      "total": 1560,
+      "snapshot_fresh": 1560,
+      "share_pct": 2.06,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Legal Services",
-      "total": 835,
-      "snapshot_fresh": 835,
+      "total": 840,
+      "snapshot_fresh": 840,
       "share_pct": 1.11,
       "snapshot_fresh_pct": 100.0
     },
     {
       "name": "Human Resources",
-      "total": 767,
-      "snapshot_fresh": 767,
+      "total": 770,
+      "snapshot_fresh": 770,
       "share_pct": 1.02,
       "snapshot_fresh_pct": 100.0
     },
@@ -341,89 +341,89 @@
     },
     {
       "name": "Public Sector",
-      "total": 200,
-      "snapshot_fresh": 200,
-      "share_pct": 0.27,
+      "total": 199,
+      "snapshot_fresh": 199,
+      "share_pct": 0.26,
       "snapshot_fresh_pct": 100.0
     }
   ],
   "job_types": {
-    "internship": 57137,
-    "new_grad": 16424,
-    "unknown": 1549
+    "internship": 57510,
+    "new_grad": 16542,
+    "unknown": 1593
   },
   "sources": [
     {
       "source": "jobhive",
-      "rows": 39186,
-      "share_pct": 52.17,
-      "snapshot_fresh": 39186
+      "rows": 39121,
+      "share_pct": 51.72,
+      "snapshot_fresh": 39121
     },
     {
       "source": "ats",
-      "rows": 7332,
-      "share_pct": 9.76,
-      "snapshot_fresh": 7332
+      "rows": 7474,
+      "share_pct": 9.88,
+      "snapshot_fresh": 7474
     },
     {
       "source": "lilguy Live Feed",
       "rows": 5245,
-      "share_pct": 6.98,
+      "share_pct": 6.93,
       "snapshot_fresh": 5245
     },
     {
       "source": "freehire",
-      "rows": 2392,
-      "share_pct": 3.18,
-      "snapshot_fresh": 2392
+      "rows": 2805,
+      "share_pct": 3.71,
+      "snapshot_fresh": 2805
     },
     {
       "source": "aprameyak Summer 2027",
       "rows": 2293,
-      "share_pct": 3.05,
+      "share_pct": 3.03,
       "snapshot_fresh": 2293
     },
     {
       "source": "SuryaHarikrishnan Other 2027",
       "rows": 1847,
-      "share_pct": 2.46,
+      "share_pct": 2.44,
       "snapshot_fresh": 1847
     },
     {
       "source": "vanshb03 Summer 2027",
       "rows": 1799,
-      "share_pct": 2.4,
+      "share_pct": 2.38,
       "snapshot_fresh": 1799
     },
     {
       "source": "ecr",
-      "rows": 1549,
-      "share_pct": 2.06,
-      "snapshot_fresh": 1549
+      "rows": 1593,
+      "share_pct": 2.11,
+      "snapshot_fresh": 1593
     },
     {
       "source": "GodlyDonuts keryx Internships",
       "rows": 1398,
-      "share_pct": 1.86,
+      "share_pct": 1.85,
       "snapshot_fresh": 1398
     },
     {
       "source": "aprameyak New Grad 2027",
       "rows": 1170,
-      "share_pct": 1.56,
+      "share_pct": 1.55,
       "snapshot_fresh": 1170
     },
     {
       "source": "SuryaHarikrishnan DS/AI",
       "rows": 1006,
-      "share_pct": 1.34,
+      "share_pct": 1.33,
       "snapshot_fresh": 1006
     },
     {
       "source": "speedyapply SWE New Grad USA",
-      "rows": 839,
-      "share_pct": 1.12,
-      "snapshot_fresh": 839
+      "rows": 840,
+      "share_pct": 1.11,
+      "snapshot_fresh": 840
     },
     {
       "source": "SuryaHarikrishnan SWE Track",
@@ -434,7 +434,7 @@
     {
       "source": "aprameyak Off-Cycle/Co-op",
       "rows": 763,
-      "share_pct": 1.02,
+      "share_pct": 1.01,
       "snapshot_fresh": 763
     },
     {
@@ -458,7 +458,7 @@
     {
       "source": "SuryaHarikrishnan Hardware",
       "rows": 562,
-      "share_pct": 0.75,
+      "share_pct": 0.74,
       "snapshot_fresh": 562
     },
     {
@@ -470,7 +470,7 @@
     {
       "source": "speedyapply SWE 2027",
       "rows": 508,
-      "share_pct": 0.68,
+      "share_pct": 0.67,
       "snapshot_fresh": 508
     },
     {
@@ -482,7 +482,7 @@
     {
       "source": "speedyapply AI New Grad Intl",
       "rows": 433,
-      "share_pct": 0.58,
+      "share_pct": 0.57,
       "snapshot_fresh": 433
     },
     {
@@ -494,13 +494,13 @@
     {
       "source": "speedyapply SWE 2027 Intern Intl",
       "rows": 389,
-      "share_pct": 0.52,
+      "share_pct": 0.51,
       "snapshot_fresh": 389
     },
     {
       "source": "SimplifyJobs New Grad",
       "rows": 344,
-      "share_pct": 0.46,
+      "share_pct": 0.45,
       "snapshot_fresh": 344
     },
     {
@@ -560,7 +560,7 @@
     {
       "source": "echojobs",
       "rows": 79,
-      "share_pct": 0.11,
+      "share_pct": 0.1,
       "snapshot_fresh": 79
     },
     {
@@ -637,21 +637,21 @@
     }
   ],
   "rejections": {
-    "searchtern:no_apply_link": 21068,
-    "searchtern:non_english": 7454,
-    "searchtern:blocked_company": 2956,
-    "searchtern:empty_company": 26,
-    "searchtern:duplicate_url": 181,
-    "listings:no_apply_link": 12341,
-    "listings:inactive": 9699,
-    "listings:non_english": 2502,
-    "listings:blocked_company": 387,
-    "listings:empty_company": 12,
-    "listings:duplicate_url": 150
+    "searchtern:no_apply_link": 21407,
+    "searchtern:non_english": 7674,
+    "searchtern:blocked_company": 2958,
+    "searchtern:empty_company": 33,
+    "searchtern:duplicate_url": 182,
+    "listings:no_apply_link": 12664,
+    "listings:non_english": 2641,
+    "listings:inactive": 9227,
+    "listings:blocked_company": 389,
+    "listings:empty_company": 19,
+    "listings:duplicate_url": 151
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-20T18:26:13.790891+00:00",
+      "generated_at": "2026-11-20T21:54:55.609011+00:00",
       "count": 11,
       "expected": [
         "jobhive",
