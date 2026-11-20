@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:45:52.538599+00:00",
+  "generated_at": "2026-11-20T03:19:37.317765+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,28 +7,28 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 13730
+      "count": 13734
     },
     {
       "name": "ATS career-page probe",
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3864
+      "count": 3863
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3864
+      "count": 3863
     },
     {
       "name": "freehire.me",
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3761
+      "count": 3626
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -84,7 +84,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1550
+      "count": 1568
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -175,7 +175,7 @@
       "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
       "type": "internship",
       "season": "2027",
-      "count": 523
+      "count": 524
     },
     {
       "name": "negarprh Canada 2027",
@@ -266,7 +266,7 @@
       "url": "https://raw.githubusercontent.com/ApplyGuy/2027-New-Grad-Jobs/main/data/new-grad-jobs.json",
       "type": "newgrad",
       "season": "2027",
-      "count": 130
+      "count": 131
     },
     {
       "name": "zapplyjobs Canada 2027",
@@ -322,7 +322,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 9
+      "count": 8
     },
     {
       "name": "vanshb03 Summer 2026",
