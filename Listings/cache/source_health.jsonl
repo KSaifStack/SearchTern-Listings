@@ -1,6 +1,3 @@
-{"ts": 1794348452.2870824, "source": "md:zapplyjobs Canada 2027", "discovered": 122, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794348452.2870824, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794348452.2870824, "source": "breadth:RemoteOK", "discovered": 99, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794348452.2870824, "source": "jobspy (indeed)", "discovered": 99, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794348452.2870824, "source": "breadth:Jobicy", "discovered": 50, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794348452.2870824, "source": "breadth:Working Nomads", "discovered": 36, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4995,6 @@
 {"ts": 1795211728.825654, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795211728.825654, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795211728.825654, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.438, "status": "ok"}
+{"ts": 1795212526.969119, "source": "ats", "discovered": 0, "valid": 0, "new": 5, "seconds": 0.0, "status": "ok"}
+{"ts": 1795212526.969119, "source": "jobhive", "discovered": 0, "valid": 24247, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795212526.969119, "source": "ats-probe", "discovered": 4935, "valid": 1050, "new": 0, "seconds": 357.977, "status": "ok"}
