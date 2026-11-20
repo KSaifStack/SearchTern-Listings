@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-19T23:21:54Z",
+ "built_at": "2026-11-20T07:50:14Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -25644,6 +25644,11 @@
    "label": "HPE",
    "titles": []
   },
+  "hpe university": {
+   "fetched_at": "2026-11-20T07:50:12Z",
+   "label": "HPE (University)",
+   "titles": []
+  },
   "hwkaufman": {
    "fetched_at": "2026-11-07T23:41:50Z",
    "label": "hwkaufman",
@@ -30704,6 +30709,112 @@
      "count": 2,
      "median_salary": 138190,
      "title": "UI FULL STACK LEAD DEVELOPER"
+    }
+   ]
+  },
+  "lucid motors": {
+   "fetched_at": "2026-11-20T07:50:13Z",
+   "label": "Lucid Motors",
+   "titles": [
+    {
+     "count": 11,
+     "median_salary": 130250,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 125840,
+     "title": "SR. MANUFACTURING ENGINEER"
+    },
+    {
+     "count": 8,
+     "median_salary": 115750,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 7,
+     "median_salary": 105997,
+     "title": "SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 7,
+     "median_salary": 125840,
+     "title": "SR. GLOBAL SUPPLY MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 130000,
+     "title": "SENIOR SOFTWARE ENGINEER I"
+    },
+    {
+     "count": 5,
+     "median_salary": 144144,
+     "title": "SR. TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 143825,
+     "title": "MANAGER, MANUFACTURING ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 200907,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 93642,
+     "title": "SENIOR DIAGNOSTIC CONTROLS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 254322,
+     "title": "DIRECTOR, VEHICLE INTEGRATION AND OPERATIONS"
+    },
+    {
+     "count": 3,
+     "median_salary": 92102,
+     "title": "MANUFACTURING ENGINEER II"
+    },
+    {
+     "count": 3,
+     "median_salary": 103418,
+     "title": "QA ANALYST"
+    },
+    {
+     "count": 3,
+     "median_salary": 123490,
+     "title": "SR. AUTOMATION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 138486,
+     "title": "SR. DEVOPS ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 142854,
+     "title": "SR. ENGINEER, BODY STRUCTURES"
+    },
+    {
+     "count": 3,
+     "median_salary": 130374,
+     "title": "SR. ENGINEER, EXTERIOR TRIM"
+    },
+    {
+     "count": 3,
+     "median_salary": 121326,
+     "title": "SR. ENGINEER, FUNCTIONAL SAFETY"
+    },
+    {
+     "count": 3,
+     "median_salary": 182978,
+     "title": "SR. MANAGER, REVENUE ACCOUNTING PROCESSES AND SYSTEMS"
+    },
+    {
+     "count": 3,
+     "median_salary": 133910,
+     "title": "SR. SUPPLIER INDUSTRIALIZATION ENGINEER"
     }
    ]
   },
