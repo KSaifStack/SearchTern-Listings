@@ -1,7 +1,3 @@
-{"ts": 1794281377.0233302, "source": "md:zshah101 Summer 2027 US", "discovered": 1261, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794281377.0233302, "source": "md:GodlyDonuts keryx New Grad", "discovered": 1176, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794281377.0233302, "source": "md:aprameyak Off-Cycle/Co-op", "discovered": 1130, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794281377.0233302, "source": "md:SuryaHarikrishnan Hardware", "discovered": 955, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794281377.0233302, "source": "md:speedyapply SWE New Grad USA", "discovered": 856, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794281377.0233302, "source": "md:vanshb03 Off-Season", "discovered": 826, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794281377.0233302, "source": "md:speedyapply SWE 2027", "discovered": 823, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4994,7 @@
 {"ts": 1795145018.2786794, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795145018.2786794, "source": "breadth:Remotive", "discovered": 15, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795145018.2786794, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.102, "status": "ok"}
+{"ts": 1795146894.8440785, "source": "ats", "discovered": 0, "valid": 0, "new": 12, "seconds": 0.0, "status": "ok"}
+{"ts": 1795146894.8440785, "source": "jobhive", "discovered": 0, "valid": 21787, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1795146894.8440785, "source": "jobhive-closure", "discovered": 98140, "valid": 97843, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795146894.8440785, "source": "ats-probe", "discovered": 14228, "valid": 2054, "new": 0, "seconds": 410.709, "status": "ok"}
