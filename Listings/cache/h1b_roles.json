@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-20T09:49:28Z",
+ "built_at": "2026-11-20T12:59:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -13783,6 +13783,37 @@
      "count": 1,
      "median_salary": 47300,
      "title": "ASSISTANT PROFESSOR OF SPORT MANAGEMENT"
+    }
+   ]
+  },
+  "command investigations": {
+   "fetched_at": "2026-11-20T12:59:53Z",
+   "label": "Command Investigations LLC",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 71496,
+     "title": "ARCHITECT ENERGY EFFICIENCY SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 101750,
+     "title": "LEAD NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 71496,
+     "title": "ENERGY EFFICIENCY SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 105747,
+     "title": "INFORMATION TECHNOLOGY ADVISOR IT ADVISOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 126463,
+     "title": "PRINCIPAL ENGINEER"
     }
    ]
   },
@@ -46017,6 +46048,112 @@
    "fetched_at": "2026-11-08T00:16:04Z",
    "label": "smithsgroup2",
    "titles": []
+  },
+  "snowflake": {
+   "fetched_at": "2026-11-20T12:59:54Z",
+   "label": "Snowflake",
+   "titles": [
+    {
+     "count": 119,
+     "median_salary": 160000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 94,
+     "median_salary": 200526,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 14,
+     "median_salary": 167627,
+     "title": "SENIOR SOLUTION ENGINEER"
+    },
+    {
+     "count": 10,
+     "median_salary": 133869,
+     "title": "STAFF CLOUD SUPPORT ENGINEER"
+    },
+    {
+     "count": 9,
+     "median_salary": 214000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 8,
+     "median_salary": 137436,
+     "title": "SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 7,
+     "median_salary": 124426,
+     "title": "SENIOR CLOUD SUPPORT ENGINEER"
+    },
+    {
+     "count": 7,
+     "median_salary": 236000,
+     "title": "STAFF SOFTWARE ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 96574,
+     "title": "CLOUD SUPPORT ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 178275,
+     "title": "PRINCIPAL SOLUTION ENGINEER"
+    },
+    {
+     "count": 5,
+     "median_salary": 160000,
+     "title": "PRODUCT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 232000,
+     "title": "PRINCIPAL SOFTWARE ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 177819,
+     "title": "SENIOR TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 147160,
+     "title": "SOLUTION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 138000,
+     "title": "DATA SCIENTIST"
+    },
+    {
+     "count": 3,
+     "median_salary": 235373,
+     "title": "GLOBAL ALLIANCE DIRECTOR, SALESFORCE &AMP; GOOGLE"
+    },
+    {
+     "count": 3,
+     "median_salary": 145642,
+     "title": "SENIOR DESIGNATED SUPPORT ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 251576,
+     "title": "SENIOR MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 3,
+     "median_salary": 198000,
+     "title": "SENIOR SECURITY ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 153358,
+     "title": "SENIOR TECHNICAL ACCOUNT MANAGER"
+    }
+   ]
   },
   "socotec": {
    "fetched_at": "2026-11-03T22:44:24Z",
