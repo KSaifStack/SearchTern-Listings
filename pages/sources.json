@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T08:03:17.181354+00:00",
+  "generated_at": "2026-11-21T12:42:15.152493+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 15765
+      "count": 15759
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -15,6 +15,13 @@
       "type": "internship",
       "season": "2027",
       "count": 3639
+    },
+    {
+      "name": "freehire.me",
+      "url": "https://freehire.me",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 3245
     },
     {
       "name": "vanshb03 Summer 2027",
@@ -52,13 +59,6 @@
       "count": 2006
     },
     {
-      "name": "freehire.me",
-      "url": "https://freehire.me",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 1993
-    },
-    {
       "name": "SuryaHarikrishnan Other 2027",
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/2027-internship-tracker/master/listings/other.md",
       "type": "internship",
@@ -70,7 +70,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1593
+      "count": 1589
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -84,14 +84,14 @@
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1472
+      "count": 1483
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1472
+      "count": 1483
     },
     {
       "name": "aprameyak New Grad 2027",
@@ -112,7 +112,7 @@
       "url": "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md",
       "type": "newgrad",
       "season": "2027",
-      "count": 860
+      "count": 859
     },
     {
       "name": "SuryaHarikrishnan DS/AI",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 4
+      "count": 5
     },
     {
       "name": "vanshb03 Summer 2026",
