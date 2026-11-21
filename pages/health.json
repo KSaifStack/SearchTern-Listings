@@ -1,64 +1,494 @@
 {
-  "generated_at": "2026-11-20T22:08:46Z",
+  "generated_at": "2026-11-21T00:43:48Z",
   "totals": {
-    "sources": 3,
-    "discovered": 4935,
-    "valid": 25297,
-    "new": 5,
-    "seconds": 357.977,
+    "sources": 46,
+    "discovered": 60602,
+    "valid": 23876,
+    "new": 348,
+    "seconds": 0.0,
     "failed": 0,
-    "closed": 11,
-    "dead_links": 4
+    "closed": 475,
+    "dead_links": 3
   },
   "run": {
-    "tier": "heavy",
+    "tier": "light",
     "workers": 12,
     "published": {
-      "listings": 29478,
-      "searchtern": 75777
+      "listings": 29490,
+      "searchtern": 75642
     },
     "manifest": "pages/feed-manifest.json",
-    "generation": "20261120T221021Z-01c49e6feaee",
+    "generation": "20261121T004501Z-025b488776e7",
     "publication_status": "published"
   },
   "sources": [
     {
-      "source": "ats",
+      "source": "md",
       "rows": 0,
-      "new": 5,
-      "share_of_new_pct": 100.0,
+      "new": 345,
+      "share_of_new_pct": 99.14,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 2232
+      "new_7d": 3757
+    },
+    {
+      "source": "freehire",
+      "rows": 0,
+      "new": 2,
+      "share_of_new_pct": 0.57,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 4763
+    },
+    {
+      "source": "ecr",
+      "rows": 0,
+      "new": 1,
+      "share_of_new_pct": 0.29,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 402
     },
     {
       "source": "jobhive",
-      "rows": 24247,
+      "rows": 23876,
       "new": 0,
       "share_of_new_pct": 0.0,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 8443
+      "new_7d": 8442
     },
     {
-      "source": "ats-probe",
-      "rows": 1050,
+      "source": "md:lilguy Live Feed",
+      "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 357.977,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SimplifyJobs Off-Season 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:GodlyDonuts keryx Internships",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:aprameyak Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 Summer 2026",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SimplifyJobs New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 New Grad 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:cvrve New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Other 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan DS/AI",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:aprameyak New Grad 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan SWE Track",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SimplifyJobs Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:GodlyDonuts keryx New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zshah101 Summer 2027 US",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:aprameyak Off-Cycle/Co-op",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE New Grad USA",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:vanshb03 Off-Season",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE New Grad Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Hardware",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:negarprh Canada 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply SWE 2027 Intern Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI Intern Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs Internships 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs New Grad 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI New Grad USA",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zshah101 Automated List",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:speedyapply AI New Grad Intl",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs New Grad SWE 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs New Grad Data Science 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Product",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:ApplyGuy New Grad",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:SuryaHarikrishnan Quant",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "jobspy (indeed)",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:LorenzoLaCorte EU Internships 2026",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:zapplyjobs Canada 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:sndsh404 Summer 2027",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "md:summer2026internships",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
+      "status": "ok",
+      "new_7d": 0
+    },
+    {
+      "source": "jobspy (linkedin)",
+      "rows": 0,
+      "new": 0,
+      "share_of_new_pct": 0.0,
+      "new_per_second": null,
+      "seconds": 0.0,
       "status": "ok",
       "new_7d": 0
     }
   ],
   "stale": {
-    "checked": 12,
-    "dead": 11,
+    "checked": 85,
+    "dead": 10,
     "days": 14
   },
-  "linkless": 12664,
+  "linkless": 12699,
   "alerts": [
     {
       "kind": "failing",
@@ -83,7 +513,7 @@
     {
       "kind": "quiet",
       "source": "breadth:TheMuse",
-      "detail": "140.1h since last data"
+      "detail": "142.7h since last data"
     }
   ],
   "healthy": false
