@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-21T16:06:38Z",
+ "built_at": "2026-11-22T00:50:48Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -9471,6 +9471,112 @@
      "count": 1,
      "median_salary": 190000,
      "title": "MANAGER APPLICATIONS DEVELOPMENT"
+    }
+   ]
+  },
+  "burns wilcox": {
+   "fetched_at": "2026-11-22T00:50:46Z",
+   "label": "Burns & Wilcox",
+   "titles": [
+    {
+     "count": 22,
+     "median_salary": 138911,
+     "title": "SENIOR ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 15,
+     "median_salary": 91140,
+     "title": "STAFF ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 13,
+     "median_salary": 126595,
+     "title": "PROJECT MANAGER"
+    },
+    {
+     "count": 6,
+     "median_salary": 112773,
+     "title": "ASSISTANT CONSTRUCTION MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 120920,
+     "title": "ASSISTANT DEPARTMENT MANAGER"
+    },
+    {
+     "count": 4,
+     "median_salary": 90980,
+     "title": "ASSISTANT ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 112770,
+     "title": "DISTRIBUTION PLANNING CONSULTANT"
+    },
+    {
+     "count": 4,
+     "median_salary": 146458,
+     "title": "SENIOR TRANSMISSION ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 86691,
+     "title": "STAFF STRUCTURAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140837,
+     "title": "ASSOCIATE ELECTRICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 115611,
+     "title": "CONSTRUCTION PROJECT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 132714,
+     "title": "DEPARTMENT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 201219,
+     "title": "INNOVATION AND DEVELOPMENT DIRECTOR"
+    },
+    {
+     "count": 2,
+     "median_salary": 133153,
+     "title": "PROGRAM MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 128737,
+     "title": "SECTION MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 127942,
+     "title": "SENIOR DISTRIBUTION ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 128428,
+     "title": "SENIOR ENGINEERING SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 113048,
+     "title": "SENIOR PROJECT CONTROLS SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 100316,
+     "title": "SENIOR PROJECT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 86695,
+     "title": "STAFF ELECTRICAL SPECIALIST"
     }
    ]
   },
@@ -35729,6 +35835,11 @@
   "nbcuniversal3": {
    "fetched_at": "2026-10-25T18:06:17Z",
    "label": "nbcuniversal3",
+   "titles": []
+  },
+  "ncs": {
+   "fetched_at": "2026-11-22T00:50:47Z",
+   "label": "NCS",
    "titles": []
   },
   "nelnet": {

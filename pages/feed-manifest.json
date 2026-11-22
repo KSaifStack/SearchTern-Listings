@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "run_id": "20261121T215959Z-691973b366b7",
-  "generated_at": "2026-11-21T21:59:59.509655+00:00",
+  "run_id": "20261122T005305Z-9899de45b310",
+  "generated_at": "2026-11-22T00:53:05.372786+00:00",
   "status": "degraded",
   "status_reasons": [
     "rejected:echo",
@@ -27,56 +27,56 @@
   "published": {
     "listings": {
       "path": "pages/listings.json",
-      "rows": 29978,
-      "bytes": 86763172,
-      "sha256": "6c6bf863341c23b7a9faf031cc884e30a7c30c78f15642947cc611f5ad9bb9c8",
+      "rows": 29815,
+      "bytes": 86566446,
+      "sha256": "2ab4f857308f8f8692310949066412e950eabf34a06303c106076e636b469020",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
     },
     "searchtern": {
       "path": "pages/searchtern.json",
-      "rows": 75751,
-      "bytes": 256778794,
-      "sha256": "691973b366b799e7973423a816940137ea1a4c93851c9bc5cbabc4c094eac336",
+      "rows": 75734,
+      "bytes": 257698816,
+      "sha256": "9899de45b310ec2d20864f15daeac2c7f447cce1df947e6ffac5422df5265505",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
     },
     "readme": {
       "path": "README.md",
       "window_days": 60,
-      "rows": 17665,
+      "rows": 17487,
       "pages": 35,
-      "generation": "20261121T215959Z-691973b366b7"
+      "generation": "20261122T005305Z-9899de45b310"
     }
   },
   "required_sources": [
     "jobhive"
   ],
   "last_known_good": {
-    "generated_at": "2026-11-21T21:38:46.076773+00:00",
-    "run_id": "20261121T213846Z-6329f47ca0a3",
+    "generated_at": "2026-11-21T21:59:59.509655+00:00",
+    "run_id": "20261121T215959Z-691973b366b7",
     "published": {
       "listings": {
         "path": "pages/listings.json",
-        "rows": 30196,
-        "bytes": 87108043,
-        "sha256": "8faa4632b9d0cafdbbe41ca3c2036a9eb4619b34b8067d5828845f84bffd5cdf",
+        "rows": 29978,
+        "bytes": 86763172,
+        "sha256": "6c6bf863341c23b7a9faf031cc884e30a7c30c78f15642947cc611f5ad9bb9c8",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
       },
       "searchtern": {
         "path": "pages/searchtern.json",
-        "rows": 75952,
-        "bytes": 257323902,
-        "sha256": "6329f47ca0a3525304b28c741f5a367143be3f66a167292b06b3057ad2bed7a0",
+        "rows": 75751,
+        "bytes": 256778794,
+        "sha256": "691973b366b799e7973423a816940137ea1a4c93851c9bc5cbabc4c094eac336",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
       },
       "readme": {
         "path": "README.md",
         "window_days": 60,
-        "rows": 19647,
-        "pages": 39,
-        "generation": "20261121T213846Z-6329f47ca0a3"
+        "rows": 17665,
+        "pages": 35,
+        "generation": "20261121T215959Z-691973b366b7"
       }
     },
-    "path": "pages/last-known-good/gen-20261121T215959-459663421",
+    "path": "pages/last-known-good/gen-20261122T005305-319534287",
     "manifest": "pages/last-known-good/current.json",
     "available": true
   },
@@ -90,36 +90,36 @@
     "GodlyDonuts keryx Internships": 1457,
     "GodlyDonuts keryx New Grad": 163,
     "LorenzoLaCorte EU Internships 2026": 146,
-    "SimplifyJobs New Grad": 348,
+    "SimplifyJobs New Grad": 347,
     "SimplifyJobs Off-Season 2027": 32,
     "SimplifyJobs Summer 2027": 74,
-    "SuryaHarikrishnan DS/AI": 1025,
-    "SuryaHarikrishnan Hardware": 578,
+    "SuryaHarikrishnan DS/AI": 1017,
+    "SuryaHarikrishnan Hardware": 576,
     "SuryaHarikrishnan Other 2027": 1852,
-    "SuryaHarikrishnan Product": 189,
+    "SuryaHarikrishnan Product": 187,
     "SuryaHarikrishnan Quant": 146,
-    "SuryaHarikrishnan SWE Track": 841,
+    "SuryaHarikrishnan SWE Track": 834,
     "aprameyak New Grad 2027": 1149,
-    "aprameyak Off-Cycle/Co-op": 768,
-    "aprameyak Summer 2027": 2331,
-    "ats": 7633,
+    "aprameyak Off-Cycle/Co-op": 765,
+    "aprameyak Summer 2027": 2330,
+    "ats": 7923,
     "breadth": 14,
     "echojobs": 79,
-    "ecr": 1593,
+    "ecr": 1591,
     "freehire": 3086,
-    "jobhive": 38619,
+    "jobhive": 38343,
     "jobspy": 18,
-    "lilguy Live Feed": 5250,
+    "lilguy Live Feed": 5251,
     "negarprh Canada 2027": 1,
     "priority": 69,
     "skillexchange": 8,
     "sndsh404 Summer 2027": 75,
     "speedyapply AI 2027": 596,
-    "speedyapply AI Intern Intl": 395,
-    "speedyapply AI New Grad Intl": 416,
+    "speedyapply AI Intern Intl": 393,
+    "speedyapply AI New Grad Intl": 415,
     "speedyapply AI New Grad USA": 526,
-    "speedyapply SWE 2027": 510,
-    "speedyapply SWE 2027 Intern Intl": 385,
+    "speedyapply SWE 2027": 509,
+    "speedyapply SWE 2027 Intern Intl": 383,
     "speedyapply SWE New Grad Intl": 591,
     "speedyapply SWE New Grad USA": 839,
     "summer2026internships": 87,
@@ -136,7 +136,7 @@
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-21T21:57:43.112648+00:00",
+      "generated_at": "2026-11-22T00:50:46.151118+00:00",
       "count": 11,
       "expected": [
         "jobhive",
@@ -178,21 +178,21 @@
     "scheme": "career-family-v1"
   },
   "career_families": {
-    "Software Engineering & Technology": 31603,
-    "Other Professional": 13206,
-    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 8657,
-    "Sales & Customer Success": 6079,
+    "Software Engineering & Technology": 31576,
+    "Other Professional": 13212,
+    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 8666,
+    "Sales & Customer Success": 6088,
     "Healthcare, Clinical & Public Health": 5778,
-    "Finance, Accounting & Banking": 3537,
-    "Design, UX/UI & Creative": 3072,
-    "Operations & Project Management": 3026,
+    "Finance, Accounting & Banking": 3535,
+    "Design, UX/UI & Creative": 3069,
+    "Operations & Project Management": 3027,
     "Supply Chain, Procurement & Logistics": 2557,
-    "Marketing, Communications & PR": 1978,
-    "Business Analysis, Consulting & Administration": 1854,
+    "Marketing, Communications & PR": 1963,
+    "Business Analysis, Consulting & Administration": 1855,
     "Scientific Research, Lab & Biotech": 1558,
-    "Legal & Compliance": 829,
-    "Human Resources & Recruiting": 774,
-    "Education & Teaching": 499,
-    "Government & Public Service": 205
+    "Legal & Compliance": 830,
+    "Human Resources & Recruiting": 775,
+    "Education & Teaching": 500,
+    "Government & Public Service": 206
   }
 }
