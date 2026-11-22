@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-22T00:50:48Z",
+ "built_at": "2026-11-22T07:35:08Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -20478,6 +20478,11 @@
      "title": "VICE PRESIDENT, DIGITAL SHARED SERVICES"
     }
    ]
+  },
+  "fieldpulse": {
+   "fetched_at": "2026-11-22T07:35:07Z",
+   "label": "FieldPulse",
+   "titles": []
   },
   "figma": {
    "fetched_at": "2026-10-28T21:04:55Z",
