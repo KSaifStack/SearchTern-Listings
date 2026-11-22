@@ -165,7 +165,7 @@
 <td title="Junior Ground Systems Engineer - Instrumentation &amp; Control" style="word-break:break-word; overflow-wrap:anywhere;">Junior Ground Systems Engineer - Instrumentat...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Auckland<br>Zealand</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8034180003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Manufacturing Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Auckland<br>Zealand</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/rocketlab/jobs/8032172003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">23d</td>
+<td style="white-space:nowrap;">24d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -210,4 +210,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T164706Z-efebedb2d62d -->
+<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->

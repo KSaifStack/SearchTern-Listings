@@ -1,6 +1,6 @@
 # 🇮🇪 Ireland — SearchTern Listings
 
-**100 listings** as of November 22, 2026
+**101 listings** as of November 22, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -229,7 +229,7 @@
 <td title="Early Careers Quality Engineer, Radar Engineering" style="word-break:break-word; overflow-wrap:anywhere;">Early Careers Quality Engineer, Radar Enginee...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.apple.com/en-us/details/200688716/early-careers-quality-engineer-radar-engineering" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Early Career Electrical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Dublin<br>Ireland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5272501007?gh_jid=5272501007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -245,7 +245,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">2027 Early Career Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Dublin<br>Ireland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
+<td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -305,6 +305,14 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stripe.com/jobs/search?gh_jid=8257892">🔥 <strong>Stripe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, New Grad</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8257892" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sig.icims.com/jobs/11574/technology-recruiter---campus/job?in_iframe=1" title="Susquehanna International Group Llp"><strong>Susquehanna Inter...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Technology Recruiter - Campus</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
@@ -329,10 +337,10 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8396?c=tetratech"><strong>Tetra Tech</strong></a></td>
-<td title="Graduate Engineer 2027 - Building Services Mechanical and Electrical Engineer" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027 - Building Services Me...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech"><strong>Tetra Tech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027 - Transport</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8396?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -345,18 +353,18 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech">↳ <strong>Tetra Tech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027 - Transport</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8395?c=tetratech">↳ <strong>Tetra Tech</strong></a></td>
 <td title="Graduate Engineer 2027- Civils, Buildings and Infrastructure" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027- Civils, Buildings and...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8395?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8396?c=tetratech">↳ <strong>Tetra Tech</strong></a></td>
+<td title="Graduate Engineer 2027 - Building Services Mechanical and Electrical Engineer" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027 - Building Services Me...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8396?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -557,7 +565,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8257892" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -565,7 +573,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Intern (Summer or Winter)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8097801" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -573,7 +581,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8130881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -633,62 +641,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7706187982816594181">🔥 <strong>Tiktok</strong></a></td>
-<td title="EMEA Partner Operations Manager - Graduate - TikTok AI Data Service and Operations - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">EMEA Partner Operations Manager - Graduate - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7706187982816594181" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/toloka-ai/j/53376C6223/"><strong>Mindrift</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Record Videos at Home for AI - $70 One-Time Task</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland +4</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/toloka-ai/j/53376C6223/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/designer-group-1/j/9E390E58F3/"><strong>Designer Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/designer-group-1/j/9E390E58F3/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lgtcp.wd502.myworkdayjobs.com/en-US/lgtcpcurrentvacancies/job/Dublin-Ireland/Company-Secretarial--Technology---AI-Analyst--18-month-fixed-term-contract-_JR2031"><strong>Lgt Capital Partners</strong></a></td>
-<td title="Company Secretarial - Technology &amp; AI Analyst - 18 month fixed term contract - In House Role" style="word-break:break-word; overflow-wrap:anywhere;">Company Secretarial - Technology &amp; AI Analyst...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lgtcp.wd502.myworkdayjobs.com/en-US/lgtcpcurrentvacancies/job/Dublin-Ireland/Company-Secretarial--Technology---AI-Analyst--18-month-fixed-term-contract-_JR2031" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7700911406738540805">🔥 <strong>Tiktok</strong></a></td>
-<td title="AI Reinforcement Training Intern - TikTok Platform Responsibility - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">AI Reinforcement Training Intern - TikTok Pla...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7700911406738540805" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/Cork-Ireland/Data-Science-Intern_148685"><strong>Logitech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - 12-months contract</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/Cork-Ireland/Data-Science-Intern_148685" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lilly.wd115.myworkdayjobs.com/en-US/cmp/job/IE-Global-Business-Solutions---Cork/Intern---S2P-Data---Analytics-COE_R-113968"><strong>Lilly</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - S2P Data &amp; Analytics COE</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lilly.wd115.myworkdayjobs.com/en-US/cmp/job/IE-Global-Business-Solutions---Cork/Intern---S2P-Data---Analytics-COE_R-113968" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">18d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/jobs/10576783/apply">🔥 <strong>Amazon</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer - 2027 - AUTA</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
@@ -736,6 +688,62 @@
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7700911406738540805">🔥 <strong>Tiktok</strong></a></td>
+<td title="AI Reinforcement Training Intern - TikTok Platform Responsibility - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">AI Reinforcement Training Intern - TikTok Pla...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7700911406738540805" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">26d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/Cork-Ireland/Data-Science-Intern_148685"><strong>Logitech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern - 12-months contract</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/Cork-Ireland/Data-Science-Intern_148685" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lilly.wd115.myworkdayjobs.com/en-US/cmp/job/IE-Global-Business-Solutions---Cork/Intern---S2P-Data---Analytics-COE_R-113968"><strong>Lilly</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - S2P Data &amp; Analytics COE</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lilly.wd115.myworkdayjobs.com/en-US/cmp/job/IE-Global-Business-Solutions---Cork/Intern---S2P-Data---Analytics-COE_R-113968" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">18d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7706187982816594181">🔥 <strong>Tiktok</strong></a></td>
+<td title="EMEA Partner Operations Manager - Graduate - TikTok AI Data Service and Operations - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">EMEA Partner Operations Manager - Graduate - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7706187982816594181" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/toloka-ai/j/53376C6223/"><strong>Mindrift</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Record Videos at Home for AI - $70 One-Time Task</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland +4</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/toloka-ai/j/53376C6223/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/designer-group-1/j/9E390E58F3/"><strong>Designer Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/designer-group-1/j/9E390E58F3/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lgtcp.wd502.myworkdayjobs.com/en-US/lgtcpcurrentvacancies/job/Dublin-Ireland/Company-Secretarial--Technology---AI-Analyst--18-month-fixed-term-contract-_JR2031"><strong>Lgt Capital Partners</strong></a></td>
+<td title="Company Secretarial - Technology &amp; AI Analyst - 18 month fixed term contract - In House Role" style="word-break:break-word; overflow-wrap:anywhere;">Company Secretarial - Technology &amp; AI Analyst...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lgtcp.wd502.myworkdayjobs.com/en-US/lgtcpcurrentvacancies/job/Dublin-Ireland/Company-Secretarial--Technology---AI-Analyst--18-month-fixed-term-contract-_JR2031" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T164706Z-efebedb2d62d -->
+<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->

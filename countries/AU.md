@@ -81,15 +81,7 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325"><strong>Aig Early Careers</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Casualty</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326">↳ <strong>Aig Early Careers</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326"><strong>Aig Early Careers</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Claims Analyst, Casualty</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -117,6 +109,14 @@
 <td title="Early Career Underwriting Analyst, Business Package" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Business P...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Underwriting-Analyst--Business-Package_JR2604322" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">19d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325">↳ <strong>Aig Early Careers</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Casualty</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">19d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -213,7 +213,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Deep Learning Research Intern - 2027 - Sydney</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4956547101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -513,78 +513,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045606">🔥 <strong>Microsoft</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist - Computer Vision-PhD Graduate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045606" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045599">↳ 🔥 <strong>Microsoft</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist - Agentic AI-PhD Graduate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045599" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sita.icims.com/jobs/11849/job"><strong>SITA</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate - AI &amp; Technology Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sita.icims.com/jobs/11849/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://racwa.wd3.myworkdayjobs.com/en-US/rac-wa/job/West-Perth/Associate-Data-Analyst---Data-Analyst_JR107059" title="Rac Tourism Assets Pty"><strong>Rac Tourism Asset...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Analyst / Data Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">West Perth<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://racwa.wd3.myworkdayjobs.com/en-US/rac-wa/job/West-Perth/Associate-Data-Analyst---Data-Analyst_JR107059" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Melbourne-Australia/AI-Enablement-Specialist_R-01364757" title="Thermo Fisher Scientific"><strong>Thermo Fisher Sci...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Enablement Specialist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Melbourne-Australia/AI-Enablement-Specialist_R-01364757" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/docorto/j/78F17E7F3C/"><strong>Corto</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Legal AI &amp; Innovation Associate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/docorto/j/78F17E7F3C/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/podium81/jobs/8351382"><strong>Podium</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Application Integration Specialist - AI</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/podium81/jobs/8351382" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7698366333909698869">🔥 <strong>Tiktok</strong></a></td>
-<td title="Algorithm Engineer Project Intern - TikTok Live Revenue - 2027 start - Project Intern - TikTok Global LIVE - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">Algorithm Engineer Project Intern - TikTok Li...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7698366333909698869" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002"><strong>Octagon</strong></a></td>
-<td title="Sports Consultancy and Data Analyst Intern - Futures Sport &amp; Entertainment" style="word-break:break-word; overflow-wrap:anywhere;">Sports Consultancy and Data Analyst Intern - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sita.icims.com/jobs/11845/job"><strong>SITA</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate - Software Development</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
@@ -648,6 +576,78 @@
 <td style="white-space:nowrap;">2mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7698366333909698869">🔥 <strong>Tiktok</strong></a></td>
+<td title="Algorithm Engineer Project Intern - TikTok Live Revenue - 2027 start - Project Intern - TikTok Global LIVE - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">Algorithm Engineer Project Intern - TikTok Li...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7698366333909698869" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002"><strong>Octagon</strong></a></td>
+<td title="Sports Consultancy and Data Analyst Intern - Futures Sport &amp; Entertainment" style="word-break:break-word; overflow-wrap:anywhere;">Sports Consultancy and Data Analyst Intern - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.octagon.com/job/8893951002?gh_jid=8893951002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045606">🔥 <strong>Microsoft</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist - Computer Vision-PhD Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045606" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">25d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045599">↳ 🔥 <strong>Microsoft</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist - Agentic AI-PhD Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557045599" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">25d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-sita.icims.com/jobs/11849/job"><strong>SITA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate - AI &amp; Technology Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-sita.icims.com/jobs/11849/job" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://racwa.wd3.myworkdayjobs.com/en-US/rac-wa/job/West-Perth/Associate-Data-Analyst---Data-Analyst_JR107059" title="Rac Tourism Assets Pty"><strong>Rac Tourism Asset...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Analyst / Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">West Perth<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://racwa.wd3.myworkdayjobs.com/en-US/rac-wa/job/West-Perth/Associate-Data-Analyst---Data-Analyst_JR107059" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Melbourne-Australia/AI-Enablement-Specialist_R-01364757" title="Thermo Fisher Scientific"><strong>Thermo Fisher Sci...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Enablement Specialist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Melbourne-Australia/AI-Enablement-Specialist_R-01364757" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/docorto/j/78F17E7F3C/"><strong>Corto</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Legal AI &amp; Innovation Associate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/docorto/j/78F17E7F3C/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/podium81/jobs/8351382"><strong>Podium</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Application Integration Specialist - AI</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/podium81/jobs/8351382" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T164706Z-efebedb2d62d -->
+<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->

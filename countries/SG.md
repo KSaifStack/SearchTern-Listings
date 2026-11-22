@@ -1,6 +1,6 @@
 # 🇸🇬 Singapore — SearchTern Listings
 
-**469 listings** as of November 22, 2026
+**470 listings** as of November 22, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -25,15 +25,15 @@
 </thead>
 <tbody>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45616996"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Intern---MSH-PEE_JR116666"><strong>Micron</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - MSH Process &amp; Equipment Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45616996" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Fab 10A<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Intern---MSH-PEE_JR116666" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289"><strong>Micron</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289">↳ <strong>Micron</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Firmware and Product Test Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">MSB<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/MSB-Singapore/Intern---Firmware-and-Product-Test-Engineer_JR117289" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -49,12 +49,12 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Intern---MSH-PEE_JR116666"><strong>Micron</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45616996">↳ <strong>Micron Technology</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - MSH Process &amp; Equipment Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Fab 10A<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/external/job/Fab-10A-Singapore/Intern---MSH-PEE_JR116666" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45616996" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/NCS3/6000000001594605"><strong>NCS</strong></a></td>
@@ -73,42 +73,10 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Centre-for-Research-in-Pedagogy-and-Practice---NIE-_R00026450"><strong>NTU</strong></a></td>
-<td title="Research Assistant (Centre for Research in Pedagogy and Practice) [NIE]" style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant (Centre for Research in Pe...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">NTU Main Campus<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Centre-for-Research-in-Pedagogy-and-Practice---NIE-_R00026450" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108"><strong>Razer</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manual Software Testing Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056">↳ <strong>Razer</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PQ Automation Intern (Keyboards &amp; Mice)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Ecommerce-Platform-Intern_JR2026008149">↳ <strong>Razer</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Ecommerce Platform Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Ecommerce-Platform-Intern_JR2026008149" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054">↳ <strong>Razer</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PQ Automation Intern (Audio &amp; Others)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Cybersecurity-Engineer-Intern_R0151699"><strong>Hitachi</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Cybersecurity-Engineer-Intern_R0151699" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -121,34 +89,10 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45096030"><strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - SSD Validation Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45096030" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44621099">↳ <strong>Micron Technology</strong></a></td>
-<td title="Intern - Front-End Materials Procurement Operations" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Front-End Materials Procurement Oper...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44621099" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682"><strong>Hitachi</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Cross Project Tools)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696"><strong>Hitachi</strong></a></td>
+<td title="Software Engineer Intern (Simulation &amp; Validator Systems)" style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Simulation &amp; Valida...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Cybersecurity-Engineer-Intern_R0151699">↳ <strong>Hitachi</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Cybersecurity-Engineer-Intern_R0151699" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -161,50 +105,74 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696">↳ <strong>Hitachi</strong></a></td>
-<td title="Software Engineer Intern (Simulation &amp; Validator Systems)" style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Simulation &amp; Valida...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682">↳ <strong>Hitachi</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern (Cross Project Tools)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Simulation---Validator-Systems-_R0151696" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Cross-Project-Tools-_R0151682" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44531663"><strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Facilities AI Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44621099"><strong>Micron Technology</strong></a></td>
+<td title="Intern - Front-End Materials Procurement Operations" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Front-End Materials Procurement Oper...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44531663" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44621099" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44439078">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45096030">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - SSD Validation Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45096030" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054"><strong>Razer</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PQ Automation Intern (Audio &amp; Others)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Ecommerce-Platform-Intern_JR2026008149">↳ <strong>Razer</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Ecommerce Platform Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Ecommerce-Platform-Intern_JR2026008149" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056">↳ <strong>Razer</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">PQ Automation Intern (Keyboards &amp; Mice)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108">↳ <strong>Razer</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manual Software Testing Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Centre-for-Research-in-Pedagogy-and-Practice---NIE-_R00026450"><strong>NTU</strong></a></td>
+<td title="Research Assistant (Centre for Research in Pedagogy and Practice) [NIE]" style="word-break:break-word; overflow-wrap:anywhere;">Research Assistant (Centre for Research in Pe...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">NTU Main Campus<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/careers/job/NTU-Main-Campus-Singapore/Research-Assistant--Centre-for-Research-in-Pedagogy-and-Practice---NIE-_R00026450" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44439078"><strong>Micron Technology</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Facilities Mechanical Engineering</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44439078" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44087762">↳ <strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern- Solutions Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44087762" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44439011">↳ <strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Industrial Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44439011" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44216998">↳ <strong>Micron Technology</strong></a></td>
-<td title="Intern - Chemical Mechanical Planarization Process Engineering" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Chemical Mechanical Planarization Pr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44216998" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -217,6 +185,54 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44439011">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Industrial Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44439011" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44087762">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern- Solutions Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44087762" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44531663">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Facilities AI Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44531663" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44216998">↳ <strong>Micron Technology</strong></a></td>
+<td title="Intern - Chemical Mechanical Planarization Process Engineering" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Chemical Mechanical Planarization Pr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44216998" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6abe705bdfd50"><strong>Sembcorp Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, SCAE Electrical Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>East<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6abe705bdfd50" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba2dfda43fa">↳ <strong>Sembcorp Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Civil &amp; Structural Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>East<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba2dfda43fa" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6afeaf35427d5"><strong>Singlife</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Data Science</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
@@ -225,15 +241,7 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba2dfda43fa"><strong>Sembcorp Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Civil &amp; Structural Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>East<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba2dfda43fa" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba316290267">↳ <strong>Sembcorp Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba316290267"><strong>Sembcorp Group</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Mechanical &amp; Electrical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>East<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6aba316290267" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -245,14 +253,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, SCAE Mechanical Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>East<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6abe6bf44a545" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6abe705bdfd50">↳ <strong>Sembcorp Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, SCAE Electrical Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>East<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6abe705bdfd50" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -281,20 +281,20 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319309579"><strong>Applied Materials</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Process Engineer (Entry-level)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319309579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Tuas-Singapore/Intern--Automation---Control-Engineering_R-2026-50863-2"><strong>Alcon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Automation &amp; Control Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tuas<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Tuas-Singapore/Intern--Automation---Control-Engineering_R-2026-50863-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923244897">🔥 <strong>Paypal</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Risk Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923244921">🔥 <strong>Paypal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Backend</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.eightfold.ai/careers/job/274923244897" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.eightfold.ai/careers/job/274923244921" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923244912">↳ 🔥 <strong>Paypal</strong></a></td>
@@ -305,20 +305,20 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923244921">↳ 🔥 <strong>Paypal</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern - Backend</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923244897">↳ 🔥 <strong>Paypal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cybersecurity Risk Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.eightfold.ai/careers/job/274923244921" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.eightfold.ai/careers/job/274923244897" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Tuas-Singapore/Intern--Automation---Control-Engineering_R-2026-50863-2"><strong>Alcon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Automation &amp; Control Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Tuas<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Tuas-Singapore/Intern--Automation---Control-Engineering_R-2026-50863-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319309579"><strong>Applied Materials</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">R&amp;D Process Engineer (Entry-level)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://appliedmaterials.eightfold.ai/careers/job/790319309579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6ac87d113f869"><strong>Sembcorp Group</strong></a></td>
@@ -349,7 +349,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Product Management</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.workato.com/careers?gh_jid=8938828002#open-roles" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -385,7 +385,15 @@
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44593476"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45489125"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - AI Product Management</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45489125" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44593476">↳ <strong>Micron Technology</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Vertical Product Engineer (VPE)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44593476" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -399,14 +407,6 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44081613" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45489125">↳ <strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - AI Product Management</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45489125" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://etvy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23001061"><strong>ETVY</strong></a></td>
@@ -521,18 +521,42 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696" title="Manulife And John Hancock Mfcjh Adminjobs"><strong>Manulife And John...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Operations Transformation Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599" title="Manulife And John Hancock Mfcjh Adminjobs"><strong>Manulife And John...</strong></a></td>
+<td title="AI Transformation Intern (Distribution Transformation &amp; Supercharged AI Assistant)" style="word-break:break-word; overflow-wrap:anywhere;">AI Transformation Intern (Distribution Transf...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
-<td title="AI Transformation Intern (Distribution Transformation &amp; Supercharged AI Assistant)" style="word-break:break-word; overflow-wrap:anywhere;">AI Transformation Intern (Distribution Transf...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Product Innovation Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Transformation-Intern--Distribution-Transformation---Supercharged-AI-Assistant-_JR26091599" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
+<td title="AI Risk Intelligence, Monitoring &amp; Governance Intern (Distribution Risk)" style="word-break:break-word; overflow-wrap:anywhere;">AI Risk Intelligence, Monitoring &amp; Governance...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Compliance Transformation AI Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Operations Transformation Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Operations-Transformation-Intern_JR26091696" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -553,30 +577,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Product Innovation Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Product---Pricing-Intern_JR26091605" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Compliance Transformation AI Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/Compliance-Transformation-AI-Intern_JR26091604" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698" title="Manulife And John Hancock Mfcjh Adminjobs">↳ <strong>Manulife And John...</strong></a></td>
-<td title="AI Risk Intelligence, Monitoring &amp; Governance Intern (Distribution Risk)" style="word-break:break-word; overflow-wrap:anywhere;">AI Risk Intelligence, Monitoring &amp; Governance...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/mfcjh_adminjobs/job/Singapore/AI-Risk-Intelligence--Monitoring---Governance-Intern--Distribution-Risk-_JR26091698" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://etvy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/23001063"><strong>ETVY</strong></a></td>
 <td title="[Summer Internship 2027] Intern - Product Marketing (General Insurance - Travel, PA)" style="word-break:break-word; overflow-wrap:anywhere;">[Summer Internship 2027] Intern - Product Mar...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
@@ -593,10 +593,10 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770478319"><strong>Globalfoundries</strong></a></td>
-<td title="Advanced Manufacturing Engineering Intern (Mar-Aug 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Advanced Manufacturing Engineering Intern (Ma...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770478319" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.thalesgroup.com/global/en/job/R0334782"><strong>Thales Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Mobile Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.thalesgroup.com/global/en/job/R0334782" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">16d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -609,10 +609,10 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.thalesgroup.com/global/en/job/R0334782"><strong>Thales Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Mobile Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.thalesgroup.com/global/en/job/R0334782" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770478319"><strong>Globalfoundries</strong></a></td>
+<td title="Advanced Manufacturing Engineering Intern (Mar-Aug 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Advanced Manufacturing Engineering Intern (Ma...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770478319" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">16d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -657,20 +657,20 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45212722"><strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Package Development Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45212722" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44590094">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44590094"><strong>Micron Technology</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Probe Automation</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/44590094" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">17d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/45212722">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Package Development Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/45212722" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">17d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/en/jobs/10597425/project-engineer-intern">🔥 <strong>Amazon</strong></a></td>
@@ -777,15 +777,7 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.eightfold.ai/careers/job/43322056"><strong>HP</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Technical Marketing Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.eightfold.ai/careers/job/43322056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">24d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.eightfold.ai/careers/job/45105954">↳ <strong>HP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.eightfold.ai/careers/job/45105954"><strong>HP</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Electrical Hardware Engineering</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.eightfold.ai/careers/job/45105954" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -793,10 +785,10 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.eightfold.ai/careers/job/43597743">↳ <strong>HP</strong></a></td>
-<td title="College Intern - Regional Product Ops Testing Lead (Digital Go To Market)" style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Regional Product Ops Testing...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.eightfold.ai/careers/job/43322056">↳ <strong>HP</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Technical Marketing Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.eightfold.ai/careers/job/43597743" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.eightfold.ai/careers/job/43322056" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">24d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -805,6 +797,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Data Science</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.eightfold.ai/careers/job/43321943" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">24d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hp.eightfold.ai/careers/job/43597743">↳ <strong>HP</strong></a></td>
+<td title="College Intern - Regional Product Ops Testing Lead (Digital Go To Market)" style="word-break:break-word; overflow-wrap:anywhere;">College Intern - Regional Product Ops Testing...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hp.eightfold.ai/careers/job/43597743" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">24d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -937,14 +937,6 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770505931"><strong>Globalfoundries</strong></a></td>
-<td title="Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Technology Development Engineer Intern (Silic...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770505931" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/44490611"><strong>Micron Technology</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - F10 Process and Equipment Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
@@ -959,6 +951,14 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/43655918" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">30d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770505931"><strong>Globalfoundries</strong></a></td>
+<td title="Technology Development Engineer Intern (Silicon Photonics) (Jan-Jun 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Technology Development Engineer Intern (Silic...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalfoundries.eightfold.ai/careers/job/563980770505931" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">30d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/en/jobs/10587269/infrastructure-partner-management-intern-aws-infrastructure-services">🔥 <strong>Amazon</strong></a></td>
@@ -1041,7 +1041,15 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad886bda87d3"><strong>Singlife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad81ae8c22a8"><strong>Singlife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Quality Assurance</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad81ae8c22a8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad886bda87d3">↳ <strong>Singlife</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Agile Governance &amp; Data Analytics</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad886bda87d3" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -1053,14 +1061,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Java Backend Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad888528d511" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad81ae8c22a8">↳ <strong>Singlife</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Quality Assurance</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad81ae8c22a8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1105,7 +1105,31 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1fb9fad1da"><strong>Singlife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1a4b74046e"><strong>Singlife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1a4b74046e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1c11d9b9e0">↳ <strong>Singlife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, AI Engineering</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1c11d9b9e0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1f754a0dfd">↳ <strong>Singlife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Cyber Security (Cyber Fusion Center)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1f754a0dfd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1fb9fad1da">↳ <strong>Singlife</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Product Owner, Digital Platform</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1fb9fad1da" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -1121,34 +1145,10 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1f754a0dfd">↳ <strong>Singlife</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Cyber Security (Cyber Fusion Center)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1f754a0dfd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1f3933d6f2">↳ <strong>Singlife</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Technology Governance</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1f3933d6f2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1c11d9b9e0">↳ <strong>Singlife</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, AI Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1c11d9b9e0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1a4b74046e">↳ <strong>Singlife</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Software Engineering</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://singlife.darwinbox.com/ms/candidate/careers/a6ad1a4b74046e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1201,18 +1201,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6ad029c6d0199"><strong>Sembcorp Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Digital Content Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6a728eea82671"><strong>Sembcorp Group</strong></a></td>
+<td title="Intern - Group Health, Safety, Security &amp; Environment" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Group Health, Safety, Security &amp; Env...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6ad029c6d0199" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6a728eea82671" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6a728eea82671">↳ <strong>Sembcorp Group</strong></a></td>
-<td title="Intern - Group Health, Safety, Security &amp; Environment" style="word-break:break-word; overflow-wrap:anywhere;">Intern - Group Health, Safety, Security &amp; Env...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6ad029c6d0199">↳ <strong>Sembcorp Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Digital Content Developer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6a728eea82671" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6ad029c6d0199" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1513,6 +1513,14 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stripe.com/jobs/search?gh_jid=8186442">🔥 <strong>Stripe</strong></a></td>
+<td title="Financial Data Analyst Intern, Technical Operations" style="word-break:break-word; overflow-wrap:anywhere;">Financial Data Analyst Intern, Technical Oper...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8186442" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hrsembcorp.darwinbox.com/ms/candidate/careers/a6ab5dc7dbae85"><strong>Sembcorp Group</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern, Data Engineering &amp; ML Pipeline</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Central<br>Singapore</td>
@@ -1685,7 +1693,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/sg/job/ai-engineer--singapore--e9bc52f894444cd95a403d93aa507fa48" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -2261,7 +2269,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Content Creation &amp; Design Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.mycareersfuture.gov.sg/job/e9d3df5b01ee1cb614265be229507b0a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2689,11 +2697,11 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stripe.com/jobs/search?gh_jid=8186367">↳ 🔥 <strong>Stripe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://stripe.com/jobs/search?gh_jid=8186367">🔥 <strong>Stripe</strong></a></td>
 <td title="Integration Reliability Engineer Intern, Technical Operations" style="word-break:break-word; overflow-wrap:anywhere;">Integration Reliability Engineer Intern, Tech...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8186367" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -2701,7 +2709,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8130883" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -2709,7 +2717,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8160776" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -2841,164 +2849,140 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7699008371693816069">🔥 <strong>Tiktok</strong></a></td>
-<td title="Business Data Analyst Graduate - Account - Search - And Interaction Safety - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">Business Data Analyst Graduate - Account - Se...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/94236529794130630">🔥 <strong>Google</strong></a></td>
+<td title="Software Engineer II - Google Wallet Onboarding and Communications" style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer II - Google Wallet Onboardi...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7699008371693816069" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/94236529794130630" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">30d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.apple.com/en-us/details/200685594-3278">🔥 <strong>Apple</strong></a></td>
+<td title="Site Reliability Engineer - Enterprise Technology Services" style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer - Enterprise Techno...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.apple.com/en-us/details/200685594-3278" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7696513798022678789">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td title="TikTok Shop - LLM Operations Specialist - Content Safety" style="word-break:break-word; overflow-wrap:anywhere;">TikTok Shop - LLM Operations Specialist - Con...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7696513798022678789" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Security-Engineer---Fresh-Graduate_R26-9120-1"><strong>Rockwell Automation</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Security Engineer - Fresh Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Security-Engineer---Fresh-Graduate_R26-9120-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7688653987118106933">↳ 🔥 <strong>Tiktok</strong></a></td>
-<td title="CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD" style="word-break:break-word; overflow-wrap:anywhere;">CV/NLP/Multimodal LLM Machine Learning Engine...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Singapore/Associate-Full-Stack-Software-Engineer_JR26110593"><strong>Manulife</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Full Stack Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7688653987118106933" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Singapore/Associate-Full-Stack-Software-Engineer_JR26110593" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/external_careersite/job/Singapore-Office/Associate-Full-Stack-Software-Engineer_R-109831"><strong>Mri Software</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Full Stack Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/external_careersite/job/Singapore-Office/Associate-Full-Stack-Software-Engineer_R-109831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/generalrobotics/b61ea99d-d79d-4fc0-89d0-8a75a23cee74"><strong>General Robotics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Systems Engineer - Robotics ML Infrastructure</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/generalrobotics/b61ea99d-d79d-4fc0-89d0-8a75a23cee74" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Grab/744000162025670-data-scientist-analytics-financial-services-payments?oga=true"><strong>GRAB</strong></a></td>
-<td title="Data Scientist - Analytics - Financial Services - Payments" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Analytics - Financial Servic...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Singapore-Singapore/Manufacturing-Design-Engineer--Front-End-_2640691"><strong>KLA</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Design Engineer - Front End</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Grab/744000162025670-data-scientist-analytics-financial-services-payments?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true"><strong>GRAB</strong></a></td>
-<td title="Data Scientist - Analytics - Financial Services - Lending" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Analytics - Financial Servic...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Grab/744000161228180-data-scientist-ads-and-demand-optimization-contract-?oga=true"><strong>GRAB</strong></a></td>
-<td title="Data Scientist - Ads and Demand Optimization - Contract" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Ads and Demand Optimization ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Grab/744000161228180-data-scientist-ads-and-demand-optimization-contract-?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/AI-Engineer---Global-Rates--APAC-Local-Markets-Sales---Trading_261000356"><strong>CITI</strong></a></td>
-<td title="AI Engineer - Global Rates - APAC Local Markets Sales &amp; Trading" style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer - Global Rates - APAC Local Marke...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/AI-Engineer---Global-Rates--APAC-Local-Markets-Sales---Trading_261000356" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Associate-Data-Engineer_JR2026007994-1"><strong>Razer</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Associate-Data-Engineer_JR2026007994-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Biomedical-Grove/Associate-Specialist--Imaging-and-Data-Science_R424503"><strong>MSD</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Specialist - Imaging and Data Science</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Biomedical-Grove/Associate-Specialist--Imaging-and-Data-Science_R424503" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">15d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://djeholdings.wd5.myworkdayjobs.com/en-US/zenocareers/job/Singapore/Data-Analyst_JR103725"><strong>Zeno Group</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://djeholdings.wd5.myworkdayjobs.com/en-US/zenocareers/job/Singapore/Data-Analyst_JR103725" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159574119-scientist-2-data-science?oga=true"><strong>Western Digital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Scientist 2 - Data Science</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159574119-scientist-2-data-science?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Singapore-Singapore/Manufacturing-Design-Engineer--Front-End-_2640691" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">17d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/activate-interactive-pte-ltd/j/BAEC7C0A67/" title="Activate Interactive Pte"><strong>Activate Interact...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist - AX26008</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eurekarobotics.breezy.hr/p/93104d8c907f01-software-engineer"><strong>Eureka Robotics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/activate-interactive-pte-ltd/j/BAEC7C0A67/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eurekarobotics.breezy.hr/p/93104d8c907f01-software-engineer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">18d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Centennial-Tower-Singapore/Associate-Analyst-Analyst--Casino-Analytics_JR10008870"><strong>Marina Bay Sands</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Analyst/Analyst - Data Analytics</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer--Communication-Protocol----Fresh-Graduate_R26-8188"><strong>Rockwell Automation</strong></a></td>
+<td title="Firmware Engineer - Communication Protocol - Fresh Graduate" style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer - Communication Protocol - ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer--Communication-Protocol----Fresh-Graduate_R26-8188" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">19d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer---Fresh-Graduate_R26-8040">↳ <strong>Rockwell Automation</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer - Fresh Graduate</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer---Fresh-Graduate_R26-8040" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">19d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-II---Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026162-1" title="Nanyang Technological University"><strong>Nanyang Technolog...</strong></a></td>
+<td title="Research Engineer II - Computer Science / Artificial Intelligence / Software Engineering / Information Systems" style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer II - Computer Science / Art...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Centennial-Tower-Singapore/Associate-Analyst-Analyst--Casino-Analytics_JR10008870" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-II---Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026162-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">24d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003"><strong>Abnormal Security</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer 1</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744"><strong>Dyson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">30d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR39076">↳ <strong>Dyson</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR39076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">30d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002"><strong>Axiom Global</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Legal Consultant - Cloud / SaaS</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore +1</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000156705190-junior-fullstack-software-engineer-?oga=true"><strong>Delivery Hero</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Fullstack Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000156705190-junior-fullstack-software-engineer-?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/Singapore-Singapore/Associate-iOS-Developer_JR_054204-1"><strong>Resmed</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate iOS Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/Singapore-Singapore/Associate-iOS-Developer_JR_054204-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642"><strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---East/Associate--Application-Developer--Institutional-Banking-Group-Technology--Group-Technology_WD89400-1"><strong>Dbs Bank</strong></a></td>
+<td title="Associate - Application Developer - Institutional Banking Group Technology - Group Technology" style="word-break:break-word; overflow-wrap:anywhere;">Associate - Application Developer - Instituti...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/Plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8"><strong>Plaud</strong></a></td>
-<td title="Machine Learning Engineer - Speech/Audio - Singapore" style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer - Speech/Audio - Si...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/Plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">29d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000153657449-ai-research-scientist-scientific-ml?oga=true"><strong>Western Digital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AI Research Scientist - Scientific ML</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000153657449-ai-research-scientist-scientific-ml?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--AI-Evaluation--Trust-Technologies-_R00025937" title="Nanyang Technological University"><strong>Nanyang Technolog...</strong></a></td>
-<td title="Research Engineer I - AI Evaluation - Trust Technologies" style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer I - AI Evaluation - Trust T...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--AI-Evaluation--Trust-Technologies-_R00025937" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186"><strong>Dbs Bank</strong></a></td>
-<td title="2027 Management Associate Programme - Technology and AI &amp; Data Science" style="word-break:break-word; overflow-wrap:anywhere;">2027 Management Associate Programme - Technol...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---East/Associate--Application-Developer--Institutional-Banking-Group-Technology--Group-Technology_WD89400-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026053" title="Nanyang Technological University"><strong>Nanyang Technolog...</strong></a></td>
+<td title="Research Engineer I - Computer Science / Artificial Intelligence / Software Engineering / Information Systems" style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer I - Computer Science / Arti...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026053" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/Singapore---Singapore/XMLNAME-2025-PhD-Intern---AI-Research--Singapore_JR267880-2">🔥 <strong>Salesforce</strong></a></td>
@@ -3305,141 +3289,165 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/94236529794130630">🔥 <strong>Google</strong></a></td>
-<td title="Software Engineer II - Google Wallet Onboarding and Communications" style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer II - Google Wallet Onboardi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7699008371693816069">🔥 <strong>Tiktok</strong></a></td>
+<td title="Business Data Analyst Graduate - Account - Search - And Interaction Safety - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">Business Data Analyst Graduate - Account - Se...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/94236529794130630" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.apple.com/en-us/details/200685594-3278">🔥 <strong>Apple</strong></a></td>
-<td title="Site Reliability Engineer - Enterprise Technology Services" style="word-break:break-word; overflow-wrap:anywhere;">Site Reliability Engineer - Enterprise Techno...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.apple.com/en-us/details/200685594-3278" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7699008371693816069" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Security-Engineer---Fresh-Graduate_R26-9120-1"><strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Security Engineer - Fresh Graduate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Security-Engineer---Fresh-Graduate_R26-9120-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7696513798022678789">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td title="TikTok Shop - LLM Operations Specialist - Content Safety" style="word-break:break-word; overflow-wrap:anywhere;">TikTok Shop - LLM Operations Specialist - Con...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7696513798022678789" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Singapore/Associate-Full-Stack-Software-Engineer_JR26110593"><strong>Manulife</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Full Stack Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7688653987118106933">↳ 🔥 <strong>Tiktok</strong></a></td>
+<td title="CV/NLP/Multimodal LLM Machine Learning Engineer Graduate - Trust and Safety Platform - 2027 Start - PhD" style="word-break:break-word; overflow-wrap:anywhere;">CV/NLP/Multimodal LLM Machine Learning Engine...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Singapore/Associate-Full-Stack-Software-Engineer_JR26110593" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7688653987118106933" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/generalrobotics/b61ea99d-d79d-4fc0-89d0-8a75a23cee74"><strong>General Robotics</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Systems Engineer - Robotics ML Infrastructure</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/generalrobotics/b61ea99d-d79d-4fc0-89d0-8a75a23cee74" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/external_careersite/job/Singapore-Office/Associate-Full-Stack-Software-Engineer_R-109831"><strong>Mri Software</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Full Stack Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Grab/744000162025670-data-scientist-analytics-financial-services-payments?oga=true"><strong>GRAB</strong></a></td>
+<td title="Data Scientist - Analytics - Financial Services - Payments" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Analytics - Financial Servic...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Grab/744000162025670-data-scientist-analytics-financial-services-payments?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true"><strong>GRAB</strong></a></td>
+<td title="Data Scientist - Analytics - Financial Services - Lending" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Analytics - Financial Servic...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Grab/744000161771754-data-scientist-analytics-financial-services-lending?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/Grab/744000161228180-data-scientist-ads-and-demand-optimization-contract-?oga=true"><strong>GRAB</strong></a></td>
+<td title="Data Scientist - Ads and Demand Optimization - Contract" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist - Ads and Demand Optimization ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/Grab/744000161228180-data-scientist-ads-and-demand-optimization-contract-?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/AI-Engineer---Global-Rates--APAC-Local-Markets-Sales---Trading_261000356"><strong>CITI</strong></a></td>
+<td title="AI Engineer - Global Rates - APAC Local Markets Sales &amp; Trading" style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer - Global Rates - APAC Local Marke...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/AI-Engineer---Global-Rates--APAC-Local-Markets-Sales---Trading_261000356" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Associate-Data-Engineer_JR2026007994-1"><strong>Razer</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://mrisoftware.wd501.myworkdayjobs.com/en-US/external_careersite/job/Singapore-Office/Associate-Full-Stack-Software-Engineer_R-109831" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Associate-Data-Engineer_JR2026007994-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Biomedical-Grove/Associate-Specialist--Imaging-and-Data-Science_R424503"><strong>MSD</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Specialist - Imaging and Data Science</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/SGP---Singapore---Singapore-Biomedical-Grove/Associate-Specialist--Imaging-and-Data-Science_R424503" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://djeholdings.wd5.myworkdayjobs.com/en-US/zenocareers/job/Singapore/Data-Analyst_JR103725"><strong>Zeno Group</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://djeholdings.wd5.myworkdayjobs.com/en-US/zenocareers/job/Singapore/Data-Analyst_JR103725" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Singapore-Singapore/Manufacturing-Design-Engineer--Front-End-_2640691"><strong>KLA</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Manufacturing Design Engineer - Front End</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159574119-scientist-2-data-science?oga=true"><strong>Western Digital</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Scientist 2 - Data Science</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://kla.wd1.myworkdayjobs.com/en-US/search/job/Singapore-Singapore/Manufacturing-Design-Engineer--Front-End-_2640691" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000159574119-scientist-2-data-science?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">17d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eurekarobotics.breezy.hr/p/93104d8c907f01-software-engineer"><strong>Eureka Robotics</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://apply.workable.com/activate-interactive-pte-ltd/j/BAEC7C0A67/" title="Activate Interactive Pte"><strong>Activate Interact...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Scientist - AX26008</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eurekarobotics.breezy.hr/p/93104d8c907f01-software-engineer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://apply.workable.com/activate-interactive-pte-ltd/j/BAEC7C0A67/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">18d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer--Communication-Protocol----Fresh-Graduate_R26-8188"><strong>Rockwell Automation</strong></a></td>
-<td title="Firmware Engineer - Communication Protocol - Fresh Graduate" style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer - Communication Protocol - ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer--Communication-Protocol----Fresh-Graduate_R26-8188" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer---Fresh-Graduate_R26-8040">↳ <strong>Rockwell Automation</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Firmware Engineer - Fresh Graduate</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Singapore-Singapore/Firmware-Engineer---Fresh-Graduate_R26-8040" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-II---Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026162-1" title="Nanyang Technological University"><strong>Nanyang Technolog...</strong></a></td>
-<td title="Research Engineer II - Computer Science / Artificial Intelligence / Software Engineering / Information Systems" style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer II - Computer Science / Art...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Centennial-Tower-Singapore/Associate-Analyst-Analyst--Casino-Analytics_JR10008870"><strong>Marina Bay Sands</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Analyst/Analyst - Data Analytics</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-II---Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026162-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Centennial-Tower-Singapore/Associate-Analyst-Analyst--Casino-Analytics_JR10008870" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">24d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744"><strong>Dyson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR37744" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR39076">↳ <strong>Dyson</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Robotics Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dyson.wd3.myworkdayjobs.com/en-US/dyson_careers/job/Singapore---St-James-Power-Station-Headquarters/Robotics-Software-Engineer_JR39076" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">30d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002"><strong>Axiom Global</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Legal Consultant - Cloud / SaaS</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore +1</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.axiomlaw.com/careers/lawyers/available-positions/8901836002?gh_jid=8901836002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003"><strong>Abnormal Security</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer 1</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote - Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://abnormal.ai/careers/jobs/8002099003?gh_jid=8002099003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">25d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000156705190-junior-fullstack-software-engineer-?oga=true"><strong>Delivery Hero</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Fullstack Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/DeliveryHero/744000156705190-junior-fullstack-software-engineer-?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/Singapore-Singapore/Associate-iOS-Developer_JR_054204-1"><strong>Resmed</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate iOS Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://resmed.wd3.myworkdayjobs.com/en-US/resmed_external_careers/job/Singapore-Singapore/Associate-iOS-Developer_JR_054204-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---East/Associate--Application-Developer--Institutional-Banking-Group-Technology--Group-Technology_WD89400-1"><strong>Dbs Bank</strong></a></td>
-<td title="Associate - Application Developer - Institutional Banking Group Technology - Group Technology" style="word-break:break-word; overflow-wrap:anywhere;">Associate - Application Developer - Instituti...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---East/Associate--Application-Developer--Institutional-Banking-Group-Technology--Group-Technology_WD89400-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.wd1.myworkdayjobs.com/en-US/external/job/Fab-10A-Singapore/DATA-SCIENTIST_JR115642" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">26d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026053" title="Nanyang Technological University"><strong>Nanyang Technolog...</strong></a></td>
-<td title="Research Engineer I - Computer Science / Artificial Intelligence / Software Engineering / Information Systems" style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer I - Computer Science / Arti...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--Computer-Science---Artificial-Intelligence---Software-Engineering---Information-Systems-_R00026053" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/Plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8"><strong>Plaud</strong></a></td>
+<td title="Machine Learning Engineer - Speech/Audio - Singapore" style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer - Speech/Audio - Si...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/Plaud/57a36c66-11ae-4e86-9587-987bfaac7fd8" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">29d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000153657449-ai-research-scientist-scientific-ml?oga=true"><strong>Western Digital</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Research Scientist - Scientific ML</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore<br>Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/WesternDigital/744000153657449-ai-research-scientist-scientific-ml?oga=true" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--AI-Evaluation--Trust-Technologies-_R00025937" title="Nanyang Technological University"><strong>Nanyang Technolog...</strong></a></td>
+<td title="Research Engineer I - AI Evaluation - Trust Technologies" style="word-break:break-word; overflow-wrap:anywhere;">Research Engineer I - AI Evaluation - Trust T...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ntu.wd3.myworkdayjobs.com/en-US/careers/job/NTU-Main-Campus-Singapore/Research-Engineer-I--AI-Evaluation--Trust-Technologies-_R00025937" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186"><strong>Dbs Bank</strong></a></td>
+<td title="2027 Management Associate Programme - Technology and AI &amp; Data Science" style="word-break:break-word; overflow-wrap:anywhere;">2027 Management Associate Programme - Technol...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Singapore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://dbs.wd3.myworkdayjobs.com/en-US/dbs_careers/job/Singapore---Central/XMLNAME-2027-Management-Associate-Programme--Technology-and-AI---Data-Science-_WD88186" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T164706Z-efebedb2d62d -->
+<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->
