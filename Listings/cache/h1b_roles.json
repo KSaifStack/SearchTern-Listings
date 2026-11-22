@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-22T07:35:08Z",
+ "built_at": "2026-11-22T16:45:32Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -2384,6 +2384,17 @@
      "count": 10,
      "median_salary": 124720,
      "title": "MANAGER, RISK MANAGEMENT"
+    }
+   ]
+  },
+  "american civil liberties union": {
+   "fetched_at": "2026-11-22T16:45:26Z",
+   "label": "American Civil Liberties Union",
+   "titles": [
+    {
+     "count": 2,
+     "median_salary": 75000,
+     "title": "STAFF ACCOUNTANT"
     }
    ]
   },
@@ -26572,6 +26583,11 @@
    "label": "INL",
    "titles": []
   },
+  "inl professional": {
+   "fetched_at": "2026-11-22T16:45:27Z",
+   "label": "INL Professional",
+   "titles": []
+  },
   "innovativ pharma": {
    "fetched_at": "2026-11-07T08:10:14Z",
    "label": "Innovativ Pharma, Inc.",
@@ -46154,6 +46170,16 @@
    "label": "SLB",
    "titles": []
   },
+  "sluhn nursing recruiting": {
+   "fetched_at": "2026-11-22T16:45:29Z",
+   "label": "Sluhn (Nursing Recruiting)",
+   "titles": []
+  },
+  "sluhn sluhn": {
+   "fetched_at": "2026-11-22T16:45:30Z",
+   "label": "Sluhn (SLUHN)",
+   "titles": []
+  },
   "smartroof": {
    "fetched_at": "2026-11-17T21:43:34Z",
    "label": "SmartRoof",
@@ -54752,6 +54778,11 @@
      "title": "POST-DOCTORAL RESEARCHER"
     }
    ]
+  },
+  "wb agency": {
+   "fetched_at": "2026-11-22T16:45:32Z",
+   "label": "WB Agency",
+   "titles": []
   },
   "wellmark": {
    "fetched_at": "2026-10-30T20:46:22Z",
