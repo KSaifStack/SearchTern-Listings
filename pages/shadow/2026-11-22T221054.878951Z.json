@@ -1,24 +1,45 @@
 {
  "additions": [
   {
-   "added": 774,
+   "added": 696,
    "samples": [],
    "samples_truncated": true,
    "source": "light"
+  },
+  {
+   "added": 157,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "medium"
+  },
+  {
+   "added": 113,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "ecr"
   }
  ],
  "ats_conflicts": [
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 20542,
+   "count": 22165,
    "kind": "ats_identity_split"
   },
   {
-   "ats_id": "10596",
+   "ats_id": "104563",
    "ats_types": [
-    "eightfold",
-    "icims"
+    "cornerstone",
+    "ycombinator"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1070",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -114,6 +135,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "12748",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "12821",
    "ats_types": [
     "cornerstone",
@@ -123,10 +153,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "13103",
+   "ats_id": "13093",
    "ats_types": [
-    "cornerstone",
-    "icims"
+    "icims",
+    "phenom"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -141,24 +171,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "13575",
-   "ats_types": [
-    "icims",
-    "phenom"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "13668",
-   "ats_types": [
-    "icims",
-    "phenom"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "1376",
    "ats_types": [
     "cornerstone",
@@ -168,19 +180,19 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1393",
+   "ats_id": "14285",
    "ats_types": [
-    "cornerstone",
-    "icims"
+    "icims",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "14285",
+   "ats_id": "143",
    "ats_types": [
-    "icims",
-    "taleo"
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -240,10 +252,46 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "15098",
+   "ats_types": [
+    "cornerstone",
+    "eightfold"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "15133",
    "ats_types": [
     "icims",
     "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "15148",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "15184",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "15195",
+   "ats_types": [
+    "eightfold",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -265,15 +313,6 @@
     "icims"
    ],
    "count": 3,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1546",
-   "ats_types": [
-    "bamboohr",
-    "icims"
-   ],
-   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -440,6 +479,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "168",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "1682",
    "ats_types": [
     "cornerstone",
@@ -453,6 +501,24 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1687",
+   "ats_types": [
+    "cornerstone",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1704",
+   "ats_types": [
+    "cornerstone",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -496,15 +562,6 @@
   },
   {
    "ats_id": "1753",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1756",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -558,6 +615,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "18370",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "18392",
    "ats_types": [
     "cornerstone",
@@ -594,15 +660,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "1987",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "201",
    "ats_types": [
     "bamboohr",
@@ -612,7 +669,25 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "20278",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "2047",
+   "ats_types": [
+    "bamboohr",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2051",
    "ats_types": [
     "bamboohr",
     "icims"
@@ -630,16 +705,25 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21111",
+   "ats_id": "20901",
    "ats_types": [
-    "cornerstone",
-    "icims"
+    "eightfold",
+    "phenom"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21112",
+   "ats_id": "21031",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21111",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -657,15 +741,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21408",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "2148",
    "ats_types": [
     "cornerstone",
@@ -673,6 +748,15 @@
     "taleo"
    ],
    "count": 3,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "21496",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -694,19 +778,19 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "21518",
+   "ats_id": "2153",
    "ats_types": [
-    "cornerstone",
-    "icims"
+    "icims",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "2153",
+   "ats_id": "2155",
    "ats_types": [
-    "icims",
-    "taleo"
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -740,15 +824,6 @@
   },
   {
    "ats_id": "2172",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "21763",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -802,7 +877,25 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "2193",
+   "ats_id": "21926",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "22305",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2259",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -910,6 +1003,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3117",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "316",
    "ats_types": [
     "bamboohr",
@@ -928,28 +1030,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3218",
+   "ats_id": "323",
    "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3219",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3223",
-   "ats_types": [
-    "cornerstone",
-    "icims"
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -982,10 +1066,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3253",
+   "ats_id": "326",
    "ats_types": [
-    "cornerstone",
-    "icims"
+    "bamboohr",
+    "cornerstone"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1036,19 +1120,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3457",
-   "ats_types": [
-    "icims",
-    "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3469",
+   "ats_id": "3433",
    "ats_types": [
     "cornerstone",
-    "icims"
+    "eightfold"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1063,16 +1138,7 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3471",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "364",
+   "ats_id": "360",
    "ats_types": [
     "bamboohr",
     "cornerstone"
@@ -1081,19 +1147,20 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "364",
+   "ats_types": [
+    "bamboohr",
+    "cornerstone",
+    "taleo"
+   ],
+   "count": 3,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "370",
    "ats_types": [
     "cornerstone",
     "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3711",
-   "ats_types": [
-    "cornerstone",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1153,19 +1220,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "3842",
-   "ats_types": [
-    "icims",
-    "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "3845",
+   "ats_id": "37980",
    "ats_types": [
     "cornerstone",
-    "icims"
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1189,19 +1247,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "4125",
+   "ats_id": "4043",
    "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "4178",
-   "ats_types": [
-    "cornerstone",
-    "icims"
+    "icims",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1211,15 +1260,6 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "4682",
-   "ats_types": [
-    "cornerstone",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1243,28 +1283,10 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "5101",
-   "ats_types": [
-    "bamboohr",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "5110",
    "ats_types": [
     "bamboohr",
     "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "5130",
-   "ats_types": [
-    "bamboohr",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1282,6 +1304,15 @@
    "ats_id": "5500",
    "ats_types": [
     "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5557",
+   "ats_types": [
+    "eightfold",
     "taleo"
    ],
    "count": 2,
@@ -1315,24 +1346,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "6463",
-   "ats_types": [
-    "icims",
-    "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "6525",
-   "ats_types": [
-    "icims",
-    "taleo"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "6642",
    "ats_types": [
     "cornerstone",
@@ -1361,6 +1374,15 @@
   },
   {
    "ats_id": "75689",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "76088",
    "ats_types": [
     "eightfold",
     "icims"
@@ -1423,15 +1445,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "82567",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "82568",
    "ats_types": [
     "cornerstone",
@@ -1450,19 +1463,19 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "82614",
+   "ats_id": "8400873",
    "ats_types": [
-    "cornerstone",
-    "icims"
+    "greenhouse",
+    "teamtailor"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "8400873",
+   "ats_id": "8417",
    "ats_types": [
-    "greenhouse",
-    "teamtailor"
+    "icims",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1496,82 +1509,68 @@
   }
  ],
  "base": {
-  "identities": 73405,
+  "identities": 84488,
   "path": "pages/searchtern.json",
-  "rows": 73405
+  "rows": 84488
  },
  "dropped_at_write": {
   "by_reason": {
-   "blocked_company": 1907,
-   "duplicate_id": 219,
-   "duplicate_url": 262,
-   "inactive": 9089,
-   "no_apply_link": 10810,
-   "non_english": 1316
+   "blocked_company": 1912,
+   "duplicate_id": 1608,
+   "duplicate_url": 1272,
+   "empty_company": 19,
+   "inactive": 11406,
+   "no_apply_link": 11485,
+   "non_english": 2215
   },
   "by_source": {
+   "ats_new": 190,
+   "breadth": 2,
    "echo": 79,
-   "heavy": 241,
-   "jobspy": 48,
-   "light": 23150,
-   "priority": 85
+   "ecr": 4004,
+   "jobspy": 56,
+   "light": 23112,
+   "medium": 2391,
+   "priority": 83
   },
-  "count": 23603,
+  "count": 29917,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
   "by_source": {
-   "heavy": 916,
-   "jobspy": 147,
-   "light": 18511,
-   "priority": 250,
-   "skill": 12
+   "ats_new": 525,
+   "breadth": 21,
+   "ecr": 1018,
+   "jobspy": 302,
+   "light": 18618,
+   "medium": 3117,
+   "priority": 252,
+   "skill": 13
   },
-  "count": 19836
+  "count": 23866
  },
  "expired": [
   {
-   "age_hours": -0.04,
-   "rows": 826,
-   "source": "ats_new",
+   "age_hours": -0.27,
+   "rows": 7297,
+   "source": "heavy",
    "status": "ok",
    "ttl_hours": 48
   },
   {
-   "age_hours": -0.02,
-   "rows": 21,
-   "source": "breadth",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
    "age_hours": -0.01,
-   "rows": 5570,
-   "source": "ecr",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.01,
-   "rows": 71457,
+   "rows": 74188,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
-  },
-  {
-   "age_hours": -0.02,
-   "rows": 6029,
-   "source": "medium",
-   "status": "ok",
-   "ttl_hours": 72
   }
  ],
  "explained": {
   "additions": {
-   "attributed": 774,
+   "attributed": 966,
    "reason": "the source that first supplied the identity key",
-   "total": 632,
-   "unattributed": -142
+   "total": 811,
+   "unattributed": -155
   },
   "removals": {
    "all": [],
@@ -1581,7 +1580,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-22T09:50:35.635460+00:00",
+ "generated_at": "2026-11-22T22:10:54.878951+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1609,51 +1608,84 @@
  "source_contributions": [
   {
    "added": 0,
-   "age_hours": 2.35,
+   "age_hours": 4.27,
    "class": "direct_ats",
-   "duplicates": 916,
-   "rows": 1198,
-   "rows_after_scope": 1157,
-   "rows_publishable": 916,
-   "source": "heavy",
+   "duplicates": 525,
+   "rows": 825,
+   "rows_after_scope": 715,
+   "rows_publishable": 525,
+   "source": "ats_new",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 2.35,
+   "age_hours": 5.45,
    "class": "priority_ats",
-   "duplicates": 250,
+   "duplicates": 252,
    "rows": 343,
    "rows_after_scope": 335,
-   "rows_publishable": 250,
+   "rows_publishable": 252,
    "source": "priority",
    "stale": false
   },
   {
-   "added": 774,
-   "age_hours": 0.36,
+   "added": 696,
+   "age_hours": 4.49,
    "class": "markdown",
-   "duplicates": 18511,
-   "rows": 43622,
-   "rows_after_scope": 42435,
-   "rows_publishable": 19285,
+   "duplicates": 18618,
+   "rows": 43595,
+   "rows_after_scope": 42426,
+   "rows_publishable": 19314,
    "source": "light",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 0.32,
+   "age_hours": 4.29,
    "class": "aggregators",
-   "duplicates": 147,
-   "rows": 196,
-   "rows_after_scope": 195,
-   "rows_publishable": 147,
-   "source": "jobspy",
+   "duplicates": 21,
+   "rows": 23,
+   "rows_after_scope": 23,
+   "rows_publishable": 21,
+   "source": "breadth",
+   "stale": false
+  },
+  {
+   "added": 113,
+   "age_hours": 4.3,
+   "class": "aggregators",
+   "duplicates": 1018,
+   "rows": 5515,
+   "rows_after_scope": 5135,
+   "rows_publishable": 1131,
+   "source": "ecr",
    "stale": false
   },
   {
    "added": 0,
-   "age_hours": 0.35,
+   "age_hours": 4.42,
+   "class": "aggregators",
+   "duplicates": 302,
+   "rows": 359,
+   "rows_after_scope": 358,
+   "rows_publishable": 302,
+   "source": "jobspy",
+   "stale": false
+  },
+  {
+   "added": 157,
+   "age_hours": 4.29,
+   "class": "aggregators",
+   "duplicates": 3117,
+   "rows": 6026,
+   "rows_after_scope": 5665,
+   "rows_publishable": 3274,
+   "source": "medium",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 4.48,
    "class": "specialty",
    "duplicates": 0,
    "rows": 92,
@@ -1664,26 +1696,26 @@
   },
   {
    "added": 0,
-   "age_hours": 0.35,
+   "age_hours": 4.48,
    "class": "specialty",
-   "duplicates": 12,
-   "rows": 12,
-   "rows_after_scope": 12,
-   "rows_publishable": 12,
+   "duplicates": 13,
+   "rows": 13,
+   "rows_after_scope": 13,
+   "rows_publishable": 13,
    "source": "skill",
    "stale": false
   }
  ],
  "summary": {
-  "added": 632,
+  "added": 811,
   "ats_conflicts": 165,
-  "dropped_at_write": 23603,
-  "duplicates": 19836,
-  "expired_snapshots": 5,
-  "production_rows": 73405,
+  "dropped_at_write": 29917,
+  "duplicates": 23866,
+  "expired_snapshots": 2,
+  "production_rows": 84488,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 74037,
+  "shadow_rows": 85299,
   "unexplained_removed": 0
  }
 }
