@@ -1,6 +1,6 @@
 # 🇧🇷 Brazil — SearchTern Listings
 
-**115 listings** as of November 22, 2026
+**117 listings** as of November 22, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -149,7 +149,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Field Application Engineering - Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campinas<br>São Paulo<br>Brazil</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/toradex/jobs/8044890003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
+<td style="white-space:nowrap;">27d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -225,6 +225,14 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-data-analytics-intern-nexaltis-technologies-llp-remote-0-to-3-years-191126505456" title="Nexaltis Technologies Llp"><strong>Nexaltis Technolo...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-data-analytics-intern-nexaltis-technologies-llp-remote-0-to-3-years-191126505456" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">Today</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://torre.ai/post/8W3PXqJw-glixcom-frontend-developer-intern"><strong>Glix</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Worldwide</td>
@@ -265,11 +273,11 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/mindsquareag/jobs/4592577101"><strong>Mindsquare Ag</strong></a></td>
-<td title="Pflichtpraktikum / Praxisphase zum IT Consultant (m/w/d)" style="word-break:break-word; overflow-wrap:anywhere;">Pflichtpraktikum / Praxisphase zum IT Consult...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eazifunds.freshteam.com/jobs/wRD66M5Wg-YW/front-end-developer-intern-remote"><strong>Eazifunds</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Front-End Developer Intern (Remote)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/mindsquareag/jobs/4592577101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eazifunds.freshteam.com/jobs/wRD66M5Wg-YW/front-end-developer-intern-remote" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -287,6 +295,14 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs-sf.amcor.com/job/Tres-Lagoas-IT-Intern-MG-79613-001/1362370055/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">8d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cmsprep.applytojob.com/apply/iR6djU5rOV/TEST-Design-Intern" title="Cms Preparation Services"><strong>Cms Preparation S...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">[TEST] Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cmsprep.applytojob.com/apply/iR6djU5rOV/TEST-Design-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/Morumbi-SP-Sao-Paulo-Brazil/Junior-Product-Manager--D2C-MX-Wearables_R122198"><strong>Samsung</strong></a></td>
@@ -898,4 +914,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->
+<!-- searchtern:generation 20261122T175835Z-5fb4d9490221 -->

@@ -1,6 +1,6 @@
 # 🇮🇳 India — SearchTern Listings
 
-**807 listings** as of November 22, 2026
+**828 listings** as of November 22, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -57,6 +57,14 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57616"><strong>EOFH</strong></a></td>
+<td title="Technology Manager - Enterprise architect, analytics and security - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Technology Manager - Enterprise architect, an...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57616" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://iaaviz.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7861"><strong>Icertis</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern - AI Engineering</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra<br>India</td>
@@ -69,14 +77,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern Masters Embedded Eng</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162870" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57616"><strong>EOFH</strong></a></td>
-<td title="Technology Manager - Enterprise architect, analytics and security - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Technology Manager - Enterprise architect, an...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57616" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -105,12 +105,12 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_9003/job/1665"><strong>Apps Associates</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data &amp; Analytics</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_9003/job/1665" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57553"><strong>EOFH</strong></a></td>
+<td title="Technology Manager - Corporate Services - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - JM" style="word-break:break-word; overflow-wrap:anywhere;">Technology Manager - Corporate Services - Inf...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57553" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161637"><strong>Honeywell</strong></a></td>
@@ -121,12 +121,12 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57553"><strong>EOFH</strong></a></td>
-<td title="Technology Manager - Corporate Services - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - JM" style="word-break:break-word; overflow-wrap:anywhere;">Technology Manager - Corporate Services - Inf...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/57553" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ebdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_9003/job/1665"><strong>Apps Associates</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern - Data &amp; Analytics</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ebdt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/cx_9003/job/1665" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/oaknorth/9bb335d1-9f05-4034-aee9-e62a9b3dcf97"><strong>Oaknorth</strong></a></td>
@@ -153,20 +153,20 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-walterpmoore.icims.com/jobs/4533/engineering-intern---diagnostics/job?in_iframe=1"><strong>Walter P Moore</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern - Diagnostics</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">IN-Pune</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-walterpmoore.icims.com/jobs/4533/engineering-intern---diagnostics/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;">role</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-walterpmoore.icims.com/jobs/4566/technical-modeler-intern---structural/job?in_iframe=1">↳ <strong>Walter P Moore</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-walterpmoore.icims.com/jobs/4566/technical-modeler-intern---structural/job?in_iframe=1"><strong>Walter P Moore</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Technical Modeler Intern - Structural</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">IN-Pune</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-walterpmoore.icims.com/jobs/4566/technical-modeler-intern---structural/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers-walterpmoore.icims.com/jobs/4533/engineering-intern---diagnostics/job?in_iframe=1">↳ <strong>Walter P Moore</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern - Diagnostics</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IN-Pune</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers-walterpmoore.icims.com/jobs/4533/engineering-intern---diagnostics/job?in_iframe=1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.ycombinator.com/companies/cityfurnish/jobs/cbwNzey-ai-native-analytics-intern"><strong>Cityfurnish</strong></a></td>
@@ -201,18 +201,18 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Noida-Uttar-Pradesh-India/NetSuite-Technical-Intern_R-71028">↳ <strong>Crowe</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">NetSuite Technical Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Noida Uttar Pradesh India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Noida-Uttar-Pradesh-India/NetSuite-Technical-Intern_R-71028" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Noida-Uttar-Pradesh-India/Risk-Technology-Intern_R-71055">↳ <strong>Crowe</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Risk Technology Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Noida Uttar Pradesh India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Noida-Uttar-Pradesh-India/Risk-Technology-Intern_R-71055" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Noida-Uttar-Pradesh-India/NetSuite-Technical-Intern_R-71028">↳ <strong>Crowe</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">NetSuite Technical Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida Uttar Pradesh India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://crowe.wd12.myworkdayjobs.com/External_Careers/job/Noida-Uttar-Pradesh-India/NetSuite-Technical-Intern_R-71028" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -233,26 +233,10 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119668"><strong>Roche</strong></a></td>
-<td title="Automation Engineer Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">Automation Engineer Submission Data and Conte...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119666"><strong>Roche</strong></a></td>
+<td title="Solution Architect Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">Solution Architect Submission Data and Conten...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangāna<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119668" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119671">↳ <strong>Roche</strong></a></td>
-<td title="UX/UI Engineer Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">UX/UI Engineer Submission Data and Content Ge...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangāna<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119671" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119634">↳ <strong>Roche</strong></a></td>
-<td title="Data Scientist f Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist f Submission Data and Content ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangāna<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119634" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119666" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -265,10 +249,26 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119666">↳ <strong>Roche</strong></a></td>
-<td title="Solution Architect Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">Solution Architect Submission Data and Conten...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119668">↳ <strong>Roche</strong></a></td>
+<td title="Automation Engineer Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">Automation Engineer Submission Data and Conte...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangāna<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119666" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119668" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119634">↳ <strong>Roche</strong></a></td>
+<td title="Data Scientist f Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">Data Scientist f Submission Data and Content ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangāna<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119634" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.roche.com/global/en/job/202607-119671">↳ <strong>Roche</strong></a></td>
+<td title="UX/UI Engineer Submission Data and Content Generation &amp; Reuse (AIDCG) - Pharma R&amp;D" style="word-break:break-word; overflow-wrap:anywhere;">UX/UI Engineer Submission Data and Content Ge...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangāna<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.roche.com/global/en/job/202607-119671" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -337,22 +337,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lji.bamboohr.com/careers/212"><strong>LJI</strong></a></td>
-<td title="Product Specialist (Campus Hiring, Batch of 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Product Specialist (Campus Hiring, Batch of 2...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lji.bamboohr.com/careers/212" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lji.bamboohr.com/careers/216">↳ <strong>LJI</strong></a></td>
-<td title="Associate Product Manager (Campus Hiring, Batch of 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Product Manager (Campus Hiring, Bat...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lji.bamboohr.com/careers/216" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">10d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161548"><strong>Honeywell</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors Hardware Eng</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
@@ -365,6 +349,22 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors AI</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161528" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lji.bamboohr.com/careers/212"><strong>LJI</strong></a></td>
+<td title="Product Specialist (Campus Hiring, Batch of 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Product Specialist (Campus Hiring, Batch of 2...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lji.bamboohr.com/careers/212" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lji.bamboohr.com/careers/216">↳ <strong>LJI</strong></a></td>
+<td title="Associate Product Manager (Campus Hiring, Batch of 2027)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Product Manager (Campus Hiring, Bat...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lji.bamboohr.com/careers/216" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -489,6 +489,14 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56813"><strong>EOFH</strong></a></td>
+<td title="Sr. Manager - Product - Wealth - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Sr. Manager - Product - Wealth - Mumbai - Lod...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56813" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">17d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://hdga.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Lucyelectric/job/26194"><strong>HDGA</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer Trainee</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Halol<br>Gujarat<br>India</td>
@@ -501,14 +509,6 @@
 <td title="Business Analyst - Corporate Services - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst - Corporate Services - Infor...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56824" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">17d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56813">↳ <strong>EOFH</strong></a></td>
-<td title="Sr. Manager - Product - Wealth - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Sr. Manager - Product - Wealth - Mumbai - Lod...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/56813" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">17d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -569,18 +569,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127669"><strong>Icfcjb</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors Software Eng</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127650"><strong>Icfcjb</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors Embedded Eng</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127669" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127650" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">19d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127650">↳ <strong>Icfcjb</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors Embedded Eng</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127669">↳ <strong>Icfcjb</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Intern Bachelors Software Eng</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127650" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127669" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">19d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -785,18 +785,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904"><strong>EEDU</strong></a></td>
-<td title="Early Careers : 2027 Actuarial Analyst - Graduate Program Insurance Consulting &amp; Technology - Gurugram" style="word-break:break-word; overflow-wrap:anywhere;">Early Careers : 2027 Actuarial Analyst - Grad...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gurgaon<br>Haryana<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15279" title="Fa Elxu Saasfaprod1 Cx 1001"><strong>Fa Elxu Saasfapro...</strong></a></td>
 <td title="Professor / Associate Professor / Assistant Professor-STME (Indore Campus) - Computers/Data Sciences/Business Analytics/ Artificial Intelligence/Information Systems" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">School of Technology Management &amp; Engg.<br>Indore<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15279" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904"><strong>EEDU</strong></a></td>
+<td title="Early Careers : 2027 Actuarial Analyst - Graduate Program Insurance Consulting &amp; Technology - Gurugram" style="word-break:break-word; overflow-wrap:anywhere;">Early Careers : 2027 Actuarial Analyst - Grad...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurgaon<br>Haryana<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202604904" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -841,18 +841,18 @@
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55514"><strong>EOFH</strong></a></td>
-<td title="Technology Manager - Enterprise architect, analytics and security - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - JM" style="word-break:break-word; overflow-wrap:anywhere;">Technology Manager - Enterprise architect, an...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55565"><strong>EOFH</strong></a></td>
+<td title="Manager - Data Science - Analytics - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Manager - Data Science - Analytics - Mumbai -...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55514" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55565" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55565">↳ <strong>EOFH</strong></a></td>
-<td title="Manager - Data Science - Analytics - Mumbai - Lodha (I-Think Techno Campus) - MM" style="word-break:break-word; overflow-wrap:anywhere;">Manager - Data Science - Analytics - Mumbai -...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55514">↳ <strong>EOFH</strong></a></td>
+<td title="Technology Manager - Enterprise architect, analytics and security - Information Technology - Mumbai - Lodha (I-Think Techno Campus) - JM" style="word-break:break-word; overflow-wrap:anywhere;">Technology Manager - Enterprise architect, an...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55565" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://eofh.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/55514" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -913,18 +913,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Analog-Design-Intern_2604050" title="Marvell Marvellcareers2"><strong>Marvell Marvellca...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Analog Design Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Analog-Design-Intern_2604050" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Intern---Systems-Modeling--FPGA-_2604240" title="Marvell Marvellcareers2"><strong>Marvell Marvellca...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Solutions Intern - Systems Modeling (FPGA)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Intern---Systems-Modeling--FPGA-_2604240" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Intern---Systems-Modeling--FPGA-_2604240" title="Marvell Marvellcareers2">↳ <strong>Marvell Marvellca...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Solutions Intern - Systems Modeling (FPGA)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Hyderabad/Solutions-Intern---Systems-Modeling--FPGA-_2604240" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Analog-Design-Intern_2604050" title="Marvell Marvellcareers2">↳ <strong>Marvell Marvellca...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Analog Design Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Bangalore/Analog-Design-Intern_2604050" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -937,18 +937,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15225" title="Fa Elxu Saasfaprod1 Cx 1001"><strong>Fa Elxu Saasfapro...</strong></a></td>
-<td title="Assistant Professor-NSoMASA-Computer Science- Mumbai Campus" style="word-break:break-word; overflow-wrap:anywhere;">Assistant Professor-NSoMASA-Computer Science-...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>School of Mathematics<br>Applied Statistics &amp; Analytics – Mumbai<br>Mumbai<br>India</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15225" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15240" title="Fa Elxu Saasfaprod1 Cx 1001"><strong>Fa Elxu Saasfapro...</strong></a></td>
+<td title="Associate Professor / Assistant Professor- SBM - Operations &amp; Data Sciences (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Professor / Assistant Professor- SB...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">School of Business Management<br>Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15240" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15240" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
-<td title="Associate Professor / Assistant Professor- SBM - Operations &amp; Data Sciences (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Professor / Assistant Professor- SB...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">School of Business Management<br>Mumbai<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15240" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15225" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
+<td title="Assistant Professor-NSoMASA-Computer Science- Mumbai Campus" style="word-break:break-word; overflow-wrap:anywhere;">Assistant Professor-NSoMASA-Computer Science-...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>School of Mathematics<br>Applied Statistics &amp; Analytics – Mumbai<br>Mumbai<br>India</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15225" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1065,18 +1065,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334828"><strong>Qualcomm</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Campus Hire_ System Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334825"><strong>Qualcomm</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Campus Hire_ Sr. System Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>KA<br>IN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334828" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334825" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334825">↳ <strong>Qualcomm</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Campus Hire_ Sr. System Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334828">↳ <strong>Qualcomm</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">2027 Campus Hire_ System Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>KA<br>IN</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334825" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446721334828" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1105,31 +1105,7 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15179" title="Fa Elxu Saasfaprod1 Cx 1001"><strong>Fa Elxu Saasfapro...</strong></a></td>
-<td title="Assistant Professor - MPSTME- Civil Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Assistant Professor - MPSTME- Civil Engineeri...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15179" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15180" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
-<td title="Associate Professor / Assistant Professor - MPSTME- Electronics and Telecommunication Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Professor / Assistant Professor - M...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15180" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15182" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
-<td title="Professor / Associate Professor / Assistant Professor - MPSTME- Mechatronics Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15182" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15131" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15131" title="Fa Elxu Saasfaprod1 Cx 1001"><strong>Fa Elxu Saasfapro...</strong></a></td>
 <td title="Professor / Associate Professor / Assistant Professor -MPSTME- Information Technology (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15131" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -1145,18 +1121,42 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15133" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
-<td title="Professor / Associate Professor / Assistant Professor - MPSTME- Artificial Intelligence (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15133" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15134" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
 <td title="Professor / Associate Professor / Assistant Professor - MPSTME- Mechanical Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15134" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15179" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
+<td title="Assistant Professor - MPSTME- Civil Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Assistant Professor - MPSTME- Civil Engineeri...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15179" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15182" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
+<td title="Professor / Associate Professor / Assistant Professor - MPSTME- Mechatronics Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15182" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15180" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
+<td title="Associate Professor / Assistant Professor - MPSTME- Electronics and Telecommunication Engineering (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Professor / Assistant Professor - M...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15180" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15133" title="Fa Elxu Saasfaprod1 Cx 1001">↳ <strong>Fa Elxu Saasfapro...</strong></a></td>
+<td title="Professor / Associate Professor / Assistant Professor - MPSTME- Artificial Intelligence (Mumbai Campus)" style="word-break:break-word; overflow-wrap:anywhere;">Professor / Associate Professor / Assistant P...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mukesh Patel School of Technology Management &amp; Engineering<br>Mumbai<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://fa-elxu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/15133" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1457,14 +1457,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483849447/"><strong>Sgv Co</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Scientist</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati<br>National Capital Region<br>Philippines</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483849447/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://dscribe.zohorecruit.in/jobs/Careers/194929000001169048" title="Unriddle Technologies"><strong>Unriddle Technolo...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Shivamogga<br>India</td>
@@ -1479,6 +1471,14 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-ai-ml-engineering-intern-generative-ai-agentic-systems-cloud-logan-data-andhra-pradesh-0-to-1-years-201126030204" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492760038/" title="Zytexa Technology Llp"><strong>Zytexa Technology...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Development Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jaipur</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492760038/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/agoda/jobs/6323041"><strong>Agoda</strong></a></td>
@@ -1505,11 +1505,11 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489078773/"><strong>Stitch</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai<br>Tamil Nadu<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489078773/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4483849447/"><strong>Sgv Co</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Data Scientist</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Makati<br>National Capital Region<br>Philippines</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483849447/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1558,6 +1558,70 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491953688/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492574877/"><strong>Crossing Infotech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">React Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492574877/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491913235/"><strong>Miratech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Middleware Java Engineer (NICE)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Roorkee<br>Uttarakhand<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491913235/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492151942/"><strong>Whiterapps</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Intern (IOS)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492151942/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491619554/"><strong>Maven Infotech B V</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491619554/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492143197/"><strong>Medinex Workforce</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Java Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492143197/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492403507/" title="Achiredo Technologies"><strong>Achiredo Technolo...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492403507/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://exotel.hire.trakstar.com/jobs/fk0zxxh"><strong>Exotel</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://exotel.hire.trakstar.com/jobs/fk0zxxh" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491887391/"><strong>UDOT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491887391/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -1669,118 +1733,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Pune</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491684786/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492760038/" title="Zytexa Technology Llp"><strong>Zytexa Technology...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Development Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jaipur</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492760038/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492729642/"><strong>Unloq</strong></a></td>
-<td title="Internship - AI Engineer, Decision Engine (Fast-Track to FT Role)" style="word-break:break-word; overflow-wrap:anywhere;">Internship - AI Engineer, Decision Engine (Fa...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492729642/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492709605/"><strong>Microzensys Inc</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dotnet Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492709605/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://noct.zohorecruit.in/jobs/Careers/40797000006703047"><strong>NOCT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Quality Assurance Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote/Panchgani<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://noct.zohorecruit.in/jobs/Careers/40797000006703047" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://payreto.applytojob.com/apply/xojmH1qe6j/Full-Stack-Developer-Intern"><strong>Payreto</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>Metro Manila</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://payreto.applytojob.com/apply/xojmH1qe6j/Full-Stack-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923516746">🔥 <strong>Paypal</strong></a></td>
-<td title="Machine Learning Engineer, Fraud (Crypto &amp; Debit Card)" style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer, Fraud (Crypto &amp; De...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.eightfold.ai/careers/job/274923516746" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492574877/"><strong>Crossing Infotech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">React Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492574877/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491913235/"><strong>Miratech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Middleware Java Engineer (NICE)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Roorkee<br>Uttarakhand<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491913235/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491887391/"><strong>UDOT</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hardware Engineering Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491887391/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492151942/"><strong>Whiterapps</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Intern (IOS)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492151942/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491619554/"><strong>Maven Infotech B V</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491619554/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492143197/"><strong>Medinex Workforce</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Java Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492143197/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492403507/" title="Achiredo Technologies"><strong>Achiredo Technolo...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492403507/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://exotel.hire.trakstar.com/jobs/fk0zxxh"><strong>Exotel</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sales Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://exotel.hire.trakstar.com/jobs/fk0zxxh" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -1897,6 +1849,70 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489078773/"><strong>Stitch</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Manager</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai<br>Tamil Nadu<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489078773/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492729642/"><strong>Unloq</strong></a></td>
+<td title="Internship - AI Engineer, Decision Engine (Fast-Track to FT Role)" style="word-break:break-word; overflow-wrap:anywhere;">Internship - AI Engineer, Decision Engine (Fa...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492729642/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492709605/"><strong>Microzensys Inc</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dotnet Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492709605/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://noct.zohorecruit.in/jobs/Careers/40797000006703047"><strong>NOCT</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Design Quality Assurance Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote/Panchgani<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://noct.zohorecruit.in/jobs/Careers/40797000006703047" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://payreto.applytojob.com/apply/xojmH1qe6j/Full-Stack-Developer-Intern"><strong>Payreto</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Makati City<br>Metro Manila</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://payreto.applytojob.com/apply/xojmH1qe6j/Full-Stack-Developer-Intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://paypal.eightfold.ai/careers/job/274923516746">🔥 <strong>Paypal</strong></a></td>
+<td title="Machine Learning Engineer, Fraud (Crypto &amp; Debit Card)" style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Engineer, Fraud (Crypto &amp; De...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://paypal.eightfold.ai/careers/job/274923516746" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492142317/"><strong>Digital Nomadians</strong></a></td>
+<td title="Frontend Website Developer (Only for Dehradun People)" style="word-break:break-word; overflow-wrap:anywhere;">Frontend Website Developer (Only for Dehradun...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dehradun<br>Uttarakhand<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492142317/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492128635/"><strong>Mastervastu</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jaipur<br>Rajasthan<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492128635/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492156589/"><strong>Whiterapps</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Trainee</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
@@ -1957,22 +1973,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Intern (SDI)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Andhra Pradesh</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4332214617/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492142317/"><strong>Digital Nomadians</strong></a></td>
-<td title="Frontend Website Developer (Only for Dehradun People)" style="word-break:break-word; overflow-wrap:anywhere;">Frontend Website Developer (Only for Dehradun...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Dehradun<br>Uttarakhand<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492142317/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492128635/"><strong>Mastervastu</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jaipur<br>Rajasthan<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492128635/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2569,11 +2569,99 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008"><strong>True Foundry</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://t.me/jobs_and_internships_updates/7514"><strong>LSEG</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI/ML Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://t.me/jobs_and_internships_updates/7514" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491298311/"><strong>Cancard Inc</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Delhi</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491298311/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4490281362/"><strong>Thinknovaa Pvt Ltd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Backend Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4490281362/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489739449/"><strong>Testlify</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489739449/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-data-science-intern-snapdeal-limited-gurugram-0-to-1-years-161126001269"><strong>Snapdeal</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-data-science-intern-snapdeal-limited-gurugram-0-to-1-years-161126001269" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.google.com/about/careers/applications/jobs/results/96299220855595718">🔥 <strong>Google</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Forward Deployed Engineer Intern, 2027</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.google.com/about/careers/applications/jobs/results/96299220855595718" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489707854/"><strong>Mhtechin</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune District</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489707854/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.ycombinator.com/companies/clinikally/jobs/CZN0FqX-devops-intern"><strong>Clinikally</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DevOps Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IN</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.ycombinator.com/companies/clinikally/jobs/CZN0FqX-devops-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.clanx.ai/o/ai-backend-engineer-genaipython-mumbai"><strong>Clanx</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Backend Engineer (GenAI/Python) - Mumbai</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Mahārāshtra<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.clanx.ai/o/ai-backend-engineer-genaipython-mumbai" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://openinapp.freshteam.com/jobs/vXQ1Zn7bbSgd/product-tester-intern-onsite"><strong>Openinapp</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Product Tester - Intern (Onsite)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://openinapp.freshteam.com/jobs/vXQ1Zn7bbSgd/product-tester-intern-onsite" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491256380/"><strong>Devryxa</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491256380/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4491206894/"><strong>Plearun</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491206894/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -2849,50 +2937,194 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000003000087" title="Ladybird Web Solution"><strong>Ladybird Web Solu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">QA Internship</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Virajpet<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://faveohelpdesk.zohorecruit.in/jobs/Careers/197970000003000087" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">27d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4482485535/"><strong>TVH</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Engineering Intern-2</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune Division</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4482485535/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488337124/" title="Bridgestone Technology"><strong>Bridgestone Techn...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">WordPress/Shopify Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Jaipur</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488337124/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489615629/"><strong>Thales</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489561072/"><strong>Pmglide</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489615629/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Delhi</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489561072/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4487465338/"><strong>A1 Career Services</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">PHP Developer Trainee/Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489579081/"><strong>Primriq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Web Developer (Internship)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489579081/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488599651/"><strong>Nxtgensec Pvt Ltd</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Greater Bengaluru Area</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488599651/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489522819/"><strong>Delhivery</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AI Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489522819/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489069904/"><strong>Primriq</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack (MERN) Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489069904/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488594958/"><strong>Azimuthforge</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Web Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488594958/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489542602/"><strong>Developing Bee</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Laravel Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Lucknow</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4487465338/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489542602/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4487801092/"><strong>Offshore Minds</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4490551152/"><strong>Viralchilly</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">WordPress Developer Internship</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Jaipur</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4490551152/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488292701/"><strong>Appinventiv</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488292701/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489272432/"><strong>Platypusbox</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Unity Developer intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489272432/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489239670/"><strong>Enveu</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full-Stack Software Engineering Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489239670/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489217152/"><strong>Sicuaura</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">React Native iOS Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Barrackpur-II</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489217152/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488283587/"><strong>Azimuthforge</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Full Stack Development Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488283587/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488288949/"><strong>Neolakes Ai</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4487801092/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488288949/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://firstadvantage.applytojob.com/apply/qgEHXnZTt9/Associate-Software-QA-Engineer"><strong>First Advantage</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Associate Software QA Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>ITPL Bangalore<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://firstadvantage.applytojob.com/apply/qgEHXnZTt9/Associate-Software-QA-Engineer" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488204861/"><strong>Saytrix Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune Division</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488204861/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488353489/"><strong>COY</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488353489/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488670765/"><strong>Hancod</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Flutter Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Perintalmanna</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488670765/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488200690/"><strong>Articulus Surgical</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineering Intern - Robotics</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488200690/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4488220086/">🔥 <strong>IBM</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kochi<br>Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488220086/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008"><strong>True Foundry</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://app.careerpuck.com/job-board/truefoundry/job/5127144008?gh_jid=5127144008" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4489623386/"><strong>Thales</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Embedded Software Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4489623386/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/en/jobs/10593781/software-development-engineer-esi">🔥 <strong>Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Development Engineer, ESI</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana<br>IND</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.amazon.jobs/en/jobs/10593781/software-development-engineer-esi" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;">role</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006944055"><strong>Wadhwani Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Delhi<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://wadhwaniai.zohorecruit.in/jobs/Careers/146520000006944055" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2909,14 +3141,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Front-End React.js Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Ahmedabad</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4488320440/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.pyjamahr.com/codemon/machine-learning-intern-ai-ml"><strong>Codemonk</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Machine Learning Intern (AI/ML)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>Karnataka<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.pyjamahr.com/codemon/machine-learning-intern-ai-ml" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -2951,6 +3175,190 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/entry-level-business-analyst-bba-bca-ba/hucon-solutions-india-pvtltd/20082075" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">8d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/full-stack-native-ai-node-react-freshers-entry-level/firstsource/20088162"><strong>Firstsource</strong></a></td>
+<td title="Full stack Native AI - Node &amp; React (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Full stack Native AI - Node &amp; React (Freshers...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/full-stack-native-ai-node-react-freshers-entry-level/firstsource/20088162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/associate-software-engineer-python-oracle-sql-freshers-entry-level/nielseniq/20072718"><strong>Nielseniq</strong></a></td>
+<td title="Associate Software Engineer (Python + Oracle SQL) (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer (Python + Oracle ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/associate-software-engineer-python-oracle-sql-freshers-entry-level/nielseniq/20072718" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-gpu-software-engineer-freshers-entry-level/oxmiq-labs/19966828"><strong>Oxmiq Labs</strong></a></td>
+<td title="Junior GPU Software Engineer (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Junior GPU Software Engineer (Freshers / Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-gpu-software-engineer-freshers-entry-level/oxmiq-labs/19966828" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">23d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/business-analyst-entry-level/remote-quest-jobs/20093743"><strong>Remote Quest</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst, Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/business-analyst-entry-level/remote-quest-jobs/20093743" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/servicenow-developer-it-freshers-entry-level/edwards-lifesciences/20058145"><strong>Edwards Lifesciences</strong></a></td>
+<td title="ServiceNow Developer, IT (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">ServiceNow Developer, IT (Freshers / Entry Le...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/servicenow-developer-it-freshers-entry-level/edwards-lifesciences/20058145" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/fullstack-nodejs-react-freshers-entry-level/ust/20072426"><strong>UST</strong></a></td>
+<td title="Fullstack - Node.js, React (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Fullstack - Node.js, React (Freshers / Entry ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/fullstack-nodejs-react-freshers-entry-level/ust/20072426" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-software-engineer-ai-native-development-perfecter-ai-chennai-0-to-4-years-061126025131"><strong>Perfecter</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer, AI-Native Development</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-software-engineer-ai-native-development-perfecter-ai-chennai-0-to-4-years-061126025131" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.instahyre.com/job-477911-junior-software-engineer-at-caliber-technologies-hyderabad/"><strong>Caliber Technologies</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.instahyre.com/job-477911-junior-software-engineer-at-caliber-technologies-hyderabad/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-frontend-engineer-html-css-noida/soul-ai/20057548"><strong>Soul Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Frontend Engineer (HTML/CSS) (Noida)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida<br>Uttar Pradesh</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-frontend-engineer-html-css-noida/soul-ai/20057548" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492817199/"><strong>Recruitbots Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior GenAI Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492817199/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.foundit.in/job/junior-interior-designer-ashish-jangid-and-developers-delhi-69887591" title="Ashish Jangid And Developers"><strong>Ashish Jangid And...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Interior Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Delhi</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.foundit.in/job/junior-interior-designer-ashish-jangid-and-developers-delhi-69887591" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-web-developer-wordpress-virar/lucent-digital/19938897"><strong>Lucent Digital</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Web Developer Wordpress Virar</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Vasai<br>Maharashtra</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-web-developer-wordpress-virar/lucent-digital/19938897" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">26d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qloron.keka.com/careers/jobdetails/170667"><strong>Qloron</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior RPA Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qloron.keka.com/careers/jobdetails/170667" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/associate-software-engineer-off-campus-fresher-drive-btech-mca/cognizant-technology-solutions/20105881" title="Cognizant Technology Solutions"><strong>Cognizant Technol...</strong></a></td>
+<td title="Associate Software Engineer Off-Campus Fresher Drive (B.Tech / MCA)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer Off-Campus Freshe...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/associate-software-engineer-off-campus-fresher-drive-btech-mca/cognizant-technology-solutions/20105881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-cloud-devops-trainee-engineer-fresher-0-1-year/capgemini-technology-services-india/20102809" title="Capgemini Technology Services India"><strong>Capgemini Technol...</strong></a></td>
+<td title="Junior Cloud &amp; DevOps Trainee Engineer (Fresher 0-1 Year)" style="word-break:break-word; overflow-wrap:anywhere;">Junior Cloud &amp; DevOps Trainee Engineer (Fresh...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-cloud-devops-trainee-engineer-fresher-0-1-year/capgemini-technology-services-india/20102809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/salesforce-off-campus-hiring-fresher-for-system-analyst-hyderabad-bangalore/salesforce/20054934">🔥 <strong>Salesforce</strong></a></td>
+<td title="Salesforce Off Campus Hiring Fresher For System Analyst | Hyderabad/Bangalore" style="word-break:break-word; overflow-wrap:anywhere;">Salesforce Off Campus Hiring Fresher For Syst...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>Karnataka</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/salesforce-off-campus-hiring-fresher-for-system-analyst-hyderabad-bangalore/salesforce/20054934" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/qualcomm-off-campus-drive-recruiting-freshers-as-software-engineering-for/qualcomm/20036356"><strong>Qualcomm</strong></a></td>
+<td title="Qualcomm Off Campus Drive 2024 Recruiting Freshers as Software Engineering for" style="word-break:break-word; overflow-wrap:anywhere;">Qualcomm Off Campus Drive 2024 Recruiting Fre...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/qualcomm-off-campus-drive-recruiting-freshers-as-software-engineering-for/qualcomm/20036356" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-l2-l3-support-engineer/astek/20087163"><strong>Astek</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior L2/L3 Support Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kochi<br>Kerala</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-l2-l3-support-engineer/astek/20087163" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-it-support-technician-emerald-leisures-mumbai-all-areas-0-to-1-years-191126024940"><strong>Emerald Leisures</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Technician</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai (All Areas)</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-it-support-technician-emerald-leisures-mumbai-all-areas-0-to-1-years-191126024940" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/remote-data-entry-junior-data-engineer-entrylevel-position/remote-quest-jobs/20088080"><strong>Remote Quest</strong></a></td>
+<td title="Remote Data Entry &amp; Junior Data Engineer EntryLevel Position" style="word-break:break-word; overflow-wrap:anywhere;">Remote Data Entry &amp; Junior Data Engineer Entr...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/remote-data-entry-junior-data-engineer-entrylevel-position/remote-quest-jobs/20088080" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">6d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-software-developer-remote/remote-quest-jobs/20108450"><strong>Remote Quest</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Developer - REMOTE</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-software-developer-remote/remote-quest-jobs/20108450" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-it-specialist-noida/tekskills/20040895"><strong>Tekskills</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Specialist (Noida)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Noida<br>Uttar Pradesh</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-it-specialist-noida/tekskills/20040895" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-data-analytics-engineer-itradiant-hyderabad-0-to-5-years-061126501009"><strong>Itradiant Solutions</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Analytics Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-data-analytics-engineer-itradiant-hyderabad-0-to-5-years-061126501009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/remote-entry-level-game-tester-freshers-welcome/the-elite-job/20050821"><strong>The Elite Job</strong></a></td>
@@ -3025,27 +3433,11 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qloron.keka.com/careers/jobdetails/170667"><strong>Qloron</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior RPA Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai<br>Maharashtra<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qloron.keka.com/careers/jobdetails/170667" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/associate-software-engineer-off-campus-fresher-drive-btech-mca/cognizant-technology-solutions/20105881" title="Cognizant Technology Solutions"><strong>Cognizant Technol...</strong></a></td>
-<td title="Associate Software Engineer Off-Campus Fresher Drive (B.Tech / MCA)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer Off-Campus Freshe...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/associate-software-engineer-off-campus-fresher-drive-btech-mca/cognizant-technology-solutions/20105881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-cloud-devops-trainee-engineer-fresher-0-1-year/capgemini-technology-services-india/20102809" title="Capgemini Technology Services India"><strong>Capgemini Technol...</strong></a></td>
-<td title="Junior Cloud &amp; DevOps Trainee Engineer (Fresher 0-1 Year)" style="word-break:break-word; overflow-wrap:anywhere;">Junior Cloud &amp; DevOps Trainee Engineer (Fresh...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-cloud-devops-trainee-engineer-fresher-0-1-year/capgemini-technology-services-india/20102809" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-frontend-engineer-html-css-soul-ai-new-delhi-0-to-1-years-061126918933"><strong>Soul Ai</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Frontend Engineer (HTML/CSS)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">New Delhi</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-frontend-engineer-html-css-soul-ai-new-delhi-0-to-1-years-061126918933" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">16d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -3065,164 +3457,12 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-frontend-engineer-html-css-soul-ai-new-delhi-0-to-1-years-061126918933"><strong>Soul Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Frontend Engineer (HTML/CSS)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">New Delhi</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-frontend-engineer-html-css-soul-ai-new-delhi-0-to-1-years-061126918933" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/graduate-trainee-solar-sales-engineer/crowning-consulting/20024173"><strong>Crowning Consulting</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">graduate trainee - solar sales engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Delhi<br>Delhi-NCR Region</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/graduate-trainee-solar-sales-engineer/crowning-consulting/20024173" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">16d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-software-engineer-ai-native-development-perfecter-ai-chennai-0-to-4-years-061126025131"><strong>Perfecter</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer, AI-Native Development</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Chennai</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-software-engineer-ai-native-development-perfecter-ai-chennai-0-to-4-years-061126025131" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.instahyre.com/job-477911-junior-software-engineer-at-caliber-technologies-hyderabad/"><strong>Caliber Technologies</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.instahyre.com/job-477911-junior-software-engineer-at-caliber-technologies-hyderabad/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-frontend-engineer-html-css-noida/soul-ai/20057548"><strong>Soul Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Frontend Engineer (HTML/CSS) (Noida)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Noida<br>Uttar Pradesh</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-frontend-engineer-html-css-noida/soul-ai/20057548" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492817199/"><strong>Recruitbots Ai</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior GenAI Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492817199/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-web-developer-wordpress-virar/lucent-digital/19938897"><strong>Lucent Digital</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Web Developer Wordpress Virar</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Vasai<br>Maharashtra</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-web-developer-wordpress-virar/lucent-digital/19938897" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/salesforce-off-campus-hiring-fresher-for-system-analyst-hyderabad-bangalore/salesforce/20054934">🔥 <strong>Salesforce</strong></a></td>
-<td title="Salesforce Off Campus Hiring Fresher For System Analyst | Hyderabad/Bangalore" style="word-break:break-word; overflow-wrap:anywhere;">Salesforce Off Campus Hiring Fresher For Syst...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>Karnataka</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/salesforce-off-campus-hiring-fresher-for-system-analyst-hyderabad-bangalore/salesforce/20054934" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/qualcomm-off-campus-drive-recruiting-freshers-as-software-engineering-for/qualcomm/20036356"><strong>Qualcomm</strong></a></td>
-<td title="Qualcomm Off Campus Drive 2024 Recruiting Freshers as Software Engineering for" style="word-break:break-word; overflow-wrap:anywhere;">Qualcomm Off Campus Drive 2024 Recruiting Fre...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/qualcomm-off-campus-drive-recruiting-freshers-as-software-engineering-for/qualcomm/20036356" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">14d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-l2-l3-support-engineer/astek/20087163"><strong>Astek</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior L2/L3 Support Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kochi<br>Kerala</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-l2-l3-support-engineer/astek/20087163" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-it-support-technician-emerald-leisures-mumbai-all-areas-0-to-1-years-191126024940"><strong>Emerald Leisures</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Technician</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Mumbai (All Areas)</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-it-support-technician-emerald-leisures-mumbai-all-areas-0-to-1-years-191126024940" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/remote-data-entry-junior-data-engineer-entrylevel-position/remote-quest-jobs/20088080"><strong>Remote Quest</strong></a></td>
-<td title="Remote Data Entry &amp; Junior Data Engineer EntryLevel Position" style="word-break:break-word; overflow-wrap:anywhere;">Remote Data Entry &amp; Junior Data Engineer Entr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/remote-data-entry-junior-data-engineer-entrylevel-position/remote-quest-jobs/20088080" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/full-stack-native-ai-node-react-freshers-entry-level/firstsource/20088162"><strong>Firstsource</strong></a></td>
-<td title="Full stack Native AI - Node &amp; React (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Full stack Native AI - Node &amp; React (Freshers...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/full-stack-native-ai-node-react-freshers-entry-level/firstsource/20088162" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/associate-software-engineer-python-oracle-sql-freshers-entry-level/nielseniq/20072718"><strong>Nielseniq</strong></a></td>
-<td title="Associate Software Engineer (Python + Oracle SQL) (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Associate Software Engineer (Python + Oracle ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/associate-software-engineer-python-oracle-sql-freshers-entry-level/nielseniq/20072718" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-gpu-software-engineer-freshers-entry-level/oxmiq-labs/19966828"><strong>Oxmiq Labs</strong></a></td>
-<td title="Junior GPU Software Engineer (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Junior GPU Software Engineer (Freshers / Entr...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-gpu-software-engineer-freshers-entry-level/oxmiq-labs/19966828" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">23d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/business-analyst-entry-level/remote-quest-jobs/20093743"><strong>Remote Quest</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst, Entry Level</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/business-analyst-entry-level/remote-quest-jobs/20093743" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">6d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/servicenow-developer-it-freshers-entry-level/edwards-lifesciences/20058145"><strong>Edwards Lifesciences</strong></a></td>
-<td title="ServiceNow Developer, IT (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">ServiceNow Developer, IT (Freshers / Entry Le...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Pune<br>Maharashtra</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/servicenow-developer-it-freshers-entry-level/edwards-lifesciences/20058145" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/fullstack-nodejs-react-freshers-entry-level/ust/20072426"><strong>UST</strong></a></td>
-<td title="Fullstack - Node.js, React (Freshers / Entry Level)" style="word-break:break-word; overflow-wrap:anywhere;">Fullstack - Node.js, React (Freshers / Entry ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad<br>Telangana</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/fullstack-nodejs-react-freshers-entry-level/ust/20072426" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-software-developer-remote/remote-quest-jobs/20108450"><strong>Remote Quest</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Developer - REMOTE</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-software-developer-remote/remote-quest-jobs/20108450" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-it-specialist-noida/tekskills/20040895"><strong>Tekskills</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Specialist (Noida)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Noida<br>Uttar Pradesh</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-it-specialist-noida/tekskills/20040895" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">14d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-junior-data-analytics-engineer-itradiant-hyderabad-0-to-5-years-061126501009"><strong>Itradiant Solutions</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Analytics Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Hyderabad</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-junior-data-analytics-engineer-itradiant-hyderabad-0-to-5-years-061126501009" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">16d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-javascript-developer-remote-work-delhi/bairesdev/20023790"><strong>Bairesdev</strong></a></td>
@@ -3253,6 +3493,22 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Machine Learning &amp; AI Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Delhi<br>Delhi-NCR Region</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-machine-learning-ai-engineer/giri-consultancy/20036507" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">14d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ruderfinn.wd5.myworkdayjobs.com/ruderfinn/job/Gurgaon/Junior-Graphic-Designer_R1254"><strong>Ruderfinn</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Graphic Designer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Gurgaon</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ruderfinn.wd5.myworkdayjobs.com/ruderfinn/job/Gurgaon/Junior-Graphic-Designer_R1254" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-interior-designer-fresher/glamerhomz/20039381"><strong>Glamerhomz</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Interior Designer - Fresher</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Bangalore<br>Karnataka</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-interior-designer-fresher/glamerhomz/20039381" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">14d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -3401,6 +3657,22 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cutshort.io/job/Junior-PHP-Laravel-Developer-Education-ERP-CNV-AI-Labs-Inc-EMyARwG0&amp;applicationsource=freehire-feed"><strong>Cnv Ai Labs Inc</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior PHP/Laravel Developer- Education ERP</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cutshort.io/job/Junior-PHP-Laravel-Developer-Education-ERP-CNV-AI-Labs-Inc-EMyARwG0&amp;applicationsource=freehire-feed" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">22d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-site-reliability-engineer/unified-infotech/19936949"><strong>Unified Infotech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Site Reliability Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kolkata<br>West Bengal</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-site-reliability-engineer/unified-infotech/19936949" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">26d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-software-engineer-full-stack-developer-navi-mumbai/acura-solution/20041713"><strong>Acura Solution</strong></a></td>
 <td title="Junior Software Engineer (Full Stack Developer) (Navi Mumbai)" style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer (Full Stack Develope...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Navi Mumbai<br>Maharashtra</td>
@@ -3446,22 +3718,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cutshort.io/job/Junior-PHP-Laravel-Developer-Education-ERP-CNV-AI-Labs-Inc-ZNTuLGED&amp;applicationsource=freehire-feed" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">20d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://cutshort.io/job/Junior-PHP-Laravel-Developer-Education-ERP-CNV-AI-Labs-Inc-EMyARwG0&amp;applicationsource=freehire-feed"><strong>Cnv Ai Labs Inc</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior PHP/Laravel Developer- Education ERP</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://cutshort.io/job/Junior-PHP-Laravel-Developer-Education-ERP-CNV-AI-Labs-Inc-EMyARwG0&amp;applicationsource=freehire-feed" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.shine.com/jobs/junior-site-reliability-engineer/unified-infotech/19936949"><strong>Unified Infotech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Site Reliability Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Kolkata<br>West Bengal</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.shine.com/jobs/junior-site-reliability-engineer/unified-infotech/19936949" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">26d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -4825,22 +5081,6 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731054005"><strong>Razorpay</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Bengaluru<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4731054005" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://sunking.pinpointhq.com/en/postings/9864ad7b-8726-43d6-88d6-55e00bc8cd62"><strong>Sun King</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SDE I - Backend</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://sunking.pinpointhq.com/en/postings/9864ad7b-8726-43d6-88d6-55e00bc8cd62" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://lifeattiktok.com/search/7698216094163831093">🔥 <strong>Tiktok</strong></a></td>
 <td title="AI Evaluation &amp; Enablement Specialist Intern - TikTok ADSO - 2027 Start" style="word-break:break-word; overflow-wrap:anywhere;">AI Evaluation &amp; Enablement Specialist Intern ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Kuala Lumpur<br>Malaysia</td>
@@ -5119,14 +5359,6 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://lifeattiktok.com/search/7691181055635327237" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.amazon.jobs/jobs/10557374/apply">🔥 <strong>Amazon</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Applied Scientist I - Amazon Shipping</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Gurugram<br>India</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.amazon.jobs/jobs/10557374/apply" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2mo</td>
-<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://transunion.wd5.myworkdayjobs.com/en-US/transunion/job/Hyderabad/Data-Analyst_19043210"><strong>Transunion</strong></a></td>
@@ -5594,4 +5826,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->
+<!-- searchtern:generation 20261122T175835Z-5fb4d9490221 -->

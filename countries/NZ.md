@@ -81,20 +81,20 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/nz/job/software-developer-intern-fintech-hands-on-experience--wellington--e070b25319352ca12eb3ab55cb0cc91e1"><strong>Securitease</strong></a></td>
-<td title="Software Developer Intern: FinTech, Hands-On Experience" style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern: FinTech, Hands-On ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wellington<br>Wellington</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/nz/job/software-developer-intern-fintech-hands-on-experience--wellington--e070b25319352ca12eb3ab55cb0cc91e1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/nz/job/unreal-engine-programmer-intern--auckland--ece062c182557a208202d4ff44a55629e"><strong>Game Companies</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Unreal Engine Programmer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Auckland<br>Auckland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/nz/job/unreal-engine-programmer-intern--auckland--ece062c182557a208202d4ff44a55629e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/nz/job/software-developer-intern--wellington--e05e516fac074f13ce73b24981ead643e">↳ <strong>Securitease</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Wellington<br>Wellington</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/nz/job/software-developer-intern--wellington--e05e516fac074f13ce73b24981ead643e" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/zuru/e0ea0f41-9e54-4a34-95a7-5a6ce5ffc886"><strong>ZURU</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Auckland | New Zealand</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/zuru/e0ea0f41-9e54-4a34-95a7-5a6ce5ffc886" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1mo</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/nz/job/remote-junior-data-analyst-apprentice--queenstown--e521c8cf67755c37ab437f6f9fab7fbf8"><strong>Placements</strong></a></td>
@@ -111,14 +111,6 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/nz/job/junior-data-analyst-apprentice--queenstown--eb363b41c3726b45e33a57c6c9bda1da2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">11d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.ashbyhq.com/zuru/e0ea0f41-9e54-4a34-95a7-5a6ce5ffc886"><strong>ZURU</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior IT Support Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Auckland | New Zealand</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.ashbyhq.com/zuru/e0ea0f41-9e54-4a34-95a7-5a6ce5ffc886" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1mo</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.co.nz/job/95531908"><strong>Bureau Limited</strong></a></td>
@@ -210,4 +202,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->
+<!-- searchtern:generation 20261122T175835Z-5fb4d9490221 -->

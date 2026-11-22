@@ -1,6 +1,6 @@
 # 🇲🇽 Mexico — SearchTern Listings
 
-**135 listings** as of November 22, 2026
+**140 listings** as of November 22, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -217,18 +217,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/43597954"><strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Design Verification Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/43754866"><strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">DRAM Design Engineer (Intern)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jal.<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/43597954" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/43754866" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/43754866">↳ <strong>Micron Technology</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">DRAM Design Engineer (Intern)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://micron.eightfold.ai/careers/job/43597954">↳ <strong>Micron Technology</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Design Verification Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Tlaquepaque<br>Jal.<br>Mexico</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/43754866" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://micron.eightfold.ai/careers/job/43597954" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
@@ -505,11 +505,27 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.cake.me/companies/celestica/jobs/f3f22439-660b-49c0-a36a-76cd3cf67778-automation-systems-engineer-ent-8dfbf1fae549bc0f31061ed588d8fe"><strong>Celestica</strong></a></td>
-<td title="Automation Systems Engineer (Entry-Level / PLC Focus)" style="word-break:break-word; overflow-wrap:anywhere;">Automation Systems Engineer (Entry-Level / PL...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Monterrey<br>Monterrey<br>Nuevo León<br>Mexico</details></td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.cake.me/companies/celestica/jobs/f3f22439-660b-49c0-a36a-76cd3cf67778-automation-systems-engineer-ent-8dfbf1fae549bc0f31061ed588d8fe" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">11d</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://careers.se.com/jobs/141904?lang=en-us"><strong>Schneider Electric</strong></a></td>
+<td title="Sales Operations Engineer / Inside Sales Engineer" style="word-break:break-word; overflow-wrap:anywhere;">Sales Operations Engineer / Inside Sales Engi...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mexico-Distrito Federal-Mexico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://careers.se.com/jobs/141904?lang=en-us" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/mx/job/remote-data-analytics-intern-python-tableau-insights--merida--eb60a7a4ea23dde0ea0c9ed8ae5b39f3a"><strong>Arkum Desarrollos</strong></a></td>
+<td title="Remote Data Analytics Intern | Python, Tableau, Insights" style="word-break:break-word; overflow-wrap:anywhere;">Remote Data Analytics Intern | Python, Tablea...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Mérida<br>Yucatán</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/mx/job/remote-data-analytics-intern-python-tableau-insights--merida--eb60a7a4ea23dde0ea0c9ed8ae5b39f3a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.greenhouse.io/outsetmedical/jobs/8597822002"><strong>Outset Medical</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Tijuana<br>Mexico</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/outsetmedical/jobs/8597822002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -535,6 +551,14 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://startup.jobs/financial-data-analyst-junior-junior-mx-finance-plata-card-10792052" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.cake.me/companies/celestica/jobs/f3f22439-660b-49c0-a36a-76cd3cf67778-automation-systems-engineer-ent-8dfbf1fae549bc0f31061ed588d8fe"><strong>Celestica</strong></a></td>
+<td title="Automation Systems Engineer (Entry-Level / PLC Focus)" style="word-break:break-word; overflow-wrap:anywhere;">Automation Systems Engineer (Entry-Level / PL...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Monterrey<br>Monterrey<br>Nuevo León<br>Mexico</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.cake.me/companies/celestica/jobs/f3f22439-660b-49c0-a36a-76cd3cf67778-automation-systems-engineer-ent-8dfbf1fae549bc0f31061ed588d8fe" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">11d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://klar.bamboohr.com/careers/453"><strong>KLAR</strong></a></td>
@@ -946,4 +970,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261122T174820Z-0c2f416afbfb -->
+<!-- searchtern:generation 20261122T175835Z-5fb4d9490221 -->
