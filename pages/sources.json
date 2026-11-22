@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T23:20:05.702211+00:00",
+  "generated_at": "2026-11-22T23:38:15.766163+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,14 +7,14 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 18832
+      "count": 18835
     },
     {
       "name": "freehire.me",
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3931
+      "count": 3998
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -84,7 +84,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1538
+      "count": 1529
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -126,7 +126,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/data-science-ai-machine-learning.md",
       "type": "internship",
       "season": "2027",
-      "count": 776
+      "count": 775
     },
     {
       "name": "aprameyak Off-Cycle/Co-op",
@@ -213,17 +213,17 @@
       "count": 380
     },
     {
-      "name": "Jobspy (Indeed)",
-      "url": "https://github.com/zanellia/jobspy",
-      "type": "internship",
-      "season": "",
-      "count": 356
-    },
-    {
       "name": "zshah101 Summer 2027 US",
       "url": "https://raw.githubusercontent.com/zshah101/summer-2027-fall-2026-internships/main/data/internships.csv",
       "type": "internship",
       "season": "2027",
+      "count": 351
+    },
+    {
+      "name": "Jobspy (Indeed)",
+      "url": "https://github.com/zanellia/jobspy",
+      "type": "internship",
+      "season": "",
       "count": 351
     },
     {
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3
+      "count": 5
     },
     {
       "name": "vanshb03 Summer 2026",
