@@ -1,11 +1,39 @@
 {
- "additions": [],
+ "additions": [
+  {
+   "added": 756,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "light"
+  },
+  {
+   "added": 163,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "medium"
+  },
+  {
+   "added": 119,
+   "samples": [],
+   "samples_truncated": true,
+   "source": "ecr"
+  }
+ ],
  "ats_conflicts": [
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 21633,
+   "count": 22285,
    "kind": "ats_identity_split"
+  },
+  {
+   "ats_id": "10596",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
   },
   {
    "ats_id": "1070",
@@ -134,6 +162,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "13497",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "135",
    "ats_types": [
     "bamboohr",
@@ -143,10 +180,37 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "13575",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "13668",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "1376",
    "ats_types": [
     "cornerstone",
     "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "1393",
+   "ats_types": [
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -288,6 +352,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "1546",
+   "ats_types": [
+    "bamboohr",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "15460",
    "ats_types": [
     "avature",
@@ -352,6 +425,15 @@
   },
   {
    "ats_id": "15690",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "15691",
    "ats_types": [
     "icims",
     "taleo"
@@ -491,24 +573,6 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1714",
-   "ats_types": [
-    "cornerstone",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
-   "ats_id": "1729",
-   "ats_types": [
-    "cornerstone",
-    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -695,6 +759,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "21112",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "21117",
    "ats_types": [
     "cornerstone",
@@ -795,6 +868,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "2173",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "2181",
    "ats_types": [
     "cornerstone",
@@ -841,6 +923,15 @@
   },
   {
    "ats_id": "21926",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "2193",
    "ats_types": [
     "cornerstone",
     "icims"
@@ -921,6 +1012,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "25994",
+   "ats_types": [
+    "icims",
+    "phenom"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "265",
    "ats_types": [
     "bamboohr",
@@ -993,6 +1093,33 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3218",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3219",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3223",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "323",
    "ats_types": [
     "bamboohr",
@@ -1024,6 +1151,15 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3253",
+   "ats_types": [
+    "cornerstone",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1129,6 +1265,15 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3711",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "3727",
    "ats_types": [
     "cornerstone",
@@ -1192,6 +1337,24 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "3842",
+   "ats_types": [
+    "icims",
+    "taleo"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "3845",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "38474",
    "ats_types": [
     "cornerstone",
@@ -1228,6 +1391,24 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
+   "ats_id": "45908",
+   "ats_types": [
+    "eightfold",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "4682",
+   "ats_types": [
+    "cornerstone",
+    "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
    "ats_id": "486",
    "ats_types": [
     "bamboohr",
@@ -1250,6 +1431,15 @@
    "ats_types": [
     "bamboohr",
     "cornerstone"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "5130",
+   "ats_types": [
+    "bamboohr",
+    "icims"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1304,6 +1494,15 @@
    "ats_types": [
     "cornerstone",
     "icims"
+   ],
+   "count": 2,
+   "kind": "ats_id_under_multiple_ats_types"
+  },
+  {
+   "ats_id": "6525",
+   "ats_types": [
+    "icims",
+    "taleo"
    ],
    "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
@@ -1444,15 +1643,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "r170977",
-   "ats_types": [
-    "eightfold",
-    "phenom"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "r172745",
    "ats_types": [
     "eightfold",
@@ -1472,105 +1662,68 @@
   }
  ],
  "base": {
-  "identities": 84233,
+  "identities": 85271,
   "path": "pages/searchtern.json",
-  "rows": 84233
+  "rows": 85271
  },
  "dropped_at_write": {
-  "by_reason": {},
-  "by_source": {},
-  "count": 0,
+  "by_reason": {
+   "blocked_company": 1915,
+   "duplicate_id": 1558,
+   "duplicate_url": 1237,
+   "empty_company": 19,
+   "inactive": 11369,
+   "no_apply_link": 11556,
+   "non_english": 2229
+  },
+  "by_source": {
+   "ats_new": 192,
+   "breadth": 5,
+   "echo": 79,
+   "ecr": 3991,
+   "jobspy": 34,
+   "light": 23204,
+   "medium": 2295,
+   "priority": 83
+  },
+  "count": 29883,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
-  "by_source": {},
-  "count": 0
+  "by_source": {
+   "ats_new": 518,
+   "breadth": 12,
+   "ecr": 990,
+   "jobspy": 133,
+   "light": 18437,
+   "medium": 3140,
+   "priority": 252,
+   "skill": 9
+  },
+  "count": 23491
  },
  "expired": [
   {
-   "age_hours": -0.04,
-   "rows": 814,
-   "source": "ats_new",
+   "age_hours": -0.22,
+   "rows": 10876,
+   "source": "heavy",
    "status": "ok",
    "ttl_hours": 48
   },
   {
    "age_hours": -0.02,
-   "rows": 23,
-   "source": "breadth",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.08,
-   "rows": 92,
-   "source": "echo",
-   "status": "rejected:empty",
-   "ttl_hours": 168
-  },
-  {
-   "age_hours": -0.01,
-   "rows": 5494,
-   "source": "ecr",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.06,
-   "rows": 7297,
-   "source": "heavy",
-   "status": "rejected:shrunken",
-   "ttl_hours": 48
-  },
-  {
-   "age_hours": -0.01,
-   "rows": 73697,
+   "rows": 74456,
    "source": "jobhive",
    "status": "ok",
    "ttl_hours": 24
-  },
-  {
-   "age_hours": -0.15,
-   "rows": 388,
-   "source": "jobspy",
-   "status": "ok:recovered",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.07,
-   "rows": 43633,
-   "source": "light",
-   "status": "ok",
-   "ttl_hours": 48
-  },
-  {
-   "age_hours": -0.02,
-   "rows": 6045,
-   "source": "medium",
-   "status": "ok",
-   "ttl_hours": 72
-  },
-  {
-   "age_hours": -0.07,
-   "rows": 343,
-   "source": "priority",
-   "status": "ok",
-   "ttl_hours": 24
-  },
-  {
-   "age_hours": -0.08,
-   "rows": 10,
-   "source": "skill",
-   "status": "ok",
-   "ttl_hours": 168
   }
  ],
  "explained": {
   "additions": {
-   "attributed": 0,
+   "attributed": 1038,
    "reason": "the source that first supplied the identity key",
-   "total": -152,
-   "unattributed": -152
+   "total": 906,
+   "unattributed": -132
   },
   "removals": {
    "all": [],
@@ -1580,7 +1733,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-23T01:07:44.999565+00:00",
+ "generated_at": "2026-11-23T15:27:19.647228+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1605,17 +1758,117 @@
   "reason": "production base is merged first, so a loss here is a bug",
   "samples": []
  },
- "source_contributions": [],
+ "source_contributions": [
+  {
+   "added": 0,
+   "age_hours": 7.7,
+   "class": "direct_ats",
+   "duplicates": 518,
+   "rows": 820,
+   "rows_after_scope": 710,
+   "rows_publishable": 518,
+   "source": "ats_new",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 14.26,
+   "class": "priority_ats",
+   "duplicates": 252,
+   "rows": 343,
+   "rows_after_scope": 335,
+   "rows_publishable": 252,
+   "source": "priority",
+   "stale": false
+  },
+  {
+   "added": 756,
+   "age_hours": 9.28,
+   "class": "markdown",
+   "duplicates": 18437,
+   "rows": 43574,
+   "rows_after_scope": 42397,
+   "rows_publishable": 19193,
+   "source": "light",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 7.72,
+   "class": "aggregators",
+   "duplicates": 12,
+   "rows": 18,
+   "rows_after_scope": 17,
+   "rows_publishable": 12,
+   "source": "breadth",
+   "stale": false
+  },
+  {
+   "added": 119,
+   "age_hours": 7.73,
+   "class": "aggregators",
+   "duplicates": 990,
+   "rows": 5477,
+   "rows_after_scope": 5100,
+   "rows_publishable": 1109,
+   "source": "ecr",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 9.24,
+   "class": "aggregators",
+   "duplicates": 133,
+   "rows": 167,
+   "rows_after_scope": 167,
+   "rows_publishable": 133,
+   "source": "jobspy",
+   "stale": false
+  },
+  {
+   "added": 163,
+   "age_hours": 7.72,
+   "class": "aggregators",
+   "duplicates": 3140,
+   "rows": 6003,
+   "rows_after_scope": 5598,
+   "rows_publishable": 3303,
+   "source": "medium",
+   "stale": false
+  },
+  {
+   "added": 0,
+   "age_hours": 9.27,
+   "class": "specialty",
+   "duplicates": 0,
+   "rows": 92,
+   "rows_after_scope": 79,
+   "rows_publishable": 0,
+   "source": "echo",
+   "stale": true
+  },
+  {
+   "added": 0,
+   "age_hours": 9.27,
+   "class": "specialty",
+   "duplicates": 9,
+   "rows": 9,
+   "rows_after_scope": 9,
+   "rows_publishable": 9,
+   "source": "skill",
+   "stale": false
+  }
+ ],
  "summary": {
-  "added": -152,
-  "ats_conflicts": 163,
-  "dropped_at_write": 0,
-  "duplicates": 0,
-  "expired_snapshots": 11,
-  "production_rows": 84233,
+  "added": 906,
+  "ats_conflicts": 182,
+  "dropped_at_write": 29883,
+  "duplicates": 23491,
+  "expired_snapshots": 2,
+  "production_rows": 85271,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 84081,
+  "shadow_rows": 86177,
   "unexplained_removed": 0
  }
 }

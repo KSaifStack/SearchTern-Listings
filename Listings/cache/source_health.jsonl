@@ -1,9 +1,3 @@
-{"ts": 1794601684.2100878, "source": "oracle:WSP", "discovered": 2000, "valid": 2000, "new": 0, "seconds": 62.632, "status": "truncated"}
-{"ts": 1794601684.2100878, "source": "oracle:Stantec", "discovered": 1652, "valid": 1652, "new": 0, "seconds": 24.068, "status": "ok"}
-{"ts": 1794601684.2100878, "source": "priority-probe", "discovered": 10566, "valid": 359, "new": 0, "seconds": 12.116, "status": "ok"}
-{"ts": 1794601684.2100878, "source": "adp:Carolina Power", "discovered": 329, "valid": 329, "new": 0, "seconds": 6.374, "status": "ok"}
-{"ts": 1794601684.2100878, "source": "adp:Pennoni", "discovered": 234, "valid": 234, "new": 0, "seconds": 3.633, "status": "ok"}
-{"ts": 1794601684.2100878, "source": "eightfold:Applied Materials", "discovered": 223, "valid": 223, "new": 0, "seconds": 29.09, "status": "ok"}
 {"ts": 1794601684.2100878, "source": "eightfold:Qualcomm", "discovered": 129, "valid": 129, "new": 0, "seconds": 19.677, "status": "ok"}
 {"ts": 1794601684.2100878, "source": "eightfold:CACI", "discovered": 102, "valid": 102, "new": 0, "seconds": 14.519, "status": "ok"}
 {"ts": 1794601684.2100878, "source": "wfn:Intuitive Machines", "discovered": 100, "valid": 100, "new": 0, "seconds": 2.615, "status": "truncated"}
@@ -4998,3 +4992,9 @@
 {"ts": 1795420031.3428183, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795420031.3428183, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795420031.3428183, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.187, "status": "ok"}
+{"ts": 1795448571.937658, "source": "jobhive", "discovered": 0, "valid": 22815, "new": 242, "seconds": 0.0, "status": "ok"}
+{"ts": 1795448571.937658, "source": "ats", "discovered": 0, "valid": 0, "new": 14, "seconds": 0.0, "status": "ok"}
+{"ts": 1795448571.937658, "source": "freehire", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1795448571.937658, "source": "md", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1795448571.937658, "source": "jobhive-closure", "discovered": 116876, "valid": 116373, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795448571.937658, "source": "ats-probe", "discovered": 174351, "valid": 10876, "new": 0, "seconds": 703.764, "status": "ok"}
