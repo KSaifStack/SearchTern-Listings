@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T19:01:30.572010+00:00",
+  "generated_at": "2026-11-23T20:17:10.431447+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,28 +7,28 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 17811
-    },
-    {
-      "name": "ATS career-page probe",
-      "url": "",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 4011
-    },
-    {
-      "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
-      "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
-      "type": "internship/newgrad",
-      "season": "",
-      "count": 4011
+      "count": 17875
     },
     {
       "name": "freehire.me",
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3942
+      "count": 3990
+    },
+    {
+      "name": "ATS career-page probe",
+      "url": "",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 3926
+    },
+    {
+      "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
+      "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
+      "type": "internship/newgrad",
+      "season": "",
+      "count": 3926
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -84,7 +84,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1505
+      "count": 1510
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -126,7 +126,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/data-science-ai-machine-learning.md",
       "type": "internship",
       "season": "2027",
-      "count": 769
+      "count": 770
     },
     {
       "name": "aprameyak Off-Cycle/Co-op",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 6
+      "count": 14
     },
     {
       "name": "vanshb03 Summer 2026",
