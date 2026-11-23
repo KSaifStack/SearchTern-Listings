@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:09:29.041754+00:00",
+  "generated_at": "2026-11-23T07:42:45.690209+00:00",
   "count": 49,
   "sources": [
     {
@@ -7,14 +7,14 @@
       "url": "https://storage.stapply.ai/jobhive/v1/manifest.json",
       "type": "internship/newgrad",
       "season": "",
-      "count": 18742
+      "count": 18739
     },
     {
       "name": "freehire.me",
       "url": "https://freehire.me",
       "type": "internship/newgrad",
       "season": "",
-      "count": 4004
+      "count": 3970
     },
     {
       "name": "SimplifyJobs Off-Season 2027",
@@ -42,14 +42,14 @@
       "url": "",
       "type": "internship/newgrad",
       "season": "",
-      "count": 2218
+      "count": 2219
     },
     {
       "name": "New ATS boards (Eightfold/Oracle/iCIMS/ADP/BambooHR/WorkforceNow)",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/ats_new_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 2218
+      "count": 2219
     },
     {
       "name": "lilguy Live Feed",
@@ -84,7 +84,7 @@
       "url": "https://earlycareerradar.com/summer-internships",
       "type": "internship/newgrad",
       "season": "",
-      "count": 1528
+      "count": 1530
     },
     {
       "name": "GodlyDonuts keryx Internships",
@@ -119,7 +119,7 @@
       "url": "https://raw.githubusercontent.com/SuryaHarikrishnan/internship-tracker/master/listings/data-science-ai-machine-learning.md",
       "type": "internship",
       "season": "2027",
-      "count": 814
+      "count": 815
     },
     {
       "name": "SuryaHarikrishnan SWE Track",
@@ -329,7 +329,7 @@
       "url": "https://github.com/KSaifStack/SearchTern-Listings/blob/main/Listings/breadth_sources.py",
       "type": "internship/newgrad",
       "season": "",
-      "count": 3
+      "count": 6
     },
     {
       "name": "vanshb03 Summer 2026",
