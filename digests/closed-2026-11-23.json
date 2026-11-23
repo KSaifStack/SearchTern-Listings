@@ -1,0 +1,1681 @@
+[
+  {
+    "key": "jobhive|Briteboxelectrical|Electrical Apprentice - Marietta|Marietta, GA, US",
+    "first_seen": "2026-11-21T16:03:02.467234+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "icims",
+    "ats_id": "15691",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|The Policy Research Group|Junior Research Analyst|New Orleans, Louisiana, United States",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "bamboohr",
+    "ats_id": "35",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Kiocafe|Junior UX/UI Designer|Toronto, Ontario, Canada",
+    "first_seen": "2026-11-15T17:28:02.051022+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "bamboohr",
+    "ats_id": "177",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Asite|Junior IT Support Technician|Ahmedabad, India",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "rippling",
+    "ats_id": "f467682c-8d6b-44c5-ad7c-b8109a7d167c",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Forvia|Industrial Engineer Intern|SIMPSONVILLE,US-KY,United States",
+    "first_seen": "2026-11-20T09:46:13.123685+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "eightfold",
+    "ats_id": "67045",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Alten M Xico|3017 Design & Release Engineer Trainee|Santiago de Querétaro, Qro., MX",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "workable",
+    "ats_id": "C499F77EE3",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Huawei Technologies Canada Co Ltd|Co-op Researcher – Agentic AI|Markham, Ontario, Canada",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2720788",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Dms International|UI/UX Design Intern|Silver Spring, MD",
+    "first_seen": "2026-11-16T18:36:13.100556+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "breezy",
+    "ats_id": "01e49142535e",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Gritt Robotics Inc|Robotics Planning & Controls Engineer Intern|South San Francisco",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ashby",
+    "ats_id": "df9254b5-e323-411a-a36f-57bd24a3de56",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Apple|GPU Design Verification Internship|Saint Albans",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "apple",
+    "ats_id": "200679652",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Ig H|Junior Consultant IT Strategie|Utrecht, Utrecht, Nederland",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "recruitee",
+    "ats_id": "2720602",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Salescaptain|Junior GTM Engineer|GB | DE | PL | GR | ZA | MK",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "workable",
+    "ats_id": "5D318B62CB",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Procleared Llc|Financial & Budget Management Analyst – Junior|St. Louis, MO, US",
+    "first_seen": "2026-11-18T17:17:39.357456+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "paylocity",
+    "ats_id": "07e1664b-d966-421b-a2da-e8795e77753a:4404987",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Ioactive Tc|Security Consultant - Fixed Term|Remote (United States)",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "rippling",
+    "ats_id": "57962575-e34b-4cb3-9768-a9ca2b310bbb",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|WDP|Early Career/Entry-Level Staff Engineer/Designer|Manassas, VA, US",
+    "first_seen": "2026-11-18T17:17:39.357456+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "paylocity",
+    "ats_id": "14ffafb1-8904-4e0b-a038-b1dd95b5a396:4445627",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|3e|SaaS Support Engineer Internship|Brussels, Brussels, BE",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "workable",
+    "ats_id": "A54691B31D",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Freeform|Mechanical Engineering Intern (Spring 2027)|Los Angeles, CA (On-site)",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "7921114003",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Thomas Hutton|Entry Level Civil Designer Engineer in Training- Mission Critical|Buford, Georgia",
+    "first_seen": "2026-11-12T23:55:45.046785+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "lever",
+    "ats_id": "5e0f27c1-6674-4916-bcff-02c19943c274",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Celonis|Intern Technology & Management Consulting (Value Engineering)|Paris, France",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "7962340003",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Lagard Re|INTERNSHIP 5.5 MONTHS GRAPHIC DESIGNER H/F|Paris, France",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "teamtailor",
+    "ats_id": "8258162",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Avroko|INTERIOR DESIGNER (JUNIOR)|London, GB",
+    "first_seen": "2026-11-18T17:17:39.357456+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "paylocity",
+    "ats_id": "d33de8d0-9406-4b4a-b9a0-d28fa4f1f847:2993517",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|NCS|[Uni - Jan till Jun 2027] Robotics Intern|Singapore, sg",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "smartrecruiters",
+    "ats_id": "6000000001344258",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|NCS|[Uni - Jan till Jun 2027] Physical AI Security Intern|Singapore, sg",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "smartrecruiters",
+    "ats_id": "6000000001344206",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Qube Research Technologies|2027 – Internship or Graduate, Software Engineer and Quantitative Developer|Hong Kong, Singapore",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8617401002",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Toddle|Junior Visual UI Designer|Bangalore, KA, India",
+    "first_seen": "2026-11-16T18:36:13.100556+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "keka",
+    "ats_id": "toddle.keka.com:default:85790",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Qube Research Technologies|2027 – Internship or Graduate, Quantitative Research and Trading|Hong Kong, Singapore, Shanghai, Beijing",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8581570002",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|The Tatitlek Corporation|Junior Software Developer|US",
+    "first_seen": "2026-11-18T17:17:39.357456+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "icims",
+    "ats_id": "2738",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Steel Dynamics Inc|Civil Engineering Internship|Fort Wayne, IN, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "icims",
+    "ats_id": "7935",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Alliance Animal Health|DVM Student Externship - PAW Health Network|Kronenwetter, WI, us",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "smartrecruiters",
+    "ats_id": "744000145177759",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Jumptrading|Campus AI/ML Researcher (Intern)|Hong Kong; Shanghai; Singapore",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8027938",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Jumptrading|Campus Quantitative Researcher (Intern)|Hong Kong; Shanghai",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "8027900",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Packaging Corporation Of America|Chemical/Paper Engineering Co Op/Intern - All Mills|DeRidder, LA, US",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "dayforce",
+    "ats_id": "pca:CANDIDATEPORTAL:62856",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Packaging Corporation Of America|Mechanical Engineering Co Op/Intern - All Mills|DeRidder, LA, US",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "dayforce",
+    "ats_id": "pca:CANDIDATEPORTAL:62853",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Packaging Corporation Of America|Environmental Engineer Co Op/Intern - All Mills|DeRidder, LA, US",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "dayforce",
+    "ats_id": "pca:CANDIDATEPORTAL:62851",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|PAX|Software Engineer (Early Career)|San Francisco, CA, US",
+    "first_seen": "2026-10-11T15:37:51.271525+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "103766",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Abundant|Member of Technical Staff, Research (Intern Winter 2027)|San Francisco",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "105483",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Dedalus Labs|Systems Engineer Intern / Co-op|San Francisco",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "107661",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Dedalus Labs|Platform Engineer Intern / Co-op|San Francisco",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "107469",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Juxta|Data Collection/Processing Intern|San Francisco, CA, US",
+    "first_seen": "2026-10-20T15:26:30.836572+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "105582",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Brickanta|Developer Intern - Summer 2027|Stockholm, Stockholm County, SE",
+    "first_seen": "2026-11-04T19:00:01.743499+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "108065",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Alder|Technical GTM / Founders Office Intern|IN / Remote (IN)",
+    "first_seen": "2026-11-04T19:00:01.743499+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "108089",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Terranox Ai|Fall Intern - AI/ML Engineering|San Francisco, CA, US",
+    "first_seen": "2026-10-13T17:15:22.934192+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "104195",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Manicule|Engineering Intern|San Francisco, CA, US",
+    "first_seen": "2026-10-18T15:02:16.740112+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "105094",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Rational|Software Engineering Intern|San Francisco, CA, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "ycombinator",
+    "ats_id": "106942",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Micron Technology|Intern - Realtime Defect Analysis (RDA) Yield Technology|Boise, ID, US",
+    "first_seen": "2026-11-20T09:46:13.123685+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "eightfold",
+    "ats_id": "JR109054",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Micron Technology|Intern - Process Development Engineer, Planar DRAM CMP|Boise, ID, US",
+    "first_seen": "2026-11-20T09:46:13.123685+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "eightfold",
+    "ats_id": "JR108060",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Nvidia Corporation|System Software Engineer – Embedded Power Management (RDSS Intern)|Taipei City,TW",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "eightfold",
+    "ats_id": "JR2023967",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Cisco|Internet Measurement Research Intern - BGP Research Team|London, United Kingdom",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "phenom",
+    "ats_id": "2023762",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Hd Supply|IT Project Manager Fellowship (Military)|Atlanta, Georgia, United States of America",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "phenom",
+    "ats_id": "R26004689",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|SHAW|Engineering Internship/Co-op Summer 2027|Dalton, Georgia, United States of America",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "phenom",
+    "ats_id": "R-156325",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|SHAW|Information Technology Internship/Co-op Spring 2027|Dalton, Georgia, United States of America",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "phenom",
+    "ats_id": "R-156326",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|SHAW|Information Technology Internship/Co-op Summer 2027|Dalton, Georgia, United States of America",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "phenom",
+    "ats_id": "R-156327",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|SHAW|Engineering Internship/Co-op Spring 2027|Dalton, Georgia, United States of America",
+    "first_seen": "2026-11-15T17:13:39.043505+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "phenom",
+    "ats_id": "R-156324",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|University Of New Mexico|Production & Community Engagement Intern|Albuquerque, NM, US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "cornerstone",
+    "ats_id": "37614",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Amazon|Solution Architect Intern|Santiago, Region Santiago Metropolitan, CHL",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "amazon",
+    "ats_id": "10512638",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ|Jersey City, NJ, United States",
+    "first_seen": "2026-09-24T02:13:51.478366+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81238",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Data Science) - Lake Mary, FL|Lake Mary, FL, United States",
+    "first_seen": "2026-09-24T23:07:42.479845+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81239",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA|Pittsburgh, PA, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81241",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY|New York, NY, United States",
+    "first_seen": "2026-09-24T01:46:27.316642+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81240",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA|Pittsburgh, PA, United States",
+    "first_seen": "2026-09-24T07:20:28.717042+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81254",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL|Lake Mary, FL, United States",
+    "first_seen": "2026-09-25T02:17:05.414482+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81252",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY|New York, NY, United States",
+    "first_seen": "2026-09-25T13:29:27.881033+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81253",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ|Jersey City, NJ, United States",
+    "first_seen": "2026-09-24T19:36:59.910254+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81251",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Production Services) - Jersey City, NJ|Jersey City, NJ, United States",
+    "first_seen": "2026-09-24T03:52:17.309698+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81264",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Production Services) - New York, NY|New York, NY, United States",
+    "first_seen": "2026-09-24T22:49:49.259308+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81267",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Production Services) - Pittsburgh, PA|Pittsburgh, PA, United States",
+    "first_seen": "2026-09-24T09:08:20.006751+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81266",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Summer Internship Program - Engineering (Production Services) - Lake Mary, FL|Lake Mary, FL, United States",
+    "first_seen": "2026-09-24T02:00:13.113378+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81287",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Internship Program -Engineering (Developer) (Manchester)|Greater Manchester, United Kingdom",
+    "first_seen": "2026-11-16T18:36:13.100556+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81318",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Bny External Career Site|2027 BNY Internship Program -Engineering (Data Science) (Manchester)|Greater Manchester, United Kingdom",
+    "first_seen": "2026-11-16T18:36:13.100556+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "eofe.fa.us2.oraclecloud.com:81322",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Avient|Engineering Co-Op 2027|Avon Lake, OH, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "fa-eqzh-saasfaprod1.fa.ocs.oraclecloud.com:40001338",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Belmont University|Belmont Collaborative for Health Systems Innovation & Health Systems Science - Student Office Asst|US",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "cornerstone",
+    "ats_id": "4612",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Clean Harbors External Career Site|Chemistry or Engineering Intern Industrial Services|Sumter, SC, United States",
+    "first_seen": "2026-10-01T14:57:46.867933+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "epyc.fa.us2.oraclecloud.com:164988",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Fa Eutm Saasfaprod1 Cx 2|26-27 Graphic Design Intern - Spark Lab|Notre Dame, IN, United States",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "fa-eutm-saasfaprod1.fa.ocs.oraclecloud.com:1323",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Fa Ewdg Saasfaprod|Trainee 3D Design Engineer|Pune, Maharashtra, India",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "fa-ewdg-saasfaprod1.fa.ocs.oraclecloud.com:2667",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Fa Ewdg Saasfaprod|Trainee Content Engineer|Pune, Maharashtra, India",
+    "first_seen": "2026-11-22T16:37:37.872498+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "fa-ewdg-saasfaprod1.fa.ocs.oraclecloud.com:2666",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|EDBZ|Applications Engineering Intern / Student Worker - Evaluation/Test of analog IC's Power Management Devices m/f/d|Freising, Bayern, Germany",
+    "first_seen": "2026-11-16T18:36:13.100556+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "oracle",
+    "ats_id": "edbz.fa.us2.oraclecloud.com:25012515",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Boeing|Software Developer, Phantom Works (Experienced or Senior)|Saint Charles, MO",
+    "first_seen": "2026-09-24T02:00:13.113378+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Caterpillar|Embedded Software Engineering Specialist|Mossville, Illinois",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Salesforce|Software Engineering, AI Systems PMTS|California San Francisco",
+    "first_seen": "2026-11-17T23:39:41.554300+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Cummins|Systems Engineering Product Specialist|Seattle, WA, United States",
+    "first_seen": "2026-10-09T22:00:47.829618+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|MATX|Technical Editor|Mountain View (",
+    "first_seen": "2026-11-17T23:39:41.554300+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|WSP|Environmental Data Analytics Specialist|Redmond, WA, United States",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Jabil|Test Engineering Technician I - 1st shift|St. Petersburg/Tampa, FL",
+    "first_seen": "2026-11-20T07:42:30.714714+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Carrier Global|Service Sales Executive, HVAC Controls|Florida US",
+    "first_seen": "2026-11-20T07:42:30.714714+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Salesforce|GTM Strategy & Operations Associate — Salesforce Security Practice|Washington Seattle",
+    "first_seen": "2026-11-21T08:03:17.181354+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|16ed56fa|Water Treatment Chemical Service Technician at a Data Center|Kansas City, MO",
+    "first_seen": "2026-11-20T18:23:30.066517+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Eaton|Technician IV MFG Production - 3rd Shift|Arecibo, Puerto Rico, USA, 00612",
+    "first_seen": "2026-11-21T12:58:28.526749+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|IEM|Test Technician I|Fremont, California, United States",
+    "first_seen": "2026-11-21T12:58:28.526749+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Amentum|Junior Information Systems Security Officer (ISSO) MDX - SSFB/HSV|CO Colorado Springs",
+    "first_seen": "2026-10-23T19:52:41.937475+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Entegris|Product Development Engineering Intern|Chaska, MN",
+    "first_seen": "2026-11-12T20:41:14.033391+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Entegris|Mechanical Engineer Co-Op|Round Rock, TX",
+    "first_seen": "2026-10-05T16:32:23.209438+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|AMD|Spring/Summer 2027 Masters Server Power Management Engineering Co-Op|Austin, TX, United States",
+    "first_seen": "2026-11-20T17:14:42.644240+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bulls Media|Junior Backend / Full Stack Developer|Tirana, Albania",
+    "first_seen": "2026-11-14T18:28:22.151465+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Parallel Systems|Full Stack Software Engineer I|Los Angeles, CA",
+    "first_seen": "2026-10-05T23:28:55.003047+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5247800007",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Konrad Group|Associate Data Analyst|Toronto, ON",
+    "first_seen": "2026-11-14T18:28:22.151465+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|CACI|Software Engineering Co-op/Intern - Spring 2027|Rochester, NY",
+    "first_seen": "2026-10-29T22:10:02.061984+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Philips|Intern - AI & Analytics Analyst - Nashville, TN - Spring 2027|Nashville, TN",
+    "first_seen": "2026-11-18T03:22:42.514718+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Orennia|Analytics Intern (Fall 2026 Term) - Engineering|Calgary, AB",
+    "first_seen": "2026-11-22T23:20:05.702211+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "greenhouse",
+    "ats_id": "5277706008",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Amazon|2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting|Seattle, WA",
+    "first_seen": "2026-11-22T23:20:05.702211+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|RTX|Intern: Summer 2027 - Control/Diagnostic Software (Onsite)|Jupiter, FL",
+    "first_seen": "2026-11-17T03:07:49.988234+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|SOTI|Software Developer Intern - Android (May 2027 - 12 Months)|Mississauga, ON",
+    "first_seen": "2026-11-19T11:14:23.675496+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "workday",
+    "ats_id": "soti/R10650",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Dow Jones|Summer 2027 Internship Program – Research Analyst Intern|Houston, TX",
+    "first_seen": "2026-11-13T23:20:19.209444+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|RTX|Receiver, Exciter, & Processing Architecture Software Engineer Intern (Summer 2027) - Onsite|Marlborough, MA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|RTX|Secure Software Intern (Summer 2027)|Woburn, MA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Toyota|2027 TFS Data Science Internship|Plano, TX",
+    "first_seen": "2026-10-20T19:54:52.850437+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|RTX|Vision Systems - Summer Intern (Onsite)|Goleta, CA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Guidewell Mutual|Summer 2027 IT Graduate Internship|Jacksonville, FL",
+    "first_seen": "2026-11-20T09:46:13.123685+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Marvell Technology|Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027|Santa Clara, CA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Marvell Technology|Security Verification/Validation Engineer Intern, BS - Summer 2027|Chandler, AZ",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|RTX|Summer 2027 Software Engineering Intern (Onsite)|East Hartford, CT",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|American Express|Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL|Sunrise, FL",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|RTX|Software Project Engineer Intern (Summer 2027) Onsite|Windsor Locks, CT",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|CSX|Technology Intern - Paid|Jacksonville, FL",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Able Aat Usa Llc|Software AI Engineering Intern|Columbus, OH, USA",
+    "first_seen": "2026-11-22T17:39:59.510166+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Tiktok Usds Joint Venture|Machine Learning Engineer Intern (Agentic Platform) - 2027 summer|San Jose, CA, USA",
+    "first_seen": "2026-10-31T22:00:54.695449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Annapurna Labs|Software Development Engineer Intern, Annapurna Labs - 2027|Cupertino, CA, USA",
+    "first_seen": "2026-11-04T03:43:29.056798+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|General Atomics|Intern - Software/ Computer Engineering, Computer Science|San Diego, CA, USA",
+    "first_seen": "2026-10-31T19:47:01.146454+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Northpoint Development|Software Development Intern|Kansas City, MO, USA",
+    "first_seen": "2026-10-31T04:44:30.641561+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bae Systems Inc|Software Engineering Intern II, (Summer 2027) Onsite|Nashua, NH, USA",
+    "first_seen": "2026-11-04T03:43:29.056798+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Vermeer Corporation|Embedded Software Engineer Internship Summer 2027|Pella, IA, USA",
+    "first_seen": "2026-10-17T19:52:16.921771+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Archer|Software Engineering Intern|San Jose, CA, USA",
+    "first_seen": "2026-11-22T17:39:59.510166+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Lowe S Companies Inc|Software Engineer – Undergrad Internship – Summer 2027|Charlotte, NC, USA",
+    "first_seen": "2026-10-27T12:57:59.700659+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Millennial Software|Engineering Intern - Forge Automated Code Assessment (Summer 2027)|Chantilly, VA, USA",
+    "first_seen": "2026-11-22T17:39:59.510166+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Intuit|Summer 2027: Software Engineering Intern - Full Stack|Atlanta, GA, USA",
+    "first_seen": "2026-11-22T17:39:59.510166+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Cognizant|Software Engineering Internship|Teaneck, NJ, USA",
+    "first_seen": "2026-11-22T17:39:59.510166+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Altec|Information Services Software Development Internship Summer 2027|Birmingham, AL, USA",
+    "first_seen": "2026-10-31T04:44:30.641561+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Tiktok Usds Joint Venture|Machine Learning Engineer Intern (Payment Data Intelligence) - 2027 Summer|San Jose, CA, USA",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Atlassian|Machine Learning Intern, 2027 Summer U.S.|San Francisco, CA, USA",
+    "first_seen": "2026-10-31T14:37:11.719997+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|General Motors|2027 Summer Intern, Data Scaling, Embodied AI|Sunnyvale, CA, USA",
+    "first_seen": "2026-10-31T14:37:11.719997+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Central Insurance|Product Data Decision Science Intern|Van Wert, OH, USA",
+    "first_seen": "2026-10-16T12:48:15.559425+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Nvidia|Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027|Santa Clara, CA, USA",
+    "first_seen": "2026-10-16T17:13:29.505679+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Althais Antler P27|Software Development & Machine Learning Engineer Intern|San Francisco Bay Area",
+    "first_seen": "2026-11-22T07:24:20.520354+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|EBAY|2027 Data Science & Analytics Internship|San Jose, CA, USA",
+    "first_seen": "2026-11-21T08:03:17.181354+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Otis Elevator Co|Data Science & Analytics Intern|Connecticut, USA",
+    "first_seen": "2026-11-22T07:24:20.520354+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Atlassian|Machine Learning Intern, 2027 Summer U.S.|Seattle, WA, USA",
+    "first_seen": "2026-10-30T09:14:16.910133+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Intuit|Summer 2027: AI Science Intern|San Diego, CA, USA",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Allianz Life|Summer 2027 Graduate Data Science Internship | Hybrid|Minneapolis, MN, USA",
+    "first_seen": "2026-11-19T23:12:52.789073+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|HDR|Data Science Intern (Summer 2027)|Omaha, NE, USA",
+    "first_seen": "2026-10-29T15:02:26.514988+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Aspen Technology|Data Science Intern - Summer 2027 - Bedford, MA|Bedford, MA, USA",
+    "first_seen": "2026-10-28T19:58:25.443121+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Sandhills Global|Data Scientist Intern - In Office, Scottsdale, AZ only|Scottsdale, AZ, USA",
+    "first_seen": "2026-10-29T17:10:56.682904+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Tetramem Accelerate The World|Machine Learning Engineer Intern (2027)|San Jose, CA, USA",
+    "first_seen": "2026-11-19T23:12:52.789073+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Valmont Industries Inc|AI & Data Engineering Intern|Omaha, NE, USA",
+    "first_seen": "2026-10-28T23:51:26.450021+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Nissan Motor Corporation|AI Intern - Summer 2027 - Dallas, TX or Franklin, TN|Irving, TX, USA",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Relativity Space|Data Science Intern|Long Beach, CA, USA",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Nissan Motor Corporation|AI Intern - Summer 2027 - Dallas, TX or Franklin, TN|Franklin, TN, USA",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Tiktok Usds Joint Venture|Machine Learning Engineer Intern (CapCut) - 2027 Start|San Jose, CA, USA",
+    "first_seen": "2026-11-18T21:08:54.337153+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|State Street Investment Management|State Street Investment Management - Data Scientist - Summer Internship 2027|Boston, MA, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Intuit|Summer 2027: AI Science Intern|Mountain View, CA, USA",
+    "first_seen": "2026-10-27T15:37:35.064089+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|The Aerospace Corporation|2027 Machine Learning Engineering Graduate Intern|El Segundo, CA, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Epsilon|PhD Data Science Intern - Summer 2027|Westminster, CO, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Epsilon|PhD Data Science Intern - Summer 2027|Chicago, IL, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bose Corporation|Data Science Co-Op (NLP & GenAI)|Framingham, MA, USA",
+    "first_seen": "2026-11-17T23:39:41.554300+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bose Corporation|Data Science Co-Op (NLP & GenAI)|Atlanta, GA, USA",
+    "first_seen": "2026-11-17T23:39:41.554300+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bosch Usa|Research Intern: Multimodal Sensor Foundation Models|Pittsburgh, PA, USA",
+    "first_seen": "2026-11-16T18:53:08.435213+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bosch Usa|Research Intern: Multimodal Foundation Models for Healthcare|Pittsburgh, PA, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Sandisk|GenAI & AI/ML Engineering Summer Intern|Milpitas, CA, USA",
+    "first_seen": "2026-10-21T03:54:07.425827+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Seagate Technology|Generative AI & Machine Learning Engineering Intern (Summer 2027)|Bloomington, MN, USA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Echostar Corporation|Data Science & Analytics Intern|Englewood, CO, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Acg Green Group Inc|Junior Software Engineer (Python / JavaScript / ERP)|Morganton, NC, USA",
+    "first_seen": "2026-11-20T01:45:52.538599+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Vocal Technologies|Junior Software Engineer (C Programming, GPA >= 3.7)|Buffalo, NY, USA",
+    "first_seen": "2026-11-20T01:45:52.538599+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Amewas|Software Developer-Junior|Naval Air Station Patuxent River, MD, USA",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Cbosit|AI Business Consultant Intern|Dehradun",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Godesi|Data Intern | Bidadi|Bengaluru",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Axs Solutions|Intern - Software Tester|Mumbai Metropolitan Region",
+    "first_seen": "2026-11-05T00:38:52.949199+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Bas Aise Hi|Graphic Design + Brand Intern|India",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Ayobody|Graphic Design Internship|Vietnam",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Gig Centric|Software Quality Assurance / UI Testor Internship|United States",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Gig Centric|Virtual Software Trainer Internship / Video Editor Internship|United States",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Epic Brands Gmbh|Praktikum AI Software Engineer im eCommerce (m/w/d)|Berlin",
+    "first_seen": "2026-11-21T12:42:15.152493+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Placements|Remote Full-stack Developer Intern|Polokwane, South Africa",
+    "first_seen": "2026-11-05T00:38:52.949199+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Company Cubix|Job: Data Engineering Intern|Durban, South Africa",
+    "first_seen": "2026-11-15T15:51:39.897426+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Company Pps Insco|Job: Data Engineer (analytics) Graduate Intern|Johannesburg, South Africa",
+    "first_seen": "2026-11-11T17:56:15.539367+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Guruschools|Junior DevOps Engineer|New Johnsonville, TN, USA",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ecr|Nxp Semiconductors|Project Engineer / Project Management Intern - Summer 2027|Chandler (Office)",
+    "first_seen": "2026-11-03T17:26:53.156175+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "workday",
+    "ats_id": "nxp/R-10064585",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "breadth|Mfinite Consulting|Junior Data Scientist - Contract|United States",
+    "first_seen": "2026-11-22T23:38:15.766163+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ecr|Bosch|Powertrain Controls Software Engineering Intern - 6-Months|Farmington Hills, MI",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-22T23:38:15.766163+00:00",
+    "ats_type": "smartrecruiters",
+    "ats_id": "744000140089589",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Nvidia|Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027|Santa Clara, CA, United States",
+    "first_seen": "2026-10-31T19:47:01.146454+00:00",
+    "last_seen": "2026-11-22T22:10:54.878951+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Intuit|Summer 2027: Software Engineering Intern - Full Stack|Mountain View, CA, United States",
+    "first_seen": "2026-10-06T21:20:59.377821+00:00",
+    "last_seen": "2026-11-22T22:10:54.878951+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|EGUP|Product Management Intern (Summer 2027)|Delaware, OH, United States",
+    "first_seen": "2026-11-16T18:53:08.435213+00:00",
+    "last_seen": "2026-11-22T17:52:15.996980+00:00",
+    "ats_type": "oracle",
+    "ats_id": "egup.fa.us2.oraclecloud.com:20279046",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Honeywell|Information Systems Intern - Multiple Teams|Remote",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-22T17:52:15.996980+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Honeywell|Information Systems Intern - IT - Cyber Engineer & Data Science|Remote",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-22T17:52:15.996980+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Marvell Technology|AIOps Forward Deployment Engineer Intern, BS - Summer 2027|Santa Clara, CA",
+    "first_seen": "2026-11-12T03:39:55.512355+00:00",
+    "last_seen": "2026-11-22T09:50:35.635460+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|The Aerospace Corporation|2027 Machine Learning Engineering Graduate Intern|Colorado Springs, CO, USA",
+    "first_seen": "2026-11-17T21:33:10.076909+00:00",
+    "last_seen": "2026-11-22T09:50:35.635460+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Intuit|Summer 2027: AI Science Intern|New York, NY, USA",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
+    "last_seen": "2026-11-22T07:24:20.520354+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Intuit|Summer 2027: AI Science Intern|Atlanta, GA, USA",
+    "first_seen": "2026-10-27T12:57:59.700659+00:00",
+    "last_seen": "2026-11-22T07:24:20.520354+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Marvell Technology|Business Process Mining & Intelligence Analyst Intern, BS - Summer 2027|Santa Clara, CA, United States",
+    "first_seen": "2026-10-08T00:32:09.110714+00:00",
+    "last_seen": "2026-11-21T20:41:56.008015+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|Toyota|2027 TFS Data Science Internship|Plano, Texas, United States of America",
+    "first_seen": "2026-10-21T14:46:08.102398+00:00",
+    "last_seen": "2026-11-21T12:58:28.526749+00:00",
+    "ats_type": "phenom",
+    "ats_id": "10338545",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ats|Toyota|2027 TFS Data Science Internship|Plano, Texas",
+    "first_seen": "2026-10-28T14:56:55.245999+00:00",
+    "last_seen": "2026-11-20T03:46:06.657602+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ats|Ig H|Junior Consultant IT Strategie|Utrecht, Utrecht, Nederland",
+    "first_seen": "2026-11-12T10:23:49.142657+00:00",
+    "last_seen": "2026-11-19T20:40:29.075105+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Apple|GPU Design Verification Internship|Saint Albans",
+    "first_seen": "2026-11-19T01:59:59.759624+00:00",
+    "last_seen": "2026-11-19T20:04:37.172415+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ats|Captech Consulting|Consulting Internship: Data Analysis/Data Engineering  (Summer 2027)|Richmond, VA, United States",
+    "first_seen": "2026-11-18T07:55:16.171078+00:00",
+    "last_seen": "2026-11-18T12:43:50.121077+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ats|Alliance Animal Health|DVM Student Externship - PAW Health Network|Kronenwetter, WI, United States",
+    "first_seen": "2026-11-18T07:55:16.171078+00:00",
+    "last_seen": "2026-11-18T12:43:50.121077+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Nxp Semiconductors|Internship - Design of a compact solder joint resistance sensor|Eindhoven",
+    "first_seen": "2026-11-03T10:14:33.942746+00:00",
+    "last_seen": "2026-11-16T02:37:16.805477+00:00",
+    "ats_type": "workday",
+    "ats_id": "nxp/R-10064018",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "breadth|Celonis|Intern Technology & Management Consulting (Value Engineering)|Paris",
+    "first_seen": "2026-11-14T06:27:37.760857+00:00",
+    "last_seen": "2026-11-14T22:53:52.650076+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ats|Huawei Technologies Canada Co Ltd|Co-op Researcher – Agentic AI|Markham, Ontario, Canada",
+    "first_seen": "2026-11-12T07:40:52.178924+00:00",
+    "last_seen": "2026-11-12T12:16:50.760393+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "ecr|Toyota|2027 TFS Data Science Internship|Plano, Texas · Plano, TX",
+    "first_seen": "2026-11-11T17:56:15.539367+00:00",
+    "last_seen": "2026-11-12T01:05:05.991285+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "jobhive|EGUP|Product Management Intern (Summer 2027)|Lincoln, NE, United States",
+    "first_seen": "2026-09-24T23:07:42.479845+00:00",
+    "last_seen": "2026-09-28T07:57:53.579499+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bosch|Software Engineering Intern - 8 months/40hrs per week|Farmington Hills, MI, US",
+    "first_seen": "2026-10-01T20:04:06.703301+00:00",
+    "last_seen": "2026-10-03T17:41:20.634843+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Bosch|Software Engineering Intern - 8 months/40hrs per week|Farmington Hills, MI, States",
+    "first_seen": "2026-10-03T19:05:57.882657+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Captech Consulting|Consulting Internship: Data Analysis/Data Engineering (Summer 2027)|Richmond, VA, States",
+    "first_seen": "2026-10-12T19:30:51.410626+00:00",
+    "last_seen": "2026-10-24T18:39:39.446408+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Toyota|2027 TFS Data Science Internship|Plano, Texas",
+    "first_seen": "2026-10-21T01:05:58.999474+00:00",
+    "last_seen": "2026-10-21T02:31:38.571210+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "freehire|Toyota|2027 TFS Data Science Internship|Plano, Texas",
+    "first_seen": "2026-10-22T14:46:25.733418+00:00",
+    "last_seen": "2026-10-26T00:50:15.514528+00:00",
+    "ats_type": "",
+    "ats_id": "",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Optiver|Quantitative Research Intern (PhD, Austin)|Austin, TX",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-29T23:38:51.107543+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Dedalus Labs|Systems Engineer / Product Manager Intern (Summer 2027)|San Francisco, CA",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T23:15:01.511388+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|The Cadmus Group|Jr. Full Stack Developer|US",
+    "first_seen": "2026-10-28T23:51:26.450021+00:00",
+    "last_seen": "2026-10-29T21:11:12.301460+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Shield Ai|Software Development Engineer - New Graduate|San Diego, CA",
+    "first_seen": "2026-10-07T01:05:42.322980+00:00",
+    "last_seen": "2026-10-07T10:42:01.499821+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Optiver|Software Engineer Intern (Austin)|Austin, TX",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T23:15:01.511388+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Megazone Cloud Us|Cloud Operations Co-op 2027|Rochester, NY",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-11-02T20:59:05.933972+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Optiver|Software Engineer Intern (Chicago)|Chicago, IL",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-25T23:15:01.511388+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Skydio|Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)|San Mateo, California, United States",
+    "first_seen": "2026-10-26T23:39:02.603784+00:00",
+    "last_seen": "2026-10-27T14:18:02.472763+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  },
+  {
+    "key": "md|Optiver|Quantitative Research Intern (PhD, Chicago)|Chicago, IL",
+    "first_seen": "2026-09-24T01:37:06.249449+00:00",
+    "last_seen": "2026-09-29T23:38:51.107543+00:00",
+    "reason": "link_dead",
+    "closed_at": "2026-11-23T01:07:44.999565+00:00"
+  }
+]

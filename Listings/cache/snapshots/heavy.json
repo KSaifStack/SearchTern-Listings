@@ -1,11 +1,11 @@
 {
  "class": "direct_ats",
  "etag": "",
- "fetched_at": "2026-11-22T22:27:04.651911+00:00",
+ "fetched_at": "2026-11-23T01:11:37.973329+00:00",
  "provenance": "fetch",
- "rejections": 0,
+ "rejections": 1,
  "rows": 7297,
  "source": "heavy",
- "status": "ok",
+ "status": "rejected:shrunken",
  "ttl_hours": 48
 }
