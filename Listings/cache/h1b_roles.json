@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-22T17:56:09Z",
+ "built_at": "2026-11-24T03:13:42Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -26402,6 +26402,97 @@
      "count": 1,
      "median_salary": 100000,
      "title": "SYSTEMS INTEGRATION ENGINEER"
+    }
+   ]
+  },
+  "illumio": {
+   "fetched_at": "2026-11-24T03:13:41Z",
+   "label": "Illumio",
+   "titles": [
+    {
+     "count": 9,
+     "median_salary": 146307,
+     "title": "MEMBER OF TECHNICAL STAFF"
+    },
+    {
+     "count": 5,
+     "median_salary": 172931,
+     "title": "SR. MEMBER OF TECHNICAL STAFF"
+    },
+    {
+     "count": 5,
+     "median_salary": 226158,
+     "title": "STAFF ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 148699,
+     "title": "MACHINE LEARNING ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 248643,
+     "title": "SR. MANAGER, ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 201053,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 216590,
+     "title": "SENIOR MANAGER, ENGINEERING"
+    },
+    {
+     "count": 1,
+     "median_salary": 226158,
+     "title": "SENIOR STAFF ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 133432,
+     "title": "SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 186035,
+     "title": "SR. MANAGER, ACCOUNTING"
+    },
+    {
+     "count": 1,
+     "median_salary": 235726,
+     "title": "SR. PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 174304,
+     "title": "SR. STAFF DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 132579,
+     "title": "SR. TECHNICAL PROGRAM MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 148845,
+     "title": "SR. UI ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 148845,
+     "title": "SR. UI ENGINEER, CLOUD"
+    },
+    {
+     "count": 1,
+     "median_salary": 200221,
+     "title": "STAFF PRODUCT DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 104806,
+     "title": "SUPPORT OPERATIONS ANALYST"
     }
    ]
   },
