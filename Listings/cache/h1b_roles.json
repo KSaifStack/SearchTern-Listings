@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-24T03:13:42Z",
+ "built_at": "2026-11-24T15:57:22Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -4568,6 +4568,62 @@
     }
    ]
   },
+  "asrc federal": {
+   "fetched_at": "2026-11-24T15:57:19Z",
+   "label": "ASRC Federal",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 104528,
+     "title": "SOFTWARE ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 141704,
+     "title": "MANAGER, APPLICATION DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 127358,
+     "title": ".NET FULL STACK DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 136825,
+     "title": "AUTOMATED TEST ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 103000,
+     "title": "PRODUCT OWNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 126716,
+     "title": "QA UI AUTOMATION TEST ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 109346,
+     "title": "SENIOR APPLICATION DEVELOPMENT ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 185000,
+     "title": "SENIOR PEGA SYSTEMS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 135000,
+     "title": "SENIOR SALESFORCE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 155110,
+     "title": "SOFTWARE DEVELOPER"
+    }
+   ]
+  },
   "astera labs": {
    "fetched_at": "2026-10-25T22:41:17Z",
    "label": "Astera Labs",
@@ -6370,6 +6426,92 @@
      "count": 1,
      "median_salary": 115000,
      "title": "DATA SCIENTIST"
+    }
+   ]
+  },
+  "axos": {
+   "fetched_at": "2026-11-24T15:57:20Z",
+   "label": "Axos",
+   "titles": [
+    {
+     "count": 4,
+     "median_salary": 120000,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 175000,
+     "title": "APPLICATION ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 110000,
+     "title": "AVP, TECHNICAL PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "FVP, IT OPERATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 113660,
+     "title": "LEAD, QUALITY ASSURANCE"
+    },
+    {
+     "count": 2,
+     "median_salary": 77550,
+     "title": "SALESFORCE BUSINESS ANALYST"
+    },
+    {
+     "count": 2,
+     "median_salary": 120000,
+     "title": "SENIOR SALESFORCE DEVELOPER"
+    },
+    {
+     "count": 2,
+     "median_salary": 174000,
+     "title": "VP, SOFTWARE DEVELOPMENT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 85000,
+     "title": "ANALYTICS ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 79123,
+     "title": "JR SOFTWARE DEVELOPER"
+    },
+    {
+     "count": 1,
+     "median_salary": 78312,
+     "title": "PROGRAMMER ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 120000,
+     "title": "SENIOR NETWORK ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 103000,
+     "title": "SR. DATA ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "SR. PMO PROJECT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 80747,
+     "title": "SR. PORTFOLIO ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 255000,
+     "title": "SVP, CHIEF INFORMATION SECURITY OFFICER"
     }
    ]
   },
@@ -11692,6 +11834,11 @@
      "title": "PEDIATRIC ANESTHESIOLOGIST"
     }
    ]
+  },
+  "christianacare": {
+   "fetched_at": "2026-11-24T15:57:20Z",
+   "label": "Christianacare",
+   "titles": []
   },
   "church": {
    "fetched_at": "2026-11-07T23:32:35Z",
@@ -44195,6 +44342,22 @@
    "label": "SAP IT Business Systeme",
    "titles": []
   },
+  "saputo": {
+   "fetched_at": "2026-11-24T15:57:21Z",
+   "label": "Saputo",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 140000,
+     "title": "DIRECTOR - MARKETING AND CATEGORY MANAGEMENT"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "ENVIRONMENTAL MANAGEMENT SYSTEM MANAGER"
+    }
+   ]
+  },
   "sargent lundy": {
    "fetched_at": "2026-11-12T18:25:11Z",
    "label": "Sargent & Lundy",
@@ -56360,6 +56523,67 @@
      "count": 1,
      "median_salary": 79373,
      "title": "SERVICE DESK AND SERVICE OPERATIONS SOFTWARE ENGINEER"
+    }
+   ]
+  },
+  "yelp": {
+   "fetched_at": "2026-11-24T15:57:21Z",
+   "label": "Yelp, Inc",
+   "titles": [
+    {
+     "count": 25,
+     "median_salary": 225000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 250250,
+     "title": "ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 226432,
+     "title": "LEAD PRODUCT MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 164800,
+     "title": "SENIOR BRAND SALES DIRECTOR"
+    },
+    {
+     "count": 1,
+     "median_salary": 232000,
+     "title": "APPLIED SCIENTIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 282900,
+     "title": "GROUP PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 239145,
+     "title": "MANAGER, PRODUCT DESIGN"
+    },
+    {
+     "count": 1,
+     "median_salary": 282900,
+     "title": "PRINCIPAL PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "SENIOR PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 189500,
+     "title": "SITE RELIABILITY ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 360000,
+     "title": "VICE PRESIDENT, CONSUMER GROWTH MARKETING"
     }
    ]
   },
