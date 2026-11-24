@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-24T15:57:22Z",
+ "built_at": "2026-11-24T17:53:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -1363,6 +1363,62 @@
    "fetched_at": "2026-11-12T01:17:40Z",
    "label": "alliancewd",
    "titles": []
+  },
+  "allianz": {
+   "fetched_at": "2026-11-24T17:53:51Z",
+   "label": "Allianz",
+   "titles": [
+    {
+     "count": 3,
+     "median_salary": 113235,
+     "title": "SENIOR IT ENTERPRISE ARCHITECT"
+    },
+    {
+     "count": 2,
+     "median_salary": 179127,
+     "title": "AVP, SENIOR COUNSEL - CORPORATE LAW"
+    },
+    {
+     "count": 2,
+     "median_salary": 150199,
+     "title": "IT DEVELOPER SPECIALIST"
+    },
+    {
+     "count": 2,
+     "median_salary": 83221,
+     "title": "UNDERWRITER"
+    },
+    {
+     "count": 2,
+     "median_salary": 160680,
+     "title": "VP, BUSINESS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 170000,
+     "title": "ASSOCIATE PORTFOLIO MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 258750,
+     "title": "AVP, STRATEGIC SOLUTIONS"
+    },
+    {
+     "count": 1,
+     "median_salary": 135359,
+     "title": "IT SOLUTIONS ENGINEER SR SPECIALIST"
+    },
+    {
+     "count": 1,
+     "median_salary": 132000,
+     "title": "SENIOR SYSTEM ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 187400,
+     "title": "VICE PRESIDENT, PORTFOLIO MANAGER"
+    }
+   ]
   },
   "allied universal": {
    "fetched_at": "2026-11-20T09:49:21Z",
@@ -30346,6 +30402,32 @@
     }
    ]
   },
+  "larson design": {
+   "fetched_at": "2026-11-24T17:53:52Z",
+   "label": "Larson Design Group",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 85696,
+     "title": "ARCHITECTURAL ASSOCIATE"
+    },
+    {
+     "count": 1,
+     "median_salary": 61610,
+     "title": "ARCHITECTURAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 75000,
+     "title": "ARCHITECTURAL INTERIOR DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 320000,
+     "title": "ASSOCIATE ATTORNEY"
+    }
+   ]
+  },
   "lawrence livermore national laboratory": {
    "fetched_at": "2026-11-04T11:51:46Z",
    "label": "Lawrence Livermore National Laboratory",
@@ -34979,6 +35061,11 @@
   "mountfitchetgroup": {
    "fetched_at": "2026-11-08T00:15:57Z",
    "label": "mountfitchetgroup",
+   "titles": []
+  },
+  "ms private": {
+   "fetched_at": "2026-11-24T17:53:53Z",
+   "label": "Ms (Private)",
    "titles": []
   },
   "msd": {

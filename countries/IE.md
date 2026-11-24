@@ -1,6 +1,6 @@
 # 🇮🇪 Ireland — SearchTern Listings
 
-**102 listings** as of November 24, 2026
+**111 listings** as of November 24, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -57,18 +57,18 @@
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Galway-Ireland/Software-Developer--Intern-8-12-months-_R10579"><strong>SOTI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer (Intern 8-12 months)</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Galway<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Galway-Ireland/Software-Developer--Intern-8-12-months-_R10579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446722246579"><strong>Qualcomm</strong></a></td>
 <td title="FY27 Intern - IT Artificial Intelligence &amp; Automation - Up to 8 Months, Cork" style="word-break:break-word; overflow-wrap:anywhere;">FY27 Intern - IT Artificial Intelligence &amp; Au...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>CO<br>Ireland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446722246579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Galway-Ireland/Software-Developer--Intern-8-12-months-_R10579"><strong>SOTI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer (Intern 8-12 months)</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Galway<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Galway-Ireland/Software-Developer--Intern-8-12-months-_R10579" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -97,18 +97,18 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://citi.eightfold.ai/careers/job/859039052783"><strong>CITI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Markets Operations Analyst - Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://citi.eightfold.ai/careers/job/859039054796"><strong>CITI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Market Operations Analyst - Entry Level</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Belfast<br>Northern Ireland<br>Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://citi.eightfold.ai/careers/job/859039052783" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://citi.eightfold.ai/careers/job/859039054796" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://citi.eightfold.ai/careers/job/859039054796">↳ <strong>CITI</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Market Operations Analyst - Entry Level</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://citi.eightfold.ai/careers/job/859039052783">↳ <strong>CITI</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Markets Operations Analyst - Entry Level</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Belfast<br>Northern Ireland<br>Kingdom</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://citi.eightfold.ai/careers/job/859039054796" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://citi.eightfold.ai/careers/job/859039052783" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -157,11 +157,11 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer (R-20124)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin - Ireland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/dnb/095c459e-4451-46c6-b51b-ca0e4f0c39d0" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">20d</td>
+<td style="white-space:nowrap;">21d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/dnb/d73918ce-0bc9-4a6f-bb0a-668a90bd72dd"><strong>Dun Bradstreet</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.lever.co/dnb/d73918ce-0bc9-4a6f-bb0a-668a90bd72dd">↳ <strong>Dun Bradstreet</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AI Engineer (R-20123)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin - Ireland</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.lever.co/dnb/d73918ce-0bc9-4a6f-bb0a-668a90bd72dd" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
@@ -345,10 +345,10 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8395?c=tetratech"><strong>Tetra Tech</strong></a></td>
-<td title="Graduate Engineer 2027- Civils, Buildings and Infrastructure" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027- Civils, Buildings and...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech"><strong>Tetra Tech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027 - Transport</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8395?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -361,10 +361,10 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech">↳ <strong>Tetra Tech</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027 - Transport</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8395?c=tetratech">↳ <strong>Tetra Tech</strong></a></td>
+<td title="Graduate Engineer 2027- Civils, Buildings and Infrastructure" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer 2027- Civils, Buildings and...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8398?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://tetratech.csod.com/ux/ats/careersite/5/home/requisition/8395?c=tetratech" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1mo</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
@@ -497,6 +497,38 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.takeda.com/job/wicklow/quality-assurance-student/1113/103396619440" title="Takeda Pharmaceutical"><strong>Takeda Pharmaceut...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Quality Assurance Student</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Kilruddery<br>Wicklow<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.takeda.com/job/wicklow/quality-assurance-student/1113/103396619440" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/ie/job/global-data-science-intern-predictive-insights--cork--e3e49f16ee08068cea13ff6a93b46fd56"><strong>Logitech</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Global Data Science Intern - Predictive Insights</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>County Cork</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/ie/job/global-data-science-intern-predictive-insights--cork--e3e49f16ee08068cea13ff6a93b46fd56" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/ie/job/forward-deployed-api-integration-engineer--dublin--edeba882d5af262eb69aee111447d1b6f"><strong>Whippy</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Forward-Deployed API &amp; Integration Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>County Dublin</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/ie/job/forward-deployed-api-integration-engineer--dublin--edeba882d5af262eb69aee111447d1b6f" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">8d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs.bostonscientific.com/job/Clonmel-Graduate-Systems-Engineer-Boston-Scientific-2027-Graduate-Programme%2C-Clonmel/1433893000/"><strong>Boston Scientific</strong></a></td>
+<td title="Graduate Systems Engineer - Boston Scientific 2027 Graduate Programme, Clonmel" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Systems Engineer - Boston Scientific...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Clonmel<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.bostonscientific.com/job/Clonmel-Graduate-Systems-Engineer-Boston-Scientific-2027-Graduate-Programme%2C-Clonmel/1433893000/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/ie/job/junior-security-engineer-on-site-gaming-security--dublin--eeaf1b4b9ca898434e6fc5339cc878d7e"><strong>Larian</strong></a></td>
 <td title="Junior Security Engineer - On-Site Gaming Security" style="word-break:break-word; overflow-wrap:anywhere;">Junior Security Engineer - On-Site Gaming Sec...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>County Dublin</td>
@@ -509,6 +541,30 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Security Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin<br>County Dublin</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/ie/job/junior-security-engineer--dublin--ef65cfdd92e43c4ab7295e62b619ab99a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">19d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446718345493"><strong>Qualcomm</strong></a></td>
+<td title="FY27 Intern - Engineering Internship 2027 - 6 months, Cork" style="word-break:break-word; overflow-wrap:anywhere;">FY27 Intern - Engineering Internship 2027 - 6...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446718345493" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">15d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446718630683"><strong>Qualcomm</strong></a></td>
+<td title="FY27 Intern - Software Engineering Internship 2027 - 6 months, Cork" style="word-break:break-word; overflow-wrap:anywhere;">FY27 Intern - Software Engineering Internship...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446718630683" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://qualcomm.eightfold.ai/careers/job/446721979476"><strong>Qualcomm</strong></a></td>
+<td title="FY27 Intern - CPU Engineering Internship 2027 - 6 months, Cork" style="word-break:break-word; overflow-wrap:anywhere;">FY27 Intern - CPU Engineering Internship 2027...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Cork<br>Ireland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://qualcomm.eightfold.ai/careers/job/446721979476" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">19d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -549,7 +605,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8257892" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -565,7 +621,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer, New Grad</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Dublin</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://stripe.com/jobs/search?gh_jid=8130881" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">role</td>
 </tr>
 <tr>
@@ -722,4 +778,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261124T155856Z-efeb36574697 -->
+<!-- searchtern:generation 20261124T175633Z-8f55a9c809ef -->

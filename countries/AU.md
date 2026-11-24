@@ -1,6 +1,6 @@
 # 🇦🇺 Australia — SearchTern Listings
 
-**111 listings** as of November 24, 2026
+**118 listings** as of November 24, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -33,14 +33,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791"><strong>AGL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Engineer - Mechanical</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Loy Yang Mine</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://surbanajurong.wd3.myworkdayjobs.com/RobertBirdGroup_Careers/job/Adelaide/Graduate-Engineer_JR120012"><strong>Robert Bird Group</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Adelaide</td>
@@ -49,18 +41,26 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Graduate-Engineer-Development-Program---Product-Support-Engineer--Electrical-_01883651-1"><strong>RTX</strong></a></td>
-<td title="Graduate Engineer Development Program - Product Support Engineer (Electrical)" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer Development Program - Produ...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">AU-SA-MAWSON LAKES-111 ~ 1-11 Technology Dr ~ BLDG 111</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Graduate-Engineer-Development-Program---Product-Support-Engineer--Electrical-_01883651-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Camperdown-Campus/Clinical-Trial-Research-Assistant_0158515-2"><strong>USYD</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Clinical Trial Research Assistant</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Camperdown Campus</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://usyd.wd105.myworkdayjobs.com/usyd_external_career_site/job/Camperdown-Campus/Clinical-Trial-Research-Assistant_0158515-2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791"><strong>AGL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Engineer - Mechanical</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Loy Yang Mine</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Graduate-Engineer-Development-Program---Product-Support-Engineer--Electrical-_01883651-1"><strong>RTX</strong></a></td>
+<td title="Graduate Engineer Development Program - Product Support Engineer (Electrical)" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer Development Program - Produ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">AU-SA-MAWSON LAKES-111 ~ 1-11 Technology Dr ~ BLDG 111</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Graduate-Engineer-Development-Program---Product-Support-Engineer--Electrical-_01883651-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">1d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -121,18 +121,18 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Commercial-Property_JR2604340"><strong>Aig Early Careers</strong></a></td>
-<td title="Early Career Underwriting Analyst, Commercial Property" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Commercial...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Commercial-Property_JR2604340" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">12d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Perth/Graduate-Engineer--Electrical_20096362"><strong>Acciona</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer, Electrical</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Perth</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Perth/Graduate-Engineer--Electrical_20096362" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">12d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Commercial-Property_JR2604340"><strong>Aig Early Careers</strong></a></td>
+<td title="Early Career Underwriting Analyst, Commercial Property" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Commercial...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Commercial-Property_JR2604340" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">12d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -233,6 +233,14 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/au/job/software-engineer-intern--australia--ee8409e977348a413ccf5907139567d8c" title="Nippon It And Educational Solution Nites"><strong>Nippon It And Edu...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/au/job/software-engineer-intern--australia--ee8409e977348a413ccf5907139567d8c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">1d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4492312498/"><strong>Demadose</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">UX/UI Designer Interns</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
@@ -245,22 +253,6 @@
 <td title="Security Engineer, AWS Security Incident Response" style="word-break:break-word; overflow-wrap:anywhere;">Security Engineer, AWS Security Incident Resp...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>New South Wales</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/au/job/security-engineer-aws-security-incident-response--sydney--ebf5f7f3cdacb6dc2e23769f097ff00d2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/au/job/software-engineer-intern--australia--ee8409e977348a413ccf5907139567d8c" title="Nippon It And Educational Solution Nites"><strong>Nippon It And Edu...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/au/job/software-engineer-intern--australia--ee8409e977348a413ccf5907139567d8c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002"><strong>Optiver</strong></a></td>
-<td title="Expressions of Interest - Graduate Software Developer 2027" style="word-break:break-word; overflow-wrap:anywhere;">Expressions of Interest - Graduate Software D...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -270,6 +262,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Redmond<br>WA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">3d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002"><strong>Optiver</strong></a></td>
+<td title="Expressions of Interest - Graduate Software Developer 2027" style="word-break:break-word; overflow-wrap:anywhere;">Expressions of Interest - Graduate Software D...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Deep Learning Research Intern - 2027 - Sydney</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4956547101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@
 <td title="IT Help Desk / Technical Support Internship (Vocational Placement)" style="word-break:break-word; overflow-wrap:anywhere;">IT Help Desk / Technical Support Internship (...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4483500923/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">IT Support Engineer (Entry-Level)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>New South Wales<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4491493857/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -309,14 +309,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4492167355/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ats.rippling.com/advanced-navigation/jobs/aaad62c3-84d2-4d6a-ac09-f80fa81190f2"><strong>Advanced Navigation</strong></a></td>
-<td title="Internship for a Software Engineer (Algorithms) - Newcastle based" style="word-break:break-word; overflow-wrap:anywhere;">Internship for a Software Engineer (Algorithm...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Newcastle<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/advanced-navigation/jobs/aaad62c3-84d2-4d6a-ac09-f80fa81190f2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -333,6 +325,14 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4490823645/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://ats.rippling.com/advanced-navigation/jobs/aaad62c3-84d2-4d6a-ac09-f80fa81190f2"><strong>Advanced Navigation</strong></a></td>
+<td title="Internship for a Software Engineer (Algorithms) - Newcastle based" style="word-break:break-word; overflow-wrap:anywhere;">Internship for a Software Engineer (Algorithm...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Newcastle<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/advanced-navigation/jobs/aaad62c3-84d2-4d6a-ac09-f80fa81190f2" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -441,6 +441,14 @@
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/au/job/statistical-programming-intern-data-science-automation--brisbane--ec1135362dfc549412acef46506d06d77"><strong>Bristol Myers Squibb</strong></a></td>
+<td title="Statistical Programming Intern: Data Science &amp; Automation" style="word-break:break-word; overflow-wrap:anywhere;">Statistical Programming Intern: Data Science ...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Brisbane<br>Queensland</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/au/job/statistical-programming-intern-data-science-automation--brisbane--ec1135362dfc549412acef46506d06d77" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.careers-page.com/online-remote-jobs/job/L4R4Y86V"><strong>Remote Career</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Business Analyst</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Perth<br>WA<br>Australia</td>
@@ -481,22 +489,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nswconnect.csod.com/ux/ats/careersite/2/home/requisition/55581?c=nswconnect"><strong>Nsw Government</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">SYDNEY<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nswconnect.csod.com/ux/ats/careersite/2/home/requisition/55581?c=nswconnect" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/96009852" title="Nsw Department Of Customer Service"><strong>Nsw Department Of...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/96009852" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/95877733"><strong>Dental Boutique</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Data Engineer (Graduate)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Box Hill<br>Melbourne VIC</td>
@@ -529,22 +521,6 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Junior-SOC-Analyst_R-00196321-1"><strong>Leidos</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior SOC Analyst</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Canberra<br>Australian Capital Territory<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Junior-SOC-Analyst_R-00196321-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">19d</td>
-<td style="text-align:center; white-space:nowrap;">company</td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/95637160" title="Howden Insurance Brokers"><strong>Howden Insurance ...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/95637160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">22d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/au/job/junior-net-developer-ai-assisted--sydney--eebacf53d8e66689bb866309f75827bd6" title="Finxl It Professional Services"><strong>Finxl It Professi...</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior .NET Developer (AI-Assisted)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>New South Wales</td>
@@ -566,6 +542,38 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>New South Wales</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/au/job/junior-software-developer-on-site-full-stack-impact--sydney--e730fd559af568ece4760de733207bb70" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">29d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://nswconnect.csod.com/ux/ats/careersite/2/home/requisition/55581?c=nswconnect"><strong>Nsw Government</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">SYDNEY<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://nswconnect.csod.com/ux/ats/careersite/2/home/requisition/55581?c=nswconnect" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/96009852" title="Nsw Department Of Customer Service"><strong>Nsw Department Of...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/96009852" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">4d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Junior-SOC-Analyst_R-00196321-1"><strong>Leidos</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior SOC Analyst</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Canberra<br>Australian Capital Territory<br>Australia</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Junior-SOC-Analyst_R-00196321-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">19d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.seek.com.au/job/95637160" title="Howden Insurance Brokers"><strong>Howden Insurance ...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Junior Software Engineer</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/95637160" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">22d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -714,4 +722,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261124T155856Z-efeb36574697 -->
+<!-- searchtern:generation 20261124T175633Z-8f55a9c809ef -->

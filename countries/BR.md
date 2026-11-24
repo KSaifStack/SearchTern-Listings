@@ -1,6 +1,6 @@
 # 🇧🇷 Brazil — SearchTern Listings
 
-**114 listings** as of November 24, 2026
+**117 listings** as of November 24, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -77,7 +77,7 @@
 <td title="Robotics &amp; Autonomous Systems Intern - AHS Operations &amp; Diagnostics" style="word-break:break-word; overflow-wrap:anywhere;">Robotics &amp; Autonomous Systems Intern - AHS Op...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nova Lima<br>BRA</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/cssmerge/jobs/8952896002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@
 <td title="Robotics &amp; Autonomous Systems Intern - AHS Operations &amp; Diagnostics" style="word-break:break-word; overflow-wrap:anywhere;">Robotics &amp; Autonomous Systems Intern - AHS Op...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Nova Lima<br>Brazil</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/pronto/jobs/8952276002" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">3d</td>
+<td style="white-space:nowrap;">4d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Business Operations Analyst, Governance</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote (Brazil)</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/careers-quartile/jobs/ccec7d2c-1ab5-4805-809b-2ef3b5eb8f77" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
+<td style="white-space:nowrap;">6d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Field Application Engineering - Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Campinas<br>São Paulo<br>Brazil</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/toradex/jobs/8044890003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">28d</td>
+<td style="white-space:nowrap;">29d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -241,6 +241,14 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-data-analytics-intern-nexaltis-technologies-llp-remote-0-to-3-years-191126505456" title="Nexaltis Technologies Llp"><strong>Nexaltis Technolo...</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-data-analytics-intern-nexaltis-technologies-llp-remote-0-to-3-years-191126505456" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">2d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-product-analyst-intern-light-giveindia-foundation-remote-0-to-1-years-231126502381"><strong>Give India</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Product Analyst Intern (Light)</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
@@ -265,27 +273,11 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-data-analytics-intern-nexaltis-technologies-llp-remote-0-to-3-years-191126505456" title="Nexaltis Technologies Llp"><strong>Nexaltis Technolo...</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analytics Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-data-analytics-intern-nexaltis-technologies-llp-remote-0-to-3-years-191126505456" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">1d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://torre.ai/post/8W3PXqJw-glixcom-frontend-developer-intern"><strong>Glix</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Frontend Developer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Worldwide</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://torre.ai/post/8W3PXqJw-glixcom-frontend-developer-intern" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://torre.ai/post/mwAeKx4w-sphinxhire-data-analyst-college-intern-4"><strong>Sphinxhire</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - College Intern</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Worldwide</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://torre.ai/post/mwAeKx4w-sphinxhire-data-analyst-college-intern-4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -295,6 +287,14 @@
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/shifttechnology/jobs/7984415003" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://torre.ai/post/mwAeKx4w-sphinxhire-data-analyst-college-intern-4"><strong>Sphinxhire</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Data Analyst - College Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote<br>Worldwide</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://torre.ai/post/mwAeKx4w-sphinxhire-data-analyst-college-intern-4" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
 <td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/br/job/software-development-internship--brazil--e71a1d0af4584d12c8c711ccbecec21b3"><strong>Pastu</strong></a></td>
@@ -310,6 +310,30 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.gradcracker.com/hub/57/siemens/graduate-job/87993/product-designer-intern-12-months-strategic-student-programme-bsc-msc-phd-required" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">7d</td>
+<td style="text-align:center; white-space:nowrap;">company</td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.naukri.com/job-listings-business-analyst-intern-websenor-remote-0-to-3-years-121126501823"><strong>Websenor</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Business Analyst - Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.naukri.com/job-listings-business-analyst-intern-websenor-remote-0-to-3-years-121126501823" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.jobleads.com/br/job/software-developer-ies-latech-gis--belo-horizonte--ed36b6961c734a2abe9324c4281ea6e1a"><strong>About Amazon</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Software Developer, IES LATECH &amp; GIS</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Belo Horizonte<br>Minas Gerais</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/br/job/software-developer-ies-latech-gis--belo-horizonte--ed36b6961c734a2abe9324c4281ea6e1a" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">9d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://jobs-sf.amcor.com/job/Tres-Lagoas-IT-Intern-MG-79613-001/1362370055/"><strong>Amcor</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">IT Intern</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><details><summary><strong>4 locations</strong></summary>Tres Lagoas<br>MG<br>BR<br>79613-001</details></td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs-sf.amcor.com/job/Tres-Lagoas-IT-Intern-MG-79613-001/1362370055/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;">company</td>
 </tr>
 <tr>
@@ -365,7 +389,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Innovation Research Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Remote</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.greenhouse.io/trace3/jobs/8274770" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
+<td style="white-space:nowrap;">26d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -858,4 +882,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261124T155856Z-efeb36574697 -->
+<!-- searchtern:generation 20261124T175633Z-8f55a9c809ef -->
