@@ -1,426 +1,56 @@
 {
-  "generated_at": "2026-11-24T03:14:33Z",
+  "generated_at": "2026-11-24T04:20:02Z",
   "totals": {
-    "sources": 91,
-    "discovered": 221426,
-    "valid": 155534,
-    "new": 428,
-    "seconds": 409.074,
-    "failed": 4,
-    "closed": 386,
-    "dead_links": 9
+    "sources": 45,
+    "discovered": 61061,
+    "valid": 22548,
+    "new": 25,
+    "seconds": 0.0,
+    "failed": 0,
+    "closed": 146,
+    "dead_links": 7
   },
   "run": {
-    "tier": "all",
+    "tier": "light",
     "workers": 12,
     "published": {
-      "listings": 32457,
-      "searchtern": 85741
+      "listings": 32266,
+      "searchtern": 85437
     },
     "manifest": "pages/feed-manifest.json",
-    "generation": "20261124T031554Z-269db1dd3766",
+    "generation": "20261124T042159Z-1e504d0ff2f3",
     "publication_status": "published"
   },
   "sources": [
     {
       "source": "md",
       "rows": 0,
-      "new": 244,
-      "share_of_new_pct": 57.01,
+      "new": 22,
+      "share_of_new_pct": 88.0,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 4010
+      "new_7d": 3813
     },
     {
       "source": "freehire",
-      "rows": 6047,
-      "new": 128,
-      "share_of_new_pct": 29.91,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 4892
-    },
-    {
-      "source": "ecr",
-      "rows": 5533,
-      "new": 30,
-      "share_of_new_pct": 7.01,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 369
-    },
-    {
-      "source": "ats",
       "rows": 0,
-      "new": 19,
-      "share_of_new_pct": 4.44,
+      "new": 2,
+      "share_of_new_pct": 8.0,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 1876
-    },
-    {
-      "source": "breadth",
-      "rows": 0,
-      "new": 6,
-      "share_of_new_pct": 1.4,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 95
+      "new_7d": 4780
     },
     {
       "source": "jobhive",
       "rows": 22548,
       "new": 1,
-      "share_of_new_pct": 0.23,
+      "share_of_new_pct": 4.0,
       "new_per_second": null,
       "seconds": 0.0,
       "status": "ok",
-      "new_7d": 8170
-    },
-    {
-      "source": "jobhive-closure",
-      "rows": 105768,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "freehire-pages",
-      "rows": 8952,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 21.93,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "oracle:WSP",
-      "rows": 2000,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 33.48,
-      "status": "truncated",
-      "new_7d": 0
-    },
-    {
-      "source": "oracle:Stantec",
-      "rows": 1623,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 23.25,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "ats-probe",
-      "rows": 1037,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 138.046,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "priority-probe",
-      "rows": 341,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 10.099,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "adp:Carolina Power",
-      "rows": 318,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 4.847,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "adp:Pennoni",
-      "rows": 234,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 4.272,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "eightfold:Applied Materials",
-      "rows": 216,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 29.795,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "eightfold:Qualcomm",
-      "rows": 130,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 19.874,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "eightfold:CACI",
-      "rows": 110,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 16.061,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Intuitive Machines",
-      "rows": 100,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 2.387,
-      "status": "truncated",
-      "new_7d": 0
-    },
-    {
-      "source": "eightfold:Arcadis",
-      "rows": 88,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 14.733,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Patriot Group International",
-      "rows": 57,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.962,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:North Wind",
-      "rows": 55,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 1.074,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Veterinary United",
-      "rows": 43,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.97,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Community Care Plan",
-      "rows": 39,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.522,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:The Bernard Group",
-      "rows": 36,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.6,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "eightfold:Starbucks",
-      "rows": 28,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 5.4,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "icims:Peraton",
-      "rows": 25,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 16.314,
-      "status": "truncated",
-      "new_7d": 0
-    },
-    {
-      "source": "icims:Novelis",
-      "rows": 25,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 16.566,
-      "status": "truncated",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Avalon",
-      "rows": 24,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.516,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "icims:General Dynamics Mission Systems",
-      "rows": 20,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 12.895,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "icims:Dewberry",
-      "rows": 20,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 13.066,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "icims:Sargent & Lundy",
-      "rows": 20,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 13.958,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Drt Holdings",
-      "rows": 20,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.548,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Pathstone",
-      "rows": 20,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.672,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Steinberg Diagnostic Medical Imaging",
-      "rows": 14,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.136,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Arcadia",
-      "rows": 12,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.091,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Meazure Learning",
-      "rows": 9,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.097,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Curious Plot",
-      "rows": 8,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.093,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "bamboohr:Lunar Outpost",
-      "rows": 7,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 5.32,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Carlos Rosario Public Charter School",
-      "rows": 6,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.088,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "wfn:Canaccord Genuity",
-      "rows": 1,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.084,
-      "status": "ok",
-      "new_7d": 0
+      "new_7d": 8169
     },
     {
       "source": "md:lilguy Live Feed",
@@ -493,7 +123,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:cvrve New Grad",
+      "source": "md:vanshb03 New Grad 2027",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -503,7 +133,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:vanshb03 New Grad 2027",
+      "source": "md:cvrve New Grad",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -623,7 +253,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:SuryaHarikrishnan Hardware",
+      "source": "md:speedyapply SWE New Grad Intl",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -633,7 +263,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:speedyapply SWE New Grad Intl",
+      "source": "md:SuryaHarikrishnan Hardware",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -673,7 +303,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:zapplyjobs New Grad 2027",
+      "source": "md:zapplyjobs Internships 2027",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -683,7 +313,7 @@
       "new_7d": 0
     },
     {
-      "source": "md:zapplyjobs Internships 2027",
+      "source": "md:zapplyjobs New Grad 2027",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -733,16 +363,6 @@
       "new_7d": 0
     },
     {
-      "source": "jobspy (linkedin)",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
       "source": "md:zapplyjobs New Grad SWE 2027",
       "rows": 0,
       "new": 0,
@@ -763,7 +383,7 @@
       "new_7d": 0
     },
     {
-      "source": "breadth:Arbeitnow",
+      "source": "jobspy (linkedin)",
       "rows": 0,
       "new": 0,
       "share_of_new_pct": 0.0,
@@ -833,16 +453,6 @@
       "new_7d": 0
     },
     {
-      "source": "breadth:RemoteOK",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
       "source": "md:summer2026internships",
       "rows": 0,
       "new": 0,
@@ -861,84 +471,14 @@
       "seconds": 0.0,
       "status": "ok",
       "new_7d": 0
-    },
-    {
-      "source": "breadth:Jobicy",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "breadth:Working Nomads",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "breadth:HN who-is-hiring",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "breadth:WeWorkRemotely",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "breadth:Himalayas",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "breadth:Remotive",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": null,
-      "seconds": 0.0,
-      "status": "ok",
-      "new_7d": 0
-    },
-    {
-      "source": "icims:Kimley-Horn",
-      "rows": 0,
-      "new": 0,
-      "share_of_new_pct": 0.0,
-      "new_per_second": 0.0,
-      "seconds": 0.328,
-      "status": "ok",
-      "new_7d": 0
     }
   ],
   "stale": {
-    "checked": 55,
-    "dead": 11,
+    "checked": 12,
+    "dead": 10,
     "days": 14
   },
-  "linkless": 13018,
+  "linkless": 13030,
   "alerts": [
     {
       "kind": "failing",
@@ -963,32 +503,12 @@
     {
       "kind": "quiet",
       "source": "breadth:TheMuse",
-      "detail": "217.2h since last data"
+      "detail": "218.3h since last data"
     },
     {
       "kind": "quiet",
       "source": "priority",
-      "detail": "91.4h since last data"
-    },
-    {
-      "kind": "degraded",
-      "source": "oracle:WSP",
-      "detail": "truncated"
-    },
-    {
-      "kind": "degraded",
-      "source": "wfn:Intuitive Machines",
-      "detail": "truncated"
-    },
-    {
-      "kind": "degraded",
-      "source": "icims:Peraton",
-      "detail": "truncated"
-    },
-    {
-      "kind": "degraded",
-      "source": "icims:Novelis",
-      "detail": "truncated"
+      "detail": "92.5h since last data"
     }
   ],
   "healthy": false
