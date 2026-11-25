@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-25T19:55:47Z",
+ "built_at": "2026-11-25T22:05:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6265,6 +6265,22 @@
      "count": 1,
      "median_salary": 144000,
      "title": "MANAGER, FULL STACK DEVELOPMENT"
+    }
+   ]
+  },
+  "avav": {
+   "fetched_at": "2026-11-25T22:05:51Z",
+   "label": "Avav",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 95000,
+     "title": "ASSOCIATE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 110000,
+     "title": "FINANCIAL ANALYST"
     }
    ]
   },
@@ -26396,6 +26412,11 @@
    "label": "Ibwsjb",
    "titles": []
   },
+  "icapital": {
+   "fetched_at": "2026-11-25T22:05:52Z",
+   "label": "iCapital",
+   "titles": []
+  },
   "ice": {
    "fetched_at": "2026-10-25T10:28:28Z",
    "label": "ice",
@@ -28247,6 +28268,11 @@
      "title": "ASSOCIATE CONSULTANT 1, STRATEGY LIFE SCIENCES"
     }
    ]
+  },
+  "irc": {
+   "fetched_at": "2026-11-25T22:05:53Z",
+   "label": "IRC",
+   "titles": []
   },
   "itp media": {
    "fetched_at": "2026-11-19T20:08:47Z",

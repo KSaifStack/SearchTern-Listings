@@ -1,7 +1,3 @@
-{"ts": 1794708077.0153134, "source": "breadth:Arbeitnow", "discovered": 300, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794708077.0153134, "source": "breadth:RemoteOK", "discovered": 97, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794708077.0153134, "source": "breadth:Jobicy", "discovered": 50, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794708077.0153134, "source": "breadth:HN who-is-hiring", "discovered": 36, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794708077.0153134, "source": "breadth:Working Nomads", "discovered": 34, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794708077.0153134, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794708077.0153134, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4994,7 @@
 {"ts": 1795636601.681864, "source": "md:zapplyjobs Canada 2027", "discovered": 126, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795636601.681864, "source": "md:sndsh404 Summer 2027", "discovered": 124, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795636601.681864, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795644400.6592956, "source": "jobhive", "discovered": 0, "valid": 24146, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1795644400.6592956, "source": "ats", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
+{"ts": 1795644400.6592956, "source": "jobhive-closure", "discovered": 108715, "valid": 108590, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795644400.6592956, "source": "ats-probe", "discovered": 2392, "valid": 309, "new": 0, "seconds": 129.172, "status": "ok"}
