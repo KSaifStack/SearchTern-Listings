@@ -1,33 +1,18 @@
 {
  "additions": [
   {
-   "added": 353,
+   "added": 1021,
    "samples": [],
    "samples_truncated": true,
-   "source": "ecr"
-  },
-  {
-   "added": 172,
-   "samples": [],
-   "samples_truncated": true,
-   "source": "medium"
+   "source": "light"
   }
  ],
  "ats_conflicts": [
   {
    "ats_id": "nan",
    "ats_type": "nan",
-   "count": 20540,
+   "count": 21024,
    "kind": "ats_identity_split"
-  },
-  {
-   "ats_id": "104563",
-   "ats_types": [
-    "cornerstone",
-    "ycombinator"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
   },
   {
    "ats_id": "10596",
@@ -336,22 +321,12 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "15404",
-   "ats_types": [
-    "avature",
-    "icims"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "15406",
    "ats_types": [
-    "avature",
     "cornerstone",
     "icims"
    ],
-   "count": 3,
+   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -978,15 +953,6 @@
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
-   "ats_id": "234",
-   "ats_types": [
-    "bamboohr",
-    "cornerstone"
-   ],
-   "count": 2,
-   "kind": "ats_id_under_multiple_ats_types"
-  },
-  {
    "ats_id": "240",
    "ats_types": [
     "bamboohr",
@@ -1305,10 +1271,9 @@
    "ats_id": "364",
    "ats_types": [
     "bamboohr",
-    "cornerstone",
-    "taleo"
+    "cornerstone"
    ],
-   "count": 3,
+   "count": 2,
    "kind": "ats_id_under_multiple_ats_types"
   },
   {
@@ -1781,85 +1746,82 @@
   }
  ],
  "base": {
-  "identities": 85603,
+  "identities": 85362,
   "path": "pages/searchtern.json",
-  "rows": 85603
+  "rows": 85362
  },
  "dropped_at_write": {
   "by_reason": {
-   "blocked_company": 3,
-   "duplicate_id": 628,
-   "duplicate_url": 267,
-   "empty_company": 16,
-   "inactive": 3979,
-   "no_apply_link": 618,
-   "non_english": 1122
+   "blocked_company": 1910,
+   "duplicate_id": 832,
+   "duplicate_url": 430,
+   "inactive": 10155,
+   "no_apply_link": 11166,
+   "non_english": 1572
   },
   "by_source": {
-   "ats_new": 126,
-   "breadth": 6,
-   "ecr": 2450,
-   "heavy": 1299,
-   "medium": 2486,
-   "priority": 266
+   "echo": 79,
+   "heavy": 1317,
+   "jobspy": 20,
+   "light": 24385,
+   "priority": 264
   },
-  "count": 6633,
+  "count": 26065,
   "reason": "rows readme_generation._build_json_records refuses: no apply link, non-English text, inactive posting date, or a canonical URL already published"
  },
  "duplicates": {
   "by_source": {
-   "ats_new": 446,
-   "breadth": 24,
-   "ecr": 2314,
-   "heavy": 4325,
-   "medium": 2678,
-   "priority": 65
+   "heavy": 4307,
+   "jobspy": 80,
+   "light": 17636,
+   "priority": 65,
+   "skill": 12
   },
-  "count": 9852
+  "count": 22100
  },
  "expired": [
   {
-   "age_hours": -0.03,
-   "rows": 92,
-   "source": "echo",
-   "status": "rejected:empty",
-   "ttl_hours": 168
+   "age_hours": -0.04,
+   "rows": 769,
+   "source": "ats_new",
+   "status": "ok",
+   "ttl_hours": 48
   },
   {
    "age_hours": -0.02,
-   "rows": 75618,
-   "source": "jobhive",
-   "status": "ok",
-   "ttl_hours": 24
-  },
-  {
-   "age_hours": -0.08,
-   "rows": 268,
-   "source": "jobspy",
+   "rows": 26,
+   "source": "breadth",
    "status": "ok",
    "ttl_hours": 72
   },
   {
    "age_hours": -0.02,
-   "rows": 44070,
-   "source": "light",
+   "rows": 5544,
+   "source": "ecr",
    "status": "ok",
-   "ttl_hours": 48
+   "ttl_hours": 72
   },
   {
-   "age_hours": -0.03,
-   "rows": 10,
-   "source": "skill",
+   "age_hours": -0.01,
+   "rows": 75258,
+   "source": "jobhive",
    "status": "ok",
-   "ttl_hours": 168
+   "ttl_hours": 24
+  },
+  {
+   "age_hours": -0.02,
+   "rows": 6047,
+   "source": "medium",
+   "status": "ok",
+   "ttl_hours": 72
   }
  ],
  "explained": {
   "additions": {
-   "attributed": 525,
+   "attributed": 1021,
    "reason": "the source that first supplied the identity key",
-   "total": 392,
-   "unattributed": -133
+   "total": 897,
+   "unattributed": -124
   },
   "removals": {
    "all": [],
@@ -1869,7 +1831,7 @@
    "unexplained": 0
   }
  },
- "generated_at": "2026-11-24T15:51:55.211405+00:00",
+ "generated_at": "2026-11-25T02:32:06.610828+00:00",
  "policy": {
   "keep_runs": 4,
   "precedence": [
@@ -1897,81 +1859,81 @@
  "source_contributions": [
   {
    "added": 0,
-   "age_hours": 0.58,
+   "age_hours": 1.4,
    "class": "direct_ats",
-   "duplicates": 446,
-   "rows": 670,
-   "rows_after_scope": 572,
-   "rows_publishable": 446,
-   "source": "ats_new",
-   "stale": false
-  },
-  {
-   "added": 0,
-   "age_hours": 0.53,
-   "class": "direct_ats",
-   "duplicates": 4325,
+   "duplicates": 4307,
    "rows": 5864,
    "rows_after_scope": 5624,
-   "rows_publishable": 4325,
+   "rows_publishable": 4307,
    "source": "heavy",
-   "stale": false
+   "stale": true
   },
   {
    "added": 0,
-   "age_hours": 0.53,
+   "age_hours": 1.4,
    "class": "priority_ats",
    "duplicates": 65,
-   "rows": 340,
-   "rows_after_scope": 331,
+   "rows": 338,
+   "rows_after_scope": 329,
    "rows_publishable": 65,
    "source": "priority",
    "stale": false
   },
   {
+   "added": 1021,
+   "age_hours": 1.39,
+   "class": "markdown",
+   "duplicates": 17636,
+   "rows": 44231,
+   "rows_after_scope": 43042,
+   "rows_publishable": 18657,
+   "source": "light",
+   "stale": false
+  },
+  {
    "added": 0,
-   "age_hours": 0.6,
+   "age_hours": 1.36,
    "class": "aggregators",
-   "duplicates": 24,
-   "rows": 30,
-   "rows_after_scope": 30,
-   "rows_publishable": 24,
-   "source": "breadth",
+   "duplicates": 80,
+   "rows": 100,
+   "rows_after_scope": 100,
+   "rows_publishable": 80,
+   "source": "jobspy",
    "stale": false
   },
   {
-   "added": 353,
-   "age_hours": 0.62,
-   "class": "aggregators",
-   "duplicates": 2314,
-   "rows": 5507,
-   "rows_after_scope": 5117,
-   "rows_publishable": 2667,
-   "source": "ecr",
-   "stale": false
+   "added": 0,
+   "age_hours": 1.38,
+   "class": "specialty",
+   "duplicates": 0,
+   "rows": 92,
+   "rows_after_scope": 79,
+   "rows_publishable": 0,
+   "source": "echo",
+   "stale": true
   },
   {
-   "added": 172,
-   "age_hours": 0.61,
-   "class": "aggregators",
-   "duplicates": 2678,
-   "rows": 5934,
-   "rows_after_scope": 5336,
-   "rows_publishable": 2850,
-   "source": "medium",
+   "added": 0,
+   "age_hours": 1.38,
+   "class": "specialty",
+   "duplicates": 12,
+   "rows": 12,
+   "rows_after_scope": 12,
+   "rows_publishable": 12,
+   "source": "skill",
    "stale": false
   }
  ],
  "summary": {
-  "added": 392,
-  "ats_conflicts": 196,
-  "dropped_at_write": 6633,
-  "duplicates": 9852,
+  "added": 897,
+  "ats_conflicts": 193,
+  "dropped_at_write": 26065,
+  "duplicates": 22100,
   "expired_snapshots": 5,
-  "production_rows": 85603,
+  "production_rows": 85362,
   "removed": 0,
   "samples_published": false,
-  "shadow_rows": 85995,
+  "shadow_rows": 86259,
   "unexplained_removed": 0
  }
 }
