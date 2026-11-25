@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-24T17:53:54Z",
+ "built_at": "2026-11-25T01:11:15Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -6646,6 +6646,32 @@
    "fetched_at": "2026-11-03T22:44:20Z",
    "label": "backmarket",
    "titles": []
+  },
+  "badger meter": {
+   "fetched_at": "2026-11-25T01:11:14Z",
+   "label": "Badger Meter",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 71240,
+     "title": "BUDGET ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 71075,
+     "title": "MATH TEACHER"
+    },
+    {
+     "count": 1,
+     "median_salary": 83000,
+     "title": "OPERATIONS RESEARCH ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 125000,
+     "title": "SR. ESTIMATOR"
+    }
+   ]
   },
   "bae systems": {
    "fetched_at": "2026-11-12T03:45:45Z",
@@ -36533,6 +36559,11 @@
      "title": "STAFF ENGINEER"
     }
    ]
+  },
+  "niagarawater": {
+   "fetched_at": "2026-11-25T01:11:15Z",
+   "label": "Niagarawater",
+   "titles": []
   },
   "nike": {
    "fetched_at": "2026-11-13T01:41:29Z",
