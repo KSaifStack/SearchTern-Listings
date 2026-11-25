@@ -1,8 +1,3 @@
-{"ts": 1794689288.8855054, "source": "wfn:Carlos Rosario Public Charter School", "discovered": 5, "valid": 5, "new": 0, "seconds": 0.207, "status": "ok"}
-{"ts": 1794689288.8855054, "source": "wfn:Canaccord Genuity", "discovered": 1, "valid": 1, "new": 0, "seconds": 0.08, "status": "ok"}
-{"ts": 1794689288.8855054, "source": "breadth:Arbeitnow", "discovered": 300, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794689288.8855054, "source": "breadth:RemoteOK", "discovered": 97, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794689288.8855054, "source": "breadth:Jobicy", "discovered": 50, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794689288.8855054, "source": "breadth:HN who-is-hiring", "discovered": 36, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794689288.8855054, "source": "breadth:Working Nomads", "discovered": 34, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794689288.8855054, "source": "breadth:WeWorkRemotely", "discovered": 25, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4993,8 @@
 {"ts": 1795599783.1669703, "source": "md:zapplyjobs Canada 2027", "discovered": 122, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795599783.1669703, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795599783.1669703, "source": "jobspy (linkedin)", "discovered": 40, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795608273.6371815, "source": "ats", "discovered": 0, "valid": 0, "new": 276, "seconds": 0.0, "status": "ok"}
+{"ts": 1795608273.6371815, "source": "md", "discovered": 0, "valid": 0, "new": 13, "seconds": 0.0, "status": "ok"}
+{"ts": 1795608273.6371815, "source": "jobhive", "discovered": 0, "valid": 23234, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1795608273.6371815, "source": "jobhive-closure", "discovered": 117785, "valid": 117514, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795608273.6371815, "source": "ats-probe", "discovered": 202294, "valid": 13444, "new": 0, "seconds": 759.29, "status": "ok"}
