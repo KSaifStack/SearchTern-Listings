@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-25T01:11:15Z",
+ "built_at": "2026-11-25T19:55:47Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -10366,6 +10366,11 @@
   "capitaland": {
    "fetched_at": "2026-11-05T10:41:19Z",
    "label": "capitaland",
+   "titles": []
+  },
+  "capitaland investment": {
+   "fetched_at": "2026-11-25T19:55:47Z",
+   "label": "CapitaLand Investment",
    "titles": []
   },
   "captechconsulting": {
