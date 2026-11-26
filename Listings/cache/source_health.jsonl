@@ -1,7 +1,3 @@
-{"ts": 1794779096.9499454, "source": "md:GodlyDonuts keryx Internships", "discovered": 5013, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794779096.9499454, "source": "md:aprameyak Summer 2027", "discovered": 4331, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794779096.9499454, "source": "md:vanshb03 Summer 2027", "discovered": 2938, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794779096.9499454, "source": "md:vanshb03 Summer 2026", "discovered": 2938, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794779096.9499454, "source": "md:SimplifyJobs New Grad", "discovered": 2576, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794779096.9499454, "source": "md:vanshb03 New Grad 2027", "discovered": 2064, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794779096.9499454, "source": "md:cvrve New Grad", "discovered": 2064, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4994,7 @@
 {"ts": 1795729169.863634, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795729169.863634, "source": "breadth:TheMuse", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795729169.863634, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.366, "status": "ok"}
+{"ts": 1795735821.036937, "source": "ats", "discovered": 0, "valid": 0, "new": 14, "seconds": 0.0, "status": "ok"}
+{"ts": 1795735821.036937, "source": "jobhive-closure", "discovered": 116626, "valid": 116363, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795735821.036937, "source": "jobhive", "discovered": 0, "valid": 24848, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795735821.036937, "source": "ats-probe", "discovered": 94033, "valid": 7307, "new": 0, "seconds": 240.936, "status": "ok"}
