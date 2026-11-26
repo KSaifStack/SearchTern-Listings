@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-25T22:05:54Z",
+ "built_at": "2026-11-26T02:46:40Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -28390,6 +28390,62 @@
    "label": "ITW",
    "titles": []
   },
+  "ixl learning": {
+   "fetched_at": "2026-11-26T02:46:39Z",
+   "label": "IXL Learning",
+   "titles": [
+    {
+     "count": 15,
+     "median_salary": 130250,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 175500,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 152000,
+     "title": "MARKETING ANALYTICS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 92000,
+     "title": "ASSOCIATE DIGITAL DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 122000,
+     "title": "ASSOCIATE PRODUCT MANAGER I"
+    },
+    {
+     "count": 1,
+     "median_salary": 210000,
+     "title": "ENGINEERING PROJECT LEAD"
+    },
+    {
+     "count": 1,
+     "median_salary": 139000,
+     "title": "SENIOR GRAPHIC DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 187000,
+     "title": "SENIOR SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 160000,
+     "title": "SENIOR USER INTERFACE DESIGNER"
+    },
+    {
+     "count": 1,
+     "median_salary": 142000,
+     "title": "SOCIAL MEDIA MANAGER"
+    }
+   ]
+  },
   "j m smucker": {
    "fetched_at": "2026-10-25T22:41:21Z",
    "label": "J M Smucker",
@@ -53939,6 +53995,112 @@
    "fetched_at": "2026-10-25T22:41:34Z",
    "label": "VeoliaEnvironnementSA",
    "titles": []
+  },
+  "verkada": {
+   "fetched_at": "2026-11-26T02:46:40Z",
+   "label": "Verkada",
+   "titles": [
+    {
+     "count": 31,
+     "median_salary": 205000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 102000,
+     "title": "TECHNICAL SUPPORT ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 160000,
+     "title": "PEOPLE PARTNER"
+    },
+    {
+     "count": 2,
+     "median_salary": 140000,
+     "title": "PRODUCT DESIGN MECHANICAL ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 172500,
+     "title": "SALES STRATEGY AND OPERATIONS MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SENIOR EMBEDDED ENGINEER - CONNECTIVITY"
+    },
+    {
+     "count": 2,
+     "median_salary": 190000,
+     "title": "SENIOR MANAGER, BUSINESS SYSTEMS SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SOFTWARE ENGINEER, BACKEND"
+    },
+    {
+     "count": 2,
+     "median_salary": 150000,
+     "title": "SOFTWARE ENGINEER, MOBILE"
+    },
+    {
+     "count": 2,
+     "median_salary": 200000,
+     "title": "SOFTWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 168000,
+     "title": "SOLUTIONS ENGINEERING MANAGER"
+    },
+    {
+     "count": 2,
+     "median_salary": 135000,
+     "title": "SUPPLY CHAIN MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 100000,
+     "title": "ANALYST, STRATEGIC FINANCE"
+    },
+    {
+     "count": 1,
+     "median_salary": 122150,
+     "title": "COMMUNICATIONS MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "HARDWARE ENGINEERING MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 180000,
+     "title": "HEAD OF PEOPLE PARTNERS - US SALES"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "HEAD OF TAX &AMP; TREASURY"
+    },
+    {
+     "count": 1,
+     "median_salary": 205000,
+     "title": "LEAD PRODUCT MANAGER"
+    },
+    {
+     "count": 1,
+     "median_salary": 145000,
+     "title": "MANAGER SUPPLY CHAIN"
+    },
+    {
+     "count": 1,
+     "median_salary": 175000,
+     "title": "MANAGER, BUSINESS INTELLIGENCE"
+    }
+   ]
   },
   "versant3": {
    "fetched_at": "2026-11-08T00:01:38Z",
