@@ -1,10 +1,10 @@
 {
  "class": "aggregators",
  "etag": "",
- "fetched_at": "2026-11-25T14:54:26.140663+00:00",
+ "fetched_at": "2026-11-26T00:24:45.952960+00:00",
  "provenance": "fetch",
  "rejections": 0,
- "rows": 5511,
+ "rows": 5491,
  "source": "ecr",
  "status": "ok",
  "ttl_hours": 72
