@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-26T02:46:40Z",
+ "built_at": "2026-11-26T04:45:19Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -26435,6 +26435,11 @@
   "icfcjb": {
    "fetched_at": "2026-10-25T10:28:30Z",
    "label": "Icfcjb",
+   "titles": []
+  },
+  "icfcjb fa ocs oraclecloud com": {
+   "fetched_at": "2026-11-26T04:45:18Z",
+   "label": "icfcjb.fa.ocs.oraclecloud.com",
    "titles": []
   },
   "icfcjb fa ocs oraclecloud com cx": {
