@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-26T04:45:19Z",
+ "built_at": "2026-11-26T21:11:54Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -486,6 +486,82 @@
    "fetched_at": "2026-11-08T15:55:42Z",
    "label": "acuren",
    "titles": []
+  },
+  "addepar": {
+   "fetched_at": "2026-11-26T21:11:53Z",
+   "label": "Addepar",
+   "titles": [
+    {
+     "count": 5,
+     "median_salary": 269654,
+     "title": "MANAGER, SOFTWARE ENGINEERING"
+    },
+    {
+     "count": 4,
+     "median_salary": 171800,
+     "title": "SOFTWARE ENGINEER II"
+    },
+    {
+     "count": 4,
+     "median_salary": 227332,
+     "title": "SR. SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 82763,
+     "title": "DATA SOLUTIONS CONSULTANT"
+    },
+    {
+     "count": 2,
+     "median_salary": 123000,
+     "title": "ASSOCIATE SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 180000,
+     "title": "FORWARD DEPLOYED ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 151525,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 99000,
+     "title": "DATA CLIENT SUPPORT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 216500,
+     "title": "MANAGER, SITE RELIABILITY ENGINEERING, PRODUCTION ENG."
+    },
+    {
+     "count": 1,
+     "median_salary": 132500,
+     "title": "PRODUCT ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 129340,
+     "title": "PRODUCT DESIGNER II"
+    },
+    {
+     "count": 1,
+     "median_salary": 170678,
+     "title": "SR. DATA ANALYST"
+    },
+    {
+     "count": 1,
+     "median_salary": 152000,
+     "title": "SR. SOLUTIONS ARCHITECT"
+    },
+    {
+     "count": 1,
+     "median_salary": 234000,
+     "title": "STAFF SOFTWARE ENGINEER"
+    }
+   ]
   },
   "addepar1": {
    "fetched_at": "2026-11-11T16:01:49Z",
@@ -44226,6 +44302,47 @@
      "count": 14,
      "median_salary": 239194,
      "title": "SENIOR PRODUCT MANAGER"
+    }
+   ]
+  },
+  "sambanova": {
+   "fetched_at": "2026-11-26T21:11:54Z",
+   "label": "SambaNova",
+   "titles": [
+    {
+     "count": 7,
+     "median_salary": 224682,
+     "title": "SENIOR PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 6,
+     "median_salary": 201323,
+     "title": "PRINCIPAL ENGINEER"
+    },
+    {
+     "count": 4,
+     "median_salary": 171372,
+     "title": "SENIOR SOFTWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 159650,
+     "title": "HARDWARE ENGINEER"
+    },
+    {
+     "count": 3,
+     "median_salary": 160000,
+     "title": "SOFTWARE ENGINEER"
+    },
+    {
+     "count": 2,
+     "median_salary": 154672,
+     "title": "SENIOR HARDWARE ENGINEER"
+    },
+    {
+     "count": 1,
+     "median_salary": 254100,
+     "title": "ARCHITECT"
     }
    ]
   },
