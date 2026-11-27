@@ -1,8 +1,3 @@
-{"ts": 1794797244.5109038, "source": "md:sndsh404 Summer 2027", "discovered": 124, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794797244.5109038, "source": "md:zapplyjobs Canada 2027", "discovered": 123, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794797244.5109038, "source": "md:summer2026internships", "discovered": 100, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794797244.5109038, "source": "jobspy (indeed)", "discovered": 86, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794811081.2007205, "source": "freehire", "discovered": 7385, "valid": 5475, "new": 88, "seconds": 0.0, "status": "ok"}
 {"ts": 1794811081.2007205, "source": "ecr", "discovered": 9637, "valid": 5426, "new": 3, "seconds": 0.0, "status": "ok"}
 {"ts": 1794811081.2007205, "source": "breadth", "discovered": 0, "valid": 0, "new": 2, "seconds": 0.0, "status": "ok"}
 {"ts": 1794811081.2007205, "source": "ats", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4993,8 @@
 {"ts": 1795753305.5492969, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795753305.5492969, "source": "breadth:Remotive", "discovered": 16, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795753305.5492969, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.533, "status": "ok"}
+{"ts": 1795771646.6839755, "source": "ats", "discovered": 0, "valid": 0, "new": 13, "seconds": 0.0, "status": "ok"}
+{"ts": 1795771646.6839755, "source": "md", "discovered": 0, "valid": 0, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1795771646.6839755, "source": "jobhive", "discovered": 0, "valid": 24789, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1795771646.6839755, "source": "jobhive-closure", "discovered": 111953, "valid": 111537, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795771646.6839755, "source": "ats-probe", "discovered": 92652, "valid": 5096, "new": 0, "seconds": 843.631, "status": "ok"}
