@@ -1,8 +1,3 @@
-{"ts": 1794854421.9189165, "source": "jobhive", "discovered": 0, "valid": 18788, "new": 2524, "seconds": 0.0, "status": "ok"}
-{"ts": 1794854421.9189165, "source": "freehire", "discovered": 7482, "valid": 5551, "new": 160, "seconds": 0.0, "status": "ok"}
-{"ts": 1794854421.9189165, "source": "ats", "discovered": 0, "valid": 0, "new": 11, "seconds": 0.0, "status": "ok"}
-{"ts": 1794854421.9189165, "source": "ecr", "discovered": 9646, "valid": 5426, "new": 10, "seconds": 0.0, "status": "ok"}
-{"ts": 1794854421.9189165, "source": "breadth", "discovered": 0, "valid": 0, "new": 8, "seconds": 0.0, "status": "ok"}
 {"ts": 1794854421.9189165, "source": "md", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
 {"ts": 1794854421.9189165, "source": "freehire-pages", "discovered": 7500, "valid": 7482, "new": 0, "seconds": 20.676, "status": "ok"}
 {"ts": 1794854421.9189165, "source": "oracle:WSP", "discovered": 2000, "valid": 2000, "new": 0, "seconds": 35.182, "status": "truncated"}
@@ -4998,3 +4993,8 @@
 {"ts": 1795789495.2344055, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795789495.2344055, "source": "breadth:Remotive", "discovered": 17, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795789495.2344055, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.251, "status": "ok"}
+{"ts": 1795808842.7361095, "source": "jobhive", "discovered": 0, "valid": 25287, "new": 554, "seconds": 0.0, "status": "ok"}
+{"ts": 1795808842.7361095, "source": "ats", "discovered": 0, "valid": 0, "new": 5, "seconds": 0.0, "status": "ok"}
+{"ts": 1795808842.7361095, "source": "md", "discovered": 0, "valid": 0, "new": 3, "seconds": 0.0, "status": "ok"}
+{"ts": 1795808842.7361095, "source": "jobhive-closure", "discovered": 115592, "valid": 115592, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795808842.7361095, "source": "ats-probe", "discovered": 63955, "valid": 5159, "new": 0, "seconds": 200.697, "status": "ok"}
