@@ -1,10 +1,10 @@
 {
  "class": "specialty",
  "etag": "",
- "fetched_at": "2026-11-27T13:34:27.808386+00:00",
+ "fetched_at": "2026-11-27T14:22:32.200879+00:00",
  "provenance": "fetch",
  "rejections": 0,
- "rows": 20,
+ "rows": 19,
  "source": "skill",
  "status": "ok",
  "ttl_hours": 168

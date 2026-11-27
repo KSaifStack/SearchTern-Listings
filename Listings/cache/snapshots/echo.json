@@ -1,9 +1,9 @@
 {
  "class": "specialty",
  "etag": "",
- "fetched_at": "2026-11-27T13:34:35.663387+00:00",
+ "fetched_at": "2026-11-27T14:22:40.283744+00:00",
  "provenance": "fetch",
- "rejections": 83,
+ "rejections": 84,
  "rows": 92,
  "source": "echo",
  "status": "rejected:empty",
