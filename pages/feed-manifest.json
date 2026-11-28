@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "run_id": "20261128T044053Z-bcaf4ca39fb5",
-  "generated_at": "2026-11-28T04:40:53.176822+00:00",
+  "run_id": "20261128T075729Z-d6ea6fba1838",
+  "generated_at": "2026-11-28T07:57:29.818653+00:00",
   "status": "degraded",
   "status_reasons": [
     "rejected:echo"
@@ -25,56 +25,56 @@
   "published": {
     "listings": {
       "path": "pages/listings.json",
-      "rows": 31420,
-      "bytes": 103028438,
-      "sha256": "05025384034b7eb1900d8232a1d2f437faaba093cae3bcf9353bae21801767e4",
+      "rows": 31347,
+      "bytes": 102884650,
+      "sha256": "3616e453c7898207bafa49e0a91c7b7517b9c987151ba465ee2dd85a005b5dd9",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
     },
     "searchtern": {
       "path": "pages/searchtern.json",
-      "rows": 86054,
-      "bytes": 327251739,
-      "sha256": "bcaf4ca39fb52fea12468b326adc2c68e791a956be78636e314f37f5592ed4d0",
+      "rows": 85983,
+      "bytes": 327120094,
+      "sha256": "d6ea6fba1838791f4d0c3b848aca63f45973554731d4bf0bf4ed0b23a9a948e3",
       "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
     },
     "readme": {
       "path": "README.md",
       "window_days": 60,
-      "rows": 17802,
+      "rows": 17681,
       "pages": 36,
-      "generation": "20261128T044053Z-bcaf4ca39fb5"
+      "generation": "20261128T075729Z-d6ea6fba1838"
     }
   },
   "required_sources": [
     "jobhive"
   ],
   "last_known_good": {
-    "generated_at": "2026-11-28T03:17:53.784716+00:00",
-    "run_id": "20261128T031753Z-2dcea2c2fa4c",
+    "generated_at": "2026-11-28T04:40:53.176822+00:00",
+    "run_id": "20261128T044053Z-bcaf4ca39fb5",
     "published": {
       "listings": {
         "path": "pages/listings.json",
-        "rows": 31321,
-        "bytes": 102762151,
-        "sha256": "b50968fc35b3a9e158f2a0b72782aae4b34d062883c7f0999dd96ad03fa73d4f",
+        "rows": 31420,
+        "bytes": 103028438,
+        "sha256": "05025384034b7eb1900d8232a1d2f437faaba093cae3bcf9353bae21801767e4",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/listings.json"
       },
       "searchtern": {
         "path": "pages/searchtern.json",
-        "rows": 85931,
-        "bytes": 326852614,
-        "sha256": "2dcea2c2fa4ca2a983e4fe712fade4d52dc4fd6129f712a87add30723618d5a8",
+        "rows": 86054,
+        "bytes": 327251739,
+        "sha256": "bcaf4ca39fb52fea12468b326adc2c68e791a956be78636e314f37f5592ed4d0",
         "url": "https://github.com/KSaifStack/SearchTern-Listings/releases/download/feed-latest/searchtern.json"
       },
       "readme": {
         "path": "README.md",
         "window_days": 60,
-        "rows": 17554,
-        "pages": 35,
-        "generation": "20261128T031753Z-2dcea2c2fa4c"
+        "rows": 17802,
+        "pages": 36,
+        "generation": "20261128T044053Z-bcaf4ca39fb5"
       }
     },
-    "path": "pages/last-known-good/gen-20261128T044053-024749375",
+    "path": "pages/last-known-good/gen-20261128T075729-655930669",
     "manifest": "pages/last-known-good/current.json",
     "available": true
   },
@@ -101,12 +101,12 @@
     "aprameyak Off-Cycle/Co-op": 821,
     "aprameyak Summer 2027": 2563,
     "ats": 3426,
-    "breadth": 35,
+    "breadth": 39,
     "cvrve New Grad": 720,
     "echojobs": 79,
-    "ecr": 1364,
-    "freehire": 1992,
-    "jobhive": 54218,
+    "ecr": 1355,
+    "freehire": 1923,
+    "jobhive": 54221,
     "jobspy": 113,
     "lilguy Live Feed": 5289,
     "negarprh Canada 2027": 1,
@@ -134,7 +134,7 @@
   },
   "inputs": {
     "snapshots": {
-      "generated_at": "2026-11-28T04:38:58.266298+00:00",
+      "generated_at": "2026-11-28T07:55:44.316823+00:00",
       "count": 11,
       "expected": [
         "jobhive",
@@ -176,21 +176,21 @@
     "scheme": "career-family-v1"
   },
   "career_families": {
-    "Software Engineering & Technology": 32964,
-    "Other Professional": 16871,
-    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 9307,
+    "Software Engineering & Technology": 32912,
+    "Other Professional": 16863,
+    "Engineering (Mechanical, Electrical, Civil, Industrial, Aerospace)": 9303,
     "Sales & Customer Success": 6791,
     "Healthcare, Clinical & Public Health": 6454,
-    "Finance, Accounting & Banking": 4501,
-    "Operations & Project Management": 3440,
-    "Design, UX/UI & Creative": 3348,
-    "Supply Chain, Procurement & Logistics": 3052,
-    "Marketing, Communications & PR": 2452,
-    "Business Analysis, Consulting & Administration": 2193,
-    "Scientific Research, Lab & Biotech": 1768,
-    "Legal & Compliance": 1048,
-    "Human Resources & Recruiting": 993,
-    "Education & Teaching": 630,
+    "Finance, Accounting & Banking": 4500,
+    "Operations & Project Management": 3441,
+    "Design, UX/UI & Creative": 3335,
+    "Supply Chain, Procurement & Logistics": 3050,
+    "Marketing, Communications & PR": 2451,
+    "Business Analysis, Consulting & Administration": 2190,
+    "Scientific Research, Lab & Biotech": 1767,
+    "Legal & Compliance": 1049,
+    "Human Resources & Recruiting": 995,
+    "Education & Teaching": 629,
     "Government & Public Service": 246
   }
 }
