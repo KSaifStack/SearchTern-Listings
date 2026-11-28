@@ -1,8 +1,3 @@
-{"ts": 1794951865.7113671, "source": "md:SimplifyJobs Off-Season 2027", "discovered": 5200, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794951865.7113671, "source": "md:GodlyDonuts keryx Internships", "discovered": 5107, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794951865.7113671, "source": "md:aprameyak Summer 2027", "discovered": 4365, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794951865.7113671, "source": "md:vanshb03 Summer 2027", "discovered": 3003, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
-{"ts": 1794951865.7113671, "source": "md:vanshb03 Summer 2026", "discovered": 3003, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794951865.7113671, "source": "md:SimplifyJobs New Grad", "discovered": 2580, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794951865.7113671, "source": "md:vanshb03 New Grad 2027", "discovered": 2078, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1794951865.7113671, "source": "md:cvrve New Grad", "discovered": 2078, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
@@ -4998,3 +4993,8 @@
 {"ts": 1795854587.9682035, "source": "breadth:Remotive", "discovered": 17, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795854587.9682035, "source": "breadth:HN who-is-hiring", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795854587.9682035, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.255, "status": "ok"}
+{"ts": 1795873774.9820604, "source": "jobhive", "discovered": 0, "valid": 24844, "new": 6, "seconds": 0.0, "status": "ok"}
+{"ts": 1795873774.9820604, "source": "md", "discovered": 0, "valid": 0, "new": 5, "seconds": 0.0, "status": "ok"}
+{"ts": 1795873774.9820604, "source": "ats", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
+{"ts": 1795873774.9820604, "source": "jobhive-closure", "discovered": 117422, "valid": 116943, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795873774.9820604, "source": "ats-probe", "discovered": 148713, "valid": 8996, "new": 0, "seconds": 274.8, "status": "ok"}
