@@ -1,6 +1,6 @@
 # 🇦🇺 Australia — SearchTern Listings
 
-**97 listings** as of November 28, 2026
+**95 listings** as of November 28, 2026
 
 [← Back to all listings](https://github.com/KSaifStack/jobscraper/blob/main/README.md)
 
@@ -93,14 +93,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Engineering Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Kings Park<br>NSW<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000163132774" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791"><strong>AGL</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Engineer - Mechanical</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Loy Yang Mine</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -125,6 +117,14 @@
 <td title="Graduate Engineer Development Program - Product Support Engineer (Electrical)" style="word-break:break-word; overflow-wrap:anywhere;">Graduate Engineer Development Program - Produ...</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">AU-SA-MAWSON LAKES-111 ~ 1-11 Technology Dr ~ BLDG 111</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Graduate-Engineer-Development-Program---Product-Support-Engineer--Electrical-_01883651-1" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">5d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791"><strong>AGL</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Entry Level Engineer - Mechanical</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Loy Yang Mine</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Loy-Yang-Mine/Entry-Level-Engineer---Mechanical_R-0023791" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -157,7 +157,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Jr. DevOps Engineer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Braeside<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://ats.rippling.com/dtiq-careers/jobs/02ee99b7-41ff-4902-9366-79e288783c91" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">9d</td>
+<td style="white-space:nowrap;">10d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -185,26 +185,26 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Risk-Engineering-Analyst--Property---Casualty_JR2604323"><strong>Aig Early Careers</strong></a></td>
-<td title="Early Career Risk Engineering Analyst, Property &amp; Casualty" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Risk Engineering Analyst, Proper...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Risk-Engineering-Analyst--Property---Casualty_JR2604323" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Underwriting-Analyst--Business-Package_JR2604322">↳ <strong>Aig Early Careers</strong></a></td>
-<td title="Early Career Underwriting Analyst, Business Package" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Business P...</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Underwriting-Analyst--Business-Package_JR2604322" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">25d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326">↳ <strong>Aig Early Careers</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326"><strong>Aig Early Careers</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Claims Analyst, Casualty</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Claims-Analyst--Casualty_JR2604326" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">25d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325">↳ <strong>Aig Early Careers</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Casualty</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="white-space:nowrap;">25d</td>
+<td style="text-align:center; white-space:nowrap;"></td>
+</tr>
+<tr>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Risk-Engineering-Analyst--Property---Casualty_JR2604323">↳ <strong>Aig Early Careers</strong></a></td>
+<td title="Early Career Risk Engineering Analyst, Property &amp; Casualty" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Risk Engineering Analyst, Proper...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Risk-Engineering-Analyst--Property---Casualty_JR2604323" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">25d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -217,10 +217,10 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325">↳ <strong>Aig Early Careers</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Casualty</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Sydney/Early-Career-Underwriting-Analyst--Casualty_JR2604325" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Underwriting-Analyst--Business-Package_JR2604322">↳ <strong>Aig Early Careers</strong></a></td>
+<td title="Early Career Underwriting Analyst, Business Package" style="word-break:break-word; overflow-wrap:anywhere;">Early Career Underwriting Analyst, Business P...</td>
+<td style="word-break:break-word; overflow-wrap:anywhere;">Melbourne</td>
+<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://aig.wd1.myworkdayjobs.com/early_careers/job/Melbourne/Early-Career-Underwriting-Analyst--Business-Package_JR2604322" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">25d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
@@ -269,7 +269,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Software Engineer Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">N/A</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.jobleads.com/au/job/software-engineer-intern--australia--ee8409e977348a413ccf5907139567d8c" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">4d</td>
+<td style="white-space:nowrap;">5d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -329,11 +329,11 @@
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4490823645/">↳ <strong>Staffline Solutions</strong></a></td>
+<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://www.linkedin.com/jobs/view/4490823645/"><strong>Staffline Solutions</strong></a></td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Data Science Intern</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.linkedin.com/jobs/view/4490823645/" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">8d</td>
+<td style="white-space:nowrap;">9d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -445,7 +445,7 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Junior Developer</td>
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney NSW</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://www.seek.com.au/job/96009852" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">7d</td>
+<td style="white-space:nowrap;">8d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -518,14 +518,6 @@
 <td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>New South Wales<br>Australia</td>
 <td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97287" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
 <td style="white-space:nowrap;">9d</td>
-<td style="text-align:center; white-space:nowrap;"></td>
-</tr>
-<tr>
-<td style="word-break:break-word; overflow-wrap:anywhere;"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4956547101"><strong>Imc Trading</strong></a></td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Deep Learning Research Intern - 2027 - Sydney</td>
-<td style="word-break:break-word; overflow-wrap:anywhere;">Sydney<br>Australia</td>
-<td align="center" style="white-space:nowrap; overflow-wrap:anywhere; width:8%;"><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4956547101" style="display:inline-block; max-width:100%;"><img src="https://i.imgur.com/fbjwDvo.png" width="60" alt="Apply" style="display:block; max-width:100%; height:auto; margin:0 auto;"></a></td>
-<td style="white-space:nowrap;">2d</td>
 <td style="text-align:center; white-space:nowrap;"></td>
 </tr>
 <tr>
@@ -634,4 +626,4 @@
 </tr>
 </tbody>
 </table>
-<!-- searchtern:generation 20261128T002537Z-10d74f0714d9 -->
+<!-- searchtern:generation 20261128T031753Z-2dcea2c2fa4c -->

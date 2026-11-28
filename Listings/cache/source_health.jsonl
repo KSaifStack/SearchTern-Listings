@@ -1,7 +1,3 @@
-{"ts": 1794884472.785362, "source": "breadth", "discovered": 0, "valid": 0, "new": 3, "seconds": 0.0, "status": "ok"}
-{"ts": 1794884472.785362, "source": "md", "discovered": 0, "valid": 0, "new": 1, "seconds": 0.0, "status": "ok"}
-{"ts": 1794884472.785362, "source": "freehire-pages", "discovered": 7600, "valid": 7566, "new": 0, "seconds": 27.463, "status": "ok"}
-{"ts": 1794884472.785362, "source": "oracle:WSP", "discovered": 2000, "valid": 2000, "new": 0, "seconds": 33.924, "status": "truncated"}
 {"ts": 1794884472.785362, "source": "oracle:Stantec", "discovered": 1649, "valid": 1649, "new": 0, "seconds": 22.455, "status": "ok"}
 {"ts": 1794884472.785362, "source": "adp:Carolina Power", "discovered": 333, "valid": 333, "new": 0, "seconds": 6.708, "status": "ok"}
 {"ts": 1794884472.785362, "source": "adp:Pennoni", "discovered": 234, "valid": 234, "new": 0, "seconds": 5.508, "status": "ok"}
@@ -4998,3 +4994,7 @@
 {"ts": 1795825420.1757607, "source": "breadth:Himalayas", "discovered": 20, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795825420.1757607, "source": "breadth:Remotive", "discovered": 17, "valid": 0, "new": 0, "seconds": 0.0, "status": "ok"}
 {"ts": 1795825420.1757607, "source": "icims:Kimley-Horn", "discovered": 0, "valid": 0, "new": 0, "seconds": 0.502, "status": "ok"}
+{"ts": 1795835778.8151047, "source": "ats", "discovered": 0, "valid": 0, "new": 4, "seconds": 0.0, "status": "ok"}
+{"ts": 1795835778.8151047, "source": "jobhive-closure", "discovered": 111631, "valid": 111359, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795835778.8151047, "source": "jobhive", "discovered": 0, "valid": 24844, "new": 0, "seconds": 0.0, "status": "ok"}
+{"ts": 1795835778.8151047, "source": "ats-probe", "discovered": 38398, "valid": 3306, "new": 0, "seconds": 845.759, "status": "ok"}

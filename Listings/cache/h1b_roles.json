@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-26T21:11:54Z",
+ "built_at": "2026-11-28T03:15:51Z",
  "companies": {
   "1password": {
    "fetched_at": "2026-10-24T20:11:00Z",
@@ -35266,6 +35266,17 @@
    "fetched_at": "2026-10-29T15:20:04Z",
    "label": "MSD",
    "titles": []
+  },
+  "mthree": {
+   "fetched_at": "2026-11-28T03:15:51Z",
+   "label": "mthree",
+   "titles": [
+    {
+     "count": 1,
+     "median_salary": 90256,
+     "title": "SENIOR BUSINESS SYSTEMS ANALYST"
+    }
+   ]
   },
   "mtm": {
    "fetched_at": "2026-11-14T13:14:04Z",
